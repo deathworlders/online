@@ -2,19 +2,4 @@ baseURL = "http://deathworlders.online/"
 languageCode = "en-gb"
 title = "The Deathworlders Online"
 
-pygmentsCodeFences = true
-
-disqusShortname = "" #Disqus shortname
-googleAnalytics = "" #Google Analytics ID
-
-[author]
-    name = "Philip Johnson" #Author name
-    github = ""     #Github username
-    gitlab = ""     #Gitlab username
-    linkedin = ""   #LinkedIn username
-    facebook = ""   #Facebook username
-    twitter = ""    #Twitter username
-    instagram = ""  #Instagram username
-
-[params]
-    tagline = "the tagline for this website"
+theme = "ananke"
