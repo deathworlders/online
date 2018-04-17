@@ -144,7 +144,7 @@ By now on TV, the crowd were roaring at full volume: "KICK THEIR ASS! KICK THEIR
 
 Alpha broadcast: <Shock; dismay; terror; disbelief; shame>
 
-Then one of the Prey hurtled towards it, at speeds that simply defied understanding. 
+Then one of the Prey hurtled towards it, at speeds that simply defied understanding.
 
 The last thing it ever broadcast was: <PAIN!>
 
