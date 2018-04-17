@@ -1,5 +1,6 @@
 ---
 title: "The Deathworlders"
+date: 2015-06-20
 ---
 
 For centuries, the galactic bureaucracy of the Interspecies Dominion considered it impossible for the planets classified as "deathworlds" to produce intelligent civilizations. The daily challenges of simply surviving on those disaster-wracked, plague-ridden, predator-haunted hellholes would surely favor base animals driven by killer instinct rather than thinking sophonts, and so they were ignored by Dominion surveyors and science teams.
