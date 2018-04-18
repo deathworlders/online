@@ -1,6 +1,8 @@
 ---
 title: "Chapter 44: Samsara"
 date: 2018-03-30
+aliases:
+  - /book/deathworlders/chapter-44-samsara
 ---
 
 **Date Point: 15y5m4d AV**    

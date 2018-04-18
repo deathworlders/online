@@ -1,6 +1,8 @@
 ---
 title: "Chapter 29: Forges"
 date: 2016-06-30
+aliases:
+  - /book/deathworlders/chapter-29-forges
 ---
 
 **Date Point 10y4m3w3d AV**    

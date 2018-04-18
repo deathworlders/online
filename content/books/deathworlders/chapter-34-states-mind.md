@@ -1,6 +1,8 @@
 ---
 title: "Chapter 34: States of Mind"
 date: 2016-12-30
+aliases:
+  - /book/deathworlders/chapter-34-states-mind
 ---
 
 **Date Point: October 11y10m3w AV**    

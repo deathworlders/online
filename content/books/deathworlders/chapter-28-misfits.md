@@ -1,6 +1,8 @@
 ---
 title: "Chapter 28: Misfits"
 date: 2016-05-30
+aliases:
+  - /book/deathworlders/chapter-28-misfits
 ---
 
 **Date Point 10y4m2w2d AV**    

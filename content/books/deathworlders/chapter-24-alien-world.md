@@ -1,6 +1,8 @@
 ---
 title: "Chapter 24: An Alien World"
 date: 2016-01-31
+aliases:
+  - /book/deathworlders/chapter-24-alien-world
 ---
 
 **Date Point: 10y3m3w AV**    

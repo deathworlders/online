@@ -1,6 +1,8 @@
 ---
 title: "Chapter 38: Paroxysm"
 date: 2017-05-27
+aliases:
+  - /book/deathworlders/chapter-38-paroxysm
 ---
 
 **Date Point: 13y 1m AV**    

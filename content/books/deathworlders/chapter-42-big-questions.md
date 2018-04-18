@@ -1,6 +1,8 @@
 ---
 title: "Chapter 42: Big Questions"
 date: 2018-01-31
+aliases:
+  - /book/deathworlders/chapter-42-big-questions
 ---
 
 **Date Point: 15y4m2w AV**    

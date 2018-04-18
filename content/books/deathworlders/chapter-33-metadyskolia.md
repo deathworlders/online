@@ -1,6 +1,8 @@
 ---
 title: "Chapter 33: Metadyskolia"
 date: 2016-10-30
+aliases:
+  - /book/deathworlders/chapter-33-metadyskolia
 ---
 
 **Date Point: October, 10y10m2w3d AV**     

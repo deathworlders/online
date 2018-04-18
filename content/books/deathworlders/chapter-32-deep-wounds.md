@@ -1,6 +1,8 @@
 ---
 title: "Chapter 32: Deep Wounds"
 date: 2016-09-29
+aliases:
+  - /book/deathworlders/chapter-32-deep-wounds
 ---
 
 **Date Point 10y9m AV**    

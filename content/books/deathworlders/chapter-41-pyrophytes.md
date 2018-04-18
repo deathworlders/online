@@ -1,6 +1,8 @@
 ---
 title: "Chapter 41: Pyrophytes"
 date: 2017-12-31
+aliases:
+  - /book/deathworlders/chapter-41-pyrophytes
 ---
 
 **Date Point: 15y4m2w AV**

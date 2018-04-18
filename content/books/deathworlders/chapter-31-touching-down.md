@@ -1,6 +1,8 @@
 ---
 title: "Chapter 31: Touching Down"
 date: 2016-08-31
+aliases:
+  - /book/deathworlders/chapter-31-touching-down
 ---
 
 **Cabal Communications Relay ZR343-9847X-AA4D9-BBB1B**

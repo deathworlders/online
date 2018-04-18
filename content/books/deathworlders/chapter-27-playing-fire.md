@@ -1,6 +1,8 @@
 ---
 title: "Chapter 27: Playing with Fire"
 date: 2016-04-22
+aliases:
+  - /book/deathworlders/chapter-27-playing-fire
 ---
 
 **Date Point 10y4m1w3d AV**    

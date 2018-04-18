@@ -1,6 +1,8 @@
 ---
-title: "Chapter 35: Consequences"
+title: "Chapter 35: Event Horizons"
 date: 2017-02-11
+aliases:
+  - /book/deathworlders/chapter-35-event-horizons
 ---
 
 **Date Point: 12y3m AV**    

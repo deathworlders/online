@@ -1,6 +1,8 @@
 ---
 title: "Chapter 39: The Nirvana Cage"
 date: 2017-06-30
+aliases:
+  - /book/deathworlders/chapter-39-nirvana-cage
 ---
 
 **Date Point: 13y4m AV**    

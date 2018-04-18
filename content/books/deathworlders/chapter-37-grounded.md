@@ -1,6 +1,8 @@
 ---
 title: "Chapter 37: Grounded"
 date: 2017-04-29
+aliases:
+  - /book/deathworlders/chapter-37-grounded
 ---
 
 **Date Point: 12y10m2d AV**    

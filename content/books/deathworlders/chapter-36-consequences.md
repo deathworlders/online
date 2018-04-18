@@ -1,6 +1,8 @@
 ---
 title: "Chapter 36: Consequences"
 date: 2017-03-30
+aliases:
+  - /book/deathworlders/chapter-36-consequences
 ---
 
 **Date Point 12y6m2w AV**    

@@ -1,6 +1,8 @@
 ---
 title: "Chapter 25: Where We Stand"
 date: 2016-02-26
+aliases:
+  - /book/deathworlders/chapter-25-where-we-stand
 ---
 
 ___
