@@ -2,6 +2,7 @@
 title: "Chapter 43: Scars Both Old and New"
 date: 2015-06-20
 ---
+
 **Date Point: 15y5m1d AV**
 **Folctha, Cimbrean, The Far Reaches**
 

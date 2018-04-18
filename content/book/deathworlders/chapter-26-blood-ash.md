@@ -2,6 +2,7 @@
 title: "Chapter 26: Blood and Ash"
 date: 2016-03-31
 ---
+
 **Date Point 10y4m1w4d AV**    
 **US Embassy, Cairo, Egypt, Earth.**
 

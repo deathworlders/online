@@ -3,6 +3,7 @@ title: "Chapter 0: The Kevin Jenkins Experience Part 3"
 date: 2014-09-08
 weight: 3
 ---
+
 In hindsight, I really should have expected that Jenkins would have attracted a journalist's attention.
 
 Within hours, our conversation was the big talking point on a major interstellar newsfeed complete with an alarmist headline. Clips from it were discussed on political discussion broadcasts, most of them chosen to show the worst possible take on what Jenkins had been saying.

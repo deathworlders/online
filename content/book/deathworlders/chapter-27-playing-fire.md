@@ -2,6 +2,7 @@
 title: "Chapter 27: Playing with Fire"
 date: 2016-04-22
 ---
+
 **Date Point 10y4m1w3d AV**    
 **HMS** ***Caledonia,*** **Perfection System, The Core Worlds.**
 

@@ -2,6 +2,7 @@
 title: "Chapter 12: Only Human"
 date: 2014-11-26
 ---
+
 **Three years and seven months AV**    
 **Alliance Embassy Station, Sol**
 

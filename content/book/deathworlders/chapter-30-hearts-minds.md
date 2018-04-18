@@ -2,6 +2,7 @@
 title: "Chapter 30: Hearts and Minds"
 date: 2016-07-30
 ---
+
 **Date Point 10y7m4d AV**    
 **Uncharted Class 12 deathworld, Near 3Kpc Arm**
 

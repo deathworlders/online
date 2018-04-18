@@ -2,6 +2,7 @@
 title: "Chapter 28: Misfits"
 date: 2016-05-30
 ---
+
 **Date Point 10y4m2w2d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Folctha, Cimbrean, The Far Reaches.**
 

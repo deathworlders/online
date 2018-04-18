@@ -2,6 +2,7 @@
 title: "Chapter 25: Where We Stand"
 date: 2016-02-26
 ---
+
 ___
 ___
 

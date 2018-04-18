@@ -1,6 +1,6 @@
 ---
 title: "Chapter 22.5: Interlude/Outlets"
-date: 2015-09-17
+date: 2015-09-25
 ---
 
 **Date point: 10y 5d AV**

@@ -2,6 +2,7 @@
 title: "Chapter 44: Samsara"
 date: 2018-04-30
 ---
+
 **Date Point: 15y5m4d AV**    
 **High Mountain Fortress, Gao**
 
