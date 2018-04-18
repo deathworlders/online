@@ -1,5 +1,5 @@
 ---
-title: "Chapter 23: Back Down to Earth"
+title: "Chapter 24: An Alien World"
 date: 2016-01-31
 ---
 
