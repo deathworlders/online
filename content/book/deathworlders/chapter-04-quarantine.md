@@ -162,7 +162,7 @@ Terri shrugged. “You’re the man with the money.” She said, internally noti
 “Very good. I would prefer if you could fly back down, Miss Boone. Time may not be of the essence, but the sooner you are here, the better we can maintain our momentum.”
 
 
-“I’ll... see you ASAP then.” Terri said.
+“I’ll...see you ASAP then.” Terri said.
 
 
 “*Bon voyage*, Miss Boone.”

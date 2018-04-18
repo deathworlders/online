@@ -116,7 +116,7 @@ Kevin accepted it with a blink. The gift was a palm-sized rock the rough shape a
 
 “Yup. Reckon that little rock’s worth a couple’a million dollars if you were to sell it…” Allison grinned.
 
-"Holy crap, guys... You call that *'not much'*?"
+"Holy crap, guys...You call that *'not much'*?"
 
 “It’s literally a rock I picked up off the ground,” Julian said with a self-effacing smile.
 
@@ -684,11 +684,11 @@ Gabe turned painfully and listened.
 
 “And you’re back there.”
 
-“...Yeah...” she nodded and stared down at her fingers. “And I blame myself. Stupid little girl wanted to save the fucking world, and I got two good guys killed. And I thought... I don’t know what I thought. But after this shit with the email as well, I guess… I guess, like, I just feel useless and, and *selfish*! ‘Cause even when I’m not getting people killed I’m taking up other people’s valuable time, and for what?! So I can feel better about myself? Is that who I am? Just a spoiled bitch who gets in everyone’s way and hurts them? I… If that’s who I am, I don’t think I can live with myself.”
+“...Yeah...” she nodded and stared down at her fingers. “And I blame myself. Stupid little girl wanted to save the fucking world, and I got two good guys killed. And I thought...I don’t know what I thought. But after this shit with the email as well, I guess… I guess, like, I just feel useless and, and *selfish*! ‘Cause even when I’m not getting people killed I’m taking up other people’s valuable time, and for what?! So I can feel better about myself? Is that who I am? Just a spoiled bitch who gets in everyone’s way and hurts them? I… If that’s who I am, I don’t think I can live with myself.”
 
 Gabe put his hand on her back. “Ava…”
 
-“... I don’t know what to do.” She finally turned to give him the most profound look of misery Gabe had ever seen. "What do I *do*, Dad?”
+“...I don’t know what to do.” She finally turned to give him the most profound look of misery Gabe had ever seen. "What do I *do*, Dad?”
 
 Gabe kissed her forehead. “There are four types of people in the world who want to help you deal with your problems,” he told her,rubbing her arms. “Parents, friends, priests and therapists. Parents and friends you’ve got… What about the other two?”
 
@@ -698,7 +698,7 @@ Gabe kissed her forehead. “There are four types of people in the world who wan
 
 “And they’d see me? The SOR kind of… hates me.”
 
-“Trust me. Let me sort that out. In the meantime... What about church?”
+“Trust me. Let me sort that out. In the meantime...What about church?”
 
 “…Uh...I haven’t been to church in…” she paused, plainly drawing a blank. “...It’s been too long.”
 
@@ -857,7 +857,7 @@ Ava turned and studied him. “...I’m sorry, have we-? Oh! Uh… Gohan? Goten?
 
 “I’m sorry, I-”
 
-“Is okay. Been years for both of us... Hot chocolate?”
+“Is okay. Been years for both of us...Hot chocolate?”
 
 “Uh…”
 
@@ -889,7 +889,7 @@ It was lukewarm at best, and she instinctively pulled a face.
 
 Gyotin made a chirruping noise that might have been something like a short laugh, and took it off her to run it through the microwave.
 
-“I’m sorry…” she said. “I didn’t mean to-... I just…”
+“I’m sorry…” she said. “I didn’t mean to-...I just…”
 
 “No sorry,” he said. “You sorry for being burden? No burden.” He handed her the freshly reheated chocolate and sat down when she took it. “Question is, why come here? What do you want, what do you need?”
 
@@ -1114,7 +1114,7 @@ For her part Myun grumbled something in a strangely high-pitched tone and gave A
 
 “Yet?” Myun asked, looking suddenly eager. She leaned over and snuffled Julian with her impressive nose. “You smell of each other… have you been mating?”
 
-It was Julian’s turn to feel a little overwhelmed. “I, ah... uh, sorta. But-”
+It was Julian’s turn to feel a little overwhelmed. “I, ah...uh, sorta. But-”
 
 “I *knew* it!” several heads turned as Myun sat up and chittered triumphantly.
 
@@ -1925,7 +1925,7 @@ Ava straightened her hair and tugged on the pink sports jacket that was part of 
 
 Adam looked to Marty, got an almost imperceptible nod, and gave an amplified nod of his own. “Okay! Get yourself a steak sandwich off Firth though, ‘kay? He does the *best* steak sandwiches.”
 
-“I’ll... do that, sure.”
+“I’ll...do that, sure.”
 
 “Come on, Zangief,” Marty said, and led him away with an eye-roll and a smack on the arm.
 
@@ -1950,7 +1950,7 @@ ___
 
 Xiù descended into a fit of the giggles that just wouldn’t go away, especially when Julian and Allison exchanged a bemused look and he shrugged, got up, stretched and vanished into the shower for his morning rinse.
 
-Eventually, the laughter died down enough for her to apologize. “Sorry, sorry... In my dream, you were very funny.”
+Eventually, the laughter died down enough for her to apologize. “Sorry, sorry...In my dream, you were very funny.”
 
 Allison snorted and shook her head. “I was, huh?”
 
@@ -2135,7 +2135,7 @@ He stank, and was filthy with dried mud, but he was *back*.
 
 They both ignored the amused trills from the villagers as he ran his hand through her hair crest and sighed happily. “By the gods, I missed you…”
 
-“What happened?!” she asked. “It was only a hunt, you’ve been gone for... what’s *this?*”
+“What happened?!” she asked. “It was only a hunt, you’ve been gone for...what’s *this?*”
 
 She had seen the… object on their litter. It didn’t quite look real, somehow: its edges were too straight and clean and its surface was as flat as still water. It was made of the same strange material as the sharp death-bird wing that Sky-Thinker now used as a knife, apart from a tangle of four strange dark flexible tubes like thick black guts that sprouted from one end.
 
@@ -2562,7 +2562,7 @@ It was a strangely calm question to ask of a hunter Broodship, and Caruthers had
 
 “Smart. They must know by now that they can’t catch our ships so they’ve chosen the easier prey… Send a couple of Firebirds over there to kill the bastards, would you?”
 
-“Yes sir... They’ve already launched their raiding shuttles.”
+“Yes sir...They’ve already launched their raiding shuttles.”
 
 “Hmm. Is there any hope of intercepting all of them?”
 

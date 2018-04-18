@@ -356,7 +356,7 @@ ___
 
 ***Garuuvin***
 
-The wound would turn into a good scar, at least. A proper three-claw gouge down one side of his muzzle, and the fur definitely wouldn’t grow back where it was deepest. A male could usually expect plenty of female attention with a scar like that... and for the first time in too many years, Garuuvin was beginning to feel the flicker of hope that he might just have a chance of even laying eyes on a female again.
+The wound would turn into a good scar, at least. A proper three-claw gouge down one side of his muzzle, and the fur definitely wouldn’t grow back where it was deepest. A male could usually expect plenty of female attention with a scar like that...and for the first time in too many years, Garuuvin was beginning to feel the flicker of hope that he might just have a chance of even laying eyes on a female again.
 
 If the Whitecrests really could make his history vanish like they claimed then there was even hope for mating contracts in his future. His crew didn’t like having them aboard or the fact that there were no profits worth mentioning to be made in the Irujzen Reef, but the crew could go castrate themselves for all Garuuvin cared. He’d stood up for himself like a male *should,* and that Whitecrest had just flowed like a breeze around his clumsy swipe and delivered a raking blow to his face that had left Garuuving bleeding, dizzy and *more* than happy to work with them.
 
@@ -2125,7 +2125,7 @@ The Humans had watched him for a second, then shrugged and carried on bouncing i
 
 “Nuh-uh. The *Trump Card.”*
 
-“No, wait... The *Cup of Covfefe.”*
+“No, wait...The *Cup of Covfefe.”*
 
 “Hah! No, the *Tiny Sailor Hands.”*
 

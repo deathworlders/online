@@ -708,7 +708,7 @@ Clara smiled at the compliment. “Thank you! I’ll pass that along to the team
 
 “Hell yeah we can!” Julian nodded, brightening considerably. “The more people we talk to about them the better.”
 
-“I was thinking...I mean they were really lucky you found them at all. You found, what, two temperate planets out of... how many did you visit?” Lucy asked.
+“I was thinking...I mean they were really lucky you found them at all. You found, what, two temperate planets out of...how many did you visit?” Lucy asked.
 
 “Seven, total. And yeah: a lot of false positives,” Xiù agreed. “In the end we had to download a copy of the galactic archives to narrow the search.”
 
@@ -881,7 +881,7 @@ He raised a big, bushy eyebrow. “What, every day?”
 
 Marty had to admit he had a point and she wasn’t helping matters by getting frustrated with him. After all, she was frustrated *for* him.
 
-“Okay... fine.” She turned the huge sigh she used to clear her head into a yawn and picked up the tablet with which they were browsing vacation options. “So what do we want to do?”
+“Okay...fine.” She turned the huge sigh she used to clear her head into a yawn and picked up the tablet with which they were browsing vacation options. “So what do we want to do?”
 
 The yawn wasn’t entirely forced, either---It was getting late in the day and they were expecting Baseball to drop by and help with the planning, but as usual, Adam couldn’t wait.
 
@@ -1646,7 +1646,7 @@ Right on schedule, her anger kicked in. “And the *worst* part is,” she began
 
 Xiù inclined her head. “Second-guess how?”
 
-“Ugh, you know. Just, like... if my parents had done what Taylor’s did and if I’d actually been there for him, or if maybe I’d ever tried to get back in touch, then maybe… but then I think about you two.”
+“Ugh, you know. Just, like...if my parents had done what Taylor’s did and if I’d actually been there for him, or if maybe I’d ever tried to get back in touch, then maybe… but then I think about you two.”
 
 She sighed. “...You know? I’d never have met you if I hadn’t run away to Boston.”
 
@@ -1821,7 +1821,7 @@ He paused, thought about what he’d just said, and then sighed and shook his he
 
 “It’s…” Allison balked at saying *’okay’* on the grounds that it patently wasn’t. The only place on Earth where she’d felt comfortable and at peace was a pile of ash under a deeper pile of snow at this point. That didn’t leave a lot of room for *’okay.’*
 
-“...You didn’t do it,” she said instead, then got the hell away from that subject for the moment. “Uh... Guess you recognize Xiù and Julian.”
+“...You didn’t do it,” she said instead, then got the hell away from that subject for the moment. “Uh...Guess you recognize Xiù and Julian.”
 
 “Yeah!” Taylor grabbed the opportunity to be a friendly host, and met them both with a friendly handshake and more than a hint of relief. “It’s a pleasure.”
 
@@ -1887,7 +1887,7 @@ ___
 
 Sometimes, being the biggest dude ever had its upsides.
 
-It didn’t always seem that way. Sure, being basically the best physical specimen humanity had ever produced in *literally* every category worth measuring was a huge ego boost. Adam would have been lying to himself if he’d pretended at modesty there... But it all came with a price.
+It didn’t always seem that way. Sure, being basically the best physical specimen humanity had ever produced in *literally* every category worth measuring was a huge ego boost. Adam would have been lying to himself if he’d pretended at modesty there...But it all came with a price.
 
 Prices like travel, as Rebar and Starfall had discovered when they tried to fly home two years prior only to learn that they were already far too heavy for safety’s sake. And while both men were easily among the strongest and most athletic people *ever,* and out-massed any power athlete competing, they just weren’t in the same league as the Beef Brothers.
 
@@ -2232,7 +2232,7 @@ There it was. Sam wanted to have The Talk that Adam knew was eventually going to
 
 “Missed opportunities?”
 
-“More like... I’d be, uh, some kind of normal meathead, I guess. Not ‘Left Beef’ and all that.”
+“More like...I’d be, uh, some kind of normal meathead, I guess. Not ‘Left Beef’ and all that.”
 
 “Guys like you tend to excel,” Sam nodded. “You sure you wouldn’t have if they didn’t help?”
 
@@ -2373,7 +2373,7 @@ Gabe’s machine was set to at best a fast walking pace and as always he was in 
 
 “Churnalism?”
 
-“Yeah, you know. Churning out *’stories’* by trawling social media for some interesting video or a news piece they haven’t covered yet, running up their own spin on it in like a hundred words and then they slap on a clickbait title and... boom. A million clicks and a thousand dollars in ad revenue, thank you very much.” She took a swig from her water battle. *”God* I’m glad I worked with Simon.”
+“Yeah, you know. Churning out *’stories’* by trawling social media for some interesting video or a news piece they haven’t covered yet, running up their own spin on it in like a hundred words and then they slap on a clickbait title and...boom. A million clicks and a thousand dollars in ad revenue, thank you very much.” She took a swig from her water battle. *”God* I’m glad I worked with Simon.”
 
 “How is he?” Gabriel asked. He knew that the two kept in touch professionally and also as something verging on being friends, despite the lingering mutual hatred between Ava and Simon Harvey’s nephew Sean.
 
@@ -2764,7 +2764,7 @@ Vakno rolled over and tried to stand, gaining a new appreciation for the word *�
 
 “We...escaped, then,” Vakno managed.
 
-“Close run thing. Krzzvk got the recall jumper charged just in time... That ship woulda ripped us in two on the fourth pass.”
+“Close run thing. Krzzvk got the recall jumper charged just in time...That ship woulda ripped us in two on the fourth pass.”
 
 Thinking was abnormally difficult. Thoughts seemed to bump slowly around inside Vakno’s skull rather than flowing neatly together like a thousand silver tributaries, but she noticed that there was an alarmingly large hole torn in the hull where *something* had ripped through the flight deck, through one of the crew and out the other side. An emergency pressure shield shimmered over the tear.
 

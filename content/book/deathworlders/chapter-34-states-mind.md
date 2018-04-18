@@ -1271,7 +1271,7 @@ She checked the exercise schedule Xiù had prepared for them, then folded the co
 
 “I don’t think so?”
 
-“They’re fuckin’... The vines are super-stretchy, like bungee cord, and they pump sap into them to extend towards a nearby warm thing… like, say, a sleeping Julian that picked the wrong place to bed down for the night. And they’re covered in these backwards-facing hook spines like a bramble, so they tangle something up, haul it back to the base, it dies of thirst and the rotting meat fertilizes the soil.”
+“They’re fuckin’...The vines are super-stretchy, like bungee cord, and they pump sap into them to extend towards a nearby warm thing… like, say, a sleeping Julian that picked the wrong place to bed down for the night. And they’re covered in these backwards-facing hook spines like a bramble, so they tangle something up, haul it back to the base, it dies of thirst and the rotting meat fertilizes the soil.”
 
 “Ew.”
 
@@ -1392,7 +1392,7 @@ Yan snarled and took out his frustration on the hand-axe by flinging it viciousl
 
 “I know… I know.” He grunted. He extended a hand and helped the younger man to his feet. “First time?”
 
-“Yes... Tarek. Tarek Bark-Breaker.”
+“Yes...Tarek. Tarek Bark-Breaker.”
 
 “Yan Given-Man.”
 
@@ -1482,13 +1482,13 @@ ___
 
 “Where in the *hell* did you get this?”
 
-Gabriel Arés shrugged painfully, and he seemed to need a kind  of mental run-up to launch into speech. The quiet precision was gone from his voice, replaced with a halting quality almost like he was drunk and dazed.  “I, uh, don’t know… uh. My partner got home, sh-she said, uh, said it was in our mailbox, and... as soon as I, uh, figured out what it is, uh…”
+Gabriel Arés shrugged painfully, and he seemed to need a kind  of mental run-up to launch into speech. The quiet precision was gone from his voice, replaced with a halting quality almost like he was drunk and dazed.  “I, uh, don’t know… uh. My partner got home, sh-she said, uh, said it was in our mailbox, and...as soon as I, uh, figured out what it is, uh…”
 
 He trailed off.
 
 Tremblay gave the three vials on the desk a long, awed look. “You called us.”
 
-Arés nodded. “Uh… I admit, uh I was, uh... tem-tempted to use a dose.”
+Arés nodded. “Uh… I admit, uh I was, uh...tem-tempted to use a dose.”
 
 Powell rubbed his jaw, then picked up a wall phone, and hit a button. “Technical sergeant Kovač to wardroom two, please. Cheers.”
 
@@ -1655,7 +1655,7 @@ Just like the EV-MASS, the Suit was an unpowered spacesuit that provided pressur
 
 As did Daar in fact, but he wasn’t going to be a full-time member of HEAT. Stainless had other plans for the massive brute and Regaari was not yet privy to them. A shame, really. With Daar’s incredible body and with advanced Gaoian technology…
 
-But... no. Daar was far too big and noticeable to fill the same role as the Whitecrest Brothers. He would be much more like the Human Defenders in function—in fact, that role was what he was being trained for, and what aligned with his existing skills—but a Gaoian was not a Human and not even a singular specimen like Daar perfectly compared. He was strong and fast and tough as an old Keeda tale, but the Humans of HEAT were tougher still and had better endurance, amongst other advantages. What Daar’s role would be, Stainless wasn’t telling, but Daar was actually *excited* by the prospects and that was enough for Regaari.
+But...no. Daar was far too big and noticeable to fill the same role as the Whitecrest Brothers. He would be much more like the Human Defenders in function—in fact, that role was what he was being trained for, and what aligned with his existing skills—but a Gaoian was not a Human and not even a singular specimen like Daar perfectly compared. He was strong and fast and tough as an old Keeda tale, but the Humans of HEAT were tougher still and had better endurance, amongst other advantages. What Daar’s role would be, Stainless wasn’t telling, but Daar was actually *excited* by the prospects and that was enough for Regaari.
 
 That meant the Suits were designed more with Regaari and his Brothers in mind. They represented something **much** closer to the Gaoian mean and that made the suit good for lean and small operatives as well as Stoneback brutes. And since Human males tended to be hugely robust and heavily muscled compared to Gaoians (Brothers like Daar aside), a copycat design of the EV-MASS was untenable, so Whitecrest and One-Fang kept the premise of the suits themselves but reworked every other aspect of the design. The result was significantly lighter, a result driven by different priorities (speed over safety, because speed *is* safety) and vastly more advanced materials. The Suit was barely heavier than an ordinary security or military shield harness, in fact, but the improvements it packed in were impressive.
 
@@ -1962,7 +1962,7 @@ That had rattled Daar’s normally supreme self-confidence; it had taken him *de
 
 Why *was* he on standby for this mission? Sometimes Powell’s motives were just *impossible* to fathom. Either he wasn’t on the team for this one, in which case why was he Suited up and ready to jump in claws-first, or he *was* in which case why wasn’t he over on the *Racing Thunder* with Regaari and the Whitecrests? Was he on the HEAT or not?
 
-But... Powell was the Boss, and he’d shown plenty of times that he was Boss for a reason. So the only thing to do was to trust him, sit back, and wait.
+But...Powell was the Boss, and he’d shown plenty of times that he was Boss for a reason. So the only thing to do was to trust him, sit back, and wait.
 
 And itch.
 
@@ -2207,7 +2207,7 @@ Powell gave a quiet, amused chuckle. “Perhaps. Anyhow, don't worry about Coste
 
 Daar gave him a shrewd look. “You’re convinced the HEAT doesn’t need me.”
 
-“Daar, you’re wearing that Suit right now because you’ve bloody well earned it. I just think that your talents…well... fook it. Lemme tell you some o’ the *reasons* behind the mission we’ve got planned for JETS…”
+“Daar, you’re wearing that Suit right now because you’ve bloody well earned it. I just think that your talents…well...fook it. Lemme tell you some o’ the *reasons* behind the mission we’ve got planned for JETS…”
 ___
 **Date Point: 12y2w AV**    
 **Starship** ***’Negotiable Curiosity’,*** **Perfection System, The Core Worlds**
@@ -2480,7 +2480,7 @@ Adam stood up and sighed. “It *doesn’t,* and that’s the problem.”
 
 “...Yeah. That’s a hell of a problem,” Gabe agreed. “I can just see some… some punk gangbanger getting their hands on this shit and not having your restraint.”
 
-“Yeah. I don’t know how we made SOR work, maybe it’s a happy accident... but it works for us.”
+“Yeah. I don’t know how we made SOR work, maybe it’s a happy accident...but it works for us.”
 
 “So *definitely* no side effects at all? ‘Cuz I’m gonna want grandkids someday and I know bodybuilders can get-”
 
@@ -2553,7 +2553,7 @@ Allison glanced at it, saw a happy ninety-seven percent at the top of the page a
 
 “Sweet,” Allison grinned, but Xiù was blushing under that paint blotch, so she decided to double down. “But true.”
 
-“Well... you *still* don’t need me to run the navigation software!”
+“Well...you *still* don’t need me to run the navigation software!”
 
 “But I’m comfortable!” Allison complained, snuggling into a Julian a little more.
 
@@ -2610,7 +2610,7 @@ Yan *should* have been feeling better.
 
 They were into the third moon of the lodge. He and his fellow Given Men had put in good hard work and repaired the huts after a year of neglect, which had done a lot to burn out some of the simmering omnipresent hatred of everything that was their annual curse.
 
-And then they had filled the lodge hut with heat, steam, sweat, the scent of roasting meat... and the magic smoke.
+And then they had filled the lodge hut with heat, steam, sweat, the scent of roasting meat...and the magic smoke.
 
 There had been initiations. Tarek and two others had undergone the rites (the secrets of which were among those things that Yan fervently hoped his great-niece’s young father would never learn) and had their adult names taken from them. There had been feasting, hunting, playful fighting, serious fighting.
 
@@ -2620,7 +2620,7 @@ They had traded stories, traded news, traded knowledge. Yan had shared Sky-Think
 
 Manak-hunting was usually far too dangerous. The beasts could knock a man flying with a swipe of their great tusked heads, or crush him underfoot. This time the Given Men had crashed and hooted through the trees above a solitary male and maddened it with bird-spears. It had charged at their trees and been left frustrated as they evaded its reach, then grown panicked as more and more sharpened shafts had pierced its back, until finally they had given it an opening to escape.
 
-It had charged desperately in that direction... and off a low cliff. With its legs and back broken, the honor of striking the blow that killed it had fallen to Yan.
+It had charged desperately in that direction...and off a low cliff. With its legs and back broken, the honor of striking the blow that killed it had fallen to Yan.
 
 Its meat was now roasting over the fire, its hide was tanning on the rack, and shreds of its jerky were curing high in the rafters among those beautiful…
 
@@ -2845,7 +2845,7 @@ The suits had undergone some overhauls after Lucent. The white and high-vis yell
 
 Grurple or not, the hydrophobic and acid-resistant coating was going to be welcome if they needed to hit the red decon button again. Then there were the GR-1d rifles. These were the latest version too, after the two they’d had before had been ruined by the decon shower. Allegedly the updated version corrected some of the original’s design flaws and offered improved performance.
 
-Things were maybe a little sharper, a little leaner. That seemed to be how the Byron Group operated, really---learn by doing---but it had Allison happy.  She’d geeked out *hard* over some detail of the updated weapons, and had left Xiù nodding and smiling uncomprehendingly as she waxed enthusiastic about something arcane involving... a bus scope on the piccadilly rail? Something like that.
+Things were maybe a little sharper, a little leaner. That seemed to be how the Byron Group operated, really---learn by doing---but it had Allison happy.  She’d geeked out *hard* over some detail of the updated weapons, and had left Xiù nodding and smiling uncomprehendingly as she waxed enthusiastic about something arcane involving...a bus scope on the piccadilly rail? Something like that.
 
 The upshot of it was that the gun had a camera on it, she’d followed that much and had consoled herself with knowing that Allison got similarly unfocused whenever Xiù broke out the movie trivia, linguistics jargon or *Gung Fu* terminology.
 

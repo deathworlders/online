@@ -273,7 +273,7 @@ Sure enough, he met Julian in the corridor, stumping back toward his bunk with a
 
 "Do. I’m getting sick of this shit."
 
-In the gym, Allison was cooling down with some stretches and gentler, easier Yoga poses as he entered. "Back already Etsicitty?" she asked. “I figured you’d... oh. Hey, Kirk.”
+In the gym, Allison was cooling down with some stretches and gentler, easier Yoga poses as he entered. "Back already Etsicitty?" she asked. “I figured you’d...oh. Hey, Kirk.”
 
 Kirk gave her his best glare as he entered, hearing the gravity plates automatically adjust around him to keep him safe.
 
@@ -303,13 +303,13 @@ She flung her towel at the laundry basket and it seemed to personally offend her
 
 Kirk had instinctively retreated to the opposite side of the room, propelled by an instinct shared both by herbivores facing a raging predator, and men facing a raging woman.
 
-Somehow, she was worse when she suddenly got quiet. "There’s more to life." she repeated. “There’s… making a difference, like we are here. There’s being more than just somebody else’s wage-slave piece of eye candy. Like... if I'm gonna be sexy, I just… I want it to be on *my* terms. You know?”
+Somehow, she was worse when she suddenly got quiet. "There’s more to life." she repeated. “There’s… making a difference, like we are here. There’s being more than just somebody else’s wage-slave piece of eye candy. Like...if I'm gonna be sexy, I just… I want it to be on *my* terms. You know?”
 
 She took a deep, cleansing breath, and picked up the towel. "Julian's a really nice guy, but he puts me off balance. I know I shouldn't tease him like I do but… I mean, it puts me back in control." Kirk watched her as she opened the laundry basket and dropped the towel into it. “I'm sorry.”
 
 "Apologize to him. He is the one you are making uncomfortable."
 
-"I know, I know... I just..." she tidied some stray hair out of her face. "We'd get along great, I think. And a big part of me wants that. I kinda feel like I *have* to put a wall there, y'know? Keep him at a distance."
+"I know, I know...I just..." she tidied some stray hair out of her face. "We'd get along great, I think. And a big part of me wants that. I kinda feel like I *have* to put a wall there, y'know? Keep him at a distance."
 
 "Would it really be so bad if you gave in?" Kirk asked.
 
@@ -325,7 +325,7 @@ She took a deep, cleansing breath, and picked up the towel. "Julian's a really n
 
 "I… think I understand. I do not think I approve, but I at least understand where you are coming from."
 
-Allison gave him a tired smile. "Thanks. I’m not sure I do myself, but... thanks."
+Allison gave him a tired smile. "Thanks. I’m not sure I do myself, but...thanks."
 
 "Just… try to dial it back at least. You two work well together. I would like you to *keep* working well together, yes?"
 
@@ -383,7 +383,7 @@ Fortunately, Hayley took it for a straightforward ‘*How’re you?*’.
 
 "What favor?" Ava asked.
 
-"Could you, er... could the kids sleep round your place tonight? We’re having a guest over."
+"Could you, er...could the kids sleep round your place tonight? We’re having a guest over."
 
 Floating in a kind of stunned emptiness as she processed the implications of that request, Ava heard her mouth say "Yeah, uh… sure! Yeah, we, uh, we can do that for you."
 
@@ -547,7 +547,7 @@ Rylee cleared her throat. "Ah… That, uh, got around did it?"
 
 Rylee settled into the seat, glad to reduce the formality of the discussion a bit. "So… what’s your request, Powell?"
 
-He grimaced, clearly feeling the awkward position he found himself in. "Look... as peers, one officer to another? You do whatever you need to unwind after an op, I get it. Done it myself. I’m just askin’, again one officer to another, to think about how, fairly or not, your actions reflect on my unit. We’ve got a good informal relationship going with Folctha’s civilians, and I’d like to keep it going as long as I can."
+He grimaced, clearly feeling the awkward position he found himself in. "Look...as peers, one officer to another? You do whatever you need to unwind after an op, I get it. Done it myself. I’m just askin’, again one officer to another, to think about how, fairly or not, your actions reflect on my unit. We’ve got a good informal relationship going with Folctha’s civilians, and I’d like to keep it going as long as I can."
 
 "That’s… fair. I’m sorry, I didn’t mean to cause you any problems."
 
@@ -893,7 +893,7 @@ Allison nodded, sympathetically. "I think I get it. You hero-worshiped him, and 
 
 Allison just sat in silence and let him rattle on.
 
-"...and then.... ‘**_I’m_** *right where* **_I_** *want to be*.’ as if it’s all about what *he* wants. As if there’s not a galaxy out here that needs saving from **_THIS!_**" In a surprisingly swift motion he turned, looked over his shoulder, and delivered a ferocious equine kick to the hologram which, programmed to respond realistically to damage for combat training purposes, staggered and fell, wheezing through broken ribs. “Room, end simulation.”
+"...and then....‘**_I’m_** *right where* **_I_** *want to be*.’ as if it’s all about what *he* wants. As if there’s not a galaxy out here that needs saving from **_THIS!_**" In a surprisingly swift motion he turned, looked over his shoulder, and delivered a ferocious equine kick to the hologram which, programmed to respond realistically to damage for combat training purposes, staggered and fell, wheezing through broken ribs. “Room, end simulation.”
 
 The holographic Hunter ceased to exist, as abruptly as a light being turned out.
 
@@ -913,7 +913,7 @@ Allison made an "*oof!*" noise, staggered across the room and fell on her ass. �
 
 "Please, do not give me any of that ‘*the real strength was in you all along’* crap," Kirk begged her. “I deduced that part for myself, I do not need a Disney moral lesson.”
 
-"I, uh... right. Okay."
+"I, uh...right. Okay."
 
 After a few awkward moments, she repeated her earlier question. "So… what’s your baggage?"
 
@@ -1220,7 +1220,7 @@ It made the thought that she was living with him a difficult one. Ava was a "not
 
 As far as she was concerned, however much they’d been through together, sixteen was still too young. She didn’t care if Folctha had inherited Britain’s very… *European* laws in that area, it felt wrong to her. It wasn’t that she didn’t *want* to, but...
 
-Lots of things had felt wrong to her lately. The whole world had turned out to be wrong in so many ways that every day had become a temptation to just let go and go with it. But... here they were. The air was cool, the water was crystal clear and apparently surprisingly warm, and they had barely arrived before Sara had vanished into it in a skinny flesh-toned blur, leaving her clothes on the beach, followed equally shamelessly by her little brother and two of their school friends.
+Lots of things had felt wrong to her lately. The whole world had turned out to be wrong in so many ways that every day had become a temptation to just let go and go with it. But...here they were. The air was cool, the water was crystal clear and apparently surprisingly warm, and they had barely arrived before Sara had vanished into it in a skinny flesh-toned blur, leaving her clothes on the beach, followed equally shamelessly by her little brother and two of their school friends.
 
 It was all so *weird*. Especially when Adam just met her gaze, laughed sheepishly, shrugged, and pulled his own shirt over his head. Guilty or not, she’d had to admire his body as he had shed his jeans and run into the water, laughing nervously.
 
@@ -1376,7 +1376,7 @@ She didn’t understand the strange glances they exchanged. That was funny, but 
 
 "Take it off, put it on, make up your *mind*!"
 
-"Dad, I’ll... handle her. You’d better figure out what did this."
+"Dad, I’ll...handle her. You’d better figure out what did this."
 
 "Aww, no handle… Adaaaam…."
 

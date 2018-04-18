@@ -121,7 +121,7 @@ Tisdale stood and leaned forward onto the desk, which creaked. The sentence seem
 
 "*Fuck you* Arés! I don’t want to hear you passing the buck! *I want my daughter back*!"
 
-All of that impressive strength failed, and he sagged down, weeping freely all over Gabriel’s desk. "Or just… just hold her, just... just… *Anything!* God…"
+All of that impressive strength failed, and he sagged down, weeping freely all over Gabriel’s desk. "Or just… just hold her, just...just… *Anything!* God…"
 
 He looked up and speared Gabriel with a gaze that was more a tear-soaked desperate plea for understanding than it was actually angry. "*Why,* damn you?"
 
@@ -155,7 +155,7 @@ It was good enough.
 
 "Doctor." Arés said. “I *know.* But I am talking about an ongoing investigation here that, if it’s not handled properly, could mean that Sara will be only one of the *first* victims. There are lives at stake here, a great many of them.”
 
-"This is the worst thing I have ever done to a man." he added. “And... God willing some day I’ll be able to tell you the whole truth and you’ll understand why. But if that day’s ever going to come, then this secret needs to stay kept, and a hint is all I can give you. I give it in the hope that an educated man like yourself will be able to decipher it.”
+"This is the worst thing I have ever done to a man." he added. “And...God willing some day I’ll be able to tell you the whole truth and you’ll understand why. But if that day’s ever going to come, then this secret needs to stay kept, and a hint is all I can give you. I give it in the hope that an educated man like yourself will be able to decipher it.”
 
 Tisdale *was* an intelligent man. He may have been a hopelessly idealistic ultra-liberal with the appearance of a death-metal viking warrior, but he was also a scientist with well-honed powers of deduction. It didn’t take him long to mull over the hint.
 
@@ -375,7 +375,7 @@ ___
 
 **Julian Etsicitty**
 
-"Ice cream? God, I don’t remember, I went without it for so long… I guess...Chocolate Fudge Brownie. Okay, uh.... hmm…. What was the first band you saw live?"
+"Ice cream? God, I don’t remember, I went without it for so long… I guess...Chocolate Fudge Brownie. Okay, uh....hmm…. What was the first band you saw live?"
 
 "Oh. Uh… I’ve never been to a live show."
 
@@ -431,7 +431,7 @@ ___
 
 "You were her best friends. I think she’d want you to be involved."
 
-"I... know. and it means a lot to me that you’re asking but… y’know, I’m Catholic." Ava said at last.
+"I...know. and it means a lot to me that you’re asking but… y’know, I’m Catholic." Ava said at last.
 
 "I’m sure your God would understand, Ava."
 
@@ -607,7 +607,7 @@ The silence was broken some minute or two later by the priestess, who turned to 
 
 Adam smiled weakly, nodded and swallowed, then stepped forward, turned to the coffin and read from the booklet, a little shakily.
 
-"Did you know it was time to fly?" he asked. “I didn’t want to say goodbye. But… but we all know this is not the end... Fare-”
+"Did you know it was time to fly?" he asked. “I didn’t want to say goodbye. But… but we all know this is not the end...Fare-”
 
 Finally the weariness broke, and he paused, bit on his lower lip and looked down, squeezing his eyes shut. Alone in the middle of the room, he sobbed once before finally managing to rally himself and continue.
 
@@ -727,7 +727,7 @@ She put the knife down again, and Mr. Handsome nodded and circled around to join
 
 That didn’t exactly endear him to Xiù, but she understood. "*Sho wia yu, uwa wa mé Xiù.*" she said.
 
-That earned her a pair of blank looks, until she realised that she’d spoken in Gaoian rather than English. "Uh… yes. Yes, my name’s Xiù." she said. “Sorry, it’s been... since I last…”
+That earned her a pair of blank looks, until she realised that she’d spoken in Gaoian rather than English. "Uh… yes. Yes, my name’s Xiù." she said. “Sorry, it’s been...since I last…”
 
 "Five years? Not counting that guy?" The blonde said, smiling. “It’s okay, I understand. My name’s Allison. This is Julian.”
 
@@ -767,7 +767,7 @@ Adam watched the older man swing his kettlebell around. Legsy trained for endura
 
 Adam himself was still working up to that. He elected to use the cross-trainer instead. Legsy gave him an encouraging grin and nod as the device swirled into action.
 
-"So uh... I've got a question." Adam asked, after what he judged was a decent interval.
+"So uh...I've got a question." Adam asked, after what he judged was a decent interval.
 
 "Go for it, pal."
 
@@ -775,7 +775,7 @@ Adam himself was still working up to that. He elected to use the cross-trainer i
 
 "...How d'you mean?"
 
-"Home, Sara... how come they're not pressing charges? There's a pattern there, I can see it."
+"Home, Sara...how come they're not pressing charges? There's a pattern there, I can see it."
 
 Legsy didn't answer at first, just continued to swing his weight, but his expression had clamped down beautifully.
 
@@ -823,7 +823,7 @@ Julian thought about it. "At first glance, I was thinking ‘*damaged goods*’.
 
 "It fucks with your head." Julian said, honestly.
 
-"You’ve always seemed... fine to me."
+"You’ve always seemed...fine to me."
 
 "We’ve not slept together yet."
 
@@ -1494,7 +1494,7 @@ Peggy made a little noise and shuffled a touch closer to him, warm against his l
 
 He sighed. "And we still got there ten seconds too late."
 
-"I’m interested... why can’t you tell them?"
+"I’m interested...why can’t you tell them?"
 
 "Well what’s that going to achieve?" Powell asked. “Sometimes there’s not enough silver fookin’ lining in the world.”
 
@@ -1649,7 +1649,7 @@ Powell grimaced and scratched the back of his head. "It’s… this is going to 
 
 "Don’t worry about explaining it to me. I think I know what you mean, but for your own sake just… think out loud."
 
-"I think the other two teenagers around Folctha get it as well. Adam and Ava. S- The girl’s... Her friends. They’d come from San Diego, they were out of town when the bomb went off. Lost fookin’ *everything*. Their homes, friends, schools, family... and they got it, they understood what S-she didn’t."
+"I think the other two teenagers around Folctha get it as well. Adam and Ava. S- The girl’s...Her friends. They’d come from San Diego, they were out of town when the bomb went off. Lost fookin’ *everything*. Their homes, friends, schools, family...and they got it, they understood what S-she didn’t."
 
 "Which is?"
 
@@ -1705,7 +1705,7 @@ Peggy licked his hand as Powell picked her up and sat down again. "Like somethin
 
 That seemed reasonable.
 
-"Well... you know about what happened, right? In those other two cases?"
+"Well...you know about what happened, right? In those other two cases?"
 
 Ford nodded that he did. "I’ve read the notes, but it’s probably best if you recount them in your own words."
 
@@ -1741,7 +1741,7 @@ He sat, staring at his fingers for a few moments until the dog, very gently, ins
 
 Ford let him get it out of his system. Finally, the captain made a weak "*woo-ugh*" noise and sat up, wiping his face dry.
 
-"Fookin’.... I never cry." he said.
+"Fookin’....I never cry." he said.
 
 "You needed to." Ford observed.
 
@@ -1753,7 +1753,7 @@ Ford let him get it out of his system. Finally, the captain made a weak "*woo-ug
 
 "Her parents?"
 
-"Aye. These Dippy-Hippie tree-hugging free love pagan parents of hers. Her dad’s got these tattoos - ‘*an it harm none, do as thou wilt’*." He gestured along his forearms to show where the two halves of the phrase were inked into Mark Tisdale’s skin. “Sexually open, no boundaries, no rules, no fookin’... sense of consequence. I’ll just bet you they never once told her that no, there’s things that you *can’t* do. You know? Like, they’ll have told her ‘*you can do anything*”, trying to empower her and that, and it got her killed.”
+"Aye. These Dippy-Hippie tree-hugging free love pagan parents of hers. Her dad’s got these tattoos - ‘*an it harm none, do as thou wilt’*." He gestured along his forearms to show where the two halves of the phrase were inked into Mark Tisdale’s skin. “Sexually open, no boundaries, no rules, no fookin’...sense of consequence. I’ll just bet you they never once told her that no, there’s things that you *can’t* do. You know? Like, they’ll have told her ‘*you can do anything*”, trying to empower her and that, and it got her killed.”
 
 "How do you feel towards them, then?" Ford inquired. “You’ve compared Sara to the child in Kenya, but what about the parents?”
 
@@ -1777,7 +1777,7 @@ Ford nodded. "Why not?"
 
 "Fookin’ right." Powell sniffed and shook his head. “I’m not sadistic, I’m not going to rake ‘em over the coals for it, they’re suffering enough. But...”
 
-He shook his head again, breathing out. "...But I don’t think I’ll ever be able to look at either of them without thinking, y’know... ‘*You’re the reason I had to watch your daughter die*’."
+He shook his head again, breathing out. "...But I don’t think I’ll ever be able to look at either of them without thinking, y’know...‘*You’re the reason I had to watch your daughter die*’."
 
 "What *are* you going to do?"
 
@@ -2061,7 +2061,7 @@ Instead, Legsy grabbed him in a bear hug.
 
 "-‘Ere, what’re you- fookin’ - let go!" Powell protested, and Legsy did so. Powell straightened his jumper and frowned at him. “The fook was *that* about?” he demanded.
 
-"Sorry, sir." Legsy straightened to attention. “It’s just... good to have you back.”
+"Sorry, sir." Legsy straightened to attention. “It’s just...good to have you back.”
 
 Powell hung his head and shook it, smiling. "Get out, you big fookin’ softy." he ordered, kindly.
 

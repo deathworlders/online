@@ -1817,7 +1817,7 @@ punishment?” Regaari scoffed.
 Kirono growled. There was a flash of teeth before he restrained
 himself—in older and less civilized times, that would have inevitably
 led to a snapping, claw-bearing fight. “Your own Brothers and
-Fathers... ” he began--
+Fathers...” he began--
 
 “Are wrong, Brother.” Regaari interrupted, ejecting the little
 crystalline data wafer that Kirono had brought him, and pocketing it.
@@ -2965,7 +2965,7 @@ and sticking to the skin.
 “Why?”
 
 “Just…ah, man, it just triggers some weird instincts I guess. Forget it.
-Maybe we should fill one of these crates with water for you... ”
+Maybe we should fill one of these crates with water for you...”
 
 “Great Father Fyu, no.” Regaari protested. “Wet fur smells worse than
 you do.”
@@ -3216,7 +3216,7 @@ Powell poured the second pair of drinks. “I’m recommending Price for the
 Victoria Cross and  Legsy for the George Cross.” he said. “And as far as
 I’m concerned, Jackson and Semenza deserve the Medal of Honor, they
 saved the bloody lot of us…but they’ll probably settle for less.
-There’ll be a few other decorations getting handed out too... .” He
+There’ll be a few other decorations getting handed out too....” He
 paused, and shrugged. “We’ll see how it goes. Not sure I care about
 medals right now.”
 
@@ -3363,7 +3363,7 @@ breakfast, if you’ll do me a favour.”
 
 “Name it.”
 
-“It’s about Sister Myun... ”
+“It’s about Sister Myun...”
 
 * * *
 

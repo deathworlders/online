@@ -13,7 +13,7 @@ ___
 
 *The name I was given at birth was not in fact Ravinder Singh.*
 
-*You see... It often surprises me just how few Americans know that India is a nuclear power. We have our stockpiles of weapons, our enrichment program, our power plants…*
+*You see...It often surprises me just how few Americans know that India is a nuclear power. We have our stockpiles of weapons, our enrichment program, our power plants…*
 
 *Any nation which has a nuclear arsenal and is prepared for the possibility of nuclear war, inevitably needs to employ experts in the effects - both the immediate ones, and those that linger - of nuclear weaponry. That was me. I was, once, one of my home country’s foremost experts in just what the bomb does, to people and to places.*
 
@@ -76,7 +76,7 @@ She had been doing that more and more, lately. Talking to herself, carrying on a
 
 Perhaps even more alarmingly, Old Jen seemed to have a voice of her own now: a shy, querulous voice that longed for safety, for warmth and comfort, to go back to her own bed and maybe a cat and a goldfish and shove her head under her pillow and FORGET.
 
-If she hadn’t been a genuinely nice person, Jen suspected she would have hated herself. As it was, she accepted the voice of her own timidity for what it really was - Her past. And her past was a story of fear, weakness, lethargy... Everything that kept a person back, kept them in a cubicle, kept them too afraid to talk to boys. Everybody had that voice: at least she knew when hers was talking.
+If she hadn’t been a genuinely nice person, Jen suspected she would have hated herself. As it was, she accepted the voice of her own timidity for what it really was - Her past. And her past was a story of fear, weakness, lethargy...Everything that kept a person back, kept them in a cubicle, kept them too afraid to talk to boys. Everybody had that voice: at least she knew when hers was talking.
 
 Still… sometimes it was alright to let Old Jen cry, so long as she wiped away the tears and kept putting one foot in front of another.
 
@@ -259,7 +259,7 @@ There was no response from the radio. The silence on the ground was, eventually,
 
 “Shut the fook up and get the lads ready to abandon base if we have to.” Powell ordered. “Actually, fook that. Where’s it coming down?”
 
-Baker scratched his head “She’s aiming for... that big lake to the east.”
+Baker scratched his head “She’s aiming for...that big lake to the east.”
 
 The captain glanced at the sensors screen, then grabbed his field binoculars and turned  to face westwards, raising them to his face.
 
@@ -570,13 +570,13 @@ Besides, whatever reasons the man felt he had for needing to keep his secret sup
 
 "....*Saunders*.” he finished. “As for Miss Delaney, you just missed her. She shipped out when we detected your mob comin’ in. "
 
-There was a long, bewildered pause, and then the Australian broke down and started laughing. It wasn’t a happy laugh - it was a black cynical one, the laugh of a man who’d just figured out that he was the butt of a sadistic sense of humour.  "Of course... of course she did!” He exclaimed, somewhere between the laughing and the sobs. “Gone home I bet? No reason to wait for a dead man!"
+There was a long, bewildered pause, and then the Australian broke down and started laughing. It wasn’t a happy laugh - it was a black cynical one, the laugh of a man who’d just figured out that he was the butt of a sadistic sense of humour.  "Of course...of course she did!” He exclaimed, somewhere between the laughing and the sobs. “Gone home I bet? No reason to wait for a dead man!"
 
 "*Jesus fookin’ Christ…*"
 
 Powell decided, as the Australian slowly pulled himself together, *not* to correct him on that point. Jen had clearly been holding a torch for this guy, but mental cases like this tended to be a danger to themselves and anybody nearby. Jen was too competent, capable and useful a resource to endanger like that.
 
-"Kaminski wasn't bloody kidding," he declared. "Is the rest true? The infrared? The... muscles?"
+"Kaminski wasn't bloody kidding," he declared. "Is the rest true? The infrared? The...muscles?"
 
 Adrian nodded as he ran a rough hand through his beard and across his head. "Yep," he said, voice still trembling, "but I wouldn't fucking recommend it. How are the Russians doing? Quid pro quo, remember?"
 
@@ -590,9 +590,9 @@ He kept his cool by changing the subject. "You're a wanted man on Earth, you kno
 
 He looked the Australian up and down. "I can *smell* the kind of shit you're in, and I'm not going to put this colony and my mission at risk over a dropout who’s legally fookin’ dead.” He said. “D’you know how long *that* paperwork takes? I don’t have the fookin' time nor the inclination, so long as you promise to get the fook out of my hair and never come back. Spread the word there’s nowt but ruins on Cimbrean and I might even be persuaded to see if there’s owt useful you can be doin’ instead of stealin’ pirate ships and chasing after a girl who’s got her shit together way better than you do."
 
-They stared at each other for a few moments, then Adrian unclenched his fists, sighed and nodded. "Looks like you've still got some broken down old ships. I can probably put a working one together given a bit of time, a week... two at most, and then I'll be out of your hair." he offered.
+They stared at each other for a few moments, then Adrian unclenched his fists, sighed and nodded. "Looks like you've still got some broken down old ships. I can probably put a working one together given a bit of time, a week...two at most, and then I'll be out of your hair." he offered.
 
-"Good," said Powell. Anything to get the man away from the colony and back out in the wider galaxy where he could do less harm.  "We'll give you food, clothes and shelter... and a fookin' shave if you want it, but you need to get out of here before you become a problem. And for the moment, *Captain*,” he added, stressing Saunders’ former rank “you are going to give me a full debriefing."
+"Good," said Powell. Anything to get the man away from the colony and back out in the wider galaxy where he could do less harm.  "We'll give you food, clothes and shelter...and a fookin' shave if you want it, but you need to get out of here before you become a problem. And for the moment, *Captain*,” he added, stressing Saunders’ former rank “you are going to give me a full debriefing."
 
 He listened as the disgrace seated opposite him relented and launched into a characteristically foul-mouthed summary of everything that had happened to him since his abduction.
 
@@ -618,7 +618,7 @@ Saunders had the good grace to look embarrassed. "Long and short of it? They're 
 
 “For *fook*’s sake!” Powell exploded to his feet, spun away from the desk and pinched the bridge of his nose as he stood facing the corner for a second, head bowed. “I have no idea why I don’t just assume you’re taking the piss.” he muttered.
 
-"I know a few things... they're beyond cutting-edge. They've got a fucking army. And they love robots. Oh, and they can copy their brains away."
+"I know a few things...they're beyond cutting-edge. They've got a fucking army. And they love robots. Oh, and they can copy their brains away."
 
 “Greeeaaat.” Powell muttered. He turned and considered things. “Bloody ‘ell, Why in God’s name do I believe you, Saunders?”
 
@@ -640,11 +640,11 @@ Powell, distracted by his own thoughts didn’t catch the inflection properly. �
 
 Powell considered, scratching his own facial hair. "...If it is, you might actually turn out to not be a complete fookin' liability after all." he acknowledged.
 
-Saunders’ professionalism slipped again, and there was a certain manic glint in his eye that only reinforced Powell’s conviction that he belonged as far away from Cimbrean as possible if the colony was to succeed. “"I was going to take some hard fucking revenge on these fuckers anyway, so... you know, it's no problem." he said.
+Saunders’ professionalism slipped again, and there was a certain manic glint in his eye that only reinforced Powell’s conviction that he belonged as far away from Cimbrean as possible if the colony was to succeed. “"I was going to take some hard fucking revenge on these fuckers anyway, so...you know, it's no problem." he said.
 
 Powell weighed his options. Unstable though he was, Saunders was the only man to hand who had the knowledge and experience necessary to do anything with the crashed “Hierarchy” ship before the salt water completely ruined it. And if they were as dangerous as he suggested, then his mission demanded at least sweeping the thing for tracking devices, beacons or other potential mission-compromisers, not to mention intelligence of a long-term threat.
 
-“...Fine.” he relented. “You get to dive that wreck. You find any intel we can use and turn it over,and I might even drop the whole "never come back" thing. Now, I'm still kickin' you off this planet because I need trouble like you a **long** way from my mission, but if you can prove you're not a complete cock-up and turn up owt that's useful - and rip out and destroy anything that might lead this Hierarchy here... Well, there's the deal."
+“...Fine.” he relented. “You get to dive that wreck. You find any intel we can use and turn it over,and I might even drop the whole "never come back" thing. Now, I'm still kickin' you off this planet because I need trouble like you a **long** way from my mission, but if you can prove you're not a complete cock-up and turn up owt that's useful - and rip out and destroy anything that might lead this Hierarchy here...Well, there's the deal."
 
 "Honestly I doubt it even has what I want.” Adrian confessed. “But I'll be sure to look. What about after I’ve left? You got a phone number?"
 
@@ -680,7 +680,7 @@ Adrian considered, and then an impish grin parted his beard. "Reckon I might go 
 
 "Just one thing.” Adrian replied, shifting forward in his seat. “I'm about to start waging my own personal fucking war on an enemy I can't even imagine. If you've got a wish list for souvenirs just let me know."
 
-He wasn’t engaging his brain or else that list should have been obvious, but then again Powell knew the value of repeating things in case something had been overlooked. "Anything that *proves* they exist and aren't just your imagination.” He said, extending his fingers to list the items he could think of. “Bleeding-edge technology. Alien hard drives, journals, logbooks, computers, that kind of thing. A working cloaking device, or at least one that's not too badly broken. Maps, encryption keys... intel, basically."
+He wasn’t engaging his brain or else that list should have been obvious, but then again Powell knew the value of repeating things in case something had been overlooked. "Anything that *proves* they exist and aren't just your imagination.” He said, extending his fingers to list the items he could think of. “Bleeding-edge technology. Alien hard drives, journals, logbooks, computers, that kind of thing. A working cloaking device, or at least one that's not too badly broken. Maps, encryption keys...intel, basically."
 
 "You need a cloaking device?” Saunders asked, sounding faintly incredulous. He waved his arm vaguely towards the tent wall, indicating the unseen crashed starships outside. “You've got a half dozen wrecked Hunter ships lying all over the place."
 
@@ -981,7 +981,7 @@ ___
 
 *In any case, we were crippled with the first volley. They boarded soon afterwards, and poor Hvek and Twanri were reduced to jelly by their pulse fire, sprayed across the command deck. These were the biggest ones, so-called “anti-tank” weaponry, and their fire caught Mikhael in the head. The blow killed him: massive fracturing and cerebral haemorrhage.*
 
-*Nevertheless, it gave the worms pause, because where the Corti had simply… splattered... here was a creature so tough that, though dead, he was still pretty much intact. They may even have thought he was still alive, which brought me the few seconds I needed to shout the commands, in Corti, which opened all of the doors and lowered the atmosphere retainment fields even as I shut the hatch of my escape pod. Every single one of the marauders was either blown out into space, or else died gasping.*
+*Nevertheless, it gave the worms pause, because where the Corti had simply… splattered...here was a creature so tough that, though dead, he was still pretty much intact. They may even have thought he was still alive, which brought me the few seconds I needed to shout the commands, in Corti, which opened all of the doors and lowered the atmosphere retainment fields even as I shut the hatch of my escape pod. Every single one of the marauders was either blown out into space, or else died gasping.*
 
 *I escaped.*
 ___
@@ -1041,7 +1041,7 @@ The rest had involved persuading the mission planners to furnish their armory wi
 
 Powell entered the tent that served as the camp’s armoury in time to hear Legsy ask “Watcha think, boy, reckon that’ll do?” as he handed the gun over.
 
-Adrian Saunders looked like a hundred Christmases had all arrived at once, and held the gun like it was the most wonderful thing he had ever laid hands or eyes on. Then, seeing Powell enter, he tried to sober his expression a little. “I... uh... yeah. Yeah, that'll do." he said, unconvincingly.
+Adrian Saunders looked like a hundred Christmases had all arrived at once, and held the gun like it was the most wonderful thing he had ever laid hands or eyes on. Then, seeing Powell enter, he tried to sober his expression a little. “I...uh...yeah. Yeah, that'll do." he said, unconvincingly.
 
 Legsy grinned, handed over the ammunition and then busied himself with cleaning the Minimi that was his own weapon of choice.
 

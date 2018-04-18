@@ -121,7 +121,7 @@ There was a much, much longer pauser.
 
 Beside him, Darragh laughed. “Told you our space pirate lass couldn’t resist that one!” he gloated.
 
-Kirk chirruped a half-hearted, nervous laugh with him. “Just... be sure that she gets that letter.” he said. "A lot is depending on you, Darragh."
+Kirk chirruped a half-hearted, nervous laugh with him. “Just...be sure that she gets that letter.” he said. "A lot is depending on you, Darragh."
 
 “Aye, I will… hey, I’ll miss you, Kirk. You’ve been good to us.”
 
@@ -135,7 +135,7 @@ Kirk chirruped a half-hearted, nervous laugh with him. “Just... be sure that s
 
 The landing finished with a gentle bump.
 
-“... because the Dominion only mattered to me when I didn’t understand it.” Kirk told him. “Good luck, Darragh. I will miss you too.”
+“...because the Dominion only mattered to me when I didn’t understand it.” Kirk told him. “Good luck, Darragh. I will miss you too.”
 
 “You too, mate. Be safe.”
 
@@ -208,7 +208,7 @@ ___
 
 “Mission Control, *Pandora*, checkpoint reached, over.”
 
-“*Five by five,* Pandora. *ESDAR says... 0.2% deviation, over.*”
+“*Five by five,* Pandora. *ESDAR says...0.2% deviation, over.*”
 
 “Roger, Control. PARANAV agrees zero point two, over.”
 

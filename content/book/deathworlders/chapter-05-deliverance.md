@@ -128,7 +128,7 @@ Tremblay examined the notes again. Mostly it was full of observations about the 
 
 Jenkins shrugged, ignoring a lab-coat’s protest to keep his head still. “Left hand could fill in a couple forms in triplicate requesting a third-party committee add a debate to their agenda on whether there’s grounds to start the process of commissioning an independent review on what *part* of the right hand’s up to.” he sneered.
 
-“You make it sound... inefficient.” one of the junior officers commented.
+“You make it sound...inefficient.” one of the junior officers commented.
 
 “The Dominion couldn’t find whatever passes for their ass with whatever passes for their hands without three policy meetings and a vote.” Jenkins replied, tersely. It wasn’t *quite* a snap, and certainly not aimed at the officer, but there was definitely bitterness in the way he said it. “It’s all there in the manual.”
 
@@ -192,7 +192,7 @@ And he was utterly irrelevant as far as Kirk was concerned.
 
 The slim human woman who had been leaning sulkily against the back wall looked up at him sharply.
 
-"You're... for her?" Brelm twisted in his chair and looked at the deathworlder behind him. "Did you know anything about this?"
+"You're...for her?" Brelm twisted in his chair and looked at the deathworlder behind him. "Did you know anything about this?"
 
 "You are Allison, are you not?" Kirk asked, as the human shrugged at her employer. "Allison Buehler?"
 
@@ -204,7 +204,7 @@ Allison shrugged. "Earth? No thanks."
 
 Kirk hit a mental wall. He hadn't anticipated a straightforward *'no'* at all. Suspicion and questions maybe, but simply being turned down wasn't a contingency for which he had planned.
 
-"You... would not?"
+"You...would not?"
 
 Allison shrugged again. "What's there for me? You know what I used to do on Earth? I fixed bikes and cars, I served coffee, and guys used to stare at my ass. No thanks."
 
@@ -220,7 +220,7 @@ Allison shrugged again. "What's there for me? You know what I used to do on Eart
 
 Allison gave him a long, calculating, discomforting stare and then shrugged again. "Okay. I'm in."
 
-It was Brelm's turn to be wrong-footed. He gaped at her. "You... what? You can't leave, you have a contract!"
+It was Brelm's turn to be wrong-footed. He gaped at her. "You...what? You can't leave, you have a contract!"
 
 Allison laughed. "Brelm, if you can find some asshole on this station who could stop me then go hire them for your bodyguard instead. Being your hired muscle was getting dull anyway."
 

@@ -788,7 +788,7 @@ He sighed, reached into a pocket and produced a lighter. It was the work of seco
 
 Fiin’s head duck-nodded all by itself, unbidden. So did the others’.
 
-“...Rebar taught me a lot. I taught him a lot. He... He was *important.* There’s a trillion billion stars out there that don’t matter for shit, but *he* mattered. That’s what this is about.”
+“...Rebar taught me a lot. I taught him a lot. He...He was *important.* There’s a trillion billion stars out there that don’t matter for shit, but *he* mattered. That’s what this is about.”
 
 Daar looked into the fire for a long moment. Before long it had grown into a raging inferno, and was causing enough air current to ruffle the longer fur around his neck.
 
@@ -951,7 +951,7 @@ Arés immediately perked up and looked over toward the arrays, like a dog expect
 
 To a man, the Lads looked blank.
 
-“... I ain’t exactly read up on politics in…wherever Myanmar is,” Akiyama said, and the rest nodded.
+“...I ain’t exactly read up on politics in…wherever Myanmar is,” Akiyama said, and the rest nodded.
 
 “Massive flaming shitstorm that never happened because of the right kind of force applied in the right place at the right time,” Costello summarized. “Saved a lotta lives.”
 
@@ -1205,7 +1205,7 @@ All it needed to understand was that something profoundly dangerous was happenin
 
 There were none. But there were *safer* places. Not ideal… but better than nothing.
 
-It squeezed through a closing connection with milliseconds to spare, forced to shed some of its saved Igraen personae to keep the transfer volume down... But it survived. It was in a dangerous, crowded, closely monitored network full of hostile agents, but that at least was a surmountable problem next to the cataclysm occurring back in Igraen dataspace.
+It squeezed through a closing connection with milliseconds to spare, forced to shed some of its saved Igraen personae to keep the transfer volume down...But it survived. It was in a dangerous, crowded, closely monitored network full of hostile agents, but that at least was a surmountable problem next to the cataclysm occurring back in Igraen dataspace.
 
 It took an assessment of local memory, calmed itself, and set about discovering what opportunities it might exploit while it was there.
 ___
@@ -1297,7 +1297,7 @@ ___
 
 ***Master Sergeant Christian Firth***
 
-“Feels wrong, jus’... leavin’. There’s still a war here.”
+“Feels wrong, jus’...leavin’. There’s still a war here.”
 
 Nobody could’ve missed that. It was the little things that told that story, not the big stuff. The fires were mostly out, the biodrone hordes mostly isolated, contained or just plain crushed, and Lavmuy was basically secure. Things were quiet.
 

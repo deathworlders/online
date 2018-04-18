@@ -178,7 +178,7 @@ Rylee flinched. She knew that the voice she heard wasn’t exactly Niral so much
 
 “I made a complete ass of myself last night, didn’t I?”
 
-“...A backside? Oh! Um... I don’t know, did you?”
+“...A backside? Oh! Um...I don’t know, did you?”
 
 “That’s usually what we call it when somebody makes someone else feel uncomfortable by confessing to being… *interested* in them. And all the rest. I’m sorry Niral, I was drunk, I wasn’t thinking straight and I ran off at the mouth.”
 
@@ -264,7 +264,7 @@ Jen suddenly became very grateful for the practice she’d had in the art of lyi
 
 “I see what you’re thinking, but nah. It’d just explode against the shields: too slow-firing. But in theory, if we just chuck a load of lower-energy projectiles at them it’ll overwhelm the shields and smash the armour. See?”
 
-“I’ll... have to take your word on all of that.”
+“I’ll...have to take your word on all of that.”
 
 Powell smiled. “I take it you’re not a military hardware geek?
 
@@ -441,7 +441,7 @@ ___
 
 “Well, even if you pass the baton first chance you get, you’re still technically in charge of every civilian aspect of this colony for the time being.” Powell said. He snatched a clipboard from where it was hanging on a tent post and consulted it.
 
-“Let’s see… There’s a list of stuff they’d like you to do. Nothing major: name the colonial capitol,  identify any existing human citizens, living or dead... we’ve  got real-time two-way communications with Earth but a pretty small data budget of what we can send and receive: more like telegraph than anything. To be honest, there’s not much for you to do. Anything on this list you DO do will be taken under advisement by the civilian experts and contractors we bring in once this place is secure and the camp’s up and running smoothly.”
+“Let’s see… There’s a list of stuff they’d like you to do. Nothing major: name the colonial capitol,  identify any existing human citizens, living or dead...we’ve  got real-time two-way communications with Earth but a pretty small data budget of what we can send and receive: more like telegraph than anything. To be honest, there’s not much for you to do. Anything on this list you DO do will be taken under advisement by the civilian experts and contractors we bring in once this place is secure and the camp’s up and running smoothly.”
 
 “That doesn’t sound like it’ll take a whole month.” Jen said.
 
@@ -576,7 +576,7 @@ His attempt to maintain a deadpan expression at that last one failed, leaving th
 
 “Doesn’t say *she* was the victim.” Powell pointed out.
 
-"Well it must have been somebody who *hurt* her or, or... He definitely wouldn’t do something like that to somebody he *loved*." She protested aloud, mouth rushing off ahead of her thoughts.
+"Well it must have been somebody who *hurt* her or, or...He definitely wouldn’t do something like that to somebody he *loved*." She protested aloud, mouth rushing off ahead of her thoughts.
 
 *Except to protect her.* Old Jen reminded herself internally, flashing up the memory of Adrian's inexorably strong arm clamped tight around her throat.
 

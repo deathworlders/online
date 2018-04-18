@@ -234,7 +234,7 @@ others nodded, waved and wandered off to carry on their chores.
 “Ah, that’s just a tradition of his.” Adam replied, flinging his own bag
 over his shoulder and heading for the door next to Baseball’s. “I got
 the top bunk in basic, he reckons it should have been his, ‘cause he’s
-taller, so... ”
+taller, so...”
 
 “So he grabs it first. Right.”
 
@@ -900,7 +900,7 @@ did today and think ‘*bloody hell, how was I ever that slow?*’ Arright?”
 A chorus of “Yes Sir.” answered him.
 
 “Good. Firth, call the barracks, get them to send our ride, will you? I
-don’t really feel like walking back, now... ”
+don’t really feel like walking back, now...”
 
 * * *
 
@@ -1189,7 +1189,7 @@ remain unchanged unless it’s influenced by a net force.” he said.
 
 “Nice.” Cavendish nodded his congratulations. “The second?”
 
-“Uh... whenever one object exerts a force upon another, it is in turn
+“Uh...whenever one object exerts a force upon another, it is in turn
 subject to a reaction force of equal magnitude with an opposite vector.”
 
 “That’s the third law.” Cavendish corrected him. “What’s the second?”
@@ -1390,7 +1390,7 @@ in the will, so…”
 asked-for beer and sipping down something colourful that had been on
 offer in Bargain Booze as she dragged through one of the dining chairs
 from the kitchen and sat on it. Sean had quickly figured out that Ava's
-taste in drinks were fairly simple – so long as it was brightly coloured
+taste in drinks were fairly simple---so long as it was brightly coloured
 and sweet, she liked it.
 
 “MLG. Mythos Arena championships.”
@@ -2240,7 +2240,7 @@ kicked puppy in a matter of seconds. “Well…not *this*, but, like, the
 “Jeez!” She seethed, and surged to her feet. “Well, I’m glad you could
 fit me into your *busy goddamn schedule*!”
 
-“Ava... !” The exclamation was a hurt and confused one.
+“Ava...!” The exclamation was a hurt and confused one.
 
 “No, seriously, what’s your thought process here?” She demanded. “Let’s
 hear it!”

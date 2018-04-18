@@ -1658,7 +1658,7 @@ Xiù nodded and deflated a little. “So...that’s a no to the interview.”
 
 “Sounds nice,” Julian agreed, and caught Allison’s faintly incredulous expression. “What?”
 
-“...Nothing. Just... When did you ever have a spa day? I’m used to you cutting down trees and trapping beavers. I didn’t think they’ld be your style.”
+“...Nothing. Just...When did you ever have a spa day? I’m used to you cutting down trees and trapping beavers. I didn’t think they’ld be your style.”
 
 “Uh, never,” Julian conceded. “But they must be nice or people wouldn’t do them.”
 

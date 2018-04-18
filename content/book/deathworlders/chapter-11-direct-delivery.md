@@ -193,7 +193,7 @@ Niral made a soft growling noise, which Rylee speculated could only mean disbeli
 
 “You couldn’t have cubs!”
 
-“So... okay, is sex only about having cubs for you guys?” Rylee asked.
+“So...okay, is sex only about having cubs for you guys?” Rylee asked.
 
 “That’s why we have mating contracts. Are you saying your species do it for other reasons?”
 
@@ -243,7 +243,7 @@ Niral ducked her head in a nod and complied, firmly trying to bury her fingers i
 
 “Abortion?”
 
-“Ah... yeah. Termination of pregnancy.”
+“Ah...yeah. Termination of pregnancy.”
 
 “You’d KILL an unwanted cub?” Niral looked sickened and horrified, her ears flattened themselves back along her skull and her eyes widened.
 
@@ -251,7 +251,7 @@ Niral ducked her head in a nod and complied, firmly trying to bury her fingers i
 
 “But you said… pro-choice? So you think other human women should be allowed to do that?”
 
-“I think they should have the choice. When they choose to do that, well... it’s on their soul, not mine.” Rylee lamented. “Nobody *wants* for that to happen, nobody *likes* it, it’s just… you know, it’s seen as being the better alternative to giving the child a shitty life, you know? And the fact is that giving people the choice and the education to avoid having to make it works a lot better than just outright banning the practice.”
+“I think they should have the choice. When they choose to do that, well...it’s on their soul, not mine.” Rylee lamented. “Nobody *wants* for that to happen, nobody *likes* it, it’s just… you know, it’s seen as being the better alternative to giving the child a shitty life, you know? And the fact is that giving people the choice and the education to avoid having to make it works a lot better than just outright banning the practice.”
 
 Niral still looked shaken, but she collected herself and thought about it. “I… that’s incredibly sad, Rylee. And upsetting. To think that a mother could ever find herself weighing her cub’s happy future against its *life* and deciding the kindest thing to do would be to...” She trailed off, unable to finish the sentence.
 
@@ -277,7 +277,7 @@ She set her head back again, staring off at nothing.
 
 “And… you feel the mating urge towards Goruu? Despite that he’s not human?” Niral asked.
 
-Rylee didn't look up. “It's...not exactly. It's more like... I like Goruu as a person; I hope we'll be friends, and *usually* I like to have sex with my friends. That's kinda colliding with the fact that he's not human in my head and, yeah, it's weird for me too.”
+Rylee didn't look up. “It's...not exactly. It's more like...I like Goruu as a person; I hope we'll be friends, and *usually* I like to have sex with my friends. That's kinda colliding with the fact that he's not human in my head and, yeah, it's weird for me too.”
 
 She looked up and smiled sheepishly. “And I’m sorry if this makes you uncomfortable, Niral, but the same goes for you.”
 
@@ -384,15 +384,15 @@ Well, except that the last time she’d done piracy was months ago now, so that 
 
 The point was that the pirate queen and colonial governor bits maybe didn't apply any longer. But she was keeping the space-babe part.
 
-And then there had been... other stuff. Honestly, it was all kind of a blur, now. A long, confusing, relentlessly violent blur that she knew had involved nearly dying a couple of times. She'd lost track of Darragh who was maybe kind of useless but at least he'd have been something resembling company right now. And she was trying not to think about Adrian's fate, with all that ***fecking*** fire foam that did weird things to their brains, and the ship venting atmosphere, and the way she'd left him to die because if she'd tried to save him they'd have both perished...
+And then there had been...other stuff. Honestly, it was all kind of a blur, now. A long, confusing, relentlessly violent blur that she knew had involved nearly dying a couple of times. She'd lost track of Darragh who was maybe kind of useless but at least he'd have been something resembling company right now. And she was trying not to think about Adrian's fate, with all that ***fecking*** fire foam that did weird things to their brains, and the ship venting atmosphere, and the way she'd left him to die because if she'd tried to save him they'd have both perished...
 
 She was *trying,* she reminded herself irritably, not to think about it.
 
-She had only ever bothered to remember one planet's coordinates, and that fact had saved her life... but then the bastard escape pod had landed on the wrong end of the continent.
+She had only ever bothered to remember one planet's coordinates, and that fact had saved her life...but then the bastard escape pod had landed on the wrong end of the continent.
 
 Bereft of alternatives, she'd squared her shoulders, hoisted her gear and started walking.
 
-At least Cimbrean was a Class 4 world, which meant that survival wasn’t exactly *difficult*... But her four-month trek across half a hemisphere had turned up a leaf that, when boiled, produced something that tasted *almost* like a cup of sweet tea. Which was nice.
+At least Cimbrean was a Class 4 world, which meant that survival wasn’t exactly *difficult*...But her four-month trek across half a hemisphere had turned up a leaf that, when boiled, produced something that tasted *almost* like a cup of sweet tea. Which was nice.
 
 On reflection, Jennifer Delaney, mid-twenties, space-babe discoverer of almost tea, ex-pirate and governor of a hole in the ground just didn’t have the same ring to it.
 
@@ -504,7 +504,7 @@ The heat signature turned out to be a huge stone bath, steaming gently. Relaxing
 
 “You boys are either an hour too early, or four months too late, and I don’t know which.” said the woman. Irishness lilted off every syllable, heavy with weary resignation. “Go away, I’m having a bath.”
 
-Kirk leaned down and whispered in Julian’s ear: “Any advice on how to deal with... this?”
+Kirk leaned down and whispered in Julian’s ear: “Any advice on how to deal with...this?”
 
 Julian shook his head, eyes wide as he stared desperately off towards the distant mountains - no! Not the mountains, the hills - no! The wall, yes. The wall seemed safe. “You’re on your own.”
 
@@ -530,7 +530,7 @@ Julian did so, carefully. She had turned and folded her arms atop the edge of th
 
 “Uh… yeah. I’m impressed.”
 
-“I used to work in I.T.” she said, plainly convinced that this was an explanation. When their blank expressions told her that it wasn’t, she sighed and clarified: “lots of boring office hours sat on a computer with nothing to do, lots of clicks on the “random” button on Wikipedia because there are only so many cat pictures a girl can look... at... look, I’m trying to take a *bath* here.”
+“I used to work in I.T.” she said, plainly convinced that this was an explanation. When their blank expressions told her that it wasn’t, she sighed and clarified: “lots of boring office hours sat on a computer with nothing to do, lots of clicks on the “random” button on Wikipedia because there are only so many cat pictures a girl can look...at...look, I’m trying to take a *bath* here.”
 
 “Here? Now?” Julian asked.
 

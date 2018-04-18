@@ -495,7 +495,7 @@ Gabriel leaned forward. “There is no such thing, as a perfect girl.” he said
 
 Gabriel finished his food. “Hey, can you clean this up? I’ma get your bedding out and hit the sack.”
 
-“Sure, Dad…” Adam said. “And... thanks.”
+“Sure, Dad…” Adam said. “And...thanks.”
 
 “No problem.” Gabriel stood, ruffled his son’s hair again, and indicated the TV as he passed it. “Turn it off and go to sleep at midnight, and no jacking off on my couch.”
 
@@ -512,7 +512,7 @@ She nodded off to sleep in her seat. A few seconds later, she woke, looking arou
 
 Flanks rippling like an explosion in a paint factory, she hastily began to check her files, notes and appointments.
 
-Then she stared at the page, wondering why she couldn’t read it. While that problem was occupying her attention, she idly wondered why her entire body was beginning to feel tingly and numb. She felt warm, though, and tired. Whatever it was she had been so... agitated up about could wait until… she yawned… until she’d had a nap…
+Then she stared at the page, wondering why she couldn’t read it. While that problem was occupying her attention, she idly wondered why her entire body was beginning to feel tingly and numb. She felt warm, though, and tired. Whatever it was she had been so...agitated up about could wait until… she yawned… until she’d had a nap…
 
 Half an hour later, her aide’s frantic call to medical came much too late for Secretary Meered. The cause of death was recorded as cerebral infarction.
 
@@ -605,7 +605,7 @@ He bent over backwards, planted his hands on the floor and kicked up until he wa
 
 “Not that I don’t appreciate the input and assistance of a single-digit.” Seventy-two said, speaking with as much tartness as he could muster “but I was under the impression that this is *my* operation.”
 
-“Oh, it is. As far as the Numbers know, the operation on this planet is still being overseen by Seventy-Two. I am here... unofficially.”
+“Oh, it is. As far as the Numbers know, the operation on this planet is still being overseen by Seventy-Two. I am here...unofficially.”
 
 “*Unofficially?!*” Seventy-Two spat the word.
 
@@ -824,7 +824,7 @@ Nobody else could be so… average, so bland. It was almost a defining trait in 
 
 He feverishly dug in his jeans pocket for his own phone, just as Ava returned.
 
-“Okay, I’m... what’s up?” she asked, sensing his urgency.
+“Okay, I’m...what’s up?” she asked, sensing his urgency.
 
 “I recognised somebody.” Adam said, quietly.
 

@@ -34,7 +34,7 @@ Moho shrugged. “I’unno. Never learned it.”
 
 Miller shrugged too when Jack looked at her. “Don’t ask me, I’m terrible with names. It was kinda old-fashioned though. And it started with a B. Like, uh… Betty or something. I’unno. Might’a been Betty.”
 
-Jack resisted the urge to scratch his hand where the drip had been. He’d definitely enjoyed kissing…*Her*... But not knowing Her name just felt *wrong.* He felt dirty, and not just from the dried vomit on his shirt.
+Jack resisted the urge to scratch his hand where the drip had been. He’d definitely enjoyed kissing…*Her*...But not knowing Her name just felt *wrong.* He felt dirty, and not just from the dried vomit on his shirt.
 
 Moho, in a rare gentle moment, laid a hand the size of a ham on his shoulder. “Bruh. You don’t need her name. We were right, you got game like you were born with swag.”
 
@@ -205,7 +205,7 @@ Bill gave him a long and unreadable look. “Let’s be certain I understood you
 
 “After all you’ve done?”
 
-“All we did, we did because we saw no other option. Now… You have us on the back foot. Our estimated likelihood of victory keeps declining, especially in light of your victory here on Gao...  I presume we *are* still on Gao, yes?”
+“All we did, we did because we saw no other option. Now… You have us on the back foot. Our estimated likelihood of victory keeps declining, especially in light of your victory here on Gao... I presume we *are* still on Gao, yes?”
 
 Bill said nothing. Cytosis hadn’t expected him to.
 
@@ -269,7 +269,7 @@ Jack, sitting on a medical bed with his feet dangling, nodded agreement. “Unti
 
 “Logic, yeah. Very logical.” Thurrsto’s ears swivelled and he sniffed. “Ain’t exactly warm, though.”
 
-“No. But, uh... I think maybe societies do that. Like, I read somewhere that we humans would be basically content in groups of a hundred or so. A lot of our bullshit comes from being so many all close together.
+“No. But, uh...I think maybe societies do that. Like, I read somewhere that we humans would be basically content in groups of a hundred or so. A lot of our bullshit comes from being so many all close together.
 
 “Besides,” he added. “Take it from me, I know all about being crowded by your parents.” Mark and Hayley had become endlessly more protective after Sara died. Really, if it hadn’t been for Adam’s influence he doubted if they’d have given their blessing for Jack to join the Royal Navy… not that he’d needed it, but getting it had definitely made him feel better.
 
@@ -353,7 +353,7 @@ ___
 
 Darcy had to admit, life had improved for her. She was sleeping better, she was fitter, she was *way* less stressed, she had more free time. All things considered, her demotion had been a heavily disguised blessing.
 
-If the old adage was true that everybody got promoted to their point of incompetence and then stuck there, then Darcy had been one of the lucky few who got to drop back down to her peak of competence... and she felt good for it! Maybe she was just being optimistic… but she’d rather be really, *really* good at a slightly lower-tier job than balanced on a knife at a higher level.
+If the old adage was true that everybody got promoted to their point of incompetence and then stuck there, then Darcy had been one of the lucky few who got to drop back down to her peak of competence...and she felt good for it! Maybe she was just being optimistic… but she’d rather be really, *really* good at a slightly lower-tier job than balanced on a knife at a higher level.
 
 She was incredibly good at her job. Best in the department. That much was a point of pride.
 
@@ -418,7 +418,7 @@ Jamie Choi was patrolling around the campfire, talking animatedly as he always d
 
 “D-don’t we have imp— imp—” Berry sighed, but everyone waited patiently for him to finish. “*Impact* deflection screens?”
 
-“Sure. Five layers of them, each shaped to surround the whole ship. Again, I’d need to reprogram the topography to avoid intersection... Besides, it’s a speedbump design, they work in tandem to refract and deflect an incoming object rather than stop it outright. Each one individually has a low cutoff threshold.”
+“Sure. Five layers of them, each shaped to surround the whole ship. Again, I’d need to reprogram the topography to avoid intersection...Besides, it’s a speedbump design, they work in tandem to refract and deflect an incoming object rather than stop it outright. Each one individually has a low cutoff threshold.”
 
 “Alright,” Spears decided. “So the portable shield barricade idea’s a no-go.”
 
@@ -618,7 +618,7 @@ Bozo’s ears pricked, but he was the ideal conversation partner in many ways. E
 
 Bozo *“wff”*’d past his corndog and led him toward Riverside Park.
 
-True to form, it didn’t take long for him to sniff down his better half. Hannah was out running with her owner and and... Wait, that wasn’t Ríos’ adoptive father…
+True to form, it didn’t take long for him to sniff down his better half. Hannah was out running with her owner and and...Wait, that wasn’t Ríos’ adoptive father…
 
 Derek Coombes gave Powell a nod as they slowed to a halt together. “Morning, boss.” Like all the very best operators, he could be both respectful and familiar with his CO in a way that wasn't exactly by the numbers.
 
@@ -943,7 +943,7 @@ Arés gave her a dubious look over her Coke, then shrugged and took a sip.
 
 “Weren’t you out last night as well?” Arés asked.
 
-“Eh, swing and miss with Jack... He isn’t gay, or ace or whatever, is he?”
+“Eh, swing and miss with Jack...He isn’t gay, or ace or whatever, is he?”
 
 “Jack? Oh no. No. Nooo.” Arés shook her head. “No, definitely not.”
 
@@ -1061,7 +1061,7 @@ The three of them carefully checked the area for Herculean Scottish ninjas.
 
 “Exactly. Any guy I dated would have to deal with Big Brother Firth. Murray *could.”*
 
-“I... didn’t realize he was that protective of you.”
+“I...didn’t realize he was that protective of you.”
 
 “Yeah, since basically the first day. Don’t ask me how or why. Besides,” Deacon sipped her drink before continuing, “You gonna tell me Moho wouldn’t do the same for you?”
 
@@ -1107,7 +1107,7 @@ Deacon’s answer was to pluck at the off-the-shoulder sweater she was wearing a
 
 “And hey! You could make baby stuff! Made from nice soft Naxas wool!” Deacon enthused.
 
-Marty sighed. “Fine... Never let it be said I won’t try anything once.”
+Marty sighed. “Fine...Never let it be said I won’t try anything once.”
 
 Deacon gave her a sidelong hug. “We can make ‘Horse a Christmas sweater!” she declared with, Miller thought, malicious glee.
 
@@ -1145,7 +1145,7 @@ Marty smiled. “All the more reason to be nice to any girl who can handle him�
 
 “Heck of a party,” Miller snorted, but she finished her drink and stood up. “But shit, why not? I’m not in the mood for anything crazy tonight anyhow.”
 
-Being perfectly honest, needlework sounded a lot like torture... but it was at least a lesser *grade* of torture than drinking alone after striking out. Besides, she was hungry and Deacon’s apartment was on Delaney Row, right next to the supermarket with its 28/7 deli. And hey, if the girls wanted to spend all night knitting sweaters and snarfing jalapeño poppers, who was she to say no?
+Being perfectly honest, needlework sounded a lot like torture...but it was at least a lesser *grade* of torture than drinking alone after striking out. Besides, she was hungry and Deacon’s apartment was on Delaney Row, right next to the supermarket with its 28/7 deli. And hey, if the girls wanted to spend all night knitting sweaters and snarfing jalapeño poppers, who was she to say no?
 
 There were worse ways to spend a night.
 ___
@@ -1354,7 +1354,7 @@ Allison pulled a face. “Really?”
 
 “Yeah, yeah…”
 
-*“So... speak of the Devil, huh?”*
+*“So...speak of the Devil, huh?”*
 
 “Huh? Oh.” Allison mentally rewound. “Uh, there was this thing on the news about Hephaestus asteroid mining and it got me thinking about our own safety record with the missing ships… Uh, but that’s… I know the problem wasn’t with the ships,” she added.
 
@@ -1474,7 +1474,7 @@ Apparently the technology was quite old. Cimbrean had been equipped with a basic
 
 “Yes, Father.”
 
-“Helm, low-profile pursuit. Comms... contact the Great Father.”
+“Helm, low-profile pursuit. Comms...contact the Great Father.”
 
 “Yes, Father.”
 
@@ -1743,7 +1743,7 @@ Arés snorted. “I’ve been getting physio from Adam to prevent that. Honestly
 
 “There’ll be coffee waiting!” Nofl promised. He waited until Arés had gone then rubbed his hands happily together and opened the next object on his to-do list.
 
-“Hmm… hmm hmm… …*♪take of these elements all that is fusible, melt them all down in a pipkin or crucible, set them to simmer and take off the scum, and a cup of coffee is the residuum♫*... Yes, that works…”
+“Hmm… hmm hmm… …*♪take of these elements all that is fusible, melt them all down in a pipkin or crucible, set them to simmer and take off the scum, and a cup of coffee is the residuum♫*...Yes, that works…”
 
 Now. On to the conundrum of that dog...
 
@@ -1870,7 +1870,7 @@ Allison sighed and peeled herself away slightly. “Yeah, that’s the tricky pa
 
 "Her what?"
 
-"I'll explain later. Anyway, my father got wicked mad, there was an *epic* fight which ended up with her out in the street... and everything's in his name."
+"I'll explain later. Anyway, my father got wicked mad, there was an *epic* fight which ended up with her out in the street...and everything's in his name."
 
 "Oh."
 
@@ -1902,7 +1902,7 @@ Amanda gave her a cold look. “...No, thank you.”
 
 "No. Thank you."
 
-Wow. Amanda was about as entertainable as a brick wall. "Okay... You don't mind if I have one, do you?"
+Wow. Amanda was about as entertainable as a brick wall. "Okay...You don't mind if I have one, do you?"
 
 Amanda sighed. "...It's your house."
 
@@ -1930,7 +1930,7 @@ Well, Amanda was definitely living up to everything negative Allison had ever sa
 
 Amanda blinked, which was an opening that Xiù was more than happy to use. “But I’m not the inquisition, and Allison isn’t a villain. She’s already given you a chance, even if only because of the boys. So tell me what you want. Why come here?”
 
-“...I... I really didn’t have anywhere else to go,” Amanda said. “I don’t have many friends, my parents passed away years ago, I don’t have… Allison is the only family I have… I have no money, no job… I’m homeless!”
+“...I...I really didn’t have anywhere else to go,” Amanda said. “I don’t have many friends, my parents passed away years ago, I don’t have… Allison is the only family I have… I have no money, no job… I’m homeless!”
 
 “And the boys? You brought your sons with you? Out on the streets with nowhere to go?”
 
@@ -1984,7 +1984,7 @@ That got a small laugh. “Don’t you *‘dummy’* me, you butt… You’d bet
 
 Allison glanced through to the kitchen. “...Y’know what? I guess if they still want to then I’d love to see them. But call them anyway.”
 
-“Fair enough... *Wǒ ài nǐ.”*
+“Fair enough...*Wǒ ài nǐ.”*
 
 *“Wo ye ai ni.”* Allison smiled more fully this time. “I’ll call Julian and… I guess I’ll keep these two entertained…” She nodded at her brothers.
 
@@ -2020,7 +2020,7 @@ What kind of species was driven by sadism like that?
 
 That had been… weeks ago? Maybe? He’d lost track of time. There had just been cramped spaces, fear, shame, occasionally falling asleep out of sheer exhaustion. Once, the doors on their claustrophobic pen had been opened and they’d been goaded out into a larger pen, already half-full of other captives. Vzk’tk and Rrrtktktkp’ch, Kwmbwrw, Celzi… There had been a Rauwryhr family, a Locayl mining crew, a cadre of broken Chehnash security specialists and even a lone, withdrawn Ruibal.
 
-That pen had been filled and days of flight had followed. Then they’d been ushered from it into an even *bigger* pen full of even *more* captives, some from species that Gorg had never seen before or even heard of... And from there into the echoing belly of a truly cavernous ship devoted to one purpose: the mass transport of enormous numbers of meat slaves.
+That pen had been filled and days of flight had followed. Then they’d been ushered from it into an even *bigger* pen full of even *more* captives, some from species that Gorg had never seen before or even heard of...And from there into the echoing belly of a truly cavernous ship devoted to one purpose: the mass transport of enormous numbers of meat slaves.
 
 The Hunters never entered the pen. Even they knew that an angry mob of their captives could smash them individually. But they patrolled the outside with fusion scythes and pulse rifles and other, stranger weapons that Gorg’s oldest son Yurk thought looked *Human.*
 
@@ -2225,7 +2225,7 @@ Mostly. She smiled at the basic structural plan when she saw he’d made the sam
 
 Lewis looked at it, then grinned at her. “This is why I love you.”
 
-He didn’t say that very often. It was nice to hear and Lucy grinned back. “So... what’s that you’re making?”
+He didn’t say that very often. It was nice to hear and Lucy grinned back. “So...what’s that you’re making?”
 
 He showed her. She proposed modifications, he queried material, she double-checked his math… Half a day slipped away in creative bliss.
 
@@ -2454,7 +2454,7 @@ Yan and Vemik didn’t have the faintest clue what to do with soap, and so Julia
 
 [“Hold out your hands, please.”]
 
-They did, warily, and Julian squirted a healthy dollop into their palms. Yan poked at it dubiously with a furrowed brow. “What *is* this... soap? Made from what?”
+They did, warily, and Julian squirted a healthy dollop into their palms. Yan poked at it dubiously with a furrowed brow. “What *is* this...soap? Made from what?”
 
 Hoeff had more or less pressure-washed all the mud off the cavebros and they were standing in the middle of the parking lot, shivering next to the electric heaters that he had thoughtfully brought out. But the two idiots were so goddamned smelly there was no way on God’s green…Cimbrean…that Julian would allow them into his home.
 

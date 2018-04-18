@@ -96,7 +96,7 @@ They scooped the helmets up and put them on, pushing them down firmly until they
 
 Kovač tugged the roll of duct tape she'd been wearing as a bracelet off her wrist. "Seal check!" she announced.
 
-This was a simple ritual – each man carefully examined the seal of the man beside him and announced it was good with a ringing slap to the helmet. Kovač then double-checked for him and then applied some tape over the seal for good measure. It probably wouldn't actually *do* anything, but everyone felt better for it.
+This was a simple ritual---each man carefully examined the seal of the man beside him and announced it was good with a ringing slap to the helmet. Kovač then double-checked for him and then applied some tape over the seal for good measure. It probably wouldn't actually *do* anything, but everyone felt better for it.
 
 "HUD check."
 
@@ -134,7 +134,7 @@ The reply came back in a few seconds. "*RIGHTEOUS, Caledonia CIC, we have you re
 
 One of the techs by the airlock echoed the call - "Clear the deck!" and they filed out. Once it had cycled and the light above it indicated full seal, Firth nodded to the guys, they exchanged fist-bumps, and he touched his helmet again. “CIC, RIGHTEOUS, go for doors. I say again, we're go for doors.”
 
-The acknowledgement was lost as a siren hooted five times – giving plenty of warning to anyone who might need to dash to hit the emergency button – and then the gravity went away. So did the air, brushed to the corners of the room and held in place by a forcefield that swept the deck empty. They all glanced at one another, checking for any signs of distress. Everyone's suit was working fine, and they watched the huge flight deck doors push outwards and then split into two halves, which both swung aside.
+The acknowledgement was lost as a siren hooted five times---giving plenty of warning to anyone who might need to dash to hit the emergency button---and then the gravity went away. So did the air, brushed to the corners of the room and held in place by a forcefield that swept the deck empty. They all glanced at one another, checking for any signs of distress. Everyone's suit was working fine, and they watched the huge flight deck doors push outwards and then split into two halves, which both swung aside.
 
 Naked stars yawned at Adam from incomprehensibly far away, somehow made to feel close and dangerous by the fact that literally nothing separated him from them save distance and his EV-MASS. All he could hear was the faint muffled sound of his own heart, his own digestion, and the rush of air into and out of his mask past his ears.
 
@@ -146,7 +146,7 @@ Naked stars yawned at Adam from incomprehensibly far away, somehow made to feel 
 
 "*I hear ya… There's our box.*" Firth agreed. Adam's HUD filled with a flight waypoint and instructions on how much thrust to give himself, which he followed to the letter. Firth knew best when it came to EVA navigation.
 
-*Caledonia* threw a spotlight on their target as they got close to it – a round vehicle, the proportionate shape of a hockey puck but twenty feet across and bright blue, covered in alien labels and script. One standard type three Dominion life raft. Without the light, both it and the bulk of their mothership would have been damn near invisible. The human eye had never really been designed for the lighting conditions in interstellar space, some light years from the nearest star. In fact, aside from the spotlight and the blinking beacon atop the liferaft, the nearest and brightest point of light was the gravity spike that *Caledonia* had deployed to catch the tiny craft so that it could be brought aboard.
+*Caledonia* threw a spotlight on their target as they got close to it---a round vehicle, the proportionate shape of a hockey puck but twenty feet across and bright blue, covered in alien labels and script. One standard type three Dominion life raft. Without the light, both it and the bulk of their mothership would have been damn near invisible. The human eye had never really been designed for the lighting conditions in interstellar space, some light years from the nearest star. In fact, aside from the spotlight and the blinking beacon atop the liferaft, the nearest and brightest point of light was the gravity spike that *Caledonia* had deployed to catch the tiny craft so that it could be brought aboard.
 
 They swung into place. As Firth set up shop notionally "above" the life raft to keep an eye on its velocity relative to *Caledonia*, Adam went with Sikes and Burgess joined Vandenberg in approaching antipodal spots on the rim of the little craft, where the two Defenders set to work welding larger versions of their suits' KMPs to it while the Protectors held them in place.
 
@@ -200,7 +200,7 @@ The occupants were in a bad way. The fit-looking tanned dude in the back had bad
 
 "You should see the other guy." the blonde told him.
 
-"Hah! *Bueno.*" He turned back out the door, using the excuse of talking to the people outside to cover prepping a dose of anaesthetic – the Chinese girl was going to need to go on life support immediately, and for that she needed to be asleep.
+"Hah! *Bueno.*" He turned back out the door, using the excuse of talking to the people outside to cover prepping a dose of anaesthetic---the Chinese girl was going to need to go on life support immediately, and for that she needed to be asleep.
 
 Not for the first time, he *wished* that they were authorised to use Crue-D for first aid. "Base, get the blonde patient, she looks oedemic." he instructed. “Rebar, I'ma need that board there.” Vandenberg nodded and stepped smartly to retrieving it, so he returned his attention to the Chinese girl.
 
@@ -210,7 +210,7 @@ Not for the first time, he *wished* that they were authorised to use Crue-D for 
 
 She nodded weakly as he manoeuvred her gently onto it and he realised she hadn't actually spoke yet. "What's your name?"
 
-"Uh…" she frowned. Apparently the anaesthetic was kicking in. “I’m... Xiù. Xiù Chang.”
+"Uh…" she frowned. Apparently the anaesthetic was kicking in. “I’m...Xiù. Xiù Chang.”
 
 Adam didn't allow his surprise to show. Of all the people he could have pulled out of a life raft, he'd found Regaari's friend? Besides, her breathing was *definitely* too labored for comfort. There was fluid on her lungs, and that needed to be gone sooner rather than later. Surprising coincidences could be handled later.
 
@@ -250,13 +250,13 @@ Until then, it watched the MV *Nasarpur*.
 
 There were ten of them, biodrone bodies collected from around the geopolitical region collectively known as "Middle East". The concept of being in the middle of the direction of prograde was nonsense, but the biodrone was not granted the autonomy to ponder that absurdity.
 
-Many more biodrones had been assembled from all across this irrationally named region, but the ten in this boat were all, for lack of a term that more accurately and satisfactorily encompassed them, soldiers. Fighters, perhaps – men whose lives had left them proficient in the use of weaponry, though each for very different reasons. One or two were soldiers indeed, the volunteer agents of a legitimate state's legal monopoly on controlled violence. Others had first raised a gun to protect themselves and their families, and never found an opportunity to put it back down. The rest had taken up arms for religious reasons that the drone's programming simply was not equipped to understand, even if it had been granted leave to try.
+Many more biodrones had been assembled from all across this irrationally named region, but the ten in this boat were all, for lack of a term that more accurately and satisfactorily encompassed them, soldiers. Fighters, perhaps---men whose lives had left them proficient in the use of weaponry, though each for very different reasons. One or two were soldiers indeed, the volunteer agents of a legitimate state's legal monopoly on controlled violence. Others had first raised a gun to protect themselves and their families, and never found an opportunity to put it back down. The rest had taken up arms for religious reasons that the drone's programming simply was not equipped to understand, even if it had been granted leave to try.
 
-The order came and the biodrone rushed to obey over the side of the boat, which took a good minute or two. Parameters flooded in as it did so – data about the layout of the target ship, how many men were on board, their armament and training, their exact locations, the location of the cargo they were protecting.
+The order came and the biodrone rushed to obey over the side of the boat, which took a good minute or two. Parameters flooded in as it did so---data about the layout of the target ship, how many men were on board, their armament and training, their exact locations, the location of the cargo they were protecting.
 
 The drones conferred, bypassing crude language to form a network which evaluated the unique skills each one had inherited from the human it had once been and liaised this information back to a central Controller, which ran a rapid-fire of thousands of different simulations based on their suggestions, keeping the most successful, permutating upon them, combining them, throwing raw processing power at them until it had arrived at the most effective approach which carried a maximal probability of satisfying all mission objectives.
 
-That approach hinged upon two simple truths. The first was that their vehicle was invisible to the radar of the ships trailing MV *Nasarpur* at a discreet distance, and produced almost no audible noise – certainly not any that would be heard over MV *Nasarpur*'s own engines.
+That approach hinged upon two simple truths. The first was that their vehicle was invisible to the radar of the ships trailing MV *Nasarpur* at a discreet distance, and produced almost no audible noise---certainly not any that would be heard over MV *Nasarpur*'s own engines.
 
 The second was that biodrones were expendable.
 
@@ -344,21 +344,21 @@ It was a fittingly prestigious and understated home for a prestigious and unders
 
 Regaari, as a political officer, should not have been among them. The location of his office was a relic of the Clan's disfavour, though that had softened over the years as the Fathers responsible had retired and as Regaari's own influence had grown. His friendship with Giymuy had done wonders for the Whitecrest breeding program, and the fact that he was now forging bonds with a Human military unit…
 
-Several of the Fathers were worried, he suspected. A younger male with that kind of influence – and *certainly* one with as many cubs as Regaari had now sired – was a threat to the established order.
+Several of the Fathers were worried, he suspected. A younger male with that kind of influence---and *certainly* one with as many cubs as Regaari had now sired---was a threat to the established order.
 
-His immediate future was doubtless going to involve either attempted assimilation into the Clan leadership or – vastly more likely – relegation to yet another satellite position with all the *appearance* of prestige.
+His immediate future was doubtless going to involve either attempted assimilation into the Clan leadership or---vastly more likely---relegation to yet another satellite position with all the *appearance* of prestige.
 
 Right now, though, politics ruled the day. That was Regaari's job, and Regaari was *good* at his job. Indeed, he'd become even better at it ever since discovering just how modifiable his new cybernetic hand was. Had he worn sleeves, he would literally have had some tricks up them, first and foremost of which were the petabytes of storage space and the holographic projector in his palm. His workstation was literally attached to him, available at an instant's notice.
 
 "Yulna's going to win." he declared.
 
-Father Terrik – the elderly officer ostensibly responsible for supervising Regaari's work, scratched at his ear with an air of scepticism. "I had thought that her attachment to the human female… just like Giymuy…?" he suggested.
+Father Terrik---the elderly officer ostensibly responsible for supervising Regaari's work, scratched at his ear with an air of scepticism. "I had thought that her attachment to the human female… just like Giymuy…?" he suggested.
 
 "-Is much less of an issue than Mother Suri and her supporters like to believe." Regaari informed him. “I had Brother Ruuvi conduct a meta-analysis of the datasphere commentary. Most of the females just don't care, and of those who do the majority are broadly positive.”
 
 Terrik inclined his head. "Positive?"
 
-"For reasons ranging from the pragmatic to the compassionate." Regaari elaborated. He activated the gesture-based command in his new paw that caused it to project the files in an almost physical format above his palm. With his remaining natural paw, he could select, move and even throw the files around – copying them to another device was as simple as throwing them towards said device. This he now did.
+"For reasons ranging from the pragmatic to the compassionate." Regaari elaborated. He activated the gesture-based command in his new paw that caused it to project the files in an almost physical format above his palm. With his remaining natural paw, he could select, move and even throw the files around---copying them to another device was as simple as throwing them towards said device. This he now did.
 
 "That's my full report." he explained, as Terrik studied and accepted the incoming file. “It details my findings, my reasoning and my supporting evidence. Much as I like and respect Yulna, I've made every effort to remain neutral and unbiased in my assessment, and I am still convinced that Mother Suri has a negligible chance of being the next Mother Supreme.”
 
@@ -368,13 +368,13 @@ Terrik stood. "I will read it in full and present it to the Fathers." he promise
 
 Terrik made a thoughtful head-duck to acknowledge Regaari's point, and let himself out.
 
-Regaari gave it a few minutes and toured his office. He used the time in tidying up the minimal mess and examining his few keepsakes – a crystal data wafer full of Xiù's precious collection of Earth entertainment, one of Giymuy's walking canes that she had bequeathed to him, and a framed picture, a gift from the SOR, depicting all of them gathered round him and beaming those big toothy deathworlder smiles. Actual pigment printed on paper – a technology so obsolete in Gaoian society that it might have been an antique or relic, and obsolete by human standards too, but this one was glossy, crisp and new.
+Regaari gave it a few minutes and toured his office. He used the time in tidying up the minimal mess and examining his few keepsakes---a crystal data wafer full of Xiù's precious collection of Earth entertainment, one of Giymuy's walking canes that she had bequeathed to him, and a framed picture, a gift from the SOR, depicting all of them gathered round him and beaming those big toothy deathworlder smiles. Actual pigment printed on paper---a technology so obsolete in Gaoian society that it might have been an antique or relic, and obsolete by human standards too, but this one was glossy, crisp and new.
 
 That was enough procrastination. He headed out, locked up his office, combed a bit of stray fur back into place as he jogged down the hall, and let himself into Brother Ruuvi's office.
 
-Ruuvi was an ally, a genuine one. A fellow victim of clan politics whose career had been similarly holed by voicing honest concern to the wrong Father, he was even more fervently in favour of reform and a change of leadership than was Regaari. Unlike Regaari, he'd been "promoted" to leadership of the clan's digital security and information wing – what the SOR had called “SigInt” - and, like Regaari, had taken his new role and excelled at it, adapting to the demands of the job with the aplomb and rapidity that had made Clan Whitecrest's reputation.
+Ruuvi was an ally, a genuine one. A fellow victim of clan politics whose career had been similarly holed by voicing honest concern to the wrong Father, he was even more fervently in favour of reform and a change of leadership than was Regaari. Unlike Regaari, he'd been "promoted" to leadership of the clan's digital security and information wing---what the SOR had called “SigInt” - and, like Regaari, had taken his new role and excelled at it, adapting to the demands of the job with the aplomb and rapidity that had made Clan Whitecrest's reputation.
 
-Regaari didn't bother with a greeting – they'd been planning this particular sting all week. "Well?"
+Regaari didn't bother with a greeting---they'd been planning this particular sting all week. "Well?"
 
 "He read the summary and then forwarded the file to Reyu, Redilo and Yemmil."
 
@@ -428,7 +428,7 @@ Whatever she was trying to think aloud went un-thought at the distant sound of a
 
 Adam didn't bother with his key. The doorframe and lock both disintegrated as he just swatted the door so hard that even one of the hinges broke, leaving it hanging drunkenly from the top corner. His expression wouldn't have looked out of place on an angry war deity, and Ava actually shrieked a little and took a shocked couple of steps back.
 
-Sean's own reaction was no less violently startled – he flinched away from the broken door and wound up having to scramble to his feet to avoid tipping over the chair arm and onto the floor.
+Sean's own reaction was no less violently startled---he flinched away from the broken door and wound up having to scramble to his feet to avoid tipping over the chair arm and onto the floor.
 
 Ava had retreated even further across the room as Adam bore down on her, until her back was against the wall and she was penned in against it by the palm he'd smacked down right next to her head. She was wearing any expression that was the very picture of equal parts bewilderment and fright. From where he was standing, Sean couldn't see Adam's face, but he could see the rage simmering in every line of those titanic muscles.
 
@@ -498,7 +498,7 @@ In the aftermath of that roar, Sean could have sworn the loudest sound in the ro
 
 He trailed off.
 
-Ava was weeping openly now. The fear in her body language was gone – for the first time since Sean had known her, she looked *ashamed*.
+Ava was weeping openly now. The fear in her body language was gone---for the first time since Sean had known her, she looked *ashamed*.
 
 "But..." she put a hand on Adam's face and he swatted it aside to glare at her again. “Adam, all I ever wanted was *you*.”
 
@@ -520,7 +520,7 @@ ___
 
 "You are approaching a commune of females, male. Identify yourself."
 
-Regaari was in no mood for games. The message from Warhorse was far too important to pass to Ayma digitally – this was a *conversation*, and one that he was itching to have.
+Regaari was in no mood for games. The message from Warhorse was far too important to pass to Ayma digitally---this was a *conversation*, and one that he was itching to have.
 
 "You can't be serious, Sister Layra, you've seen me every third or fourth day for a quarter of a year, it's *me!"* He pointed out, making a bee-line for the door.
 
@@ -528,7 +528,7 @@ He nearly walked into her ceremonial fusion spear, which was suddenly charged an
 
 "Identify. Yourself." she repeated.
 
-Frustration, outrage and the burning need to deliver his message had badly eroded Regaari's composure anyway. Having a weapon levelled at him was the final insult that forced him to do something that, under normal circumstances, no sane male would have even considered – he *snarled* at a female.
+Frustration, outrage and the burning need to deliver his message had badly eroded Regaari's composure anyway. Having a weapon levelled at him was the final insult that forced him to do something that, under normal circumstances, no sane male would have even considered---he *snarled* at a female.
 
 "Regaari. To deliver a message to Mother Ayma. Now *get out of my way you* **_witless, parasite-infested, officious plodding four-paw!_**"
 
@@ -538,7 +538,7 @@ Regaari swept past her.
 
 Unlike the Whitecrest enclave, the Commune of Females wasn't a single architecturally planned building but several, built organically over the centuries as the needs of the females had changed and as available funds and labour had dictated. Not that the females were ever short on either funds or labour thanks to the thousands of attention-hungry males who lived in the city outside their walls.
 
-Still, at some point a senior Mother had declared that the entrance to the commune needed to be something both imposing and beautiful, and so an appropriately grand building, far wider than it was tall, had been constructed. From the outside, its most striking features were its sweeping white stone stairs and the doors at their top – huge Takwood things with borders of angular geometric silver filigree that were only ever opened for important occasions. The actual *entrances* were the rather more discreet though similarly decorated frosted-glass sliding doors to either side, one of which whispered open for him as he approached, and was ignored as he passed through.
+Still, at some point a senior Mother had declared that the entrance to the commune needed to be something both imposing and beautiful, and so an appropriately grand building, far wider than it was tall, had been constructed. From the outside, its most striking features were its sweeping white stone stairs and the doors at their top---huge Takwood things with borders of angular geometric silver filigree that were only ever opened for important occasions. The actual *entrances* were the rather more discreet though similarly decorated frosted-glass sliding doors to either side, one of which whispered open for him as he approached, and was ignored as he passed through.
 
 Impressive though it was outside, Regaari had always thought that the inside of the commune's grand building was by far more beautiful.
 
@@ -566,7 +566,7 @@ Myun surged to her feet. "Shoo's safe?!"
 
 She impressed and pleased Regaari by reaching up to the communicator clipped to her ear and pinching it before he had even thought to ask her. "Security Central, Mother Ayma has a priority message waiting on the grand concourse. Call for her please. Priority message for Mother Ayma, grand concourse."
 
-She listened to the response, then growled a little. Her contract with Regaari had earned Myun some prestige – a fact which spoke volumes of Regaari's own reputation – but she was still very much the junior on the security forces, and somebody somewhere was keen to keep her reminded of that fact. Nothing ever went as swiftly and smoothly as she would have liked. "It's a personal message, Central, but very important and *private*. Please call for her. Thank you."
+She listened to the response, then growled a little. Her contract with Regaari had earned Myun some prestige---a fact which spoke volumes of Regaari's own reputation---but she was still very much the junior on the security forces, and somebody somewhere was keen to keep her reminded of that fact. Nothing ever went as swiftly and smoothly as she would have liked. "It's a personal message, Central, but very important and *private*. Please call for her. Thank you."
 
 She sighed and unclipped the communicator, muttering a loaned human curse once it was safely turned off. "*Bitch*."
 
@@ -576,7 +576,7 @@ Regaari chittered quietly. "Anyway, I don't know more than is in the message the
 
 "It's a lot easier to get a message *from* the SOR than *to* the SOR..." Regaari mused. Both of them pricked their ears up as they heard the commune-wide announcement for Ayma.
 
-"Ayma has Yulna's ear." Myun pointed out, borrowing yet another human phrase. She did that a lot, peppering her language with deathworlder colloquialisms. Regaari had almost begun developing the same habit, but had carefully avoided it – he had the political consequences to think about. Myun on the other hand seemed to have accepted that her enthusiasm for all things human was equal parts profitable and isolating. Either that or she was too headstrong to care.
+"Ayma has Yulna's ear." Myun pointed out, borrowing yet another human phrase. She did that a lot, peppering her language with deathworlder colloquialisms. Regaari had almost begun developing the same habit, but had carefully avoided it---he had the political consequences to think about. Myun on the other hand seemed to have accepted that her enthusiasm for all things human was equal parts profitable and isolating. Either that or she was too headstrong to care.
 
 "True, but Yulna is not Mother-Supreme *yet*." Regaari pointed out. “She may not have as much influence as you think.”
 
@@ -650,7 +650,7 @@ The fact that she had even made it that far spoke volumes of her tenacity.
 
 Her doctor was in no mood to entertain military scientists, however. "She undoubtedly is." She agreed. “But I would very much appreciate knowing why I've got an Army colonel in my ITU, please.”
 
-Ted nodded. "Doctor Spilny, I need to swear you to secrecy on a few things. This is going to be important to her care, but it's also important for… well." he handed over a tablet with a non-disclosure agreement on it. The doctor skimmed it – it wasn't long – and then scrawled her signature and pressed her thumb to the biometric pad for good measure.
+Ted nodded. "Doctor Spilny, I need to swear you to secrecy on a few things. This is going to be important to her care, but it's also important for… well." he handed over a tablet with a non-disclosure agreement on it. The doctor skimmed it---it wasn't long---and then scrawled her signature and pressed her thumb to the biometric pad for good measure.
 
 "Miss Chang is one of the few people we know of to survive nervejam trauma." Ted told her, after he'd countersigned. “Are you familiar with nervejam at all?”
 
@@ -758,13 +758,13 @@ The three Defenders exchange quick glances, communicating silently.
 
 "Lads."
 
-Everyone looked at Murray. Murray was like that – you could completely forget he was there until he opened his mouth, and softly Scottish though his speech might have been, everyone shut up and listened. Never mind that he was the smallest of the SOR's enlisted men, he commanded attention whenever he chose to.
+Everyone looked at Murray. Murray was like that---you could completely forget he was there until he opened his mouth, and softly Scottish though his speech might have been, everyone shut up and listened. Never mind that he was the smallest of the SOR's enlisted men, he commanded attention whenever he chose to.
 
 "...Let's just watch the movie."
 
 Everyone paused, then settled a bit. There was a round of nods and murmured agreements, and the guys all sat back down on the couch.
 
-Baseball was left standing. "Uh... hey, lemme in there..." he ventured
+Baseball was left standing. "Uh...hey, lemme in there..." he ventured
 
 "Couch is full, John." Firth told him, not looking at him.
 
@@ -778,7 +778,7 @@ After a moment's hesitation, John settled for a resigned throat-clear and sittin
 
 They watched in silence for a little while, even managing a collective chuckle at the exchange - '*If I were my father, I'd have you tortured.*' '*If you were your father, I doubt very much if I would have kissed you.*'
 
-The tension seemed to be just about starting to dissipate – or maybe that was just wishful thinking on John's part - when there was a distant, muffled roar of some kind and the whole building *shook* as if a bomb had gone off nearby. Huge, metal-framed and reinforced as it was, they still knocked the couch over in scrambling off it alert for danger.
+The tension seemed to be just about starting to dissipate---or maybe that was just wishful thinking on John's part - when there was a distant, muffled roar of some kind and the whole building *shook* as if a bomb had gone off nearby. Huge, metal-framed and reinforced as it was, they still knocked the couch over in scrambling off it alert for danger.
 
 "What the *fuck*?" Firth asked.
 
@@ -788,7 +788,7 @@ He was left standing as the rest of them took off at a run.
 
 Waiting for them in the gym was a sight more disturbing than anything John had seen on Capitol Station or in training. Adam's jerry-can was lying at the bottom of the wall at the far end of the gym from where it was usually kept and had burst open, spilling buckshot all over the floor. The wall itself had a crater in it about halfway up, where the cinder blocks had been smashed in by something very heavy hitting it with huge force.
 
-The 100lb plates were all off their racks and scattered around the gym like schoolyard frisbees. The spring steel barbell at the deadlift station – the one commissioned especially for the Protectors - had bent beyond hope of repair, the one at the squat rack was now roughly the shape of a hockey stick, and Adam was sitting in the middle of the floor, cradling his elbow and sobbing.
+The 100lb plates were all off their racks and scattered around the gym like schoolyard frisbees. The spring steel barbell at the deadlift station---the one commissioned especially for the Protectors - had bent beyond hope of repair, the one at the squat rack was now roughly the shape of a hockey stick, and Adam was sitting in the middle of the floor, cradling his elbow and sobbing.
 
 Baseball was at his side in a flash. "Oh man, brother, I- *oof!*"
 
@@ -830,7 +830,7 @@ Ava certainly seemed to appreciate it. At least, she muttered "...thanks..." as 
 
 "Darling, you're going to have to come up for air sooner or later." Charlotte told her.
 
-It had the desired effect. Ava laughed – a thin, delicate, slightly hysterical laugh, but a laugh nonetheless – and finally unburied her face from her arms. Instead, she rested her elbows on the table and combed her fingers into her hair. "Sorry."
+It had the desired effect. Ava laughed---a thin, delicate, slightly hysterical laugh, but a laugh nonetheless---and finally unburied her face from her arms. Instead, she rested her elbows on the table and combed her fingers into her hair. "Sorry."
 
 "For being upset? I think you have a right..."
 
@@ -930,7 +930,7 @@ And, if he was honest, something about the thrill of danger. He wasn't a vagrant
 
 "Gotcha. I'll wake 'em up." he called.
 
-Waking the other five was as simple as hitting the touchscreen on the wall as soon as he entered the room and selecting "wake all". Instantly the black haze filling every bunk faded, and his five colleagues – friends one and all – were sitting up and looking around.
+Waking the other five was as simple as hitting the touchscreen on the wall as soon as he entered the room and selecting "wake all". Instantly the black haze filling every bunk faded, and his five colleagues---friends one and all---were sitting up and looking around.
 
 "Station day?" Jennie asked. She was their biochemistry expert, a specialist whose job revolved around examining whatever organic compounds and weird alien life forms they turned up. It was a good thing she was just as capable with keeping the ship in peak condition, because their most recent circuit hadn't turned up even a single Temperate world, a fact that made her tenure on this first survey vessel increasingly tenuous. Why waste crew resources on somebody who could be better used in a follow-up expedition?
 
@@ -944,7 +944,7 @@ Everybody was grabbing cups of coffee with wet hair in short order.
 
 Mitch, however, was frowning when he stuck his head round the hatch to the flight deck. "Yo, they're refusing us docking." he called.
 
-Everyone exchanged glances, and Monica and Derek – co-pilot and flight engineer respectively – squeezed into their seats, leaving the three scientists and Kevin to eavesdrop.
+Everyone exchanged glances, and Monica and Derek---co-pilot and flight engineer respectively---squeezed into their seats, leaving the three scientists and Kevin to eavesdrop.
 
 "Did they say *why*?"
 
@@ -986,7 +986,7 @@ Ryan frowned at him. "Why?"
 
 He was right. No sooner had Derek bullied the station into grudgingly allowing BGEV-8 to synchronize with the interstellar communications relay than the ship was announcing a priority message for all eyes.
 
-Monica put a few tactful light-minutes between them and the station and they went dark in interplanetary space before relaxing enough to gather in the ship's common area – a circular lounge with furniture that folded into the deck to make room for the gym mat – and load the message.
+Monica put a few tactful light-minutes between them and the station and they went dark in interplanetary space before relaxing enough to gather in the ship's common area---a circular lounge with furniture that folded into the deck to make room for the gym mat---and load the message.
 
 Sure enough, their billionaire employer's frowning visage was the very first frame of the message.
 
@@ -1064,7 +1064,7 @@ Ava nodded, listening.
 
 He sighed. "A few months later, she was dead. And… She was tied up in the bombing of the city. I can't go into it. But sometimes I ask myself if I could have done anything differently. If maybe had I just been lax on procedure that *one* time, maybe those two million people would still be alive. It's possible."
 
-He held up a hand as Ava started to speak. "Or. Maybe they could have blown up three cities. Or ten. Or maybe the whole world would be bombed flat from orbit by the Hunters by now. I don't know. And that's kinda the point. I regret not doing more for her... But I can't think of a single thing I'd do differently. You see what I'm saying?"
+He held up a hand as Ava started to speak. "Or. Maybe they could have blown up three cities. Or ten. Or maybe the whole world would be bombed flat from orbit by the Hunters by now. I don't know. And that's kinda the point. I regret not doing more for her...But I can't think of a single thing I'd do differently. You see what I'm saying?"
 
 Ava thought about it, then nodded slowly. "You can't do more than what seems like a good idea at the time." she said.
 
@@ -1072,7 +1072,7 @@ Ava thought about it, then nodded slowly. "You can't do more than what seems lik
 
 "Learn from your mistakes..."
 
-"Right..." Gabe nodded. “Do you regret... what you did?”
+"Right..." Gabe nodded. “Do you regret...what you did?”
 
 "Yeah."
 
@@ -1256,7 +1256,7 @@ He straightened up, moving his back sinuously with a rapid-fire of little pops a
 
 John didn't say anything, just bookmarked what he'd been reading, retrieved the tea, sipped it, grimaced, and took both book and drink into the kitchen. A few seconds later, Adam heard the microwave close and hum into life.
 
-First things first – after any serious injury was repaired by Crue-D, the first thing to do was to test it. Twenty push-ups were more than enough to confirm that his elbow was fine, and they blasted out some of the dust in his head for good measure.
+First things first---after any serious injury was repaired by Crue-D, the first thing to do was to test it. Twenty push-ups were more than enough to confirm that his elbow was fine, and they blasted out some of the dust in his head for good measure.
 
 He padded through into the kitchen. "You stayed up all night?" he asked.
 
@@ -1342,9 +1342,9 @@ Adam looked down at his plate. "Doesn't excuse it." he grunted.
 
 Not wanting to admit out loud that he was probably right, Adam forced himself to shut up and think, rather than argue any more.
 
-He kept to himself for the next couple of hours as the rest of the guys woke up, and as the morning routine of keeping the dorm clean and tidy unfolded – necessary, because it would have *reeked* of male musk, body odour and sweat otherwise – the simple chores gave his mind time to work.
+He kept to himself for the next couple of hours as the rest of the guys woke up, and as the morning routine of keeping the dorm clean and tidy unfolded---necessary, because it would have *reeked* of male musk, body odour and sweat otherwise---the simple chores gave his mind time to work.
 
-For their part, the guys clearly sensed that he wasn't in a talkative mood, and were cool with that. They were just there, solid and dependable and giving him exactly what he needed – room and quiet to think. He appreciated that hugely.
+For their part, the guys clearly sensed that he wasn't in a talkative mood, and were cool with that. They were just there, solid and dependable and giving him exactly what he needed---room and quiet to think. He appreciated that hugely.
 
 They were in the middle of hanging out the laundry when the dorm's phone rang. Akiyama fielded it.
 
@@ -1406,17 +1406,17 @@ Rebar gave him a hug. "Okay brother. You go do what you gotta."
 
 Adam just nodded and gave him a weak smile. He spun round the dorm, grabbing his light ruck from under his bunk to throw in a couple of pouches of juice, an old sweater of his that he never wore any longer on account of it being much too small, two bags of beef jerky and a small first-aid kit.
 
-He changed his footwear too. He usually wore flip-flops or went barefoot around the base – boots and shoes were too expensive and broke too quickly between the size of his feet, his own mass and his tendency to bounce around rather than lumber. His hiking sandals, on the other hand, had taken everything he could throw at them for two years.
+He changed his footwear too. He usually wore flip-flops or went barefoot around the base---boots and shoes were too expensive and broke too quickly between the size of his feet, his own mass and his tendency to bounce around rather than lumber. His hiking sandals, on the other hand, had taken everything he could throw at them for two years.
 
 A couple more essentials, including his phone, and he was back out of the gate less than ten minutes after he'd sent Sean packing. He hung an immediate left, followed the fence around two sides of the base and then set out through the young broad-leaf plantation that came right up as close as the foresters were allowed.
 
 It was exactly what he needed. Adam had never been the kind of guy who did his greatest thinking in a quiet room at the best of times, and five years in the service had only strengthened the connection between his muscles and his brain. It was almost like one couldn't work properly unless the other was busy.
 
-Sure, a simple steady hike – even at the hard pace he set – through gently sloping woodland wasn't exactly taxing, but it was enough to settle his body into a rhythm and let his brain get down to business.
+Sure, a simple steady hike---even at the hard pace he set---through gently sloping woodland wasn't exactly taxing, but it was enough to settle his body into a rhythm and let his brain get down to business.
 
 Anybody coming back down the trail would have been a little alarmed to run into a guy who put pro wrestlers to shame talking angrily to himself. He spent the first two miles aggressively rehearsing all the ways he was going to tell Ava off. Then he spent the next two miles telling himself off, rehearsing ways to reconcile, rehearsing *her* side of the argument.
 
-When he did eventually run into somebody, it was an elderly couple out walking their dog, probably from one of the little peripheral forest communities. Folctha had attracted a lot of them – elderly couples and early retirees wanting a place where their pensions would go further, a nudist camp, the odd religious commune kept under close scrutiny by Cimbrean Colonial Security in case they started showing any cultish behaviour, or just second homes owned by hard-working Reclamation Project workers and Folctha city employees who wanted somewhere quiet to retreat to for the weekend.
+When he did eventually run into somebody, it was an elderly couple out walking their dog, probably from one of the little peripheral forest communities. Folctha had attracted a lot of them---elderly couples and early retirees wanting a place where their pensions would go further, a nudist camp, the odd religious commune kept under close scrutiny by Cimbrean Colonial Security in case they started showing any cultish behaviour, or just second homes owned by hard-working Reclamation Project workers and Folctha city employees who wanted somewhere quiet to retreat to for the weekend.
 
 He saw them long before they were in earshot, shut up, met them with a polite touch to his forehead and a "Sir. Ma'am." and ignored the stares. People around Folctha were pretty used to the SOR, but these two had clearly never met one of the Operators before. Their reaction was pretty standard for first-timers.
 
@@ -1434,9 +1434,9 @@ There was even a stand of *Cimbreaner Simiscamellia Delanii,* the Cimbrean Tea B
 
 Adam had to admit. Cimbrean was still beautiful.
 
-He heard Ava long before he saw her. He could hear her voice between the trees and bushes, talking to somebody. He had no idea who – Sean hadn't mentioned anybody else being missing and people never came this far along the shore from Sara's Beach…
+He heard Ava long before he saw her. He could hear her voice between the trees and bushes, talking to somebody. He had no idea who---Sean hadn't mentioned anybody else being missing and people never came this far along the shore from Sara's Beach…
 
-She turned out to be talking to herself. She was right where he'd known she would be – seated on the same old rock where she'd always sat, facing out toward the same view with her clothes folded neatly on the stone next to her, resting with her elbows and her knees, looking down at her feet.
+She turned out to be talking to herself. She was right where he'd known she would be---seated on the same old rock where she'd always sat, facing out toward the same view with her clothes folded neatly on the stone next to her, resting with her elbows and her knees, looking down at her feet.
 
 She flinched when she realized somebody was there, then relaxed when she saw who it was.
 
@@ -1502,7 +1502,7 @@ Adam mulled that comment over.
 
 "What?"
 
-"If you'd just… *told* me, or *asked* me... fuck! I might even have been okay with it! Because I *get* it, I understand, you put it perfectly yesterday too. I married the Air Force first." He sighed. “But instead you *lied* to me, Ava. For… what, two years?”
+"If you'd just… *told* me, or *asked* me...fuck! I might even have been okay with it! Because I *get* it, I understand, you put it perfectly yesterday too. I married the Air Force first." He sighed. “But instead you *lied* to me, Ava. For… what, two years?”
 
 "About that." she agreed, nodding sadly.
 
@@ -1540,7 +1540,7 @@ Ava nodded. "You feel like you're taking back your life." She agreed.
 
 "...Do you think that's the truth?" Adam asked her. “Or is it just more bullshit we're inventing to make ourselves feel better?”
 
-Ava paused. "...I... think it's the truth." she said. “Or at least… I hope it is...”
+Ava paused. "...I...think it's the truth." she said. “Or at least… I hope it is...”
 
 She trailed off, then spread her arms helplessly. "I don't know any more. I spent all this time trying to do the right thing, and did completely the wrong thing instead. I don't… I don't know if I can trust what's in my head."
 
@@ -1622,7 +1622,7 @@ There was no beeping, this time. No hissing or clicking, nothing in her throat d
 
 Xiù sat up, cautiously. She was alone, she had time to gather her thoughts, assess the situation.
 
-Fact check. She was in a hospital, with a drip in her hand. The gravity felt normal. The air had a certain… *richness* to it, warm and nourishing. She couldn't tell what the voices outside were saying – their volume was much too tactful for that – but the cadences *sounded* English.
+Fact check. She was in a hospital, with a drip in her hand. The gravity felt normal. The air had a certain… *richness* to it, warm and nourishing. She couldn't tell what the voices outside were saying---their volume was much too tactful for that---but the cadences *sounded* English.
 
 She carefully selected the right word. "...Hello?"
 
@@ -1688,9 +1688,9 @@ Liz, demonstrating the sixth sense of mothers and nurses the world over, pulled 
 
 Xiù disengaged gently and sat up, wiping her cheeks. "...Sorry."
 
-"Don't even apologise to me, sweetie. It's okay." Liz smiled warmly, and indicated that Xiù's soup had arrived sometime while she hadn't been paying attention. Xiù didn't need prompting – she scooped it up and, after a tentative sip to make sure it wasn't too hot, devoured the lot.
+"Don't even apologise to me, sweetie. It's okay." Liz smiled warmly, and indicated that Xiù's soup had arrived sometime while she hadn't been paying attention. Xiù didn't need prompting---she scooped it up and, after a tentative sip to make sure it wasn't too hot, devoured the lot.
 
-It wasn't the greatest soup ever. But it was warm, it was comforting, it was *chicken* – and it was amazing how many things in the galaxy *didn't* taste like chicken – and it lasted maybe thirty seconds.
+It wasn't the greatest soup ever. But it was warm, it was comforting, it was *chicken*---and it was amazing how many things in the galaxy *didn't* taste like chicken---and it lasted maybe thirty seconds.
 
 "Whew!" Liz made an appreciative noise. “You needed that, eh?”
 
@@ -1726,19 +1726,19 @@ Kevin could see why the question was being whispered. Moses Byron, who was alway
 
 Byron took a moment to survey the crew of BGEV-8, assorted board members and department heads, and cleared his throat. "Been a development." he croaked, and cleared his throat again. “This, uh… this planning session is cancelled. I'll let you know personally when we reschedule. For now, uh...”
 
-He coughed. "Rachael. Recall GEV-9 and GEV-10. Tell them under no circumstances are they to use their jump drives – they've got to come back the old-fashioned way."
+He coughed. "Rachael. Recall GEV-9 and GEV-10. Tell them under no circumstances are they to use their jump drives---they've got to come back the old-fashioned way."
 
 "Mister Byron, that'll take them months-!" somebody protested.
 
 Moses held up his hand. "I know. I ain't changing my mind. Oh, and, uh… Trevor, some fine folks will be along later today to take a good look at your department. Give them *full* access. To everything, and I mean *everything,* including Project Ophanim."
 
-Nobody said a word – they just exchanged bewildered and slightly scared expressions. Finally, Byron spoke again, looking at Kevin. "Everybody whose name isn't Kevin Jenkins, go find something to do. I don't care what it is, go home early if you want. Go on."
+Nobody said a word---they just exchanged bewildered and slightly scared expressions. Finally, Byron spoke again, looking at Kevin. "Everybody whose name isn't Kevin Jenkins, go find something to do. I don't care what it is, go home early if you want. Go on."
 
 People practically fled.
 
 "Based on the little… '*chat'* I just had with the halls of power in this great nation of ours..." Byron began, once the last door was closed “It seems I need to hire me a no-man. Somebody who, if I've got fifty people kissing my ass and telling me we're golden, if I look at you and you shake your head, we bury that idea and never speak of it again. Sound like something you can do?”
 
-"Does this thing come with a salary?" Kevin asked. He judged it correctly – Byron laughed.
+"Does this thing come with a salary?" Kevin asked. He judged it correctly---Byron laughed.
 
 "Hah! And an office." he said. “Though if half the things I hear about your cooking are true, I might include attending to the comestibles on your list of duties.”
 
@@ -1806,7 +1806,7 @@ Darcy sat back and delicately crossed her legs. "Shoot."
 
 "One: Why me? I ain't exactly the model of ambitious patriotism, you know."
 
-"Ten years ago, you drove up to the front gates of SCERF carrying the kind of intelligence we were absolutely starving for." Darcy told him. “You've clearly got *something* that does the job of ambition, even if it's just that you'd rather not get nuked from orbit. Certainly, you're smart enough to know that as a real possibility and you've taken active steps – potentially at risk to your own liberty and person – to combat it.” She inclined her head. “Now would *you* say that somebody like that wasn't worth our time?”
+"Ten years ago, you drove up to the front gates of SCERF carrying the kind of intelligence we were absolutely starving for." Darcy told him. “You've clearly got *something* that does the job of ambition, even if it's just that you'd rather not get nuked from orbit. Certainly, you're smart enough to know that as a real possibility and you've taken active steps---potentially at risk to your own liberty and person---to combat it.” She inclined her head. “Now would *you* say that somebody like that wasn't worth our time?”
 
 Kevin frowned and didn't answer.
 
@@ -1894,7 +1894,7 @@ Touched, Ava managed a smile for him.
 
 "Covering the election for Reuters."
 
-"I've still got that offer from Byron Group..." Ava noted, glancing at the corporate advertising for the jump array – Earth and Cimbrean, photographed from orbit and connected by a line that cycled through all the classic, vivid fibre-optic colours with the tagline 'O*ne small step…'*
+"I've still got that offer from Byron Group..." Ava noted, glancing at the corporate advertising for the jump array---Earth and Cimbrean, photographed from orbit and connected by a line that cycled through all the classic, vivid fibre-optic colours with the tagline 'O*ne small step…'*
 
 "Moses Byron talks a good game." Sean agreed. “Hell, it seems like he walks his talk too. I'm just not… I don't know, do you trust anybody who got that big that quickly?”
 
@@ -1950,7 +1950,7 @@ The escape pod's sensors had reported that all other life rafts had launched alo
 
 Vedreg could hardly blame him: Subjectively, scant seconds had passed since Lewis had given up on his friends. Pointing out that as far as the rest of the galaxy was concerned they had been dead for five years would have been both unhelpful and tactless. Lewis had every right to grieve.
 
-Rrrtktktkp'ch on the other hand were much more difficult to fathom without a translator. By the standards of pretty much every other sapient life-form, including their evolutionary 'cousins' the Vzk'tk, Kirk's species were renowned for reserved emotions, impenetrable body language and inscrutable expressions... but if the way Kirk paused upon glancing at Lewis and then patted the grieving human awkwardly on the shoulder was any indication, he was feeling the loss just as intensely.
+Rrrtktktkp'ch on the other hand were much more difficult to fathom without a translator. By the standards of pretty much every other sapient life-form, including their evolutionary 'cousins' the Vzk'tk, Kirk's species were renowned for reserved emotions, impenetrable body language and inscrutable expressions...but if the way Kirk paused upon glancing at Lewis and then patted the grieving human awkwardly on the shoulder was any indication, he was feeling the loss just as intensely.
 
 Kirk had always been stoic even by Rrrtk standards, however. He turned back to the controls, and indicated them to Vedreg.
 

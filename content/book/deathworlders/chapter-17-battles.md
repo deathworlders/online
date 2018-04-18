@@ -373,7 +373,7 @@ Ross handed over some packages. "Dispatches and your comfort package, Sitrep on 
 
 "Lovely. Summarize that one for me." Powell said, accepting the rest of his mail. Ross nodded and flipped through the file, mumbling slightly to himself as he skimmed through to the summary.
 
-"Hmmm… *exhaustive testing.... -thing conclusive… remain- ‘* At this point, the operating principles of this weapon system remain unknown and impossible to duplicate with Terran technology’… *mumble… absence of…  token resistance only…* uh, ‘given the above, development of effective protection has not been accomplished, with even total sensory isolation from the effect offering no more than a reduction in its effectiveness.’...*mumble, acute cerebral…… haemorrhage... wow. okay.* ‘While the weapon’s effects are highly lethal at their maximum effect, probable long-term consequences of nervejam trauma includes an increased stochastic probability of long-term complications including: Schizophrenia, paranoid delusions, dissociative identity disorder, motor nerve palsy, epilepsy and stroke."
+"Hmmm… *exhaustive testing....-thing conclusive… remain- ‘* At this point, the operating principles of this weapon system remain unknown and impossible to duplicate with Terran technology’… *mumble… absence of…  token resistance only…* uh, ‘given the above, development of effective protection has not been accomplished, with even total sensory isolation from the effect offering no more than a reduction in its effectiveness.’...*mumble, acute cerebral…… haemorrhage...wow. okay.* ‘While the weapon’s effects are highly lethal at their maximum effect, probable long-term consequences of nervejam trauma includes an increased stochastic probability of long-term complications including: Schizophrenia, paranoid delusions, dissociative identity disorder, motor nerve palsy, epilepsy and stroke."
 
 "Jesus fookin’ Christ." Powell muttered.
 
@@ -890,7 +890,7 @@ There was a pause. Allison had no idea how Julian had exited the building, but s
 
 Allison watched the Chehnasho in question remove something slimy from a facial orifice, inspect it, then eat it. "Oh yeah. She’s a shoo-in for Mensa."
 
-*"... oh shit. Stay down."*
+*"...oh shit. Stay down."*
 
 Allison did so, burrowing back from the edge and down under her cloak. After a second or two, her ears caught what Julian had heard, and she tucked herself up as small and unnoticeable as she could manage, just peeking over the top of her wall.
 
@@ -1056,7 +1056,7 @@ He blinked. "You are? I mean, why say that?"
 
 One thing Gyotin *had* got his head around with humans was the way their analogies worked. They seemed to love idiom and metaphor, and weave it into every facet of their conversations, subconsciously. A more straightforward species might have said "‘*I said some things which I now regret having said*’ but he had to admit that ‘*I ran off at the mouth’* got the same message across both more swiftly and more evocatively.
 
-"That happens." he said. “You did this to... friend? Clan-mate?”
+"That happens." he said. “You did this to...friend? Clan-mate?”
 
 "Hah. I don’t have a clan." Ava looked up at the window, and shut her eyes. Gyotin saw a water droplet run down her face, which she wiped away with a sleeve, before returning her attention back to him, rather abruptly. “My boyfriend.”
 
@@ -1090,7 +1090,7 @@ He sat down as she heated up some water and poured it into a pair of handled cup
 
 Ava looked around at them. "I guess. I mean, wow. That’s a lot of books."
 
-She sipped her drink. "I’m not… don’t ask me about it." she said. “I never... I just went to Church every Sunday.”
+She sipped her drink. "I’m not… don’t ask me about it." she said. “I never...I just went to Church every Sunday.”
 
 "Why?"
 
@@ -1405,13 +1405,13 @@ Vedreg simply raised one of his massive paws, and tapped at the scar lines on hi
 
 "I don’t… huh?"
 
-"There is a reason there is no such thing as a... synthetic sapient." Vedreg said, apparently going off on a tangent, but Allison gave him the benefit of the doubt.
+"There is a reason there is no such thing as a...synthetic sapient." Vedreg said, apparently going off on a tangent, but Allison gave him the benefit of the doubt.
 
 "Historically, they’ve all been abject failures." Kirk explained.
 
 "Violently insane?"
 
-"No. Just… apathetic, nihilistic and introverted." he elaborated. “Less *Skynet*, more…” Kirk thought for a second. “More... Eeyore.”
+"No. Just… apathetic, nihilistic and introverted." he elaborated. “Less *Skynet*, more…” Kirk thought for a second. “More...Eeyore.”
 
 "You’ve watched Winnie the Pooh?"
 
@@ -1455,7 +1455,7 @@ Allison tilted her head at him, genuinely curious. "What changed your mind?"
 
 "The third time is enemy action." Allison finished, nodding.
 
-"A very... *deathworld* aphorism." Vedreg opined. “but the logic is compelling.”
+"A very...*deathworld* aphorism." Vedreg opined. “but the logic is compelling.”
 
 "So what was the first time?" Kirk asked.
 
@@ -1597,7 +1597,7 @@ He put a hand round the back of her head and rubbed it. "I’m sorry."
 
 "Change your mind?"
 
-"A bit, yeah. I thought about it some, and... I guess."
+"A bit, yeah. I thought about it some, and...I guess."
 
 "You guess?"
 

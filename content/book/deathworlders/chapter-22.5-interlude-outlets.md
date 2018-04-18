@@ -22,13 +22,13 @@ All in all, it was a welcome relief from the fierce heat and noise, and the incr
 
 Besides. Owen only did a good impression of an extrovert. Deep down, his was a soul who needed a little quiet and isolation, a little mental elbow room to make sense of the world.
 
-Not that there was much to make sense of. Three of his lads dead, and an old comrade – a friend, even – ordered to take a fatal last stand so the rest of them could live. That he'd retained any composure at all when the rest of the lads had called on him to say a few words was down purely to iron discipline.
+Not that there was much to make sense of. Three of his lads dead, and an old comrade---a friend, even---ordered to take a fatal last stand so the rest of them could live. That he'd retained any composure at all when the rest of the lads had called on him to say a few words was down purely to iron discipline.
 
 He'd had to deliver them slowly and deliberately, with lots of throat-clearing and swallowing.
 
 Things had started off slowly, quietly and with no small amount of awkwardness. There had been tears and mostly the Wake had been an exercise in everyone sitting together in silence, and drinking.
 
-Then somebody had said something – Owen didn't even remember who – and there'd been a little laugh. Then there'd been a joke, a happy anecdote about how Stevenson had got his callsign. Murray had shared the story about Price being caught in a situation that had been truly innocent, but  had involved a young mechanic, some WD40 and an eye irrigation and had looked to the Lieutenant-Colonel like, well…
+Then somebody had said something---Owen didn't even remember who---and there'd been a little laugh. Then there'd been a joke, a happy anecdote about how Stevenson had got his callsign. Murray had shared the story about Price being caught in a situation that had been truly innocent, but  had involved a young mechanic, some WD40 and an eye irrigation and had looked to the Lieutenant-Colonel like, well…
 
 Vigorous miming had ensued.
 

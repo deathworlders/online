@@ -76,7 +76,7 @@ It was a crazy mission. She’d gone to church, said her prayers, prepared herse
 
 In its way, that was comforting.
 
-“Houston, *Pandora*... Let’s take back the sky.”
+“Houston, *Pandora*...Let’s take back the sky.”
 
 She allowed herself a smile of triumph at not repeating Armstrong’s mistake and choking on her big quote. Still congratulating herself, she pressed the button. Two seconds and a billion kilometers later, with a ferociously ecstatic whoop, Rylee Jackson entered the history books as the first human being to outrun light.
 
@@ -130,7 +130,7 @@ Kirk issued the equivalent of a frustrated sigh. Like all Rrrrtktktkp’ch, he w
 
 “I did some research on this one. She used to sell insurance before the Corti took her. She used to sit in an office with a headset on talking to people over audio-comms. On her days off, she used to fashion garments out of spun animal hair, and went swimming in a heated, disinfected pool. She may be native of a Class Twelve but frankly I think she might have starved to death on a Class Six.” he said. A thought struck him and he chuckled. “They abducted her on the way home from that pool, actually. Think she knows where her towel is?”
 
-“Her...Towel? Uh... I don’t… nobody ever...”
+“Her...Towel? Uh...I don’t… nobody ever...”
 
 “In-joke. Never mind.” It was hard being a fan of human literature sometimes.
 
@@ -210,7 +210,7 @@ He was wondering how it had helped them survive the conditions on Earth when his
 
 “Kirk man, uh… like, we just got some pretty big news, dude.”
 
-Lewis was... interesting. They'd picked him up at a Corti research facility on a barren planet that officially had no name but which Lewis insisted was called *'Kerbin'* on the grounds that he'd been the first to name it. Although he'd originally been taken there as a test subject, his *'escape'* had apparently consisted of amiably disabling the forcefield on his containment cell before letting himself into the lab to explore some avenues of research that his abductors hadn't even considered. He was the only one on the crew who'd needed persuading to leave, though it hadn't been a difficult negotiation: His objections had faded the instant he realized there were *'chicks'* aboard Sanctuary.
+Lewis was...interesting. They'd picked him up at a Corti research facility on a barren planet that officially had no name but which Lewis insisted was called *'Kerbin'* on the grounds that he'd been the first to name it. Although he'd originally been taken there as a test subject, his *'escape'* had apparently consisted of amiably disabling the forcefield on his containment cell before letting himself into the lab to explore some avenues of research that his abductors hadn't even considered. He was the only one on the crew who'd needed persuading to leave, though it hadn't been a difficult negotiation: His objections had faded the instant he realized there were *'chicks'* aboard Sanctuary.
 
 Kirk hadn’t yet managed to figure out if his speech pattern was due to the permanent influence of some Corti experiment or a lifetime of recreational narcotics, or if was just an affectation. Whatever the explanation, it was clear that behind that dopey dude attitude was a mind to rival the very greatest alumni of the Corti Directorate's education system.
 
@@ -222,7 +222,7 @@ Strangely, he and Amir had become instant best friends. Kirk had no idea why.
 
 Kirk came to a dead halt in the hallway, oblivious to the beings that were edging around the knot of three humans to get past him.
 
-"Uh... Kirk? Why are you smiling, man?"
+"Uh...Kirk? Why are you smiling, man?"
 
 "Oh, no reason. It's just nice when your friends impress you."
 ___

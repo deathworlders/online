@@ -128,7 +128,7 @@ The businessman gave an uncomfortable little exhalation.
 
 *"Sure, it sounds heartless at first glance, but at second glance I’m talking about the opportunity to… to wipe out famine, to limit the damage we do to the Earth. Imagine if we never cut down another inch of Amazon rainforest ever again because we’d moved those tree species and their logging operations over to Cimbrean instead? That’s got to be better than just letting one planet die while we continue to wound the other, right?"*
 
-He shrugged, sat back and folded his hands in his lap. "*If that’s cynical then... guilty as charged, I guess."*
+He shrugged, sat back and folded his hands in his lap. "*If that’s cynical then...guilty as charged, I guess."*
 
 Kevin stopped listening as the reporter signed off, and sat back thinking as the anchors segued into the next article, about a recall of translation implants, scratching idly at the bald patch in front of his own temple where his own crude version had been installed, supposedly the first one custom-built for a human nervous system.
 
@@ -160,7 +160,7 @@ Sir Jeremy became aware of his aide, Jack, entering the office and reached forwa
 
 "Shall I keep him waiting?"
 
-Sir Jeremy thought about it. The presumption on his time was a little irritating, but on the other hand... "Ordinarily… no, no thank you Jack. See him in directly when he arrives will you? And, have some coffee ready."
+Sir Jeremy thought about it. The presumption on his time was a little irritating, but on the other hand..."Ordinarily… no, no thank you Jack. See him in directly when he arrives will you? And, have some coffee ready."
 
 "Yes, sir Jeremy."
 
@@ -368,13 +368,13 @@ Sara was in awe. "Your dad is *amazing*!" she enthused. “He really told the gu
 
 "I know, right?" Adam nodded, then sobered. “‘But he said he regretted it afterwards. Said he could have got more done if he’d stayed frosty, yeah?”
 
-"I guess…" Sara thought about it. “It’s been, like, two weeks hasn’t it? Nearly. Yeah, it was on Saturday the week before last wasn’t it, and then... wow that time’s gone fast hasn’t it? All those scientists and reporters and everyone coming and going and everything…”
+"I guess…" Sara thought about it. “It’s been, like, two weeks hasn’t it? Nearly. Yeah, it was on Saturday the week before last wasn’t it, and then...wow that time’s gone fast hasn’t it? All those scientists and reporters and everyone coming and going and everything…”
 
 "More of them today. Apparently some really rich dude wants to give us a whole load of money, it’s big news."
 
 "Oh yeah? Who’s the really rich dude?"
 
-"Some guy called, uh... Moses… something."
+"Some guy called, uh...Moses… something."
 
 "Moses Byron? Mum and Dad talk about him a lot, like he’s… like, they think that all businessmen should be like him, they say he’s  really honest and he’s one of those people who got money and *didn’t* turn into an asshole, and he’s making the world a better place and stuff. He’s, like, the *only* person in a suit I’ve ever heard them say something nice about."
 
@@ -446,7 +446,7 @@ He went quiet again, then started laughing a little strangely.
 
 Sara scooted up to him a bit. "Did she hurt you?"
 
-"Not like… not physically, or anything like that. She never touched me. But she... said things, you know? Painful things."
+"Not like… not physically, or anything like that. She never touched me. But she...said things, you know? Painful things."
 
 "Yeah, but… Sticks and stones, right?"
 
@@ -691,7 +691,7 @@ Chastised, Julian nodded. "Right. Sure… what’ve we got, Lewis?"
 
 "What is?"
 
-"Looks like all those metrics spiked by one human’s worth about... five months ago. There was somebody else here, but they either died or moved on, and there’s nothing in the census logs about a dead human, so… yeah, she moved on."
+"Looks like all those metrics spiked by one human’s worth about...five months ago. There was somebody else here, but they either died or moved on, and there’s nothing in the census logs about a dead human, so… yeah, she moved on."
 
 "She?"
 
@@ -837,7 +837,7 @@ McDaniel shook her head "As per their last prediction I imagine sir, seeing as w
 
 "You suppose, sir?"
 
-"Oh, this is more Manning’s thing than mine. I keep hoping they’ll make a sudden unexpected leap forward so he can take over... “ he tailed off as he sipped his tea again. “how soon can we be done here?"
+"Oh, this is more Manning’s thing than mine. I keep hoping they’ll make a sudden unexpected leap forward so he can take over...“ he tailed off as he sipped his tea again. “how soon can we be done here?"
 
 "We’re fully charged sir and the last of the ETs shipped out this morning. We’ve had a request from Gyotin, however."
 
@@ -1040,7 +1040,7 @@ That was everything he had needed to hear. They switched back to English as he t
 
 "Yeah." he agreed. “Two weeks ago it was paradise, wasn’t it?”
 
-"Yeah... “ she looked down. “Hard to believe one person did that much damage. How was the lake, is it still good?"
+"Yeah...“ she looked down. “Hard to believe one person did that much damage. How was the lake, is it still good?"
 
 "For now, yeah. We’re, uh… planning to head down there again tomorrow after school, while there’s still time."
 
@@ -1088,7 +1088,7 @@ Adam laughed. "Yeah, that’s closer." he admitted. “There was swearing.”
 
 She trailed off, but Adam knew exactly what she meant. Quiet time, thinking time, was remembering time. Remembering time… *hurt*. On e of the news crews that was covering the unfolding events on Cimbrean because the reporter had a SoCal accent and tone of voice that reminded him painfully of his mother.
 
-"Hey… you’re here, and I missed you." he said, taking her hand. “Can we just forget about all this and just... hang out?”
+"Hey… you’re here, and I missed you." he said, taking her hand. “Can we just forget about all this and just...hang out?”
 
 She paused, smiled, and wiggled her head into his shoulder, hugging his arm as they approached the warm and noisy circle where the first of the night’s whole roasts was just starting to be sliced up.. "Yeah." she agreed. “Let’s do that.”
 ___
@@ -1259,11 +1259,11 @@ She interrupted him. "It’s ‘*Tangled*’."
 
 "...Sure."
 
-"There’s, uh... just one thing, yeah?"
+"There’s, uh...just one thing, yeah?"
 
 "What?"
 
-"I, uh... like to sing along."
+"I, uh...like to sing along."
 
 He blinked at her, then smiled. "I think." he said. “That this is going to work.”
 
@@ -1385,7 +1385,7 @@ Sara did something uncharacteristic and shut up, letting Ava finish the thought.
 
 Sara very carefully *didn’t* snort or roll her eyes, or give any indication what she thought of Ava’s naive belief in heaven. Instead, when Ava drifted off again, looking at the distant black dot that was Adam turning around and beginning the last return leg of his swim, Sara prompted her to continue. "...So…?"
 
-Ava shook herself out of it. "So... I’m alive, aren’t I? I’ve got the chance to do some of the things I’d regret not doing, and this was one of them."
+Ava shook herself out of it. "So...I’m alive, aren’t I? I’ve got the chance to do some of the things I’d regret not doing, and this was one of them."
 
 She looked back at the sunset. "Im glad I did. This is…" She smiled a little bashfully. “If I died tonight, my Heaven would be right here, exactly as we are.”
 
@@ -1701,7 +1701,7 @@ Tremblay laughed a little, and broke the hug. "Same. The place won’t be the sa
 
 "Just don’t let Maurice change the name."
 
-"You’ve got it... Goodbye, Kevin. Thank you for everything."
+"You’ve got it...Goodbye, Kevin. Thank you for everything."
 
 "Take care of yourself."
 

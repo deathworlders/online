@@ -169,7 +169,7 @@ He sat forward and composed his argument. “Let’s say I built these things so
 
 He sniffed. “Now let’s say I, uh, waggle this crazy thing I’ve made at whatever colossal douche is lookin’ at me funny and I’m like *’Cross me and I send out the world eaters!’* and he’s like *’Ha-ha! I have world-eaters too! Cross me and I shall send out mine!’* and we both decide it’s maybe not worth the fuckin’ hassle of bein’ dead and we go home for snacks. Right? That’s the theory behind MAD.”
 
-“That seems... credible.” Vedreg offered.
+“That seems...credible.” Vedreg offered.
 
 “Okay… where’s my threshold for provocation?”
 
@@ -324,7 +324,7 @@ She wriggled out of them and stacked them neatly back in the SUV where from he�
 
 “Good. If I *did* elect to arm you, this would be your weapon.” he unholstered it from under his jacket. “What are the rules of firearm safety?”
 
-“Uh… All guns are always loaded.” She recited. “Uh, never point a gun at anything you’re not willing to shoot. Keep your finger off the trigger until your sights are on target, and, uh... be sure of your target and whatever’s around and behind it.”
+“Uh… All guns are always loaded.” She recited. “Uh, never point a gun at anything you’re not willing to shoot. Keep your finger off the trigger until your sights are on target, and, uh...be sure of your target and whatever’s around and behind it.”
 
 Vinther handed her the gun. She scored immediate points by checking the chamber was empty while pointing it away and toward the floor.
 
@@ -633,7 +633,7 @@ Kevin knocked back his mocktail and frowned. “I wanna argue.” he confessed. 
 
 “These kids are *gorgeous*, boss. Movie-star good looks, fitness, intensity… I reckon we could build a whole advertising campaign around them.”
 
-“Like, what, a candid series on the kind of people we have workin’ for us?” Byron mused. “Plausible... I know Chang’s kind of a minor celebrity in Canada right now...”
+“Like, what, a candid series on the kind of people we have workin’ for us?” Byron mused. “Plausible...I know Chang’s kind of a minor celebrity in Canada right now...”
 
 “Just a thought.” Kevin shrugged. “And hell, maybe a photoshoot’d be a good little carrot, reward kinda thing. Boost their self-esteem after you bruise it.”
 
@@ -780,7 +780,7 @@ Still no answer, and so he pressed ahead. “And now comes the problem. Neither 
 
 “And you’re omniscient enough to spot that single integer.” She poisoned the sentence with as much sarcastic bile as she could summon.
 
-“An exaggeration for illustrative purpose.” Six waved a hand dismissively. “Let us go with a more realistic difference of scale: A hundred billion versus a mere, oh... seven and a half billion? Or, less believably perhaps but I promise completely true to life: A hundred trillion versus a mere seven and a half billion. What then?”
+“An exaggeration for illustrative purpose.” Six waved a hand dismissively. “Let us go with a more realistic difference of scale: A hundred billion versus a mere, oh...seven and a half billion? Or, less believably perhaps but I promise completely true to life: A hundred trillion versus a mere seven and a half billion. What then?”
 
 “Oh come on!” Ash’s defensive body language evaporated. She leaned forward, straightened up, frowned. “That’s… what is that, a hundred thousand to one? How is the smaller group EVER going to be a threat?”
 
@@ -863,7 +863,7 @@ Ash thought hard. “...I don’t know how much I can or should tell you.” she
 
 “Ah, so there’s a secret involved. A secret to do with this boyfriend of yours perhaps?”
 
-“There’s a secret.” Ash agreed, giving away exactly *nothing*. “One that I think I’m... *not* going to share.”
+“There’s a secret.” Ash agreed, giving away exactly *nothing*. “One that I think I’m...*not* going to share.”
 
  “A pity.” Six said. “May I ask why?”
 
@@ -1024,11 +1024,11 @@ He turned back. “Our whole strategy this entire time has been fundamentally *w
 
 *“‘Cut loose?’* Is it really that bad?” Ash asked.
 
-Six laughed, composed a scenario in his head, and detailed it. “Imagine: You are a thriving, proud civilization. Gleaming cities, global communications technology, art and culture and sports and a thriving economy. And one day, your oh-so-clever scientists discover the means by which a ship might have an apparent linear velocity greater than the speed of causality. You launch your first warp ship, your *Pandora*, and bask in your own accomplishments.... until the aliens arrive.”
+Six laughed, composed a scenario in his head, and detailed it. “Imagine: You are a thriving, proud civilization. Gleaming cities, global communications technology, art and culture and sports and a thriving economy. And one day, your oh-so-clever scientists discover the means by which a ship might have an apparent linear velocity greater than the speed of causality. You launch your first warp ship, your *Pandora*, and bask in your own accomplishments....until the aliens arrive.”
 
 “These aliens are monsters. True monsters, far worse than any fanged, acid-blooded animal your cinema industry ever devised. And they are monsters because what greets you, smiling politely  and eager to make your acquaintance, are your *superiors.* Faster, tougher, stronger. More cunning, more inventive, more intuitive and more logical. Their art and music redefines everything you thought culturally possible, their philosophy explores fields of thought of which you had never even conceived. They are all but impervious to your weapons, their very *breath* carries plagues that could eviscerate your population, and their military doctrine operates several levels above your own. In every conceivable way, they are *better* than you and you will never, *ever* become their equal in even one capacity, let alone in all regards.”
 
-He sighed. “More galling still? Is that they are even your ethical superiors. They do not gloat, or exploit their superiority. They do not enslave you, but instead welcome you as the equals you are not. They give you a place at their table that you do not deserve, listen to your pathetic attempts at having opinions and treat them with a seriousness they do not warrant. Every time they smile at you and treat you as their friend, they demonstrate yet again just how hopelessly inadequate you really are.... And the very, very worst part of all, will be that they are *completely sincere.”*
+He sighed. “More galling still? Is that they are even your ethical superiors. They do not gloat, or exploit their superiority. They do not enslave you, but instead welcome you as the equals you are not. They give you a place at their table that you do not deserve, listen to your pathetic attempts at having opinions and treat them with a seriousness they do not warrant. Every time they smile at you and treat you as their friend, they demonstrate yet again just how hopelessly inadequate you really are....And the very, very worst part of all, will be that they are *completely sincere.”*
 
 Ash frowned, and looked down, thinking.
 
@@ -1428,7 +1428,7 @@ Ava nodded, and he handed her a plastic syringe applicator covered in simple dia
 
 He bore her clumsy medicking stoically, and handed her a square pack of some kind the moment she was done.
 
-“Put that… over the exit wound…” his breathing was definitely getting more difficult. “It’ll stick down... just fine... through the blood… but you gotta… stick it down good… y’got that?”
+“Put that… over the exit wound…” his breathing was definitely getting more difficult. “It’ll stick down...just fine...through the blood… but you gotta… stick it down good… y’got that?”
 
 “Got it.”
 
@@ -1552,7 +1552,7 @@ He chuckled again, and winced. “Doesn’t hurt to offload it. And hell, I coul
 
 “I hear ya.” Coombes nodded. “Nothin’ worse than feelin’ useless.”
 
-“Yeah, well... Men are lucky there.” She waved a hand at him. “You get to be special forces and do… stuff like this.”
+“Yeah, well...Men are lucky there.” She waved a hand at him. “You get to be special forces and do… stuff like this.”
 
 “Never thought’a getting shot as a privilege before.” he deadpanned, and wriggled slightly to try and make himself a little more comfortable.
 

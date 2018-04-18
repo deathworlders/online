@@ -1561,7 +1561,7 @@ Hussein considered that for a long moment. “That is a fascinating question, Yo
 
 “No. Nor will it be anytime soon. All of that, however, is merely background. My people are in a fight for the right to *exist,* and one aspect of our enemy has decided to make an example of your people for their own reasons. This...we are not *strong* enough to have stopped it. We could only watch, helplessly, as all our oft-mentioned Deathworld might was as *nothing* before a million evil ships. So, I ask again: what must we do?”
 
-Furfeg’s chromatophores shone with a mix of uncertainty and, even now, the urge to reconcile... and it was on that lone data point that the probability-space collapsed into a narrow channel of forced action.
+Furfeg’s chromatophores shone with a mix of uncertainty and, even now, the urge to reconcile...and it was on that lone data point that the probability-space collapsed into a narrow channel of forced action.
 
 There were no malicious words or taunting. What would have been the point? Instead, one of the Agents merely triggered a contingency in physical space that had been prepared ahead of this meeting. Its host raised a hand and pointed at the human, and there was a snapping hiss of compressed air.
 
@@ -1805,7 +1805,7 @@ Adam nodded glumly, and licked his knuckle by way of fixing it. Bloody knuckles 
 
 “Tennyson.” Marty looked around the tree. Or rather around Adam, the tree being kind of an afterthought once he was out of the way. “I think Ava’s winding up her report. Wanna invite her to go grab a burger?”
 
-“Sounds good... “ Adam, spurred by the promise of food, sprang upright. “Since when do you get on well with Ava?”
+“Sounds good...“ Adam, spurred by the promise of food, sprang upright. “Since when do you get on well with Ava?”
 
 “Since she’s your *sister?”*
 
@@ -1895,7 +1895,7 @@ Marty kept herself grounded on the certainty that, past a certain threshold, the
 
 “Hell, it’s changed just since *I* got here,” Marty agreed. “And you two are first-gen colonists. I can’t even… Musta been something special.”
 
-Adam and Ava glanced at each other before Ava spoke for both of them. “It was... We were still kinda reeling from… I mean, we lost our *home!”* she managed. “My family, Adam’s mom, all our friends, the only city we’d ever lived in...”
+Adam and Ava glanced at each other before Ava spoke for both of them. “It was...We were still kinda reeling from… I mean, we lost our *home!”* she managed. “My family, Adam’s mom, all our friends, the only city we’d ever lived in...”
 
 “We shoulda been in that, too,” Adam agreed. “Pure dumb luck we weren’t.”
 
@@ -1961,7 +1961,7 @@ Touched, Marty gave her a hug. It caught Ava off-guard, but she returned it with
 
 “What’s that?”
 
-“Uh…” Marty recalled how she’d explained it to Jack. “So, Kinetic Pulse weapons would be *stupidly* lethal if we could just get them to fire a shaped field with a sharp edge, right? Like, they’d just cut us in half.” When Ava nodded, she pressed on. “ But, the power draw of a field is proportionate to the curvature in an... *interesting* way.”
+“Uh…” Marty recalled how she’d explained it to Jack. “So, Kinetic Pulse weapons would be *stupidly* lethal if we could just get them to fire a shaped field with a sharp edge, right? Like, they’d just cut us in half.” When Ava nodded, she pressed on. “ But, the power draw of a field is proportionate to the curvature in an...*interesting* way.”
 
 “Meaning it’s really fucking complicated?”
 
@@ -2159,7 +2159,7 @@ ___
 
 *“Faith?”*
 
-Being Yulna’s personal protector was generally an easy job. After all, who would attack her? The Mother-Supreme was, well... the *Mother-Supreme.* Any male who so much as scratched her would never mate again even if he survived, and the Females were *clan.*
+Being Yulna’s personal protector was generally an easy job. After all, who would attack her? The Mother-Supreme was, well...the *Mother-Supreme.* Any male who so much as scratched her would never mate again even if he survived, and the Females were *clan.*
 
 Myun still took her duties seriously, though. Especially now, especially after hearing those words that the Whitecrests had somehow managed to acquire and forward. Even the Gaori translation had been engaging but as a fluent English speaker herself she had felt the full impact of Sartori’s address. She wasn’t sure her fur would ever settle.
 

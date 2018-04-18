@@ -118,7 +118,7 @@ She wound up in the recovery position on the litter, draped under the blanket. O
 
 “Yeah, it’s out.” Somebody replied.
 
-“Cool... Great.”
+“Cool...Great.”
 
 The trip to the hospital was just across the beam of the ship - not far at all. She wasn’t alone, though most of the wounded coming in were walking, or at least leaning on their buddies.
 
@@ -163,7 +163,7 @@ Their lives were dominated by laws and equations, the most important of which wa
 
 HMS *Caledonia* had a mass of approximately nine million kilograms. She was equipped with hyper-efficient, alien-made “kinetic” thrusters, that could translate electrical energy almost directly into kinetic energy via quantum-mechanical processes so arcane and so completely unintuitive to human sensibilities that all of the Jet Propulsion Lab’s devoted efforts had made little headway on understanding exactly how they worked.
 
-But, ultra-advanced, impenetrable almost-magic engines still had to deal with realities like F=MA, and to get any kind of a respectable A out of an M that large, required an enormous F. *Cally*, between the Atlassian strength of her spinal, structural “keel” and a reinforcing series of internal forcefields, was well-equipped to handle that force... which just left the question of energy.
+But, ultra-advanced, impenetrable almost-magic engines still had to deal with realities like F=MA, and to get any kind of a respectable A out of an M that large, required an enormous F. *Cally*, between the Atlassian strength of her spinal, structural “keel” and a reinforcing series of internal forcefields, was well-equipped to handle that force...which just left the question of energy.
 
 Thermodynamics dictated that increasing the kinetic energy of an object by any amount required, at a minimum, the insertion of a slightly larger amount of energy. This was governed by another classic Newtonian equation: Kinetic Energy is equal to half  the mass of the object times the square of its velocity.  Given a mass of nine million kilograms, adding a stately ten meters per second to the ship every second demanded roughly four hundred and fifty megawatts.
 
@@ -1013,7 +1013,7 @@ Bedu blinked at him, assimilating the question. “What is Origin like?” He re
 
 “Define ‘beautiful’.” Bedu retorted. “Beauty is subjective.”
 
-“‘Kay, well... is Origin beautiful?”
+“‘Kay, well...is Origin beautiful?”
 
 Bedu considered the question. He’d never actually considered aesthetics in relation to the Corti homeworld before.
 
@@ -1184,7 +1184,7 @@ ___
 
 “A good prognosis, then?”
 
-Lieutenant Bailey shifted uncomfortably in his seat. “Ma’am… he’s healed. I swear, LR Davison came into this hospital permanently blinded and with his face burned down to the *bone* in places and severe respiratory injury from inhaling superheated air. I gave him an *optimistic* fifty percent chance of survival... And now he’s sitting up in bed laughing and happy and the only way you would know what happened to him is the missing hair.”
+Lieutenant Bailey shifted uncomfortably in his seat. “Ma’am… he’s healed. I swear, LR Davison came into this hospital permanently blinded and with his face burned down to the *bone* in places and severe respiratory injury from inhaling superheated air. I gave him an *optimistic* fifty percent chance of survival...And now he’s sitting up in bed laughing and happy and the only way you would know what happened to him is the missing hair.”
 
 McDaniel’s expression gave nothing away, but she couldn’t resist a moment of sarcasm. “I take it you’ve ruled out divine intervention.”
 
@@ -2168,7 +2168,7 @@ Rebar’s voice was little more than a rumble, *way* down in contrabass territor
 
 “How’re you doing for…” Titan glanced at Bedu’s doorway. The Corti was still sitting there, as seemed to be his habit for the flight. “...Doses?”
 
-“Two left.” Rebar grunted. He looked ashenly haggard, almost old. Despite the youthfulness that Crue-D use returned to everybody, there were deep lines in his brow and around his eyes and mouth. “Gonna… pop one tomorrow an’... one for when we’re landing.”
+“Two left.” Rebar grunted. He looked ashenly haggard, almost old. Despite the youthfulness that Crue-D use returned to everybody, there were deep lines in his brow and around his eyes and mouth. “Gonna… pop one tomorrow an’...one for when we’re landing.”
 
 “Bro, don’t even worry about that. You know Horse and Base’ll *want* to carry you off this thing if you need it.”
 
@@ -2206,7 +2206,7 @@ Titan shrugged for him, conscientously refraining from any comment. There was no
 
 “Sure.”
 
-“Are you doing this... Voluntarily?”
+“Are you doing this...Voluntarily?”
 
 “Absolutely.” Titan nodded.
 

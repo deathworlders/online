@@ -8,7 +8,7 @@ aliases:
 **Three years after the Vancouver Attack**    
 **I-5, Northbound. Everett, Washington**
 
-*thup,thup... thup, thup... thup, thup…*
+*thup,thup...thup, thup...thup, thup…*
 
 “Urgh…”
 
@@ -40,7 +40,7 @@ aliases:
 
 “Oh for-” *click* “-fuck’s sake”
 
-*thup,thup... thup, thup... thup, thup…*
+*thup,thup...thup, thup...thup, thup…*
 
 “...fuck it.”
 
@@ -56,7 +56,7 @@ aliases:
 
 "*sigh*"
 
-*thup,thup... thup, thup... thup, thup…*
+*thup,thup...thup, thup...thup, thup…*
 
 ___
 
@@ -101,7 +101,7 @@ This was by far the shortest hop they had yet done, she didn’t even have time 
 
 “Mission Control, *Pandora*, checkpoint reached.”
 
-“Nicely done. ESDAR has you on target to a... 0.3% deviation.”    
+“Nicely done. ESDAR has you on target to a...0.3% deviation.”    
 
 “My compliments to navigation!” She could already hear the applause in the background.   
 
@@ -444,7 +444,7 @@ ___
 
 “Okay.” she said. “Those were some DAMN good pancakes.”     
 “Told you.”    
-“I should... go.”    
+“I should...go.”    
 “Yeah. You should.”    
 “Yeah…”
 

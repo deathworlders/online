@@ -302,7 +302,7 @@ And even more quietly, he wondered if there might not be an important distinctio
 
 **++SYSTEM NOTIFICATION: USER Cytosis HAS JOINED THE SESSION++**    
 **++WELCOME, USER Cytosis++**    
-**++YOU ARE ENTERING CLOSED SESSION... <ERROR>++**
+**++YOU ARE ENTERING CLOSED SESSION...<ERROR>++**
 **++<SESSION LOG NUMBER NOT ASSIGNED>++**
 
 **++Proximate++:** Let me guess: They’re destroying Gao.
@@ -709,7 +709,7 @@ A separate channel opened up. A private and heavily encrypted one.
 **++SYSTEM NOTIFICATION: USERNAME NOT SPECIFIED++**
 **++ASSIGNING USERNAME: Contagion++**
 **++WELCOME, USER Contagion++**    
-**++YOU ARE ENTERING CLOSED SESSION... <ERROR>++**
+**++YOU ARE ENTERING CLOSED SESSION...<ERROR>++**
 **++<SESSION LOG NUMBER NOT ASSIGNED>++**
 
 **++Cytosis++:**  We have a problem and I have been told you may be of assistance. H-Leadership panicked. They’re enacting a cleanse and reset protocol on the Gaoians. General code is Expose; Cleanse; Regenerate. My orders are Curate; Diagnose; Rectify.
@@ -791,7 +791,7 @@ Another connection opened and an information packet arrived for its inspection.
 **++Cytosis++:** There is everything you need. I will prepare here. Good luck.
 
 **++SYSTEM NOTIFICATION: USER Cytosis DISCONNECTED++**    
-**++YOU ARE THE ONLY USER IN CLOSED SESSION... <ERROR>++**
+**++YOU ARE THE ONLY USER IN CLOSED SESSION...<ERROR>++**
 **++<SESSION LOG NUMBER NOT ASSIGNED>++**
 **++ENDING SESSION++**
 
@@ -2790,7 +2790,7 @@ Deacon had been Firth’s tech from the start, and she was entirely used to his 
 
 “Says who? Just ‘cuz we’re steady don’t mean nothin’ these days.”
 
-“Please, you’re a secret gentleman and we all know it. Also, I don’t fuck the meat I work on every day. Bad for hygiene, y’know. Now don’t cry at the big scary needle... ”
+“Please, you’re a secret gentleman and we all know it. Also, I don’t fuck the meat I work on every day. Bad for hygiene, y’know. Now don’t cry at the big scary needle...”
 
 She got a rumbling chuckle for that, and the blood sample, too. The Lads may have been incorrigibly flirtatious but they never let it get in the way of business.
 
@@ -2904,7 +2904,7 @@ Adam looked down at Butler for a second, shrugged, and released him. The (relati
 
 Grinning knowingly, Baseball ushered Butler away, and Marty led her fiancé to a corner of the deck that was as secluded as they were ever gonna get. There was no such thing as privacy aboard *Caledonia,* but there was just enough for his arms to go round her waist and for them to kiss. *Not* strictly an authorized use of their time, but damn good for morale.
 
-Adam always knew how to end a kiss. Forehead-to-forehead, nose-to-nose, smile, scratch her back in *exactly* the right place... “You made that up about the party,” he accused fondly.
+Adam always knew how to end a kiss. Forehead-to-forehead, nose-to-nose, smile, scratch her back in *exactly* the right place...“You made that up about the party,” he accused fondly.
 
 He really wasn’t as dumb as he acted, sometimes. “...Maybe some of it,” Marty admitted. “But there’ll be one, baby. I promise. You’ll be there?”
 

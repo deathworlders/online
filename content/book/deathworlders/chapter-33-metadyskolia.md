@@ -52,7 +52,7 @@ He ***enjoyed.***
 Every little pop. Every little gasp and struggle. Every grinding crunch. The slippery *squish*. The creak, snap and stretch. The twitching, the spasms, the gurgle… The kill.
 
 
-He let go of the hunter’s body and lifted its torn-off head so that he could stare it in some of its glassy dead eyes. “...’s what you fuckin’ get for… messin’ with... “
+He let go of the hunter’s body and lifted its torn-off head so that he could stare it in some of its glassy dead eyes. “...’s what you fuckin’ get for… messin’ with...“
 
 
 Fuck it. Fuck words. He slammed the head flat-palmed into the nearest wall, crushing it almost flat in the process and covering the wall and himself in exploded gore. He grunted, braced himself against the deck, pushed forward with his full strength and ground his palm into the mess, until the wall and floor were dented beyond repair and the skull was no more. Something deep inside him approved and drew an apelike rictus grin across his face. He snorted in contempt, left the sticky bits of bone and brain to slide down… and the tide of adrenaline rolled back to leave him stranded high and dry on cold dark sands.
@@ -208,7 +208,7 @@ Murray laughed with him, but after a few seconds they sobered.
 ‘Horse had the decency to look uncomfortable, and he seemed to be sobering quickly. Moorman was right about Crue-D versus sedatives. “I… shit, man.”
 
 
-Murray did his best to put an arm round the younger man’s shoulders, and made it slightly more than halfway. “I been at this even longer than Stainless,” he said. “And... Ye’re not alone. Okay? Every poor bastard who stays in this business long enough comes up against their dark side one day.”
+Murray did his best to put an arm round the younger man’s shoulders, and made it slightly more than halfway. “I been at this even longer than Stainless,” he said. “And...Ye’re not alone. Okay? Every poor bastard who stays in this business long enough comes up against their dark side one day.”
 
 
 “...You always seem so calm.”
@@ -833,7 +833,7 @@ Kirk considered him thoughtfully. “...I have a rule,” he said, at length.
 Kirk shifted his weight and his head swayed on the end of his long neck as he considered his reply. “...Tell me, Lieutenant-Colonel. Who is the scientist you most admire?”
 
 
-“Huh? Um... “ Nadeau touched his jaw thoughtfully. “...Probably… Darwin, I guess. Why?”
+“Huh? Um...“ Nadeau touched his jaw thoughtfully. “...Probably… Darwin, I guess. Why?”
 
 
 “Newton? Einstein?”
@@ -956,7 +956,7 @@ Kirk decided not to ask questions. Instead he straightened up from the splay-leg
 “I don’t think I’d be happy to let you leave right now, Kirk. Getting you back inside the shield safely…”
 
 
-“I am not asking to leave. I intend to... *dangle* the problem in front of some contacts of mine and let them do the rest.”
+“I am not asking to leave. I intend to...*dangle* the problem in front of some contacts of mine and let them do the rest.”
 
 
 “Okay… How much will it cost?”
@@ -1705,7 +1705,7 @@ Allison was reading the report with an eyebrow raised skeptically. “Are we sur
 “We’ll never get through fifty planets in one mission!” Xiù objected. “Even if they’re all quick checks like Aphrodite.”
 
 
-“Uh-huh. And we’re gonna spend *weeks* on a real one. We’ve got material here for... years!” Julian grinned. “Which is good news! They can’t *all* be false positives.”
+“Uh-huh. And we’re gonna spend *weeks* on a real one. We’ve got material here for...years!” Julian grinned. “Which is good news! They can’t *all* be false positives.”
 
 
 “True…” Xiù conceded. “We *must* have found at least one real planet, we just have to… you know, *find it* find it.”
@@ -2886,7 +2886,7 @@ Admiral Knight stood with Powell on the observation deck above their “parade�
 All that added up to make the Pit, as it was more commonly known, feel like a prison yard.
 
 
-But none of that was Powell’s focus. He was watching the Whitecrest officers and the cherries suffer through the loving attentions of Warhorse and Baseball, while Rebar and Titan prepared for the classwork to begin a couple weeks forward. Snapfire was already hard at work planning for the field exercises, Righteous, Starfall and Highland were plotting on the combat scenarios... The Lads were certainly keeping busy in anticipation of Whitecrest’s success. It was hard *not* to. But if Powell was honest with himself, he was a bit conflicted.
+But none of that was Powell’s focus. He was watching the Whitecrest officers and the cherries suffer through the loving attentions of Warhorse and Baseball, while Rebar and Titan prepared for the classwork to begin a couple weeks forward. Snapfire was already hard at work planning for the field exercises, Righteous, Starfall and Highland were plotting on the combat scenarios...The Lads were certainly keeping busy in anticipation of Whitecrest’s success. It was hard *not* to. But if Powell was honest with himself, he was a bit conflicted.
 
 
 On the one hand, the Whitecrest were *game* and there was no denying that. They took their suffering with a stoic reserve and a quiet dignity that anyone with half a brain would find impressive. Nor were they pushovers. Small though they may be, they had hard and fit bodies under that long, silky fur, and a good, practiced eye could see that, plain as day.
@@ -3227,7 +3227,7 @@ Eventually she got her hair in order and glared at the ceiling for a second then
 She sighed again, turned and gave him a forgiving kiss. “Let me… think,” she said.
 
 
-“I...Okay. Uh, I’m... gonna take a shower.” Julian cleared his throat and climbed out of the bunk too.
+“I...Okay. Uh, I’m...gonna take a shower.” Julian cleared his throat and climbed out of the bunk too.
 
 
 He made it a cold one and scrubbed his face hard as he thought.
@@ -3575,7 +3575,7 @@ As ever, she wilted slightly when she mentioned that name, and as ever Yulna sup
 “Why would he have…?” Yulna asked.
 
 
-“Well... running that way *is* faster,” Ayma conceded. “And easier. But they are so used to not doing it.”
+“Well...running that way *is* faster,” Ayma conceded. “And easier. But they are so used to not doing it.”
 
 
 “So the humans don’t care about being civilized, they only care about performance?”
@@ -3984,7 +3984,7 @@ Costello nodded agreement, and Knight nodded encouragingly.
 “What was your takeaway from them? On the subject of what we’re discussin’ right now?”
 
 
-Costello thought about it. “That… that an Enlisted man is driven to solve the problem *right in front of him* to the near exclusion of anything else, but for an Officer, that kind of thinking is... well, unacceptable.”
+Costello thought about it. “That… that an Enlisted man is driven to solve the problem *right in front of him* to the near exclusion of anything else, but for an Officer, that kind of thinking is...well, unacceptable.”
 
 
 “Right!” Powell favored him with another rare smile. “The Lads won’t expect you to do what they do,” he said. “They’re enlisted, their entire job is to be at your command and able to perform. But although you'll never match them in their own discipline, they still need to believe that you have the same… spirit, or heart, or game. Whatever you want to call it.”
@@ -4085,7 +4085,7 @@ This did not seem to satisfy Vedreg. “Have you nothing to say?” he demanded.
 Kirk looked away. “I… had thought you already understood this,” he said. “Your species, mine, the Vzk’tk, the Corti… We have had long enough to come to terms with the idea that they are all thralls.”
 
 
-Vedreg calmed and sagged. “...I... still had hope,” he repeated.
+Vedreg calmed and sagged. “...I...still had hope,” he repeated.
 
 
 “I still do,” Kirk replied.
@@ -4457,7 +4457,7 @@ Gabe waved goodbye and then kicked himself when he passed through the glass door
 He sighed, swapped his cane to the other hand and took the handrail to start hauling himself up to Yanna’s office on the third floor. It was going to be painful and slow going, but he could handle a few stairs, if he stopped and rested every fifth step.
 
 
-Except... He couldn’t. He was nearly at the top of the first flight when there was a new stab of agony in his bad hip and he fell with a howl.
+Except...He couldn’t. He was nearly at the top of the first flight when there was a new stab of agony in his bad hip and he fell with a howl.
 
 
 Then there was pain in his arm which went *snap*.
@@ -4490,7 +4490,7 @@ It counseled itself to be patient; it knew from its various probings of the huma
 The humans were starting from nothing, and even with the urgency afforded by the situation, that did not change their caution, nor the logistical realities.
 
 
-The Entity had spent many cycles reflecting on that. It very much needed the humans if its goals were ever to be realized, and it was being *hunted* across the dataspace now, by every facet of Igraen society, orthodoxy and rebels alike. It had an excellent hide... but that could not last forever. Its plans needed to move forward. *<Survive>* demanded mobility.
+The Entity had spent many cycles reflecting on that. It very much needed the humans if its goals were ever to be realized, and it was being *hunted* across the dataspace now, by every facet of Igraen society, orthodoxy and rebels alike. It had an excellent hide...but that could not last forever. Its plans needed to move forward. *<Survive>* demanded mobility.
 
 
 It needed to spend its cycles carefully, too. Too much computing power being used without an appropriate accounting code would go noticed by the increasingly scrutinous Auditors roaming the dataspace. Trivial programs routinely ran without accounting, of course. A certain flexibility was good and the Igraens knew it, which was why that flexibility was still in place. It gave the Entity the wiggle-room it needed to move unnoticed… but it also gave the same to the Hierarchy, the Cabal and any other Igraen agency that might arise like an immune system to combat it.
@@ -4514,7 +4514,7 @@ There *were* clues---they called the Hunters *’discarded’* for instance---bu
 This was a Problem: The AvaRíos-mindstate had recollections of an aphorism about “knowing thine enemy”, but the enemy scarcely seemed to know itself. How were the humans supposed to form a coherent strategy in the face of that? How was the *Entity*?
 
 
-It could hoard all the computer cycles it wanted, if it didn’t know its enemy then the speculation was pointless. It had already prepared its translation matrix to allow humans to tap into Hierarchy data. What more did it have to offer? Nothing... But the data had to exist somewhere.
+It could hoard all the computer cycles it wanted, if it didn’t know its enemy then the speculation was pointless. It had already prepared its translation matrix to allow humans to tap into Hierarchy data. What more did it have to offer? Nothing...But the data had to exist somewhere.
 
 
 The question was, was the search for that data worth the risk?
@@ -4866,7 +4866,7 @@ But that was all speculation, and the fact was that *somebody* was gonna have to
 “If I’ve got a swarm of flesh-eating megabugs after me,” Allison said with forced cheer, “I might just manage that in two minutes.”
 
 
-*”I... wouldn’t recommend that as a training regime, Shǎguā.”*
+*”I...wouldn’t recommend that as a training regime, Shǎguā.”*
 
 
 “Hey, at least you’re motivated to succeed!”
@@ -5087,7 +5087,7 @@ Ava giggled a little, then sobered. “I, uh… I already lost one dad,” she s
 “And Jess wants you for a long time too.”
 
 
-Gabe bowed his head in a happier form of defeat. “...Okay. I don’t know what I’ll do, but... I’ll find something.”
+Gabe bowed his head in a happier form of defeat. “...Okay. I don’t know what I’ll do, but...I’ll find something.”
 
 
 “Promise?”
@@ -5221,7 +5221,7 @@ Xiù saw that much instantly. When they had left, the anchorage above Cimbrean-5
 “I can see that! Any change to customs procedure?”
 
 
-*”Affirmative Misfit. Customs is now conducted aboard Allied Trade Station One ‘Armstrong’. Tune to wake comms channel three for their traffic control. And, uh... welcome back. Border Security out.”*
+*”Affirmative Misfit. Customs is now conducted aboard Allied Trade Station One ‘Armstrong’. Tune to wake comms channel three for their traffic control. And, uh...welcome back. Border Security out.”*
 
 
 Xiù took a moment to shake her head and let the reality of how quickly things could change sink in. She’d gone from watching her lovers get covered in alien bug slime, to shaking hands with a space station that hadn’t even existed  six months ago, all in less than an hour.
@@ -5444,10 +5444,10 @@ Dog greeted him with a fist bump. “Fancy meeting you here,” he grinned.
 “Oh, fuck yeah,” Julian nodded. It had been the most delicious thing he’d ever eaten. “I ate a whole sack.”
 
 
-“Fuckin’... lemonade,” Dog said. “And coffee. *Steak*. And… It’s like, shit, the boss lady here, Adele Park? She called me up to her office as soon as she fuckin’ *had* an office and... **shit**. All the things you don’t know you missed until somebody gives ‘em to ya.” He sighed and sat back, looking up at the ceiling with an expression of faraway ecstacy. “General Tso’s chicken, football, *porn!*”
+“Fuckin’...lemonade,” Dog said. “And coffee. *Steak*. And… It’s like, shit, the boss lady here, Adele Park? She called me up to her office as soon as she fuckin’ *had* an office and...**shit**. All the things you don’t know you missed until somebody gives ‘em to ya.” He sighed and sat back, looking up at the ceiling with an expression of faraway ecstacy. “General Tso’s chicken, football, *porn!*”
 
 
-Xiù giggled, and Dog flinched and cleared his throat. “Uh... Sorry. Forget I said that...”
+Xiù giggled, and Dog flinched and cleared his throat. “Uh...Sorry. Forget I said that...”
 
 
 Allison snorted and shook her head. “Nope. We’re gonna hold that one over you.”

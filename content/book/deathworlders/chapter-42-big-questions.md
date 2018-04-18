@@ -923,7 +923,7 @@ The clip faded out to enthusiastic applause. Say what anyone would about those t
 
 “Yan seems…a bit like a bully,” Steven ventured. The sudden change in tone unceremoniously quieted the audience.
 
-He wasn’t wrong, but Daniel had come to feel a fierce sense of loyalty to Yan over their time working together and he rejected the suggestion with a sharp shake of his head. “He isn’t, really. That was *play.* You have to remember, the Ten’Gewek—and Yan especially—come from a very... *robust* place.”
+He wasn’t wrong, but Daniel had come to feel a fierce sense of loyalty to Yan over their time working together and he rejected the suggestion with a sharp shake of his head. “He isn’t, really. That was *play.* You have to remember, the Ten’Gewek—and Yan especially—come from a very...*robust* place.”
 
 “That would certainly explain the changes since we last met. And in Julian, too. And Allison, for that matter.”
 
@@ -2099,7 +2099,7 @@ She gave Naydra a respectful duck and stepped out of her way. The intricacies of
 
 Naydra herself honestly had no idea how that kind of a “rule” worked, but it worked now. She patted the guard-sister on the arm and let herself in.
 
-The kitchens were always a spicy olfactory paradise, but this one smelled… she groped for an appropriate Gaori word, gave up, and settled for *Divine.* The air was rich with the smell of finest prime Naxas meat, with herbs and spices, the peculiar caramelized fruity scent of *Talamay* that had been used for cooking and also with the potent nasal presence of two humans. It wasn’t an unpleasant scent, just... *loud.*
+The kitchens were always a spicy olfactory paradise, but this one smelled… she groped for an appropriate Gaori word, gave up, and settled for *Divine.* The air was rich with the smell of finest prime Naxas meat, with herbs and spices, the peculiar caramelized fruity scent of *Talamay* that had been used for cooking and also with the potent nasal presence of two humans. It wasn’t an unpleasant scent, just...*loud.*
 
 She recognised Sister Shoo, of course. The other, with the blonde hair who was so animatedly telling a story had to be her partner Allison.
 
@@ -2347,7 +2347,7 @@ Third Director Larm seized on that as a beacon of possible hope. “I presume we
 
 Shanl gave the data in front of her some pensive consideration.
 
-“...We must conclude that our prognosis is... hopeless,” she said.
+“...We must conclude that our prognosis is...hopeless,” she said.
 
 “I fear so, First Director,” Lor agreed again.
 

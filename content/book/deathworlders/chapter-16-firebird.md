@@ -471,7 +471,7 @@ The Corti reputation for intellect was not accidental, nor the product of bluff 
 
 Nmrb decided that he liked this one, even as he recognised the strategy of using the voice of aggression and the voice of calm reason in opposition against one another to pressure him.
 
-He cleared his throat, and bowed slightly to the advocate of sensibility. "As I was saying. This next one is… a top of the line interspecies communication implant, we don’t even sell these yet. This third one look like a... neuroplasticity inhibitor?"
+He cleared his throat, and bowed slightly to the advocate of sensibility. "As I was saying. This next one is… a top of the line interspecies communication implant, we don’t even sell these yet. This third one look like a...neuroplasticity inhibitor?"
 
 "You sound confused by that."
 
@@ -549,7 +549,7 @@ She tucked into a nutrient sphere, one of the four on her plate. The non-flavour
 
 She ignored it, slipping into her inhale-pause-exhale-pause meditation, until one phrase slipped past her attention.
 
-"*... should throw her out the airlock.*"
+"*...should throw her out the airlock.*"
 
 "Murder me? Really?"
 
@@ -593,7 +593,7 @@ She was impressed when the Locayl - Golron - caught up with her down the corrido
 
 "A hell-bitch?"
 
-"That... didn’t translate."
+"That...didn’t translate."
 
 She relaxed. He had clearly gone to a lot of trouble to catch up, the least she could do was hear him out.
 
@@ -841,7 +841,7 @@ They walked away, Little Jack running forward and then occasionally stopping to 
 
 "No, the *Thing.* It’s an old word, I think Norse? You know, Vikings? It’s like, the whole town getting together to talk and vote. Sir Jerry says it’s the best kind of democracy for right now because we’re still so small."
 
-Sara clearly had an enthusiasm for sharing knowledge that was the hallmark of a born journalist, coupled to the motor mouth of a born irritant. "One of the sessions, we voted on what to call everything. So we’ve got Palace Rise, Delaney Row, Crash Avenue, Camp Uplift - that’s the army, you’ll like them, they’re really tidy... uh, cool -  we’ve not got names right down to streets yet because there’s not really any streets and… oh, we’re here."
+Sara clearly had an enthusiasm for sharing knowledge that was the hallmark of a born journalist, coupled to the motor mouth of a born irritant. "One of the sessions, we voted on what to call everything. So we’ve got Palace Rise, Delaney Row, Crash Avenue, Camp Uplift - that’s the army, you’ll like them, they’re really tidy...uh, cool -  we’ve not got names right down to streets yet because there’s not really any streets and… oh, we’re here."
 
 Adam and Ava’s house turned out to be tiny. In fact, it could have fit comfortably inside a large room. Inside, though, it turned out to be pure efficient space. It had everything - The living room doubled as a kitchen, complete with cooker, dishwasher and washer/dryer (though these both had signs on them warning that they weren’t yet working), a folding-out dining table that recessed cleverly into the floor when not in use, and a fridge. The bed was up a short, extremely steep flight of stairs that doubled as storage, and below it were the bathroom, complete with a shower and bath, and even a spare room. The whole thing couldn’t have been more than twenty feet long, and even included a porch.
 
@@ -889,7 +889,7 @@ Adam just chuckled, still poking around. "Our own place! I KNEW Dad was keeping 
 
 "I guess…" He agreed. “It’s like… our first date was, what, less than a year ago? Ten months.”
 
-"Yeah. And that scares me because now… like, here we are. Living together, on our own, starting a new life. Like we’re... um." She trailed off, not quite willing to say the word that hung on the end of that sentence.
+"Yeah. And that scares me because now… like, here we are. Living together, on our own, starting a new life. Like we’re...um." She trailed off, not quite willing to say the word that hung on the end of that sentence.
 
 "Like we’re… Yeah." He agreed.
 

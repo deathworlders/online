@@ -100,7 +100,7 @@ Genshi flicked his ear, this time the equivalent of a small smile. “Xenopoliti
 
 *That* provoked an interesting reaction. It was just for a moment and Sartori almost didn’t see it, but his words clearly had a loaded meaning in Gaoian culture. Genshi was too composed to give away much, but he came within a whisker of flinching or stiffening.
 
-“That’s a... *colorful* metaphor, Mister President.”
+“That’s a...*colorful* metaphor, Mister President.”
 
 “I guess it is.” Their perambulations finally brought them to the jump array deep in High Mountain’s bowels, where the presidential retinue were waiting and ready. The Array was loaded and charged… he could return to Earth at any time.
 
@@ -391,7 +391,7 @@ It was also the only place in Gaoian territory where the Dominion’s diplomatic
 
 The largest faction could, Sheeyo thought, be described as the “core loyalists”: the Vzk’tk Domain, the Kwmbwrw Great Houses and the Vgork herds, backed by most of the associate members like the Mjrnhrm, Robalin and Chehnash. Then there were the “neutrals”: headed by the Locayl alongside the conspicuously absent Guvnurag, supported by the Versa Volc and the Ruibal.
 
-Finally, on Sheeyo’s side of the room, were what the loyalists termed the “rogues”: the Gao, the vacant slot reserved for the Human representative, an associate representative from the Rauwryhr... And now, having just walked conspicuously across the chamber from the loyalist faction, the Corti.
+Finally, on Sheeyo’s side of the room, were what the loyalists termed the “rogues”: the Gao, the vacant slot reserved for the Human representative, an associate representative from the Rauwryhr...And now, having just walked conspicuously across the chamber from the loyalist faction, the Corti.
 
 Sheeyo was resisting the thoroughly undignified urge to chitter and run in excited circles all around the chamber. The Rogues had made a point of anchoring their territory around the empty spot on the floor where an OmoAru ambassador would have stood if that species wasn’t functionally extinct, and now the oldest and most powerful of the extant Dominion species had just made a show of defecting.
 
@@ -399,7 +399,7 @@ Naturally, the loyalists were less pleased. *Especially* the Kwmbwrw.
 
 “I hope that the Representative for the Directorate will provide their rationale for this… as they put it, *’recalculation’*…?”
 
-The Corti representative levelled a cool stare back at her counterpart. “The Directorate’s position remains unchanged: that the Dominion should be consistent and methodical in the application of its own rules. We have seen no evidence that the currently most influential members intend to pursue such an axiom... Indeed, *you* in particular seem to object most strenuously to it.”
+The Corti representative levelled a cool stare back at her counterpart. “The Directorate’s position remains unchanged: that the Dominion should be consistent and methodical in the application of its own rules. We have seen no evidence that the currently most influential members intend to pursue such an axiom...Indeed, *you* in particular seem to object most strenuously to it.”
 
 There was wary silence, which the Locayl representative ventured to break. He cleared his throat and stood up. “I think, for the purposes of clarity…” he said, gesturing to the Corti with two of his hands “...I would appreciate it if you elaborated your meaning.”
 
@@ -560,7 +560,7 @@ Gorg blanched, but the larger female sighed and waved Conley aside. “Ignore hi
 
 “We’re stuck, just like you.”
 
-“But... how did you *get* here? Did the Hunters capture you too? I heard that if they manage to catch a Human they just—”
+“But...how did you *get* here? Did the Hunters capture you too? I heard that if they manage to catch a Human they just—”
 
 “It’s a long story,” Spears cut him off. “Look, if that stunt with Cook didn’t actually hurt you then he’s right, we do need you to go.”
 
@@ -690,7 +690,7 @@ There was a momentary gleam of avarice in her eyes as she considered that idea. 
 
 “Dunno. *Mierda,* I hope that doesn’t make me a bigot…”
 
-Rather than let her worry over it, Coombes decided to drag her back onto the subject at hand. “Well... honestly? Go for it. You can call it, uh,  *‘Deathworld Heroes’* or something like that. It’s a longshot but I bet you all three would be receptive, Daar especially.”
+Rather than let her worry over it, Coombes decided to drag her back onto the subject at hand. “Well...honestly? Go for it. You can call it, uh,  *‘Deathworld Heroes’* or something like that. It’s a longshot but I bet you all three would be receptive, Daar especially.”
 
 “Are you kidding? **Great Father** Daar?” Ava snorted. “Come on, even if that *wasn’t* like asking the goddamn President to do a shoot, he won’t like me. All that Protect and Provide stuff… I bet he’s real big on loyalty, like Firth.”
 
@@ -974,7 +974,7 @@ Jooyun nodded. “Kinda like the lodge, Yan.”
 
 “Hm. And lodge rules say, can’t take children even if parents bad at being parents?”
 
-“More like... we’d have to convince the lodge that it’s the right thing to do first,” Shyow explained. “And they have to see for themselves.”
+“More like...we’d have to convince the lodge that it’s the right thing to do first,” Shyow explained. “And they have to see for themselves.”
 
 “So basically, if we wanna rescue my brothers then we have to—” Awisun paused and cocked her head, listening. “Goddammit. I think Mother’s given up on her nap. Change of subject.”
 
@@ -1062,7 +1062,7 @@ The wall shimmered and fuzzed, and Darcy took a step back in surprise. It was li
 
 The most impressive part, however, was that it was *flawlessly* three-dimensional. As she  walked around her desk, near objects moved and were occluded by the frame as though she was looking through a pane of glass at something that was really there.
 
-“That’s... a neat trick,” she managed.
+“That’s...a neat trick,” she managed.
 
 “Ain’t it?” Lee grinned. “Anyway. Let me introduce you to your work setup.”
 
@@ -1103,7 +1103,7 @@ Yan grunted. “Why not? Meant what I said. She needs *real* man.”
 
 Xiù was teaching Allison and the boys the basics of *Baguazhang* on the lawn while Vemik watched, having given up almost as soon as they started. His body was just built for a completely different kind of gymnastics and he figured that out immediately. Amanda had returned to the guest bedroom, overwhelmed by her migrane.
 
-“I mean…look,” Julian leaned in an muttered under his breath. “You ain’t wrong…*really* ain’t wrong... But I don’t really think that’s gonna fix the problem we’ve got.”
+“I mean…look,” Julian leaned in an muttered under his breath. “You ain’t wrong…*really* ain’t wrong...But I don’t really think that’s gonna fix the problem we’ve got.”
 
 “Problem is what, exactly? Start from start.”
 
@@ -1115,7 +1115,7 @@ Xiù was teaching Allison and the boys the basics of *Baguazhang* on the lawn wh
 
 “Ah.” Funny how that noise was common between species. “All give give give, no teach how to take, how to give in turn. Mother keep baby on breast, doesn’t let them play.”
 
-“Yeah. Afraid to lose them like she lost Allison, I guess... and she still doesn’t understand *why* she lost Al in the first place.”
+“Yeah. Afraid to lose them like she lost Allison, I guess...and she still doesn’t understand *why* she lost Al in the first place.”
 
 Yan’s tail twitched in the way it did when he was thinking good and hard. He watched the boys move on to learn how to catch, then watched them try to play keepaway from Vemik; that didn’t work, as he jumped high in the air, caught the ball, then leaped onto the roof and trilled down at them for a bit before leaping down tail-over-top and landing between them both. He grinned, flexed for them, then slammed the ball to the ground so hard it bounced clear over the roofline. It was exactly the right thing to do, too; playful showboating was charismatic and the boys were drawn to him because of it. Both Yan and Vemik had a charm that seemed to work wonders on kids, actually, and attracted crowds of them every time they visited the park.
 
@@ -1309,7 +1309,7 @@ The woman cleared her throat. Her face was starting to return to its normal shad
 
 The woman laughed. “Stupid, isn’t it? But, that’s how I was raised. And trust me, it’ll feel *great* when I put a dry one on later.”
 
-“I don’t know stupid. Seems... unfair. Men get to be dry, you not? But, I see this with other Humans too. Awisun, Shyow, they wear more too.”
+“I don’t know stupid. Seems...unfair. Men get to be dry, you not? But, I see this with other Humans too. Awisun, Shyow, they wear more too.”
 
 One of the men chuckled. “Hey, you’re in prestigious company there, Claire. Wearin’ clothes just like a famous person.”
 
@@ -1641,7 +1641,7 @@ Julian shrugged. “I’m sure somebody at the courthouse can help you.”
 
 “Tomorrow evening, after dinner.” Allison said. “I have work.”
 
-“... I’ll come back tomorrow evening, then.”
+“...I’ll come back tomorrow evening, then.”
 
 “You do that.”
 
@@ -2353,7 +2353,7 @@ Arthur sighed. “Let me guess. They’re using the Gao as a test-bed?”
 
 “What…what did they add?”
 
-“We... I’m waiting on Clan Openpaw’s opinion, they’re much better qualified to research it than we are…. But once I got past all the *‘telomere’* this and the *‘cellular composition’* that, the researchers *think* that one of the compound’s side-effects might be to counteract aging.”
+“We...I’m waiting on Clan Openpaw’s opinion, they’re much better qualified to research it than we are…. But once I got past all the *‘telomere’* this and the *‘cellular composition’* that, the researchers *think* that one of the compound’s side-effects might be to counteract aging.”
 
 Arthur’s head slowly tilted to one side as he considered that. “That… is *very* interesting. You mean Gao who use it will live longer?”
 
@@ -2931,7 +2931,7 @@ The response was a surprise rib-shattering hug from Adam, who’d tackled him fr
 
 “…I hope so. But, uh…I’ve got you guys t’help me. An’ I don’t think a man could ask for better.”
 
-Deacon and Miller exchanged a Look. When men got this kind of emotional, it was the most *adorable thing,* and with this crowd in particular it was like laying eyes on a majestic unicorn. None of them were small emoters, but their usual catalog was… coarser. Boisterous, violent, aggressive, playful, and weirdly affectionate... Never sentimental. Or awe-struck. Or humbled, that one was especially poignant to see on Righteous and Warhorse.
+Deacon and Miller exchanged a Look. When men got this kind of emotional, it was the most *adorable thing,* and with this crowd in particular it was like laying eyes on a majestic unicorn. None of them were small emoters, but their usual catalog was… coarser. Boisterous, violent, aggressive, playful, and weirdly affectionate...Never sentimental. Or awe-struck. Or humbled, that one was especially poignant to see on Righteous and Warhorse.
 
 It was a privilege to witness, honestly.
 

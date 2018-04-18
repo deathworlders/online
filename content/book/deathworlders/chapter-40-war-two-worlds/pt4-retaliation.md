@@ -1840,7 +1840,7 @@ Thurrsto was one of the last out of the tunnel. He was the only Gaoian who’d m
 
 Thurrsto duck-nodded and was gone. With his patient safe, ‘Base gave Adam a visual once-over. “Okay. How’re you?”
 
-Self-check. Was Warhorse whole? A quick once-over, a little movement...yes. Well, with promises of epic pain to come... But pain was a good friend. Pain meant he was *alive.*
+Self-check. Was Warhorse whole? A quick once-over, a little movement...yes. Well, with promises of epic pain to come...But pain was a good friend. Pain meant he was *alive.*
 
 “...I’m good, brother. Your shoulder?”
 

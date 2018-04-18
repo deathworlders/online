@@ -127,7 +127,7 @@ For her part, Xiù was using the downtime to try and come up with her Big Words.
 
 Based on the advice contained within its first several chapters, she had doodled out a few possibilities on paper, just for the comforting *solidity* of it. Historic words that would go in schoolbooks felt like the kind of thing that at least demanded serious and physical consideration, rather than just a text file on her tablet.
 
-She wanted her big line to alliterate, to reference the famous words of Armstrong, and to imply a bright future while using short and simple words, and she murmured to herself as she jotted alliterative groups. “Small step… single, strong, stars, stand… Mars… so, um... May, Mark, Many…”
+She wanted her big line to alliterate, to reference the famous words of Armstrong, and to imply a bright future while using short and simple words, and she murmured to herself as she jotted alliterative groups. “Small step… single, strong, stars, stand… Mars… so, um...May, Mark, Many…”
 
 “Oh!” Allison exclaimed. She was doing her best to help, by sometimes riffing off whatever latest idea Xiù had mused aloud, and to be fair most of her offerings were helpful. “How about *’May this small step on Mars mark the first of many in our long march’*?”
 
@@ -238,7 +238,7 @@ One of the realities of life in Folctha that struck many newcomers as shockingly
 
 Every human on the planet lived in the permanent shadow of low-gravity musculo-skeletal degeneration. Public fitness was therefore incentivized to the point where it was difficult to see how anybody could *afford* to be unfit: Gym membership was paid for from the public coffers, and Cimbreaners who failed to log at least three certified fitness sessions a week (whether via the government’s official app or an accredited gym or personal trainer) paid considerably more in taxes. There was no prosecution involved, just an extravagant rate of base tax and a hefty tax cut for everybody who could demonstrate that they kept up with a minimum standard of regular exercise.
 
-This curious quirk of the otherwise unobtrusive and libertarian colonial government had come with the inevitable consequence that Folctha needed a lot of parks and public spaces, of which the biggest was Riverside Park. It ran the full length of the south side of the river downtown, and it was scarcely possible to throw a frisbee astray without it interrupting a volleyball game, disrupting a tennis match, hindering somebody’s jog... or as the case may be, sailing over the dense evergreen hedge that discreetly obscured one of the park’s clothing-optional areas where it landed on an oblivious sunbather.
+This curious quirk of the otherwise unobtrusive and libertarian colonial government had come with the inevitable consequence that Folctha needed a lot of parks and public spaces, of which the biggest was Riverside Park. It ran the full length of the south side of the river downtown, and it was scarcely possible to throw a frisbee astray without it interrupting a volleyball game, disrupting a tennis match, hindering somebody’s jog...or as the case may be, sailing over the dense evergreen hedge that discreetly obscured one of the park’s clothing-optional areas where it landed on an oblivious sunbather.
 
 The sunbather in question was Charlotte Gilroy, who jumped and thereby accidentally spilled her cold water bottle all over her fiancé Ben. Ava had spent weeks pushing and wheedling her friends before they would even consider setting foot inside the fenced-off naturist areas, but once they had finally, nervously and awkwardly joined her they had swiftly relaxed, enjoyed themselves, eventually disrobed and converted.
 
@@ -292,7 +292,7 @@ She snapped back to the here and now. “Wha-? Oh. Sorry.”
 
 Ben gave her a curious look. “Are you okay?”
 
-“Uh, sorry, just... what’s up?”
+“Uh, sorry, just...what’s up?”
 
 “Who’s that with Adam?”
 
@@ -372,7 +372,7 @@ Ava nodded “Could be good!”
 
 “Even better!”
 
-They finished their food and headed out. “You know…” Ben mused. “He’s a pretty bloke is Jamie. Funny too, talented... Single…”
+They finished their food and headed out. “You know…” Ben mused. “He’s a pretty bloke is Jamie. Funny too, talented...Single…”
 
 “I’m sure he’s a great guy,” Ava said, flatly.
 
@@ -507,7 +507,7 @@ Vemik nodded, ignoring the jab. “Do you know if anybody ever went down the big
 
 Yan glanced up at him. “Does it matter?” he asked.
 
-“I don’t know,” Vemik confessed. “But... you knew about that mountain. Did you know *that* mattered?”
+“I don’t know,” Vemik confessed. “But...you knew about that mountain. Did you know *that* mattered?”
 
 The Given Man wobbled his head thoughtfully and Vemet trilled a soft laugh, keeping his voice low to avoid waking the Singer. “I think he has you beaten there, Yan.”
 
@@ -527,7 +527,7 @@ Vemet sighed. “Maybe it would,” he allowed. “But where does it end? Preten
 
 “I could find a way to *use* it?” Vemik suggested.
 
-“Fine... Suppose you learn that you could *never* know everything there is to know. What *then*?”
+“Fine...Suppose you learn that you could *never* know everything there is to know. What *then*?”
 
 “That,” Vemik asserted, “would be a blessing.”
 
@@ -719,7 +719,7 @@ Jack gaped at him. “...This one box is more than I’d eat in a whole day!” 
 
 “That’s my meal plan, yeah. And that’s just portable food, bro. In between there’s, like, three protein shakes, snacks, a couple gallons of water, supplement pills, and then there’s a *real* meal for lunch with the Lads, too. All said and done? I’m constantly drinking water, with and without electrolytes, and eating *something* every single hour I’m awake. And yeah, it’s fuckin’ tough to get used to that.” Adam laughed. “Back in basic? Staff Sergeant Reed used to threaten me with a funnel, said he’d force the food down my throat with a stick.”
 
-“Oh *man*... Okay, seriously, is Basic as bad as it sounds? Like, all the shouting and stuff?”
+“Oh *man*...Okay, seriously, is Basic as bad as it sounds? Like, all the shouting and stuff?”
 
 Adam held up a finger requesting patience as he efficiently wolfed down the food and the shake in less than a minute, staring thoughtfully at nothing as he chewed.
 
@@ -923,7 +923,7 @@ Lewis sat back and thought about it. “Man. What, like, take a trip back to Ear
 
 “*Could* the Coltainer destroy a planet?” Lee asked.
 
-“Not, like, *quickly*...” Lewis shook his head. “But sure, it could. Fleet of mining drones, solar collectors in orbit… give it a few million years and some exponential growth it could rip a planet apart and chuck it into the sun or turn it into a new asteroid belt or... whatever, just move it out-system and pile all the rocks up around a gas giant for a new moon.”
+“Not, like, *quickly*...” Lewis shook his head. “But sure, it could. Fleet of mining drones, solar collectors in orbit… give it a few million years and some exponential growth it could rip a planet apart and chuck it into the sun or turn it into a new asteroid belt or...whatever, just move it out-system and pile all the rocks up around a gas giant for a new moon.”
 
 “So, not exactly the Death Star, then.”
 
@@ -996,7 +996,7 @@ ___
 
 *At last.*
 
-The elderly native female and her defiance had been... *vexing*. But more vexing still was the way her whole tribe had just vanished, and apparently used every trick they knew from their primitive hunter-gatherer lifestyle to cover their tracks. They had done so well that the scout drones had entirely failed to pick out their trail among all the other signs of routine coming and going around the village.
+The elderly native female and her defiance had been...*vexing*. But more vexing still was the way her whole tribe had just vanished, and apparently used every trick they knew from their primitive hunter-gatherer lifestyle to cover their tracks. They had done so well that the scout drones had entirely failed to pick out their trail among all the other signs of routine coming and going around the village.
 
 Eventually, Six-six-five had been forced to resort to spiraling out from the village in a time-consuming search pattern that was almost a desperation measure---every passing day had weathered and eroded the trail and forced him to search further and further out for fainter and fainter clues.
 
@@ -1012,7 +1012,7 @@ He’d learned from the loss of two drones at the hand of one of these particula
 
 The unit was frustratingly close to striking distance when the priority override signal came in, stopping his entire operation in its tracks.
 
-**++Incoming connection... Established++**    
+**++Incoming connection...Established++**    
 **++Joining session: Emergency Task Unit Op94325545++**    
 **++Joined as 0665++**    
 
@@ -1162,7 +1162,7 @@ Buehler was the opposite---she was a worker bee, twisting and turning efficientl
 
 “I’d like to meet them,” he declared.
 
-“We can... probably arrange that.” Byron frowned in furious calculation. “I guess we can postpone the mission launch by a day…”
+“We can...probably arrange that.” Byron frowned in furious calculation. “I guess we can postpone the mission launch by a day…”
 
 “Too bad my schedule’s not so flexible,” Sartori told him. “But let me know when they get back, hmm?”
 
@@ -1178,7 +1178,7 @@ It certainly fooled Buehler. *”Tell me when we’re down...”*
 
 *”Wow. You sure?”*
 
-Chang giggled *”I’m sure. SUBLIME DED idle, EACS to idle, power down ESFALS.... Power down flight systems.”*
+Chang giggled *”I’m sure. SUBLIME DED idle, EACS to idle, power down ESFALS....Power down flight systems.”*
 
 *”Smooth! Okay, power profile to field idling and… done. Mission control, Misfit has landed.”*
 
@@ -1539,7 +1539,7 @@ Ava meanwhile was full of perspectives from residents of the Alien Quarter, whic
 
 *”So what will this mean for humanity, and for Cimbrean?”*
 
-Ava tilted her head thoughtfully. *”So, we’re going to face... I think three challenges in the near future. First and most immediate will be the question of keeping the peace in the alien quarter. About a tenth of our permanent nonhuman residents are from Alliance species. Then there’s the question of the two embassy stations and whether the Royal Navy will need to keep the peace between them, and in the long term there’s the question of whether the Navy, the USAF and the SOR will be pulled into the conflict.”*
+Ava tilted her head thoughtfully. *”So, we’re going to face...I think three challenges in the near future. First and most immediate will be the question of keeping the peace in the alien quarter. About a tenth of our permanent nonhuman residents are from Alliance species. Then there’s the question of the two embassy stations and whether the Royal Navy will need to keep the peace between them, and in the long term there’s the question of whether the Navy, the USAF and the SOR will be pulled into the conflict.”*
 
 *”Why would they be?”*
 
@@ -1563,7 +1563,7 @@ He was already loading up some weights to do squats.
 
 She put a hand on his massive shoulder. “Look. We tell you off because we *care* about you. You know that, right?”
 
-“I know... This is just another fuckin’ drill I gotta learn, and the TI’s gotta get it through my thick-ass skull. I just hate how slow I’m gettin’ it. *If* I’m gettin’ it.”
+“I know...This is just another fuckin’ drill I gotta learn, and the TI’s gotta get it through my thick-ass skull. I just hate how slow I’m gettin’ it. *If* I’m gettin’ it.”
 
 “Well… you’ve always been good at watching people. Maybe you should go on a double-date sometime,” Marty suggested. “You know Firth’s going steady now, right? Ask him to mentor you. You can watch how he treats Freya, so long as you don’t neglect *your* date while you do. ”
 
@@ -1575,7 +1575,7 @@ He nodded with a slight smile and with his mood clearly picked up a bit. “Yes,
 
 She chuckled. “...Come on, big guy. That bar’s not gonna squat itself.”
 
-“Actually... would you rather go for a run?”
+“Actually...would you rather go for a run?”
 
 Marty smiled.
 

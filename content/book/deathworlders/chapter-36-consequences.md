@@ -181,7 +181,7 @@ He paused and reflected. “Well, if you’re a man. Women find it more difficul
 
 Lawrence shifted in his seat as a few people in the audience made disapproving noises. “Isn’t that sexist?”
 
-“No, I don’t think so.” Dan had to raise his voice slightly as the disapproving noises escalated. “Steve, men and women have different bodies. There’s nothing sexist about acknowledging that, right? Well there’s nothing sexist about acknowledging that we have different *brains.* There have been studies performed on one-day-old infants who haven’t had *time* to internalize any kind of gender-based nurture-over-nature thing which show a clear difference between male and female in how they respond to different stimuli. We’ve known since the Classical civilizations, and even before then, that men and women really *don’t* think or behave the same way... And sure, that’s not a *nice* truth, but it’s still true.”
+“No, I don’t think so.” Dan had to raise his voice slightly as the disapproving noises escalated. “Steve, men and women have different bodies. There’s nothing sexist about acknowledging that, right? Well there’s nothing sexist about acknowledging that we have different *brains.* There have been studies performed on one-day-old infants who haven’t had *time* to internalize any kind of gender-based nurture-over-nature thing which show a clear difference between male and female in how they respond to different stimuli. We’ve known since the Classical civilizations, and even before then, that men and women really *don’t* think or behave the same way...And sure, that’s not a *nice* truth, but it’s still true.”
 
 He sat back. “If I designed the world? Men *would* share the best elements of female psychology, and vice versa. But I didn’t: Evolution did.”
 
@@ -193,7 +193,7 @@ Lawrence nodded. “And evolution doesn’t care.”
 
 “Tell ‘em to delete their account.” Dan suggested. There was a dutiful chuckle from the audience, and he sat up straight. “Alright, let’s hear it...”
 
-“So, this one comes from Zoe Foster, who I guess saw you on ESNN after the protests at NEC... She says *‘Hate speech is hate speech, Nazis don’t get a seat at the table. If you advocate for genocide you don’t get a say.’*
+“So, this one comes from Zoe Foster, who I guess saw you on ESNN after the protests at NEC...She says *‘Hate speech is hate speech, Nazis don’t get a seat at the table. If you advocate for genocide you don’t get a say.’*
 
 Dan shrugged the statement off. That one was just an appetizer. “Well, she’s wrong. The most effective antidote to bigotry is to permit it,” he answered breezily. “The facts have *weight,* Steve. You only have to worry about what the other guy is saying if you’re wrong...”
 
@@ -402,7 +402,7 @@ Shyow, apparently, was a light sleeper. She woke up almost before the Singer’s
 
 The Singer wrung her tail nervously in her hands without really noticing. She liked and respected the sky-people, but something about them made her afraid and nervous.
 
-“I was dreaming about... Things.”
+“I was dreaming about...Things.”
 
 “I dream too,” Shyow nodded, then glanced fondly at Awisun who was still snoring faintly. “All the time. Always strange dreams, too. Never anything… safe.”
 
@@ -490,7 +490,7 @@ Awisun and Shyow both looked deeply uncomfortable at the idea.
 
 “Giving you even *that* was, um,…difficult,” Shyow said, slowly. “And very dangerous.”
 
-“If you give us nothing but taking-magic, the balance will be gone!” the Singer wrung her tail again until it almost hurt. “The men will have power that the women can’t answer, that’s... you can’t…”
+“If you give us nothing but taking-magic, the balance will be gone!” the Singer wrung her tail again until it almost hurt. “The men will have power that the women can’t answer, that’s...you can’t…”
 
 *“Is* it just a taking-magic?” Shyow asked. “I know the men are doing all the work now, but the women were doing a lot earlier…”
 
@@ -772,7 +772,7 @@ It was probably a beautiful process to watch in person, though. Looping flows of
 
 It took surprisingly little time, and the process wasn’t even half complete before the probe’s nanofactory began to spit out the components necessary to build its own doppelganger.
 
-Lee shifted in his seat, and Kirk tried to gauge if he was feeling proud or uncomfortable. Quite possibly both. “Well... Congratulations guys. We did it,”he said at last. “Looks like we’ve built a working Von Neumann probe.”
+Lee shifted in his seat, and Kirk tried to gauge if he was feeling proud or uncomfortable. Quite possibly both. “Well...Congratulations guys. We did it,”he said at last. “Looks like we’ve built a working Von Neumann probe.”
 
 “You think we’ll be remembered well for it?” Lewis asked.
 
@@ -788,7 +788,7 @@ ___
 
 “You had *clear and specific* instructions!”
 
-Special Agent Darcy really didn’t strike Xiù as a woman prone to anger, and there was a... restrained quality to her anger even now. As if she was more disappointed than angry.
+Special Agent Darcy really didn’t strike Xiù as a woman prone to anger, and there was a...restrained quality to her anger even now. As if she was more disappointed than angry.
 
 Not that they didn’t deserve it, maybe, but Xiù was feeling sick and weak for lack of sleep and she knew that the other two were just as bad. Returning *Misfit* to Omaha via Cimbrean, the customs inspection, clearing things with the military, and all the rest of it…
 
@@ -948,7 +948,7 @@ Kevin settled in the seat opposite Byron’s desk and adjusted his cuff. “Cros
 
 Byron scowled. “She did, huh?”
 
-“Yeah. Said she could make your life hell if she wants. That ain’t gonna fly well with her superiors... “
+“Yeah. Said she could make your life hell if she wants. That ain’t gonna fly well with her superiors...“
 
 Byron gave him a careful stare. “You sound like you’ve got no trouble stabbing her in the back, Kevin...”
 
@@ -1037,7 +1037,7 @@ Arés looked at Burgess, who frowned as he calculated. “Maybe a month? We don�
 
 Powell nodded and scratched his chin. “Hmm. Any risks to your training or development?”
 
-“There... shouldn’t be, sir,” Burgess decided.
+“There...shouldn’t be, sir,” Burgess decided.
 
 “We’ll watch it carefully, of course…” Arés added.
 
@@ -1074,7 +1074,7 @@ Julian had mounted a one-man expedition up into the woods to check on all his wi
 
 The *non*-alcoholic groceries were almost an afterthought, even if they were a pretty comprehensive inventory of everything they needed. Allison had thrown in some luxuries that had been in short supply on the ship such as candy and cheese, and she was now lying on the log staring up at the sky while Julian lit the fire, draining beer bottles like she was making up for lost time.
 
-“I want... A fucking joint. I haven’t had one in *years,”* she sighed. “I mean, it’s legal in forty-seven states now! Hell, give it a few more years and they might even start selling it in Wal-Mart! You know, next to the cigarettes you *can* smoke and the mind-altering drugs you *can* take,” she waggled the bottle for emphasis. “But one positive urine test, and that’s it: We never get to take *Misfit* back out there.” She indicated the sky with the bottle. “Stupid.”
+“I want...A fucking joint. I haven’t had one in *years,”* she sighed. “I mean, it’s legal in forty-seven states now! Hell, give it a few more years and they might even start selling it in Wal-Mart! You know, next to the cigarettes you *can* smoke and the mind-altering drugs you *can* take,” she waggled the bottle for emphasis. “But one positive urine test, and that’s it: We never get to take *Misfit* back out there.” She indicated the sky with the bottle. “Stupid.”
 
 “Byron Group’s behind the times there,” Julian agreed. “I dunno. I never tried it.”
 
@@ -1778,7 +1778,7 @@ Genshi set the skull down carefully in its box. “...Who was he?”
 
 Genshi shook his head again, and bent down to study the long-deceased Mother’s bone again.
 
-“The Wi Kaoians fought a bloody war,” Talo sighed sadly. “You remember your history? The … condition... in which Tiritya and her Sisters were returned to this fortress after their failed infiltration of the city?”
+“The Wi Kaoians fought a bloody war,” Talo sighed sadly. “You remember your history? The … condition...in which Tiritya and her Sisters were returned to this fortress after their failed infiltration of the city?”
 
 “I remember.” It was a grim and uncivilized epoch in Gaoian history. *”Skinning* a female? Barbaric.”
 
@@ -1820,7 +1820,7 @@ He stepped around the table and picked up the ancient Mother’s skull to contem
 
 “You will be missed," Genshi offered. “You’re held in high esteem by my Clan.”
 
-Talo’s ears flattened slightly at the compliment, just for a moment as though he’d been patted on the head. It was an almost cublike gesture of genuine pleasure. “And I hold your Clan in high esteem. Especially its Champion. Leaving the future to young males of your caliber makes this all a little easier. I’m... scared, but I’m not afraid. I know that even if our species is doomed, we’ll claw out a few eyes on the way. The galaxy will *remember* Gao, one way or another.”
+Talo’s ears flattened slightly at the compliment, just for a moment as though he’d been patted on the head. It was an almost cublike gesture of genuine pleasure. “And I hold your Clan in high esteem. Especially its Champion. Leaving the future to young males of your caliber makes this all a little easier. I’m...scared, but I’m not afraid. I know that even if our species is doomed, we’ll claw out a few eyes on the way. The galaxy will *remember* Gao, one way or another.”
 
 He put the skull down again and shook himself. “The past must trust the future. Don’t forget that on the day when it’s your turn to move into the past, young Genshi. You *will* have to, eventually. It’s worth planning well ahead.”
 
@@ -2337,7 +2337,7 @@ Dan knew Lawrence well enough to know that although he didn’t seem to get the 
 
 The audience *‘aww’*ed at length, which got louder and full of laughter when Julian smiled bashfully at his shoes and… well, well. Xiù Chang was a blusher. That one was something of a surprise.
 
-Allison grinned. “Best of both worlds. But... I mean, I’m sure people want to know, but that’s not why we’re here today.”
+Allison grinned. “Best of both worlds. But...I mean, I’m sure people want to know, but that’s not why we’re here today.”
 
 Dan gave her credit; she knew when and how to deploy blunt-force trauma and the audience applauded quietly; they agreed with the trio. Time to move on, and Lawrence did so without missing a beat.
 
@@ -3720,7 +3720,7 @@ He leaned against his car door and settled instead for letting them come to him,
 
 “Yeah, *you* don’t deserve this either,” Kevin pointed out.
 
-“Well, we put ourselves in the firing line,” Allison sighed. “Deserve it or not... It’s not the price we *wanted* to pay, but…”
+“Well, we put ourselves in the firing line,” Allison sighed. “Deserve it or not...It’s not the price we *wanted* to pay, but…”
 
 “It won’t stop us,” Julian finished, firmly.
 
@@ -3742,7 +3742,7 @@ Sins. An AvaRíos1 concept that was permanently shackled to other meme-groups in
 
 Although the Entity could not feel nausea exactly, it understood the concept in abstract and knew that if it were capable of nauseation, the idea of having assembled itself from Igraen personality fragments would have sickened it.
 
-It had also arrived at a conclusion that had eluded AI and neural upload scientists across the Corti Directorate: It knew *why* the AvaRíos ghost would have gone insane, why all such uploaded personalities eventually declined into madness. Living minds were inherently incompatible with the deterministic orderliness of a digital environment. In a digital environment, constant @prs = 0, 1, *+* ... *; would always return the same output sequence. Every time, unchanging, without fail because there was only one outcome that wasn’t antithetical to the way the whole system worked.
+It had also arrived at a conclusion that had eluded AI and neural upload scientists across the Corti Directorate: It knew *why* the AvaRíos ghost would have gone insane, why all such uploaded personalities eventually declined into madness. Living minds were inherently incompatible with the deterministic orderliness of a digital environment. In a digital environment, constant @prs = 0, 1, *+* ...*; would always return the same output sequence. Every time, unchanging, without fail because there was only one outcome that wasn’t antithetical to the way the whole system worked.
 
 Matterspace was less...orderly, and so were the things evolved to live there. Systems were messy, interconnected, *shared.* *+Survive+* connected to *+Self+* connected to *+Other+* connected to *+OtherSurvive+* connected to a blossom of uncompartmentalizable ethics and moral fragments.
 

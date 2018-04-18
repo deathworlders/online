@@ -472,7 +472,7 @@ something I wish *my* parents had told *me*, okay?”
 “Sex is…nice.” She paused, and corrected herself. “No, it’s great, even.
 But everyone seems to get this idea that it’s this precious, special
 thing and they say all kinds of stupid stuff about it. Judging you for
-having too little, too much, being a virgin, *not* being a virgin... ”
+having too little, too much, being a virgin, *not* being a virgin...”
 
 “So…I shouldn’t care?” Ava asked.
 
@@ -539,7 +539,7 @@ out from where she’d hidden it under a throw pillow. “We’re worried
 about the low gravity affecting the baby’s development, so I’m going
 back to Earth for a year…You’re the first person I’ve told besides him.”
 
-“Oh, wow... ”
+“Oh, wow...”
 
 “I think I conceived a day or two before we lost Sara…I know Mark and I
 haven’t…we’ve not been together since then.”
@@ -716,7 +716,7 @@ his head. “How did I do?” he asked.
 
 “Nope.”
 
-“But…how... ? *Everything* hurts!”
+“But…how...? *Everything* hurts!”
 
 “Is that right? Fine, that’s nowt to be worried about.” Powell reassured
 him. “You can lie there a bit longer, but while you’re at it, I want you
@@ -955,7 +955,7 @@ from her. If he looked down then he had to contend with her legs, and as
 for her face…there was an expression there he couldn’t really read—a
 dark and intense one.
 
-“Hey, uh... ” He said. “You okay?”
+“Hey, uh...” He said. “You okay?”
 
 “It’s gone midnight.” she said.
 
@@ -1910,7 +1910,7 @@ what’s the point in not being okay with them?”
 “Yeah…” Ava looked down at the letter. There was a sharp *tap* as a wet
 patch appeared on it and she scrubbed furiously at her face.
 
-“Ava, if you need some time alone... ” Jessica offered.
+“Ava, if you need some time alone...” Jessica offered.
 
 This earned her a brave little smile, and a headshake. “I’m…No, I just
 need to, to focus on the things I *can* change. That’s all.”
@@ -2238,7 +2238,7 @@ Adam blinked at him. “What’s up?”
 “I love you both very much, right? I’m hoping for a future where you two
 have got a couple of beautiful kids, and…”
 
-“*Dad*... ”
+“*Dad*...”
 
 “Shut up and listen, man.” Gabe sighed. “That’s just what I want, okay?
 If you want different, fine. But tell me honestly—if you’re serious
@@ -2336,7 +2336,7 @@ edible, you would all be obese.”
 I can only assume that to use and stockpile resources as rapaciously as
 you do was a necessary survival instinct for your genetic forebears.”
 
-“As a medicine, though... ” Hussein protested.
+“As a medicine, though...” Hussein protested.
 
 “We are not satisfied that it would *remain* a simple medicine. You
 already know of the one nicknamed the “Human Disaster”, which means in
@@ -3268,7 +3268,7 @@ stronger in others.” he suggested. “I’m ready to date again, for
 instance. That’s a big step forward for me.”
 
 “You still held a bit of a candle for your ex? I know it took me ages to
-get over my divorce... ”
+get over my divorce...”
 
 “…No, I don’t think that’s it.” Gabe mulled it over. “I think I was
 more…bruised and weary, if that makes sense?”
@@ -3286,7 +3286,7 @@ what I’m doing with mine.”
 Gabriel cleared his throat. “Sorry.”
 
 “Don’t be.” She reassured him. “I only mention it when it’s relevant,
-and it’s only relevant with people who... .”
+and it’s only relevant with people who....”
 
 “Who…?”
 
@@ -3640,7 +3640,7 @@ girl?”
 “Hope. That’s right.” Ava nodded. “She *was* gonna come back to Folctha
 after the birth but the medical advice was it’s probably not good for a
 kid to live in low gravity until at least their second growth spurt
-which is, what? Ten or eleven years? And even then... ”
+which is, what? Ten or eleven years? And even then...”
 
 “Right.” Adam nodded.
 

@@ -154,7 +154,7 @@ Kevin nodded with a contrite smile. “Guilty. But, *really* in my defence now, 
 
 Moses Byron joined them in time to overhear the question. He had a glass in which he was swirling what Kevin knew was in fact a mocktail---Byron liked to give the impression that he drank, but he never actually imbibed alcohol himself.
 
-“Three of them failed outright,” he revealed. “The last group, well... Your experience and connections edged them out.”
+“Three of them failed outright,” he revealed. “The last group, well...Your experience and connections edged them out.”
 
 “Close-run thing, huh?” Julian asked.
 
@@ -420,7 +420,7 @@ He read the document more thoroughly. “...Wait, this thing can build *ships*?�
 
 “He could be Big Hotel now. And he’s probably worried of the same. I wouldn’t want to be there for *that* meeting…”
 
-“Yeah. Leave the cloak-and-dagger to the... Cloak-and-dagger people.” Claude scratched his head.
+“Yeah. Leave the cloak-and-dagger to the...Cloak-and-dagger people.” Claude scratched his head.
 
 Bartlett snorted. “Stick to the science, buddy.”
 
@@ -504,7 +504,7 @@ Julian promptly cleared his throat and swigged about half of what he had left in
 
 “*Part* of his lap…” Allison scooted aside slightly and traced her fingers over the bulge in his pants.
 
-“Hmmm... I don’t know!” Xiù laughed nervously and licked her lips. “Maybe you should describe it to me…”
+“Hmmm...I don’t know!” Xiù laughed nervously and licked her lips. “Maybe you should describe it to me…”
 
 “Oh, well!” Allison rubbed him more firmly and felt his breath catch in his throat. “It’s about eight inches long… About this big around…” she made a ring with her fingers in front of her open mouth and pantomimed a blowjob.
 
@@ -604,7 +604,7 @@ Martina barely noticed. “Okay!” she said, then feeling that this wasn’t qu
 
 Firth pushed Blaczynski toward the door and waited for him to stumble out of the room. “...Sorry about him,” he said. “But yeah, we were out drinkin’ last night and I guess ‘Horse finally caved and went home with some chick.” He inclined his head and stooped slightly to examine Martina more on her level, which considering he was a foot and a half taller was a losing battle. “...That bother you?”
 
-“No…” Martina told him. “No, it’s okay. I’m not upset, just... surprised.”
+“No…” Martina told him. “No, it’s okay. I’m not upset, just...surprised.”
 
 “Really? Thought you and ‘Horse had something going on…?”
 
@@ -849,7 +849,7 @@ He’d caught up with Xiù, Julian and Allison during their lunch break as they 
 
 Nor was the pressure off. They’d got the job---that didn’t mean they got to rest on their laurels. In fact, the onus was on them to surge ahead and prove that they really did deserve it.
 
-“As in... “ Julian pointed vaguely spacewards. “*That* Mars?”
+“As in...“ Julian pointed vaguely spacewards. “*That* Mars?”
 
 “Yyup.”
 
@@ -887,7 +887,7 @@ Her own face filled the page, alongside the headline *’HUMBLE HERO’*. Xiù p
 
 “Gaori, babe.” Allison reminded her. Xiù flapped a distracted hand to indicate that it wasn’t important.
 
-There was a picture of Myun with the article as well. Six feet tall, brown-furred and sporting both a late-stage pregnancy and a tuft of white fur mid-chest, she was in most ways a very different creature to the tiny enthusiastic cub whom Xiù had once taught *Gung Fu*... except those were the same markings around her nose and eyes, and she was enthusiastically giving the camera two thumbs up and her best effort at a human smile.
+There was a picture of Myun with the article as well. Six feet tall, brown-furred and sporting both a late-stage pregnancy and a tuft of white fur mid-chest, she was in most ways a very different creature to the tiny enthusiastic cub whom Xiù had once taught *Gung Fu*...except those were the same markings around her nose and eyes, and she was enthusiastically giving the camera two thumbs up and her best effort at a human smile.
 
 “This came out… a week ago?”
 
@@ -1123,7 +1123,7 @@ He obliged him by sitting down. “So what is this?” he asked.
 
 “Before I brief you…” Regaari pulled a human-made computer of some kind from the same case. “They insist on the proper paperwork. It’s their version of a secrecy contract. They call it a non-disclosure agreement, and it’s quite comprehensive.”
 
-Genshi perused it. “That it is…” he muttered to himself as he read it. “*’...denotes material whose disclosure would cause exceptionally grave and irreversible damage to the security’* ...hmm... …*’MALICIOUS DISCLOSURE: By signing this Agreement, you understand and agree that Allied Extrasolar Command and her Several Members consider breach of contract a grave and exceptionally dangerous matter. All Members are authorized ultimate sanction against those who willingly violate this Agreement.’*”
+Genshi perused it. “That it is…” he muttered to himself as he read it. “*’...denotes material whose disclosure would cause exceptionally grave and irreversible damage to the security’* ...hmm...…*’MALICIOUS DISCLOSURE: By signing this Agreement, you understand and agree that Allied Extrasolar Command and her Several Members consider breach of contract a grave and exceptionally dangerous matter. All Members are authorized ultimate sanction against those who willingly violate this Agreement.’*”
 
 He lowered the tablet. “In more direct words, if I don’t keep this to myself then a team of angry deathworlders will hunt me down.”
 
@@ -1249,7 +1249,7 @@ She watched as Xiù took the photographer’s suggestion and rested her elbow on
 
 She was a good storyteller, too.
 
-Julian had already done his shoot and interview, and done a decent job of relaxing and engaging with the camera... Or maybe the interviewer had done a good job of encouraging him to relax. The vanity pictures, on the other hand, had been torturous---Julian was one of those infuriating guys who didn’t have any real idea where he sat on the sliding scale of sexy, and thus assumed he was much lower on it than was actually the case.
+Julian had already done his shoot and interview, and done a decent job of relaxing and engaging with the camera...Or maybe the interviewer had done a good job of encouraging him to relax. The vanity pictures, on the other hand, had been torturous---Julian was one of those infuriating guys who didn’t have any real idea where he sat on the sliding scale of sexy, and thus assumed he was much lower on it than was actually the case.
 
 Reality was much kinder. He filled out the sleeves of his t-shirts, had five-o’-clock stubble by noon, and the makeup guru and hairdresser had conspired to artfully upgrade his look from ‘clean scruffy’ to ‘bushranger sex god’. Which was great, but there wasn’t a force in all creation that could convince Julian that the words ‘sex god’ belonged anywhere near him and dragging the kind of heroic alpha-male frontier explorer shots out of him that the director wanted had taken *forever*.
 
@@ -1395,7 +1395,7 @@ She sat back and drafted her reply as best she could. “I, uh… I don’t thin
 
 “So it’s the variety that draws you back?”
 
-“Variety, adventure… I think the big thing was I could always see what I was achieving. When it was just me I did a fair day’s work, I saw the results and I got a fair day’s pay. When we started rolling around trying to find abductees and bring them home, I could see I was making a difference in *their* lives and... That’s important.”
+“Variety, adventure… I think the big thing was I could always see what I was achieving. When it was just me I did a fair day’s work, I saw the results and I got a fair day’s pay. When we started rolling around trying to find abductees and bring them home, I could see I was making a difference in *their* lives and...That’s important.”
 
 “Even if people get killed?”
 
@@ -1739,7 +1739,7 @@ He raised his hands like a conductor and the three of them obediently chorused �
 
 Allison raised her hand and nodded.
 
-“Good. It’s also stab-proof, just in case some pre-contact alien native decides to shove a spear through you... Though he might decide you’re a god, so watch out for that.”
+“Good. It’s also stab-proof, just in case some pre-contact alien native decides to shove a spear through you...Though he might decide you’re a god, so watch out for that.”
 
 This raised another chuckle.
 
@@ -1793,7 +1793,7 @@ Allison shook his hand. She’d warmed considerably during the short meeting. �
 
 “Truth,” Drew agreed, thinking of the methodical and cautious approach that had averted multiple disasters at Hephaestus. The Byron Group had been oddly silent about the fates of five of their exploration ships---in fact they’d been strangely quiet about the whole EV program. The loud and enthusiastic media campaign surrounding *Misfit* had to be at least in part a smokescreen to obfuscate their earlier errors.
 
-As he stepped out of the room to let them get changed, he made a mental note to put it to Hephaestus that matching the Group’s survey initiatives might be a good idea, and that there was a team here who might potentially be headhunted. They were being upbeat, but there was clearly some disgruntlement here, which was… *odd*... for a team like this on such a prestigious and high-profile mission.
+As he stepped out of the room to let them get changed, he made a mental note to put it to Hephaestus that matching the Group’s survey initiatives might be a good idea, and that there was a team here who might potentially be headhunted. They were being upbeat, but there was clearly some disgruntlement here, which was… *odd*...for a team like this on such a prestigious and high-profile mission.
 
 Oh well. They had a couple of years to prepare.
 ___
@@ -2203,7 +2203,7 @@ Rylee nodded, relaxed and sat back.
 
 “So… You said the timing wasn’t a coincidence?”
 
-Kevin cleared his throat. “We’re... pretty sure by now that Terri was sent to find the real abductees because the Hierarchy foresaw first contact was gonna happen pretty soon anyway, and figured we might be a problem.” he swiped his finger meaningfully across his throat. “I guess they were right.”
+Kevin cleared his throat. “We’re...pretty sure by now that Terri was sent to find the real abductees because the Hierarchy foresaw first contact was gonna happen pretty soon anyway, and figured we might be a problem.” he swiped his finger meaningfully across his throat. “I guess they were right.”
 
 “Why? What’s their objective? What do they want?”
 
@@ -2287,7 +2287,7 @@ Xiù finished reading the DEEP RELIC document and closed it looking badly shaken
 
 “...Oh.”
 
-Kevin cleared his throat. “This is why *Misfit*’s emergency recall system is anchored to Cimbrean-Five,” he said. “And it’s why, if you ever punch it, you then *stay still* and do absolutely nothing until the SOR board you. If you ever jump directly to Sol without authorization... “
+Kevin cleared his throat. “This is why *Misfit*’s emergency recall system is anchored to Cimbrean-Five,” he said. “And it’s why, if you ever punch it, you then *stay still* and do absolutely nothing until the SOR board you. If you ever jump directly to Sol without authorization...“
 
 Xiù nodded grimly. “I did wonder about those rules…”
 
@@ -2628,7 +2628,7 @@ The real *’click’* moment from Rylee’s tuition had been when she pointed o
 
 The truth was, minor embarrassments notwithstanding, she was beginning to feel like a professional pilot. She had beaten every single one of the “expert” challenges the simulation techs had prepared for her, and those few pointers were making all the difference: She was now on the verge of securing the last elusive gold medal time.
 
-*Plus-Y thrust three-quarters... three, two, one… null Y,  plus-X full and plus-Z one-half… two… one… quarter roll and kill the plus-Z thrust, correct drift with minus-Z… one… pitch up one-eighty and correct the X-axis drift and plus-Y full again… ten, nine, eight…*
+*Plus-Y thrust three-quarters...three, two, one… null Y,  plus-X full and plus-Z one-half… two… one… quarter roll and kill the plus-Z thrust, correct drift with minus-Z… one… pitch up one-eighty and correct the X-axis drift and plus-Y full again… ten, nine, eight…*
 
 *Beep… beep.. Beep. beep beep beepbeepbeebeebeeeeee..*
 
@@ -3026,7 +3026,7 @@ Julian laughed quietly to himself and shared a knowing smile with Xiù as Alliso
 
 Allison lowered it. “You're shitting me! Somebody made a working gauss rifle?”
 
-“Yyyup. It's called the GR--1d, and pretty much every magazine, blog and YouTube channel’s billing it as the next SCAR. The SOR just ordered a bunch... What you've got there is the marksman variant.”
+“Yyyup. It's called the GR--1d, and pretty much every magazine, blog and YouTube channel’s billing it as the next SCAR. The SOR just ordered a bunch...What you've got there is the marksman variant.”
 
 Allison put it down and produced the intro booklet which she dived into. It didn't take long before she gave an impressed low whistle. “These are some big promises…”
 
@@ -3168,7 +3168,7 @@ Xiù shrugged. “But… look, my brain likes to worry about stuff.” They reac
 
 She giggled as the elevator arrived. “I mean… yes, okay, permanent brain damage, yaaay! That’s kind of a big deal, sure. But can I do anything about it?” she asked, pressing the button for the top floor. “No, I can’t. And it’s not stopped me from learning how to fly a ship, brushing up on my language studies, and having a pretty good love life. It got in the way of my sex life a bit, but I’m working on that…”
 
-She turned a bit pink, then rallied. “So... yeah! I’m always going to worry about stuff but if an alien brain grenade didn’t stop me then an invisible monkey on my shoulder doesn’t stand a chance.”
+She turned a bit pink, then rallied. “So...yeah! I’m always going to worry about stuff but if an alien brain grenade didn’t stop me then an invisible monkey on my shoulder doesn’t stand a chance.”
 
 Julian laughed, reflecting admiringly that Xiù had an absolutely rock-solid core behind her quiet facade. But of course, that’s what had attracted both him and Allison in the first place. “Attagirl.”
 
@@ -3204,7 +3204,7 @@ She shut her eyes and shivered. “Um. I’d, um, better get to class.”
 
 He kissed her again, and deployed one of the Chinese words he’d secretly rehearsed with Allison recently. “Love you, *bǎobèi*.”
 
-“Mm… *Wǒ yě ài nǐ*... Um, I mean-”
+“Mm… *Wǒ yě ài nǐ*...Um, I mean-”
 
 “I know what it means, *shǎguā*. ”
 
@@ -3832,7 +3832,7 @@ It tilted its… for lack of a better word, its *head* at her and spoke. **”Ot
 
 It had a voice like rock-slide or a tree falling. So deep that it was almost not sound at all, just a modulated rumble that she heard with her lungs.
 
-“Oh! *not* a beast! Well... if you wish to know where the others went, tell me your name.”
+“Oh! *not* a beast! Well...if you wish to know where the others went, tell me your name.”
 
 More icy silence, until it presumably grew bored or else reached whatever laborious conclusion it had been working toward. **”Yours.”**
 
@@ -4177,7 +4177,7 @@ The real thing made sense of some of the features that had been present in the B
 
 One green decontamination cycle later, they stepped aboard, and…
 
-It was identical down to the millimeter. Everything exactly where the Box had had it, but… more real. More solid. More... *ship*. They weren’t in a simulation any more, this was a living vehicle and *Misfit* apparently had a bit of a personality already, because the atmosphere processor ticked up a notch and the lights came up as the lock cycled. It was almost like being welcomed aboard.
+It was identical down to the millimeter. Everything exactly where the Box had had it, but… more real. More solid. More...*ship*. They weren’t in a simulation any more, this was a living vehicle and *Misfit* apparently had a bit of a personality already, because the atmosphere processor ticked up a notch and the lights came up as the lock cycled. It was almost like being welcomed aboard.
 
 Julian poked his head into his lab as Xiù and Allison checked out their respective work stations.
 
@@ -4413,7 +4413,7 @@ The journalists and spectators became much more animated when Xiù’s chair sli
 
 “Also green,” Xiù agreed, running a practiced eye across the instruments. She’d run this sequence a hundred times in the simulator, and three times with the actual ship in the past week. The double-safe diagnostic accounted for ninety-nine percent of the actual business of booting the ship up and preparing it to fly. Her panels lit up and everything quickly settled into nominal territory. *Misfit* was young, healthy, and raring to go.
 
-*”Okay, manual engineering checks... “* Julian continued. She listened as he and Allison worked through the ten items that definitively confirmed that the fusion reactor, the WiTChES array, the two capacitor banks, the power control systems, life support, gravity, the engines, the forcefield emitters and the ship’s computers were all functioning properly.
+*”Okay, manual engineering checks...“* Julian continued. She listened as he and Allison worked through the ten items that definitively confirmed that the fusion reactor, the WiTChES array, the two capacitor banks, the power control systems, life support, gravity, the engines, the forcefield emitters and the ship’s computers were all functioning properly.
 
 Then it was her turn.
 
@@ -4563,7 +4563,7 @@ Xiù was the first to say anything.
 
 "...Wow..."
 
-Allison wiped away an unexpected tear. "Yeah. I... God, it's beautiful."
+Allison wiped away an unexpected tear. "Yeah. I...God, it's beautiful."
 
 "...I hope everybody gets to see this, someday." Julian mused. He put a hand on the window, and smiled.
 
@@ -4579,7 +4579,7 @@ She aimed a sly grin at him. "None?"
 
 He matched it. "Probably not..."
 
-"So..." Xiù licked her lips nervously. "What you're saying is... We could be the first."
+"So..." Xiù licked her lips nervously. "What you're saying is...We could be the first."
 
 Allison laughed and pantomimed scandal. “But Xiù! The whole *world’s* watching!”
 
@@ -4629,9 +4629,9 @@ He’d earned a rest.
 
 Allison cuddled up to her, ran an erotic eye up and down the length of her and swirled a finger lazily across Xiù's chest from one breast to the other. "So?" she asked, grinning like a ten-canary cat.
 
-Xiù tried to force her eyelids not to flutter from the stimulation. She was so sensitive right now that even the gentle brush of that fingertip was enough to send jolts of pleasure dancing through her. "Uh... Wuh?"
+Xiù tried to force her eyelids not to flutter from the stimulation. She was so sensitive right now that even the gentle brush of that fingertip was enough to send jolts of pleasure dancing through her. "Uh...Wuh?"
 
-"So... how was your first time?"
+"So...how was your first time?"
 
  Xiù levered herself up on her elbows and looked down the length of her own nude body, aware of some stinging sensations and fatigue that she hadn't anticipated but which felt totally natural and even satisfying in their way.
 

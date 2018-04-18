@@ -223,7 +223,7 @@ Arés jotted them both down as they were read out, handing the note across to th
 
 “I understand. You’ve got my number?”
 
-“Yeah, I can save it. Detective.... you’ll let me know when the funeral is, right? Terri and I were close.”
+“Yeah, I can save it. Detective....you’ll let me know when the funeral is, right? Terri and I were close.”
 
 “I’ll put you in touch with her sister.” Arés promised. “You’ll get back to me once you have permission to discuss this further?”
 

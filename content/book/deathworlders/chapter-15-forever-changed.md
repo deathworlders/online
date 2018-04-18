@@ -65,7 +65,7 @@ A chair was bumped gently against the back of his knees, and those same hands th
 
 The greeter was seated opposite him, smiling faintly as the handlers filed out of the room. It wasn’t a large room - in fact it was just the two chairs, a desk, and a conspicuous camera mounted on the ceiling. The only features on the desk where a small laptop, turned towards the human so that Six couldn’t see the screen, and a slim paper dossier and pen.
 
-"My name’s Stephen, I’ve been assigned to your case." the man opposite him continued. “My goal here is to learn as much as I can about you and your associates, but before we begin... Have you been fed well? Are you comfortable enough?"
+"My name’s Stephen, I’ve been assigned to your case." the man opposite him continued. “My goal here is to learn as much as I can about you and your associates, but before we begin...Have you been fed well? Are you comfortable enough?"
 
 This was not, Six thought, how an interrogation should go.
 
@@ -393,7 +393,7 @@ Jenkins just closed his eyes and grimaced.
 
 "Do you have any idea why they might do that?" Higgins asked.
 
-"Fear! I mean, look at how much the others are shitting themselves over us." Kevin replied. “Shoving up a forcefield, telling their ships and stations to throw us to the wolves... While I was up there I got moved on as often because they were shit-scared of me as for vagrancy. One little show of some supernatural feat like picking up a forty-pound crate in point seven Gs - you know, *nothing* to us, but to them it’s like “*he’s an unstoppable monster, get him off the station!*”. You know, I heard one of us got involved in the Dom-All war like, thirteen years ago? That stupid motherfucker’s the reason every station in the sky has a locker full of nervejam grenades nowadays. Even if the, like, general public didn’t know about us before my dumb ass got on the news mouthing off about religion? The authorities sure as shit *did*, and they armed their security guys accordingly. They’re fucking afraid of us, man.”
+"Fear! I mean, look at how much the others are shitting themselves over us." Kevin replied. “Shoving up a forcefield, telling their ships and stations to throw us to the wolves...While I was up there I got moved on as often because they were shit-scared of me as for vagrancy. One little show of some supernatural feat like picking up a forty-pound crate in point seven Gs - you know, *nothing* to us, but to them it’s like “*he’s an unstoppable monster, get him off the station!*”. You know, I heard one of us got involved in the Dom-All war like, thirteen years ago? That stupid motherfucker’s the reason every station in the sky has a locker full of nervejam grenades nowadays. Even if the, like, general public didn’t know about us before my dumb ass got on the news mouthing off about religion? The authorities sure as shit *did*, and they armed their security guys accordingly. They’re fucking afraid of us, man.”
 
 "To the point of genociding… how many planets?"
 

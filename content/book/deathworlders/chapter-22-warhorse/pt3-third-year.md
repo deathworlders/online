@@ -692,7 +692,7 @@ I'm a professional.”
 
 “That's…I guess that's comforting.”
 
-Kovač finished assembling her tools – a cloth tape measure, a clipboard
+Kovač finished assembling her tools---a cloth tape measure, a clipboard
 and pen, and disposable gloves—and knelt on a cushion. “Come on, sooner
 they're down, sooner I'm done.” she told him.
 
@@ -807,7 +807,7 @@ rivers and lakes because it was cheaper to pay the pollution fines than
 to properly dispose of their byproduct. Minimum wages that could only
 support ONE person if they worked a fifteen hour day, let alone a young
 family. Thereby laying the burden of looking after that family on the
-state. I would always look at such businesses and ask myself – 'can't
+state. I would always look at such businesses and ask myself---'can't
 they see that they're making less profit by keeping their own employees
 poor?'*”
 
@@ -976,12 +976,12 @@ there.”
 They hustled at the order, stowing the last of their stuff in their
 lockers and bustling through into the suit lab, where the midsuit and
 outersuit of the EV-MASS systems were stored and maintained by a team –
-two for each Operator – of technicians.
+two for each Operator---of technicians.
 
-The techs may not have been a physical match for their operators – after
+The techs may not have been a physical match for their operators---after
 all, the SOR was training them to the point where, once they hit
 operational readiness, they would be brushing the limits of what the
-unaugmented human body could achieve – but they still took part in
+unaugmented human body could achieve---but they still took part in
 training and team-building exercises. The result was that everyone
 already knew their techs, and had grown to respect them. The technical
 crews *tried* to hang with the Operators in training, and made a damn
@@ -989,7 +989,7 @@ good attempt at it. That was worth a lot.
 
 Adam's technicians were Senior Airman Raymond Doyle and Petty Officer
 Dean Hargreaves, USAF and Royal Navy respectively. That was a pattern
-repeated across the whole SOR – one tech from the operator's parent
+repeated across the whole SOR---one tech from the operator's parent
 service, and the other from somewhere else. It seemed to work well.
 
 Doyle was the more meticulous of the two when it came to interpersonal
@@ -1034,7 +1034,7 @@ been too exhausted to actually do anything with it.
 
 The midsuit's torso was all one object which needed lifting up and
 lowering over his head and raised arms. Once that was in place he could
-then – awkwardly bent forward – lift his feet up and insert them into
+then---awkwardly bent forward---lift his feet up and insert them into
 the legs and boots, wriggle them down, grit his teeth as he forced them
 past an uncomfortable stricture, and finally push them fully in until he
 was entirely contained and had his ass hanging out of an otherwise
@@ -1062,7 +1062,7 @@ structures were taking the worst off the weight.
 
 The midsuit did something similar in response to his body temperature –
 its innermost padded gel lining expanded, and that was like getting a
-full-body bearhug from Baseball. It served a purpose, though – the
+full-body bearhug from Baseball. It served a purpose, though---the
 suit's incredible tightness both counteracted vacuum precluding the need
 for a pressurized internal environment except around the face and mouth,
 and made it an extension of his limbs rather than just something he was
@@ -1070,11 +1070,11 @@ wearing. It wasn't comfortable at first, but that was what the five
 minute acclimation break was for. Technically, he was already exercising
 – under that compression, merely breathing became an exertion and all of
 his muscles were forced to flex a little. He should have been sweating
-profusely – instead, the undersuit's stillsuit system went to work,
+profusely---instead, the undersuit's stillsuit system went to work,
 whipping the water away from his skin and adding it to its own
 circulating and cooling reserves.
 
-After that came all the technical bits – the life support system that
+After that came all the technical bits---the life support system that
 went on his hips, the capacitor bank up his spine, the forcefield
 emitters that ran down his arms, the heat exchanger at his shoulders,
 all of which again needed Doyle's delicate touch to hook up.
@@ -1084,8 +1084,8 @@ camouflage cover, plus the framework of carrying systems for his
 backpack, ammo, grenades, medical equipment, and any auxiliary armour
 plating or mission-specific tools he felt like carrying.
 
-The final step – his helmet and breathing mask – were almost
-anticlimactically simple. He could – and was required to – put them on
+The final step---his helmet and breathing mask---were almost
+anticlimactically simple. He could---and was required to---put them on
 himself. They snapped on simply and easily, having a pressure-sealed
 locking system of Cavendish's own design that was allegedly foolproof.
 
@@ -1247,7 +1247,7 @@ the coldest ever.” he said.
 of the steam coming off her drink.
 
 Sean gripped her upper shoulder and pulled her a little closer still.
-She was tense – no, check that, she was shivering. “Fuck, are you okay?”
+She was tense---no, check that, she was shivering. “Fuck, are you okay?”
 
 She turned a little more towards him. “Yeah, I'm…you're warm.”
 
@@ -1318,7 +1318,7 @@ know what she was thinking about.
 half four.”
 
 This was, by the standards of Lydia Jones, a warm and affectionate
-welcome. She was the opposite of her son in every possible way – small,
+welcome. She was the opposite of her son in every possible way---small,
 serious, and corpulent to the point of being basically spherical,
 fumigated by the cigarettes she rolled herself and sporting a
 half-grown-out dyed purple undercut hairstyle that might have almost
@@ -1364,8 +1364,8 @@ Lydia and Dai's house but when his sister and her family arrived, and
 they never failed to arrive at 4:30 on the nose.
 
 He got up to get the door for them at twenty-nine minutes past, and
-grinned as Amy's car – always a new one, sleek and showroom-clean, paid
-for but never purchased – slid up outside the tiny terrace house their
+grinned as Amy's car---always a new one, sleek and showroom-clean, paid
+for but never purchased---slid up outside the tiny terrace house their
 parents lived in.
 
 Amy Jones was his twin, the older by about half an hour, and the person
@@ -1374,7 +1374,7 @@ personality she was everything their parents weren't, albeit she'd taken
 after their mother in the height department.
 
 She was exclaiming her astonishment even before she'd got out of the
-car. “Oh my days! Oh my – *look* at – you're huge!”
+car. “Oh my days! Oh my---*look* at---you're huge!”
 
 They exchanged a massive hug. “You should see some of the lads. I'm one
 of the *small* ones.” he told her, then gave an equally welcoming hug to
@@ -1408,7 +1408,7 @@ For all her failings, Lydia Jones was at least acutely aware that her
 culinary talents extended to oven chips, microwave dinners and ordering
 takeaway, so every year she saved up to have a hot Christmas dinner
 delivered instead. James and Amy had both been offering to cover that
-expense for years, but – as with the house that Amy and Robert had
+expense for years, but---as with the house that Amy and Robert had
 offered to buy for them—Lydia and Dai had been too stubborn and proud to
 accept.
 
@@ -1446,7 +1446,7 @@ they?”
 “Nope. That'd be Adam, and THAT boy's a fuckin' legend.”
 
 “Legend how?” Robert turned in his seat slightly to look back. Amy was
-always the driver – Robert had never learned how.
+always the driver---Robert had never learned how.
 
 “E's from San Diego, 'im and 'is missus.” Legsy explained. “I swear,
 they lost *everything*, right? But he's in the SOR with me, and she's
@@ -1468,7 +1468,7 @@ so good about writing her every chance he gets, she'd never hear from
 “Well have you talked to *him* about it?”
 
 “Tried to. He always just nods and tries harder for a week or two –
-takes some leave to go visit her or something like that – an' then he
+takes some leave to go visit her or something like that---an' then he
 falls right back into it, right?” Legsy shook his head. “It's
 like…that's part of the reason I admire 'im so much, he's a fuckin'
 machine in training, he's dedicated to gettin' stronger an' faster an'
@@ -1659,7 +1659,7 @@ building the tallest man-made building *ever* in Folctha now?”
 
 “Yeah?”
 
-“Yeah! Not for years yet, but when they do – if they do – it'll be a
+“Yeah! Not for years yet, but when they do---if they do---it'll be a
 third taller than what's even *possible* here on Earth.”
 
 “What the hell do they need a building like that for?” Sean asked.
@@ -1733,7 +1733,7 @@ Sean blinked a bit, looked down, then hugged her, hard.
 
 It wasn't a big strong Adam bear-hug like she'd grown used to. It was
 the hug she *needed*, a caring one full of real concern and upset for
-her. She didn't second-guess herself – she just returned it, and they
+her. She didn't second-guess herself---she just returned it, and they
 just stood there for a while, rocking gently in the middle of the room.
 
 “I uh…I have a new year's resolution I was going to make.” Sean
@@ -1818,7 +1818,7 @@ wall, gesturing towards the whole galaxy and every living thing within
 it.
 
 “Sounds like *you* didn't listen to Sara.” Sean said. Ava paused, so he
-fired the second barrel. “You'll do more good for everyone – Adam
+fired the second barrel. “You'll do more good for everyone---Adam
 included—if you're happy in yourself, Ava.”
 
 She opened her mouth, then shut it again and frowned, fidgeting
