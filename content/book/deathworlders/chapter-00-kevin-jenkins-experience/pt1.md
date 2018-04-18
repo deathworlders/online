@@ -1,8 +1,9 @@
 ---
-title: "Chapter 0.1"
-date: 2015-06-20
+title: "Chapter 0: The Kevin Jenkins Experience Part 1"
+date: 2014-09-08
+weight: 1
 ---
-“Next!” I ordered. I did not at first bother to look up from the desktop in front of me where the standard security systems were scanning the being in front of me for weapons, pathogens, parasites and other such contraband. I only looked up when the machine flashed a message I had never seen before: 
+“Next!” I ordered. I did not at first bother to look up from the desktop in front of me where the standard security systems were scanning the being in front of me for weapons, pathogens, parasites and other such contraband. I only looked up when the machine flashed a message I had never seen before:
 
 “ERROR: Unknown Species”
 

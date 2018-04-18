@@ -1,5 +1,5 @@
 ---
-title: "Chapter 42 \"Big Questions\""
+title: "Chapter 42: Big Questions"
 date: 2018-01-31
 ---
 **Date Point: 15y4m2w AV**    

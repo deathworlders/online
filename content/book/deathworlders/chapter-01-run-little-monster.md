@@ -1,7 +1,9 @@
 ---
-title: "Chapter 01 \"Run, Little Monster\""
-date: 2015-06-20
+title: "Chapter 1: Run, Little Monster"
+date: 2014-09-08
+weight: 2
 ---
+
 Terri Boone could feel the bass power cords begin to thump at her bones  as she entered the bar and couldn't resist the feral grin that forced its way onto her face - it was exactly her kind of song.
 
 For that matter, Afterburner was exactly her kind of bar. Affordable drinks, an Internet jukebox plugged straight into a set of speakers with the volume turned up full, three pool tables, a dartboard, and a couple of huge TV screens turned permanently to a sports channel. Right now, inaudible commentators were enthusing about the night's upcoming game between the Vancouver Canucks and the Arizona Coyotes. If she didn't live halfway across the country, she could have seen herself becoming a regular here.

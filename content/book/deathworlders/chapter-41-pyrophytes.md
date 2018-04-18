@@ -1,6 +1,6 @@
 ---
-title: "Chapter 41 \"Pyrophytes\""
-date: 2015-06-20
+title: "Chapter 41: Pyrophytes"
+date: 2017-12-31
 ---
 **Date Point: 15y4m2w AV**
 

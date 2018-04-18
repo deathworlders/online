@@ -1,6 +1,7 @@
 ---
-title: "Chapter 0.2"
-date: 2015-06-20
+title: "Chapter 0: The Kevin Jenkins Experience Part 2"
+date: 2014-09-08
+weight: 2
 ---
 I found the human Kevin Jenkins in conversation with one of the station's senior lawyers on the public promenade deck. I had been retired from the customs and immigration desk on the docking ring while my injuries were repaired, and instead had spent much of the last three groups of eight standard diurnals dealing with the paperwork and investigative work that had followed the Hunter attack. I had seen him only twice since – once when I saw him on the news feed as galactic media briefly turned their attention to our station and its unusual story, and the second time was when I took his statement for the official incident report.
 

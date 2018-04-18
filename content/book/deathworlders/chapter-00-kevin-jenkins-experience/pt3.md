@@ -1,6 +1,7 @@
 ---
-title: "Chapter 0.3"
-date: 2015-06-20
+title: "Chapter 0: The Kevin Jenkins Experience Part 3"
+date: 2014-09-08
+weight: 3
 ---
 In hindsight, I really should have expected that Jenkins would have attracted a journalist's attention.
 
