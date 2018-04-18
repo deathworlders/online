@@ -1,7 +1,8 @@
 ---
 title: "Chapter 1: Run, Little Monster"
-date: 2014-09-08
-weight: 2
+date: 2014-09-11
+aliases:
+  - /book/deathworlders/chapter-02-run-little-monster
 ---
 
 Terri Boone could feel the bass power cords begin to thump at her bones  as she entered the bar and couldn't resist the feral grin that forced its way onto her face - it was exactly her kind of song.

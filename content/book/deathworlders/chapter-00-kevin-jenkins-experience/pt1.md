@@ -1,7 +1,8 @@
 ---
 title: "Chapter 0: The Kevin Jenkins Experience Part 1"
 date: 2014-09-08
-weight: 1
+aliases:
+  - /book/deathworlders/chapter-01-kevin-jenkins-experience/11
 ---
 
 “Next!” I ordered. I did not at first bother to look up from the desktop in front of me where the standard security systems were scanning the being in front of me for weapons, pathogens, parasites and other such contraband. I only looked up when the machine flashed a message I had never seen before:

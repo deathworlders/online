@@ -1,7 +1,8 @@
 ---
 title: "Chapter 22: Warhorse Part 2—The Second Year"
-date: 2015-09-18
-weight: 2
+date: 2015-09-19
+aliases:
+  - /book/deathworlders/chapter-22-warhorse/second-year
 ---
 
 **Date Point: First Contact Day, 6y AV**  

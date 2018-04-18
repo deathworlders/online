@@ -1,6 +1,8 @@
 ---
 title: "Chapter 2: Aftermath"
 date: 2014-09-19
+aliases:
+  - /book/deathworlders/chapter-03-aftermath
 ---
 
 “I’ll spare you as much of the jargon as I can, eh?”

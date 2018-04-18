@@ -1,7 +1,8 @@
 ---
 title: "Chapter 22: Warhorse Part 1—The First Year"
 date: 2015-09-18
-weight: 1
+aliases:
+  - /book/deathworlders/chapter-22-warhorse
 ---
 
 **Date Point: 4y 10m AV**  

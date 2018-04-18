@@ -1,6 +1,8 @@
 ---
 title: "Chapter 40: War on Two Worlds, Part 5—Cremation"
 date: 2017-11-30
+aliases:
+  - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt5-cremation
 ---
 
 **Date Point: 14y4d AV**    

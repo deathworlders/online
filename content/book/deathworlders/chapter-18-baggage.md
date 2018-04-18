@@ -1,6 +1,8 @@
 ---
 title: "Chapter 18: Baggage"
 date: 2015-03-11
+aliases:
+  - /book/deathworlders/chapter-19-baggage
 ---
 
 **~7,200y BV**

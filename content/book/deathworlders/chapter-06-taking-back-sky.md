@@ -1,6 +1,8 @@
 ---
 title: "Chapter 6: Taking Back the Sky"
 date: 2014-10-22
+aliases:
+  - /book/deathworlders/chapter-07-taking-back-sky
 ---
 
 **One year and seven months after the Vancouver Attack**

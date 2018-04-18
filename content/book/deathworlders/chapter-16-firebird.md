@@ -1,6 +1,8 @@
 ---
 title: "Chapter 16: Firebird"
 date: 2015-01-27
+aliases:
+  - /book/deathworlders/chapter-17-firebird
 ---
 
 **Date Point: 4y 2m 1w 2d AV**

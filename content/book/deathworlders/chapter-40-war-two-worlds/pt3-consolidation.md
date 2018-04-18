@@ -1,6 +1,8 @@
 ---
 title: "Chapter 40: War on Two Worlds, Part 3—Consolidation"
 date: 2017-09-30
+aliases:
+  - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt3-consolidation
 ---
 
 **Date Point: 14y2d AV**    

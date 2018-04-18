@@ -1,7 +1,8 @@
 ---
 title: "Chapter 22: Warhorse Part 6—Operation NOVA HOUND"
-date: 2015-09-17
-weight: 6
+date: 2015-09-23
+aliases:
+  - /book/deathworlders/chapter-22-warhorse/operation-nova-hound
 ---
 
 **Date Point: First Contact Day, 10y AV**    

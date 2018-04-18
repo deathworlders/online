@@ -1,6 +1,8 @@
 ---
 title: "Chapter 20: Exorcisms"
-date: 2015-04-271
+date: 2015-04-27
+aliases:
+  - /book/deathworlders/chapter-21-exorcisms
 ---
 
 **Date Point: 4y 9m 2w 6d AV**

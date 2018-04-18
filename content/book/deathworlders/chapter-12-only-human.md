@@ -1,6 +1,8 @@
 ---
 title: "Chapter 12: Only Human"
 date: 2014-11-26
+aliases:
+  - /book/deathworlders/chapter-13-only-human
 ---
 
 **Three years and seven months AV**    

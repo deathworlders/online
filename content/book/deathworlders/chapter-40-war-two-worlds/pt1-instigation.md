@@ -1,6 +1,8 @@
 ---
 title: "Chapter 40: War on Two Worlds, Part 1—Instigation"
 date: 2017-07-28
+aliases:
+  - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation
 ---
 
 **Date Point: 13y11m2w AV**    

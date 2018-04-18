@@ -1,6 +1,8 @@
 ---
 title: "Chapter 0: The Kevin Jenkins Experience"
 date: 2014-09-08
+aliases:
+  - /book/deathworlders/chapter-01-kevin-jenkins-experience
 ---
 
 The first chapter of what would eventually become "The Deathworlders", was

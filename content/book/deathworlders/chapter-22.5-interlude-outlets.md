@@ -1,6 +1,8 @@
 ---
 title: "Chapter 22.5: Interlude/Outlets"
 date: 2015-09-25
+aliases:
+  - /book/deathworlders/225-interlude-outlets
 ---
 
 **Date point: 10y 5d AV**

@@ -1,6 +1,8 @@
 ---
 title: "Chapter 15: Forever Changed"
 date: 2014-12-27
+aliases:
+  - /book/deathworlders/chapter-16-forever-changed
 ---
 
 **Date point: ??? AV**

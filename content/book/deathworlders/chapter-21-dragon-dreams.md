@@ -1,6 +1,8 @@
 ---
 title: "Chapter 21: Dragon Dreams"
 date: 2015-05-20
+aliases:
+  - /book/deathworlders/chapter-22-dragon-dreams
 ---
 
 *Black soil. Not peat-dark or wet from rain, but the black of carbon and nighttime, visible between clumps of grass so rich and dark and green, the green of leather on an antique desk.*

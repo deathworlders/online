@@ -1,6 +1,8 @@
 ---
 title: "Chapter 17: Battles"
 date: 2015-02-13
+aliases:
+  - /book/deathworlders/chapter-18-battles
 ---
 
 **Date Point: 4y 8m AV**

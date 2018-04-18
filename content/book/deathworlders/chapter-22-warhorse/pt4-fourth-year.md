@@ -1,7 +1,8 @@
 ---
 title: "Chapter 22: Warhorse Part 4—The Fourth Year"
-date: 2015-09-18
-weight: 4
+date: 2015-09-21
+aliases:
+  - /book/deathworlders/chapter-22-warhorse/fourth-year
 ---
 
 **Date Point: 8y 1m AV**

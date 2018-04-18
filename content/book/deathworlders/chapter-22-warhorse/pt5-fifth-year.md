@@ -1,7 +1,8 @@
 ---
 title: "Chapter 22: Warhorse Part 5—The Fifth Year"
-date: 2015-09-17
-weight: 5
+date: 2015-09-22
+aliases:
+  - /book/deathworlders/chapter-22-warhorse/fifth-year
 ---
 
 **Date Point: 9y 3d AV**

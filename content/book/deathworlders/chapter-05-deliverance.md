@@ -1,6 +1,8 @@
 ---
 title: "Chapter 5: Deliverance"
 date: 2014-10-12
+aliases:
+  - /book/deathworlders/chapter-06-deliverance
 ---
 
 ++**Four years previously.**++

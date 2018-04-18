@@ -1,6 +1,8 @@
 ---
-title: "Chapter 09: Gains and Losses"
+title: "Chapter 10: Legwork"
 date: 2014-11-11
+aliases:
+  - /book/deathworlders/chapter-11-legwork
 ---
 
 **Three years and six months AV**    

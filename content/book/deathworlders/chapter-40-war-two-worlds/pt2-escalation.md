@@ -1,6 +1,8 @@
 ---
 title: "Chapter 40: War on Two Worlds, Part 2—Escalation"
 date: 2017-08-30
+aliases:
+  - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt2-escalation
 ---
 
 **Date Point: 14y AV**    

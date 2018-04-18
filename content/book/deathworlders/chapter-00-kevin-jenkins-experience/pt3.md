@@ -1,7 +1,8 @@
 ---
 title: "Chapter 0: The Kevin Jenkins Experience Part 3"
-date: 2014-09-08
-weight: 3
+date: 2014-09-10
+aliases:
+  - /book/deathworlders/chapter-01-kevin-jenkins-experience/13
 ---
 
 In hindsight, I really should have expected that Jenkins would have attracted a journalist's attention.

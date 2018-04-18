@@ -1,6 +1,8 @@
 ---
 title: "Chapter 11: Direct Delivery"
 date: 2014-11-14
+aliases:
+  - /book/deathworlders/chapter-12-direct-delivery
 ---
 
 **Author's note**: This stage of the narrative is pretty heavily entangled in what was happening with [Rantarian](https://www.reddit.com/user/Rantarian)'s series, "[Salvage](https://www.reddit.com/r/HFY/wiki/series/salvage)", and the character of Jen Delaney migrated from that series to this one and back again during the next few chapters.

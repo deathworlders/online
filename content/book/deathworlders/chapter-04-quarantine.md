@@ -1,6 +1,8 @@
 ---
 title: "Chapter 4: Quarantine"
 date: 2014-10-08
+aliases:
+  - /book/deathworlders/chapter-05-quarantine
 ---
 
 “ALL of them?”

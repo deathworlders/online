@@ -1,6 +1,8 @@
 ---
 title: "Chapter 7: Tensions"
 date: 2014-10-29
+aliases:
+  - /book/deathworlders/chapter-08-tensions
 ---
 
 **Three years after the Vancouver Attack**    

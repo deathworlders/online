@@ -1,6 +1,8 @@
 ---
 title: "Chapter 14: The Hornet's Nest"
 date: 2014-12-21
+aliases:
+  - /book/deathworlders/chapter-15-hornets-nest
 ---
 
 **Date Point: 3Y 8M 2W AV**
