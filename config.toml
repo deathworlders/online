@@ -1,6 +1,6 @@
-baseURL = "http://deathworlders.online/"
+baseURL = "http://deathworlders.com/"
 languageCode = "en-gb"
-title = "The Deathworlders Online"
+title = "The Deathworlders"
 
 theme = "kiera"
 
@@ -14,9 +14,9 @@ googleAnalytics = "" #Google Analytics ID
     github = "HamboneHFY"     #Github username
     gitlab = ""     #Gitlab username
     linkedin = ""   #LinkedIn username
-    facebook = ""   #Facebook username
+    facebook = "HamboneHFY"   #Facebook username
     twitter = ""    #Twitter username
-    instagram = ""  #Instagram username
+    instagram = "HamboneHFY"  #Instagram username
 
 [params]
     tagline = ""
