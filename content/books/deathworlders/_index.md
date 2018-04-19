@@ -9,7 +9,7 @@ disaster-wracked, plague-ridden, predator-haunted hellholes would surely favor
 base animals driven by killer instinct rather than thinking sophonts, and so
 they were ignored by Dominion surveyors and science teams.
 
-The native civilizations of the high-end deathworld known as "Earth", therefore,
+The native civilizations of the high-end deathworld known as "Earth," therefore,
 came as something of a surprise.
 
 It came as a surprise to humanity as well. Without any other reference point but
@@ -28,8 +28,8 @@ can tear the worst monsters in the galaxy limb from limb?
 
 ---
 
-*"The Deathworlders"* is © Philip Richard Johnson, AKA Hambone, Hambone3110 and
-HamboneHFY. Some rights are reserved: The copyright holder reserves all
+*"The Deathworlders"* is (C) Philip Richard Johnson, AKA Hambone, Hambone3110
+and HamboneHFY. Some rights are reserved: The copyright holder reserves all
 commercial rights and ownership of this intellectual property. Permission is
 given for other parties to share, redistribute and copy this work under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
@@ -75,4 +75,4 @@ https://paypal.me/HamboneHFY
 
 Thank you very much for reading, and I hope you enjoy!
 
-—Hambone
+---Hambone

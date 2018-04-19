@@ -19,7 +19,7 @@ special committee. I wasn't permitted to witness the interview, but every being
 that entered that chamber exited displaying the signs of worry and stress.
 
 Events moved quickly after that. A civilian fleet set out to make contact with
-Earth in the hopes of peacefully talking them down from this “religion”
+Earth in the hopes of peacefully talking them down from this "religion"
 nonsense. It was met at the edge of their solar system by a vigilante fleet that
 had apparently been preparing to divert a comet in-system to hit Earth. The navy
 arrived to break up the resulting fight, but only after horrible casualties to
@@ -34,7 +34,7 @@ The second thing it prompted was the declaration of a surveillance and research
 mission to Earth. I requested, and was granted, a transfer and promotion to head
 of security on the research station. The station displaced into the Earth system
 five eight-diurnals after the mission was announced, using the bulk of a large
-ringed gas world known as “Saturn” to mask the neutrino burst of its arrival.
+ringed gas world known as "Saturn" to mask the neutrino burst of its arrival.
 Sheathed in a stealth field that bent all electromagnetic radiation around
 itself, and using centripetal spin rather than generated gravity, it was
 designed to go completely undetected. The last thing the station did before
@@ -53,7 +53,7 @@ interstellar norm I was used to.
 
 The other humans were quite dissimilar to Jenkins. Charlotte was from the same
 landmass and political entity as he was, but was older than him and had
-apparently joined the mission so as to preach the “truth” of the very religion
+apparently joined the mission so as to preach the "truth" of the very religion
 we were there to study. Most of the crew found it impossible to believe that she
 was not insane, but Jenkins assured me that her beliefs were considered
 perfectly normal. He seemed embarrassed by the fact.
@@ -69,8 +69,8 @@ part of the world that had apparently only just started when they were abducted.
 Jenkins later explained to me that Charlotte had praised what she saw as a war
 between her own religion against another, rival one.
 
-“It's crazy”. He complained to me, in private. “They're both products of the
-same religious root anyway!”
+"It's crazy". He complained to me, in private. "They're both products of the
+same religious root anyway!"
 
 I began to suspect, however, that Jenkins had not been entirely fair about his
 own species. My job was trivially easy, so I spent much of my time browsing the
@@ -88,14 +88,14 @@ opinions of beings that, among my own species, would have been locked up for
 their own safety and medicated. Other specimens of their art were interesting,
 thought-provoking. A few inspired quite intense emotions in me. I enjoyed
 watching their movies, and Jenkins and I spent nearly a full diurnal watching
-first a series of enjoyable fantasies called “Star Wars”, then a trilogy called
-“The Lord of the Rings” which I then discovered had originally been a book and
+first a series of enjoyable fantasies called "Star Wars", then a trilogy called
+"The Lord of the Rings" which I then discovered had originally been a book and
 read.
 
 Our musical tastes were different---he introduced me to his favourite genres,
 which I found shallow and noisy, he disliked the ones that most inspired me. I
 had trouble understanding how somebody could hear the music written by
-Khachaturian, Tchaikovsky, Bach and Rutter and consider them “dull”, but other
+Khachaturian, Tchaikovsky, Bach and Rutter and consider them "dull", but other
 members of the crew reported that they preferred Jenkins' taste in music.
 Whatever else it was, Earth was a rich source of artistic exports.
 
@@ -107,7 +107,7 @@ polyhedra and apparently immersed in fantastical battles against impossible
 creatures that could breath fire, or turn a warrior to stone by meeting its
 gaze.
 
-Another group borrowed the idea of “poetry reading” and took it in turns to
+Another group borrowed the idea of "poetry reading" and took it in turns to
 stand up and read their compositions aloud---an exercise doomed to
 ridiculousness by the fact no two of them spoke the same language, but they took
 to it with enthusiasm.
@@ -117,21 +117,21 @@ contests of physical skill and endurance, or to at least exercise some
 moderation.
 
 As part of my job, I was required to pass information of potential military
-significance back to the Council. The concept of the “taser” was among the very
-first. The idea of the “suicide bomber” was alarming, and caused something of a
+significance back to the Council. The concept of the "taser" was among the very
+first. The idea of the "suicide bomber" was alarming, and caused something of a
 stir when it was presented to the committee for interstellar security, who
 called an emergency session to think up means by which such an insane tactic
 could be countered. In the end, they wound up stealing the best ideas from
 humanity itself.
 
-It was only when I encountered the idea of the “tortured poet” that things
+It was only when I encountered the idea of the "tortured poet" that things
 started to fall into place. Up until that point, I had been struggling to
 reconcile the artistic power of these beings, and the nobility of their heroic
 visions of themselves, with the relentless delusion and grinding unpleasantness
 enacted in its name that played out before me. Now I began to see the shape of
 it.
 
-The “Demons”---a loan-word that had filled a conceptual gap we had never been
+The "Demons"---a loan-word that had filled a conceptual gap we had never been
 aware of---that tormented humanity were what inspired it. Surrounded on all
 sides by an ecosystem saturated with toxic microfauna and parasitic
 nanoorganisms, by vicious predators, hardy prey and an explosively unstable
@@ -170,4 +170,4 @@ he went back to Earth. But I can guess.
 He did it because there are more challenges down there among his own kind than
 he would ever find up here, among us.
 
----“Kirk” Krrkktnkk A'ktnnzzik'tk, Memoirs.
+---"Kirk" Krrkktnkk A'ktnnzzik'tk, Memoirs.

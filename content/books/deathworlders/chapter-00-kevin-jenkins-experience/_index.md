@@ -5,7 +5,7 @@ aliases:
   - /book/deathworlders/chapter-01-kevin-jenkins-experience
 ---
 
-The first chapter of what would eventually become "The Deathworlders", was
+The first chapter of what would eventually become "The Deathworlders," was
 posted on 4chan some years ago now, as a self-contained story.
 
 At first I thought it had received some pleasant comments and then sank without
@@ -21,4 +21,4 @@ For those who are upset by the strongly antitheistic content of part 0.2, I
 implore you to power on through it. You may be pleasantly surprised by the
 resolution to that content.
 
-—Hambone
+---Hambone
