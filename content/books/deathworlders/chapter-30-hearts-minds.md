@@ -2,7 +2,7 @@
 title: "Chapter 30: Hearts and Minds"
 date: 2016-07-30
 aliases:
-  - /book/deathworlders/chapter-30-hearts-minds
+  - /book/deathworlders/chapter-30-hearts-and-minds
 ---
 
 **Date Point 10y7m4d AV**    
