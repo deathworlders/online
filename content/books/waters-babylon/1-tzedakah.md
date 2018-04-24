@@ -83,7 +83,9 @@ loss. We understand pain. We remember. It is graven in our very bones. It is
 therefore right, and just, that we lead our fellow Man in recognizing the right
 of all sentient people to exist, that *moakh shalit al halev*, or, the heart is
 ruled by the mind, and that a people who remember the Holocaust must never
-permit such a thing to happen to others without answer. Thank you."  ---
+permit such a thing to happen to others without answer. Thank you."
+
+---
 
 **Date Point: 14Y 1W**
 
