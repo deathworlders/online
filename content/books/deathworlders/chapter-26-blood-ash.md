@@ -2,7 +2,7 @@
 title: "Chapter 26: Blood and Ash"
 date: 2016-03-31
 aliases:
-  - /book/deathworlders/chapter-26-blood-ash
+  - /book/deathworlders/chapter-26-blood-and-ash
 ---
 
 **Date Point 10y4m1w4d AV**    
