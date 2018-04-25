@@ -1,8 +1,8 @@
-# baseURL = "http://deathworlders.com/"
+baseURL = "http://deathworlders.com/"
 languageCode = "en-gb"
 title = "The Deathworlders"
 
-theme = "kiera"
+theme = "ananke"
 
 pygmentsCodeFences = true
 
