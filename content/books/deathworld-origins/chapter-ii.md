@@ -1,8 +1,6 @@
 ---
 title: "Chapter II"
 date: 2017-07-15
-aliases:
-  - /book/deathworld_origins/chapter-2
 ---
 
 #Chapter II
