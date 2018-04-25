@@ -215,7 +215,7 @@ The Communications Operator opened the door and handed him an envelope. “Trans
 
 Vezzik dismissed the Operator, then tore open the envelope and read the printout.
 
->*This is Shiplord Xagh of the Sunstorm-class supercarrier Zhadersil, currently serving the Emperor - may his wisdom shine forever - from orbit around the Affrag. The mission to deliver microbes to the Igraen worlds has been a success. Igraeot, Igraeam, and Igraeiv are completely overrun with fungal infestation. Igraeep has lost roughly half of its farmable land, and the infestation has just begun on Igraeus.*
+>*This is Shiplord Xagh of the Sunstorm-class supercarrier Zhadersil, currently serving the Emperor - may his wisdom shine forever - from orbit around the colony on Affrag. The mission to deliver microbes to the Igraen worlds has been a success. Igraeot, Igraeam, and Igraeiv are completely overrun with fungal infestation. Igraeep has lost roughly half of its farmable land, and the infestation has just begun on Igraeus.*
 
 Vezzik stood up from his desk. This was wonderful news! The war was finally over, and reconstruction would begin.
 
