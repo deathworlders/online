@@ -96,7 +96,7 @@ Rdaer**
 
 Rdaer received the launch order with glee. He fired up his kinetic thrusters, and began towing his asteroid towards his assigned target - the planet Strak’kel. It was the third planet in its system, and held V’Strakkath, the capitol of the V’Straki Empire. It was a precision operation - the gravities of the local star, the target planet, its moon, and one other system planet had to be accounted for. And, as he’d been told earlier, the trajectories of the asteroids could not be corrected once released.
 
-Rdaer had been following the Madness news ever since he had seen the news of the blight on Igraeot. Naturally, as digital entitiy, he was immune, but he had not forgotten his origins.
+Rdaer had been following the Madness news ever since he had seen the news of the blight on Igraeot. Naturally, as digital entity, he was immune, but he had not forgotten his origins.
 
 The thrusters pushed harder and harder, until he crossed the orbit of the fourth planet of the system at a significant fraction of the speed of light. “Bombs away!” Rdaer released the meteors, and hopped off the tugboats back into the network. “Estimated impact time is sixteen hours.”
 
