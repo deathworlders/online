@@ -3,7 +3,7 @@ title: "Chapter III"
 date: 2017-07-16
 ---
 
-#Chapter III
+# Chapter III
 
 **Approximately 65,000,000 years BV  
 Royal Communications Array, Outer Citadel, V’strakath, Strak’kel  
