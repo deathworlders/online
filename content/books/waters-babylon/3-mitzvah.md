@@ -305,6 +305,7 @@ the speeches had been concluded, and the vote was being called.
 
 Another minute or two, and the Senate President's gavel came down. It was a done
 deal, and the bill would be heading to the White House for a signature.
+
 ---
 
 **Date Point: 14Y 4M 2W 3D AV**
@@ -509,7 +510,7 @@ historical moment, and all of them knew it.
 
 "Let's get started."
 
---
+---
 
 **Date Point: 14Y 4M 3W 1D AV**
 
@@ -1816,6 +1817,7 @@ negotiation team, but all of you are vital to its success. The shuttle leaves in
 two hours, and in that time we must plan an attack as well as compile an
 accounting of our assets. We dare not approach negotiation with the Corti from
 anything other than a position of strength."
+
 ---
 
 **Date Point: 14Y 5M 1W 2D AV**
