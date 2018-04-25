@@ -263,7 +263,3 @@ A few moments later, the sound of the several incoming messages broke the tensio
 > To: Rdaer, Btoan, Tnaes, Kraol  
 > Subject: Test flight  
 > I finished compiling just in time to see the engines explode outside the bay on camera. I wasn't actually in the tugboat. Sabotage?*
-
----
-
-[Next](https://redd.it/6ns9x0)
