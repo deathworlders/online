@@ -1,8 +1,6 @@
 ---
 title: "Chapter VIII"
 date: 2017-07-21
-aliases:
-  - /book/deathworld_origins/chapter-8
 ---
 
 # Chapter VIII
