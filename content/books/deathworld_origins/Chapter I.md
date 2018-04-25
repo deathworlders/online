@@ -5,13 +5,6 @@ aliases:
   - /book/deathworld_origins/chapter-1
 ---
 
-
-*Author's note: This story is set in the "Jenkinsverse", some sixty-five million years before the [main series](http://hfy-archive.org/book/deathworlders). Big thanks to Hambone for letting me play in his world.*
-
-*To avoid spoilers, please read the main* Deathworlders *series up through* Chapter 17: Battles *__before__ beginning* Deathworld Origins.
-
----
-
 #Chapter I
 
 **Date Point: Approximately 65,000,000 years BV  
