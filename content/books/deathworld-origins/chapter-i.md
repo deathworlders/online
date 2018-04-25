@@ -1,8 +1,6 @@
 ---
 title: "Chapter I"
 date: 2017-07-14
-aliases:
-  - /book/deathworld_origins/chapter-1
 ---
 
 #Chapter I
