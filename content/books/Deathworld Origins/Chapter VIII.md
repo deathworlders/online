@@ -187,7 +187,7 @@ Xagh**
 **Digital honeypot trap, *Eternal Thought*  
 Vezzik**
 
-Vezzik was alone. Theoretically, he should have also been angry and frustrated, but for some reason… he just wasn’t. The rage was there, on an intellectual level, but the feelings weren’t
+Vezzik was alone. Theoretically, he should have also been angry and frustrated, but for some reason… he just wasn’t. The rage was there, on an intellectual level, but the feelings weren’t.
 
 The Igraen had trapped him in something that turned out to not actually be a tugboat ship. Sure, everything responded to pinging exactly the same way that the real tugboat had, but nothing else happened. Nothing was real. The thrusters were fake, the fins were fake, the ship itself was just as fake as the false god himself.
 
