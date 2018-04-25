@@ -1,8 +1,6 @@
 ---
 title: "Chapter V"
 date: 2017-07-18
-aliases:
-  - /book/deathworld_origins/chapter-5
 ---
 
 # Chapter V
