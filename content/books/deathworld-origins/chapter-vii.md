@@ -1,11 +1,9 @@
 ---
 title: "Chapter VII"
 date: 2017-07-20
-aliases:
-  - /book/deathworld_origins/chapter-7
 ---
 
-#Chapter VII
+# Chapter VII
 
 **Date Point: Approximately 65,000,000 years BV  
 Maozr’s Bar  
