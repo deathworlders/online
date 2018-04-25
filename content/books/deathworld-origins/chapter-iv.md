@@ -1,8 +1,6 @@
 ---
 title: "Chapter IV"
 date: 2017-07-17
-aliases:
-  - /book/deathworld_origins/chapter-4
 ---
 
 # Chapter IV
