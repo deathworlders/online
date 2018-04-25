@@ -1,11 +1,9 @@
 ---
 title: "Chapter VI"
 date: 2017-07-19
-aliases:
-  - /book/deathworld_origins/chapter-6
 ---
 
-#Chapter VI
+# Chapter VI
 
 **Approximately 65,000,000 years BV  
 Imperial Spaceport, Outer Wastes, V’Strakkath, Strak’kel**
