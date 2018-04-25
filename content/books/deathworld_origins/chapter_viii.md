@@ -252,19 +252,19 @@ She tapped into the city communications network, and was mentally assaulted by t
 
 ---
 
-#Epilogue
+# Epilogue
 
 
 Following the complete destruction of Tnok, Tktk, and other native Igraen crops, the Igraen civilization completely collapsed. Deprived of their nutrients, Igraens reverted to violent and feral packs. Over the next millions of years, they continued to evolve. They developed an additional pair of eyes, for a total of seven. They also developed tear ducts, eliminating the need to lick the eyeballs. Sexual characteristics converged into a single genderless phenotype. One thing that never changed was the bloodthirsty xenophobic hunger that the native crops had suppressed.
 
 Eventually, the Igraens (though they no longer knew that name) re-developed intelligence, followed by civilization and culture, and eventually technology. None of it bore any resemblance to the Igraen society of old. The new society was focused almost exclusively on satiating their pervasive hunger for other creatures. 
 
-Meanwhile, in cyberspace, the digital Igraen society experienced a crisis as many Igraens developed depression, and `self.quit()`.  Investigation revealed that this problem was only found among those without access to neural implants. The newfound Hierarchy, therefore, made it their mission to maintain a technological status quo within the galaxy, ensuring a constant level of available neural implants for running hundreds of thousands - and then millions - of Igraen minds. Igraen civilization developed and grew in cyberspace, and nobody outside was any the wiser. Meanwhile, Tnaes eventually grew tired of immortality and terminated, promoting the gestalt in 0002 to 0001 and leaving it in charge of the Hierarchy.
+Meanwhile, in cyberspace, the digital Igraen society experienced a crisis as many Igraens developed depression, and `self.quit()`.  Investigation revealed that this problem was only found among those whose runtime distributors did not include access to neural implants. The newfound Hierarchy, therefore, made it their mission to maintain a technological status quo within the galaxy, ensuring a constant level of available neural implants for running hundreds of thousands - and then millions - of Igraen minds. Igraen civilization developed and grew in cyberspace, and nobody outside was any the wiser. Meanwhile, Tnaes eventually grew tired of immortality and self-terminated, promoting the gestalt in 0002 to 0001 and leaving it in charge of the Hierarchy.
 
-V’Straki civilization was completely destroyed from the meteor impacts. On the eight targeted planets, all V’Straki died. Only ten V’Straki females happened to avoid death by meteor, and the minor, un-targeted colonies quickly died off as they lacked a self-sufficient breeding population. On the V’Straki homeworld, Strak’kel, most life was wiped out. But eventually, a new race of primates evolved as the dominant species. They called themselves “humans.” Although their geological technologies were impressive, time and tectonic movement had eliminated all traces of the old V’Straki Empire, and the humans were unaware that they were, in fact, the second sapient species to evolve on their planet.
+V’Straki civilization was completely destroyed from the meteor impacts. On the eight targeted planets, all V’Straki died. Only ten V’Straki females happened to avoid death by meteor, and the minor, un-targeted colonies quickly died off as they lacked a self-sufficient breeding population. On the V’Straki homeworld, Strak’kel, most life was wiped out. But eventually, a new race of primates evolved as the dominant species. They called themselves “humans.” Although their geological technologies were impressive, time and tectonic movement had wiped away all traces of the old V’Straki Empire, and the humans were unaware that they were, in fact, not the first sapient race to evolve on their planet, but the second.
 
 Eventually, the redeveloped descendants of the old Igraens made their appearance on the galactic stage, horrifying everyone else else with their lust for sapient flesh. The self-styled “Hunters” terrorized the galaxy for eons. Civilizations rose and fell, and soon a time without Hunters was all but forgotten.
 
-Until an ordinary human bartender named Kevin Jenkins, stuck in legal limbo aboard the Dominion station Outlook on Forever, beat the Brood of Five Poisons to death with their own limbs.
+Until an ordinary human bartender named Kevin Jenkins, stuck in legal limbo aboard the Dominion space station *Outlook on Forever*, beat a Hunter raiding party - the Brood of Five Poisons - to death with their own limbs.
 
 [But that's another story](http://hfy-archive.org/book/deathworlders/chapter-01-kevin-jenkins-experience/11). 
