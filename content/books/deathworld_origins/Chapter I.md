@@ -214,7 +214,3 @@ Tnaes was thrilled. Btoan’s meeting with Vezzik had been an unparalleled succe
 Tnaes loaded up an elaborate digital environment, added a translation module, dropped in a copy of Vezzik’s file, and started it up. Then, he loaded a fresh scan of his own mind, and dropped it into the chamber with Vezzik.
 
 And in doing so, condemned both races to extinction.
-
----
-
-[Chapter II](https://redd.it/6nfccr)
