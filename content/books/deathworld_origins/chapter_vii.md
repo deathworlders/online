@@ -334,7 +334,7 @@ Wait a moment. That wasn’t quite right.
 
 “I see. What do we do now?”
 
-“Well, I’ve been mostly just been working on developing the digital world. Since we don’t have physical assets to manage, and since I assume others will be coming before long, I figured it would make sense to start coding some societal controls.
+“Well, I’ve been mostly just been working on developing the digital world. Since we don’t have physical assets to manage, and since I assume others will be coming before long, I figured it would make sense to start coding some societal controls."
 
 “Like what happens if multiple copies of an individual get created?”
 
