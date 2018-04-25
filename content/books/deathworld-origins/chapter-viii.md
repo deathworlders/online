@@ -5,7 +5,7 @@ aliases:
   - /book/deathworld_origins/chapter-8
 ---
 
-#Chapter VIII
+# Chapter VIII
 
 **Orbital Command Center, V’Strakkath, Strak’kel**
 
