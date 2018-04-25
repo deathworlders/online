@@ -1,8 +1,6 @@
 ---
 title: "Chapter III"
 date: 2017-07-16
-aliases:
-  - /book/deathworld_origins/chapter-3
 ---
 
 #Chapter III
