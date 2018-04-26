@@ -5,7 +5,7 @@ aliases:
   - /book/deathworlders/chapter-02-run-little-monster
 ---
 
-Terri Boone could feel the bass power cords begin to thump at her bones  as she
+Terri Boone could feel the bass power cords begin to thump at her bones as she
 entered the bar and couldn't resist the feral grin that forced its way onto her
 face---it was exactly her kind of song.
 
@@ -26,10 +26,10 @@ guy alright.
 She slid up into a bar stool as the patrons vacated it and was treated to a warm
 grin.
 
-"Not seen you in here before darling." He said, floating his voice over the
+"Not seen you in here before darling," He said, floating his voice over the
 rampaging music with practised ease. "What can I get you?"
 
-"I'll have a Bud, please." she called back, fishing out a bill from her purse.
+"I'll have a Bud, please," she called back, fishing out a bill from her purse.
 "Hey, is your name Kevin Jenkins?"
 
 "Ah." He grinned as he retrieved the bottle from its fridge and uncapped it.
@@ -45,7 +45,7 @@ with the mothership." Jenkins said, swapping her bills for change.
 nutjobs?" she sipped her beer.
 
 "Oh yeah. You can always tell the bullshitters who've convinced themselves they
-got taken from the ones who really did." Jenkins replied. "The real abductees
+got taken from the ones who really did," Jenkins replied. "The real abductees
 don't want to go back."
 
 ---
@@ -55,56 +55,56 @@ of vocalizing, but that clumsy mechanism was reserved only for speaking with
 other Broods. Within each Brood, the intimate cybernetic wiring that allowed
 full thoughts to be sent in their entirety had made language entirely redundant.
 
-One said: +<trepidation; question> *the watchful Prey have not seen us?*+
+One said: *+<Trepidation; question>+* "The watchful Prey have not seen us?""
 
-Another said: +<confidence; statement> *They have not.* <sneering> *Nor have the
-beast prey.*+
+Another said: *+<Confidence; statement>+* "They have not." *+<sneering>+* "Nor
+have the beast prey."
 
 This provoked a wave of amusement that circled around the entire Brood. By their
 standards, the wry assumption that a non-sentient Prey species could hope to
 detect a cloaked Hunter vessel was the height of humour.
 
-The youngest said: +<fear; query> *The Prey are a deathworld species. We saw
+The youngest said: *+<fear; query>+* "The Prey are a deathworld species. We saw
 what just one of them did to the Brood of Five Poisons. Respectfully, Alpha, are
-we sure that all of our Brood shall return from this hunt?*+
+we sure that all of our Brood shall return from this hunt?"
 
-Alpha said: +<Impatience; terse rebuke; instruction> *If you fear them so, you
-may remain aboard the transport.*+
+Alpha said: *+<Impatience; terse rebuke; instruction>+* "If you fear them so,
+you may remain aboard the transport."
 
-It - their species did not reproduce in a gendered manner analogous to male and
+It---their species did not reproduce in a gendered manner analogous to male and
 female---addressed the remainder as the youngling radiated sullen apology.
-+<inspiring reminder> *We are the Hunters, they are the prey. Death planet or
+*+<inspiring reminder>+* "We are the Hunters, they are the Prey. Death planet or
 not, we will have the technological advantage and surprise. An ambushed prey is
 meat in the maw. Our cousin-Broods will remember our triumph as we return with
 trophies from this formidable prey, they will know our courage and our skill.
-And for the prey, they will know their place in the order of things.*+
+And for the prey, they will know their place in the order of things."
 
 It turned to the one that operated their ship's electronic warfare suite.
-+<Query> *Do you have an appropriately high-profile target?*+
+*+<Query>+* "Do you have an appropriately high-profile target?"
 
-That one replied +<statement> *I do, Alpha. Their whole species will witness our
-hunt.*
+That one replied *+<statement>+* "I do, Alpha. Their whole species will witness
+our hunt."
 
 The Brood vocalised as one for the first time, expressing their approval. The
 hunt was on.
 
-+++
+---
 
-"I'll be honest, I don't believe a word of it." Terri told him.
+"I'll be honest, I don't believe a word of it," Terri told him.
 
-"I don't blame you." Jenkins said. "But, look at this." He leaned forward and
+"I don't blame you," Jenkins said. "But, look at this." He leaned forward and
 turned his head so that she could inspect the bald patch on the left side of his
 head. Up close, it was an intricate web of fine white scars that produced a
 pattern which looked disturbingly like circuitry.
 
 "That's where those grey fuckers shoved an experimental translation implant into
-me." Jenkins said. "It worked, but the doctors who took it out of me said it was
+me," Jenkins said. "It worked, but the doctors who took it out of me said it was
 a pretty damn crude one."
 
-"These would be alien doctors." Terri said. She had to admit, the scars were
+"These would be alien doctors," Terri said. She had to admit, the scars were
 compelling evidence, but she was a natural skeptic. It went with the job.
 
-"Yep. See they greys---"Corti" is the pronunciation used by species that have
+"Yep. See they greys---'Corti' is the pronunciation used by species that have
 mouths which work kind of like ours---apparently they had this big eugenics
 program and turned themselves into a civilization of immoral scientists. They
 abduct pre-contact species, figure out how we tick, and use that data to corner
@@ -116,11 +116,11 @@ There's one species, look kinda like six-limbed giraffes with blue stripes.
 Those guys are about as sharp as a sack of wet mice. But most of the critters
 out there are cool."
 
-Terri waggled her empty bottle by way of asking for a replacement "So if they're
-mostly pretty cool, why wouldn't anybody want to go back out there? Flying among
-the stars and all that sounds pretty fun."
+Terri waggled her empty bottle by way of asking for a replacement. "So if
+they're mostly pretty cool, why wouldn't anybody want to go back out there?
+Flying among the stars and all that sounds pretty fun."
 
-"It will be, when we're out there." Jenkins said, grabbing a replacement. "But
+"It will be, when we're out there," Jenkins said, grabbing a replacement. "But
 for now, because we haven't invented FTL travel, we're legally considered to be
 non-sentient fauna rather than intelligent people. Even when there are trade
 ships out there captained by beings who've got all the brains of biscuits and
@@ -128,15 +128,15 @@ gravy by our standards."
 
 "Why the interest, anyway?" He asked her, all of a sudden.
 
-"I'm a private investigator." She replied. "My client's paying me a lot to
+"I'm a private investigator," She replied. "My client's paying me a lot to
 travel the whole country looking for what he called 'genuine' abductees."
 
 "Do I fit the bill?" Jenkins asked.
 
 She truthfully told him that she didn't know---her client had only asked me to
 hunt down people who weren't obvious crazies. He'd taken her to a UFO convention
-in New Mexico, gestured to the whole room and said 'Ms. Boone, this is the kind
-of people you're *not* trying to find for me.'
+in New Mexico, gestured to the whole room and said "Ms. Boone, this is the kind
+of people you're *not* trying to find for me."
 
 It was a pretty nebulous description, but the client's generous travel budget
 and seemingly limitless ability to keep up with her fees had kept Terri happy
@@ -147,10 +147,10 @@ of rugged sexy, then those were the kind of contracts she had dreamed of when
 she became a P.I.
 
 "I guess he didn't want me accidentally giving away what kind of answer I was
-looking for." she finished. "If it helps though, I don't think you're crazy.
+looking for," she finished. "If it helps though, I don't think you're crazy.
 More...bitter about something."
 
-Jenkins laughed. "Yeah, Kirk said pretty much the same thing".
+Jenkins laughed. "Yeah, Kirk said pretty much the same thing."
 
 "Kirk?"
 
@@ -163,9 +163,9 @@ few weeks before I came back to Earth that I seemed bitter about something."
 
 "Could be. See, there's this species called..."
 
-"*What the fuck*?! Hey Jenks, are you seeing this shit?!"
+*"What the fuck?!* Hey Jenks, are you seeing this shit?!"
 
-+++
+---
 
 With nary a ripple of displaced air, the Hunter raiding vessel slipped down into
 planetary atmosphere. Unnoticed by even the most sophisticated surveillance and
@@ -177,13 +177,13 @@ some minor static in the transmissions coming from within, which were quickly
 compensated for by the small army of technicians who kept the broadcast going
 out all over the world.
 
-+<Query; intrigued> *Combat trials, perhaps? Ritualized training to do battle in
-cold-weather conditions*?+
+*+<Query; intrigued>+* "Combat trials, perhaps? Ritualized training to do battle
+*in cold-weather conditions?"
 
-+<Terse; impatient> *We are not anthropologists! Brace yourself, siblings. We
-drop in a full hand of pulses.*+
+*+<Terse; impatient>+* "We are not anthropologists! Brace yourself, siblings. We
+drop in a full hand of pulses."
 
-+<Eager; aggressive> *Meat to the maw!*+
+*+<Eager; aggressive>+* "Meat to the maw!"
 
 The traditional hunting cry reverberated in silence among their collective
 minds, and then their boarding torpedoes erected their stasis fields, keeping
@@ -205,7 +205,7 @@ attack right in front of their eyes. Terri's hand was across her mouth in a
 shocked reflex, watching them viciously lay into a mass of humanity that had, up
 until mere seconds earlier, been completely unaware of their existence.
 
-"Hunters." Jenkins said. He did so quietly, but everybody nearby suddenly
+"Hunters," Jenkins said. He did so quietly, but everybody nearby suddenly
 glanced at him. Alone of everybody in the bar, he was the only one not
 apparently appalled by the sight. Instead, he had an expression of savage
 anticipation.
@@ -272,17 +272,17 @@ like earthquakes or volcanoes, acid rain, high background radiation, stuff like
 that. Like I said, a deathworld is everything Class Ten or above, and anything
 that evolves there is supposed to be really goddamn dangerous."
 
-By now on TV, the crowd were roaring at full volume: "KICK THEIR ASS! KICK THEIR
-ASS!"
+By now on TV, the crowd were roaring at full volume: **"Kick their ass! Kick**
+**their ass!"**
 
 ---
 
-Alpha broadcast: <Shock; dismay; terror; disbelief; shame>
+Alpha broadcast: *+<Shock; dismay; terror; disbelief; shame>+*
 
 Then one of the Prey hurtled towards it, at speeds that simply defied
 understanding.
 
-The last thing it ever broadcast was: <PAIN!>
+The last thing it ever broadcast was: *+<PAIN!>+*
 
 ---
 

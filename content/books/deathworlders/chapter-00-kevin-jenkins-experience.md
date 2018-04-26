@@ -49,7 +49,7 @@ predation and the hunt. Small, but powerful and dense-seeming. Despite its lack
 of height, it had strapped a pack to its torso that looked larger and heavier
 than I could have comfortably carried.
 
-"Abductee 907-42-96-53-3." It introduced itself. "Name---Kevin Jenkins."
+"Abductee 907-42-96-53-3," It introduced itself. "Name---Kevin Jenkins."
 Fortunately, the crude cybernetic seemed to be functioning perfectly, and I had
 no difficulty in understanding the thing's speech, or the subtle body language
 that spoke of a cocktail of bored resignation and weariness.
@@ -63,7 +63,7 @@ He picked up a second bag, and strolled---strolled! While carrying more than I
 suspected I could physically lift!---after me. Whatever this thing was, it was
 from a high-gravity planet.
 
-"I know the drill." He said. "Pretty sure I'll be leaving this station before
+"I know the drill," He said. "Pretty sure I'll be leaving this station before
 long, too."
 
 "Why would that be?" I asked politely as I ushered him into the private
@@ -77,7 +77,7 @@ colleagues in security prosecute me for vagrancy," he said.
 "Why would they do that?" I asked, to make conversation as I prepared the
 official forms.
 
-"Article 227, paragraph 16 of the Galactic Treaty of Laws." He said, stretching
+"Article 227, paragraph 16 of the Galactic Treaty of Laws," He said, stretching
 out and rolling its head. His endoskeleton issued a loud clicking sound and he
 issued a sigh that my implant interpreted as pleasure. He laughed, a sound that
 served the exact same purpose as it did in mine, though this one was tinged with
@@ -89,7 +89,7 @@ I indicated my understanding by nodding---another gesture our body language
 shared in common---and raising the fur at the nape of my neck. "The Corti
 abducted you, didn't they?"
 
-"My kind call them 'Greys'." he replied.
+"My kind call them 'Greys.'" he replied.
 
 I nodded. The Corti were small---even smaller than this being---grey-skinned but
 with large eyes and oversized brains as a result of a centuries-long eugenics
@@ -103,14 +103,14 @@ they were welcomed into the galactic fold. Unethical, but the species as a whole
 could not be prosecuted for the actions of a few and so the sale of the implants
 went ahead anyway. Kevin Jenkins had clearly been one of their victims.
 
-"Apt." I said. "Why not have the implant removed and return to your homeworld?"
+"Apt," I said. "Why not have the implant removed and return to your homeworld?"
 
 "Because I'd never be able to keep the secret, and so the Office for the
-Preservation of Indigenous Species won't let me." he said. "Can we please start
+Preservation of Indigenous Species won't let me," he said. "Can we please start
 with the official stuff? I haven't slept in two standard Diurnals."
 
-"I apologise" I said, chagrined at my own lack of professionalism. I activated
-the corral's recording function
+"I apologise," I said, chagrined at my own lack of professionalism. I activated
+the corral's recording function.
 
 "Interview begins, interstellar convenient standard date/time 1196-5-24.4.
 Civilian trade station 591 *'Outlook on Forever,'* Customs and Immigration
@@ -135,7 +135,7 @@ Experimentally I tried to enter this fact onto the paperwork, which of course
 threw up an error code.
 
 "It is considered impossible for sentient beings to evolve on category twelve
-planets," I said.  
+planets," I said.
 
 "As I explained off the record, according to Article 227 Paragraph 16 of the
 Galactic Treaty of Laws I am, legally, not a sentient being." it raised its
@@ -150,7 +150,7 @@ mine."
 
 I caught myself nodding my agreement and shut the gesture down. It would show up
 on the record and negatively impact my next performance evaluation. "I get the
-impression that station 442 is not the only place where you-"
+impression that station 442 is not the only place where you---"
 
 I was interrupted by an alarm. Three short howls of noise---the attack alarm.
 
@@ -201,7 +201,7 @@ three more behind it and I ducked into cover next to the human as their return
 fire threatened to overwhelm my defenses.
 
 "We're in trouble..." I whined. All around us, fleeing and panicking immigrants
-were being smashed to the ground by Hunter firepower.  Jenkins popped his head
+were being smashed to the ground by Hunter firepower. Jenkins popped his head
 above the countertop and ducked again as a volley of shots targeted him. "Six of
 them" he said. "Ugly motherfuckers."
 
@@ -216,7 +216,7 @@ harness---my own light security harness was no match. Our only hope was the
 magazine of nervejam grenades which, I realised with a falling sensation of
 failure, I had left in the locker.
 
-"The grenades...." I swore.  
+"The grenades..." I swore.
 
 "Only hope?" Jenkins asked. He was holding himself low and hunched, and I could
 see those dense high-gravity muscles tense and ready under his lightly-furred
@@ -339,16 +339,16 @@ species reclassified as sentient."
 
 "Purveyor Jenkins?" I asked.
 
-"Back on Earth I owned a recreational establishment." the human said, sipping
+"Back on Earth I owned a recreational establishment," the human said, sipping
 his glass of water. I had noticed already that his water intake was surprisingly
-high considering his size, and made a note to ask him about it.  
+high considering his size, and made a note to ask him about it.
 
-"I assumed you were military." I told him. He chuckled.  
+"I assumed you were military," I told him. He chuckled.
 
 "Nope."
 
 "But you were fearless when those Hunters were shooting you!" I exclaimed. He
-did that complicated joint-lift with his forelimbs again---a *'shrug.'*  
+did that complicated joint-lift with his forelimbs again---a *'shrug.'*
 
 "How's your arm?" he asked, changing the subject.
 
@@ -356,7 +356,7 @@ did that complicated joint-lift with his forelimbs again---a *'shrug.'*
 reclassified?"
 
 A wave of purple pigmentation rippled down Vedreg's flank---pessimism. "It would
-require an amendment to the Galactic Treaty of Laws" he said "Which the council
+require an amendment to the Galactic Treaty of Laws," he said "Which the council
 is historically stubborn to tamper with. Amending the Treaty tends to lose
 votes."
 
@@ -379,12 +379,12 @@ Muscles shifted under his thin brown skin as he tapped his digits on the
 tabletop in a simple one-two-three rhythm. In any other species the movement
 would have looked obscenely organic.
 
-"Fascinating biology." Vedred agreed with me, and I indicated embarrassment---
+"Fascinating biology," Vedred agreed with me, and I indicated embarrassment---
 clearly I had been displaying my fascination openly enough for my social implant
 to broadcast it. "How strong *are* you, Purveyor Jenkins?"
 
-Jenkins shrugged "Strong enough to rip the leg off a Hunter and beat another
-Hunter to death with it." he said. "I don't know how that translates."
+Jenkins shrugged. "Strong enough to rip the leg off a Hunter and beat another
+Hunter to death with it," he said. "I don't know how that translates."
 
 "I meant by the standards of your own species." Vedreg clarified.
 
@@ -392,9 +392,9 @@ Jenkins thought about it. "Uh...I don't know. I try to stay in shape, but
 between the low gravity and not getting enough food I've probably lost some
 muscle...about or slightly below average for a male of my size?" he suggested.
 
-Vedreg and I exchanged a glance that bypassed the social implants.  "There are
+Vedreg and I exchanged a glance that bypassed the social implants."There are
 going to be a lot of nervous species out there when your kind develop quantum
-communication" Vedreg opined.
+communication," Vedreg opined.
 
 "You have no idea." Jenkins muttered. The twin patches of fur above his eyes
 creased inwards and downwards---my translator informed me that this emotion had
@@ -404,13 +404,13 @@ no equivalent in my species.
 space, and you tell us you are neither a trained warrior nor a physically
 exceptional specimen of your kind. The security footage records you being shot
 seven times by heavy pulse gun fire and you have fully healed in less than
-three-times-eight diurnals." I said. "Many officers have suggested to me that
+three-times-eight diurnals," I said. "Many officers have suggested to me that
 you are a security threat, on the grounds that if you decided to go on a violent
 rampage, there would be little that could stop you."
 
 "You have those nervejam grenade things." he pointed out.
 
-"Those are lethal." I replied.
+"Those are lethal," I replied.
 
 "But they'd work. They gave me a splitting headache from across the room."
 
@@ -420,7 +420,7 @@ all. Heightened sensitivity? Then I realised I was treating this man who had
 saved my life as if he was a threat that I needed to figure out how to kill and
 suppressed a flash of shame.
 
-"I'm surprised, actually." Jenkins confessed.
+"I'm surprised, actually," Jenkins confessed.
 
 "What by?" Vedreg asked.
 
@@ -437,17 +437,17 @@ really a human, he was an alien who looked exactly like a human whose parents
 sent him to Earth because their own planet was about to be destroyed..." he
 paused. "Complicated."
 
-"Every species has fiction." I pointed out. "Your Superman sounds like
+"Every species has fiction," I pointed out. "Your Superman sounds like
 T'vnndrkktktk, who defended his tribe from a pack of predators for a year
 without sleeping."
 
 "Or Gudruvgnagnut, who grew so large that his tribe could shelter beneath him
-from the year-storm." said Vedreg. "Though I find it interesting that your
+from the year-storm," said Vedreg. "Though I find it interesting that your
 greatest hero was not even of your own species."
 
-"We've always thought of ourselves as weak." Jenkins said. I couldn't restrain
+"We've always thought of ourselves as weak," Jenkins said. I couldn't restrain
 my strangled bleat of disbelief. "Well, by the standards of a lot of species on
-Earth, we ARE weak. '*Horses*' can carry more, '*Dogs*' can bite harder and
+Earth, we *are* weak. *'Horses'* can carry more, *'Dogs'* can bite harder and
 scent better, most prey species worth hunting could crush an incautious hunter
 if they turned to fight, and any of the apex predators will happily eat human.
 Our closest evolutionary cousins are much stronger than us. We just happen to be
@@ -459,41 +459,43 @@ human's discomfort, or if he simply didn't care.
 
 "Something I've never seen since I first started wandering around all these
 stations" Jenkins said. "Tell me...did either of your species ever have
-something called "*Religion*"?"
+something called *'Religion?'"*
 
 We gave it a moment's thought. "My implant can't find an equivalent concept."
-Vedreg told him. I gestured that this was true for me also. "what is it?"
+Vedreg told him. I gestured that this was true for me also. "What is it?"
 
-"Our greatest weakness." Jenkins said. "And the reason you guys are going to
+"Our greatest weakness," Jenkins said. "And the reason you guys are going to
 shit yourselves when humans finally get off the ground"
 
 We listened, and I privately felt a sense of alarm mounting within me. The
-concept was very, VERY alien. Humans, it seemed, had for most of their sentient
-era preferred to invent explanations for the world around them rather than admit
-a lack of knowledge. They had invented a sentience that was capable of doing any
-logically consistent thing, capable of knowing anything. Rather than answer the
-mystery of where they had come from, they had historically preferred to tell
-stories and then convince themselves that the stories were true. If Jenkins was
-to be believed, then the line between fantasy and reality was, for many humans,
-invisible.
+concept was very, *very* alien. Humans, it seemed, had for most of their
+sentient era preferred to invent explanations for the world around them rather
+than admit a lack of knowledge. They had invented a sentience that was capable
+of doing any logically consistent thing, capable of knowing anything. Rather
+than answer the mystery of where they had come from, they had historically
+preferred to tell stories and then convince themselves that the stories were
+true. If Jenkins was to be believed, then the line between fantasy and reality
+was, for many humans, invisible.
 
 He told us of the myth he had grown up being told was real. How this great
-power--- "God"---had made the universe in a handful of diurnals, and crafted the
+power---"God"---had made the universe in a handful of diurnals, and crafted the
 first humans from the dirt of their homeworld. They had disobeyed him, and been
-punished. As had their descendants, and THEIR descendants, until apparently one
-tribe had tortured this being's physical avatar to death---he gestured to the
-tattoo at this point, explaining that it depicted a crucifix, the very
+punished. As had their descendants, and *their* descendants, until apparently
+one tribe had tortured this being's physical avatar to death---he gestured to
+the tattoo at this point, explaining that it depicted a crucifix, the very
 instrument of torture in question. This act somehow convinced this "God" thing
 to forgive them and be nice to humanity so long as they devoted considerable
 time and effort to telling it how great it was.
 
 Vedreg had turned a grim shade of worried dark green by the time Jenkins
-finished telling the story. "So...this "God" created humans, got angry at them,
+finished telling the story. "So...this 'God' created humans, got angry at them,
 condemned them to be tortured forever and ever after death, and then had itself
 sacrificed to itself to save mankind from the very torture it was inflicting
-upon them?" he asked. "
+upon them?" he asked.
 
-Yes" My social implant tentatively suggested that Jenkins' body language
+"Yes."
+
+My social implant tentatively suggested that Jenkins' body language
 communicated tired endurance.
 
 "And humans believe that this is the real way in which the history of your
@@ -502,14 +504,14 @@ species unfolded?"
 "About a third of us still do, yes."
 
 We were silent for some time. Vedreg slowly went bluer and bluer until suddenly
-he erupted. "WHY?!" he demanded.  
+he erupted. *"Why!?"* he demanded.
 
 "I don't know." Jenkins responded, calmly.
 
 "You *don't know?* You're wearing the symbol of this...this masochism on your
 arm and you *don't know* why your people believe it?"
 
-"I know why I believed it." Jenkins said. "I didn't know any better."
+"I know why I believed it," Jenkins said. "I didn't know any better."
 
 "But...!"
 
@@ -526,7 +528,7 @@ of my property was returned. I was actually driving back from talking with my
 lawyer about fighting for the right to have contact with my own offspring when I
 was abducted."
 
-He looked me in the eye. "You have to understand...I come from one of the MORE
+He looked me in the eye. "You have to understand...I come from one of the *more*
 civilized parts of my planet."
 
 Vedreg and I sat in silence for several minutes, absorbing this news. Jenkins,
@@ -534,11 +536,11 @@ if anything, seemed grateful for the silence. "That is...deeply troubling
 information, Purveyor Jenkins." Vedreg said, eventually. "It implies that your
 entire species is insane."
 
-"I don't disagree." Jenkins replied.  
+"I don't disagree," Jenkins replied.
 
-"And you're strong, fast, impervious to pulse fire---"  
+"And you're strong, fast, impervious to pulse fire---"
 
-"Not impervious, just highly resilient." I corrected. Vedreg ignored the
+"Not impervious, just highly resilient," I corrected. Vedreg ignored the
 correction and forged ahead.
 
 "Have a gland that generates combat drugs...."
@@ -553,7 +555,7 @@ willing to die in service to the principal *villain* of this story? I'm going to
 have a hard time convincing anybody that your people should be declared sentient
 so long as this state of affairs continues."
 
-"Let me tell you why you need to try." Jenkins said, quietly.
+"Let me tell you why you need to try," Jenkins said, quietly.
 
 "Why?"
 
@@ -626,7 +628,7 @@ part of the world that had apparently only just started when they were abducted.
 Jenkins later explained to me that Charlotte had praised what she saw as a war
 between her own religion against another, rival one.
 
-"It's crazy". He complained to me, in private. "They're both products of the
+"It's crazy!" He complained to me, in private. "They're both products of the
 same religious root anyway!"
 
 I began to suspect, however, that Jenkins had not been entirely fair about his
@@ -691,7 +693,7 @@ it.
 The "Demons"---a loan-word that had filled a conceptual gap we had never been
 aware of---that tormented humanity were what inspired it. Surrounded on all
 sides by an ecosystem saturated with toxic microfauna and parasitic
-nanoorganisms, by vicious predators, hardy prey and an explosively unstable
+nano-organisms, by vicious predators, hardy prey and an explosively unstable
 tectonic world, they sacrificed their own peace of mind on the altar of
 evolution.
 

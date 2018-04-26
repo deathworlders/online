@@ -27,7 +27,7 @@ deliberate or not---released his characteristic chuckle and then turned to the
 report, which was mercifully brief.
 
 "From what we were able to scrape off the ice in Vancouver after the hockey
-teams were done with them, they're...kind of unimpressive, actually." he opined.
+teams were done with them, they're...kind of unimpressive, actually," he opined.
 "The endoskeleton seems to be based around comparatively large crystals of
 silica, with not a trace of collagen in sight. Remarkably fragile. Musculature
 is...we think their muscles can pull, push and twist, where ours can only pull,
@@ -37,7 +37,7 @@ they were, had a tensile strength about that of smoked salmon. Even accounting
 for tissue damage, they're decidedly weaker than we are, and they couldn't
 possibly move as fast as we can. Just not enough force or leverage."
 
-"That explains why they broke so easily." Tremblay said.
+"That explains why they broke so easily," Tremblay said.
 
 Dr. Taylor nodded. "It's weird, it's like their whole physiology never evolved
 to deal with even a fraction of the daily challenges ours did. I mean, there's a
@@ -83,11 +83,11 @@ idiots who landed in Vancouver, then those weapons start to make sense." Dr.
 Cote told him.
 
 *"Merde."* Tremblay pinched the bridge of his nose. "I really don't want to go
-*to NATO and the Commonwealth with a report to the effect that these things pose
-*about as much threat as an angry twelve-year-old." he said.
+to NATO and the Commonwealth with a report to the effect that these things pose
+about as much threat as an angry twelve-year-old." he said.
 
 "Well, from what we've gathered so far, sir, that would be the truth." Taylor
-shrugged. "Don't tell me you'd prefer to give a report to the effect that we're
+shrugged, "Don't tell me you'd prefer to give a report to the effect that we're
 hopelessly outmatched and can kiss our collective *derrieres* goodbye?"
 
 "Well, no. It's just a bit...anticlimactic." Tremblay said.
@@ -227,11 +227,11 @@ stars-and-stripes hanging limp on a flagpole in the garden.
 heard of who seems to have a real handle on things now that the whole world's
 gone alien-crazy."
 
-"Yeah. And I don't like it." he said, unbuckling his seatbelt.
+"Yeah. And I don't like it," he said, unbuckling his seatbelt.
 
 She followed him out of the car. "What's not to like?" She asked. He shrugged.
 
-"Call me crazy, but it just don't seem right that anybody could "have a handle"
+"Call me crazy, but it just don't seem right that anybody could 'have a handle'
 on something this big, least of all a dumbass like me, you know?"
 
 She wanted to reassure him that he wasn't a 'dumbass.' It would have been
@@ -264,7 +264,7 @@ slack-jawed for a second, and then seemed to wake up a bit. Her parental fatigue
 practically evaporated off her face even as Terri watched, and she stood up a
 little straighter.
 
-"You'd better come in." she said. "And you can call me Hazel."
+"You'd better come in," she said. "And you can call me Hazel."
 
 ---
 
@@ -273,7 +273,7 @@ His partner Stefan just slept through them nowadays, not even rolling over or
 reacting to the phone in any way. Phone calls for Martin were just part of the
 bedroom nighttime noise.
 
-"Tremblay." He answered, digging rheum out of the corners of his eyes so that he
+"Tremblay," He answered, digging rheum out of the corners of his eyes so that he
 could focus on the alarm clock and then rubbing his stubble. 05:23. At least
 he'd got six hours.
 
@@ -281,12 +281,12 @@ he'd got six hours.
 
 "Something?"
 
-*"Apparently NASA was fed an anonymous tip a couple of days back. Seems there's
+*"Apparently NASA was fed an anonymous tip a couple of days back. Seems there's*
 *some kind of an...object orbiting Saturn that shouldn't be there, sir."*
 
 "Two days ago? What kind of an object?"
 
-*They had Cassini take a look at it, and apparently that takes a while, sir. As
+*They had Cassini take a look at it, and apparently that takes a while, sir. As*
 *for what it is...best guess is that it might be a space station of some kind."*
 
 "...I'll come right in."
@@ -323,21 +323,21 @@ decidedly artificial.
 "It's been out there that long and never spotted this thing?" Asked one of the
 other officers, Colonel Williams.
 
-"It's a big sky, sir." Bartlett told him. "And no offense to the NASA guys, but
+"It's a big sky, sir," Bartlett told him. "And no offense to the NASA guys, but
 it's an old camera, too. They had to point right at these coordinates to see
 it."
 
-"Besides." Tremblay added "We don't know how long that thing's been there. For
+"Besides," Tremblay added, "We don't know how long that thing's been there. For
 all we know, it was only built last week."
 
 "Fair enough." Williams conceded. "But what are we going to do about about it?"
 
-"What CAN we do?" Tremlay countered. "It took seven years for Cassini to get out
-there. We send a mission, they aren't coming home until their babies are going
-through puberty. We send a missile, even if we had a missile that can get out
-there, they'll see it coming years in advance. We've already got a robot probe
-out there but it belongs to somebody else." he shrugged. "We're being watched.
-And I'll be honest, that fact doesn't bother me too much."
+"What *can* we do?" Tremlay countered. "It took seven years for Cassini to get
+out there. We send a mission, they aren't coming home until their babies are
+going through puberty. We send a missile, even if we had a missile that can get
+out there, they'll see it coming years in advance. We've already got a robot
+probe out there but it belongs to somebody else," he shrugged. "We're being
+watched. And I'll be honest, that fact doesn't bother me too much."
 
 "Why not?"
 
