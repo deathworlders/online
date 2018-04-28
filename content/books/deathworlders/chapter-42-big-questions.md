@@ -99,7 +99,7 @@ Clearly her translator was broken. Slomn had checked but the cheapest translator
 
 Fortunately, some gestures were easy to decipher. The human raised a hand to her mouth and mimed tipping a container full of liquid. Slomn fetched her a jug full of water and continued to watch fascinated as it was drunk. Even the human’s *throat* was muscular, and it undulated powerfully as she drained the jug—enough water to see Slomn through the whole week!—in a long series of gulps.
 
-The jug was returned with a single terse syllable—*“Thanx”*—and silence fell again. Slomn decided that was probably for the best on the grounds that she had no idea what kind of conversation she could begin having with this mysterious deathworld visitor who’d come stumbling out of the grasslands hours ago, even if they *could* communicate.
+The jug was returned with a single terse syllable— *“Thanx”* —and silence fell again. Slomn decided that was probably for the best on the grounds that she had no idea what kind of conversation she could begin having with this mysterious deathworld visitor who’d come stumbling out of the grasslands hours ago, even if they *could* communicate.
 
 She’d called the security forces, and been dismissed as a hoax until she aimed a camera at the human, who’d spoken urgently to it for a couple of minutes before Slomn was ordered to keep her visitor comfortable and wait for assistance.
 
@@ -2538,7 +2538,7 @@ Rooney’s was fun, like always. Loud, friendly, raucous and full of energy. Moh
 
 Well, it was Friday… And he hadn’t *really* ever gone out before…
 
-And beer was *delicious*…
+And beer was *delicious…*
 
 And, hell, shots were fun too…
 
