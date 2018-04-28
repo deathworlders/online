@@ -1875,7 +1875,7 @@ They had the suit off in minutes and Moho stumped off to lurk near the heater wh
 
 “...*’Breaking-in?’* Really?”
 
-“Yeah-huh. I once rocked a boy’s world so good he called me *‘daddy.’*” Miller’s grin should have been an arrestable offence.
+“Yeah-huh. I once rocked a boy’s world so good he called me *‘daddy.’”* Miller’s grin should have been an arrestable offence.
 
 “Uh… look, I, uh…” Jack began. She shut him up with a hand on his shoulder.
 
