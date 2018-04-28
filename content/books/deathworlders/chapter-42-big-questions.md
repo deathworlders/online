@@ -388,7 +388,7 @@ Holly cast a tearful look around “...But… Ray, you’re talking about killin
 
 “...I know.”
 
-“They’re *not*—” Cook began.
+“They’re *not---”* Cook began.
 
 “They are, Cook,” Spears told him. “Or they could be. Should be. Holly’s right, we shouldn’t forget that…” he gave Holly a small smile that was barely more than a spasm at the corners of his mouth “...but God forgive me I’m willing to do it.”
 
@@ -955,7 +955,7 @@ Allison’s voice. *“Daniel! Daniel! Up! Now!”*
 
 *“Raid. Get to the ship.”*
 
-There wasn’t time to dawdle. The footage was a sickening blur of half-seen shapes as Daniel scrambled out of his tent and toward the ship. Walsh and Hoeff were present but their faces were blurred out to preserve their anonymity and they paused with Allison at the bottom of *Misfit*’s ladder, aiming their rifles off into the dark as hoots and war cries echoed out of the woods.
+There wasn’t time to dawdle. The footage was a sickening blur of half-seen shapes as Daniel scrambled out of his tent and toward the ship. Walsh and Hoeff were present but their faces were blurred out to preserve their anonymity and they paused with Allison at the bottom of *Misfit’s* ladder, aiming their rifles off into the dark as hoots and war cries echoed out of the woods.
 
 Hoeff’s distorted voice. *“Where in the +IMPRESSIVELY LONG BLEEP+ is Etsicitty?”*
 
@@ -1131,7 +1131,7 @@ The last of the unfortunate ETs finally and mercifully expired. Once upon a time
 
 “How d’you figure that?”
 
-“All them bones in the mouth going *crrrunch*…” Cook actually *lavished* the word, the sick bastard.
+“All them bones in the mouth going *crrrunch…”* Cook actually *lavished* the word, the sick bastard.
 
 Ray repeated her urgent instructions to her belly that it was to sit down, shut up and think about something else, and gulped back on her disgust. “Fuck sake, Cook…”
 
@@ -1646,7 +1646,7 @@ Julian frowned. “...Ríos? And Coombes? He’s like twice her age!”
 
 “Pretty sure I didn’t say they were bonin’,” Hoeff drawled as he accepted a glass of juice from Xiù. “If *that* rumour got started he’d have to explain himself to the whole unit pretty damn quick.”
 
-He drained the glass like it was a beer and he was about to start a night of *hard* drinking, and set it down with a refreshed gasp. “Anyway. Between her an’ *Sharman*’s press corps, and the quick interviews we already did today, it’s all under control. Also, *Yan.”*
+He drained the glass like it was a beer and he was about to start a night of *hard* drinking, and set it down with a refreshed gasp. “Anyway. Between her an’ *Sharman’s* press corps, and the quick interviews we already did today, it’s all under control. Also, *Yan.”*
 
 Yan turned slightly at the waist from the mention of his name. He was doing nothing more than sitting in the middle of the floor and looking around at things, but all by itself that little twist exaggerated the heroic shapes of his body and lent him a presence commanding enough to give anyone unfamiliar with him pause. Add in a head-to-tail blood red mohawk…
 
@@ -1873,9 +1873,9 @@ They had the suit off in minutes and Moho stumped off to lurk near the heater wh
 
 “Mhmm. Too bad. I think he needs a good breaking-in.”
 
-“...*’Breaking-in?’* Really?”
+*“...‘Breaking-in?’* Really?”
 
-“Yeah-huh. I once rocked a boy’s world so good he called me *‘daddy.’”* Miller’s grin should have been an arrestable offence.
+“Yeah-huh. I once rocked a boy’s world so good he called me *‘daddy.’”* Miller’s grin should have been a felony.
 
 “Uh… look, I, uh…” Jack began. She shut him up with a hand on his shoulder.
 
@@ -1890,7 +1890,6 @@ She smirked. “Let me know when you come to your senses.”
 “It’s the accent. And your abs. And you’re good with your hands...”
 
 “Ha!” Moho wandered back over having warmed himself sufficiently. “She knows what she wants! Which is why we’re taking you out tonight. We’re gonna find some cute airhead bimbo and she’s gonna suck you—”
-
 
 “Moho!” Deacon hollered from across the workshop. “Massage!”
 
@@ -2318,7 +2317,7 @@ Implants were at the heart of *everything.* They were the flagship product for d
 
 But that was just the planetary crust of the problem, so to speak. There were grumbling tectonic layers beneath which made merely scrapping the economy’s most prolific and profitable exports seem like an utterly trivial undertaking. Implants were instrumental in global, regional and civic administration. They underpinned the stock market, enabled *all* aspects of Corti heavy industries and manufacturing through drone interfacing, and were almost literally written into the DNA of the medical sector… which included the reproduction labs.
 
-Corti civilization was almost—not completely, but *almost*—dependent on neural cybernetics in order to *breed.*
+Corti civilization was almost—not completely, but *almost* —dependent on neural cybernetics in order to *breed.*
 
 If Lor had been emotionally capable of sweating with dread, he would have. How close *were* they to the event horizon? Had they already fallen past it without noticing?
 
