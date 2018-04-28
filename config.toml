@@ -17,6 +17,7 @@ googleAnalytics = "" #Google Analytics ID
     facebook = "HamboneHFY"   #Facebook username
     twitter = ""    #Twitter username
     instagram = "HamboneHFY"  #Instagram username
+    patreon = "HamboneHFY"
 
 [params]
     tagline = ""
