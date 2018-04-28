@@ -7,13 +7,13 @@ aliases:
 
 **One year and seven months after the Vancouver Attack**
 
-One broadcast: +<*awe; respect; statement*> The Alpha-of-Alphas is here.+
+One broadcast: *+<awe; respect; statement>+* "The Alpha-of-Alphas is here."
 
-Another broadcast: +<*anticipation; glee; eagerness*> The first human meat to
-the Alpha-of-Alpha's maw!+
+Another broadcast: *+<anticipation; glee; eagerness>+* "The first human meat to
+the Alpha-of-Alpha's maw!""
 
-The Alpha-of-Alphas broadcast: +<*rebuke*> The quarry is dangerous. Remain
-focused.+
+The Alpha-of-Alphas broadcast: *+<rebuke>+* "The quarry is dangerous. Remain
+focused."
 
 Chastened, the Brood-Guard fell into line respectfully around and behind the
 Alpha-of-Alphas as it emerged from its vessel. It stood nearly a head taller
@@ -42,10 +42,10 @@ suicidal bid to protect the station for as long as possible.
 The part inside found their quarry when a Brood-lesser tumbled into the corridor
 before them, crushed and broken, dead before it had stopped sliding.
 
-The Alpha-of-Alphas broadcast: +<*command*> Release the drones.+
+The Alpha-of-Alphas broadcast: *+<command>+* "Release the drones."
 
 They did so, a swarm of insect-sized devices that would record what happened
-next and inject the footage directly onto the prey's data networks. *This*, they
+next and inject the footage directly onto the prey's data networks. *This,* they
 knew, would prove to the prey beyond any doubt whom they should most be fearing.
 
 The microdrones zipped up and out, retreating to the corners and ceiling of the
@@ -75,7 +75,7 @@ difference.
 
 *"Yesth. Ti-ime to die. M-eat to the m-aw."* it said.
 
-"Fuck you." Caleb told it.
+"Fuck you," Caleb told it.
 
 He charged.
 
@@ -85,8 +85,8 @@ He died.
 
 ---
 
-The Alpha-of-Alphas broadcast: +<*Satisfaction*> The builders are to be
-commended. These nervejam grenade launchers work exactly as anticipated.+
+The Alpha-of-Alphas broadcast: *+<Satisfaction>+* "The builders are to be
+commended. These nervejam grenade launchers work exactly as anticipated."
 
 The servos of its powered exoskeleton whined as it picked up the dead human by
 the back of his neck. The quarry seemed even heavier in death---the
@@ -105,7 +105,7 @@ the strength it could muster, and---with some effort---ripped free a mouthful.
 The meat was indescribable. Dense, lean, rich, full of that indefinable spark of
 sentience. It exceeded even the Alpha-of-Alpha's most extravagant fantasies.
 
-+<*ecstasy*> MEAT TO THE MAW!!!+
+*+<ecstasy>+* "MEAT TO THE MAW!!!"
 
 the cry was taken up among the brood, it spread to the swarm, and from there to
 the Swarm-of-Swarms and through them, every Hunter in the Galaxy.
@@ -162,7 +162,7 @@ relativistic time dilation and without ripping apart the sun in the process.
 
 General Tremblay smiled indulgently as the crowd of ecstatic scientists formed a
 circle with their arms around each other's shoulders and launched into a
-drunken, cacophonous rendition of "We Are the Champions".
+drunken, cacophonous rendition of "We Are the Champions."
 
 "Heck of a day."
 
@@ -173,35 +173,35 @@ caffeine, filling food and televised sports matches. Probably two-thirds of the
 major breakthroughs at the base had taken place over coffee and bacon
 cheeseburgers at the bar's increasingly-scuffed wooden tables.
 
-"Heck of a day." Tremblay agreed, trying to make it sound like his heart was in
+"Heck of a day," Tremblay agreed, trying to make it sound like his heart was in
 it. Jenkins just handed him another coffee---black, two sugars---with an
 expression that said he could see straight through the general's attempt at
 positivity. He was as bad as Dr. Sung sometimes.
 
-"Shitty time for a divorce, general." Jenkins said.
+"Shitty time for a divorce, general," Jenkins said.
 
 Check that. Jenkins could be far, far worse than the doctor sometimes. He didn't
 have a professional code of conduct stopping him from being blunt.
 
 "How...how did you guess?"
 
-"Doesn't take a rocket surgeon." Jenkins told him. "You've been sitting there
+"Doesn't take a rocket surgeon," Jenkins told him. "You've been sitting there
 staring at your wedding band looking like you took a dump and found a kidney in
 the bowl."
 
 "Is there such a thing as a *good* time for a divorce?" Tremblay asked.
 
 Jenkins thought about it. "When you wake up the morning after a night out on
-Vegas and there's a shaved orang-utan in your bed?"
+Vegas and there's a shaved orangutan in your bed?"
 
-Tremblay couldn't resist it: he laughed. Jenkins gave a satisfied nod. "how long
+Tremblay couldn't resist it: he laughed. Jenkins gave a satisfied nod. "How long
 were you married?" he asked.
 
 "Ten years. Stefan's a great guy and I love him so much it hurts, but...y'know,
 he wanted me to retire and adopt a couple of kids with him. But then Rogers
 Arena, this base..." Tremblay sipped his coffee as he trailed off.
 
-"Life happens, man." Jenkins told him. "At least it's not boring. Be a whole lot
+"Life happens, man," Jenkins told him. "At least it's not boring. Be a whole lot
 worse for you if you were moping around at home lovesick and not knowing what to
 do with yourself."
 
@@ -210,7 +210,7 @@ genuine smile of the day, as he looked at the big-screen on the wall, where
 mission control at Houston was just starting to settle down from its jubilation
 and get back to work. "And we did good today, didn't we?"
 
-"You did damn good, man." Jenkins said. "Sure, that kid Jackson's the name
+"You did damn good, man," Jenkins said. "Sure, that kid Jackson's the name
 everyone will remember, but she'd never have got up there without you. Hell, it
 was you persuaded the treaty members to unify their space programs. I guarantee
 that *Pandora* would never have been funded without that."
@@ -221,8 +221,8 @@ Tremblay nodded, and put his drink down. "Thanks, Kevin. I needed that."
 
 ---
 
-"She has been in there for <*two months*> now. We think she managed to tap into
-a water pipe and from the smell she maybe even set up a Dizi Rat farm in there.
+"She has been in there for [two months] now. We think she managed to tap into a
+water pipe and from the smell she maybe even set up a Dizi Rat farm in there.
 And she refuses to come out."
 
 "Would you, when the galactic news is full of members of your species being
@@ -242,7 +242,7 @@ took her. She used to sit in an office with a headset on talking to people over
 audio-comms. On her days off, she used to fashion garments out of spun animal
 hair, and went swimming in a heated, disinfected pool. She may be native of a
 Class Twelve but frankly I think she might have starved to death on a Class
-Six." he said. A thought struck him and he chuckled. "They abducted her on the
+Six," he said. A thought struck him and he chuckled. "They abducted her on the
 way home from that pool, actually. Think she knows where her towel is?"
 
 "Her...Towel? Uh...I don't...nobody ever..."
@@ -251,7 +251,7 @@ way home from that pool, actually. Think she knows where her towel is?"
 
 "...Okay? Well. I don't know how you're going to get her out of there, nobody
 can fit in there except maybe for a Gaoian or Corti, and even if they could,
-she's *human*. She broke a security officer's leg *accidentally*!"
+she's *human.* She broke a security officer's leg *accidentally!"*
 
 "Oh, it's okay. I think she just needs to see a friendly face."
 
@@ -266,7 +266,7 @@ in every detail.
 
 "You brought *more?!"*
 
-"Several." Kirk said, secretly enjoying himself. "Don't worry, they've all got
+"Several," Kirk said, secretly enjoying himself. "Don't worry, they've all got
 disease suppression implants."
 
 "But.. don't you know how *dangerous...?"*
@@ -282,7 +282,7 @@ enough."
 "Sanctuary. You're...keeping them safe?"
 
 Kirk nodded. "Somebody has to take care of the poor little monsters when the
-galaxy's losing its mind." he said.
+galaxy's losing its mind," he said.
 
 There was a scuffle from the vents, announcing Allison and Maria's return.
 Behind them was Abigail, the woman they had come to rescue. She dropped lightly
@@ -446,7 +446,7 @@ edging around the knot of three humans to get past him.
 
 ---
 
-"Meeting is called to order in the chair and so on let's get on with this. HOW
+"Meeting is called to order in the chair and so on let's get on with this. *How*
 did they get FTL so quickly?"
 
 The scribe scrambled to finish the block of formalities that were the usual
@@ -479,13 +479,13 @@ technology ahead of schedule anyway, gentlebeings, but when coupled with access
 to a working jump beacon..."
 
 The Rauwryhr delegate interrupted him at that. "Jump beacons are useless by
-themselves." she pointed out.
+themselves," she pointed out.
 
 "For travel, maybe. For the purposes of learning the fundamentals of spatial
-distortion science, you could not ask for a better specimen technology." Vedreg
+distortion science, you could not ask for a better specimen technology," Vedreg
 explained calmly.
 
-The Gaioan delegate---a venerable male with long streaks of white around his
+The Gaoian delegate---a venerable male with long streaks of white around his
 eyes and muzzle---spoke up. "Need I remind the council that while the reforms to
 Dominion law concerning the status of intelligent non-FTL capable species is
 still being negotiated, the law has always been clear that once a planetary
@@ -500,14 +500,14 @@ There was the general equivalent of nodding and "hear, hear."
 Vedreg's flanks flushed a complicated medley of reds and purples. "In a purely
 personal capacity, Father Vyan, I agree, and I would like it on record that I
 voted against the proposal when it was first tabled in the Confederate
-Assembly." he said. "I was outvoted, and it remains beyond my power to
+Assembly," he said. "I was outvoted, and it remains beyond my power to
 countermand that decision."
 
 Kirk's replacement as the representative for the Vz'ktk Domain spoke up. "But it
-is not beyond your species' power to ignore the Founding Charter." she retorted.
+is not beyond your species' power to ignore the Founding Charter," she retorted.
 "The Confederacy is constitutionally obligated to remove that quarantine field."
 
-Vedreg clamped down on emotional luminscence, allowing only a forthright grey
+Vedreg clamped down on emotional luminescence, allowing only a forthright grey
 shaded with firm dark orange to show. "You are correct, of course. However..."
 He trailed off, searching for the correct way to phrase his next explanation.
 
@@ -515,9 +515,9 @@ The Corti representative finally chimed in, deploying a careful "...however?"
 into the conversation at the precise moment it would do the most harm to his
 confidence.
 
-"However the barrier cannot be removed." Vedreg explained.
+"However the barrier cannot be removed," Vedreg explained.
 
-"It must be." asserted the Corti representative, calmly.
+"It must be," asserted the Corti representative, calmly.
 
 "I do not mean that my government is officially unwilling to remove it---though
 that is in fact the case---but that we do not in fact have the ability to do
@@ -527,7 +527,7 @@ This was met with an incredulous silence that he rushed to fill.
 
 "Humanity have attracted the ire of the Hunters. FTL-capable sentients though
 they may now be, they lack the orbital defensive infrastructure to protect
-themselves from the "Swarm of Swarms" should it descend upon an unprotected
+themselves from the 'Swarm of Swarms' should it descend upon an unprotected
 Earth. The best guess of our own Xenopsychologists is that the Hunters are not
 *afraid* of humanity, but are instead jealous of them. The humans have, after
 all, attracted considerable attention and fear in recent cycles, and the best
@@ -540,9 +540,9 @@ would result in the almost inevitable genocide of a species that, for all their
 physical and mental tenacity, could not hope to survive a sustained orbital
 barrage."
 
-Again, the Corti spoke up. "A morally sound reason" he said, making the words
+Again, the Corti spoke up. "A morally sound reason," he said, making the words
 "morally sound" carry the same weight of emotional opinion as he might have said
-*'financially questionable.'* "So let us hear about your inability to remove the
+*"financially questionable."* "So let us hear about your inability to remove the
 barrier. Your own experts designed it, did they not?"
 
 "Indeed...to defend our own systems from external military threats. Converting
@@ -557,33 +557,33 @@ would have been a military liability. The device does not communicate with other
 systems via anything other than a physical connection."
 
 The Corti nodded understanding. "Which is now impossible to establish thanks to
-the way it is contained within its own field." He sniffed his disdain. "Rather
+the way it is contained within its own field," He sniffed his disdain. "Rather
 an unfortunate oversight by your engineers."
 
 This sentiment was echoed around the table.
 
 "The Confederacy will make all appropriate reparations to the human race of
-course." Vedreg said, hurriedly.
+course," Vedreg said, hurriedly.
 
-"A safe assertion, considering that they appear to be indefinitely contained."
-the Gaoian said. "The Mother-Supreme of our clan of females will be notified of
+"A safe assertion, considering that they appear to be indefinitely contained,"
+the Gaoian said. "The Mother-Supreme of our Clan of Females will be notified of
 this, however. If you cannot make appropriate reparations to the human race, you
 can at least offer all necessary steps to compensate those humans who were
-stolen-" here, the furred councillor shot a glare at the Corti representative,
-which the latter being totally failed to acknowledge "-from their homeworld and
-have taken up residence in the galaxy at large, and to those species and
+stolen---" here, the furred councillor shot a glare at the Corti representative,
+which the latter being totally failed to acknowledge "---from their homeworld
+and have taken up residence in the galaxy at large, and to those species and
 organisations that have taken it upon themselves to provide them with sanctuary
 and a place to live."
 
-"Meaning Gao, I assume." the Domain's representative noted, with all of a
+"Meaning Gao, I assume," the Domain's representative noted, with all of a
 Rrrrtktktkp'ch's dry wit.
 
-"Among others." the councillor agreed, defiantly. She was about to offer a sharp
+"Among others," the councillor agreed, defiantly. She was about to offer a sharp
 retort when Vedreg held up one enormous hand, flanks shaded to indicate
 resignation.
 
 "The Gaoian representative speaks the truth, the Confederacy is thus obligated
-to compensate them." He agreed, having spent several boring days reviewing the
+to compensate them," He agreed, having spent several boring days reviewing the
 law and precedents that applied in this scenario, none of which had contained
 any help for the Confederacy. "What are the terms requested by the Clans of
 Gao?" he asked.
@@ -591,7 +591,7 @@ Gao?" he asked.
 "Food supplies, nutritional supplements and medical supplies necessary to
 support all humans who choose to accept sanctuary on our homeworld, plus
 appropriate military hardware and assistance to defend our planet from Hunter
-retaliation." the councillor replied, having clearly memorised the terms in
+retaliation," the councillor replied, having clearly memorised the terms in
 advance. "An immediate cessation of the information blackout surrounding Earth
 and the establishment of diplomatic channels so that all stranded humans may
 directly contact their loved ones. Remunerative compensation to our people
@@ -607,13 +607,13 @@ appeal the first, second and third terms, my people have the right to negotiate
 over the penultimate term, and that last one is a matter for the security
 council."
 
-The chairman spoke. "then it is the ruling of this council that the
+The chairman spoke. "Then it is the ruling of this council that the
 Guvnuragnaguvendrugun Confederacy is to pay to the Clans of Gao and to any other
 people or organisation who harbour human refugees the following: food,
 nutritional supplements and medical supplies to provide for that human's needs,
 military assistance and/or hardware sufficient to realistically defend them from
 Hunter attacks. Furthermore, the Guvnuragnaguvendrugun Confederacy is required
-to permit ships to approach the Sol blockade and communicate with Earth." It
+to permit ships to approach the Sol blockade and communicate with Earth," it
 said.
 
 "The motions have also been tabled first that the Confederacy is to pay ten
@@ -623,7 +623,7 @@ negotiation of that amount. As many of each opinion vote now."
 
 There were a few busy moments while each representative made their decision.
 
-"The second motion is that the Gaioan Clans should be granted a five-cycle
+"The second motion is that the Gaoian Clans should be granted a five-cycle
 waiver on military involvement in the Celzi conflict, with the opposition
 denying that motion outright. As many of each opinion vote now.
 
@@ -632,7 +632,7 @@ Again, they voted.
 "As to the first motion, being the four thousand three hundred and third vote of
 this council, There were two votes in favour, eight votes against, and three
 abstentions. The opposition has it, and the requested sum of credits will be
-renegotiated." the chairman sounded the little chime that ceremonially marked
+renegotiated." The chairman sounded the little chime that ceremonially marked
 that a decision was complete. "As to the second motion, being the four thousand
 three hundred and fourth vote of this council, there was one vote in favour,
 twelve votes against, no abstentions. The opposition have it and the motion is
@@ -640,14 +640,14 @@ defeated."
 
 The second chime was the signal for council scribes, aides and messenger drones
 to zip about the place in a frenzy of activity. The chairman raised its
-ceremonial rod and spoke slightly louder about the noise. "this council session
+ceremonial rod and spoke slightly louder about the noise. "This council session
 will now recess until the next standard diurnal period."
 
 ---
 
 **Two years and seven months after the Vancouver attack**
 
-"Civilian vessel, this is Confederacy destroyer *Vugarunguvrunek*. Identify
+"Civilian vessel, this is Confederacy destroyer *Vugarunguvrunek.* Identify
 yourself and state your intentions."
 
 "*Vugarunguvrunek,* this is yacht *Sanctuary* requesting permission to approach
@@ -666,17 +666,17 @@ finally took the chance to relieve their loved ones' fears.
 
 The twenty-fifth was from Kirk.
 
-*"Kevin. I hope this finds you still alive and complaining: I know for a fact
-that you're well wrapped-up in whatever's going on down there. You see, I knew
-about the jump beacon.*
+*"Kevin. I hope this finds you still alive and complaining: I know for a fact*
+*that you're well wrapped-up in whatever's going on down there. You see, I knew*
+*about the jump beacon.*
 
-*The one you stole was trash, by the way: so I snuck a working replacement into
-your bag. Glad to see it worked as planned. Tell whoever you gave it to that if
-they tune it with the algorithm that's on screen right now, we can start
-sending some of these people home.*
+*The one you stole was trash, by the way: so I snuck a working replacement into*
+*your bag. Glad to see it worked as planned. Tell whoever you gave it to that if*
+*they tune it with the algorithm that's on screen right now, we can start*
+*sending some of these people home.*
 
-*Now, on to the really important stuff. If I know humans, you're probably
-already well on your way to dropping this barrier somehow, but take it from
-your old friend: for the time being, that would be a very, very bad idea.*
+*Now, on to the really important stuff. If I know humans, you're probably*
+*already well on your way to dropping this barrier somehow, but take it from*
+*your old friend: for the time being, that would be a very, very bad idea.*
 
 *You see, a lot has happened up here since Vancouver..."*
