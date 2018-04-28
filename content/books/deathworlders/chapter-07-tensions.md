@@ -8,130 +8,144 @@ aliases:
 **Three years after the Vancouver Attack**    
 **I-5, Northbound. Everett, Washington**
 
-*thup,thup...thup, thup...thup, thup...*
+> thup, thup...thup, thup...thup, thup...
 
 "Urgh..."
 
-*click*
+*[click]*
 
-*""♪might as well face it...might as well face it you're addicted to
+> ♪ might as well face it...might as well face it you're addicted to
 lo-ove...might as well face it...might as well face it...might as well face
-it...♫"*
+it...♫
 
-"*The five o' clock freeride, classic rock, 92.9...* **KISM**""
+> The five o' clock freeride, classic rock, 92.9... **KISM**
 
-"*♫See me ride out of the sunset, on your color TV screen. Out for all that I
-can get, If you know what I mean...♪♫*"
+> ♫ See me ride out of the sunset, on your color TV screen. Out for all that I
+can get, If you know what I mean...♪♫
 
-*click*
+*[click]*
 
-*100% chance of rain, but we got a great match-up tonight, Washington taking on
-*the Dallas Cowboys...*"
+> 100% chance of rain, but we got a great match-up tonight, Washington taking on
+the Dallas Cowboys...
 
-*click*
+*[click]*
 
-"*...results are in from across the globe as China announced their
+> ...results are in from across the globe as China announced their
 representative for the first meeting of the Global Representative Assembly, and
 not a moment too soon with the Assembly's first meeting taking place next week
 in Cape Town, South Africa to appoint the world's ambassador in space. CRAZY,
 right? And just think, this time three years ago we thought the alien abduction
-people were all wack-jobs....*"
+people were all wack-jobs...
 
 "Most were."
 
-"*...and then good old NASA, and---forgive me folks, but I still think of it as
+> ...and then good old NASA, and---forgive me folks, but I still think of it as
 the AMERICAN National Aeronoautics and Space Administration. They may have kept
 the acronym, but don't try and sell me this bull about how it's the NATO
 Aeronautics and Space Agency nowadays, NASA landed men on the moon back in '69
 and I don't care if it was a Canadian scientists who invented the warp drive or
-whatever they're calling it, but it was an AMERICAN who flew* Pandora, *am I
-right?*"
+whatever they're calling it, but it was an *American* who flew Pandora, *am I
+right?*
 
 "Asshole."
 
-"*So* Pandora *flies to, I dunno, Mercury and back...*"
+> So *Pandora* flies to, I dunno, Mercury and back...
 
 "Jupiter, dickwad."
 
-"*...nd all of a sudden it's like "hello humanity, welcome to the stars, join us
-all in sunshine and hugs and yeah we're really sorry about LOCKING YOU UP,
-please do us the honor of sending forth what you hoo-mens call an "am bass a
-door" that we might blah blah." Why are we even bothering? you know what those
-alien douchenozzles deserve? Two fingers, one on each hand! Tell 'em to come
-back once they've found Jesus!*"
+> ...And all of a sudden it's like "hello humanity, welcome to the stars, join
+us all in sunshine and hugs and yeah we're really sorry about **LOCKING YOU
+UP,** please do us the honor of sending forth what you hoo-mens call an
+'am-bass-a-door' that we might blah blah." Why are we even bothering? you know
+what those alien douchenozzles deserve? Two fingers, one on each hand! Tell 'em
+to come back once they've found Jesus!
 
-"Oh for-" *click* "-fuck's sake"
+"Oh for---" *[click]* "---fuck's sake!"
 
-*thup,thup...thup, thup...thup, thup...*
+> thup, thup...thup, thup...thup, thup...
 
-"...fuck it."
+"...Fuck it."
 
-*click*
+*[click]*
 
-"*...And we put a* **DEMOCRAT** *in our seat on this Assembly? I thought we were
-supposed to be appointing somebody to represent AMERICA's interests, am I
-right?*"
+> ...And we put a **DEMOCRAT** in our seat on this Assembly? I thought we were
+supposed to be appointing somebody to represent *America's* interests, am I
+right?
 
 "Ugh."
 
-*click*
+*[click]*
 
-"*♫♪...in New England town, feel the heat comin' down. I've got to keep on
+> ♫♪ ...in New England town, feel the heat comin' down. I've got to keep on
 keepin' on, you know the big wheel keeps on spinnin' around and I'm goin' with
 some hesitation. You know that I can surely see, that I don't want to get caught
-up in any of that...♪♫*"
+up in any of that...♪♫
 
-"*sigh*"
+*"Sigh."*
 
-*thup,thup...thup, thup...thup, thup...*
+> thup, thup...thup, thup...thup, thup...
 
 ---
 
 **1,500 Km above the Arabian Peninsula**
 
-"*Ping NEO-tracking.*"    
-"...Green."     
-"*Test EACS.*"     
+*"Ping NEO-tracking."*
+
+"...Green."
+
+*"Test EACS."*
+
 "Check."
-"*SUBLIME power to idle.*"     
-"...Check."     
-"*Power to ISDE.*"     
+
+*"SUBLIME power to idle."*
+
+"...Check."
+
+*"Power to ISDE."*
+
 "Check."
-"*Test ERB-2.*"     
-"...Check."     
-"*Test ESFALS.*"     
-"...Check."     
-"*Test
-ESHOD.*"     
-"Check."     
-"Pandora, *Mission Control. Checklist complete.*"
+
+*"Test ERB-2."*
+
+"...Check."
+
+*"Test ESFALS."*
+
+"...Check."
+
+*"Test ESHOD."*
+
+"Check."
+
+"Pandora, *Mission Control. Checklist complete."*
+
 "Mission Control, *Pandora*. Checklist complete."
 
-"*Copy that, Rylee. Scotch Creek reports the package is ready. In your own
-time.*"
+*"Copy that, Rylee. Scotch Creek reports the package is ready. In your own*
+*time."*
 
 "Hey, what is this, Houston? My fifth?"
 
-"*Fifth, yes.*"
+*"Fifth, yes."*
 
 She laughed. "And nobody else has even done this once, yet."
 
-"*Elitist. Just try not to slam into the moon at seven kilolights, we've only
-got one.*"
+*"Elitist. Just try not to slam into the moon at seven kilolights, we've only*
+*got one."*
 
 She decided that she liked her new controller. He wasn't afraid to drop the
 professional bullshit and send a joke up the line to comfort her nerves.
 
-"I'll try, Mission Control. *Pandora*, going FTL."
+"I'll try, Mission Control. *Pandora,* going FTL."
 
 On her own insistence, the silly big red button had been replaced with a thrust
-lever. It just felt more *right*, more Star Wars. Granted it only output a
+lever. It just felt more *right,* more Star Wars. Granted it only output a
 binary "go" command to the navigation computer rather than providing analogue
 control over the engine power, but it still just felt right to reach forward,
 grip a solid chunk of plastic and metal, and push it firmly forward as far as it
 would go.
 
-She patted an exposed patch of *Pandora*'s hull fondly. "Let's ride, baby."
+She patted an exposed patch of *Pandora's* hull fondly. "Let's ride, baby."
 
 This was by far the shortest hop they had yet done, she didn't even have time to
 see anything happen: the moon just became bigger. In less time than an eyeblink,
@@ -141,22 +155,22 @@ closest person to Luna since 1972, although still deceptively far away at some
 sixty-four thousand kilometers, close to but not directly on top of the
 earth-moon L1 point.
 
-"Mission Control, *Pandora*, checkpoint reached."
+"Mission Control, *Pandora,* checkpoint reached."
 
 "Nicely done. ESDAR has you on target to a...0.3% deviation."    
 
 "My compliments to navigation!" She could already hear the applause in the
 background.   
 
-"*Yeah, they're pretty happy. ERB-2 is still reading green, I have go code from
-the package.*"
+*"Yeah, they're pretty happy. ERB-2 is still reading green, I have go code from*
+*the package."*
 
 "Copy, Control. Opening the door."
 
 *This* piece of equipment was mission-specific, and although *Pandora* had been
-*designed with future-proofing in mind, she *hadn't* been designed to interface
-*with alien technology, which was why the mission package was activated via a
-*smartphone that had been duct-taped to the flight console.
+designed with future-proofing in mind, she *hadn't* been designed to interface
+with alien technology, which was why the mission package was activated via a
+smartphone that had been duct-taped to the flight console.
 
 She reached out and tapped the app icon with the stylus that had been secured to
 the back of her flight glove with the most useful substance in space, some more
@@ -183,7 +197,7 @@ The voice that spoke did so in curiously accentless English. "Embassy Station
 
 "Welcome to Sol, 172."
 
-"It is a pleasure to be here, *Pandora*. Will you be docking?"    
+"It is a pleasure to be here, *Pandora.* Will you be docking?"    
 
 "Not in my mission profile, 172, I'm sorry. I'd love to come aboard."   
 
@@ -205,13 +219,13 @@ promised.
 Jenkins turned at a familiar voice speaking his name, and laughed aloud when he
 saw who it was.
 
-"Jesus *shit*. Terri Boone? When the hell was the last time I saw you?"
+"Jesus *shit.* Terri Boone? When the hell was the last time I saw you?"
 
 She'd lost weight and muscle tone, her hair had gone from a shoulder-length bob
 to halfway down her back, and she looked like death warmed up, but she still
 treated him to a smile.
 
-"About two and a half years ago." She sat down. "Nice bar you've got here. You
+"About two and a half years ago," She sat down. "Nice bar you've got here. You
 can sell booze on a military base?"
 
 "Why not? They aren't on duty all the time, and they've got families. Good
@@ -238,10 +252,10 @@ her. "On me." he said. She picked it up like it was made with water from the
 Fountain of Youth and sipped it. "Okay, that's damn good coffee." she allowed,
 sagging as it chased the tension of a long journey out of her.    
 
-"Told you." he said, pressing down on the panini grill. "Now, not that I'm not
+"Told you," he said, pressing down on the panini grill. "Now, not that I'm not
 glad to see you again, but this ain't a social call, am I right?"    
 
-"It's business." she acknowledged. "I'm...kind of betraying my employer's
+"It's business," she acknowledged. "I'm...kind of betraying my employer's
 trust."
 
 "Your mysterious employer?" Jenkins asked. he plated the panini and set it down,
@@ -250,9 +264,9 @@ took a huge bite. "Finally exceeded your professional ethic, huh?"
 
 "Mmf...o'm'g'd what'ff in thifth?"
 
-"Bacon, brie and cranberry." Jenkins told her.
+"Bacon, brie and cranberry," Jenkins told her.
 
-"Mm...I'll never say a bad word about the French ever again." Terri promised.
+"Mm...I'll never say a bad word about the French ever again," Terri promised.
 
 "So, what're you breaking trust over?"    
 
@@ -274,7 +288,7 @@ finds out about this."
 
 "No, but I play poker with somebody who does."
 
-She inhaled the rest of her panini. "*God*, I needed that."  
+She inhaled the rest of her panini. "*God,* I needed that."  
 
 "Where the fuck did you drive from, Mexico?"    
 
@@ -298,7 +312,7 @@ She sighed happily. "Oh yeah. You know what a weary traveller needs."
 She scooted out from under *Pandora*'s port wing where she and a flight
 technician had been fine-tuning the ESFALS array.
 
-"Doctor Anees Hussein, I presume." she said, rising from her trolley to extend a
+"Doctor Anees Hussein, I presume," she said, rising from her trolley to extend a
 hand to Earth's selected ambassador. He cut a strange figure, a small, bald,
 bearded Iraqi man in a nice suit, leaning slightly on a beautiful polished
 wooden walking stick while around him men and women in jumpsuits bustled back
@@ -307,13 +321,13 @@ though the latter apparently required practically no maintenance. The fourth had
 been shipped north to Scotch Creek, to be enthusiastically devoured by the
 reverse-engineering teams.
 
-"For my sins." he agreed, shaking her hand and smiling warmly. Rylee returned
+"For my sins," he agreed, shaking her hand and smiling warmly. Rylee returned
 the smile genuinely---she had always had a soft spot for charming old men with a
 twinkle in their eye, and for all that he was twice her age, Doctor Hussein had
 that kind of charisma by the tonne. "She's beautiful." he added, looking towards
 *Pandora* and instantly winning Rylee's good graces.
 
-"She is." she sighed, looking fondly at her sled. "Less so when she's grounded
+"She is," she sighed, looking fondly at her sled. "Less so when she's grounded
 though. She's born to fly." "I look forward to seeing that. I understand you'll
 be flying her up alongside our shuttle."
 
@@ -339,7 +353,7 @@ matter-of-factly.
 
 "Leaving so soon?"
 
-Terri sighed. "you woke up." she accused.
+Terri sighed. "you woke up," she accused.
 
 "Hey, you're the one sneaking away without saying goodbye. It's not even light
 out yet."
@@ -347,7 +361,7 @@ out yet."
 "I've been here ten days, Kevin." she said. She stooped and collected a
 discarded bra, and shrugged into it, trying not to let the way his dark eyes
 roamed all over her, getting a good last look, effect her. Those ten days had
-been...*enthusiastic*. Both of them had made up for a couple of long, dry years.
+been...*enthusiastic.* Both of them had made up for a couple of long, dry years.
 "I need to get back."
 
 "I know." He said, and stood up. She took her own opportunity to get a good look
@@ -363,30 +377,38 @@ well start the trip with a full stomach and a proper farewell."
 
 ---
 
-"...*Test ESFALS.*"     "...Check..."     "*Test ESHOD.*"     "Aaand...Check!"
-"Pandora, *mission control. Checklist complete.*"     "*Mission Control,
-*Pandora*. Checklist complete."
+*"...Test ESFALS."*
+
+"...Check..."
+
+*"Test ESHOD."*
+
+"Aaand...Check!"
+
+"Pandora, *mission control. Checklist complete.""*
+
+"Mission Control, *Pandora.* Checklist complete."
 
 Every time, *Pandora* performed just a little better. Or maybe it was just that
 Rylee herself was becoming more in tune with her sled's foibles, but she could
 swear that the disconcerting wobble that had defined their previous ESFALS
 vertical take-offs was gone now.
 
-"You alright over there, *Limo*?" she asked of the pilot of the diplomatic
+"You alright over there, *Limo?"* she asked of the pilot of the diplomatic
 shuttle, on her wing, as both craft extended their flight surface fields and
 coasted higher and higher on only a gentle thrust.
 
-"*Jealous of you. This thing handles like my sister's car.*"    
+*"Jealous of you. This thing handles like my sister's car."*
 
 "That bad?"    
 
-"*The controls are idiot-proof.*"    
+*"The controls are idiot-proof."*    
 
 Rylee made an "aaaah" noise of understanding. "Idiot-proof" meant one thing to
 an experienced pilot: that you couldn't do half of the things you would like to
 have available as options.
 
-"Hey, at least you can scratch your nose." She said, leaning forward to brush
+"Hey, at least you can scratch your nose," She said, leaning forward to brush
 that offending organ against the patch of velcro that had been glued to the
 inside of her helmet.
 
@@ -401,14 +423,14 @@ experienced nothing worse than the desperate need for a bath.
 She noticed with amusement that she had forgotten to remove the smartphone
 stylus from her glove. Oh well, it would probably prove useful anyway.
 
-"*And you can thumb yours at us. This things gets three kilos, tops.*"
+*"And you can thumb yours at us. This things gets three kilos, tops."*
 
 "You're kidding?"    
 
-"*Nope. I'm flying the next best thing to a moped...comfy in here though. No
-expense spared in upholstering the ambassadorial transport.*"
+*"Nope. I'm flying the next best thing to a moped...comfy in here though. No*
+*expense spared in upholstering the ambassadorial transport."*
 
-She chuckled. Next to *Pandora*'s sleek-yet-functional lines that showed off her
+She chuckled. Next to *Pandora's* sleek-yet-functional lines that showed off her
 Lockheed heritage, the shuttle was an uninspiring box that relied entirely on
 its fields for aerodynamic profile. A team of designers had done their best,
 stripping off the original beige paint and polishing the metal to a mirror
@@ -419,8 +441,8 @@ disgusted by the idea of sitting on a once-living thing's skin, or even a
 facsimile of it.
 
 *Pandora* alerted her to something with a pleasant beep. "Coming up on
-*Delta-point 1." she said. It was deceptive how quickly space could sneak up on
-*them when the ride was so gentle.
+Delta-point 1," she said. It was deceptive how quickly space could sneak up on
+them when the ride was so gentle.
 
 "*I see it. Slaving FTL to you.... *Mission Control,* Limo. *Escort has the
 button.*"

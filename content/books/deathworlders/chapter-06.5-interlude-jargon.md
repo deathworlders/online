@@ -84,11 +84,11 @@ minus ten S."
 "Think there is one?"
 
 "Not enough to bet time on the IBM on it. It's busy enough with the ESF
-equations for your "put the energy companies out of business" idea."
+equations for your 'put the energy companies out of business' idea."
 
 "Which is why you're running a fancy new screensaver---"
 
-*"-simulation-"*
+*"---simulation---"*
 
 "---on your personal laptop rather than wasting base resources. Right."
 
