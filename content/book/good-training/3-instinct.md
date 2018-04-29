@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Instinct"
 draft: true
-weight: 1
+weight: 3
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
