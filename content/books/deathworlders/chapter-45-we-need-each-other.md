@@ -1386,7 +1386,7 @@ They had always been the most… *lively* of the Entity’s assimilated data. So
 
 Maybe she had just been an unusually lively person.
 
-It seemed like a lively conversation, at least. The Entity experienced more like a listener in an adjacent room, hearing muffled discussion through the door in a language it didn’t understand. Every so often, a note summarizing the conversation to date would slide under the door, and it would reply with a not conveying the thrust of what it wanted its advocate to say next.
+It seemed like a lively conversation, at least. The Entity experienced more like a listener in an adjacent room, hearing muffled discussion through the door in a language it didn’t understand. Every so often, a note summarizing the conversation to date would slide under the door, and it would reply with a note conveying the thrust of what it wanted its advocate to say next.
 
 All it could do was trust that the advocate was faithfully communicating its wishes, and accurately reporting what had been said. It didn’t really *understand,* but the conversation was definitely emotional.
 
