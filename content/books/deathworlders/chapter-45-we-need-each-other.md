@@ -168,7 +168,7 @@ ___
 
 ***Lowest Omega that was formerly Alpha of the Brood-That-Builds***
 
-The Builder had been blinded and stripped. Is augmentations, its limbs, its tools were all gone—Its left arm ended in a unoccupied universal cybernetic socket just above the elbow, its right bore only the bare few tools it absolutely needed to do its job, and—the final, ultimate humiliation to any Hunter—its teeth had been pulled and the roots and its tongue scoured with peroxide. It would never taste flesh again.
+The Builder had been blinded and stripped. Its augmentations, its limbs, its tools were all gone—Its left arm ended in a unoccupied universal cybernetic socket just above the elbow, its right bore only the bare few tools it absolutely needed to do its job, and—the final, ultimate humiliation to any Hunter—its teeth had been pulled and the roots and its tongue scoured with peroxide. It would never taste flesh again.
 
 Deep in the Hive’s bowels, it maintained the sewage systems and lived on slave-food, the tasteless, textureless little balls that were little more than a day’s carbohydrates, fat and protein in one utterly unappetizing meal.
 
@@ -2086,11 +2086,11 @@ They fell silent again and waited as the bay processed three more ships before f
 
 He scrambled back down the stairs and they followed him. He was fast on four-paws, fast enough that Ray had a hard time keeping up, but the hard pace he set turned out to be necessary. It was deceptively far to the open section of bay at the front, and the ship was drifting through the air retention field as they got in place. Going at a more comfortable pace would have wasted precious seconds.
 
-“Remember, engineering is in the belly of this thing, just behind the cargo hold,” Garaaf reminded them. “Conley, you and I are retrieving the tech. The rest of you keep watch from the top of the rank so the drones don’t spot you. I’ll call if we need an extra pair of hands: that’s you, Cook. Then Ray, then Spears. If I call for help, you get in there *immediately.* We don’t have the luxury of time so you do what I say the instant I say it and we’ll argue about whether it was the best approach later. Is everyone clear?”
+“Remember, engineering is in the belly of this thing, just behind the cargo hold,” Garaaf reminded them. “Conley, you and I are retrieving the tech. The rest of you keep watch from the top of the ramp so the drones don’t spot you. I’ll call if we need an extra pair of hands: that’s you, Cook. Then Ray, then Spears. If I call for help, you get in there *immediately.* We don’t have the luxury of time so you do what I say the instant I say it and we’ll argue about whether it was the best approach later. Is everyone clear?”
 
 Ray nodded. “Got it.”
 
-Conley and spears nodded solemnly. Cook grinned.
+Conley and Spears nodded solemnly. Cook grinned.
 
 “Gotcha,” he said.
 
