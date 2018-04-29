@@ -1,11 +1,10 @@
 ---
 title: "Chapter 45: We Need Each Other"
 date: 2018-04-29T16:17:39+01:00
-draft: true
 author: "Philip R. Johnson (Hambone)"
 ---
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Dataspace adjacent to Mrwrki Station, Erebor System, Deep Space**
 
 ***Entity***
@@ -71,7 +70,7 @@ Darcy nodded. Her face looked like it wanted to settle into an expression and sh
 The Entity stepped back, and let its memories tell a story.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Stolen Hunter Ship, Hell system, Hunter Space**
 
 ***Rachel “Ray” Wheeler***
@@ -164,7 +163,7 @@ The Hunters had built a ring around Hell.
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Sewage Processing, The Builder Hive, Hell system, Hunter Space**
 
 ***Lowest Omega that was formerly Alpha of the Brood-That-Builds***
@@ -209,7 +208,7 @@ Unheard by any of its brethren, it broadcast to itself in the dark.
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Stolen Hunter swarmship, Hell system, Hunter space**
 
 ***Rachel “Ray” Wheeler***
@@ -280,7 +279,7 @@ The Hunters fired again.
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Dataspace adjacent to Mrwrki Station, Erebor System, Deep Space**
 
 ***Entity***
@@ -327,7 +326,7 @@ The Entity checked its fragment again, and the Ava-memories sagged.
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Stolen Hunter swarmship, Hell system, Hunter space**
 
 ***Rachel “Ray” Wheeler***
@@ -421,7 +420,7 @@ Spears’ face tightened in a grim, mirthless smile. He turned, swiped his hands
 “The Ring,” he said. “We could land on the Ring.”
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Control Center, The Builder Hive, Hell system, Hunter Space**
 
 ***The Alpha-of-Alphas***
@@ -466,7 +465,7 @@ And their deaths wouldn’t have left behind a sense of nagging worry...
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Stolen Hunter swarmship, Hell system, Hunter space**
 
 ***Rachel “Ray” Wheeler***
@@ -528,7 +527,7 @@ Nobody replied. The only sound in their stolen ship’s control room for a few s
 “...Let’s do this,” he said.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada, Earth**
 
 ***General Gregory Kolbeinn***
@@ -597,7 +596,7 @@ There, he felt, had gone a missed opportunity.
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Stolen Hunter swarmship, Hell system, Hunter Space**
 
 ***Rachel “Ray” Wheeler***
@@ -737,7 +736,7 @@ None of them cared.
 They turned, and, silent except for the thundering roar in their ears, they moved forward.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Moses Byron Group headquarters, Omaha, Nebraska, USA, Earth**
 
 ***Kevin Jenkins***
@@ -795,7 +794,7 @@ They drank their coffees in silent reflection, until Moses finally placed his em
 Business returned to something resembling normal.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **The Ring, Hell System, Hunter Space**
 
 ***Rachel “Ray” Wheeler***
@@ -1081,7 +1080,7 @@ Garaaf led the way, and they followed.
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Alien Quarter, Folctha, Cimbrean, The Far Reaches**
 
 ***Nofl***
@@ -1149,7 +1148,7 @@ He sipped his coffee before returning to work and shut his eyes in delight at th
 It was perfect.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **The Ring, Hell System, Hunter space**
 
 ***Rachel “Ray” Wheeler***
@@ -1364,7 +1363,7 @@ They picked up their gear and moved on.
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **Dataspace adjacent to Mrwrki Station**
 
 ***The Entity***
@@ -1414,7 +1413,7 @@ An opportunity had presented itself, and the Entity was not about to let it slip
 It would attend to this *personally.*
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m AV**    
 **The Ring, Hell System, Hunter Space**
 
 ***Rachel “Ray” Wheeler***
@@ -1567,7 +1566,7 @@ She was so exhausted that, mercifully, she didn’t dream.
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **High Mountain Fortress, Planet Gao**
 
 ***Champion Fiin of Stoneback***
@@ -1740,7 +1739,7 @@ Loomi sighed. “Cousin,” he said, “against the Hunters? I’ll call it a go
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **Datapace adjacent to The Ring**
 
 ***The Entity***
@@ -1762,7 +1761,7 @@ And once inside…
 It searched.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
 
 ***Rachel “Ray” Wheeler***
@@ -1894,7 +1893,7 @@ The seven of them looked around at each other, then back at the makeshift monito
 *+First, you’re going to need the following items…+*
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **Demeter Way, Folctha, Cimbrean, The Far Reaches**
 
 ***Technical Sergeant Adam (Warhorse) Arés***
@@ -1944,7 +1943,7 @@ They made eye contact. Their mutual hustle turned into a run, then a full-on spr
 Then again, she probably knew.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
 
 ***Rachel “Ray” Wheeler***
@@ -2178,7 +2177,7 @@ Garaaf didn’t let them down. They were back at the hatch into the Warren befor
 It was a long time before she remembered how to think again.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
 
 ***The Alpha-of-Alphas***
@@ -2202,7 +2201,7 @@ It was going to *enjoy* this hunt.
 *<Delight; Triumph; Joy>* **+Meat to the Maw!+**
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches.**
 
 ***Captain Anthony Costello***
@@ -2296,7 +2295,7 @@ He surveyed the room with a level gaze for a few seconds, and then nodded slowly
 “...Are there any more questions?” he asked.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **The Builder Hive, Hell system, Hunter Space**
 
 ***Lowest Omega that was formerly Alpha of the Brood-That-Builds***
@@ -2323,7 +2322,7 @@ The Builders had been ready to take over for a long, long time.
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **Warrens, The Ring, Hell system, Hunter Space**
 
 ***Rachel “Ray” Wheeler***
@@ -2418,7 +2417,7 @@ Garaaf duck-nodded, then turned and led them back out into the Warren. Ray and S
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **High Mountain Fortress, Northern Plains, Gao**
 
 ***Regaari***
@@ -2607,7 +2606,7 @@ He resolved to enjoy the simplicity while it lasted, and went to get dressed.
 
 It was time to be ruthless.
 ___
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
 
 ***Rachel “Ray” Wheeler***
@@ -2741,7 +2740,7 @@ He pulled the communicator from his pocket and clawed at a button on it. *“Los
 They were so close.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Air Engineering Technician Jack “Two-Seventy” Tisdale***
@@ -2833,7 +2832,7 @@ Daar grumbled to himself for a second, then opened his mouth to reply… but nev
 The bell rang. It was go time.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
 
 ***Rachel “Ray” Wheeler***
@@ -2898,9 +2897,122 @@ Jamie, Spears, Garaaf and Holly were gone. They’d jumped out safely. In their 
 
 It wasn’t fair.
 
-___
-___
+---
+---
 
 **++End Chapter 45++**
-___
-___
+
+---
+---
+
+If you have enjoyed the story so far and want to support the author, you can do so by:
+
+* Becoming a patron at patreon.com/HamboneHFY
+
+* Dropping a one-off payment in the tip jar at paypal.me/HamboneHFY
+
+* Following me and sharing my posts on facebook.com/HamboneHFY/
+
+* Voting for *The Deathworlders* at topwebfiction.com
+
+This chapter was brought to you with the help of:
+
+---
+
+***The SOR***
+
+*Those special individuals whose contributions to this story go above and beyond mere money*
+
+Ctwelve,
+
+BitterBusiness,
+
+Sally and Stephen Johnson
+
+Ellen Houston
+
+---
+
+**Thirty-four** ***Humans***
+
+TTTA
+
+SirNeonPancake
+
+Aaron Mescher
+
+Adam Duncan
+
+Andrew Huang
+
+Anthony Landry
+
+Anthony Youhas
+
+Arsene
+
+Brandon
+
+Capitalskr
+
+Chris Dye
+
+Daniel Morris
+
+Daniel Shiderly
+
+ELLIOTT S RIDDLE
+
+Greg Tebbutt
+
+His Dread Monarch
+
+HungryWerewolf
+
+JLB58
+
+John Eisenberg
+
+Joseph Szuma
+
+Joshua Scott
+
+Karthik Mohanarangan
+
+Katja
+
+mudkip201
+
+Nathaniel Phillips
+
+Nicolas Gruenbeck
+
+Rob Rollins
+
+Rodolfo Hernandez
+
+Savvz
+
+Shane Wegner
+
+Theningaraf
+
+tsanth
+
+Volka Creed
+
+Zachary Galicki
+
+---
+
+**Fifty-five** ***Deathworlders:***
+
+galrock0 Austin Deschner Brian Berland Aaron Hescox Adam Beeman Adam Roundfield Adam Shields Andrew Ford Aryeh Winter atp Bartosz Borkowski Ben Moskovitz Ben Thrussell Buck Caldwell C'tri Goudie Cadwah Chris Bausch Chris Candreva Coret Trobane damnusername Daniel R. Dar Darryl Knight David Jamison Devin Rousso Doules1071HFY Eric Johansson Gygax Fan Ignate Flare Jim Hamrick Jon Kristoffer Skarra Krit Barb Laga Mahesa lovot Matt Demm Matthew Cook Mel B. Mikee Elliott Myke Harryson Nicholas Enyeart NightKhaos Oliver Mernagh Parker Brown Patrick Huizinga Peter Bellaby Peter Poole Richard A Anstett Ryan Cadiz Saph Sintanan Stephane Girardin Sun Rendered theWorst Woodsie13
+
+As well as **Sixty-Five** ***Friendly ETs,*** **43** ***Squishy Xenos*** and **256** ***Dizi Rats*** who are trying their best.
+
+---
+
+Thank you for reading!
+
+*The Deathworlders* will continue in Chapter 46: "Hellfall"
