@@ -601,7 +601,7 @@ ___
 
 ***Rachel “Ray” Wheeler***
 
-“Christ. It’s like very time I think I figured out how big it is, it just gets bigger again…”
+“Christ. It’s like every time I think I figured out how big it is, it just gets bigger again…”
 
 Ray jumped. Spears’ comment was the first any of them had spoken in a few minutes, and a cathedral hush had fallen over the whole flight deck as they drew closer and closer to the ring. Its sudden interruption was jarring.
 
