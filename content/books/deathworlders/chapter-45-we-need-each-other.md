@@ -91,7 +91,7 @@ None of them knew the first thing about what any of the runes, glyphs and dense 
 
 He was learning as he went. Either they were going to suddenly explode, or… well. At least if they exploded they’d never feel it.
 
-Chase was...staying out of the way. She’d slumped down in a corner next to her cargo of ammo crates and was staring at nothing. Berry was pacing, having been rendered mute by his emotions, and Conley was trying to make sense of the sensor system. He kept fretting that maybe Hunters, with all their cybernetics, got more out of information out of the systems than was merely visible on the consoles and displays.
+Chase was...staying out of the way. She’d slumped down in a corner next to her cargo of ammo crates and was staring at nothing. Berry was pacing, having been rendered mute by his emotions, and Conley was trying to make sense of the sensor system. He kept fretting that maybe Hunters, with all their cybernetics, got more information out of the systems than was merely visible on the consoles and displays.
 
 At least there was *something.* In the days before their opportunity finally came to emancipate themselves, he’d been fretting non-stop that maybe there wouldn’t be displays of any kind and they’d wind up flying blind without instruments, navigation, sensors or *anything.*
 
