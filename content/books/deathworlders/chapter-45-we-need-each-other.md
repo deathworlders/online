@@ -1121,7 +1121,7 @@ Trafn gave him a look of exceptionally faint irritation. “You… have been amo
 
 “If it interferes with our continuation as a species, yes.”
 
-Nofl ambled over to his coffee pot and checked the brew. Caffeine levels were far, far below the toxic dose for Corti anatomy---as far as Human biochemistry was concerned, it was entirely decaffeinated. He set it to pour him a Ristretto and turned back to business.
+Nofl ambled over to his coffee pot and checked the brew. Caffeine levels were far, far below the toxic dose for Corti physiology---as far as Human biochemistry was concerned, it was entirely decaffeinated. He set it to pour him a Ristretto and turned back to business.
 
 “What exactly does the Directorate need these genes for?”
 
