@@ -1,5 +1,5 @@
 baseURL = "http://deathworlders.com/"
-languageCode = "en-gb"
+languageCode = "en-GB"
 title = "The Deathworlders"
 
 theme = "kiera"
@@ -10,7 +10,7 @@ disqusShortname = "" #Disqus shortname
 googleAnalytics = "" #Google Analytics ID
 
 [author]
-    name = "Philip R. Johnson"       #Author name
+    name = "Philip R. Johnson (Hambone)"       #Author name
     github = "HamboneHFY"     #Github username
     gitlab = ""     #Gitlab username
     linkedin = ""   #LinkedIn username
@@ -21,3 +21,4 @@ googleAnalytics = "" #Google Analytics ID
 
 [params]
     tagline = ""
+    description = "HFY Stories in the JVerse"

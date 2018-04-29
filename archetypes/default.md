@@ -2,6 +2,5 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-aliases:
-  - /book/
+author: "Philip R. Johnson (Hambone)"
 ---
