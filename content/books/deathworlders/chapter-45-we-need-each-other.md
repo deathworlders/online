@@ -204,7 +204,7 @@ It listened to the ecstatic chattering that filled the Hunter network as its for
 
 Unheard by any of its brethren, it broadcast to itself in the dark.
 
-*< Resolve >* **+Meat to the Maw.+**
+    *< Resolve >* **+Meat to the Maw.+**
 
 ___
 
@@ -425,31 +425,31 @@ ___
 
 ***The Alpha-of-Alphas***
 
-*< Icy calm; Reprimand >* +My instructions were very clear. Humans are to be *caught,* not destroyed.+
+    *< Icy calm; Reprimand >* +My instructions were very clear. Humans are to be *caught,* not destroyed.+
 
 The Alpha in charge of the brood that had first opened fire on the fleeing Humans and their stolen Swarmship transmitted a grovelling apology.
 
-*< Abject terror >* +The Venom-Bile Brood is eager to the Hunt, Alpha-of-Alphas! When the bloodthirst takes us—+
+    *< Abject terror >* +The Venom-Bile Brood is eager to the Hunt, Alpha-of-Alphas! When the bloodthirst takes us—+
 
 Bored of such a pathetic excuse, the Alpha-of-Alphas casually ordered every other ship in the Swarm to tear the Venom-Bile broodship apart. It vanished in a hail of firepower so intense that the Alpha’s last instant of panic was silenced before it could properly be said to have begun.
 
 With its irritation partly sated, the Alpha-of-Alphas turned to the older and more seasoned Alpha of the Reaping-Brood, whose ship had wounded another broodship during the pursuit.
 
-*< Demand >* +And how shall I answer your mis-step?+
+     *< Demand >* +And how shall I answer your mis-step?+
 
 Both the Reaping-Brood and their accidental victims the Gnawing-Brood were large, powerful and wily. Wily enough to have stayed away from the slaughter that had ensued when many of the other Alphas had tried to depose the Alpha-of-Alphas. Both were keys to power, and the Alpha-of-Alphas knew it: it would not be sensible to disgruntle either one.
 
 Fortunately, the Reaping-Brood Alpha knew when to kowtow.
 
-*< Careful; Deferential >* +The Reaping-Brood forfeits all Hunting and breeding rights until the Alpha-of-Alphas deigns to permit us otherwise. We make reparations to the Gnawing-Brood, a thousand slaves.+
+    *< Careful; Deferential >* +The Reaping-Brood forfeits all Hunting and breeding rights until the Alpha-of-Alphas deigns to permit us otherwise. We make reparations to the Gnawing-Brood, a thousand slaves.+
 
 That was proportionate and sensible—it would mollify the Gnawing-Brood, and the Alpha-of-Alphas could lift the restrictions after only a modest wait.
 
-*< Imperious condescension; decree >* +The Reaping-Brood’s restitution is... acceptable.+
+    *< Imperious condescension; decree >* +The Reaping-Brood’s restitution is... acceptable.+
 
 The mood among the remaining—carefully and modestly expressed—was satisfaction and agreement.
 
-*< Displeasure; Command >* +Meat has slipped from the maw. This is unacceptable. Learn, adapt, and ensure that it never happens again. End session.+
+    *< Displeasure; Command >* +Meat has slipped from the maw. This is unacceptable. Learn, adapt, and ensure that it never happens again. End session.+
 
 The virtual forum of Alphas shut down, leaving the Alpha-of-Alphas to consider the situation in peace.
 
@@ -1750,7 +1750,7 @@ Infiltrating such an edifice was dangerous, not that the Entity was any stranger
 
 The experience was… strangely healing. It was plunging into dangerous territory again. There was no time or room for doubt, or factional squabbles within its own psyche. There was only danger, and the challenge of surviving that danger.
 
-To be sure, staying safe and cautious upheld its core directive to *< survive >* above all other concerns… but what *was* survival? What did it even mean unless the possibility of failure was present alongside it?
+To be sure, staying safe and cautious upheld its core directive to *survive* above all other concerns… but what *was* survival? What did it even mean unless the possibility of failure was present alongside it?
 
 The moment it had put itself back in harm’s way, the Entity had come to a revelation: that life requires death in order to **be** life.
 
@@ -1876,9 +1876,9 @@ She shut her up by taking her hand. “Holly. It’s okay. You’re not selfish 
 
 “...I think…” Garaaf said carefully, “that we can maybe eat our cake and still have it, actually…”
 
-They all turned to look at him. He stepped aside and indicated his communicator. It was hooked up to a tablet he’d managed to keep, scrounge or steal from somewhere, and it flashed three of the most incongruous characters that Ray had never expected to see here at them.
+They all turned to look at him. He stepped aside and indicated his communicator. It was hooked up to a tablet he’d managed to keep, scrounge or steal from somewhere, and it flashed three of the most incongruous characters at them that Ray had never expected to see here.
 
-*< :-) >*
+    *< :-) >*
 
 “...What th’—?”
 
@@ -2198,7 +2198,7 @@ And there were more still to take. Cunning prey, *dangerous* prey, and frustrati
 
 It was going to *enjoy* this hunt.
 
-*< Delight; Triumph; Joy >* **+Meat to the Maw!+**
+    *< Delight; Triumph; Joy >* **+Meat to the Maw!+**
 ___
 
 **Date Point: 15y6m1d AV**    
