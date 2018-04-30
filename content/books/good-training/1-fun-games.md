@@ -1,7 +1,7 @@
 ---
 title: "Chapter 1: Fun and Games"
 draft: true
-weight: 1
+weight: 13
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
@@ -135,7 +135,7 @@ All present recognized this as some truly cruel Motivation. The women knew exact
 
 Adam and John couldn’t restrain their smiles. Neither could Firth.
 
-----
+---
 
 “Lads, was it really necessary to go so hard?”
 

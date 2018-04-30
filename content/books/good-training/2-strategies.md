@@ -1,7 +1,7 @@
 ---
 title: "Chapter 2: Strategies"
 draft: true
-weight: 2
+weight: 12
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
@@ -43,7 +43,7 @@ Adam, for his part, blushed deep red—impressive, given his nut-brown skin—bu
 
 “You may as well get going on your first assignment, then. You and Burgess will need to study Gaoian physiology and biomechanics and see what we need to do to adapt our training. We need those lads strong as reasonable if they’re to keep up. Vandenberg, I leave the remaining assignments to you. Remain here, you and I must discuss that. Everyone else? Dismissed.”
 
-----
+---
 
 **10y, 11m AV**  
 Chapterhouse of Clan Whitecrest, City of Wi Kao, Planet Gao

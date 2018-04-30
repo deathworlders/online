@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: Crawl"
 draft: true
-weight: 4
+weight: 10
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
@@ -81,7 +81,7 @@ Warhorse muttered back in his deep voice, “Wasn’t planning on it, sir.”
 
 And he didn’t.
 
-----
+---
 
 **Immediately Thereafter**
 
@@ -133,7 +133,7 @@ A round of agreement followed.
 
 “Good. Now, who’s hungry? I’ve been studying Gaoian nutrition and cooking…”
 
-----
+---
 
 And so the first several weeks of the “crawl” phase progressed. Every day, they would wake up before sunrise, eat, exercise to within an inch of their lives, then eat and rest and study. Then exercise and eat. Then rest and study. And eat. The pattern would repeat until almost sundown, then they would retire to the barracks, too exhausted to do anything. And eat again.
 

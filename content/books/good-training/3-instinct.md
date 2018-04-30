@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Instinct"
 draft: true
-weight: 3
+weight: 11
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
@@ -162,7 +162,7 @@ Christian paused and glared a death-stare almost right through Adam’s head. �
 
 Adam had a sudden insight and realized this workout didn’t call for a zen-like approach. This would be a special session, past even the eerie calm of the Protector’s working sets and well beyond what the other team members could and would put themselves through. For tonight, Adam unlocked his Hate.
 
-----
+---
 
 Adam could still remember a time when he hadn’t known the real fundamentals of exercise, including the critical distinction between strength and performance. The latter wasn’t so much one category as a library of forms, all geared to a specific type of action, activity, or performance, but beneath and fundamental to any athletic performance lay strength.
 
@@ -192,7 +192,7 @@ Falling behind clearly didn’t sit well with Firth. Until Capitol Station he co
 
 Adam had always thought that may have bothered Christian on a deep level, and the recent months served as confirmation. He was the single most competitive man anyone on the team had *ever* met. And so, in the soundproof basement of Adam’s building, Firth unleashed his rage against the bag. Adam held the bag steady, and responded with his Hate.
 
-----
+---
 
 He didn’t know the source of it, not really. What he did know is that, beyond zen, past pain and meditation and calm, there was a nuclear white-hot ball of absolute motivation within him. It hurt, and he didn’t quite understand it, but he knew that if he looked at it, *Hated* the universe and thought of nothing but his desire to *spite* the source of the Hate, he could do things not even Burgess could match. And Firth, then and there, was in the same headspace.
 
@@ -368,7 +368,7 @@ Adam extended his hand. They shook on it, then pulled each other back into anoth
 
 They enjoyed each other’s company quietly through the evening, drinking all the beer and doing another workout, that one heavy, long, raw, and brutally intense. They thumped back upstairs without any concern for anything except each other, plopped directly back onto the couch and binge-watched crappy animé. They ordered more beer and four extra-large pizzas each and ate it all. Finally, they fell asleep on the couch to awful pay-per-view, blissed out and entangled like zonked-out puppies, drunk, happy, lazy with full bellies…and at peace.
 
-----
+---
 
 The next morning, Adam awoke to Firth detangling himself from Adam’s sleepy deathgrip-bearhug and worming off the couch. Muzzy-headed, Adam asked, “Bro, where ‘you goin’? It’s, like, four in the morning.” Firth had already pulled off his shorts, thrown them in the washer, and was headed toward the shower.
 
