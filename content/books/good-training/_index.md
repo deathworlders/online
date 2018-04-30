@@ -1,6 +1,5 @@
 ---
 title: "Good Training"
-draft: true
 author: "Justin L. Croonenberghs (ctwelve)"
 date: 2016-03-14
 aliases:
