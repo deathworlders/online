@@ -97,7 +97,7 @@ At least there was *something.* In the days before their opportunity finally cam
 
 Good to see that his pessimism wasn’t prophetic, this time.
 
-Of course, it wasn’t like there was much reason to be optimistic. The plan had only covered up as far as *‘steal a ship and get off the planet.’* Everything after that point was pure improvisation, meaning they had to try and navigate their way home using alien controls written in alien code using alien characters they didn’t know describing an alien language they didn’t speak, all while having only the vaguest idea where they were in relation to everything else. There was a whole galaxy out there, hundreds of *billions* of stars, and they had to try and find one of the infinitesimal handful which might be a useful destination.
+Of course, it wasn’t like there was much reason to be optimistic. The plan had only covered as far as *‘steal a ship and get off the planet.’* Everything after that point was pure improvisation, meaning they had to try and navigate their way home using alien controls written in alien code using alien characters they didn’t know describing an alien language they didn’t speak, all while having only the vaguest idea where they were in relation to everything else. There was a whole galaxy out there, hundreds of *billions* of stars, and they had to try and find one of the infinitesimal handful which might be a useful destination.
 
 As big asks go, the whole endeavor was orders of magnitude more difficult and dangerous than merely, say, doing a blindfolded hitchhiking tour of every haystack in Colombia with only a Swedish-to-Korean phrasebook for help, all to track down one specific needle. And that was *before* addressing the question of how in God’s name they were going to avoid being blown out of the sky by the first naval patrol they encountered.
 
@@ -107,7 +107,7 @@ Good, she decided. She’d had her last ever cup of Hot. She was going vegan whe
 
 Spears spoke up and got her attention. “We’re hittin’ the thermosphere, but we got trouble!”
 
-Ray could feel it. Despite that the *Dauntless* mission had been years ago and all-too brief, she could feel the ship responding around her in a familiar way. It might be a horrific flying abattoir built to satisfy the Hunters’ unspeakable thirst, but a ship was a ship and she could even detect the subtle sway in her balance as it redistributed power loads in the gravity plating to counter the heavy turbulence they were no doubt hammering through right now.
+Ray could feel it. Despite the fact that the *Dauntless* mission had been years ago and all-too-brief, she could feel the ship responding around her in a familiar way. It might be a horrific flying abattoir built to satisfy the Hunters’ unspeakable thirst, but a ship was a ship and she could even detect the subtle sway in her balance as it redistributed power loads in the gravity plating to counter the heavy turbulence they were no doubt hammering through right now.
 
 She blinked and paid attention to the here-and-now again. Sure enough, the forward window was full of nothing but black, tinged with the merest suggestion of Nitrogen blue. Hunters apparently liked a vivid nuclear green for their displays, or maybe it was some alien fuck-you hue that the human eye merely *interpreted* as bright green. Either way, it was loathsome.
 
@@ -123,7 +123,7 @@ But then again, she probably didn’t have the right to make that choice for the
 
 “Can’t un-ring a bell,” she said. Spears grunted and turned his attention back to their ascent.
 
-“Reckon they would have noticed their ship taking off without them anyway,” he shrugged, and reached out sideways to grab one of the water bottles they’d brought with them from *Dauntless.* It was the kind with a spill-proof sippy topp, and when he held down the button to drink from it air bubbled through from a seal at the back.
+“Reckon they would have noticed their ship taking off without them anyway,” he shrugged, and reached out sideways to grab one of the water bottles they’d brought with them from *Dauntless.* It was the kind with a spill-proof sippy top, and when he held down the button to drink from it air bubbled through from a seal at the back.
 
 “How long do we have?” Holly asked.
 
@@ -174,7 +174,7 @@ Deep in the Hive’s bowels, it maintained the sewage systems and lived on slave
 
 And it dreamed of vengeance.
 
-The Alpha-of-Alphas had been incendiary upon learning that all data on the Human superweapon had been somehow erased. In a lesser rage, it might eventually have granted the disgraced Alpha Builder the boon of being allowed to die. Its fate would have been agonizing and opprobrious… but it would, eventually, have ended in the blissful emptiness of death.
+The Alpha-of-Alphas had been incandescent upon learning that all data on the Human superweapon had been somehow erased. In a lesser rage, it might eventually have granted the disgraced Alpha Builder the boon of being allowed to die. Its fate would have been agonizing and opprobrious… but it would, eventually, have ended in the blissful emptiness of death.
 
 Not this. Not the dark and the stink, not the gnawing ache where its missing upgrades had never been properly cleansed and sealed after their removal, nor clanging silence, the scorn of its former subordinates, or the unceasing meaningless drudgery with no *real* problems to fix, no *real* engineering to do. This was slave-work, below what even the lowliest of the lowly Omegas were for. The Builder had been robbed of **everything,** including its right to broadcast to the Hunter network. It could only listen and envy.
 
@@ -204,7 +204,7 @@ It listened to the ecstatic chattering that filled the Hunter network as its for
 
 Unheard by any of its brethren, it broadcast to itself in the dark.
 
-*<Resolve>* **+Meat to the Maw.+**
+*< Resolve >* **+Meat to the Maw.+**
 
 ___
 
@@ -302,7 +302,7 @@ It recoiled back to the lab on Mrwrki like a stretched rubber band just as Darcy
 
 The Entity produced the Hunters’ own map of their occupied territory.
 
-*“This is Hunter space,”* the memories explained. *“The Hunters.. They mostly live on force-bred meat slaves, kept in their orbital habitats. But for sport, they’ve stocked these seven planets with… I suppose you could call them ‘free range’ slaves. Like game reserves.”*
+*“This is Hunter space,”* the memories explained. *“The Hunters... They mostly live on force-bred meat slaves, kept in their orbital habitats. But for sport, they’ve stocked these seven planets with… I suppose you could call them ‘free range’ slaves. Like game reserves.”*
 
 Darcy pulled a face as it zoomed in on the most important system. *“Around* ***this*** *one, they’ve built a.. Well, a ring. It’s a space station of some kind, full of factories and shipyards. It’s where they built the Swarm-of-Swarms, and where most of the Swarm is now docked.”*
 
@@ -425,31 +425,31 @@ ___
 
 ***The Alpha-of-Alphas***
 
-*<Icy calm; Reprimand>* +My instructions were very clear. Humans are to be *caught,* not destroyed.+
+*< Icy calm; Reprimand >* +My instructions were very clear. Humans are to be *caught,* not destroyed.+
 
 The Alpha in charge of the brood that had first opened fire on the fleeing Humans and their stolen Swarmship transmitted a grovelling apology.
 
-*<Abject terror>* +The Venom-Bile brood is eager to the Hunt, Alpha-of-Alphas! When the bloodthirst takes us—+
+*< Abject terror >* +The Venom-Bile Brood is eager to the Hunt, Alpha-of-Alphas! When the bloodthirst takes us—+
 
 Bored of such a pathetic excuse, the Alpha-of-Alphas casually ordered every other ship in the Swarm to tear the Venom-Bile broodship apart. It vanished in a hail of firepower so intense that the Alpha’s last instant of panic was silenced before it could properly be said to have begun.
 
 With its irritation partly sated, the Alpha-of-Alphas turned to the older and more seasoned Alpha of the Reaping-Brood, whose ship had wounded another broodship during the pursuit.
 
-*<Demand>* +And how shall I answer your mis-step?+
+*< Demand >* +And how shall I answer your mis-step?+
 
-Both the Reaping-Brood and their accidental victims the Gnawing-brood were large, powerful and wily. Wily enough to have stayed away from the slaughter that had ensued when many of the other Alphas had tried to depose the Alpha-of-Alphas. Both were keys to power, and the Alpha-of-Alphas knew it: it would not be sensible to disgruntle either one.
+Both the Reaping-Brood and their accidental victims the Gnawing-Brood were large, powerful and wily. Wily enough to have stayed away from the slaughter that had ensued when many of the other Alphas had tried to depose the Alpha-of-Alphas. Both were keys to power, and the Alpha-of-Alphas knew it: it would not be sensible to disgruntle either one.
 
 Fortunately, the Reaping-Brood Alpha knew when to kowtow.
 
-*<Careful; Deferential>* +The Reaping-Brood forfeits all Hunting and breeding rights until the Alpha-of-Alphas deigns to permit us otherwise. We make reparations to the Gnawing-Brood, a thousand slaves.+
+*< Careful; Deferential >* +The Reaping-Brood forfeits all Hunting and breeding rights until the Alpha-of-Alphas deigns to permit us otherwise. We make reparations to the Gnawing-Brood, a thousand slaves.+
 
 That was proportionate and sensible—it would mollify the Gnawing-Brood, and the Alpha-of-Alphas could lift the restrictions after only a modest wait.
 
-*<Imperious condescension; decree>* +The Reaping-Brood’s restitution is... acceptable.+
+*< Imperious condescension; decree >* +The Reaping-Brood’s restitution is... acceptable.+
 
 The mood among the remaining—carefully and modestly expressed—was satisfaction and agreement.
 
-*<Displeasure; Command>* +Meat has slipped from the maw. This is unacceptable. Learn, adapt, and ensure that it never happens again. End session.+
+*< Displeasure; Command >* +Meat has slipped from the maw. This is unacceptable. Learn, adapt, and ensure that it never happens again. End session.+
 
 The virtual forum of Alphas shut down, leaving the Alpha-of-Alphas to consider the situation in peace.
 
@@ -472,7 +472,7 @@ ___
 
 Spears’ was not a popular idea.
 
-*“Land* on the ***Ring?!***
+*“Land* on the ***Ring?!"***
 
 “What the hell will that even accomplish?”
 
@@ -502,7 +502,7 @@ They turned to look at him. He was leaning against the bulkhead, toying with a l
 
 “...You’re out of your mind,” Choi shook his head. “Any *remotely* competent engineer would have built it with redundancies and failsafes. There’s no way that ring has only one point of failure.”
 
-“On the other hand…” Ray mused “...there’s no way it’s completely jam-packed with Hunters, either.”
+“On the other hand…” Ray mused, “...there’s no way it’s completely jam-packed with Hunters, either.”
 
 “Not unless there are… I’unno. A motherfuckload of ‘em,” Cook agreed.
 
@@ -544,7 +544,7 @@ Right now he was in an interstellar conference call with Lt. Col. Nadeau and the
 
 “Aren’t most of the BGEV program still missing?” Kolbeinn asked.
 
-*“Yup. Including the one they sent to go look for the others. But Three—Dauntless—went in a completely different direction to all the other missing ones. Right toward Hunter space. The Dominion hadn’t shared their maps by the time they set out.”*
+*“Yup. Including the secret mission they sent to go look for the others. But Three—Dauntless—went in a completely different direction to all the other missing ones. Right toward Hunter space. The Dominion hadn’t shared their maps by the time they set out.”*
 
 Kolbeinn grimaced slightly. The Dominion had a lot to answer for. “Byron worked fast,” he observed.
 
@@ -651,7 +651,7 @@ Spears sighed wearily, but after a second he turned his hand over and squeezed h
 
 “Mm. But you’re right: Let’s go for the gold medal.” He let go of her hand and returned it to the controls. “Getting close now.”
 
-Ray considered the Ring again. It wasn’t a ring now, but a wall in space with a *weird* horizon that was shorter along one axis than the other. This close, she could finally see that the surface wasn’t a smooth uniform expanse but in fact had texture. It looked in fact like there was a second surface, lurking behind the outermost one. The impression of depth was giddying,
+Ray considered the Ring again. It wasn’t a ring now, but a wall in space with a *weird* horizon that was shorter along one axis than the other. This close, she could finally see that the surface wasn’t a smooth uniform expanse but in fact had texture. It looked in fact like there was a second surface, lurking behind the outermost one. The impression of depth was giddying.
 
 “What are those… plates?” she asked, leaning closer to peer at them as if that made any sense.
 
@@ -677,7 +677,7 @@ Ray examined the new volumetric schematic that had come up in front of her. It w
 
 “...I think it already has. There.” Ray pointed. “See that heat signature there? Looks like radiators. There’s a space behind it, it’s big enough and it’s right on the surface.” the radar had drawn a blue line behind it, sketching out the shape of a cavity of some kind. “I hope blue means full of air and not water or whatever.”
 
-“Well… the worst case scenario is we all die. So, nothing’s changed there.” Spears angled them toward it.
+“Well… the worst-case scenario is we all die. So, nothing’s changed there.” Spears angled them toward it.
 
 Ray stood up and left him to figure it out. She joined the others in the central space behind the boarding ramp that seemed to serve as cargo hold, prep area or whatever else. Berry handed her her rifle as she joined them.
 
@@ -747,7 +747,7 @@ Moses had *aged,* just in the length of one phone call. He wasn’t a young man 
 
 Kevin had almost been able to watch his face turn haggard as he received… whatever the bad news was. It had interrupted their conversation, so it had to be important.
 
-For a change, Moses had come to Kevin’s office rather than the other way round, and the difference was striking. Moses kept a small, Spartan office on the second floor that looked like it could have belonged to any high school principle or small-town lawyer.
+For a change, Moses had come to Kevin’s office rather than the other way round, and the difference was striking. Moses kept a small, Spartan office on the second floor that looked like it could have belonged to any high-school principal or small-town lawyer.
 
 Kevin’s on the other hand was one of the executive offices on the top floor. It was twice as large, partitioned into two spaces dominated respectively by his desk and by a small conference table, and commanded a clear and even pretty view out over Little Italy and across the river into Iowa. He’d filled it with personal touches out of his own pocket—a model of BGEV-10, his going-away gift from Scotch Creek,  a signed selfie with Rylee Jackson and the Misfit trio. His pride and joy was a refurbished vintage vinyl jukebox, a Rock-Ola Comet 1438, and he’d loaded it with BB King, Stevie Ray Vaughan and a host of others.
 
@@ -823,7 +823,7 @@ Then again, they’d all changed. Holly and Choi were certainly quieter nowadays
 
 “Looks like a pressure hatch over here,” Choi said, indicating a long handle on the wall. “Hope it’s warmer on the other side.”
 
-“Hope it’s not *vacuum* on the other side,” Conley muttered… “Whatever. Nothing ventured nothing gained, right?”
+“Hope it’s not *vacuum* on the other side,” Conley muttered. “...Whatever. Nothing ventured nothing gained, right?”
 
 “Right.” Choi grabbed the handle and pushed it down. It moved easily, there was a thumping ***clunggg*** noise and part of the wall cracked apart. Air rushed viciously around them for a few seconds before settling, and when he pulled the hatch open it swung easily on well-oiled hinges.
 
@@ -843,7 +843,7 @@ Then again, they’d all changed. Holly and Choi were certainly quieter nowadays
 
 Choi got his wish, at least. The corridor, or deck or whatever that they’d stepped out onto was a good twenty degrees more temperate than the freezing, windy sump they’d just left behind them. Ray rubbed her arms and shivered, but she was feeling warmer already.
 
-“Okay…” Conley asked, “left or right?”
+“Okay…” Conley asked. “Left or right?”
 
 “Well… something was making all that heat for the cooling system to bleed off,” Ray pointed out. “So, I say we head back that way.”
 
@@ -883,7 +883,7 @@ Holly frowned. “That sounds like… Like…”
 
 They listened again. Ray had to admit… she was right. The bedlam they could faintly hear had all the same qualities as a crowded marketplace full of people raising their voices to be heard over one another.
 
-“...Hunters don’t talk, do they?”  She asked. “Could be the friendlier, squishier kind of ET?”
+“...Hunters don’t talk, do they?”  she asked. “Could be the friendlier, squishier kind of ET?”
 
 “That… makes sense,” Conley mused. “If a load of Hunters live up on this thing they must have… well, I guess they’d see them as livestock.”
 
@@ -895,7 +895,7 @@ They listened again. Ray had to admit… she was right. The bedlam they could fa
 
 Ray stepped forward. “I’m with you,” she said. She wasn’t enthusiastic about creeping forward into what *might* still be a nest of Hunters, but she was even less enthusiastic about leaving a mystery like that unresolved. Besides, she wanted to keep Cook where she could see him and rein in his impulses.
 
-“Godspeed,” Spears wished them. We’ll catch some rest.”
+“Godspeed,” Spears wished them. "We’ll catch some rest.”
 
 Ray nodded to Cook and they jogged as quietly as they could down the tunnel until it ended quite abruptly in a wide hatch much like the one Jamie had popped back in the sump. Ray rested her ear against it and listened.
 
@@ -905,7 +905,7 @@ Ray nodded to Cook and they jogged as quietly as they could down the tunnel unti
 
 “...What?” Ray asked him.
 
-“...Kinda figured you’d yell at me to stop or somethin’...” he seemed almost disappointed.
+“...Kinda figured you’d yell at me to stop or somethin’...” He seemed almost disappointed.
 
 “No, we need to know what’s on the other side. For better or worse.”
 
@@ -964,9 +964,9 @@ She was feeling like kind of a bigot, now that she thought about it. Garaaf was 
 
 “I was…” He paused and considered his words. “...well, the Gaoian word translates as *‘shipfather.’* I was captain of the CGC *Winter Fire,* one of Mother-Supreme Giymuy’s escorts to the Dominion Capitol Station. Not sure how long ago that was in Human years.”
 
-The whole crew were sitting, standing or in Cook’s case prowling around listening to him. They were sat on what was basically a pile of trash down one of the maintenance tunnels near the shanty town, using one of those basic arc lights for illumination. It cast long, infinitely deep shadows on the walls and totally killed Ray’s night vision, but apparently it was about all the slaves had for lighting. Occasionally, she was certain that various alien forms shuffled past in the dark, but none of them seemed to pay any attention to them.
+The whole crew were sitting, standing, or in Cook’s case prowling around listening to him. They were sitting on what was basically a pile of trash down one of the maintenance tunnels near the shanty town, using one of those basic arc lights for illumination. It cast long, infinitely deep shadows on the walls and totally killed Ray’s night vision, but apparently it was about all the slaves had for lighting. Occasionally, she was certain that various alien forms shuffled past in the dark, but none of them seemed to pay any attention to them.
 
-“Giymuy was there to petition the Dominion on your species’ behalf,” he continued. “Something about it being the tenth anniversary of your first contact…” he made a peculiar ducking shrug and scratched at the stub of his ear. “...Also the tenth anniversary of our first contact *with* you. Did you ’ever hear of Sister Shoo?”
+“Giymuy was there to petition the Dominion on your species’ behalf,” he continued. “Something about it being the tenth anniversary of your first contact…” He made a peculiar ducking shrug and scratched at the stub of his ear. “...Also the tenth anniversary of our first contact *with* you. Did you ever hear of Sister Shoo?”
 
 There were a round of shaken heads and he duck-nodded. “She made an impression,” he said wryly.
 
@@ -978,13 +978,13 @@ There were a round of shaken heads and he duck-nodded. “She made an impression
 
 “That was it, yes. You know of her?”
 
-“No. It’s just…. That was my grandmother’s name.”
+“No. It’s just… That was my grandmother’s name.”
 
 “Well, this one rescued a bunch of Females and cubs who got abducted off a colonial transport,” Garaaf explained. “She became an honorary member of the Clan of Females, became an advisor to the Mother-Supreme… it’s a long story. The point is, she made an impression and we committed our efforts to returning her home. That’s why Giymuy was at Capitol Station that day, among other reasons. Some of my more influential Brothers were talking in terms of a formal friendship and alliance between our peoples.”
 
 “And that’s when the Hunters got you,” Spears surmised.
 
-“Yes, and they used tactics we’d never seen before. Every shot we fired missed, every time we began an evasive maneuve they’d just blink into the perfect spot to counter it. At close quarters they tore the fleet to pieces. The Winter Fire lasted a while, but eventually we took a bad hit, lost our power cores, and...” he gestured around him. “Even if they hadn’t outnumbered us a hundred to one, we never stood a chance. In the end their swarmships just burrowed into the hull and the lucky ones died in the gunfight.”
+“Yes, and they used tactics we’d never seen before. Every shot we fired missed, every time we began an evasive maneuver they’d just blink into the perfect spot to counter it. At close quarters they tore the fleet to pieces. The *Winter Fire* lasted a while, but eventually we took a bad hit, lost our power cores, and...” He gestured around him. “Even if they hadn’t outnumbered us a hundred to one, we never stood a chance. In the end their swarmships just burrowed into the hull and the lucky ones died in the gunfight.”
 
 “You weren’t so lucky,” Conley observed.
 
@@ -1006,7 +1006,7 @@ There were a round of shaken heads and he duck-nodded. “She made an impression
 
 Garaaf’s expression might almost have been a snarl. “Of *course* I have a plan,” he said. “I didn’t spend five years just licking my nuts! The *obstacle* is that my plan involves getting my paws on some tech that the Hunters don’t let their slaves even get a sniff of. Things like spatial distortion generators.”
 
-“Locked up tight, huh? Cook asked.
+“Locked up tight, huh?"" Cook asked.
 
 “Tighter than a Goldpaw’s wallet,” Garaaf agreed. “And if I *had* somehow stolen any of it, they’d swarm the slave shanties and scour every square inch until it was recovered… then butcher all the slaves in that shanty as a warning to the others.”
 
@@ -1020,7 +1020,7 @@ Garaaf sighed. “An ancient relic of bad times. He is the leader of the Gao, in
 
 “So… a supreme ruler? A great general? Dictator, overlord?” Ray suggested.
 
-“Something like that.” Garaaf agreed. “The last one, Fyu… well, he changed the world for the better, but he killed a *lot* of people in brutal ways to achieve it. Which makes it hard to believe the rumours about *who* the alleged Great Father is… but this is all off topic.”
+“Something like that.” Garaaf agreed. “The last one, Fyu… well, he changed the world for the better, but he killed a *lot* of people in brutal ways to achieve it. Which makes it hard to believe the rumours about *who* the alleged Great Father is… but this is all off-topic.”
 
 “What can they do if we *do* somehow establish contact?” Spears asked.
 
@@ -1109,7 +1109,7 @@ He fired up the laboratory’s biofilter field and tidied up as it swept away an
 
 Nofl finished his tidying and turned around. “So, am I the Directorate’s go-to Human expert now?”
 
-Trafn gave him a look of exceptionally faint irritation. “You… have been among them for some time now,” he said. “You know their ways, even if you do choose to mimic some of their affections for reasons known only to yourself.”
+Trafn gave him a look of exceptionally faint irritation. “You… have been among them for some time now,” he said. “You know their ways, even if you do choose to mimic some of their affectations for reasons known only to yourself.”
 
 “It’s a disarming tactic,” Nofl explained. “They think they know how to interpret a good College member who conforms to the vocabulary and behaviour guidelines. They don’t know how to interpret me.”
 
@@ -1131,7 +1131,7 @@ Nofl ambled over to his coffee pot and checked the brew. Caffeine levels were fa
 
 “What do you mean?”
 
-“Crossing the chamber on the *Rich Plains* was a useful gesture, but I have found that Humans and Gaoians both prefer more than mere symbolism. *‘Actions speak louder than words’* as they say.” Nofl took up his own coffee but didn’t drink for now. He just appreciated the aroma. “The Directorate should consider the benefits of providing direct services to both species. The Gao liked what we did in the aftermath of the Hunter attack. If you want the Humans to trade in genetic material then a similar gesture may be useful.”
+“Crossing the chamber on the *Rich Plains* was a useful gesture, but I have found that Humans and Gaoians both prefer more than mere symbolism. *‘Actions speak louder than words,’* as they say.” Nofl took up his own coffee but didn’t drink for now. He just appreciated the aroma. “The Directorate should consider the benefits of providing direct services to both species. The Gao liked what we did in the aftermath of the Hunter attack. If you want the Humans to trade in genetic material then a similar gesture may be useful.”
 
 “...Thank you, Nofl. I will pass that observation on to my fellow Directors.” Trafn finished his ristretto and set the cup down next to the coffee machine. “...That is an excellent beverage.”
 
@@ -1161,7 +1161,7 @@ Garaaf was panting, but he duck-nodded and sniffed the air. “If we were much f
 
 “Guess breaking the ships up generates a lotta waste heat…” Jamie mused.
 
-Garaaf duck-nodded, “Especially when they melt stuff down. Just getting close enough to see *that* nearly cost me the rest of my face… There’s your ship!”
+Garaaf duck-nodded. “Especially when they melt stuff down. Just getting close enough to see *that* nearly cost me the rest of my face… There’s your ship!”
 
 “Ray. Berry.” Spears communicated his meaning by tone of voice alone, and the three of them picked up the pace, hustling up to their stolen ride’s ramp with their rifles up and ready.
 
@@ -1171,9 +1171,9 @@ Seconds later a disappointed whining noise floated back out. It was followed by 
 
 “It doesn’t have a jump,” he lamented.
 
-“...Well that was a waste of time,” Conly muttered. He promptly drew *‘shut-the-fuck-up’* glares from Ray and Spears, and a snarl from Garaaf.
+“...Well that was a waste of time,” Conley muttered. He promptly drew *‘shut-the-fuck-up’* glares from Ray and Spears, and a snarl from Garaaf.
 
-“Absolutely no it wasn’t,” The Whitecrest told him. “There’s still stuff here we can use. We’ll just need… hmm.” He sprang back to his paws and retreated back into engineering. “Choi, where’s the warp drive on this thing?”
+“Absolutely no, it wasn’t,” The Whitecrest told him. “There’s still stuff here we can use. We’ll just need… hmm.” He sprang back to his paws and retreated back into engineering. “Choi, where’s the warp drive on this thing?”
 
 Jamie sounded surprised. “Uh, I think it’s over—”
 
@@ -1215,7 +1215,7 @@ Cook peeked around the corner. “...Goddammit, you coulda left some for me,” 
 
 “Not now, Cook,” Ray told him. “Guys! We gotta go now!”
 
-Conly, Choi, Holly and Garaaf bundled out of the ship. Conley groaned when he looked up the tunnel. “You mean there was an exit *that close* and we missed it?”
+Conley, Choi, Holly and Garaaf bundled out of the ship. Conley groaned when he looked up the tunnel. “You mean there was an exit *that close* and we missed it?”
 
 “This is not the time to worry about that,” Garaaf said, echoing Ray’s sentiment. “They’ll be coming.”
 
@@ -1233,13 +1233,13 @@ They dashed over to the fallen Hunters and checked them over. Up close, these on
 
 He pocketed a prize and grabbed a double pawful of other stuff, which he thrust on whoever had spare hands.  “Let’s go.”
 
-None of them were inclined to argue or waste time. They hauled ass up the tunnel to where the Hunters had come in and, finding it clean of Hunters for now, slid down the steep steel chute on their asses. Cook even let out a *“Yippie-aye-yay!* and giggled like a schoolboy.
+None of them were inclined to argue or waste time. They hauled ass up the tunnel to where the Hunters had come in and, finding it clean of Hunters for now, slid down the steep steel chute on their asses. Cook even let out a *“Yippie-aye-yay!"* and giggled like a schoolboy.
 
 “Let’s do that again!” he said, the moment he bounced to his feet at the bottom.
 
 “Focus,” Ray reminded him. “We’re in trouble here.”
 
-“Gotta squeeze out as much fun as I can before I die!” He chirped, but pounced on the exit hatch. “We ready?”
+Cook didn't seem remotely contrite. “Gotta squeeze out as much fun as I can before I die!” he chirped, but pounced on the exit hatch. “We ready?”
 
 Conley finished helping Holly get her cargo truck down the ramp and nodded. “Ready.”
 
@@ -1267,13 +1267,13 @@ They picked up the pace, quickly discovering that Garaaf was their slowest membe
 
 Garaaf looked down at his paws and the stump of his ear waggled in a way that somehow managed to convey irritation at himself. He dropped to all fours and sure enough his gait was immediately more fluid and easy. “...Habit…” he grumbled.
 
-The bend up ahead turned out to be another catwalk over another huge space… only this time, it was a well lit vision of pandemonium. There was glowing metal *everywhere,* being carted through the air by drones, held under enormous hydraulic presses or crashed down onto by titanic drop hammers. Hunter Workers were moving in well-drilled gangs down there, dragging chunks of steel into position, turning them, levering drifts, dies and punches into place.
+The bend up ahead turned out to be another catwalk over another huge space… only this time, it was a well-lit vision of Pandemonium. There was glowing metal *everywhere,* being carted through the air by drones, held under enormous hydraulic presses or crashed down onto by titanic drop hammers. Hunter Workers were moving in well-drilled gangs down there, dragging chunks of steel into position, turning them, levering drifts, dies and punches into place.
 
 There was pure technology being applied down there, too, well above and beyond the industrial-age bedlam on the floor. Ray had to grimace and shield her eyes as a loop of painfully bright molten steel literally flowed out of one orifice on the wall, looped through the air in what must have been an invisible channel of forcefields, and was siphoned easily into a mold without spilling so much as a stray spark.
 
 The air was skin-tightening, throat-scratching hot.
 
-It was all so distracting that the three Hunters that stepped out of an elevator in front of them caught them all completely off guard. The Hunters seemed equally flat-footed, and for a stretched second the two groups stared at each other as though neither could quite believe what they were seeing.
+It was all so distracting that the three Hunters that stepped out of an elevator in front of them caught them all completely off-guard. The Hunters seemed equally flat-footed, and for a stretched second the two groups stared at each other as though neither could quite believe what they were seeing.
 
 Cook acted first. With a gleeful howl he lunged forward and his makeshift fusion claw knife tore through the lead Hunter’s neck like it was a hanging salmon, almost completely severing its head. Ray’s numbed body jolted into action as the Hunter crumpled: her rifle came up, her finger slipped inside the trigger guard, three rounds drilled a second Hunter in its skinny chest before she’d even realized what she was doing.
 
@@ -1317,7 +1317,7 @@ Garaaf pounced through the melee, snatched up the fallen rifle, raised it and fi
 
 There was silence front and back except for her own heavy breathing… and sobs.
 
-She couldn’t check on Tom just yet. She turned, checked what was going on behind her. Spears, Conley, Choi and Cook were all still standing. Jamie’s shield had three or four nails sticking out of it and blood was running down Pete’s arm. There was a clatter as Spears ejected his magazine and rammed a new on home.
+She couldn’t check on Tom just yet. She turned, checked what was going on behind her. Spears, Conley, Choi and Cook were all still standing. Jamie’s shield had three or four nails sticking out of it and blood was running down Pete’s arm. There was a clatter as Spears ejected his magazine and rammed a new one home.
 
 Holly was down.
 
@@ -1349,7 +1349,7 @@ Garaaf touched Ray on the shoulder and she looked up. The rest of them were gath
 
 “Never. Clan stick together. But we have to *go.”*
 
-Cook wordlessly handed them Berry’s jacket. “stretcher,” he said, and offered his own unused spear. Combined with Conley’s, they quickly had a basic enough litter lashed together that Conley was able to drag Holly along on it.
+Cook wordlessly handed them Berry’s jacket. “Stretcher,” he said, and offered his own unused spear. Combined with Conley’s, they quickly had a basic enough litter lashed together that Conley was able to drag Holly along on it.
 
 They stopped to say goodbye to Berry. None of them wanted to leave him to the Hunters, but there was nothing else they could do. Nobody knew what to say, anyway.
 
@@ -1470,13 +1470,13 @@ The sound of running water coupled with a warm distant hum from somewhere to cre
 
 A spike of loss and grief crossed her mind as she tried to imagine Berry’s expression if he’d been here.
 
-Water was handed out in a tall “glass” made from what looked like uPVC. Garaaf’s remaining ear moved in a fascinated little dance as he watched all of the humans drink, and drink and drink.
+Water was handed out in a tall “glass” made from what looked like uPVC. Garaaf’s remaining ear moved in a fascinated little dance as he watched all of the humans drink, and drink, and drink.
 
 “...I’d heard you people ate and drank a lot, but seeing it in action is something else,” he declared. “You all just ate three days of rations *each.”*
 
 “Can… is that a problem?” Choi asked. “That sounds like a lot.”
 
-“Relax, I usually keep a month’s worth of food in here for safety’s sake, and I can refill it every time the Shanty gets fed. Maybe that’s over-prepared but… well. Clearly it, uh ...isn’t...”
+“Relax, I usually keep a month’s worth of food in here for safety’s sake, and I can refill it every time the Shanty gets fed. Sometimes I wondered if I was being over-prepared but… well. Clearly I, uh... wasn’t...”
 
 He trailed off, round about the same time that Ray realized she was crying. Up until now she’d been focused, scared, surviving. She’d had Holly to worry about, and the tight maze of the warrens to navigate. Now that they were somewhere safe and quiet, reality was catching up with her.
 
@@ -1518,7 +1518,7 @@ Cook nodded. “I’ll go find Pete.”
 
 Garaaf, it turned out, had been busy. He had a workshop of sorts next to his living area that was little more than a workbench and whatever tools he’d been able to steal, scavenge, repair or fashion for himself. He seemed pleased with whatever it was he’d made, though—when he returned, he was turning it over in his hands, inspecting it. Ray felt certain she even saw him sniff it, though what he could possibly hope to glean from the scent of cobbled-together circuitry was beyond her.
 
-He had a desk in the living area, with a power supply that he’d obviously (and dangerously) tapped from the power conduits in the ceiling and run through a home-made converter. It looked like junkheap science—in fact it *was* junkheap science—but when he plugged his new creation in, all that happened was an LED on the top blinked green, then settled to a stead glow.
+He had a desk in the living area, with a power supply that he’d obviously (and dangerously) tapped from the power conduits in the ceiling and run through a home-made converter. It looked like junkheap science—in fact it *was* junkheap science—but when he plugged his new creation in, all that happened was an LED on the top blinked green, then settled to a steady glow.
 
 “...I’ve waited a long time to make this,” he said. “I just needed *one* component off a ship with a working warp drive.”
 
@@ -1526,7 +1526,7 @@ He had a desk in the living area, with a power supply that he’d obviously (and
 
 “Yeah. Watch this.” He clawed a switch on the side, and cleared his throat.
 
-“...Lost cub howling, lost cub howling. Big brother played Winter Fire, now plays hide-in-the-dark. Stole some toys, mother’s angry, showing fangs, claws out. Made some friends from Clan Dirtyfoot. Want to play fetch and run home, here’s how we play.” He slotted what looked like a data drive into a port on the device’s side and watched intently as it did… whatever it was doing.
+“...Lost cub howling, lost cub howling. Big brother played fire-in-the-cold, now plays hide-in-the-dark. Stole some toys, mother’s angry, showing fangs, claws out. Made some friends from Clan Dirtyfoot. Want to play fetch and run home, here’s how we play.” He slotted what looked like a data drive into a port on the device’s side and watched intently as it did… whatever it was doing.
 
 He rocked back and flicked an ear with a satisfied air when the green light atop the device blinked three times and turned blue.
 
@@ -1550,9 +1550,9 @@ Even Holly giggled.
 
 “Now? Sleep. I’m almost falling down dead here, I don’t know how any of you are still going strong.” Garaaf stepped away from his desk and headed for a nest-bed he’d assembled in one corner. He curled up in it and tucked his nose under his tail. “We’re going to need our strength for whatever comes back from my Clan.”
 
-“Sleep? You’re kidding,” Conley looked skeptical.
+“Sleep? You’re kidding.” Conley looked skeptical.
 
-“Gotta do it sometime, Pete,” Spear said. “And he’s right, it’s been a long day.”
+“Gotta do it sometime, Pete,” Spears said. “And he’s right, it’s been a long day.”
 
 Garaaf raised his head. “I promise you, there’s nowhere safer than here on this whole Ring,” he said. “Even if they somehow found us, it would take *weeks* for them to dismantle the station and dig us out… and I made sure there are plenty of escape routes. Lights.”
 
@@ -1560,7 +1560,7 @@ The lights dimmed, until all that remained was a dull orange warmth that did lit
 
 Conley sighed and found a length of open floor to stretch out in. Ray realised quite suddenly that Spears had never actually taken his arm from around her. She glanced at Holly, who’d snuggled down on her litter and was probably as comfortable as she was going to get, then decided not to question it. Right now, a little human warmth was just what she needed.
 
-He stiffened a little as she wriggled into him, as if he’d only just noticed that he was holding her too, then shrugged himself into a more comfortable posture. He was mostly bones and lean muscle, not the most comfortable man she’d ever cuddled up to… but within seconds of resting her head on her shoulder, Ray was asleep.
+He stiffened a little as she wriggled into him, as if he’d only just noticed that he was holding her too, then shrugged himself into a more comfortable posture. He was mostly bones and lean muscle, not the most comfortable man she’d ever cuddled up to… but within seconds of resting her head on his shoulder, Ray was asleep.
 
 She was so exhausted that, mercifully, she didn’t dream.
 
@@ -1609,7 +1609,7 @@ There was a susurrus around the table. Daar silenced it with a tap of his huge c
 
 “Yes…” Genshi was obviously speed-reading a document as he spoke. “Apparently they stole a Hunter swarmship. Garaaf was able to scratch together a basic communicator out of some of its components.”
 
-Daar duck-nodded slowly, and considered the hologram over the table. It was actually two holograms side-by-side, a fully pulled out overview of the planet, against which the structure was the mere suggestion of a hair just above its surface, and a pulled-in view of the structure in a little more detail. Neither view truly gave Fiin a sense of scale or proportion, but how could it? Anything on a planetary scale was just too big to truly grasp.
+Daar duck-nodded slowly, and considered the hologram over the table. It was actually two holograms side-by-side, a fully pulled out overview of the planet, against which the structure was the mere suggestion of a hair just above its surface, and a pulled-in view of the structure in a little more detail. Neither view truly gave Fiin a sense of scale or proportion, but how could it? Anything on a planetary scale was just too big to really grasp.
 
 It didn’t take Daar long to think, though. “...This ring,” he asked slowly. “Important?”
 
@@ -1637,7 +1637,7 @@ Genshi cleared his throat. The distraction had both reminded him and given him t
 
 Daar simply sighed and shook his great head sadly. “That’s ‘bout what I was expectin’ it ‘ta be. You got a plan ‘ta address that? Feed ‘em? *Rehabilitate* ‘em? Convince their *herd species* ‘ta take back their lost members?”
 
-The unspoken observation behind the question was that even if the Dominion species had a history of charitable altruism, convincing *any* government to take that many charity cases was…unlikely, to put it gently. It was difficult to imagine one that even *could.*
+The unspoken observation behind the question was that even if the Dominion species had had a history of charitable altruism, convincing *any* government to take that many charity cases was…unlikely, to put it gently. It was difficult to imagine one that even *could.*
 
 Genshi knew it too, but he would not be dissuaded so easily. “In your own words, My Father—every pyre must be witnessed. This would be collateral damage on an unprecedented scale, and I fear we might not weather the consequences.”
 
@@ -1651,7 +1651,7 @@ Genshi didn’t so much as twitch an ear. “...I don’t.”
 
 “Good question. Besides the Humans, which relationships are gonna actually *matter?”*
 
-Meeyo was absent, dealing with the summit on the *Rich Plains* out over the ruins of Gorai, but his Champion-In-Stead, Tagro, was a bold one. “The Humans are a military ally, My Father, but they’re the least economically developed trading species. If the Dominion chose to impose sanctions on us—and we must assume that under Hierarchy influence they absolutely *will* if given a half-decent excuse—it could cripple the reconstruction, set it back by generations.”
+Meeyo was absent, dealing with the summit on the *Rich Plains* out over the ruins of Gorai, but his Champion-in-Stead, Tagro, was a bold one. “The Humans are a military ally, My Father, but they’re the least economically developed trading species. If the Dominion chose to impose sanctions on us—and we must assume that under Hierarchy influence they absolutely *will* if given a half-decent excuse—it could cripple the reconstruction, set it back by generations.”
 
 “Again, I don’t hear an answer to my question,” Daar noted. His patience was approaching legendary as far as Fiin was concerned. A young ‘Back who danced around the direct answers like that would have earned a hefty clawed blow to set him right. But the reconstruction was *important* to Daar. It was the difference between being the Gao’s savior, rather than their destroyer. He wasn’t about to jeopardize it without a very good reason.
 
@@ -1685,11 +1685,11 @@ He turned his head slightly. “I did that to my own people, whom I love,” he 
 
 He glanced at Gyotin in particular. “No. I will not. I will mourn them, but I *will* do what ***must*** be done.”
 
-He turned around. “Genshi. Get as much intel outta your Womb-Brother as you can. Fiin, prepare First Fang. Loomi…I want the biggest Fyu-fucked bombs ‘yer Clan has left in our legacy stockpile. Somethin’ that’ll make WERBS look like a thrift-brand *squeak toy.”*
+He turned around. “Genshi. Get as much intel outta your Womb-Brother as you can. Fiin, prepare First Fang. Loomi…I want the biggest Fyu-fucked bombs ‘yer Clan has left in our legacy stockpile. Somethin’ that’ll make WERBS look like a *squeak toy.”*
 
-“…We have a number of gigaton-class devices left in the Legacy, My Father, and we’ve kept them well-maintained…but they haven’t been test fired in a century!”
+“…We have a number of gigaton-class devices left in the Legacy, My Father, and we’ve kept them well-maintained…but they haven’t been test-fired in a century!”
 
-“Then test fire one and do it *now.* The rest we’re gonna use t’blow that ring into a zillion pieces before they have any clue what’s happenin.’ Meanwhile, we need to get ready ‘fer a full-scale invasion of the planet its orbiting, too. We may never get another chance ‘ta hurt those evil motherfucks this hard ever again. I want *details.* What they’re doing, how much we can *hurt* them, alla that. We don’t go until I give the word, but I wanna be *ready* an’ I don’t wanna waste lives.” Daar sighed again, this time almost…mournfully. “If I’m gonna murder maybe trillions more, ‘least I can do is make it quick an’ give ‘em *meaning.”*
+“Then test-fire one and do it *now.* The rest we’re gonna use t’blow that ring into a zillion pieces before they have any clue what’s happenin.’ Meanwhile, we need to get ready ‘fer a full-scale invasion of the planet it's orbiting, too. We may never get another chance ‘ta hurt those evil motherfuckers this hard ever again. I want *details.* What they’re doing, how much we can *hurt* them, alla that. We don’t go until I give the word, but I wanna be *ready* an’ I don’t wanna waste lives.” Daar sighed again, this time almost…mournfully. “If I’m gonna murder maybe trillions more, ‘least I can do is make it quick an’ give ‘em *meaning.”*
 
 The wind over the balcony was the only thing Fiin could hear. The Champions had been here before, and yet again they didn’t know what to say—the only appropriate sound was a painful, complete silence. Again, Daar glanced at Gyotin, who’d been silent so far. This time he spoke.
 
@@ -1740,7 +1740,7 @@ Loomi sighed. “Cousin,” he said, “against the Hunters? I’ll call it a go
 ___
 
 **Date Point: 15y6m1d AV**    
-**Datapace adjacent to The Ring**
+**Dataspace adjacent to The Ring**
 
 ***The Entity***
 
@@ -1750,7 +1750,7 @@ Infiltrating such an edifice was dangerous, not that the Entity was any stranger
 
 The experience was… strangely healing. It was plunging into dangerous territory again. There was no time or room for doubt, or factional squabbles within its own psyche. There was only danger, and the challenge of surviving that danger.
 
-To be sure, staying safe and cautious upheld its core directive to *<survive>* above all other concerns… but what *was* survival? What did it even mean unless the possibility of failure was present alongside it?
+To be sure, staying safe and cautious upheld its core directive to *< survive >* above all other concerns… but what *was* survival? What did it even mean unless the possibility of failure was present alongside it?
 
 The moment it had put itself back in harm’s way, the Entity had come to a revelation: that life requires death in order to **be** life.
 
@@ -1790,7 +1790,7 @@ Garaaf didn’t answer directly. Instead he lapped up some water and cleared his
 
 Garaaf glanced around the room. Ray didn’t bother closing her eyes, instead she made eye contact with him. A moment of understanding passed between them.
 
-She sat up. “Aren’t you?” She asked.
+She sat up. “Aren’t you?” she asked.
 
 Spears watched her for a second, then hung his head.
 
@@ -1818,7 +1818,7 @@ Ray turned to face him. He didn’t look angry or accusatory, just… tired.
 
 “You didn’t know that.”
 
-“And *you* don’t know that we wouldn’t have been caught just as fast if I hadn’t put Gorg down,” Ray retorted. “I just did what seemed like the right thing at the time. I’ll *keep* doing what seems like the right thing. And y’know what, maybe the right thing will get us killed. I can live with that.”
+“And *you* don’t know that we wouldn’t have been caught just as fast if I hadn’t put Gorg down,” Ray retorted. “I just did what seemed like the right thing at the time. I’ll *keep* doing what seems like the right thing. And y’know what? Maybe the right thing will get us killed. I can live with that.”
 
 Cook cleared his throat. “Uh… Technically…”
 
@@ -1846,7 +1846,7 @@ Having her own words turned back on her actually made Ray’s smile a little mor
 
 *”If* we can get the technology, and *if* we find somewhere that’s both spacious and secure enough to build a working Jump Array and *if* we manage to build it out of salvage and scrap and *if* it works when we turn it on… then friendly people with big guns come swarming through it, evacuate us, and leave behind an extremely large bomb.”
 
-“We can’t build it in here?” Ray asked. She felt dumb the instant she said so. They were packed in *tight* in Garaaf’s warren, and there was barely enough room to make an origami crane, let alone a working Jump Array. “...got anywhere better in mind?”
+“We can’t build it in here?” Ray asked. She felt dumb the instant she said so. They were packed in *tight* in Garaaf’s warren, and there was barely enough room to make an origami crane, let alone a working Jump Array. “...Got anywhere better in mind?”
 
 Garaaf scratched his claws idly on his desk as he thought. “Maybe. Hunters *really* don’t like cold temperatures, but cryo technology has some useful applications, so there’s a whole facility on the Ring’s groundside outer surface that’s colder than you’d believe. My *nose* froze when I explored it, but it’s got the power supply, the space and some pretty thick doors. Plus there’s only a few ways in and out.”
 
@@ -2000,7 +2000,7 @@ Garaaf followed, then Spears, and Conley, who turned to help Ray up out of the h
 
 “Stay low, stay close, stay quiet!” Garaaf ordered them over the din. “And for Fyu’s sake don’t attack anything unless it’s that or die!”
 
-They did as they were told, staying low, close and quiet as he darted between huge-sided machinery and under grinding conveyors. At one point he stopped dead still almost like the Road-Runner, waited for a hurtling container full of metal scraps to go shooting past his nose, then waved them through in its wake before the air had even finished going still again.
+They did as they were told, staying low, close and quiet as he darted between huge-sided machinery and under grinding conveyors. At one point he stopped dead still almost like the Road Runner, waited for a hurtling container full of metal scraps to go shooting past his nose, then waved them through in its wake before the air had even finished going still again.
 
 There was no sign of any Hunters at all. Ray *hoped* that meant they were all busy scouring the area that humans had last been seen, wherever that was. After what felt like a whole day in the Warrens, she would have been hopelessly turned around even if she’d had any sense of the Ring’s layout.
 
@@ -2198,7 +2198,7 @@ And there were more still to take. Cunning prey, *dangerous* prey, and frustrati
 
 It was going to *enjoy* this hunt.
 
-*<Delight; Triumph; Joy>* **+Meat to the Maw!+**
+*< Delight; Triumph; Joy >* **+Meat to the Maw!+**
 ___
 
 **Date Point: 15y6m1d AV**    
@@ -2216,7 +2216,7 @@ The Lads were all in their undersuits already. That was just a standard part of 
 
 Assuming it went ahead. Costello really, *really* hoped they weren’t destined for a blue-balling on this one.
 
-“This is Operation LOST CUB,” he said, stooping to put his volumetric projector on the floor before stepping back. It promptly filled most of the room with a realistic simulation of the Hunter Ring and the world it girdled. “About thirty hours ago, AEC received intelligence on a Hunter megastructure known as the Ring. We’re informed that it’s the shipyard responsible for building the Swarm-of-Swarms, and also where most of the Swarm is docked. Naturally, it’s so well defended that a conventional assault would be futile.
+“This is Operation LOST CUB,” he said, stooping to put his volumetric projector on the floor before stepping back. It promptly filled most of the room with a realistic simulation of the Hunter Ring and the world it girdled. “About thirty hours ago, AEC received intelligence on a Hunter megastructure known as the Ring. We’re informed that it’s the shipyard responsible for building the Swarm-of-Swarms, and also where most of the Swarm is docked. Naturally, it’s so well-defended that a conventional assault would be futile.
 
 “Twenty hours ago,” he continued, “Clan Whitecrest revealed that they have a long-lost agent on board… who’s made contact with half a dozen humans. They’re building a Jump Array for us, and if they succeed then we’re going to retrieve them. Execution is uncomplicated at first: We jump through, kill anything that has too many legs and teeth, build our own high-powered Array to evac the poor bastards who are already there. Then our real mission starts. We’ve got…*presents* for the Hunters. We’re gonna blow that ring to hell.”
 
@@ -2246,7 +2246,7 @@ Sikes had a faraway, creamy look fluttering across his face. “Sir...I think I 
 
 Costello let them have a few seconds to savor it, especially the way the Gaoians jeered at Sikes’ comment. He put on a practiced blank look that hinted at being amused without actually rewarding him, and brought them back into the briefing with a deadpan comment. “You can beat it later. The problem we’ve got to discuss right now is deploying those warheads. The Ring is reportedly generating a *massive* gravity spike that locks down space for several parsecs in all directions. Meaning that warping in a Firebird or whatever simply isn’t on the cards.
 
-“We’re going to have to fight through to the surface of the Ring, breach it, throw a beacon out the hole and summon some drones. The immediate area *around* the ring probably isn’t Spiked, which is where the Firefangs hit upon the idea of using megalight drones to basically instantly circumnavigate the damn thing and drop off our…*presents.”*
+“We’re going to have to fight through to the surface of the Ring, breach it, throw a beacon out the hole and summon some drones. The immediate area *around* the ring probably isn’t Spiked, which is where the Firefangs hit upon the idea of using megalight drones to basically instantly circumnavigate the damn thing and drop off our… *presents.”*
 
 *“...How* fast?”
 
@@ -2302,7 +2302,7 @@ ___
 
 Eaters were so *stupid.* Cunning, yes, but they never considered anything aside from the Hunt. If it didn’t directly put meat in the maw, they didn’t care. The idiots would be drowning in their own fecal matter if not for the Builders.
 
-And when they scented a good Hunt, then all proper function was forgotten. Their usual swaggering, bullying demeanor dissipated to be replaced with an unshakeable focus on the prey. It didn’t matter if they realistically had no hope of joining the hunt themselves, they were so preoccupied by it that they noticed nothing else.
+And when they scented a good Hunt, then all proper function was forgotten. Their usual swaggering, bullying demeanour dissipated to be replaced with an unshakeable focus on the prey. It didn’t matter if they realistically had no hope of joining the hunt themselves, they were so preoccupied by it that they noticed nothing else.
 
 The ones guarding a cybernetic facility near the breeding pools especially didn’t notice a lowly Omega Builder cleaning the floors.
 
@@ -2359,7 +2359,7 @@ He and Garaaf worked in silence for a few minutes, while Cook slumped down on th
 
 “Ah, shit Ray,” Cook sighed and looked up into the knot of pipes and cables above them. “You know what I was gonna do when we got back to Earth? I was gonna go climb mountains until one of ‘em killed me. Everest, K2, Annapurna...”
 
-He tailed off. Not knowing what to say, Ray just stared at him until he shook himself out of wherever he’d gone and came back to here and now. “...Maybe find some peace, y’know? Let Mama Nature put right all the evil fuckin’ things I did to keep us alive.” He glanced at Holly’s litter and sagged. “Just promise me you two’ll go on an’... I’unno. *Try* to live. So it was all worth it.”
+He tailed off. Not knowing what to say, Ray just stared at him until he shook himself out of wherever he’d gone and came back to here and now. “...Maybe find some peace, y’know? Let Mama Nature put right all the evil fuckin’ things I did to keep us alive.” He glanced at Holly’s litter and sagged. “You just promise me you two’ll go on an’... I’unno. *Try* to live. So it was all worth it.”
 
 “We’re still here, Cook,” Ray told him. “We aren’t dead yet.”
 
@@ -2407,7 +2407,7 @@ Jamie pressed the button, and a coffin-sized volume of spacetime around her went
 
 “It’s a concern removed from the equation,” Garaaf said. “Nicely done, Mister Choi.”
 
-“Like I said,” Jamie stood up, “it was her idea. You got something I can carry the Array in?”
+“Like I said,” Jamie stood up. “It was her idea. You got something I can carry the Array in?”
 
 Garaaf handed him a kind of canvas bag, presumably sewn together from something else. Jamie accepted it with a nod, and needed only seconds to fill it with the fruits of his labors. He shrugged it onto his shoulders, wiggled it back and forth a bit, and then apparently decided it would do.
 
@@ -2434,7 +2434,7 @@ Fiin had done his duty as the new Stoneback Champion and tried to talk the Great
 
 “Naw!” The Great Father boomed, clearly in an boisterous mood. “We brownies hafta be careful with you wee little silverfurs!”
 
-Regaari just flicked an ear. There was nothing *‘wee’* or *‘little’* about him these days, certainly not by the lithe standards Whitecrest had traditionally set. But then again, Daar was performing for an audience, too; there were Champions tailing along, messengers from First Fang, the most senior generals from the Grand Army…really, he was a king of old and they were his court. The only thing missing was a coronation, which he kept putting off, and off…
+Regaari just flicked an ear. There was nothing *‘wee’* or *‘little’* about him these days, certainly not by the lithe standards Whitecrest had traditionally set. But then again Daar was performing for an audience, too; there were Champions tailing along, messengers from First Fang, the most senior generals from the Grand Army…really, he was a king of old and they were his court. The only thing missing was a coronation, which he kept putting off, and off…
 
 “How’re the HEAT, doin’?” Daar asked.
 
@@ -2500,7 +2500,7 @@ Violence was coming, and as much as the Whitecrests pretended otherwise, somethi
 
 Powell let go of Daar’s arm with the closest thing he ever produced to a grin; a certain upwards tic of one side of his mouth. “Aye, it has. Last time I saw you, you were still covered in dust from that road bridge you collapsed in Lavmuy. I see it all brushed out in the end.”
 
-“yeah! I’m shorn pretty short these days! Naydi likes it, so y’know...I’m a good boy.”
+“Yeah! I’m shorn pretty short these days! Naydi likes it, so y’know...I’m a good boy.”
 
 “Hmm!” Powell produced one of his stoic little laughs and stepped aside for him. “We pulled up the files on the surviving humans—”
 
@@ -2514,7 +2514,7 @@ Powell let go of Daar’s arm with the closest thing he ever produced to a grin;
 
 “I take it ‘yer Protectors are on the job, includin’ Carebear? Father Garaaf is gonna need lookin’ after...”
 
-“They’ve got everythin’ up to an’ includin’ stasis bags. Worst case scenario we can shove the poor lass in one o’ those things and keep her there until she’s on an operating table.”
+“They’ve got everythin’ up to an’ includin’ stasis bags. Worst-case scenario we can shove the poor lass in one o’ those things and keep her there until she’s on an operating table.”
 
 “...Good. Look, lemme cut to the serious bit. Walk an’ talk?”
 
@@ -2522,7 +2522,7 @@ Powell let go of Daar’s arm with the closest thing he ever produced to a grin;
 
 Regaari duck-nodded and fell in alongside them. Daar and Fiin traded an unspoken conversation, and the Stoneback Champion turned away to handle the incoming load of his First Fang and the rest of Daar’s retinue.
 
-*Sharman* was pulsing with activity. Personnel in the uniforms of all different branches from several different nations were rushing back and forth with serious expressions and assorted tablets, pieces of paper or toolboxes. Powell received, read, signed and gave orders on three quick matters while just striding down a thirty meter corridor as personnel made room for them.
+*Sharman* was pulsing with activity. Personnel in the uniforms of all different branches from several different nations were rushing back and forth with serious expressions and assorted tablets, pieces of paper or toolboxes. Powell received, read, signed and gave orders on three quick matters while just striding down a thirty-meter corridor as personnel made room for them.
 
 Daar spoke to him urgently and low. “Did you get brief on what I’m gonna do?”
 
@@ -2586,7 +2586,7 @@ He saw the look the three Humans gave him and tried his best to shrug for them. 
 
 “Don’t make it right,” Adam observed, lifting his Grade IV+ shirt overhead while Hargreaves guided it into the leg armor’s coupling. Firth’s was heavy enough that few beings could heft it at all, and Adam’s was even worse. “Shit, man, I got into this to *save* lives, y’know?”
 
-“You *are* you idjit.” Firth shrugged to help Deacon seat the underplating, then gave Adam another, different shrug. “The Hunters are a sapient *disease.”*
+“You *are,* you idjit.” Firth shrugged to help Deacon seat the underplating, then gave Adam another, different shrug. “The Hunters are a sapient *disease.”*
 
 Regaari duck-nodded. “Just think. After this, the Hunters will be a fraction of the danger they were. Their fleet will be smashed, their population decimated, their ability to raid the spacelanes all but destroyed. That’s… I don’t know. Uncountable lives saved, in the long run.”
 
@@ -2639,7 +2639,7 @@ She was… safe, insofar as that term meant anything on the Ring. She’d die la
 
 It *did* mean they could set a pace, though. With Spears and Cook dragging it, the litter skittered and bounced over the steel flooring in ways that would have had Holly really suffering if she was currently occupying the same timestream as them. As it was, it didn’t slow them at all.
 
-They jogged steadily for  several minutes, down a tall but narrow hall lined with equipment whose function Ray couldn’t guess at. Somehow, she’d imagined that the cry facility would be icy, foggy and lit by a pale blue light, but in reality it was just dark and close. The only fog she could see was coming out of their noses, there was no ice that she could detect… without those usual visual cues the grinding cold, her own shivering flesh and the feeling of icy metal slowly chilling her boots all seemed out of place.
+They jogged steadily for  several minutes, down a tall but narrow hall lined with equipment whose function Ray couldn’t guess at. Somehow, she’d imagined that the cryo facility would be icy, foggy and lit by a pale blue light, but in reality it was just dark and close. The only fog she could see was coming out of their noses, there was no ice that she could detect… without those usual visual cues, the grinding cold, her own shivering flesh and the feeling of icy metal slowly chilling her boots all seemed out of place.
 
 Cook chuckled suddenly. “Hey. Ray.”
 
@@ -2773,13 +2773,13 @@ Moho rumbled a laugh. “I just got this mental image of a Hunter bean-counter,�
 
 “Cheap suit, crappy tie…” Miller agreed, picking it up and running with it.
 
-Moho cortled. “Has a novel he keeps meanin’ to write...”
+Moho chortled. “Has a novel he keeps meanin’ to write...”
 
 “Drives a gold Lexus to work...”
 
 “...Listens to his son’s music in a desperate attempt to relate…”
 
-“Nah, nah. He’s listening to the stuff that was on the radio when *he* was a kid and daydreaming about his highschool crush…”
+“Nah, nah. He’s listening to the stuff that was on the radio when *he* was a kid and daydreaming about his high-school crush…”
 
 Titan gave them a Look, then turned back to Jack. “...Tisdale, I think you maybe got saddled with the team weirdos.”
 
@@ -2863,7 +2863,7 @@ That hope was dashed sometime during the third minute when some kind of vehicle 
 
 “Shit,” Ray swore under her breath. She swapped magazines just to give her hands something to do, wished that they’d stop shaking from fear, anticipation and the cold. The metal was making her fingers go numb.
 
-Another minute passed. Then a second. Then a third, but Ray knew better than to let herself hope at this point, not even when Jamie called out “three quarters!”
+Another minute passed. Then a second. Then a third, but Ray knew better than to let herself hope at this point, not even when Jamie called out “Three-quarters!”
 
 His shout was still echoing around the chamber when the *real* Hunters arrived, and calling it a ‘swarm’ turned out to be an understatement.
 
@@ -2871,7 +2871,7 @@ It was a wave, a *flood.* Ray’s trigger finger fired without her conscious inp
 
 Garaaf had been right about the cold, though. These Hunters were staggering and slow even before they rounded the corner, as though the chill of the air alone was enough to badly impair them. The line of corpses their three rifles left further slowed the ones behind.
 
-Heavy pulse fire slapped the control console, damaged it, made Jamie’s forcefield ripple.Garaaf ducked into cover to reload, the press of Hunters gained a little ground. Ray did the same, and they lost a little more. The Hunters paid for each step forward with lives, and the ground had to be slick and treacherous from freezing blood, but the sheer *numbers-!*
+Heavy pulse fire slapped the control console, damaged it, made Jamie’s forcefield ripple. Garaaf ducked into cover to reload, the press of Hunters gained a little ground. Ray did the same, and they lost a little more. The Hunters paid for each step forward with lives, and the ground had to be slick and treacherous from freezing blood, but the sheer *numbers-!*
 
 They only had a few spare magazines, too. Not a lot of ammo, despite the time they’d spent loading them. Building a wall of dead and dying Hunters helped, but by the time Jamie *finally* yelled “Ninety!” Ray was halfway through her penultimate mag, despite Cook’s best efforts to keep her fed.
 
@@ -2881,7 +2881,7 @@ Spears ran dry first, Garaaf a moment behind him, and with only the one rifle to
 
 Ray didn’t need telling twice. She broke cover, retreated up the stairs, firing, firing—
 
-A pulse round punched her right in the head. The world went away for a black second, came back wrong. She couldn’t tell which way was up any longer, her legs just wouldn’t get under her. Cook was at her side, tearing into a Hunter with his knife. He sawed right through its neck, shoved another one aside, turned, stabbed, fought, Ray struggled to find her feet.
+A pulse round punched her right in the head. The world went away for a black second, came back wrong. She couldn’t tell which way was up any longer, her legs just wouldn’t get under her. Cook was at her side, tearing into a Hunter with his knife. He sawed right through its neck, shoved another one aside, turned, stabbed, fought. Ray struggled to find her feet---
 
 The one Cook had pushed aside saw her move and rounded on her, pounced.
 
