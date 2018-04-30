@@ -315,7 +315,7 @@ Regaari suddenly noticed the other humans had snuck away like whispers on the wi
 
 “Form up, Brothers. Something is wrong.” And it was a good thing he said that. The conversation broke and all three men were *livid.*
 
-“CLAN WHITECREST! *TEN—**SHUT!!”***
+“CLAN WHITECREST! *TEN—* ***SHUT!!”***
 
 ‘Horse barked out his order with absolutely terrifying force. It was so sudden, so loud, so *compelling,* Regaari hadn’t needed to say a thing to his Brothers. They *immediately* found themselves standing in absolutely perfect formation and at attention: shoulders square, ears pointed directly forward, as straight and tall on their legs as they could manage—unlike humans, their knees did not lock out—and standing well-planted on their feet, the heels very slightly off the ground. Like all positions of attention, it was mildly uncomfortable and required constant, well, *attention* to execute correctly.
 
