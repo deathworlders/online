@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: Aftermath"
-draft: true
-weight: 6
+weight: 5
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"

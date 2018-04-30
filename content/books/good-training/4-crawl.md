@@ -1,6 +1,5 @@
 ---
 title: "Chapter 4: Crawl"
-draft: true
 weight: 10
 date: 2016-03-14
 lastmod: 2018-04-29

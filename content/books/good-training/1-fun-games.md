@@ -1,6 +1,5 @@
 ---
 title: "Chapter 1: Fun and Games"
-draft: true
 weight: 13
 date: 2016-03-14
 lastmod: 2018-04-29

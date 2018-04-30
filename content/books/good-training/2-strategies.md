@@ -1,6 +1,5 @@
 ---
 title: "Chapter 2: Strategies"
-draft: true
 weight: 12
 date: 2016-03-14
 lastmod: 2018-04-29

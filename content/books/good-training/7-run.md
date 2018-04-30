@@ -1,6 +1,5 @@
 ---
 title: "Chapter 7: Run"
-draft: true
 weight: 7
 date: 2016-03-14
 lastmod: 2018-04-29

@@ -1,6 +1,5 @@
 ---
 title: "Chapter 8: Fetch"
-draft: true
 weight: 6
 date: 2016-03-14
 lastmod: 2018-04-29

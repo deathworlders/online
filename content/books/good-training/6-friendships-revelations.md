@@ -1,6 +1,5 @@
 ---
 title: "Chapter 6: Friendships & Revelations"
-draft: true
 weight: 8
 date: 2016-03-14
 lastmod: 2018-04-29
