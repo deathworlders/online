@@ -1651,7 +1651,7 @@ Genshi didn’t so much as twitch an ear. “...I don’t.”
 
 “Good question. Besides the Humans, which relationships are gonna actually *matter?”*
 
-Meeyo was absent, dealing with the summit on the *Rich Plains* out over the ruins of Gorai, but his Champion-in-Stead, Tagro, was a bold one. “The Humans are a military ally, My Father, but they’re the least economically developed trading species. If the Dominion chose to impose sanctions on us—and we must assume that under Hierarchy influence they absolutely *will* if given a half-decent excuse—it could cripple the reconstruction, set it back by generations.”
+Sheeyo was absent, dealing with the summit on the *Rich Plains* out over the ruins of Gorai, but his Champion-in-Stead, Tagro, was a bold one. “The Humans are a military ally, My Father, but they’re the least economically developed trading species. If the Dominion chose to impose sanctions on us—and we must assume that under Hierarchy influence they absolutely *will* if given a half-decent excuse—it could cripple the reconstruction, set it back by generations.”
 
 “Again, I don’t hear an answer to my question,” Daar noted. His patience was approaching legendary as far as Fiin was concerned. A young ‘Back who danced around the direct answers like that would have earned a hefty clawed blow to set him right. But the reconstruction was *important* to Daar. It was the difference between being the Gao’s savior, rather than their destroyer. He wasn’t about to jeopardize it without a very good reason.
 
