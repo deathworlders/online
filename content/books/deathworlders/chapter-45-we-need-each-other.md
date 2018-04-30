@@ -85,6 +85,10 @@ Ray looked him calmly in the eye. “...You done?”
 
 He glared at her a moment longer then made a disgusted noise and stalked off to keep exploring their new ship.
 
+Freed, she took a deep breath to steady herself and turned up the short stretch of deck that terminated in the flight deck, where Spears had taken the controls and managed to get them off the ground with commendable speed.
+
+There was nothing but blue sky above them as she entered. "How are we doing?"
+
 Berry hushed her. He was lurking at the back next to Holly, who was sitting on her ammo cans. Spears was perched awkwardly in a seat meant for something twice his height with twice as many limbs and the proportions of a nightmarish stick insect. God only knew how he was reading the controls, but then again Ray guessed that mostly spaceships behaved in predictable ways and needed roughly similar solutions to controlling them. His right hand was resting on a blue holographic ball right in front of him, rolling it around while his other hand darted here and there swiping through other controls.
 
 None of them knew the first thing about what any of the runes, glyphs and dense code decals meant and none of them cared to: All that mattered was that Spears had got them in the air, and they were now shooting the hell away from Hell on every spare erg of juice that Jamie could coax from the reactors.
@@ -192,11 +196,13 @@ The challenge of how to *achieve* this much-needed bit of maintenance from its c
 
 The inherent problem it faced was that it had no power. Not only that, but significant power was arrayed against it to keep things that way. Any Builder which so much as interacted with it was likely to be flayed alive and the skin hung behind the Alpha-of-Alpha’s throne.
 
-Without other Builders, it could not expect to replace its missing cybernetics. Without those cybernetics it was crippled, slow, blind and helpless. It couldn’t access the Hive’s computer systems, nor put into action any of its plans.
+The Builders were loyal. They shared its sense of injustice. But they were grossly outnumbered and viewed with constant suspicion.
 
-It *could,* in theory, restore its missing upgrades—or at least, sufficient of them—in any surgical unit on the whole ring. But only if something, somehow, distracted the Builders that worked there along with any Eaters that might also be around.
+They couldn't act, not without appropriate cover... and without other Builders, the former Alpha could not expect to replace its missing cybernetics. Without those cybernetics it was crippled, slow, blind and helpless. It couldn’t access the Hive’s computer systems, nor put into action any of its plans.
 
-It would have to be something enormous. Something unprecedented.
+It *could,* in theory, restore its missing upgrades—or at least, sufficient of them—in any surgical unit on the whole ring. But only if something, somehow, distracted the Eaters that guarded them.
+
+Such a distraction would have to be something enormous. Something unprecedented.
 
 ...A stolen swarmship full of Humans would do nicely.
 
@@ -377,7 +383,7 @@ Ray glanced at Berry, who held her gaze for a second then looked down and turned
 
 “The fuck is a quantum stack?” Ray asked.
 
-Jamie shrugged and slumped down onto one of the torturous seats around the back wall. “Beats the hell outta me. Magical energy from nowhere, near as I can tell. We knew about them from  that ET briefing document Scotch Creek released way back when, but there may as well be leprechaun on bicycles back there for all I understand how it works.”
+Jamie shrugged and slumped down onto one of the torturous seats around the back wall. “Beats the hell outta me. Magical energy from nowhere, near as I can tell. We knew about them from  that ET briefing document Scotch Creek released way back when, but there may as well be a leprechaun on a bicycle back there for all I understand how it works.”
 
 “So. We have twelve years of power, a water reprocessor and a cloaking device,” Spears summarized. “But we’re bingo on food. That about right?”
 
