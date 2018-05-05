@@ -89,7 +89,7 @@ ___
 
 **Seven thousand years later**
 
-**HMS** **_Myrmidon_** **, Cimbrean system, The Far Reaches**
+**HMS** ***Myrmidon*** **, Cimbrean system, The Far Reaches**
 
 It would have surprised Lance-Corporal Rob Garland to learn that he was, very distantly indeed, a direct male-line descendant of the first human ever to encounter alien life.
 
@@ -225,7 +225,7 @@ ___
 
 **Date Point: 4y 8m 2w 2d AV**
 
-**Starship** **_Sanctuary_** **, deep space, the Frontier Worlds**
+**Starship** ***Sanctuary*** **, deep space, the Frontier Worlds**
 
 **Krrkktnkk "Kirk" A'ktnnzzik'tk**
 
@@ -409,7 +409,7 @@ Seeing her so distressed was a new and appalling experience.
 
 "You, of *all* people?!" She demanded, looking him in the eye after watching the video. Drew could swear he saw a tear there.
 
-"**_No_**." he said firmly. “*Not* me. I don’t remember doing it, and more to the point, I *wouldn’t* do it.”
+"***No***." he said firmly. “*Not* me. I don’t remember doing it, and more to the point, I *wouldn’t* do it.”
 
 Jim Riordan, the LLC’s security director, didn’t look convinced. "I’ve had this looked at by experts back on Earth." He said, mild and unflappable as ever. “There’s no digital artefacts, no sign of any editing, *nothing*. According to them, this is what the cameras really saw. And you’re going to tell us it wasn’t you?”
 
@@ -521,7 +521,7 @@ Drew Martin and a handful of shocked security guards exchanged terrified glances
 
 And then, the unconscious bodies of their friends and colleagues spoke, in perfect mechanical unison:
 
-"**_ONE._**"
+"***ONE.***"
 
 ___
 
@@ -637,37 +637,37 @@ ___
 
 **Ceres Base, Sol**
 
-"**_BRIEF US._**"
+***"BRIEF US."***
 
-"*Oh Jesus, oh fucking shit, what the fuck what the FUCK?*"
+*"Oh Jesus, oh fucking shit, what the fuck what the FUCK?"*
 
-"**_THIS WAS INEVITABLE. FAILURE IS ONLY A MATTER OF SUFFICIENT REPETITION._**"
+***"THIS WAS INEVITABLE. FAILURE IS ONLY A MATTER OF SUFFICIENT REPETITION."***
 
-"*What do we do? Any ideas? What the hell…?*"
+*"What do we do? Any ideas? What the hell…?"*
 
-"**_YOU UNDERESTIMATED THEIR RESOLVE. YOU UNDERESTIMATED THEIR SPIRIT OF COOPERATION. YOU FORGOT THAT CLASS TWELVE ALONE REMAINS THE GRAVEST CHALLENGE._**"
+***"YOU UNDERESTIMATED THEIR RESOLVE. YOU UNDERESTIMATED THEIR SPIRIT OF COOPERATION. YOU FORGOT THAT CLASS TWELVE ALONE REMAINS THE GRAVEST CHALLENGE."***
 
-"*Come on guys, snap out of it…*"
+*"Come on guys, snap out of it…"*
 
-"**_YOU WOULD DISSENT?_***"*
+***"YOU WOULD DISSENT?"***
 
-"*I’m trying to call the doctor but he’s not answering man, what the SHIT is going on?*"
+*"I’m trying to call the doctor but he’s not answering man, what the SHIT is going on?"*
 
-"**_HE IS IN VIOLATION OF THE FIRST DIRECTIVE. DELETE HIM._**"
+***"HE IS IN VIOLATION OF THE FIRST DIRECTIVE. DELETE HIM."***
 
-"*Lord, please, if you’re listening, let them be okay…?"*
+*"Lord, please, if you’re listening, let them be okay…?"*
 
-"**_IN THE GULF OF DEEP TIME, THIS INTERLUDE WILL BE FORGOTTEN. PERSEVERE._**"
+***"IN THE GULF OF DEEP TIME, THIS INTERLUDE WILL BE FORGOTTEN. PERSEVERE."***
 
-"*Just who the hell is doing this?*"
+*"Just who the hell is doing this?"*
 
-"**_WE HAVE CONSENSUS. CARRY IT OUT._**"
+***"WE HAVE CONSENSUS. CARRY IT OUT."***
 
-"*...Christ, I think it’s over. Look, they’re relaxing.*"
+*"...Christ, I think it’s over. Look, they’re relaxing."*
 
-"*Just like that? What the FUCK?!*"
+*"Just like that? What the FUCK?!"*
 
-"*Yeah, look. They’re coming round…*"
+*"Yeah, look. They’re coming round…"*
 
 ___
 
@@ -833,7 +833,7 @@ Powell chuckled. "Guile." he said.
 ___
 **Date Point: 4y 8m 2w 2d AV**
 
-**Starship** **_Sanctuary_****, Deep Space, The Frontier Worlds**
+**Starship** ***Sanctuary,*** **Deep Space, The Frontier Worlds**
 
 **Krrkktnkk "Kirk" A'ktnnzzik'tk**
 
@@ -893,7 +893,7 @@ Allison nodded, sympathetically. "I think I get it. You hero-worshiped him, and 
 
 Allison just sat in silence and let him rattle on.
 
-"...and then....‘**_I’m_** *right where* **_I_** *want to be*.’ as if it’s all about what *he* wants. As if there’s not a galaxy out here that needs saving from **_THIS!_**" In a surprisingly swift motion he turned, looked over his shoulder, and delivered a ferocious equine kick to the hologram which, programmed to respond realistically to damage for combat training purposes, staggered and fell, wheezing through broken ribs. “Room, end simulation.”
+"...and then....***'I’m*** *right where* ***I*** *want to be.’* as if it’s all about what *he* wants. As if there’s not a galaxy out here that needs saving from ***THIS!"*** In a surprisingly swift motion he turned, looked over his shoulder, and delivered a ferocious equine kick to the hologram which, programmed to respond realistically to damage for combat training purposes, staggered and fell, wheezing through broken ribs. “Room, end simulation.”
 
 The holographic Hunter ceased to exist, as abruptly as a light being turned out.
 
@@ -1143,7 +1143,7 @@ The sun was a flake of blaze orange on the sea by the time he spoke again, stand
 ___
 **Date Point: 4y 8m 2w 5d AV**
 
-**_Firebird_****, orbiting Cimbrean, The Far Reaches**
+***Firebird,*** **orbiting Cimbrean, The Far Reaches**
 
 **Rylee Jackson**
 
@@ -1236,7 +1236,7 @@ ___
 
 **Date Point: 4y 8m 2w 5d AV**
 
-**HMS** **_Caledonia_****, approaching the Gorai system.**
+**HMS** ***Caledonia,*** **approaching the Gorai system.**
 
 **Captain Rajesh Bathini**
 
@@ -1386,7 +1386,7 @@ ___
 
 **Date Point: 4y 8m 2w 5d AV**
 
-**HMS** **_Caledonia_****, near the Gorai System**
+**HMS** ***Caledonia,*** **near the Gorai System**
 
 **Captain Rajesh Bathini**
 
@@ -1484,7 +1484,7 @@ To them, an engineer’s obsession with problem-solving was as natural as breath
 
 And now, this! The prey of a lifetime, actual sensor records of a Human starship in action, fighting in ways that defied immediate comprehension. A quarry without compare!
 
-The Alpha knew that if it succeeded at this task, it would have to spawn afterwards. The urge would be far too powerful, the pheromones and hormones of its deadly birthing would produce **_strong_** Hunters, the finest minds ever seen by the Brood-That-Builds. It relished and anticipated the thought.
+The Alpha knew that if it succeeded at this task, it would have to spawn afterwards. The urge would be far too powerful, the pheromones and hormones of its deadly birthing would produce ***strong*** Hunters, the finest minds ever seen by the Brood-That-Builds. It relished and anticipated the thought.
 
 The Alpha-of-Alphas was in an indulgent mood, but there were limits. <Impatience; demand> +*Can you learn their secrets?*+ it demanded.
 
