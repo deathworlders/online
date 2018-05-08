@@ -11,7 +11,7 @@ aliases:
 
 **++Proximate++:** What did you ***do***?
 
-**++Cynosure++:** I was restored from backup, remember. If any version of me is responsible for this… *thing*… then I have no memory of it.
+**++Cynosure++:** I was restored from backup, remember. If any version of me is responsible for this… *thing…* then I have no memory of it.
 
 **++Substrate++:** You are the only one who got a good look at it. What is it?
 
@@ -85,11 +85,11 @@ ___
 
 ***Xiù Chang***
 
-*Misfit*’s second flight was all about putting her through her paces with a tour of the solar system, culminating in the much advertised Martian landing.
+*Misfit’s* second flight was all about putting her through her paces with a tour of the solar system, culminating in the much advertised Martian landing.
 
 Today’s objective was a flyby of Saturn that also gave Xiù the opportunity to practice planetary system navigation in the real world. The Group, never one to miss a trick, had taken the opportunity to invite several prominent astronomers to Omaha so that they could, via the superluminal wake comms, watch the flyby in nearly real time and request detailed examinations of whatever features took their fancy.
 
-Xiù had spent a busy day flitting at low-power sublight warp from vantage point to vantage point while Julian had trained *Misfit*’s cameras, RADAR, ESDAR and particle detectors on whatever the increasingly ecstatic scientists had asked.
+Xiù had spent a busy day flitting at low-power sublight warp from vantage point to vantage point while Julian had trained *Misfit’s* cameras, RADAR, ESDAR and particle detectors on whatever the increasingly ecstatic scientists had asked.
 
 In ten hours, they had expanded the sum total of humanity’s data on Sol’s crown jewel by orders of magnitude and all, according to Allison, without taxing their power supply at all. This after working their way steadily outwards through the whole solar system. They’d begun with Mercury, where the Sun’s formidable presence had kept Allison worker-bee busy balancing the heat and power and Xiù had been compelled to dive into the planet’s shadow on a regular basis. Ericson had promised to have a software update run up that would allow them to run the forcefields in a reflective configuration.
 
@@ -101,7 +101,7 @@ Overnight, in orbit over Callisto, they had hastily researched their Greco-Roman
 
 From there, it had been on to Saturn, which was an even greater trove of new finds.
 
-Xiù was delighted for Allison, too: Her job had turned out to be more involved and interesting than she’d feared, and the process of angling *Misfit*’s WiTChES fields and fine-tuning their size to balance power demands was one she likened to kite surfing.
+Xiù was delighted for Allison, too: Her job had turned out to be more involved and interesting than she’d feared, and the process of angling *Misfit’s* WiTChES fields and fine-tuning their size to balance power demands was one she likened to kite surfing.
 
 “There’s an art to it!” she beamed enthusiastically when their shift finally ended, as they orbited deceptively high above the ring system. Out the porthole window the rings looked like a solid floor extending out to a skewed horizon, but in reality they were half a light-second above them. “The simulator just didn’t catch what it’s really like. You can almost *feel* the solar wind.”
 
@@ -183,7 +183,7 @@ Allison aimed an exaggerated but amused pout at her then, when this failed to el
 
 Xiù cleared her stuff away and stowed it in the personal storage inside the top bunk---nominally *her* bunk, not that any of them ever slept in the bunks any longer---and sidled up to Julian to slide her hands around his waist and cuddle him from behind.
 
-“*Miāo?*”
+*“Miāo?”*
 
 He looked over his shoulder at her with a smile. “What was that?”
 
@@ -193,7 +193,7 @@ He looked over his shoulder at her with a smile. “What was that?”
 
 Xiù laughed, stood on tiptoes to kiss him, then let go and threw herself into Allison’s lap instead.
 
-“*Miāo!*”
+*“Miāo!”*
 
 “Well *you’re* in a good mood…” Allison stroked her hair.
 
@@ -649,7 +649,7 @@ Jack nodded wearily, glad for the break, and teetered upright to grab his lunch 
 
 “...My lunch?”
 
-“*This?!*” Adam snatched it out of his hand and inspected it. “...Bro, this is one slice of white bread, folded over with…” he opened it and peered inside. “...margarine, tuna paste and three Doritos.” He brandished it accusingly. “The fuck?”
+*“This?!”* Adam snatched it out of his hand and inspected it. “...Bro, this is one slice of white bread, folded over with…” he opened it and peered inside. “...margarine, tuna paste and three Doritos.” He brandished it accusingly. “The fuck?”
 
 Aware that the other guys in the room were nudging each other and grinning, Jack gritted his teeth and, with his ears going pink, he held his ground. “That’s my favourite sandwich!”
 
@@ -701,7 +701,7 @@ Somebody laughed, and that asshole *immediately* got to see Adam’s other side-
 
 Adam snorted, and melted a bit. “Heh. Fine. But I may as well be right now, bro. Seriously, hasn’t your dad explained this shit? Mark knows gains.”
 
-“Oh come on, *everybody*’s parents tell them to eat more…” Jack protested.
+“Oh come on, *everybody’s* parents tell them to eat more…” Jack protested.
 
 Adam sighed and looked skywards. “*Me cago en Cristo*, was I literally the only fifteen-year-old in history who actually *listened* to his father?”  he asked rhetorically.
 
@@ -1020,25 +1020,25 @@ The unit was frustratingly close to striking distance when the priority override
 
 **++0014++:** *Welcome,* ***0665.***
 
-**++0665++:** *<Frustration> Now is not a good time.*
+**++0665++:** *< Frustration > Now is not a good time.*
 
-**++0014++.** *<Stern reprimand> This is an emergency reassignment. Whatever you were doing is less important.*
+**++0014++.** *< Stern reprimand > This is an emergency reassignment. Whatever you were doing is less important.*
 
-**++0665++:** *<Explanation> I will have to restart a whole cull from first principles.*
+**++0665++:** *< Explanation > I will have to restart a whole cull from first principles.*
 
 **++0014++:** *Unfortunate, but I repeat: This is more important.*
 
-**++0665++:** *<Resignation, mounting concern> Understood. I await instructions.*
+**++0665++:** *< Resignation, mounting concern > Understood. I await instructions.*
 
 **++0014++:** *We are waiting for three more.*
 
 **++SYSTEM++:** User **0282** Joined
 
-**++0014++:** *Welcome,* ***0282**.*
+**++0014++:** *Welcome,* ***0282.***
 
-**++0282++:** *<Irritation> This had better be important.*
+**++0282++:** *< Irritation > This had better be important.*
 
-**++0665++:** *<grim humor> That was my sentiment.*
+**++0665++:** *< grim humor > That was my sentiment.*
 
 **++SYSTEM++:** *User* ***0098*** *Joined.*
 
@@ -1050,15 +1050,15 @@ The unit was frustratingly close to striking distance when the priority override
 
 **++SYSTEM++:** *User* ***0002*** *Joined.*
 
-**++0014++:** *<deference> ...welcome,* ***0002***.
+**++0014++:** *< deference > ...welcome,* ***0002***.
 
-**++0002++:** *<Terse briefing> We have identified a traitor physical hub. We don’t know what data they are archiving there, but we believe they intend to share it with the humans. We are probing its dataspace periphery as I speak, but successful intrusion seems unlikely. Therefore we are assigning you to destroy the hardware in meatspace. We anticipate that the traitors will assign their own meatspace assets to resist.*
+**++0002++:** *< Terse briefing > We have identified a traitor physical hub. We don’t know what data they are archiving there, but we believe they intend to share it with the humans. We are probing its dataspace periphery as I speak, but successful intrusion seems unlikely. Therefore we are assigning you to destroy the hardware in meatspace. We anticipate that the traitors will assign their own meatspace assets to resist.*
 
 **++SYSTEM++:** Datapackage Available for Access
 
 Six-six-five was so stunned that he briefly lost control of the Corti body he was wearing, which blinked and looked around in confused disbelief as its original owner’s personality reasserted itself in the moment before he recovered his composure and took over again. Hastily, he downloaded the Datapackage.
 
-It contained a clear and concise briefing of what he was to do, where he was to go and whom he was to control, and it was an absolute death-knell for his Cull. Not only was he going to have to start over from basic principles, he would have to terminate his present host and it would be [*months*] before he could find a suitable replacement and engineer an excuse to slip away into deep space, travel to this planet, excavate his own command bunker and start over.
+It contained a clear and concise briefing of what he was to do, where he was to go and whom he was to control, and it was an absolute death-knell for his Cull. Not only was he going to have to start over from basic principles, he would have to terminate his present host and it would be *months* before he could find a suitable replacement and engineer an excuse to slip away into deep space, travel to this planet, excavate his own command bunker and start over.
 
 He buried his resentment. Fourteen had been accurate: this was more important.
 
@@ -1068,9 +1068,9 @@ He buried his resentment. Fourteen had been accurate: this was more important.
 
 **++0002++:** *Overt. Contain. Amputate. Escalate.*
 
-Well. Instructions simply didn’t come more brute-force than that. In the grid of Hierarchy discretion codes, *’Overt Contain Amputate Escalate’* translated to: *’Do not be subtle. Take over as quickly as you can, kill all witnesses and silence all communications, destroy everything when you are done and let senior agents worry about damage control’*.
+Well. Instructions simply didn’t come more brute-force than that. In the grid of Hierarchy discretion codes, *'Overt Contain Amputate Escalate’* translated to: *'Do not be subtle. Take over as quickly as you can, kill all witnesses and silence all communications, destroy everything when you are done and let senior agents worry about damage control’*.
 
-**++0002++:** *<Impatience> Any other questions?*
+**++0002++:** *< Impatience > Any other questions?*
 
 **++0014++:** *None.*
 
@@ -1094,7 +1094,7 @@ Six-six-five hastily interrogated his new host’s suppressed personality for an
 
 “...Sorry sir.”
 
-Clearly this particular shipmaster was a devotee of the *’fear and awe’* school of leadership-by-bullying. That suited Six-six-five’s purposes just fine---the Vzk’tk subordinate’s timid silence bought him time to riffle through the host’s memories, awareness and skill-set, draw what he needed into short term access, and enact a plan.
+Clearly this particular shipmaster was a devotee of the *'fear and awe’* school of leadership-by-bullying. That suited Six-six-five’s purposes just fine---the Vzk’tk subordinate’s timid silence bought him time to riffle through the host’s memories, awareness and skill-set, draw what he needed into short term access, and enact a plan.
 
 Step one: Walk round the desk. Step two, execute a rapid series of command overrides far too quickly for any meat creature using a clunky physical interface to achieve using the shipmaster’s access codes.
 
@@ -1651,7 +1651,7 @@ She was on her feet now, though, and she pointed to the far end of the valley wi
 
 They looked up. The home of the gods was coming down perfectly at the apex of the far end of the valley, and the light sheened brilliantly off the surface of some lake or pool up there and on the ribbon of water that meandered down from it.
 
-“*Light in a high place…*” Yan whispered. “By the gods. My words of manhood.”
+*“Light in a high place…”* Yan whispered. “By the gods. My words of manhood.”
 
 “Well. That’s a good omen if ever I saw one,”  the Singer said. “Well done, Given Man.”
 
