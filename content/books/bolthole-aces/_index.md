@@ -1,5 +1,6 @@
-# Bolthole Aces
-
++++
+title = "Bolthole Aces"
++++
 ## Welcome!
 
 Bolthole Aces is set in the HFY Jenkinsverse as created by Hambone and others, initially on 4chan and Reddit. While [Deathworlders](https://www.patreon.com/HamboneHFY), [Salvage](https://www.patreon.com/Rantarian), [Humans don’t Make Good Pets](https://www.reddit.com/r/HFY/comments/2flz4o/oc_humans_dont_make_good_pets_i/), [Origins](https://www.reddit.com/r/HFY/wiki/series/deathworld_origins), and [Good Training](http://deathworlders.com/books/good-training/) are not required reading to enjoy Bolthole Aces, I highly recommend reading them for the enjoyment alone as well as how they inform some of the more subtle parts of this story. 
