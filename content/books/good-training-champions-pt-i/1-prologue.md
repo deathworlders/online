@@ -10,8 +10,6 @@ author: "Justin L. Croonenberghs (ctwelve)"
 Warhorse’s room, HMS Sharman, Folctha, Cimbrean  
 Immediately prior to beginning of “Run” phase
 
-## Prologue
-
 **Sergeant Regaari (Dexter) of Clan Whitecrest**
 
 The worst thing about formal letters was how short and curt they were by nature. Though given the subject at hand, and the revelations of DEEP RELIC fresh in Regaari’s mind, in-message detail was a risk he could not afford, either by his recent oath or by the prudence required of the situation. He was reluctant to trust even Whitecrest’s impressive communications security; this was a task for a face-to-face meeting, and one serious enough that, of all the powerful figures in Clan Whitecrest that Regaari might presumably influence, only the Champion could possibly be trusted.
