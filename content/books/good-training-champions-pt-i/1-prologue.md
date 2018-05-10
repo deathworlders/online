@@ -4,8 +4,6 @@ date: 2016-07-29
 lastmod: 2018-05-10
 weight: 4
 author: "Justin L. Croonenberghs (ctwelve)"
-aliases:
-  - /book/good-training-champions-pt-i/prologue
 ---
 
 **11y, 7m AV**  
