@@ -1,4 +1,4 @@
-+++
-type = "menu"
-layout = "listbooks"
-+++
+---
+type: menu
+layout: listbooks
+---

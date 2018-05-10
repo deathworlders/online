@@ -1,4 +1,4 @@
-+++
-type = "_default"
-layout = "list"
-+++
+---
+type: _default
+layout: list"
+---
