@@ -6,8 +6,6 @@ weight: 1
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
-## Gametime
-
 **That same evening**  
 Apartment, Delaney Row, Foltcha, Cimbrean, the Far Reaches
 
