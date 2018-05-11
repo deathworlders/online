@@ -1,5 +1,17 @@
 {{ partial "header" . }}
 
+<section id="list">
+
+    {{ $baseurl := .Site.BaseURL }}
+
+    {{ .Content }}
+
 {{ partial "listdir" . }}
+
+</section>
+
+
+
+
 
 {{ partial "footer" . }}
