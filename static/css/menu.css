@@ -1,0 +1,17 @@
+.books-header-li {
+    margin-bottom: 1em;
+}
+
+.books-header {
+    font-weight: bold;
+}
+
+.books-header.right {
+    float: right
+}
+  
+.books-list {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
