@@ -57,7 +57,7 @@ Meereo wasn’t about to challenge him.
 
 **WURF!!**
 
-Meereo’s ears flattened of their own accord. That…<em>sound<em>…was boisterous and obviously cheerful, but it was so loud it was slightly painful.
+Meereo’s ears flattened of their own accord. That…<em>sound</em>…was boisterous and obviously cheerful, but it was so loud it was slightly painful.
 
 “Yup, that’s him.”
 
