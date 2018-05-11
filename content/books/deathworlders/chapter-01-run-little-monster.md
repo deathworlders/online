@@ -55,34 +55,34 @@ of vocalizing, but that clumsy mechanism was reserved only for speaking with
 other Broods. Within each Brood, the intimate cybernetic wiring that allowed
 full thoughts to be sent in their entirety had made language entirely redundant.
 
-One said: *+<Trepidation; question>+* "The watchful Prey have not seen us?""
+One said: *+< Trepidation; question >+* "The watchful Prey have not seen us?""
 
-Another said: *+<Confidence; statement>+* "They have not." *+<sneering>+* "Nor
+Another said: *+< Confidence; statement >+* "They have not." *+< sneering >+* "Nor
 have the beast prey."
 
 This provoked a wave of amusement that circled around the entire Brood. By their
 standards, the wry assumption that a non-sentient Prey species could hope to
 detect a cloaked Hunter vessel was the height of humour.
 
-The youngest said: *+<fear; query>+* "The Prey are a deathworld species. We saw
+The youngest said: *+< fear; query >+* "The Prey are a deathworld species. We saw
 what just one of them did to the Brood of Five Poisons. Respectfully, Alpha, are
 we sure that all of our Brood shall return from this hunt?"
 
-Alpha said: *+<Impatience; terse rebuke; instruction>+* "If you fear them so,
+Alpha said: *+< Impatience; terse rebuke; instruction >+* "If you fear them so,
 you may remain aboard the transport."
 
 It---their species did not reproduce in a gendered manner analogous to male and
 female---addressed the remainder as the youngling radiated sullen apology.
-*+<inspiring reminder>+* "We are the Hunters, they are the Prey. Death planet or
+*+< inspiring reminder >+* "We are the Hunters, they are the Prey. Death planet or
 not, we will have the technological advantage and surprise. An ambushed prey is
 meat in the maw. Our cousin-Broods will remember our triumph as we return with
 trophies from this formidable prey, they will know our courage and our skill.
 And for the prey, they will know their place in the order of things."
 
 It turned to the one that operated their ship's electronic warfare suite.
-*+<Query>+* "Do you have an appropriately high-profile target?"
+*+< Query >+* "Do you have an appropriately high-profile target?"
 
-That one replied *+<statement>+* "I do, Alpha. Their whole species will witness
+That one replied *+< statement >+* "I do, Alpha. Their whole species will witness
 our hunt."
 
 The Brood vocalised as one for the first time, expressing their approval. The
@@ -177,13 +177,13 @@ some minor static in the transmissions coming from within, which were quickly
 compensated for by the small army of technicians who kept the broadcast going
 out all over the world.
 
-*+<Query; intrigued>+* "Combat trials, perhaps? Ritualized training to do battle
-*in cold-weather conditions?"
+*+< Query; intrigued >+* "Combat trials, perhaps? Ritualized training to do battle
+in cold-weather conditions?"
 
-*+<Terse; impatient>+* "We are not anthropologists! Brace yourself, siblings. We
+*+< Terse; impatient >+* "We are not anthropologists! Brace yourself, siblings. We
 drop in a full hand of pulses."
 
-*+<Eager; aggressive>+* "Meat to the maw!"
+*+< Eager; aggressive >+* "Meat to the maw!"
 
 The traditional hunting cry reverberated in silence among their collective
 minds, and then their boarding torpedoes erected their stasis fields, keeping
@@ -277,12 +277,12 @@ By now on TV, the crowd were roaring at full volume: **"Kick their ass! Kick**
 
 ---
 
-Alpha broadcast: *+<Shock; dismay; terror; disbelief; shame>+*
+Alpha broadcast: *+< Shock; dismay; terror; disbelief; shame >+*
 
 Then one of the Prey hurtled towards it, at speeds that simply defied
 understanding.
 
-The last thing it ever broadcast was: *+<PAIN!>+*
+The last thing it ever broadcast was: ***+< PAIN! >+***
 
 ---
 
