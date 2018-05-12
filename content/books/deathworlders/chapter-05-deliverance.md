@@ -19,7 +19,7 @@ Amir knew what the answer would be, but he had to ask anyway. It was how things 
 
 Amir shook his head. "You know that's *haram."* he said. It was their one constant conflict that Muhammad was only a Muslim when it was convenient. The rest of the time, he was just another nineteen-year-old, high on life and not interested in the consequences.
 
-"We're all sinners, bruv." Muhammad told him, amicably.
+"We're all sinners, bruv," Muhammad told him, amicably.
 
 Amir turned away. "I'll see you tomorrow," he called over his shoulder.
 
@@ -69,9 +69,7 @@ Instead, what stepped out and blinked in the sunlight was a six-legged being ful
 
 This was, apparently, some kind of a language, because once it had finished clicking, the little device on the ground spoke in flawless, though unaccented, English.
 
-"Please, I couldn't harm you even if I wanted to. You don't need the spear, Mr.
-
-Bahmani."
+"Please, I couldn't harm you even if I wanted to. You don't need the spear, Mr. Bahmani."
 
 Amir practically fell over. It had been *years* since he had last heard any human language at all, let alone his name.
 
@@ -87,7 +85,7 @@ This generated a chattering sound from the being's lower abdomen, which he decid
 
 The being made a gesture that he couldn't identify---its body language was unreadable.
 
-"I paid good money to get my hands on a copy of your abductor's records," It told him. "My name is..." *<an unintelligible sound like plastic beads in a blender>* "...but other humans have nicknamed me 'Kirk.'"
+"I paid good money to get my hands on a copy of your abductor's records," It told him. "My name is..." *[an unintelligible sound like plastic beads in a blender]* "...but other humans have nicknamed me 'Kirk.'"
 
 "Kirk...like, Star Trek?"
 
@@ -99,7 +97,7 @@ The being made a gesture that he couldn't identify---its body language was unrea
 
 "You'll take me home?!" Hope swelled in Amir for the first time in a long while.
 
-Earth! people! He mentally corrected himself at that one---*Human* people!
+Earth! people! He mentally corrected himself at that one---<em>Human</em> people!
 
 "If only I could." Kirk told him. "But Earth is...well. The focus of much attention right now." He looked around at Amir's camp. "Actually, I'll just be blunt about it. The rest of the galaxy found out about your species and collectively shit themselves in fear. Earth has been quarantined---they put up a force field around the whole solar system, nothing gets in or out. I...disagree with that decision. I have a plan, and it starts with finding every abductee I can and offering them the hope of a way home."
 
@@ -145,7 +143,7 @@ Jenkins shrugged, ignoring a lab-coat's protest to keep his head still. "Left ha
 
 "The Dominion couldn't find whatever passes for their ass with whatever passes for their hands without three policy meetings and a vote." Jenkins replied, tersely. It wasn't *quite* a snap, and certainly not aimed at the officer, but there was definitely bitterness in the way he said it. "It's all there in the manual."
 
-"And what's in the manual is disturbing." Tremblay said. He turned a page, and arched an eyebrow. "Roswell Greys? *Really*?"
+"And what's in the manual is disturbing." Tremblay said. He turned a page, and arched an eyebrow. "Roswell Greys? *Really?"*
 
 "That was pretty much my reaction." Jenkins said. He had a resigned expression as one of the scientists laid a ruler against his scalp and took a picture.
 
@@ -173,7 +171,7 @@ He shrugged helplessly. "The worst nightmares in the galaxy and some random bark
 
 Sung cocked his head to one side, curiously. "Being powerful scares you?"
 
-"I didn't do shit to deserve it, you know? It's not like you can just say "Hey, I *earned* that", we're, like, Kryptonians. We're Superman, and the worst part is *we*---the human race, right?---we never had Ma and Pa Kent to teach us to be all about protecting people and all that shit. Before Vancouver, every day the news was full of the latest trending fucking atrocity."
+"I didn't do shit to deserve it, you know? It's not like you can just say "Hey, I *earned* that," we're, like, Kryptonians. We're Superman, and the worst part is *we*---the human race, right?---we never had Ma and Pa Kent to teach us to be all about protecting people and all that shit. Before Vancouver, every day the news was full of the latest trending fucking atrocity."
 
 He stood up, raised his arms and adopted a goofy parody of a TV presenter. "It's time for Wheel of Paedophile, where we reveal which TV icon of yesteryear was fiddling little girls! And after that, which journalist got beheaded for God today, kids? Tune in and find out on *The Humanity Show!"* The moment of sarcastic enthusiasm died, and he sagged back down. "Hell, it'd still be full if that shit right now if we didn't have bigger things on our minds. And pretty soon we're going to go back to being fucked up to each other when it turns out that whatever we do we're still, like, probably years from even heading out to the barrier and knocking."
 
@@ -373,7 +371,7 @@ The way they exit those pods."
 
 "It's not aggressive enough." Tremblay said. when Sung raised an eyebrow and gestured  a need for more information, he stood up and put down his coffee.
 
-"Okay, so when a soldier enters a hostile area full of known threats, they move like *this*..."
+"Okay, so when a soldier enters a hostile area full of known threats, they move like *this..."*
 
 Miming holding a gun, he barged forward, pretend weapon tucked tight into his shoulder and pointed almost along his sightline, weight forward, posture loose but coiled, ready to spring in any direction as danger demanded. Sung blinked and the general was half-way through dropping some virtual targets with a volley of precise shots. The burst of simulated violence lasted no more than a second or two before he relaxed again.
 
