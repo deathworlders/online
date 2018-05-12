@@ -23,23 +23,23 @@ thup, thup...thup, thup...thup, thup...
 
 *[click]*
 
-*100% chance of rain, but we got a great match-up tonight, Washington taking on the Dallas Cowboys...*
+*"100% chance of rain, but we got a great match-up tonight, Washington taking on the Dallas Cowboys..."*
 
 *[click]*
 
-*...results are in from across the globe as China announced their representative for the first meeting of the Global Representative Assembly, and not a moment too soon with the Assembly's first meeting taking place next week in Cape Town, South Africa to appoint the world's ambassador in space. CRAZY, right? And just think, this time three years ago we thought the alien abduction people were all wack-jobs...*
+*"...results are in from across the globe as China announced their representative for the first meeting of the Global Representative Assembly, and not a moment too soon with the Assembly's first meeting taking place next week in Cape Town, South Africa to appoint the world's ambassador in space. CRAZY, right? And just think, this time three years ago we thought the alien abduction people were all wack-jobs..."*
 
 "Most were."
 
-*...and then good old NASA, and---forgive me folks, but I still think of it as an AMERICAN institution, the "National" in "National Aeronoautics and Space Administration" stands for US after all... They may have kept the acronym, but don't try and sell me this bull about how it's the NATO Aeronautics and Space Agency nowadays, NASA landed men on the moon back in '69 and I don't care if it was a Canadian scientists who invented the warp drive or whatever they're calling it, but it was an* ****American*** *who flew* Pandora, *am I right?*
+*"...and then good old NASA, and---forgive me folks, but I still think of it as an AMERICAN institution, the "National" in "National Aeronoautics and Space Administration" stands for US after all... They may have kept the acronym, but don't try and sell me this bull about how it's the NATO Aeronautics and Space Agency nowadays, NASA landed men on the moon back in '69 and I don't care if it was a Canadian scientists who invented the warp drive or whatever they're calling it, but it was an* ****American*** *who flew* Pandora, *am I right?"*
 
 "Asshole."
 
-*So Pandora flew to, I dunno, Mercury and back...*
+*"So Pandora flew to, I dunno, Mercury and back..."*
 
 "Jupiter, dickwad."
 
-*...And all of a sudden it's like "hello humanity, welcome to the stars, join us all in sunshine and hugs and yeah we're really sorry about* ***LOCKING YOU UP,*** *please do us the honor of sending forth what you hoo-mens call an 'am-bass-a-door' that we might blah blah." Why are we even bothering? you know what those alien douchenozzles deserve? Two fingers, one on each hand! Tell 'em to come back once they've found Jesus!*
+*"...And all of a sudden it's like "hello humanity, welcome to the stars, join us all in sunshine and hugs and yeah we're really sorry about* ***LOCKING YOU UP,*** *please do us the honor of sending forth what you hoo-mens call an 'am-bass-a-door' that we might blah blah." Why are we even bothering? you know what those alien douchenozzles deserve? Two fingers, one on each hand! Tell 'em to come back once they've found Jesus!"*
 
 "Oh for---" *[click]* "---fuck's sake!"
 
@@ -49,7 +49,7 @@ thup, thup...thup, thup...thup, thup...
 
 *[click]*
 
-*...And we put a* ***Democrat*** *in our seat on this Assembly? I thought we were supposed to be appointing somebody to represent* America's *interests, am I right?*
+*"...And we put a* ***Democrat*** *in our seat on this Assembly? I thought we were supposed to be appointing somebody to represent* America's *interests, am I right?"*
 
 "Ugh."
 
