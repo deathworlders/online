@@ -53,9 +53,7 @@ Terri struggled out of her jeans as Bill Maher angled his head and made a skepti
 
 *"Thirty percent doesn't sound like that much to me."*
 
-*"Small changes can make a huge difference. If the Earth was just half as big again as it actually is, we would never have been able to launch rockets at all, let alone ones strong enough to carry space stations and people into orbit.*
-
-*Earth is probably pretty close to being about as big as you can get and still send crews of people into space."*
+*"Small changes can make a huge difference. If the Earth was just half as big again as it actually is, we would never have been able to launch rockets at all, let alone ones strong enough to carry space stations and people into orbit. Earth is probably pretty close to being about as big as you can get and still send crews of people into space."*
 
 *"What does that have to do with muscles?"*
 
