@@ -61,7 +61,7 @@ There was a pig carcass hanging at one end, and some technicians fussing around 
 
 "Clear!"
 
-Nadeau nodded, and then clicked on something on the laptop that had been wired into the gun. It discharged with its characteristic "*thwoomp!*" and the pig jerked on its chain as if punched. Tremblay had seen it before, and it was equally unimpressive now.
+Nadeau nodded, and then clicked on something on the laptop that had been wired into the gun. It discharged with its characteristic *"thwoomp!"* and the pig jerked on its chain as if punched. Tremblay had seen it before, and it was equally unimpressive now.
 
 "Okay...?" he repeated.
 
