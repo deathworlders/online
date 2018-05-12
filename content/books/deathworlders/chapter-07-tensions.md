@@ -9,55 +9,57 @@ aliases:
 
 **I-5, Northbound. Everett, Washington**
 
-> thup, thup...thup, thup...thup, thup...
+thup, thup...thup, thup...thup, thup...
 
 "Urgh..."
 
 *[click]*
 
-> ♪ might as well face it...might as well face it you're addicted to lo-ove...might as well face it...might as well face it...might as well face it...♫
+*♪ might as well face it...might as well face it you're addicted to lo-ove...might as well face it...might as well face it...might as well face it...♫*
 
-> The five o' clock freeride, classic rock, 92.9... **KISM** > ♫ See me ride out of the sunset, on your color TV screen. Out for all that I can get, If you know what I mean...♪♫
+*The five o' clock freeride, classic rock, 92.9...* ***KISM*** 
 
-*[click]*
-
-> 100% chance of rain, but we got a great match-up tonight, Washington taking on the Dallas Cowboys...
+*♫ See me ride out of the sunset, on your color TV screen. Out for all that I can get, If you know what I mean...♪♫*
 
 *[click]*
 
-> ...results are in from across the globe as China announced their representative for the first meeting of the Global Representative Assembly, and not a moment too soon with the Assembly's first meeting taking place next week in Cape Town, South Africa to appoint the world's ambassador in space. CRAZY, right? And just think, this time three years ago we thought the alien abduction people were all wack-jobs...
+*100% chance of rain, but we got a great match-up tonight, Washington taking on the Dallas Cowboys...*
+
+*[click]*
+
+*...results are in from across the globe as China announced their representative for the first meeting of the Global Representative Assembly, and not a moment too soon with the Assembly's first meeting taking place next week in Cape Town, South Africa to appoint the world's ambassador in space. CRAZY, right? And just think, this time three years ago we thought the alien abduction people were all wack-jobs...*
 
 "Most were."
 
-> ...and then good old NASA, and---forgive me folks, but I still think of it as the AMERICAN National Aeronoautics and Space Administration. They may have kept the acronym, but don't try and sell me this bull about how it's the NATO Aeronautics and Space Agency nowadays, NASA landed men on the moon back in '69 and I don't care if it was a Canadian scientists who invented the warp drive or whatever they're calling it, but it was an *American* who flew Pandora, *am I right?*
+*...and then good old NASA, and---forgive me folks, but I still think of it as an AMERICAN institution, the "National" in "National Aeronoautics and Space Administration" stands for US after all... They may have kept the acronym, but don't try and sell me this bull about how it's the NATO Aeronautics and Space Agency nowadays, NASA landed men on the moon back in '69 and I don't care if it was a Canadian scientists who invented the warp drive or whatever they're calling it, but it was an* ****American*** *who flew* Pandora, *am I right?*
 
 "Asshole."
 
-> So *Pandora* flies to, I dunno, Mercury and back...
+So *Pandora* flies to, I dunno, Mercury and back...
 
 "Jupiter, dickwad."
 
-> ...And all of a sudden it's like "hello humanity, welcome to the stars, join us all in sunshine and hugs and yeah we're really sorry about **LOCKING YOU UP,** please do us the honor of sending forth what you hoo-mens call an 'am-bass-a-door' that we might blah blah." Why are we even bothering? you know what those alien douchenozzles deserve? Two fingers, one on each hand! Tell 'em to come back once they've found Jesus!
+*...And all of a sudden it's like "hello humanity, welcome to the stars, join us all in sunshine and hugs and yeah we're really sorry about* ***LOCKING YOU UP,*** *please do us the honor of sending forth what you hoo-mens call an 'am-bass-a-door' that we might blah blah." Why are we even bothering? you know what those alien douchenozzles deserve? Two fingers, one on each hand! Tell 'em to come back once they've found Jesus!*
 
 "Oh for---" *[click]* "---fuck's sake!"
 
-> thup, thup...thup, thup...thup, thup...
+thup, thup...thup, thup...thup, thup...
 
 "...Fuck it."
 
 *[click]*
 
-> ...And we put a **DEMOCRAT** in our seat on this Assembly? I thought we were supposed to be appointing somebody to represent *America's* interests, am I right?
+*...And we put a* ***Democrat*** *in our seat on this Assembly? I thought we were supposed to be appointing somebody to represent* America's *interests, am I right?*
 
 "Ugh."
 
 *[click]*
 
-> ♫♪ ...in New England town, feel the heat comin' down. I've got to keep on keepin' on, you know the big wheel keeps on spinnin' around and I'm goin' with some hesitation. You know that I can surely see, that I don't want to get caught up in any of that...♪♫
+*♫♪ ...in New England town, feel the heat comin' down. I've got to keep on keepin' on, you know the big wheel keeps on spinnin' around and I'm goin' with some hesitation. You know that I can surely see, that I don't want to get caught up in any of that...♪♫*
 
 *"Sigh."*
 
-> thup, thup...thup, thup...thup, thup...
+thup, thup...thup, thup...thup, thup...
 
 ---
 
@@ -152,6 +154,8 @@ The voice that spoke did so in curiously accentless English. "Embassy Station 17
 Rylee grinned inside her helmet. "Wild horses couldn't hold me back." she promised.
 
 ---
+
+**Scotch Creek Extraterrestrial Research Facility**
 
 "Hey, Kevin."
 
@@ -539,9 +543,7 @@ There was a general murmuring of agreement, and the security director respectful
 
 He stood up again, resting himself gently against the table and selecting one of his notes with that same trembling hand. He fastidiously opened a pair of reading glasses, set them on his nose, lifted the note up to peer at it, and then nodded, satisfied.
 
-**"ahem"**
-
-*"Ultimatum from hunters: demand all humans be turned over else quote Swarm of Swarms endquote will raid known human locations. All ships, stations carrying human passengers advised: jettison immediately."*
+**"Ahem...** *'Ultimatum from hunters: demand all humans be turned over else quote Swarm of Swarms endquote will raid known human locations. All ships, stations carrying human passengers advised: jettison immediately'."*
 
 In the ringing silence, he set the paper down and gently tweaked it until its edges and corners were flush with its fellows. He took off his reading glasses, meticulously folded them, and set them carefully on top of his notes, before looking up and skewering them all with a hard glare that bore no relationship whatsoever to the kindly sparkle his eyes had held only moments before.
 
