@@ -35,7 +35,7 @@ thup, thup...thup, thup...thup, thup...
 
 "Asshole."
 
-*So Pandora* flew to, I dunno, Mercury and back...*
+*So Pandora flew to, I dunno, Mercury and back...*
 
 "Jupiter, dickwad."
 
