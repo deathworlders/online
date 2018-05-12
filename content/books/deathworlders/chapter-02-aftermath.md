@@ -7,59 +7,29 @@ aliases:
 
 "I'll spare you as much of the jargon as I can, eh?"
 
-Not for the first time, General Martin Tremblay was struck by the youth of the
-scientists working on this project. If it had been up to him, the whole thing
-would have been as hush-hush as possible, locked up behind layer after layer of
-need-to-know statuses and classified stamps. But, his way had to play second
-fiddle to the reality of aliens on live sports news, right here in British
-Columbia. When he'd delegated the task of bringing in biologists, physicists and
-engineers from across the globe to one of his staff, he hadn't quite anticipated
-that she would opt for a team that was practically fresh from their doctorates.
+Not for the first time, General Martin Tremblay was struck by the youth of the scientists working on this project. If it had been up to him, the whole thing would have been as hush-hush as possible, locked up behind layer after layer of need-to-know statuses and classified stamps. But, his way had to play second fiddle to the reality of aliens on live sports news, right here in British Columbia. When he'd delegated the task of bringing in biologists, physicists and engineers from across the globe to one of his staff, he hadn't quite anticipated that she would opt for a team that was practically fresh from their doctorates.
 
-Oh, sure, there were plenty of grey hairs around, but Tremblay was feeling
-decidedly venerable surrounded by all this buzzing enthusiastic youthfulness.
+Oh, sure, there were plenty of grey hairs around, but Tremblay was feeling decidedly venerable surrounded by all this buzzing enthusiastic youthfulness.
 
 "I'd appreciate that. Let's get to the meat."
 
-He regretted the turn of phrase immediately as the biologist---a rotund and
-jovial man with a habit of roaring with laughter at the slightest joke,
-deliberate or not---released his characteristic chuckle and then turned to the
-report, which was mercifully brief.
+He regretted the turn of phrase immediately as the biologist---a rotund and jovial man with a habit of roaring with laughter at the slightest joke, deliberate or not---released his characteristic chuckle and then turned to the report, which was mercifully brief.
 
-"From what we were able to scrape off the ice in Vancouver after the hockey
-teams were done with them, they're...kind of unimpressive, actually," he opined.
-"The endoskeleton seems to be based around comparatively large crystals of
-silica, with not a trace of collagen in sight. Remarkably fragile. Musculature
-is...we think their muscles can pull, push and twist, where ours can only pull,
-so they need fewer muscles overall to get the same range of motion, but each
-muscle's far weaker than our own---the samples we have, bruised and crushed as
-they were, had a tensile strength about that of smoked salmon. Even accounting
-for tissue damage, they're decidedly weaker than we are, and they couldn't
-possibly move as fast as we can. Just not enough force or leverage."
+"From what we were able to scrape off the ice in Vancouver after the hockey teams were done with them, they're...kind of unimpressive, actually," he opined.
+
+"The endoskeleton seems to be based around comparatively large crystals of silica, with not a trace of collagen in sight. Remarkably fragile. Musculature is...we think their muscles can pull, push and twist, where ours can only pull, so they need fewer muscles overall to get the same range of motion, but each muscle's far weaker than our own---the samples we have, bruised and crushed as they were, had a tensile strength about that of smoked salmon. Even accounting for tissue damage, they're decidedly weaker than we are, and they couldn't possibly move as fast as we can. Just not enough force or leverage."
 
 "That explains why they broke so easily," Tremblay said.
 
-Dr. Taylor nodded. "It's weird, it's like their whole physiology never evolved
-to deal with even a fraction of the daily challenges ours did. I mean, there's a
-lot we can't test given how badly damaged all the specimens were but what we
-*do* have says that an average guy could probably rip the arms off these things
-if he tried."
+Dr. Taylor nodded. "It's weird, it's like their whole physiology never evolved to deal with even a fraction of the daily challenges ours did. I mean, there's a lot we can't test given how badly damaged all the specimens were but what we *do* have says that an average guy could probably rip the arms off these things if he tried."
 
 "So what the hell did they think they were going to accomplish?" Tremblay said.
-"Interesting as this is, my job is to figure out what kind of a threat they
-pose, and to do that I need more than an analysis about how squishy they are. I
-could see that just from watching the game."
 
-Taylor's colleague, Dr. Betty-Anne Cote, cleared her throat at that one. She
-tended to let Taylor do the talking---he was the kind of large personality who
-filled a room, while she was more the 'quietly get things done while nobody's
-watching' type. They complemented each other well, not least because when she
-did venture an opinion, Taylor tended to shut up and let her share it.
+"Interesting as this is, my job is to figure out what kind of a threat they pose, and to do that I need more than an analysis about how squishy they are. I could see that just from watching the game."
 
-"We're, like, the only people on the planet who could claim to be experts in
-xenopsychology," she said. "So we're starting from scratch. And I guess the first
-assumption we have to make is that, to them, their physical frailty would be
-normal and we'd seem freakishly strong and durable."
+Taylor's colleague, Dr. Betty-Anne Cote, cleared her throat at that one. She tended to let Taylor do the talking---he was the kind of large personality who filled a room, while she was more the 'quietly get things done while nobody's watching' type. They complemented each other well, not least because when she did venture an opinion, Taylor tended to shut up and let her share it.
+
+"We're, like, the only people on the planet who could claim to be experts in xenopsychology," she said. "So we're starting from scratch. And I guess the first assumption we have to make is that, to them, their physical frailty would be normal and we'd seem freakishly strong and durable."
 
 "It would explain the weaponry." Taylor commented. "You've seen the interview tapes?"
 
