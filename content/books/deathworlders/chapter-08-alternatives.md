@@ -11,7 +11,7 @@ aliases:
 
 Once the lights were on, it wasn't hard to find the TV remote: it was placed carefully on the bed, exactly where a traveller checking in for the night would see it. Terri dropped her bags, picked it up and channel surfed, pausing when she recognised a famous mustached physicist.
 
-"*...thing I don't get is that this... shield, barrier, whatever, is supposed to stop things from moving through it, right?*"
+*"...thing I don't get is that this... shield, barrier, whatever, is supposed to stop things from moving through it, right?"*
 
 "*That's right, yes.*"
 
@@ -51,13 +51,15 @@ The bath could be left to its own devices for the time being. Terri stood and st
 
 Terri struggled out of her jeans as Bill Maher angled his head and made a skeptical tooth-sucking sound.
 
-*"Thirty percent doesn't sound like that much to me."* *"Small changes can make a huge difference. If the Earth was just half as big again as it actually is, we would never have been able to launch rockets at all, let alone ones strong enough to carry space stations and people into orbit.
+*"Thirty percent doesn't sound like that much to me."*
 
-Earth is probably pretty close to being about as big as you can get and still send crews of people into space."*
+*"Small changes can make a huge difference. If the Earth was just half as big again as it actually is, we would never have been able to launch rockets at all, let alone ones strong enough to carry space stations and people into orbit.*
 
-"*What does that have to do with muscles?*"
+*Earth is probably pretty close to being about as big as you can get and still send crews of people into space."*
 
-"*Well, it might have tipped us over the point where evolution would select for one specific* kind *of muscle, or something like that. That's not really... you know, I'm interested in it all, but the stuff I'm most interested in is astrophysics, and what these new technologies can teach us about things like dark energy."*
+*"What does that have to do with muscles?"*
+
+*"Well, it might have tipped us over the point where evolution would select for one specific* kind *of muscle, or something like that. That's not really... you know, I'm interested in it all, but the stuff I'm most interested in is astrophysics, and what these new technologies can teach us about things like dark energy."*
 
 As the Real Time panel fell to discussing the politics of the situation, egged on occasionally by their host's snide observations, Terri discarded her underwear and stepped into the bath, hissing and gritting her teeth as she gingerly lowered herself into the slightly-too-hot water.
 
