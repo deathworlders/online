@@ -5,114 +5,69 @@ aliases:
   - /book/deathworlders/chapter-09-alternatives
 ---
 
-**Three years and ten days after the Vancouver Attack**    
-**Portland, Oregon**
+**Three years and ten days after the Vancouver Attack** **Portland, Oregon**
 
 *click*
 
-Once the lights were on, it wasn't hard to find the TV remote: it was placed
-carefully on the bed, exactly where a traveller checking in for the night would
-see it. Terri dropped her bags, picked it up and channel surfed, pausing when
-she recognised a famous mustached physicist.
+Once the lights were on, it wasn't hard to find the TV remote: it was placed carefully on the bed, exactly where a traveller checking in for the night would see it. Terri dropped her bags, picked it up and channel surfed, pausing when she recognised a famous mustached physicist.
 
-"*...thing I don't get is that this... shield, barrier, whatever, is supposed to
-stop things from moving through it, right?*"
+*"...thing I don't get is that this... shield, barrier, whatever, is supposed to stop things from moving through it, right?"*
 
 "*That's right, yes.*"
 
 "*It's like a solid wall in space.*"
 
-"*Exactly! In fact it effectively IS a solid wall in space, just made out of
-nothing but the same electrostatic repulsion that makes... this table solid, or
-my hand solid.*"
+"*Exactly! In fact it effectively IS a solid wall in space, just made out of nothing but the same electrostatic repulsion that makes... this table solid, or my hand solid.*"
 
-Satisfied, she checked that the door was shut and the curtains closed, before
-she shrugged her jacket off, and hung it on the hooks by the door.
+Satisfied, she checked that the door was shut and the curtains closed, before she shrugged her jacket off, and hung it on the hooks by the door.
 
-"*...station get here then? Did it just warp through the wall? That's not much
-of a wall.*"
+"*...station get here then? Did it just warp through the wall? That's not much of a wall.*"
 
-"*So there are... it looks like there are two ways to get from A to B faster
-than light. The first one's the warp drive mounted on Pandora, right? But the
-SECOND one was actually theorized by Albert Einstein and Nathan Rosen in
-1935...*"
+"*So there are... it looks like there are two ways to get from A to B faster than light. The first one's the warp drive mounted on Pandora, right? But the SECOND one was actually theorized by Albert Einstein and Nathan Rosen in 1935...*"
 
-Satisfaction shifted to interest and she turned the volume up as she took
-advantage of the hotel's expense by starting to fill the huge bathtub with the
-hottest water the faucet could provide.
+Satisfaction shifted to interest and she turned the volume up as she took advantage of the hotel's expense by starting to fill the huge bathtub with the hottest water the faucet could provide.
 
 "*Wormholes, right? I think that was on Star Trek.*"
 
-She retrieved a few cosmetic essentials from her travelling case and soon a bath
-bomb was crackling and hissing in the water, and filling her nostrils with the
-scents of grapefruit and bergamot.
+She retrieved a few cosmetic essentials from her travelling case and soon a bath bomb was crackling and hissing in the water, and filling her nostrils with the scents of grapefruit and bergamot.
 
-"*...upshot is that when you travel through one of these things, the intervening
-space doesn't matter. you just go from A to Z without passing through B, C, D
-and so on along the way!*"
+"*...upshot is that when you travel through one of these things, the intervening space doesn't matter. you just go from A to Z without passing through B, C, D and so on along the way!*"
 
 "*So the barrier doesn't matter to this thing.*"
 
-"*Exactly. Now, the reason we can't use it to get out is because these bridges
-collapse pretty much instantly unless they've got a field generator at both
-ends.*"
+"*Exactly. Now, the reason we can't use it to get out is because these bridges collapse pretty much instantly unless they've got a field generator at both ends.*"
 
-The bath could be left to its own devices for the time being. Terri stood and
-stripped off her shirt. The garment had been sweaty and uncomfortable for the
-last couple of hours, and she sighed in honest relief as she was able to throw
-it into an undignified heap at the foot of the bed.
+The bath could be left to its own devices for the time being. Terri stood and stripped off her shirt. The garment had been sweaty and uncomfortable for the last couple of hours, and she sighed in honest relief as she was able to throw it into an undignified heap at the foot of the bed.
 
 "*...without somebody on the outside helping us get out.*"
 
-"*Okay, now... there's been a lot of talk about how our gravity is supposedly
-much higher than the norm out there...*"
+"*Okay, now... there's been a lot of talk about how our gravity is supposedly much higher than the norm out there...*"
 
 "*Yes.*"
 
 "*So are we likely to be that much stronger than everything out there?*"
 
-"*Okay, so, from what we've been told, Earth is both larger and denser than the
-average "temperate" world. Now, if you're both larger AND denser, then that
-means you have more gravity, and in our case it's about thirty percent higher
-than what we're told is the average.*"
+"*Okay, so, from what we've been told, Earth is both larger and denser than the average "temperate" world. Now, if you're both larger AND denser, then that means you have more gravity, and in our case it's about thirty percent higher than what we're told is the average.*"
 
-Terri struggled out of her jeans as Bill Maher angled his head and made a
-skeptical tooth-sucking sound.
+Terri struggled out of her jeans as Bill Maher angled his head and made a skeptical tooth-sucking sound.
 
 *"Thirty percent doesn't sound like that much to me."*
 
-*"Small changes can make a huge difference. If the Earth was just half as big*
-*again as it actually is, we would never have been able to launch rockets at all,*
-*let alone ones strong enough to carry space stations and people into orbit.*
-*Earth is probably pretty close to being about as big as you can get and still*
-*send crews of people into space."*
+*"Small changes can make a huge difference. If the Earth was just half as big again as it actually is, we would never have been able to launch rockets at all, let alone ones strong enough to carry space stations and people into orbit. Earth is probably pretty close to being about as big as you can get and still send crews of people into space."*
 
-"*What does that have to do with muscles?*"
+*"What does that have to do with muscles?"*
 
-"*Well, it might have tipped us over the point where evolution would select for*
-*one specific* kind *of muscle, or something like that. That's not really... you*
-*know, I'm interested in it all, but the stuff I'm most interested in is*
-*astrophysics, and what these new technologies can teach us about things like*
-*dark energy."*
+*"Well, it might have tipped us over the point where evolution would select for one specific* kind *of muscle, or something like that. That's not really... you know, I'm interested in it all, but the stuff I'm most interested in is astrophysics, and what these new technologies can teach us about things like dark energy."*
 
-As the Real Time panel fell to discussing the politics of the situation, egged
-on occasionally by their host's snide observations, Terri discarded her
-underwear and stepped into the bath, hissing and gritting her teeth as she
-gingerly lowered herself into the slightly-too-hot water.
+As the Real Time panel fell to discussing the politics of the situation, egged on occasionally by their host's snide observations, Terri discarded her underwear and stepped into the bath, hissing and gritting her teeth as she gingerly lowered herself into the slightly-too-hot water.
 
-She largely ignored the rest of the debate and the panel's observations as she
-luxuriated in the feeling of too many hours of freeway travel being cooked away,
-emerging only once she was thoroughly soaked and relaxed.
+She largely ignored the rest of the debate and the panel's observations as she luxuriated in the feeling of too many hours of freeway travel being cooked away, emerging only once she was thoroughly soaked and relaxed.
 
-*"...finally New Rule, Rylee Jackson is not a sex symbol."*
-
-She arched her eyebrow as an assortment of dismayed noises emerged from the
-crowd. Maher basked in the controversy for a second, before launching into the
-meat of his closing statement. She sat on her towel on the end of the bed drying
-her hair, and listened.
+*"...finally New Rule, Rylee Jackson is not a sex symbol."* She arched her eyebrow as an assortment of dismayed noises emerged from the crowd. Maher basked in the controversy for a second, before launching into the meat of his closing statement. She sat on her towel on the end of the bed drying her hair, and listened.
 
 "Business as usual on Earth..." she muttered.
-___
+
+---
 
 **Cimbrean**
 
@@ -186,7 +141,7 @@ He left, and Kirk was left to reflect on just how empty the *Sanctuary* would fe
 
 Hopefully, that would soon change.
 
-___
+---
 
 **Cape Town**
 
@@ -220,7 +175,7 @@ There was a general show of hands.
 
 "Then it's settled. The next time our agent gets in contact, we'll have him make the approach."
 
-___
+---
 
 **Three years and twelve days after the Vancouver Attack**    
 **San Diego, California**
@@ -244,7 +199,8 @@ That changed instantly when he looked up at her and his eyes dropped to her hand
 Suicidally, stupidly, he tried to shoot her anyway.
 
 They were his last words.
-___
+
+---
 
 **Three years and two months after the Vancouver Attack**    
 **Earth-Luna L3 Point**
