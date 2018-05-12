@@ -69,7 +69,7 @@ Instead, what stepped out and blinked in the sunlight was a six-legged being ful
 
 This was, apparently, some kind of a language, because once it had finished clicking, the little device on the ground spoke in flawless, though unaccented, English.
 
-"Please, I couldn't harm you even if I wanted to. You don't need the spear, Mr. Bahmani."
+"Please, I couldn't harm you even if I wanted to. You don't need the spear, Mister Bahmani."
 
 Amir practically fell over. It had been *years* since he had last heard any human language at all, let alone his name.
 
