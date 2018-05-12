@@ -6,7 +6,9 @@ aliases:
   - /book/deathworlders/chapter-07-taking-back-sky/75-ultimatum
 ---
 
-**Two years and nine months after the Vancouver Attack** "A screensaver? Not seen one of those in years, Ted..."
+**Two years and nine months after the Vancouver Attack**
+
+"A screensaver? Not seen one of those in years, Ted..."
 
 "Uh, that's...actually a simulation..."
 
@@ -76,4 +78,6 @@ Bartlett sighed, and with a push of his legs, boosted his chair over to the offi
 
 "You might be wrong there, Major."
 
-"Oh come on. You've already given us the tech for cheap spaceflight, viable asteroid mining, trivially easy near-Earth object tracking and deflection and buildings ten times as tall as we could already build. What have I got, besides one experimental spaceship that got named by our *bartender?"* "Well," Claude Nadeau said, slowly and with care "Your screensaver just turned green..." Bartlett sighed. "For the last time, it's a simu**la---**wait, *what?"*
+"Oh come on. You've already given us the tech for cheap spaceflight, viable asteroid mining, trivially easy near-Earth object tracking and deflection and buildings ten times as tall as we could already build. What have I got, besides one experimental spaceship that got named by our *bartender?"*
+
+"Well," Claude Nadeau said, slowly and with care, "Your screensaver just turned green..." Bartlett sighed. "For the last time, it's a simu<em>la---</em>wait, *what?"*

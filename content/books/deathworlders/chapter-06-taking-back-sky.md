@@ -7,9 +7,9 @@ aliases:
 
 **One year and seven months after the Vancouver Attack**
 
-One broadcast: *+<awe; respect; statement>+* "The Alpha-of-Alphas is here."
+One broadcast: *+< awe; respect; statement >+* "The Alpha-of-Alphas is here."
 
-Another broadcast: *+<anticipation; glee; eagerness>+* "The first human meat to the Alpha-of-Alpha's maw!""
+Another broadcast: *+< anticipation; glee; eagerness >+* "The first human meat to the Alpha-of-Alpha's maw!"
 
 The Alpha-of-Alphas broadcast: *+<rebuke>+* "The quarry is dangerous. Remain focused."
 
@@ -21,7 +21,7 @@ They paused as the lights flickered, and an instant later the deck heaved and ra
 
 The part inside found their quarry when a Brood-lesser tumbled into the corridor before them, crushed and broken, dead before it had stopped sliding.
 
-The Alpha-of-Alphas broadcast: *+<command>+* "Release the drones."
+The Alpha-of-Alphas broadcast: *+< command >+* "Release the drones."
 
 They did so, a swarm of insect-sized devices that would record what happened next and inject the footage directly onto the prey's data networks. *This,* they knew, would prove to the prey beyond any doubt whom they should most be fearing.
 
@@ -49,7 +49,7 @@ He died.
 
 ---
 
-The Alpha-of-Alphas broadcast: *+<Satisfaction>+* "The builders are to be commended. These nervejam grenade launchers work exactly as anticipated."
+The Alpha-of-Alphas broadcast: *+< Satisfaction >+* "The builders are to be commended. These nervejam grenade launchers work exactly as anticipated."
 
 The servos of its powered exoskeleton whined as it picked up the dead human by the back of his neck. The quarry seemed even heavier in death---the co-ordination and balance that had kept it upright and agile during his life was gone now, replaced by a few lingering twitches as the last jolts of the Nervejam effect rampaged around that delicately-optimized masterwork of a nervous system.
 
@@ -59,7 +59,7 @@ No matter. The Prize awaited. Its helmet dismantled itself, dissolving into a sw
 
 The meat was indescribable. Dense, lean, rich, full of that indefinable spark of sentience. It exceeded even the Alpha-of-Alpha's most extravagant fantasies.
 
-*+<ecstasy>+* "MEAT TO THE MAW!!!"
+*+< ecstasy >+* "MEAT TO THE MAW!!!"
 
 the cry was taken up among the brood, it spread to the swarm, and from there to the Swarm-of-Swarms and through them, every Hunter in the Galaxy.
 
@@ -131,7 +131,7 @@ And she refuses to come out."
 
 "Would you, when the galactic news is full of members of your species being thrown out of the airlock?"
 
-"Look we weren't going to do *that*. We were just going to...you know, evict her. Give her a little ship and some nutrient spheres and point her towards a nice Class Eleven somewhere. She's from a Class Twelve, right? She should have no problem surviving there."
+"Look we weren't going to do *that.* We were just going to...you know, evict her. Give her a little ship and some nutrient spheres and point her towards a nice Class Eleven somewhere. She's from a Class Twelve, right? She should have no problem surviving there."
 
 Kirk issued the equivalent of a frustrated sigh. Like all Rrrrtktktkp'ch, he was fond of his Vz'ktk cousins, but they really were as dense as a bag of gold sometimes.
 
@@ -353,8 +353,8 @@ Twenty-four of them were from the human refugees, many of them tearful as they f
 
 The twenty-fifth was from Kirk.
 
-*"Kevin. I hope this finds you still alive and complaining: I know for a fact that you're well wrapped-up in whatever's going on down there. You see, I knew about the jump beacon.*
+> "Kevin. I hope this finds you still alive and complaining: I know for a fact that you're well wrapped-up in whatever's going on down there. You see, I knew about the jump beacon.
 
-*The one you stole was trash, by the way: so I snuck a working replacement into your bag. Glad to see it worked as planned. Tell whoever you gave it to that if they tune it with the algorithm that's on screen right now, we can start sending some of these people home.*
+> The one you stole was trash, by the way: so I snuck a working replacement into your bag. Glad to see it worked as planned. Tell whoever you gave it to that if they tune it with the algorithm that's on screen right now, we can start sending some of these people home.
 
-*Now, on to the really important stuff. If I know humans, you're probably already well on your way to dropping this barrier somehow, but take it from your old friend: for the time being, that would be a very, very bad idea.* *You see, a lot has happened up here since Vancouver..."*
+> Now, on to the really important stuff. If I know humans, you're probably already well on your way to dropping this barrier somehow, but take it from your old friend: for the time being, that would be a very, very bad idea. You see, a lot has happened up here since Vancouver..."
