@@ -91,9 +91,10 @@ Kirk nodded his long-necked head. It was an impressive gesture. "You've survived
 "Yes."
 
 Julian blinked at him, slowly, then gave up. "Fine. What could go wrong?"
+
 ---
 
-"Okay... that's got it. Out you come." the forensic computer technician wiggled his needle-nose pliers a bit and finally the MicroSD card slid out of the wreckage of what had once been a phone.
+"Okay... that's got it. Out you come." The forensic computer technician wiggled his needle-nose pliers a bit and finally the MicroSD card slid out of the wreckage of what had once been a phone.
 
 Everyone in the office gathered round as he clicked it into a reader and opened its contents on his laptop. "Okay, easy-access stuff first, we'll find any passwords or whatever secon... wow. Hey detective, there's a folder here called *Scotch Creek."*
 
@@ -101,11 +102,11 @@ Everyone in the office gathered round as he clicked it into a reader and opened 
 
 Inside were a handful of snapshots of beautiful Canadian rural terrain, and one of the technicians confirmed that they were of the area around Scotch Creek with a quick Google Street Maps search. Alongside them was a folder marked "Kevin".
 
-There was a general exclamation of surprise at that second folder's contents. Gabriel rounded angrily on an officer who emitted a lecherous two-toned whistle. "This isn't fucking porn! You're going to fucking whistle at a dead woman's selfies? *¡Joder! Mostrar respeto!"*
+There was a general exclamation of surprise at that second folder's contents. Gabriel rounded angrily on an officer who emitted a lecherous two-toned whistle. "This isn't fucking porn! You're going to fucking whistle at a dead woman's selfies? *Mostrar respeto!"*
 
 The officer looked away, mumbling an apology.
 
-"I don't want to hear it. *¡Vete a la mierda!* All of you who don't need to be here, out."
+"I don't want to hear it. *¡Vete a la mierda!* All of you who don't need to be here, get out!"
 
 The exodus was rapid, especially the shame-faced officer who had whistled.
 
@@ -171,7 +172,9 @@ Having no idea what these things did, Julian just obeyed orders. It took him onl
 
 He helped the door close silently, checked his surroundings, flitted down a corridor of darkness where one of the base's floodlights cast the shadow of a tall structure of some kind, cast around for watching sentries again, saw none, and sprinted across the open ground back into the woods.
 
+
 The heist had taken maybe five minutes. If Kirk was right, by the time anything was noticed missing, he would be back at the Sanctuary.
+
 ---
 
 *brrrrp,* *brrrrp,* *brr-click*
@@ -274,6 +277,7 @@ His tall employer with the coat of short white fur smiled enigmatically, and set
 "And the other emitter?"
 
 "That's for my *other* project."
+
 ---
 
 *"I'm recording this in case things go as badly as I'm afraid they might... I guess if you're watching it, they have."*
