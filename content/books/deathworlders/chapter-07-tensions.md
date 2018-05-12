@@ -305,19 +305,19 @@ The original leather upholstery idea had been swiftly abandoned on the advice th
 
 *Pandora* alerted her to something with a pleasant beep. "Coming up on Delta-point 1," she said. It was deceptive how quickly space could sneak up on them when the ride was so gentle.
 
-"*I see it. Slaving FTL to you.... *Mission Control,* Limo. *Escort has the button.*"
+*"I see it. Slaving FTL to you....Mission Control,* Limo. *Escort has the button."*
 
 "I have it. Mission Control, *Pandora*. Escort has the button."
 
-"Pandora, *Mission Control. You are clear for FTL.*"
+"Pandora, *Mission Control. You are clear for FTL."*
 
 She didn't bother making any comment this time, just rubbed the exposed bit of *Pandora*'s chassis for luck, and pushed the thrust lever forward.
 
-Again, the moon just blinked larger in the sky, and there was Embassy-172, an impressive tower of white, almost blinding in the sunlight even through her dark glasses and *Pandora*'s own reactive window tint.
+Again, the moon just blinked larger in the sky, and there was Embassy-172, an impressive tower of white, almost blinding in the sunlight even through her dark glasses and *Pandora's* own reactive window tint.
 
-"172, *Pandora*. Ambassadorial transport on final approach."
+"172, *Pandora.* Ambassadorial transport on final approach."
 
-"*Copy,* Pandora, *the Ambassador is cleared for bay one. Will you be coming aboard?*"
+*"Copy,* Pandora, *the Ambassador is cleared for bay one. Will you be coming aboard?"*
 
 "I will, 172. *Pandora* requesting permission to land."
 
@@ -359,7 +359,7 @@ The little grey alien stepped forward sharply. "Are you in pain?" he asked, tone
 
 "No, no, just...wow, my teeth have never felt so clean!"
 
-"Ah, yes. *Streptococcus Salivarius* in particular proved to be exceptionally resilient, as did *Staphylococcus Aureus*, but we beat them in the end. You may remove your helmet now, Captain, we are for the time being quite safe from you."
+"Ah, yes. *Streptococcus Salivarius* in particular proved to be exceptionally resilient, as did *Staphylococcus Aureus,* but we beat them in the end. You may remove your helmet now, Captain, we are for the time being quite safe from you."
 
 Rylee did so, pleased to be out of it, and took the opportunity to scratch an itch above her ear.
 
@@ -475,7 +475,7 @@ You'll have plenty of opportunity to make a good impression before they head bac
 
 This was by way of being a reward for special success, and Goruu could barely contain his gratitude, but the Firefangs prized emotional control and maturity, so he settled for a compsed "Thank you, Father. Good luck with the ambassadors."
 
-"More fool the others for making us need *luck*." Father Amren practically spat the word.
+"More fool the others for making us need *luck."* Father Amren practically spat the word.
 
 "They can't possibly believe that concealing the existence of the Great Hunt and the jettison order will do anything but harm in the long run, can they?" Goruu asked.
 
@@ -539,9 +539,9 @@ There was a general murmuring of agreement, and the security director respectful
 
 He stood up again, resting himself gently against the table and selecting one of his notes with that same trembling hand. He fastidiously opened a pair of reading glasses, set them on his nose, lifted the note up to peer at it, and then nodded, satisfied.
 
-"**ahem**"
+**"ahem"**
 
-"*Ultimatum from hunters: demand all humans be turned over else quote Swarm of Swarms endquote will raid known human locations. All ships, stations carrying human passengers advised: jettison immediately.*"
+*"Ultimatum from hunters: demand all humans be turned over else quote Swarm of Swarms endquote will raid known human locations. All ships, stations carrying human passengers advised: jettison immediately."*
 
 In the ringing silence, he set the paper down and gently tweaked it until its edges and corners were flush with its fellows. He took off his reading glasses, meticulously folded them, and set them carefully on top of his notes, before looking up and skewering them all with a hard glare that bore no relationship whatsoever to the kindly sparkle his eyes had held only moments before.
 
