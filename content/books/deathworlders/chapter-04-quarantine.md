@@ -75,7 +75,7 @@ Then, cybernetic hand shaking, he tendered his resignation.
 
 ---
 
-♪♫*The good guys dress in black, remember that, just in case we ever face-to-face and make contact...*♫♪
+*♪♫The good guys dress in black, remember that, just in case we ever face-to-face and make contact...♫♪*
 
 Terri had set her phone to play Will Smith's "Men In Black" whenever her mysterious client called her. It had seemed appropriate given the nature of the job. Now, as some of the nearby Abductees gave her a strange look, she slightly regretted it. They had heard that song on the radio a LOT lately.
 
@@ -119,7 +119,7 @@ Terri shrugged. "You're the man with the money." She said, internally noting the
 
 "I'll...see you ASAP then." Terri said.
 
-*"Bon voyage*, Miss Boone."
+*"Bon voyage,* Miss Boone."
 
 Johnson hung up. Terri stared at her phone for a minute, and then made use of the campground's wifi to check her bank account. It was the first time she had ever looked at it and seen six figures before the decimal. And such a *large* six figures, too.
 
@@ -193,7 +193,7 @@ Vakno delivered the Corti equivalent of an, again, insincere and disdainful litt
 
 "The only thing that gets a Corti kicked out of the Directorate is directly acting against the interests of the Corti species as a whole. I KNOW you have access to that information." Kirk retorted. "But all I want is to know how many humans are outside the containment field. That seems benign enough, doesn't it?"
 
-"Where humans are concerned there is no such thing as '*benign,'* Councillor A'ktnnzzik'tk. Every time one of them has escaped our zoological teams, or was released by well-meaning animal welfare officers, the results have been unpredictable and alarming." Vakno displayed intense emotion, her grey skin flushing decidedly blue around the mandible. "The Directorate's officialy policy regarding that species is '*Do not underestimate them.'* Lone humans have changed the course of wars, infected whole cultures with strange new ideas, even triggered the development of whole new exotic technology branches."
+"Where humans are concerned there is no such thing as *'benign,'* Councillor A'ktnnzzik'tk. Every time one of them has escaped our zoological teams, or was released by well-meaning animal welfare officers, the results have been unpredictable and alarming." Vakno displayed intense emotion, her grey skin flushing decidedly blue around the mandible. "The Directorate's officialy policy regarding that species is *'Do not underestimate them.'* Lone humans have changed the course of wars, infected whole cultures with strange new ideas, even triggered the development of whole new exotic technology branches."
 
 "All the more reason to keep tabs on the ones not quarantined on Earth, then."
 
