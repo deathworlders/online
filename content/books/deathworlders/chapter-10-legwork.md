@@ -292,7 +292,7 @@ She ran her hands through her hair, accomplishing only further dishevelment, rat
 
 She stared out of the window for a bit. A passing car's headlights cast moving shadows across her face as she paused.
 
-*"I'm pretty sure there are aliens on Earth.*"* she said. *"Like, they've been here since long before the embassies arrived. And I'm getting more and more convinced that they don't have our best interests at heart. I'm an investigator, I go by the logical, the methodical and the evidence but... I don't know call it a hunch, call it a bad feeling, but looking at what I've gathered so far, there's a pattern in there, and it's kind of a scary one."*
+*"I'm pretty sure there are aliens on Earth."* she said. *"Like, they've been here since long before the embassies arrived. And I'm getting more and more convinced that they don't have our best interests at heart. I'm an investigator, I go by the logical, the methodical and the evidence but... I don't know call it a hunch, call it a bad feeling, but looking at what I've gathered so far, there's a pattern in there, and it's kind of a scary one."*
 
 She finger-combed her hair again as it fell across her eyes. She looked rumpled, worn and tense: Arés got the impression that a man in her condition would have had several days' worth of stubble darkening his jaw.
 
