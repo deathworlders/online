@@ -1,5 +1,6 @@
 ---
 title: "Bolthole Aces"
+date: 2018-05-13
 ---
 
 ## Welcome!
@@ -38,8 +39,3 @@ Without inertial compensation, the maneuver would have been suicide. With it, it
 But the moment passed and his time was up. "Let's Solo these pricks." Just as the cruiser's tractors clawed out for him, and milliseconds before they could take hold, Goruu hit the exact point of distance he needed and punched the execute on his hastily calculated macro. His engines cut as he launched every missile he had. The trailing fighters fired their railguns. The cruiser's tractor ray snatched at him and for the briefest of moments it took hold, throwing Goruu into a G-force yank not even the compensators could fully handle. Goruu held consciousness just long enough to register the screaming alarm of incoming fire as the enemy's rails finally struck home. Goruu and his fighter disappeared from scanners amid a massive fireball.
 
 ---
-
-## Chapter List
-
-* Prologue: [Prelude to War](http://deathworlders.com/books/bolthole_aces/chapter-00-prelude-to-war/)
-* Chapter 1: (June '18)
