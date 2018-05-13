@@ -45,7 +45,7 @@ by the owners or governing bodies of those trademarks or places.
 Otherwise, the events and characters portrayed in this story are fictional and
 any resemblance to actual persons or events is accidental.
 
-The author does not automatically share or endorse the opinions and behavior of
+The author does not automatically share or endorse the opinions and behaviour of
 the characters.
 
 ---

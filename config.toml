@@ -1,4 +1,4 @@
-baseURL = "http://deathworlders.com/"
+baseURL = "/"
 languageCode = "en-GB"
 title = "The Deathworlders"
 
@@ -22,3 +22,10 @@ googleAnalytics = "" #Google Analytics ID
 [params]
     tagline = ""
     description = "HFY Stories in the JVerse"
+
+[menu]
+    [[menu.main]]
+        identifier = "books"
+        name = "Books"
+        url = "/books"
+        weight = 1

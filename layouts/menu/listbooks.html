@@ -1,0 +1,34 @@
+{{ partial "header" . }}
+
+<section id="list">
+
+    {{ $baseurl := .Site.BaseURL }}
+
+    {{ .Content }}
+
+    {{ $sections := (.Site.GetPage "section" "books").Sections }}
+    <ol class="books-list">
+        <li class="books-header-li"><span class="books-header">Book</span><span class="books-header right">Latest Chapter</span></li>
+        {{ range $sections }}
+        <li>
+            <a href="{{ .Permalink }}">
+                {{ if isset .Params "title"}}
+                    {{ .Title }}
+                {{ else }}
+                    {{ .Dir }}
+                {{ end }}
+            </a>
+
+            {{ $latestChapter := index .Pages 0 }}
+
+            <a style="float: right" href="{{ $latestChapter.Permalink}}">
+                {{ $latestChapter.Param "title"}}
+            </a>
+
+        </li>
+        {{ end }}
+    </ol>
+
+</section>
+
+{{ partial "footer" . }}
