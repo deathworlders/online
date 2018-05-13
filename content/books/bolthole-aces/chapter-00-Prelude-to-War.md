@@ -1,6 +1,8 @@
 ---
 title: "Chapter 00: Prelude to War"
 date: 2018-05-13
+lastmod: 2018-05-13
+author: "P.A.B.Arianis (paladin3712x)"
 ---
 
 **13 years, 11 months, 2 weeks, 1 day After Vancouver**  
