@@ -2,7 +2,7 @@
 title: "Chapter 12: Only Human"
 date: 2014-11-26
 aliases:
-  - /book/deathworlders/chapter-13-only-human
+ ---/book/deathworlders/chapter-13-only-human
 ---
 
 **Three years and seven months AV**    
@@ -30,7 +30,7 @@ It was a simple reply:
 
 *Our cargo of mineral ores is non-perishable and will come to no harm should we take the slightly longer route that I suggested. I appreciate that the client expects prompt delivery, but I feel certain that they would prefer the shipment arrive slightly delayed, than never arrive at all because the freighter carrying it was raided by Hunters and the personnel* **and children** *on board, devoured.*
 
-*I object in the strongest possible terms to these orders, and request - again - that you authorise us to take the longer route.*
+*I object in the strongest possible terms to these orders, and request---again---that you authorise us to take the longer route.*
 
 *-Shipmaster Kttrvk.*
 
@@ -42,7 +42,7 @@ ___
 
 Jennifer Delaney. Mid-twenties, entirely out of fucks to give about being a pirate queen, colonial governor or immortal, but not letting go of the space-babe part. Currently wearing fatigues, army boots and a thick black woollen jumper, and contemplating the bar of actual *chocolate* on the table in front of her, waiting for the alarm to ring or the spaceship to land or whatever else would interrupt her attempt to enjoy it.
 
-She was also reflecting that, while showing up completely arse-naked and demanding to be clothed wouldn't have been her first choice in ice-breakers - wouldn't even have made the top hundred - it had undeniably worked. Apparently the soldiers respected a woman who didn't give two shits for embarrassment and just asked for a pair of pants. She would have expected to be on the receiving end of a lot of lecherous jokes and sly side-of-the-eye stares, but in fact they were, on the whole, treating her with deference and respect.
+She was also reflecting that, while showing up completely arse-naked and demanding to be clothed wouldn't have been her first choice in ice-breakers---wouldn't even have made the top hundred---it had undeniably worked. Apparently the soldiers respected a woman who didn't give two shits for embarrassment and just asked for a pair of pants. She would have expected to be on the receiving end of a lot of lecherous jokes and sly side-of-the-eye stares, but in fact they were, on the whole, treating her with deference and respect.
 
 "Tastes better if you eat it with your mouth, love."
 
@@ -182,7 +182,7 @@ Rylee flinched. She knew that the voice she heard wasn't exactly Niral so much a
 
 "That's usually what we call it when somebody makes someone else feel uncomfortable by confessing to being… *interested* in them. And all the rest. I'm sorry Niral, I was drunk, I wasn't thinking straight and I ran off at the mouth."
 
-Niral keened softly again and hugged her. Presumably she was hugging quite hard by Gaoian standards, but to Rylee the effect was of being gently hugged by an anorexic teenager - under all that fur, the Gaoian's body was small, wiry, feather-light and frail. "I don't think I understand this 'drunk' thing." Niral told her. "But I wasn't drunk last night, and I still say you're my friend."
+Niral keened softly again and hugged her. Presumably she was hugging quite hard by Gaoian standards, but to Rylee the effect was of being gently hugged by an anorexic teenager---under all that fur, the Gaoian's body was small, wiry, feather-light and frail. "I don't think I understand this 'drunk' thing." Niral told her. "But I wasn't drunk last night, and I still say you're my friend."
 
 "You're not upset?"
 
@@ -246,7 +246,7 @@ He sniffed. "A whole bunch of private companies are pushing into space as fast a
 
 "How much AM I cleared to know about?"
 
-"Right, so we took a look at the way business is done out here and promptly said "fook that", right? Giant fookin' spaceships with giant fookin' guns and even gianter fookin' armour plates pounding the living shite out of each other at spittin' distance. They've got missiles and mines nowadays - apparently they picked that trick up off one of us - but their whole approach is pretty bloody direct."
+"Right, so we took a look at the way business is done out here and promptly said "fook that", right? Giant fookin' spaceships with giant fookin' guns and even gianter fookin' armour plates pounding the living shite out of each other at spittin' distance. They've got missiles and mines nowadays---apparently they picked that trick up off one of us---but their whole approach is pretty bloody direct."
 
 "Oh. Really? One of, um, us?"
 
@@ -254,7 +254,7 @@ He sniffed. "A whole bunch of private companies are pushing into space as fast a
 
 Jen suddenly became very grateful for the practice she'd had in the art of lying, and bobbled her head in a way that could mean anything but didn't really meaning anything *specific*. Powell apparently took it agreeably.
 
-"Anyway," he continued "the ships we're putting up - or, at least, the Lockheed ones that NATO are buying - are built around *not* that. Long-range weaponry, evasive maneuvers, fookloads of electronic warfare. We use capacitors full of reserve power rather than big reactors, so our ships are small and agile little buggers, built to hit and fade, rip things a new one in the opening seconds, then jump out, recharge, come back and do it again."
+"Anyway," he continued "the ships we're putting up---or, at least, the Lockheed ones that NATO are buying---are built around *not* that. Long-range weaponry, evasive maneuvers, fookloads of electronic warfare. We use capacitors full of reserve power rather than big reactors, so our ships are small and agile little buggers, built to hit and fade, rip things a new one in the opening seconds, then jump out, recharge, come back and do it again."
 
 "Our weapons stack up to theirs?" Jen asked. That part was genuine news. She'd known for some time that most weapons that she might find pointed at her were nowhere near as deadly as their equivalent on Earth, but she had always assumed that with thousands of years of science behind them, spaceship guns would be far in advance of anything humanity had yet invented.
 
@@ -368,7 +368,7 @@ He depressed the cafetiere's filter and poured a cup of steaming black Blue Moun
 
 "If they're what I suspect they are, then knocking on your door probably killed me." Kevin said.   "So how about you drop the guru half-speak and get on with the movie."
 
-Singh smiled again, this time allowing his teeth to show - a genuine, human expression of delight. "Certainly." he said.
+Singh smiled again, this time allowing his teeth to show---a genuine, human expression of delight. "Certainly." he said.
 ___
 
 **Civilian Trade Station 1039: "Infinity Awaits"**
@@ -517,7 +517,7 @@ This particular Omega was only one wrong step away from demanding such action, i
 
 This was not because it behaved in an unHunterlike way. Quite the contrary, it did so very carefully, unfailingly and meticulously. What made it *creepy* was that it did not appear to do so naturally. Its thought-broadcasts were simple statements, queries, respectful requests. There was never any emotional content. When it joined the hunt-cry, it did so almost dutifully and by rote, rather than with real enthusiasm.
 
-Thus, even the other Omegas, which usually banded together out of bottom-of-the-heap solidarity, tended to view this particular one as an opportunity to claw back an anemic parody of the authority that other Hunters held over them. The fact that it didn't seem to *mind* - displayed no discernible emotions at all, whether resentment, resignation, complacency or contentment with its lot - only added to the bottom-feeder's abnormality. It simply followed instructions, diligently, swiftly,  competently, and to the full extent of their spirit and intent, often even going above and beyond.
+Thus, even the other Omegas, which usually banded together out of bottom-of-the-heap solidarity, tended to view this particular one as an opportunity to claw back an anemic parody of the authority that other Hunters held over them. The fact that it didn't seem to *mind*---displayed no discernible emotions at all, whether resentment, resignation, complacency or contentment with its lot---only added to the bottom-feeder's abnormality. It simply followed instructions, diligently, swiftly,  competently, and to the full extent of their spirit and intent, often even going above and beyond.
 
 This hinted at the other aberration: The Strange One clearly had a sharp and calculating mind. It saw patterns with ease that other Hunters would overlook. On the few occasions where it had dared to venture an opinion, none of those opinions had yet been wrong. It grasped new tasks within moments, and performed them as well as an experienced expert after only a few days. For a creature so clearly talented to be apparently disinterested in its own stature or reputation was therefore wrong, strange, *creepy*.
 
@@ -629,7 +629,7 @@ ___
 
 For all the Cousin's reassurances, Shipmaster Kttrvk had not been so encouraged as to take the step of leaving station with his mate and children aboard.  They had been left behind, staying at a hotel paid for several (months) in advance through the expenditure of just *one* of the twenty DDCs that the Cousin had agreed to pay in advance, with the other fifty to be delivered upon completion of the mission.
 
-The ship felt empty without them, and he had never felt more alone and jittery. Neither had his crew, all of whom knew that staying on was an enormous risk, but the company's hazard bonuses - and threats - were sufficient to have persuaded most to remain, though all showed serious signs of stress and fear.
+The ship felt empty without them, and he had never felt more alone and jittery. Neither had his crew, all of whom knew that staying on was an enormous risk, but the company's hazard bonuses---and threats---were sufficient to have persuaded most to remain, though all showed serious signs of stress and fear.
 
 It was almost a perverse release therefore to hear the warning chime from the navigation system before they hit the edge of the gravity spike and the ALV drive's field collapsed, dumping them back to the world of the sub-luminal.
 
@@ -639,10 +639,10 @@ This was not for the purposes of fighting off the Hunters, though it was to be h
 
 They waited as the Swarm-ships closed around them and the largest of them settled in to its approach vector, lining up the fusion-ended boarding tube that would violate their hull and inject terrible death onto their decks.
 
-He was beginning to fear just how terrible his mistake had been when the local space sensors alerted him to the arrival - via *jump drive* somehow, despite the apparent absence of any jump beacons in the area - of five ships of unknown type, configuration and origin.
+He was beginning to fear just how terrible his mistake had been when the local space sensors alerted him to the arrival---via *jump drive* somehow, despite the apparent absence of any jump beacons in the area---of five ships of unknown type, configuration and origin.
 
 ___
-"*Edda Wing: Edda Actual - Weapons free. Til Valhall!!*"
+"*Edda Wing: Edda Actual---Weapons free. Til Valhall!!*"
 
 "**OORAH!!**"
 ___
@@ -652,9 +652,9 @@ The alert came at the worst possible time. The Alpha's ship had just lined up an
 
 Already it was moving, abandoning the force-dock maneuver and trying to gain distance enough to raise its shields and accelerate, but it was too late. Exactly what kind of weapon it was that tore the Alpha's vessel apart was unclear, but the side evaporated in a cloud of pulverised armour and metal scraps, and air pressure did the rest, bursting the ship and practically ripping it in half. Thirty-four Hunters, including the Alpha itself, briefly broadcast their dismay and fear across the brood network before fading.
 
-The Beta - now the new Alpha - hooked its neural implants directly into its ship's controls and analysed the situation. There were five of them. The craft were of a strange size, somewhat larger than a fighter or shuttle, but smaller than the next largest conventional class of military vessel. And they were *fast*, apparently blessed with a generous ratio of thrust to mass.
+The Beta---now the new Alpha---hooked its neural implants directly into its ship's controls and analysed the situation. There were five of them. The craft were of a strange size, somewhat larger than a fighter or shuttle, but smaller than the next largest conventional class of military vessel. And they were *fast*, apparently blessed with a generous ratio of thrust to mass.
 
-They were also alarmingly difficult to get a target lock on. Active sensors seemed to slide off their hulls like water off a greasy metal plate, and the ships themselves were small and agile, a combination which made securing a solid fix on their exact location at any given time as much a matter of luck and guesswork as of letting the sensors work. All were clearly being flown by experienced and exceptional pilots - their transversal velocity was high and their movements were coordinated so that if one of the remaining Hunter ships maneuvered to minimise its vulnerability to one attacker, another would be perfectly placed to rake it as it turned.
+They were also alarmingly difficult to get a target lock on. Active sensors seemed to slide off their hulls like water off a greasy metal plate, and the ships themselves were small and agile, a combination which made securing a solid fix on their exact location at any given time as much a matter of luck and guesswork as of letting the sensors work. All were clearly being flown by experienced and exceptional pilots---their transversal velocity was high and their movements were coordinated so that if one of the remaining Hunter ships maneuvered to minimise its vulnerability to one attacker, another would be perfectly placed to rake it as it turned.
 
 +<*Statement; concern*> These are not the tactics of Prey…+
 
@@ -676,7 +676,7 @@ A storm of accurate firepower ablated the shielding around their sterns in secon
 
 A  30mm depleted Uranium armor-piercing incendiary round penetrated through all of the ship's comparatively flimsy internal bulkheads, disintegrating as it went. It arrived in the command deck as a dense knot of incandescent heavy metal that reduced the Alpha to a smear of liquified matter when it passed directly through the command chair before embedding itself in the forward wall. The explosive force of its arrival crushed the other five Hunters on the deck almost simultaneously.
 
-Perforated by hundreds of similar rounds, the rear third of the ship decompressed spectacularly, evaporating into an intricate dancing halo of flashing metallic and ceramic shards, mixed here and there with the odd disembodied piece of Hunter. The handful that were unfortunate enough to survive in the forward compartments did not do so for long - power failed instantly, and with it went the emergency air-retaining forcefields.
+Perforated by hundreds of similar rounds, the rear third of the ship decompressed spectacularly, evaporating into an intricate dancing halo of flashing metallic and ceramic shards, mixed here and there with the odd disembodied piece of Hunter. The handful that were unfortunate enough to survive in the forward compartments did not do so for long---power failed instantly, and with it went the emergency air-retaining forcefields.
 
 From the moment Edda wing arrived on the field to the second the final Hunter ship lost power and fell apart, less than three minutes had elapsed. Not one of the TS-101s had expended even half of their capacitor reserves or ammunition.
 ___
@@ -739,7 +739,7 @@ Jen's lessons with Adrian on a deathworld she had never learned the name of came
 
 Legsy handed her the gun.
 
-"Safety, magazine eject, charging handle. Got that?"Jen repeated the identification, and he nodded, then pointed to something on the top of the gun. " This here's an OCOG - that's Offworld Combat Operations Gunsight. Designed for use in different gravity, right? Aim it at that target down there…" Jen did so. "See how the chevrons tell you the range, and stay on target no matter where your head is? Okay, tuck it into your shoulder a bit more… right. You know how to hold one, anyway. Give it here."
+"Safety, magazine eject, charging handle. Got that?"Jen repeated the identification, and he nodded, then pointed to something on the top of the gun. " This here's an OCOG---that's Offworld Combat Operations Gunsight. Designed for use in different gravity, right? Aim it at that target down there…" Jen did so. "See how the chevrons tell you the range, and stay on target no matter where your head is? Okay, tuck it into your shoulder a bit more… right. You know how to hold one, anyway. Give it here."
 
 When Jen had done so, he demonstrated the correct way to load and charge it a few times before handing it back to her and watching as she repeated the motion. Satisfied, he handed her a magazine with a strip of coloured tape around it.
 
