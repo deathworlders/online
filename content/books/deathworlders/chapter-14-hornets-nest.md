@@ -923,7 +923,7 @@ One of his watcher programs flashed up possibly relevant activity. He had snuck 
 
 He allowed the information to be injected into his consciousness as he worked at getting the drone into the building undetected so that it could "poke the hornet's nest" as Six had ordered.
 
-"*Dispatch, Eight-one-niner, I have a tipoff on a suspect wanted for multiple violent felonies. He's at Skateworld, Linda Vista and Comstock, please advise."*
+*"Dispatch, Eight-one-niner, I have a tipoff on a suspect wanted for multiple violent felonies. He's at Skateworld, Linda Vista and Comstock, please advise."*
 
 Disbelief was the only conceivable response. There was no possible way that Six's biodrone could have been recognised, it was designed to be utterly anonymous. The things *vanished* in crowded areas. Its social stealth should have been perfect.
 
