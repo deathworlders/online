@@ -929,15 +929,15 @@ Disbelief was the only conceivable response. There was no possible way that Six'
 
 He ordered the armed Biodrone to abort its assault on the building, and listened.
 
-"*Eight-one-niner, Dispatch, is the sighting confirmed?"*
+*"Eight-one-niner, Dispatch, is the sighting confirmed?"*
 
-"*Dispatch, Eight-one-niner, positive ID, this guy's wanted for multiple homicide and domestic terrorism, could be a mass shooting about to start over there, request special tactics."*
+*"Dispatch, Eight-one-niner, positive ID, this guy's wanted for multiple homicide and domestic terrorism, could be a mass shooting about to start over there, request special tactics."*
 
 Special tactics. What, exactly, that meant was not known to Seventy-Two, but there was no point sending in the biodrone now---it would surely be intercepted and destroyed without accomplishing anything more than they already had.
 
 In fact, now he thought about it, this was exactly the kind of response that Six had intended to elicit. That it was arriving before anything even started was... very troubling, but...
 
-"*Eight-one-niner, Dispatch, be advised, special tactics is enroute, creating talk group with their captain."
+*"Eight-one-niner, Dispatch, be advised, special tactics is enroute, creating talk group with their captain."*
 
 For the first time since he had arrived on Earth, Seventy-Two understood the urge to swear, and spoke aloud: "Feces!"
 
