@@ -85,7 +85,7 @@ They hadn’t let him stay. He hadn’t been there when Gabriel had first woken 
 
 But he’d finally been able to visit, and now...
 
-Gabriel shifted, then woke. He blinked at his son, confused for a second, and then smiled. "Hey, *Amigo.*"
+Gabriel shifted, then woke. He blinked at his son, confused for a second, and then smiled. "Hey, *Amigo."*
 
 Adam gave up on trying to be manly. He threw himself forward and felt Gabriel bring his free arm---the one without an IV drip in---up and around to hug him, albeit with a grunt of pain.
 
@@ -213,11 +213,11 @@ ___
 
 "Y-hello?"
 
-"*Jenkins, it’s Tremblay.*"
+"*Jenkins, it’s Tremblay."*
 
 Kevin yawned and sat up. "Morning, General." He squinted at the glowing numbers in the dark. "Dude, it’s like oh-five-thirty."
 
-"*Yeah, well, ET intel consultant’s a job that puts you permanently on call, eh? I’ve got some fine gentlemen from down south want a word with you, AND a priority message from the colony. Grab some of that wonder coffee you make and get up here.*"
+"*Yeah, well, ET intel consultant’s a job that puts you permanently on call, eh? I’ve got some fine gentlemen from down south want a word with you, AND a priority message from the colony. Grab some of that wonder coffee you make and get up here."*
 
 The advice to make himself a coffee was sensible on two levels: even if he hadn’t needed to drum up some alertness and drive away the effects of inadequate sleep, it was five-thirty in a winter’s morning in British Columbia. Next to his native Austin, he may as well be above the arctic circle, and three years hadn’t yet served to acclimatize him to the cold. The little disposable cup of triple-strength Mocha served to keep his fingers warm as he grumbled a path through the snow.
 
@@ -393,7 +393,7 @@ Jenkins just closed his eyes and grimaced.
 
 "Do you have any idea why they might do that?" Higgins asked.
 
-"Fear! I mean, look at how much the others are shitting themselves over us." Kevin replied. "Shoving up a forcefield, telling their ships and stations to throw us to the wolves...While I was up there I got moved on as often because they were shit-scared of me as for vagrancy. One little show of some supernatural feat like picking up a forty-pound crate in point seven Gs---you know, *nothing* to us, but to them it’s like "*he’s an unstoppable monster, get him off the station!*". You know, I heard one of us got involved in the Dom-All war like, thirteen years ago? That stupid motherfucker’s the reason every station in the sky has a locker full of nervejam grenades nowadays. Even if the, like, general public didn’t know about us before my dumb ass got on the news mouthing off about religion? The authorities sure as shit *did*, and they armed their security guys accordingly. They’re fucking afraid of us, man."
+"Fear! I mean, look at how much the others are shitting themselves over us." Kevin replied. "Shoving up a forcefield, telling their ships and stations to throw us to the wolves...While I was up there I got moved on as often because they were shit-scared of me as for vagrancy. One little show of some supernatural feat like picking up a forty-pound crate in point seven Gs---you know, *nothing* to us, but to them it’s like "*he’s an unstoppable monster, get him off the station!"*. You know, I heard one of us got involved in the Dom-All war like, thirteen years ago? That stupid motherfucker’s the reason every station in the sky has a locker full of nervejam grenades nowadays. Even if the, like, general public didn’t know about us before my dumb ass got on the news mouthing off about religion? The authorities sure as shit *did*, and they armed their security guys accordingly. They’re fucking afraid of us, man."
 
 "To the point of genociding... how many planets?"
 
@@ -583,7 +583,7 @@ Fortunately, the truth here would work to his advantage. "That wasn’t me."
 
 "Detainee, please stand." they ordered. Stephen gathered his things, nodded to him, and made to leave by the opposite door.
 
-"Come back here!" Six snapped, surging to his feet as far as his restraints would allow and straining against them. "*Come back here, you! You’re LYING!*"
+"Come back here!" Six snapped, surging to his feet as far as his restraints would allow and straining against them. "*Come back here, you! You’re LYING!"*
 
 Stephen didn’t even dignify that accusation with a response.
 
@@ -610,23 +610,23 @@ ___
 
 The lights dimmed again and Temba selected a video file.
 
-The face addressing the camera was a tired-looking, bearded man wearing a black pullover and a dull green beany. "*Project Starstep CO’s daily report, Fifteen-thirty hours, mission day eighty-two.*" he recited, in a thick accent that reminded Kevin of Sean Bean. "*Saunders came back, broadcasting IFF this time, thankfully. He’s given us a couple of starships he claims he stole from the Hierarchy. I’m going to repeat my request to get some experts in ET tech assigned here ASAP: he’s right, we NEED people who can take these things apart. Bad news is, the bloody things don’t have jump drives, so we can’t send them back to Earth for analysis.*"
+The face addressing the camera was a tired-looking, bearded man wearing a black pullover and a dull green beany. "*Project Starstep CO’s daily report, Fifteen-thirty hours, mission day eighty-two."* he recited, in a thick accent that reminded Kevin of Sean Bean. "*Saunders came back, broadcasting IFF this time, thankfully. He’s given us a couple of starships he claims he stole from the Hierarchy. I’m going to repeat my request to get some experts in ET tech assigned here ASAP: he’s right, we NEED people who can take these things apart. Bad news is, the bloody things don’t have jump drives, so we can’t send them back to Earth for analysis."*
 
-"*The worse news is, that this is just two---Saunders kept a third---out of probably a whole lot of this class of ship. They have better-than-best cloaking tech, and so do their missiles. These aren’t small ships, neither. They’re bigger than an aircraft carrier, about as heavily armed as a cruiser, and from what I saw they’re equipped for assault, bombardment, and invasion. There’s got to be some kind of a shipyard out there making these things.*"
+"*The worse news is, that this is just two---Saunders kept a third---out of probably a whole lot of this class of ship. They have better-than-best cloaking tech, and so do their missiles. These aren’t small ships, neither. They’re bigger than an aircraft carrier, about as heavily armed as a cruiser, and from what I saw they’re equipped for assault, bombardment, and invasion. There’s got to be some kind of a shipyard out there making these things."*
 
-"*I’ve talked it over with Sir Jeremy, and our recommendations are as follows: One: We need to get the Coffin set up and bring forward the schedule for the full-scale Array. Two: I want to raise the system shield and go public. Sooner we do it, the less likely we are to have some infiltrator sneak in and drop a beacon. Three: I’m going to need naval crews to assign to these things, and somebody who knows how to refit them with a jump drive. Four: Saunders thinks we should keep them here to defend the colony. I disagree: I think there’s a shipyard out there that needs capturing if possible, and blowing the fook up if not. My lads are itching for a real mission. No further recommendations at this time.*"
+"*I’ve talked it over with Sir Jeremy, and our recommendations are as follows: One: We need to get the Coffin set up and bring forward the schedule for the full-scale Array. Two: I want to raise the system shield and go public. Sooner we do it, the less likely we are to have some infiltrator sneak in and drop a beacon. Three: I’m going to need naval crews to assign to these things, and somebody who knows how to refit them with a jump drive. Four: Saunders thinks we should keep them here to defend the colony. I disagree: I think there’s a shipyard out there that needs capturing if possible, and blowing the fook up if not. My lads are itching for a real mission. No further recommendations at this time."*
 
 He swigged some water before continuing.
 
-"*The other half of Saunders’ delivery, which you’ll probably find more immediately useful, is enclosed. This Hierarchy he keeps talking about apparently have the ability to treat a mind like a data file---transfer it, store it, run it on computers. I’ve gone over that in a previous report. This time, he’s delivered the---he called it the dissected consciousness of a Hierarchy agent known as 'Zero’. We can’t make heads nor tails of it, but he’s got a friend who can interrogate it---enclosed is what’s been learned so far. I’m inclined to trust it.*"
+"*The other half of Saunders’ delivery, which you’ll probably find more immediately useful, is enclosed. This Hierarchy he keeps talking about apparently have the ability to treat a mind like a data file---transfer it, store it, run it on computers. I’ve gone over that in a previous report. This time, he’s delivered the---he called it the dissected consciousness of a Hierarchy agent known as 'Zero’. We can’t make heads nor tails of it, but he’s got a friend who can interrogate it---enclosed is what’s been learned so far. I’m inclined to trust it."*
 
 He rubbed his beard.
 
-"*The existence of a Hierarchy cell on Earth seems likely. Hopefully the information in this document will help Intelligence catch the buggers.*"
+"*The existence of a Hierarchy cell on Earth seems likely. Hopefully the information in this document will help Intelligence catch the buggers."*
 
 He examined some paperwork for a second, thinking.
 
-"*Nowt else to report militarily. Colonial militia training is going well. Sir Jeremy’s civilian report will follow in due time, I consider this high-priority so am sending now. Powell out.*"
+"*Nowt else to report militarily. Colonial militia training is going well. Sir Jeremy’s civilian report will follow in due time, I consider this high-priority so am sending now. Powell out."*
 
 Higgins turned the lights back up.
 
@@ -890,7 +890,7 @@ It was a source of considerable bemusement for the handful of nonhumans who had 
 
 Still. Questionable attitude to safety aside, they knew more about mining asteroids than any human did, and that made them sufficiently valuable to the operation that translation and disease-suppression implants had been mandatory for all personnel. Drew was already in the habit of running his fingers over the slight ridges of metal that adorned his temple, which was already being called the "Spacer’s Tattoo", but he’d fortunately managed to suppress the urge to lick the back of his too-clean teeth.
 
-"*Sugoi.*" agreed Heikichi.
+"*Sugoi."* agreed Heikichi.
 
 Heikichi Togo’s ship suit bore the three diamonds of Mitsubishi. He was an expert in industrial robotics whose English could charitably be described as "abysmal", but that simply didn’t matter thanks to the implants. He could rattle away in Japanese all he wanted and, despite not speaking word one of that language himself, Drew would know exactly what he meant. That had significantly freed up the LLC to recruit from all over the world without regard for language barriers.
 
@@ -904,7 +904,7 @@ Heikichi Togo’s ship suit bore the three diamonds of Mitsubishi. He was an exp
 
 "Hey, we don’t stand on ceremony like that where I’m from. You can call me Drew if you want."
 
-"*Daroo.*"
+"*Daroo."*
 
 "Close enough, mate." They shook hands and parted ways, bound for the offices of their respective company reps.
 
@@ -1034,7 +1034,7 @@ The kids bounced up to him a few minutes later, hand in hand. Both were now past
 
 "Sounds good." she agreed. Adam looked like he’d have preferred to run straight to the next ride, but he relented, knowing that Gabe still wasn’t fully recovered yet. He’d spent so long in a hospital bed thanks to the spinal damage that all the muscles in his legs had atrophied, and his rehab therapy hadn’t yet quite restored him to full working order.
 
-"*Bueno.*" Gabriel fished a few dollars from his wallet and waved them in the general direction of the last vendor they’d seen, then puffed and grimaced his way to the nearest available bench and lowered himself into it, enjoying the sun.
+"*Bueno."* Gabriel fished a few dollars from his wallet and waved them in the general direction of the last vendor they’d seen, then puffed and grimaced his way to the nearest available bench and lowered himself into it, enjoying the sun.
 
 Life was, all things considered, pretty good. He was alive and on the mend, his boy was in love, and his novel was coming along nicely.
 
@@ -1064,7 +1064,7 @@ Six looked up, and the sight of tears in Carl’s own eyes shook him deeply. He�
 
 *<They hurt themselves to break me>* He thought. But he wouldn’t have been Six if he hadn’t tried to fight back, to claim *something* here and now, in Carl’s moment of weakness. To hurt him, on an emotional level.
 
-"*Fuck* you. You’ve beaten me. I’ve betrayed everything I ever lived or cared for. I’ve DESTROYED the Hierarchy. And now you’re fucking *sorry?!*" he exclaimed.
+"*Fuck* you. You’ve beaten me. I’ve betrayed everything I ever lived or cared for. I’ve DESTROYED the Hierarchy. And now you’re fucking *sorry?!"* he exclaimed.
 
 "More than you can know, man. I’ve been through this, it’s how I learned to do it."
 
@@ -1086,7 +1086,7 @@ He paused. "And..."
 
 "...And a peaceful resolution." Carl finished for him.
 
-"I’ve just told you that the Hierarchy’s objective is your extinction, and you’re saying that you still want a *peaceful resolution?*"
+"I’ve just told you that the Hierarchy’s objective is your extinction, and you’re saying that you still want a *peaceful resolution?"*
 
 Carl rested his elbows on the desktop. "My nation has fought bloody and difficult wars in opposition to genocide all across our planet. And from what you’ve told me, your species and the Hierarchy are about the same thing to each other as this organisation is to the American public. Which means that your *people* are... more or less---blameless of plotting to destroy us."
 

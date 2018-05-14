@@ -379,7 +379,7 @@ ___
 
 Gabriel relaxed. Fortunately, Adam Arés hadn’t looked in his father’s direction, and so didn’t notice him lower the gun and relax.
 
-"Hey yourself." Gabriel replied, stepping into the room and ruffling the scrawny teenager’s hair. "Wasn’t expecting you today, *amigo.*"
+"Hey yourself." Gabriel replied, stepping into the room and ruffling the scrawny teenager’s hair. "Wasn’t expecting you today, *amigo."*
 
 Adam pulled away from the hair-ruffle. "Mom’s being *Mom* again." he said, which was all the explanation he needed to give. This wasn’t the first time Adam had caught a cab over here to get away from her, and almost certainly wouldn’t be the last. It was why he had his own key, and the Superintendent knew his face and to let him in from the time his mother had confiscated it.
 
@@ -499,7 +499,7 @@ Gabriel finished his food. "Hey, can you clean this up? I’ma get your bedding 
 
 "No problem." Gabriel stood, ruffled his son’s hair again, and indicated the TV as he passed it. "Turn it off and go to sleep at midnight, and no jacking off on my couch."
 
-"*Dad!*"
+"*Dad!"*
 
 ___
 **Date Point 3y 8m 2w 3d AV**
@@ -607,7 +607,7 @@ He bent over backwards, planted his hands on the floor and kicked up until he wa
 
 "Oh, it is. As far as the Numbers know, the operation on this planet is still being overseen by Seventy-Two. I am here...unofficially."
 
-"*Unofficially?!*" Seventy-Two spat the word.
+"*Unofficially?!"* Seventy-Two spat the word.
 
 "Officially so."
 
@@ -818,7 +818,7 @@ Ava had insisted that, because Adam had paid for the tickets, she would pay for 
 
 That lady over there... worried for her kid standing on the rail. That guy over there... no, he was just after his cellphone. That lady over *there* was running, but... no, she just settled into her seat with a smile, sharing a lively greeting and a hug-and-double-cheek-kiss with her friend. That guy over there... was...
 
-"Oh *shit.*" He swore.
+"Oh *shit."* He swore.
 
 Nobody else could be so... average, so bland. It was almost a defining trait in its own right. If he hadn’t been walking too slowly, looking around at the crowd rather than down at the players, if he hadn’t been jigging slowly as he moved, as if anticipating something, Adam’s eyes would have skipped straight over the guy. As it was, the anomalous movement and attitude drew his eye, and his memory did the rest.
 
@@ -899,7 +899,7 @@ Ava read the message, looked at his expression, and thank *Christ*, decided not 
 
 "I hope so." she folded her arms low across her tummy, hunched and stressed. Adam didn’t even think twice---he drew her in for a hug.
 
-He looked at his phone as it pinged again. The message just read: "*Proud of you. Love you. Stay safe.*"
+He looked at his phone as it pinged again. The message just read: "*Proud of you. Love you. Stay safe."*
 ___
 **Date Point 3y 8m 2w 4d AV**
 
@@ -923,15 +923,15 @@ One of his watcher programs flashed up possibly relevant activity. He had snuck 
 
 He allowed the information to be injected into his consciousness as he worked at getting the drone into the building undetected so that it could "poke the hornet’s nest" as Six had ordered.
 
-"*Dispatch, Eight-one-niner, I have a tipoff on a suspect wanted for multiple violent felonies. He’s at Skateworld, Linda Vista and Comstock, please advise.*"
+"*Dispatch, Eight-one-niner, I have a tipoff on a suspect wanted for multiple violent felonies. He’s at Skateworld, Linda Vista and Comstock, please advise."*
 
 Disbelief was the only conceivable response. There was no possible way that Six’s biodrone could have been recognised, it was designed to be utterly anonymous. The things *vanished* in crowded areas. Its social stealth should have been perfect.
 
 He ordered the armed Biodrone to abort its assault on the building, and listened.
 
-"*Eight-one-niner, Dispatch, is the sighting confirmed?*"
+"*Eight-one-niner, Dispatch, is the sighting confirmed?"*
 
-"*Dispatch, Eight-one-niner, positive ID, this guy’s wanted for multiple homicide and domestic terrorism, could be a mass shooting about to start over there, request special tactics.*"
+"*Dispatch, Eight-one-niner, positive ID, this guy’s wanted for multiple homicide and domestic terrorism, could be a mass shooting about to start over there, request special tactics."*
 
 Special tactics. What, exactly, that meant was not known to Seventy-Two, but there was no point sending in the biodrone now---it would surely be intercepted and destroyed without accomplishing anything more than they already had.
 
@@ -960,17 +960,17 @@ ___
 
 Gabriel gritted his teeth as Jimmy Rowan took a chance turning right at an intersection without properly stopping to check it. It earned a few honks, but it gained a few seconds, and didn’t need him to hit the siren. The closer they could get without making that noise, the better their hopes that "Johnson" would still be in place when they arrived.
 
-The Special Tactics team was well ahead of him. *Copy that. We’re going in plain clothes, tag him, tranq him, side room and search. Do it right and nobody needs to know.*"
+The Special Tactics team was well ahead of him. *Copy that. We’re going in plain clothes, tag him, tranq him, side room and search. Do it right and nobody needs to know."*
 
 Gabriel keyed his radio again as a red light mercifully turned green just in time.
 
 "Be warned, he’s suspect in a bombing on the East Coast, could be wearing a vest." he advised.
 
-"*We’ve got bomb squad.*" the SWAT captain reassured him. "*ETA one minute*"
+"*We’ve got bomb squad."* the SWAT captain reassured him. "*ETA one minute*"
 
-Dispatch’s voice cut into the conversation again. "*Responding units, be advised we have report on a possible second shooter, loitering in the car park. Caller says she saw him get a rifle out of the trunk.*"
+Dispatch’s voice cut into the conversation again. "*Responding units, be advised we have report on a possible second shooter, loitering in the car park. Caller says she saw him get a rifle out of the trunk."*
 
-The SWAT captain’s reply was terse. "*Copy, Dispatch.*"
+The SWAT captain’s reply was terse. "*Copy, Dispatch."*
 
 There was nothing for it but to let Jimmy drive, and to pray.
 
