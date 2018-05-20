@@ -46,7 +46,7 @@ He dropped the bags and they landed with a solid, dense noise that told me they 
 
 I indicated my understanding by nodding---another gesture our body language shared in common---and raising the fur at the nape of my neck. "The Corti abducted you, didn't they?"
 
-"My kind call them 'Greys.'" he replied.
+"My kind call them *'Greys.'"* he replied.
 
 I nodded. The Corti were small---even smaller than this being---grey-skinned but with large eyes and oversized brains as a result of a centuries-long eugenics program within their species which had vastly expanded their intellect. Most other species suspected that their sense of empathy had atrophied as a side-effect of the campaign to make themselves smarter. They were known for abducting specimens of a pre-Contact species, experimenting on them to acquire biological data, then using that information to be able to sell cybernetic technology to the newcomers that was appropriate to their biology the second they were welcomed into the galactic fold. Unethical, but the species as a whole could not be prosecuted for the actions of a few and so the sale of the implants went ahead anyway. Kevin Jenkins had clearly been one of their victims.
 
