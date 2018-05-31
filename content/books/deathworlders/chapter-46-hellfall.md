@@ -1511,7 +1511,7 @@ ___
 
 Big bastard didn’t go without a fight, that’s ‘fer sure. Its weapons tore up the deck, carved holes in the trains. Daar watched his Brothers throw themselves to safety. Nobody hurt thank *fuck.* Couple’a near hits though, and Daar found himself praying to the *old* gods that everyone’s suits would hold up.
 
-Moho had *balls* though. He popped outta cover the first opening he got and rammed a Javelin right down the fucker’s throat while Sikes laid down covering fire. High-explosive warheads and superplastic metal were some o’ the the most bestest things ever, as far as Daar was concerned---ain’t hardly *any* armor plate ever made could handle that shit.
+Moho had *balls* though. He popped outta cover the first opening he got and rammed a Javelin right down the fucker’s throat while Sikes laid down covering fire. High-explosive warheads and superplastic metal were some o’ the most bestest things ever, as far as Daar was concerned---ain’t hardly *any* armor plate ever made could handle that shit.
 
 It was a close-range shot, dangerously so even for troops like them. But...somethin’ sounded odd about the explosion, a weirdly familiar *thump* that preceded the detonation by a whisker.
 
@@ -1853,13 +1853,15 @@ ___
 
 If you have enjoyed the story so far and want to support the author, you can do so by:
 
-* Becoming a patron at patreon.com/HamboneHFY
+* Becoming a patron at http://patreon.com/HamboneHFY
 
-* Dropping a one-off payment in the tip jar at paypal.me/HamboneHFY
+* Buying some merchandise at http://teepublic.com/HamboneHFY
 
-* Following me and sharing my posts on facebook.com/HamboneHFY/
+* Dropping a one-off payment in the tip jar at http://paypal.me/HamboneHFY
 
-* Voting for *The Deathworlders* at topwebfiction.com
+* Following me and sharing my posts on http://facebook.com/HamboneHFY/
+
+* Voting for *The Deathworlders* at http://topwebfiction.com
 
 This chapter was brought to you with the help of:
 
