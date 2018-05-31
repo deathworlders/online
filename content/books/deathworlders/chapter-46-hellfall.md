@@ -1,3 +1,9 @@
+---
+title: "Chapter 46: Hellfall"
+date: 2018-05-31T13:07
+author: "Philip R. Johnson (Hambone)"
+---
+
 **Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
 
