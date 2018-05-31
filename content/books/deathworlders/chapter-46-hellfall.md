@@ -1,6 +1,6 @@
 ---
 title: "Chapter 46: Hellfall"
-date: 2018-05-31T13:07
+date: 2018-05-31T13:07:00+01:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
@@ -257,7 +257,7 @@ She hit the shower just long enough to freshen up while doing her best to keep h
 
 She didn’t need long to select a businesslike graphite pants suit with a red blouse that was a pretty good match for the MBG corporate livery. No jewelry, just a simple minimalist hair clip, and the lightest touch of makeup. She considered herself in the mirror and nodded: She looked professional and composed.
 
-Her phone buzzed just as she was about to summon a cab. It was an email, and it wasn’t form Kevin.
+Her phone buzzed just as she was about to summon a cab. It was an email, and it wasn’t from Kevin.
 
 *Miss Chang,*
 
@@ -1850,3 +1850,122 @@ ___
 
 ___
 ___
+
+If you have enjoyed the story so far and want to support the author, you can do so by:
+
+* Becoming a patron at patreon.com/HamboneHFY
+
+* Dropping a one-off payment in the tip jar at paypal.me/HamboneHFY
+
+* Following me and sharing my posts on facebook.com/HamboneHFY/
+
+* Voting for *The Deathworlders* at topwebfiction.com
+
+This chapter was brought to you with the help of:
+
+---
+
+***The SOR***
+
+*Those special individuals whose contributions to this story go above and beyond mere money*
+
+Ctwelve,
+
+BitterBusiness,
+
+Sally and Stephen Johnson
+
+Ellen Houston
+
+---
+
+**Thirty-two** ***Humans***
+
+TTTA
+
+SirNeonPancake
+
+Adam Duncan
+
+Andrew Huang
+
+Anthony Landry
+
+Anthony Youhas
+
+Arsene
+
+Brandon
+
+Capitalskr
+
+Chris Dye
+
+Daniel Morris
+
+Daniel Shiderly
+
+ELLIOTT S RIDDLE
+
+Greg Tebbutt
+
+His Dread Monarch
+
+HungryWerewolf
+
+JLB58
+
+John Eisenberg
+
+Joseph Szuma
+
+Karthik Mohanarangan
+
+Katja
+
+mudkip201
+
+Nathaniel Phillips
+
+Nicolas Gruenbeck
+
+Rob Rollins
+
+Rodolfo Hernandez
+
+Savvz
+
+Shane Wegner
+
+Theningaraf
+
+tsanth
+
+Volka Creed
+
+Zachary Galicki
+
+---
+
+**Fifty-seven** ***Deathworlders:***
+
+galrock0 Austin Deschner Brian Berland Aaron Hescox Adam Beeman Adam Roundfield Adam Shields Andrew Ford Aryeh Winter atp Bartosz Borkowski Ben Moskovitz Ben Thrussell Buck Caldwell C'tri Goudie Cadwah Chris Bausch Chris Candreva Coret Trobane damnusername Daniel R. Dar Darryl Knight David Jamison Devin Rousso Doules1071HFY Eric Johansson Gygax Fan Ignate Flare Jim Hamrick Jon Kristoffer Skarra Krit Barb Laga Mahesa lovot Magnus Thorgaard Matt Demm Matthew Cook Mel B. Mikee Elliott Myke Harryson Nicholas Enyeart Nick Annunziata NightKhaos Oliver Mernagh Parker Brown Patrick Huizinga Peter Bellaby Peter Poole Richard A Anstett Ryan Cadiz Saph Sintanan Stephane Girardin Sun Rendered theWorst Woodsie13
+
+As well as **Sixty-six** ***Friendly ETs,*** **50** ***Squishy Xenos*** and **253** ***Dizi Rats*** who bring me great joy.
+
+---
+
+Thank you for reading!
+
+*The Deathworlders* will continue in Chapter 47: "Fallout"
+
+___
+
+
+“The Deathworlders” is © Philip Richard Johnson, AKA Hambone, Hambone3110 and HamboneHFY. Some rights are reserved: The copyright holder reserves all commercial rights and ownership of this intellectual property. Permission is given for other parties to share, redistribute and copy this work under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0International License.
+
+All song lyrics, movie titles or other copyrighted material and trademarks that are referenced in this work under fair use are the property of their respective owners. This work contains deliberate mentions of real persons, places and trademarks, which are made purely for reasons of verisimilitude under nominative fair use. These mentions have not been endorsed or sponsored by those persons or by the owners or governing bodies of those trademarks or places.
+
+Otherwise, the events and characters portrayed in this story are fictional and any resemblance to actual persons or events is accidental.
+
+The author does not automatically share or endorse the opinions and behavior of the characters.
