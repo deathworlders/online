@@ -25,7 +25,7 @@ Dead.
 
 ***No.***
 
-Rush to assist. Fatal cardiac injury, impaled right through the sternum. Baseball shaking out a stasis bag. Only hope is to prep her for emergency surgery.
+Rush to assist. Fatal cardiac injury, impaled right through the sternum. BASEBALL shaking out a stasis bag. Only hope is to prep her for emergency surgery.
 
 Her eyes are still open. She looks like she wants to cry.
 
@@ -72,7 +72,7 @@ ___
 
 *Thump*
 
-Jack and Miller’s job now that Moho and the Lads were away was to help keep the jump room clear. He darted onto the platform. They had a turnaround of *seconds,* so there was no time to be nice. He left the stasis bag to the medics, grabbed the skinny guy who was slumped in the middle of the platform, heaved him to his feet and with Miller’s help got him off the platform.
+Jack and Miller’s job now that MOHO and the Lads were away was to help keep the jump room clear. He darted onto the platform. They had a turnaround of *seconds,* so there was no time to be nice. He left the stasis bag to the medics, grabbed the skinny guy who was slumped in the middle of the platform, heaved him to his feet and with Miller’s help got him off the platform.
 
 He fought them, tried to claw back and stay with the bag, screaming a name.
 
@@ -104,7 +104,7 @@ Jack had seen eyes like that before, on the day his parents had told him Sara wa
 
 They were the eyes of a man who’d just had the only thing that kept him moving forward taken away from him. WIld, unfocused, bereft of any idea how to cope.
 
-Jack had the presence of mind to let Cook collapse onto him rather than just letting him crumple into a fetal ball on the floor. The guy weighed *nothing,* he was lighter than most Gaoians, but he hugged as hard as Moho and Jack could tell that he was finally, finally letting go after God-knew-how-many years.
+Jack had the presence of mind to let Cook collapse onto him rather than just letting him crumple into a fetal ball on the floor. The guy weighed *nothing,* he was lighter than most Gaoians, but he hugged as hard as MOHO and Jack could tell that he was finally, finally letting go after God-knew-how-many years.
 
 There was nothing dignified about pain like that.
 
@@ -340,11 +340,11 @@ The Brothers didn’t need telling a second time. Stoneback had plenty toys of t
 
 The HEAT meanwhile were already moving to secure their way outta the shooting gallery.  The map said there was a *big* open space just through the tunnel wall about a hunnerd meters down. Probably it was in vacuum, but that just worked in their favor: The whole strike force were geared up for EVA combat.
 
-Moho and Kiwi deployed their fusion cutters, and Sikes strung in some explosive charges into the resulting holes. They were working smoothly, well-rehearsed and cool. It took seconds.
+MOHO and KIWI deployed their fusion cutters, and Sikes strung in some explosive charges into the resulting holes. They were working smoothly, well-rehearsed and cool. It took seconds.
 
 *“Brace for decomp!”*
 
-Warhorse planted himself and grabbed onto a few of the smaller team members. First Fang dug their suit claws into the floors and walls, the Whitecrests deployed their sticky-paw gloves and boots. In seconds, everybody was holding onto something and ready.
+WARHORSE planted himself and grabbed onto a few of the smaller team members. First Fang dug their suit claws into the floors and walls, the Whitecrests deployed their sticky-paw gloves and boots. In seconds, everybody was holding onto something and ready.
 
 Daar, for his part, grabbed Brother Finn and pinned him to the floor, just in case. He weren’t about to lose anyone *that* Fyu-damned valuable to the Void.
 
@@ -421,7 +421,7 @@ Costello was already thinking through the consequences. “...If they’ve got a
 
 He looked back at IRISH, who’d drawn the unlucky task of hauling it around when Daar had plodded over with a sinister grin and literally dropped the damn thing in his lap. The weapon itself was contained within a stasis field so as not to give away the game to any nosy radiation sensors, but that did nothing to reduce its bulk or its frankly absurd mass; Costello could hardly *budge* it. Apparently, eighteen-point-seven gigatons of boom didn’t come in a small package.
 
-Their third Protector noticed the attention and gave Costello a cheery kind of upward nod. IRISH may have been the newest and “smallest” member of the Beef Bros but that didn’t slow him down one bit. He and Titan---almost a Beef himself---had to work together to maneuver the massive charge through low-gravity, but IRISH bore it under gravity like a turtle bore its shell.
+Their third Protector noticed the attention and gave Costello a cheery kind of upward nod. IRISH may have been the newest and “smallest” member of the Beef Bros but that didn’t slow him down one bit. He and TITAN---almost a Beef himself---had to work together to maneuver the massive charge through low-gravity, but IRISH bore it under gravity like a turtle bore its shell.
 
 On the plus side, if that thing went off while they were anywhere within a few hundred miles of it, they’d never feel it.
 
@@ -865,7 +865,7 @@ TITAN sprang over to it and pressed a sensor against its surface. “...Water,�
 
 “You can work with that, right?” Daar asked.
 
-“Hell yes, sir,” Titan had a grin in his voice as he gestured to SNAPFIRE. Fiin made room as the rest of the force came down to join them.
+“Hell yes, sir,” TITAN had a grin in his voice as he gestured to SNAPFIRE. Fiin made room as the rest of the force came down to join them.
 
 SNAPFIRE was already prepping a charge. “Water hammer?” he asked.
 
@@ -1059,17 +1059,17 @@ Daar left Fiin and Regaari to handle that side of the fight. His own talents wer
 
 It was fast, agile and layered in all sortsa weapons. A tank, yeah. A tank that had the speed and wits to keep its ass covered and didn’t expose itself stupidly. This one was fuckin’ *smart.*
 
-Moho had one’a them latest-gen Javelin anti-tank rounds folded up nice and small on his back. Perfect for takin’ it down, *if* it weren’t shielded an’ *if* he could get a clean shot on it. Alternatively, they had shaped explosive charges which Titan an’ Snapfire were doin’ their best to deploy. The big fucker weren’t gonna be so easy to lure over those traps, but at least they were a way to limit its movement, guard their flanks.
+MOHO had one’a them latest-gen Javelin anti-tank rounds folded up nice and small on his back. Perfect for takin’ it down, *if* it weren’t shielded an’ *if* he could get a clean shot on it. Alternatively, they had shaped explosive charges which Titan an’ Snapfire were doin’ their best to deploy. The big fucker weren’t gonna be so easy to lure over those traps, but at least they were a way to limit its movement, guard their flanks.
 
 Daar, however, had one trick up his sleeve that the Humans didn’t. A little gift from Genshi, the prototype blueprints of which had been rescued from a bank vault right in the opening days of the War. One of Whitecrest’s finest and newest toys.
 
-He picked his moment carefully, waited until the giant Hunter couldn’t see him, then led Starfall and Kiwi up one side in the cover of a so-far undamaged train. His suit was tryin’ to tell him where the monster was via sensor contact, but he didn’t need that---It was makin’ a fuck of a lotta noise as it crashed around and laid down a withering rain o’ bullets. So far, things were lookin’ like a stalemate: It didn’t dare engage the HEAT, an’ they couldn’t catch it.
+He picked his moment carefully, waited until the giant Hunter couldn’t see him, then led STARFALL and KIWI up one side in the cover of a so-far undamaged train. His suit was tryin’ to tell him where the monster was via sensor contact, but he didn’t need that---It was makin’ a fuck of a lotta noise as it crashed around and laid down a withering rain o’ bullets. So far, things were lookin’ like a stalemate: It didn’t dare engage the HEAT, an’ they couldn’t catch it.
 
 Pounce was Daar’s very most *favoritest* game.
 
 His moment came when the big’n jinked toward him. He went one way, gestured for the two Humans to go another. They got its attention with a burst of accurate fire that rippled and flashed harmlessly off its shield while Daar sprinted four-pawed across the open ground behind it and left his toy on the deck behind him, armed and waiting.
 
-*Shit* that gun was nasty. Kiwi staggered back into cover as a round crunched into his midsuit armor, and fell heavily on his ass. Sensing an opening the monster advanced, thirsty for blood.
+*Shit* that gun was nasty. KIWI staggered back into cover as a round crunched into his midsuit armor, and fell heavily on his ass. Sensing an opening the monster advanced, thirsty for blood.
 
 It was thwarted by the Beef Trio. ‘Horse and ‘Base both used the heavy version of the GR-1d, with the amped-up heavy coils and the dense penetrator rounds, while Righteous preferred the agile short-barreled configuration with the rapid-charge coils that could spit bullets like a firehose.
 
@@ -1081,11 +1081,11 @@ His preferred GR-1d was a marksman variant. Long-barrelled, powerful, and lethal
 
 Thwarted and wounded, it sprayed them with a parting burst of firepower to force their heads down, and vanished among the trains.
 
-‘Base and ‘Horse immediately piled onto Kiwi, checking he was alright, but he waved them off as he tried to stand up.
+‘Base and ‘Horse immediately piled onto KIWI, checking he was alright, but he waved them off as he tried to stand up.
 
 “‘M’alright... Jus’ winded...”
 
-‘Base didn’t bother arguing with him, wrapped an arm around Kiwi’s gut and stood up with several hundred pounds of Operator plus his gear flung effortlessly over his shoulder. “Nuh-uh. Quick check and some Crude. Just take a minute.” He jogged off toward relative safety; two men out of the fight for the moment.
+‘Base didn’t bother arguing with him, wrapped an arm around KIWI’s gut and stood up with several hundred pounds of Operator plus his gear flung effortlessly over his shoulder. “Nuh-uh. Quick check and some Crude. Just take a minute.” He jogged off toward relative safety; two men out of the fight for the moment.
 
 There was another *thump.* That Array was still up, an’ it needed to come down *yesterday* before another one’a those tanks came through.
 
@@ -1109,7 +1109,7 @@ Mears had told them to go get some rest of their own when Spears and Choi had bo
 
 They’d wandered back through into the suit workshop. It was deserted now: the other techs had all sorted out their charges’ gear, straightened out their stations, stowed their tools and replenished their material supplies, cleaned up, and gone to wait on standby mode for their Operators to return.
 
-Moho’s station was a little island of disarray in the middle of all that orderliness. Probably only suit techs would have spotted the difference, but to their practiced eye it stood out like Firth wearing one of his eye-gouging aloha shirts to a funeral.
+MOHO’s station was a little island of disarray in the middle of all that orderliness. Probably only suit techs would have spotted the difference, but to their practiced eye it stood out like Firth wearing one of his eye-gouging aloha shirts to a funeral.
 
 They set to work on cleaning it up.
 
@@ -1501,7 +1501,7 @@ Trust the Protectors to come up with a solution. Even by their standards that wa
 
 They had it, they *had* it! He could feel it in his gritted teeth. As the Whitecrests redeployed up the right flank they had their tricky little gizmos ready for if it went that way. If it tried to go down the middle it’d run right into the HEAT and Costello was pretty sure it *wouldn’t* stand up to a serious volley of penetrator rounds.
 
-And if it went left, there was Moho waiting for it with his Javelin.
+And if it went left, there was MOHO waiting for it with his Javelin.
 
 It went left.
 
@@ -1511,13 +1511,13 @@ ___
 
 Big bastard didn’t go without a fight, that’s ‘fer sure. Its weapons tore up the deck, carved holes in the trains. Daar watched his Brothers throw themselves to safety. Nobody hurt thank *fuck.* Couple’a near hits though, and Daar found himself praying to the *old* gods that everyone’s suits would hold up.
 
-Moho had *balls* though. He popped outta cover the first opening he got and rammed a Javelin right down the fucker’s throat while Sikes laid down covering fire. High-explosive warheads and superplastic metal were some o’ the most bestest things ever, as far as Daar was concerned---ain’t hardly *any* armor plate ever made could handle that shit.
+MOHO had *balls* though. He popped outta cover the first opening he got and rammed a Javelin right down the fucker’s throat while Sikes laid down covering fire. High-explosive warheads and superplastic metal were some o’ the most bestest things ever, as far as Daar was concerned---ain’t hardly *any* armor plate ever made could handle that shit.
 
 It was a close-range shot, dangerously so even for troops like them. But...somethin’ sounded odd about the explosion, a weirdly familiar *thump* that preceded the detonation by a whisker.
 
 Then there was just the blast. Daar felt it thump through his body, rattle his bones and guts, and was pretty sure it knocked his brains about some too. Not that he needed any more o’ that in his life, but whatever.
 
-Moho seemed unfazed. He was doin’ good as shit ‘fer his green HEAT deployment, but Humans seemed born to this kinda thing so Daar weren’t too surprised. He ignored the piece of hot shrapnel smoking on his arm, dropped his Javelin launcher, snapped his GR-1D back up and advanced to check his kill. Good instincts, good game. Fuck yeah.
+MOHO seemed unfazed. He was doin’ good as shit ‘fer his green HEAT deployment, but Humans seemed born to this kinda thing so Daar weren’t too surprised. He ignored the piece of hot shrapnel smoking on his arm, dropped his Javelin launcher, snapped his GR-1D back up and advanced to check his kill. Good instincts, good game. Fuck yeah.
 
 *“...It’s down.”*
 
@@ -1531,7 +1531,7 @@ Regaari ran a scanner over the twisted metal. “...There’s a void here. Looks
 
 “Exactly.”
 
-“Coulda sworn I heard a jump-thump just before I shot it,” Moho volunteered.
+“Coulda sworn I heard a jump-thump just before I shot it,” MOHO volunteered.
 
 “So did I.” Regaari swept his sensor over the rest of the wreckage then duck-nodded. “If I had to guess, I’d say the pilot ejected.”
 
@@ -1539,11 +1539,11 @@ Regaari ran a scanner over the twisted metal. “...There’s a void here. Looks
 
 “Right. Next compartment should be that ship-wreckin’ yard,” Daar said. “That’s our bomb site and egress. Check your suit seals, I don’t wanna find out somebody’s got a breach halfway through the HELLNO.”
 
-“That means you, Moho,” Titan said. He checked the spot on the big Defender’s arm where the shrapnel had burned through the outersuit, and dug a pair of needle-nose pliers in, emerging after a few seconds and a tearing noise with a chunk of jagged metal as big as one of Daar’s ears.
+“That means you, MOHO,” TITAN said. He checked the spot on the big Defender’s arm where the shrapnel had burned through the outersuit, and dug a pair of needle-nose pliers in, emerging after a few seconds and a tearing noise with a chunk of jagged metal as big as one of Daar’s ears.
 
 “...Superficial damage. Suit integrity’s fine.”
 
-“Think I’ll keep that,” Moho said, pocketing the fragment.
+“Think I’ll keep that,” MOHO said, pocketing the fragment.
 
 Costello nodded satisfaction then turned around. “Irish? How’s the payload?”
 
