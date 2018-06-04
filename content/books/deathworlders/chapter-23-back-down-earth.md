@@ -5,7 +5,7 @@ aliases:
   - /book/deathworlders/chapter-23-back-down-earth
 ---
 
-**Date Point: 10y2m2w AV**    
+**Date Point: 10y2m2w AV**
 **HMS Caledonia, Deep Space**
 
 ***Adam Arés***
@@ -22,7 +22,7 @@ aliases:
 
 The five of them turned. "Hey Kovač." Adam smiled at her. The diminutive blonde NCO in charge of biomechanics and EVA system life support gave him a friendly wave, though her attention was on her tablet.
 
-"pH balance check and last QA, guys." she announced. “Show me your butts.”
+"pH balance check and last QA, guys." she announced. "Show me your butts."
 
 They dutifully turned around with an assortment of chuckles, presenting the life-support packs that rode low on their back and pelvis for her to assess with her tools. "So what were you guys talking about?"
 
@@ -30,21 +30,21 @@ They dutifully turned around with an assortment of chuckles, presenting the life
 
 She shuddered. "*Yuurgh.* Just the *thought* of that…!"
 
-"I know, right?" Baseball agreed. “Fuckin' shoot me, if it ever happens to me.”
+"I know, right?" Baseball agreed. "Fuckin' shoot me, if it ever happens to me."
 
-This sparked universal agreement. "So you're basically having a '*who would win in a fight?*' conversation." Kovač noted. “Very macho. You're good, Firth.”
+This sparked universal agreement. "So you're basically having a '*who would win in a fight?*' conversation." Kovač noted. "Very macho. You're good, Firth."
 
 "Yeah, but this way it's practical an' shit." Sikes noted.
 
-"Well, don't let me stop you…" she assured them, after a few seconds of silence. “You're good, Burgess.”
+"Well, don't let me stop you…" she assured them, after a few seconds of silence. "You're good, Burgess."
 
-"Okay..." Vandenberg thought for a second. “Blaczynski?”
+"Okay…" Vandenberg thought for a second. "Blaczynski?"
 
 "He's too cautious for an ambush. Just gotta put the pressure on, I guess. Suppress him and work round the side." Firth noted.
 
 "Okay… Warhorse then."
 
-Kovač giggled. "Sniper round. From long range." she suggested. “You're good, Rebar.”
+Kovač giggled. "Sniper round. From long range." she suggested. "You're good, Rebar."
 
 Everyone nodded, muttering variations on the theme of "Oh yeah."
 
@@ -62,19 +62,19 @@ Everyone nodded, muttering variations on the theme of "Oh yeah."
 
 "Gee, thanks…" Adam rolled his eyes.
 
-"Shame to ruin that face, though." Kovač teased. “You're good, Arés.”
+"Shame to ruin that face, though." Kovač teased. "You're good, Arés."
 
-"Same goes for you, Base." Vandenberg said. “Get some JETS guy to do it from a thousand yards.”
+"Same goes for you, Base." Vandenberg said. "Get some JETS guy to do it from a thousand yards."
 
 "Damn straight!" Burgess agreed, and exchanged a fist bump with him.
 
-"...What about the Major?" Firth asked.
+"…What about the Major?" Firth asked.
 
 "Major Powell?" Adam asked, still trying to ignore the comment about his face. Kovač had a knack for making his ears go red, though right now they were mercifully hidden under the collar and neck sheath of his EV-MASS.
 
 "What other fuckin' Major am I gonna be talkin' about, dumbass?"
 
-"...right. Yeah."
+"…right. Yeah."
 
 "You're good, Sikes."
 
@@ -86,13 +86,13 @@ Everyone nodded, muttering variations on the theme of "Oh yeah."
 
 "Dude, come on, yeah he's a fuckin' badass but he's not THAT-"
 
-"Nah bro." Baseball interrupted. “It's not about him being too scary, though he fuckin' *is*. It's about giving him a proper sendoff.”
+"Nah bro." Baseball interrupted. "It's not about him being too scary, though he fuckin' *is*. It's about giving him a proper sendoff."
 
-"...you're right." Adam agreed. “He'd deserve nothing less.”
+"…you're right." Adam agreed. "He'd deserve nothing less."
 
 "Nuke the site from orbit." Firth nodded.
 
-"It's the only way to be sure." Kovač finished for him. “Helmets and masks on, boys.”
+"It's the only way to be sure." Kovač finished for him. "Helmets and masks on, boys."
 
 They scooped the helmets up and put them on, pushing them down firmly until they engaged with the rigid component of the seal at the back of the skull with a sharp *clack!* The mask locked into place along the jawbone and mated with the suit's air supply and to the helmet with similar mechanical solidity. The flexible rubber seal that did the rest of the work of keeping their faces protected from vacuum slid together easily and automatically.
 
@@ -112,7 +112,7 @@ This was a simple ritual---each man carefully examined the seal of the man besid
 
 "Good."
 
-"All good!" she tapped at the large button on her tablet. “KMP check.”
+"All good!" she tapped at the large button on her tablet. "KMP check."
 
 The spacewalkers stood and jolted in place a bit as they used the controls on their wrists to test their Kinetic Maneuvering Packs, and another round of "Good" was called.
 
@@ -122,7 +122,7 @@ Adam helped the guys shrug on their equipment packages and make sure their loads
 
 "Good." he declared.
 
-"That's our checklist, you're green-lit." Kovač stepped back. “Over to you, Vandenberg.”
+"That's our checklist, you're green-lit." Kovač stepped back. "Over to you, Vandenberg."
 
 "Thanks, Kovač." She nodded and joined the rest of the techs in heading for the airlock. Rebar, being the senior NCO, was in charge of the EVA they were doing.
 
@@ -130,23 +130,23 @@ Adam helped the guys shrug on their equipment packages and make sure their loads
 
 Firth nodded, and touched the side of his helmet. "CIC, RIGHTEOUS, we're green-lit for EVA."
 
-The reply came back in a few seconds. "*RIGHTEOUS, Caledonia CIC, we have you ready. Condition Amber.*"
+The reply came back in a few seconds. "*RIGHTEOUS, Caledonia CIC, we have you ready. Condition Amber."*
 
-"Condition Amber!" Firth called. “Clear the deck!”
+"Condition Amber!" Firth called. "Clear the deck!"
 
-One of the techs by the airlock echoed the call - "Clear the deck!" and they filed out. Once it had cycled and the light above it indicated full seal, Firth nodded to the guys, they exchanged fist-bumps, and he touched his helmet again. “CIC, RIGHTEOUS, go for doors. I say again, we're go for doors.”
+One of the techs by the airlock echoed the call - "Clear the deck!" and they filed out. Once it had cycled and the light above it indicated full seal, Firth nodded to the guys, they exchanged fist-bumps, and he touched his helmet again. "CIC, RIGHTEOUS, go for doors. I say again, we're go for doors."
 
 The acknowledgement was lost as a siren hooted five times---giving plenty of warning to anyone who might need to dash to hit the emergency button---and then the gravity went away. So did the air, brushed to the corners of the room and held in place by a forcefield that swept the deck empty. They all glanced at one another, checking for any signs of distress. Everyone's suit was working fine, and they watched the huge flight deck doors push outwards and then split into two halves, which both swung aside.
 
 Naked stars yawned at Adam from incomprehensibly far away, somehow made to feel close and dangerous by the fact that literally nothing separated him from them save distance and his EV-MASS. All he could hear was the faint muffled sound of his own heart, his own digestion, and the rush of air into and out of his mask past his ears.
 
-"*CIC, RIGHTEOUS. Commencing spacewalk.*"
+"*CIC, RIGHTEOUS. Commencing spacewalk."*
 
-"*Righteous, Caledonia CIC: have fun.*"
+"*Righteous, Caledonia CIC: have fun."*
 
-"*Man, we have* **_got_** *to get some sound or music or something in this shit.*" Baseball commented. “*Vacuum's too quiet.*”
+"*Man, we have* **_got_** *to get some sound or music or something in this shit."* Baseball commented. "*Vacuum's too quiet."*
 
-"*I hear ya… There's our box.*" Firth agreed. Adam's HUD filled with a flight waypoint and instructions on how much thrust to give himself, which he followed to the letter. Firth knew best when it came to EVA navigation.
+"*I hear ya… There's our box."* Firth agreed. Adam's HUD filled with a flight waypoint and instructions on how much thrust to give himself, which he followed to the letter. Firth knew best when it came to EVA navigation.
 
 *Caledonia* threw a spotlight on their target as they got close to it---a round vehicle, the proportionate shape of a hockey puck but twenty feet across and bright blue, covered in alien labels and script. One standard type three Dominion life raft. Without the light, both it and the bulk of their mothership would have been damn near invisible. The human eye had never really been designed for the lighting conditions in interstellar space, some light years from the nearest star. In fact, aside from the spotlight and the blinking beacon atop the liferaft, the nearest and brightest point of light was the gravity spike that *Caledonia* had deployed to catch the tiny craft so that it could be brought aboard.
 
@@ -154,9 +154,9 @@ They swung into place. As Firth set up shop notionally "above" the life raft to 
 
 It didn't take long before Rebar reported "*Done*." prompting a quiet cuss from Sikes.
 
-"*Done. I owe you fifty.*"
+"*Done. I owe you fifty."*
 
-"*Damn right you do. Righteous, over to you.*"
+"*Damn right you do. Righteous, over to you."*
 
 The five of them settled on the life raft and held on as Firth took over piloting it into *Caledonia*'s waiting flight deck.
 
@@ -164,35 +164,35 @@ As they crossed the threshold, Firth made a satisfied noise over the comms. "*Ok
 
 Adam gave him a clear thumbs up and used the computer on the inside of his wrist to connect to the life raft's comms, a process which automatically shut down the stasis field within.
 
-"Hello in there." he announced. “You're being rescued by the United States Air Force.”
+"Hello in there." he announced. "You're being rescued by the United States Air Force."
 
 They'd gone over that one a few times, how to begin that introduction. In the end, they'd decided that any humans in such a life raft would probably have been in there for long enough to not know who the SOR was, and aliens wouldn't know the difference anyway. And, seeing as Adam himself was still after all a pararescueman…
 
-"Before we pop the hatch," he continued “we just want to warn you guys that we’re humans from Earth, so if there’s any special precautions you need us to take to protect you from harm, you let us know.”
+"Before we pop the hatch," he continued "we just want to warn you guys that we"re humans from Earth, so if there"s any special precautions you need us to take to protect you from harm, you let us know."
 
 A male voice answered in definite untranslated English as the doors finished closing behind them, though there was a rough edge to it, like he had a throat infection or something. "*No need, pal. We're American*."
 
-Adam grinned inside his mask when he heard a feminine exclamation of disapproval in the background, and the male voice clarified. "*Alright, two Americans and one Canadian.*"
+Adam grinned inside his mask when he heard a feminine exclamation of disapproval in the background, and the male voice clarified. "*Alright, two Americans and one Canadian."*
 
-"Three humans?" he broadcast an all channels, and the guys all held up a fist in celebration. “Jackpot! Y'all okay in there?”
+"Three humans?" he broadcast an all channels, and the guys all held up a fist in celebration. "Jackpot! Y'all okay in there?"
 
-"*Three cases of recent vacuum exposure. We* **_really_** *need a doctor, fella.*"
+"*Three cases of recent vacuum exposure. We* **_really_** *need a doctor, fella."*
 
 Adam waved at Baseball, who gave him a thumbs up. "Copy that. Sit tight folks, we'll have you out of there in a minute."
 
 He switched his broadcast channel. "Caledonia medical, WARHORSE, do you copy?"
 
-"*WARHORSE, Caledonia medical, loud and clear.*"
+"*WARHORSE, Caledonia medical, loud and clear."*
 
 "Life raft contains three human wounded, zero Echo-Tangoes. Three cases of recent vacuum decompression, probable pulmonary edema, ebullism and DCS, possible pleural effusion. BASEBALL and I will triage, ventilation on standby please."
 
-"*Wilco WARHORSE.*"
+"*Wilco WARHORSE."*
 
-"*SOR, stand by for lunar gravity...*" Adam swung himself out from the liferaft to arm's length, and together they fell gently onto the deck at one-sixth of a G. Pressure returned with a *thump*, and as soon as the raft was down on the deck and safe, the gravity ramped up to one G.
+"*SOR, stand by for lunar gravity…*" Adam swung himself out from the liferaft to arm's length, and together they fell gently onto the deck at one-sixth of a G. Pressure returned with a *thump*, and as soon as the raft was down on the deck and safe, the gravity ramped up to one G.
 
-Two lights over the main flight deck doors turned green. "Two on the board." Firth announced, no longer needing the radio. “REBAR, we're good to break seal.”
+Two lights over the main flight deck doors turned green. "Two on the board." Firth announced, no longer needing the radio. "REBAR, we're good to break seal."
 
-"Clear to break seals." Vandenberg acknowledged. “Get 'em off, guys.”
+"Clear to break seals." Vandenberg acknowledged. "Get 'em off, guys."
 
 Adam got his helmet off as fast as he could, and hit the door release even as the first of *Caledonia*'s medical staff came squeezing through the airlock onto the flight deck with trolleys and life support equipment.
 
@@ -202,23 +202,23 @@ The occupants were in a bad way. The fit-looking tanned dude in the back had bad
 
 "You should see the other guy." the blonde told him.
 
-"Hah! *Bueno.*" He turned back out the door, using the excuse of talking to the people outside to cover prepping a dose of anaesthetic---the Chinese girl was going to need to go on life support immediately, and for that she needed to be asleep.
+"Hah! *Bueno."* He turned back out the door, using the excuse of talking to the people outside to cover prepping a dose of anaesthetic---the Chinese girl was going to need to go on life support immediately, and for that she needed to be asleep.
 
-Not for the first time, he *wished* that they were authorised to use Crue-D for first aid. "Base, get the blonde patient, she looks oedemic." he instructed. “Rebar, I'ma need that board there.” Vandenberg nodded and stepped smartly to retrieving it, so he returned his attention to the Chinese girl.
+Not for the first time, he *wished* that they were authorised to use Crue-D for first aid. "Base, get the blonde patient, she looks oedemic." he instructed. "Rebar, I'ma need that board there." Vandenberg nodded and stepped smartly to retrieving it, so he returned his attention to the Chinese girl.
 
 "Hey, can you try and grip my hand for me?" he asked her. Though she was able to raise her hand and *sort* of grip, there was nothing there in terms of strength, but she was so focused on the task it was simplicity itself to give her the shot with his other hand. She didn't seem to notice.
 
-"Okay, that's fine." He accepted the board from Vandenberg. “I'm just gonna get this board under you and we'll get you taken care of, alright?”
+"Okay, that's fine." He accepted the board from Vandenberg. "I'm just gonna get this board under you and we'll get you taken care of, alright?"
 
 She nodded weakly as he manoeuvred her gently onto it and he realised she hadn't actually spoke yet. "What's your name?"
 
-"Uh…" she frowned. Apparently the anaesthetic was kicking in. “I’m...Xiù. Xiù Chang.”
+"Uh…" she frowned. Apparently the anaesthetic was kicking in. "I"m…Xiù. Xiù Chang."
 
 Adam didn't allow his surprise to show. Of all the people he could have pulled out of a life raft, he'd found Regaari's friend? Besides, her breathing was *definitely* too labored for comfort. There was fluid on her lungs, and that needed to be gone sooner rather than later. Surprising coincidences could be handled later.
 
 "Nice to meet you, Xiù." he told her, as he lifted her easily down from the life raft and onto the waiting trolley.
 
-"A-a-and you?" She was definitely falling asleep now. “Uh… what's your name?”
+"A-a-and you?" She was definitely falling asleep now. "Uh… what's your name?"
 
 He took her hand, comfortingly. "I'm Adam. Staff sergeant Adam Arés, USAF Pararescue." he replied.
 
@@ -227,7 +227,7 @@ He was pretty sure she was asleep by the end of the sentence.
 "Right… let's get that chest drain in." he told the medics.
 
 ___
-**Date Point 10y2m2w AV**    
+**Date Point 10y2m2w AV**
 **The Arabian Sea, Earth.**
 
 ***Biodrone***
@@ -293,18 +293,18 @@ Together, the biodrones vaulted the rail and sank. The rings of white water they
 Twenty minutes later, when a helicopter full of marines from PNS *Zulfiquar* arrived in response to a failure to make routine contact, they found only the corpses of their comrades and a worrying absence of the ship's cargo.
 
 ___
-**Date Point 10y2m2w AV**    
+**Date Point 10y2m2w AV**
 **HMS** **_Sharman_** **(HMNB Folctha), Folctha, Cimbrean, The Far Reaches**
 
 ***Adam Arés***.
 
 "Hey Dexter. Man, you are not going to *believe* who we just pulled off a life raft on the edge of Elder Space. Although, maybe you can guess, because you wouldn't be interested otherwise, huh? Anyway, we found your friend Xiù!"
 
-"You tellin' Dexter?" Sikes stuck his head into the tablet's camera field of view. “Hey Dexter!”
+"You tellin' Dexter?" Sikes stuck his head into the tablet's camera field of view. "Hey Dexter!"
 
 This prompted Baseball, Firth and Rebar to join in too, and Adam just grinned at the camera as they expressed a series of happy greetings to their Gaoian friend-slash-mascot, before he finally shooed them away.
 
-"Yeah, you've gotta visit us sometime man. We can do, like, a joint training thing or something. Maybe see what you've got to teach us, like that fucking pulse-gun trick you pulled, that shit was *insane*!" He cleared his throat. “Anyway… yeah, we found your friend. Looks like she's been stuck in that pod for about five years, and they had a *rough* time of it, but she's alive. By the time you've got this they'll probably have taken her back to Earth, but don't worry, I'm sure we'll be able to sort out putting you two back in touch again...”
+"Yeah, you've gotta visit us sometime man. We can do, like, a joint training thing or something. Maybe see what you've got to teach us, like that fucking pulse-gun trick you pulled, that shit was *insane*!" He cleared his throat. "Anyway… yeah, we found your friend. Looks like she's been stuck in that pod for about five years, and they had a *rough* time of it, but she's alive. By the time you've got this they'll probably have taken her back to Earth, but don't worry, I'm sure we'll be able to sort out putting you two back in touch again…"
 
 "Uh… Yeah, give my regards to this Ayma of yours. Guess she'll want to know too. And… yeah that's about it. I'll see you around, southpaw. Peace!"
 
@@ -314,7 +314,7 @@ He stopped the recording, and sent it without bothering to play it back. Regaari
 
 "Good day." he commented.
 
-"Yeah..."
+"Yeah…"
 
 Baseball had been doing that a bit for a while now. Something was bugging him, Adam could tell, but if Base didn't want to share, that was his business. He wasn't about to push it. "You got anything planned?" He asked instead.
 
@@ -322,9 +322,9 @@ Baseball shrugged. "Goin' drinking with Titan. Dude's not been laid since he got
 
 Adam exchanged elaborate handshakes and backslaps with the other three as they left. "Ava's friend Sean's coming up from Earth. Apparently his uncle's like this journalist or something, doing a bit on the Byron group, yeah? We were gonna go up the lake, go for a swim. Really looking forward to that, they only just declared it clean this week. I've not been up there since before I enlisted!"
 
-"Oh..."
+"Oh…"
 
-"...something bothering you, bro?" Adam asked him.
+"…something bothering you, bro?" Adam asked him.
 
 Baseball stood awkwardly in the middle of the locker room, drumming his hands nervously on his thighs and licking his lips.
 
@@ -333,7 +333,7 @@ Adam stood up. "Dude… what's wrong?"
 Baseball apparently reached a decision. "Brother… you better sit your ass back down. I've got something you need to know."
 
 ___
-**Date Point 10y2m2w AV**    
+**Date Point 10y2m2w AV**
 **Whitecrest Clan Enclave, city of Wi Kao, Planet Gao.**
 
 ***Regaari***
@@ -356,15 +356,15 @@ Right now, though, politics ruled the day. That was Regaari's job, and Regaari w
 
 Father Terrik---the elderly officer ostensibly responsible for supervising Regaari's work, scratched at his ear with an air of scepticism. "I had thought that her attachment to the human female… just like Giymuy…?" he suggested.
 
-"-Is much less of an issue than Mother Suri and her supporters like to believe." Regaari informed him. “I had Brother Ruuvi conduct a meta-analysis of the datasphere commentary. Most of the females just don't care, and of those who do the majority are broadly positive.”
+"-Is much less of an issue than Mother Suri and her supporters like to believe." Regaari informed him. "I had Brother Ruuvi conduct a meta-analysis of the datasphere commentary. Most of the females just don't care, and of those who do the majority are broadly positive."
 
 Terrik inclined his head. "Positive?"
 
 "For reasons ranging from the pragmatic to the compassionate." Regaari elaborated. He activated the gesture-based command in his new paw that caused it to project the files in an almost physical format above his palm. With his remaining natural paw, he could select, move and even throw the files around---copying them to another device was as simple as throwing them towards said device. This he now did.
 
-"That's my full report." he explained, as Terrik studied and accepted the incoming file. “It details my findings, my reasoning and my supporting evidence. Much as I like and respect Yulna, I've made every effort to remain neutral and unbiased in my assessment, and I am still convinced that Mother Suri has a negligible chance of being the next Mother Supreme.”
+"That's my full report." he explained, as Terrik studied and accepted the incoming file. "It details my findings, my reasoning and my supporting evidence. Much as I like and respect Yulna, I've made every effort to remain neutral and unbiased in my assessment, and I am still convinced that Mother Suri has a negligible chance of being the next Mother Supreme."
 
-Terrik stood. "I will read it in full and present it to the Fathers." he promised. “Your recommendation, I take it, is to side with Yulna?”
+Terrik stood. "I will read it in full and present it to the Fathers." he promised. "Your recommendation, I take it, is to side with Yulna?"
 
 "The risk to the clan is negligible, and the potential benefits considerable."
 
@@ -374,7 +374,7 @@ Regaari gave it a few minutes and toured his office. He used the time in tidying
 
 That was enough procrastination. He headed out, locked up his office, combed a bit of stray fur back into place as he jogged down the hall, and let himself into Brother Ruuvi's office.
 
-Ruuvi was an ally, a genuine one. A fellow victim of clan politics whose career had been similarly holed by voicing honest concern to the wrong Father, he was even more fervently in favour of reform and a change of leadership than was Regaari. Unlike Regaari, he'd been "promoted" to leadership of the clan's digital security and information wing---what the SOR had called “SigInt” - and, like Regaari, had taken his new role and excelled at it, adapting to the demands of the job with the aplomb and rapidity that had made Clan Whitecrest's reputation.
+Ruuvi was an ally, a genuine one. A fellow victim of clan politics whose career had been similarly holed by voicing honest concern to the wrong Father, he was even more fervently in favour of reform and a change of leadership than was Regaari. Unlike Regaari, he'd been "promoted" to leadership of the clan's digital security and information wing---what the SOR had called "SigInt" - and, like Regaari, had taken his new role and excelled at it, adapting to the demands of the job with the aplomb and rapidity that had made Clan Whitecrest's reputation.
 
 Regaari didn't bother with a greeting---they'd been planning this particular sting all week. "Well?"
 
@@ -384,7 +384,7 @@ Regaari sighed in relief, and Ruuvi chittered. The set of his own ears was relie
 
 Forwarding the file to three Fathers who had, in Regaari's estimation, successfully balanced authority with conscientiousness was strong evidence for the latter.
 
-"Excellent." He growled. “I think we-”
+"Excellent." He growled. "I think we-"
 
 He was interrupted by his communicator, which cheeped at him in a one beep, two beep, three beep rhythm until he checked it.
 
@@ -401,7 +401,7 @@ Ruuvi noticed his colleague's ears prick up. "Good news?"
 Thirty seconds later, his hindclaws slid and scrabbled on the smooth concrete flooring as he bolted out of the room.
 
 ___
-**Date Point 10y2m2w AV**    
+**Date Point 10y2m2w AV**
 **Demeter Road, Folctha, Cimbrean, The Far Reaches**
 
 ***Sean Harvey***
@@ -416,15 +416,15 @@ But… she'd been vindicated. Once Adam had finally seen the need to actually *c
 
 "I thought things were going well?" Sean asked her.
 
-"It is!" she agreed. “It's just… you don't put a relationship back together overnight. Even with the nice apartment and all the time we're spending together, you know...”
+"It is!" she agreed. "It's just… you don't put a relationship back together overnight. Even with the nice apartment and all the time we're spending together, you know…"
 
 "Right. All that time apart, all the changes." Sean agreed.
 
-"He's not changed as much as I was afraid he would." she conceded, setting her coffee down. “Sure, he's big as a bus nowadays and he's got all these skills and training but… he's still got that goofy laugh, those stupid dorky jokes. Whenever he's being romantic, it's like he's been planning it for three weeks...” She sighed, toying with a stray curl of hair. “I've probably changed more, deep down.”
+"He's not changed as much as I was afraid he would." she conceded, setting her coffee down. "Sure, he's big as a bus nowadays and he's got all these skills and training but… he's still got that goofy laugh, those stupid dorky jokes. Whenever he's being romantic, it's like he's been planning it for three weeks…" She sighed, toying with a stray curl of hair. "I've probably changed more, deep down."
 
 "How so?"
 
-"Just… things, you know? My way of looking at things." she shrugged. “I don't know. I just… I think…”
+"Just… things, you know? My way of looking at things." she shrugged. "I don't know. I just… I think…"
 
 Whatever she was trying to think aloud went un-thought at the distant sound of a door slamming and a rapid rhythmic thudding sound that grew stronger by the second. Ava grinned and stood up as what were unmistakably the footfalls of an extremely heavy man came thumping up the last flight of steps. "He's home early! That's great, that means it must have gone-"
 
@@ -436,27 +436,27 @@ Ava had retreated even further across the room as Adam bore down on her, until h
 
 For a deadly few seconds, the only sound was the creak of the last tortured hinge swaying back and forth, as Ava's face went from intimidated shock, to dawning horror.
 
-"Shit." she squeaked. “You know.”
+"Shit." she squeaked. "You know."
 
 For all the fury of his entrance, Adam's voice was dangerously quiet and level. "You *were* stupid enough to talk to Baseball." he pointed out.
 
 However Ava wanted to respond, it didn't come out except as a silent mouthing of the start of a word, and some desperate looking around, blinking rapidly as she tried to think of what to say. She cowered and gave an involuntary terrified gasp when Adam bunched a fist and drove it into the wall so hard that the plaster caved in.
 
-"Where do I start?" He growled. “All this time? And who- was it *this* skinny shit here?”
+"Where do I start?" He growled. "All this time? And who- was it *this* skinny shit here?"
 
 He rounded on Sean who backed away, raising his hands as if they'd do any good at warding off somebody who out-massed him a couple of times over.
 
-Adam took three smart steps forward and immediately had Sean by the front of his shirt, yanking him around so hard that he heard the seams fray. "***YOU?!*** *You wanna own up to this? Did you-?*"
+Adam took three smart steps forward and immediately had Sean by the front of his shirt, yanking him around so hard that he heard the seams fray. "***YOU?!*** *You wanna own up to this? Did you-?"*
 
 There was no refuge save for honesty. Sean did the best job he could of straightening and looking Adam in the eye, swallowed, and nodded. He knew neither if his head was about to go the same way as the wall and the door, nor what he might do to stop it if it was.
 
 Rather than knocking his block off, Adam just made a disgusted noise and gave him a contemptuously gentle shove, landing Sean on his backside a few feet away. He turned and stalked back to Ava, who'd moved out of the corner he'd trapped her in and was watching him wide-eyed, hunched over and trembling, with her hands hugging her upper arms.
 
-"You know what Baseball said you said?" He demanded. “He said you said you don't owe me a fucking apology. What the *fuck*?!”
+"You know what Baseball said you said?" He demanded. "He said you said you don't owe me a fucking apology. What the *fuck*?!"
 
 Ava finally found her voice. "Hear me out." she pleaded.
 
-This was not, apparently, what Adam had wanted to hear. "*HEAR YOU OUT?!*" he barked, and she backed away two stumbling steps as he took a pace toward her. “*Hear you out?!* Sure! Sure I'll fucking hear you out! You've got FIVE seconds to explain yourself, Ava!”
+This was not, apparently, what Adam had wanted to hear. "*HEAR YOU OUT?!"* he barked, and she backed away two stumbling steps as he took a pace toward her. "*Hear you out?!* Sure! Sure I'll fucking hear you out! You've got FIVE seconds to explain yourself, Ava!"
 
 "I-"
 
@@ -470,52 +470,52 @@ This was not, apparently, what Adam had wanted to hear. "*HEAR YOU OUT?!*" he ba
 
 Adam paused in his countdown and just stared at her. For her part, Ava wrung her hands and stared right back, still trembling like a leaf but clearly determined to say her piece.
 
-"You're all I have of home*.*" she said. “You and Dad-”
+"You're all I have of home*."* she said. "You and Dad-"
 
 "Don't you *dare* call him that!" Adam snarled.
 
-"...I can't lose you, and I was *going* to." she forged ahead. “I reached the end of my- I couldn't do it any more, I was sending so much your way and getting nothing back and I ran out, and it was… I had to reach out to somebody.”
+"…I can't lose you, and I was *going* to." she forged ahead. "I reached the end of my- I couldn't do it any more, I was sending so much your way and getting nothing back and I ran out, and it was… I had to reach out to somebody."
 
 "And you couldn't fucking *talk* to me?!" Adam demanded.
 
-"**_I DID!_**" she shot back. “Every time! Every **_fucking_** time, Adam I *told* you time after time and when did you listen? You *didn't!*”
+"**_I DID!_**" she shot back. "Every time! Every **_fucking_** time, Adam I *told* you time after time and when did you listen? You *didn't!"*
 
-"*BULLSHIT!*" Adam exploded. Ava's fire was up and she looked like she was going to keep arguing, but he took another step forward, she backed into the kitchen area, and this time the poor refrigerator took the brunt of his rage, drawing a fearful gasp out of Ava in place of the tirade she'd clearly wanted to unleash. “I *listened!*” he insisted. “But what did you expect me to do, go AWOL? Is that what you'd want instead? Me in prison and all that time and pain wasted?”
+"*BULLSHIT!"* Adam exploded. Ava's fire was up and she looked like she was going to keep arguing, but he took another step forward, she backed into the kitchen area, and this time the poor refrigerator took the brunt of his rage, drawing a fearful gasp out of Ava in place of the tirade she'd clearly wanted to unleash. "I *listened!"* he insisted. "But what did you expect me to do, go AWOL? Is that what you'd want instead? Me in prison and all that time and pain wasted?"
 
 "I-"
 
-Adam prodded her in the chest, hard. She gasped and rubbed at the bruised spot. "I went through *hell*, and the only thing got me through was thinking you had my back." he growled. “Broken bones, torn muscles, nearly *drowning*, pain pain pain, day in, day out for *Five. Fucking. Years*. And don't even get me *started* on some of the nightmares I've had because of what I've learned!”
+Adam prodded her in the chest, hard. She gasped and rubbed at the bruised spot. "I went through *hell*, and the only thing got me through was thinking you had my back." he growled. "Broken bones, torn muscles, nearly *drowning*, pain pain pain, day in, day out for *Five. Fucking. Years*. And don't even get me *started* on some of the nightmares I've had because of what I've learned!"
 
 He prodded her again. "ALL while having to put up with the *exact same* loneliness that you couldn't handle! You think all that time away from you was *easy* for me? And I've had temptation, oh yeah I have! More than a passing little devil, do you *know* how easy it is for guys like me to get laid?"
 
 "Well-"
 
-"**_SHUT UP!!_**" The fridge rocked as it suffered further abuse. “Do you know how often I gave in? Do you know how often I *thought* about giving in?”
+"**_SHUT UP!!_**" The fridge rocked as it suffered further abuse. "Do you know how often I gave in? Do you know how often I *thought* about giving in?"
 
 "Then-"
 
 "**_NOT EVEN FUCKING ONCE!!_**"
 
-In the aftermath of that roar, Sean could have sworn the loudest sound in the room was his own heartbeat, then Adam's finger curled back from under Ava's nose and his head dropped. "Not once. Not even once. Not *once*." he mourned. “Not one single goddamn time, Ava. I did all of this for you. To keep you safe, to...”
+In the aftermath of that roar, Sean could have sworn the loudest sound in the room was his own heartbeat, then Adam's finger curled back from under Ava's nose and his head dropped. "Not once. Not even once. Not *once*." he mourned. "Not one single goddamn time, Ava. I did all of this for you. To keep you safe, to…"
 
 He trailed off.
 
 Ava was weeping openly now. The fear in her body language was gone---for the first time since Sean had known her, she looked *ashamed*.
 
-"But..." she put a hand on Adam's face and he swatted it aside to glare at her again. “Adam, all I ever wanted was *you*.”
+"But…" she put a hand on Adam's face and he swatted it aside to glare at her again. "Adam, all I ever wanted was *you*."
 
-Adam didn't move for a moment. Then he swayed upright, backed off, and gave her a long, slow, tearful appraisal. "Right." he grunted. “It's all about what *you* want.”
+Adam didn't move for a moment. Then he swayed upright, backed off, and gave her a long, slow, tearful appraisal. "Right." he grunted. "It's all about what *you* want."
 
 "Adam-"
 
 "*Fuck you*, Ava. I don't know what happened to you, but I never fell in love with a selfish backstabbing *whore*."
 
-"*Adam-!*"
+"*Adam-!"*
 
 He spun, strode to the door, and put the last hinge out of its misery with a petulant backhand. "Get out of my house." he ordered, and was gone.
 
 ___
-**Date Point 10y2m2w AV**    
+**Date Point 10y2m2w AV**
 **Commune of Females, Wi Kao City, Gao**
 
 ***Regaari***
@@ -554,11 +554,11 @@ Certainly she was the strongest and most highly trained, having spent much of he
 
 Regaari glanced around to quickly check whether Ayma was present, then concluded that Myun had just as much right to know.
 
-"You know, Sister Layra reported you arriving." she said as he approached, laying aside her tablet. “I think you impressed her.”
+"You know, Sister Layra reported you arriving." she said as he approached, laying aside her tablet. "I think you impressed her."
 
-"That may not have been wise." Regaari conceded. “But this is important, and she was in my way.”
+"That may not have been wise." Regaari conceded. "But this is important, and she was in my way."
 
-"What's so important that you'd snap at a commune guard like?" Myun asked. “I mean, Layra probably wants to mate with you now, but if it had been anybody else you-”
+"What's so important that you'd snap at a commune guard like?" Myun asked. "I mean, Layra probably wants to mate with you now, but if it had been anybody else you-"
 
 "The humans found Shoo." Regaari interrupted her, ignoring that nugget of intel for the time being.
 
@@ -576,17 +576,17 @@ Regaari chittered quietly. "Anyway, I don't know more than is in the message the
 
 "Is there any way to find out more?" Myun asked.
 
-"It's a lot easier to get a message *from* the SOR than *to* the SOR..." Regaari mused. Both of them pricked their ears up as they heard the commune-wide announcement for Ayma.
+"It's a lot easier to get a message *from* the SOR than *to* the SOR…" Regaari mused. Both of them pricked their ears up as they heard the commune-wide announcement for Ayma.
 
 "Ayma has Yulna's ear." Myun pointed out, borrowing yet another human phrase. She did that a lot, peppering her language with deathworlder colloquialisms. Regaari had almost begun developing the same habit, but had carefully avoided it---he had the political consequences to think about. Myun on the other hand seemed to have accepted that her enthusiasm for all things human was equal parts profitable and isolating. Either that or she was too headstrong to care.
 
-"True, but Yulna is not Mother-Supreme *yet*." Regaari pointed out. “She may not have as much influence as you think.”
+"True, but Yulna is not Mother-Supreme *yet*." Regaari pointed out. "She may not have as much influence as you think."
 
 "She's going to win, and the humans know it." Myun retorted. She'd been a stubborn cub, and was now a stubborn and slightly naive adult. The fact that Regaari agreed with her assessment was unimportant.
 
 "What's that expression? About those birds you shouldn't count?"
 
-"...before they hatch. C*hickens*." Myun finished for him, deflating. “You're right. But… it's *Shoo.*”
+"…before they hatch. C*hickens*." Myun finished for him, deflating. "You're right. But… it's *Shoo."*
 
 They both jumped a little at Ayma's voice. "Shoo? What about Shoo?"
 
@@ -594,17 +594,17 @@ Regaari stood and they exchanged the nose-rub of old friends. "They found her. S
 
 Ayma made a squeaking noise of delight and relief and sank onto the bench beside Myun, ears swivelling like robots in an assembly line as she tried to settle on a reaction. "Where is she?! Can we see her?"
 
-"I don't know yet." Regaari told her. “I only just got the message. She's back on Earth. It sounds like she got into more trouble.”
+"I don't know yet." Regaari told her. "I only just got the message. She's back on Earth. It sounds like she got into more trouble."
 
-Ayma nodded. "That would be Shoo." she agreed, then stood up again. “So we're going to Earth.”
+Ayma nodded. "That would be Shoo." she agreed, then stood up again. "So we're going to Earth."
 
 Both Regaari and Myun's ears flattened. "You're… you *can't* be serious." Myun squeaked.
 
-"I have waited nearly ten years to finally see her again and… *'kick her ass'* for running away." Ayma proclaimed. “I am *not* letting a little thing like a class twelve deathworld get in my way.”
+"I have waited nearly ten years to finally see her again and… *'kick her ass'* for running away." Ayma proclaimed. "I am *not* letting a little thing like a class twelve deathworld get in my way."
 
 She turned to Regaari. "Besides, didn't you say that the humans wanted to give you some kind of an award?"
 
-"Well… yes, but nobody ever mentioned actually *going to Earth*." Regaari replied. “The pollens in the air on that planet would kill us!”
+"Well… yes, but nobody ever mentioned actually *going to Earth*." Regaari replied. "The pollens in the air on that planet would kill us!"
 
 "We can wear breathing masks."
 
@@ -614,9 +614,9 @@ She turned to Regaari. "Besides, didn't you say that the humans wanted to give y
 
 "Don't you have a cub to look after?" Regaari asked.
 
-"I also have a Sister who needs my help." Ayma retorted. “Of the two, Shoo will need me more: the cub is nearly weaned.”
+"I also have a Sister who needs my help." Ayma retorted. "Of the two, Shoo will need me more: the cub is nearly weaned."
 
-"She's Clan, Regaari." Myun pointed out. “What would *you* do if she was a Whitecrest?”
+"She's Clan, Regaari." Myun pointed out. "What would *you* do if she was a Whitecrest?"
 
 Regaari hesitated, then ducked his head slowly. "I'd already be calling for a shuttle."
 
@@ -624,22 +624,22 @@ The females ducked their own heads, then Myun sighed. "I wish I could come with 
 
 "You're pregnant." Ayma pointed out.
 
-"I know, that's why I said *'I wish I could*'." Myun agreed. “But take a message from me?”
+"I know, that's why I said *'I wish I could*'." Myun agreed. "But take a message from me?"
 
 "Of course."
 
-"I'll… take a Whitecrest ship to Cimbrean and arrange things." Regaari said. “That should take long enough for your cub to be weaned.”
+"I'll… take a Whitecrest ship to Cimbrean and arrange things." Regaari said. "That should take long enough for your cub to be weaned."
 
-"Good." Ayma scratched at her ear, thoughtfully. “I'll… go tell Yulna she needs to do without me for a while.”
+"Good." Ayma scratched at her ear, thoughtfully. "I'll… go tell Yulna she needs to do without me for a while."
 
-"Ayma… she's been in stasis for five human years." Regaari said. “And it was an escape pod. She may be a bit fragile.”
+"Ayma… she's been in stasis for five human years." Regaari said. "And it was an escape pod. She may be a bit fragile."
 
 Ayma just chittered.
 
 "When was Shoo ever *not* fragile?"
 
 ___
-**Date Point 10y2m2w AV**    
+**Date Point 10y2m2w AV**
 **Vancouver General Hospital, Vancouver, British Columbia, Canada, Earth.**
 
 ***Colonel Ted Bartlett***
@@ -650,15 +650,15 @@ The family were waiting outside, pacing and chewing their fingernails and desper
 
 The fact that she had even made it that far spoke volumes of her tenacity.
 
-Her doctor was in no mood to entertain military scientists, however. "She undoubtedly is." She agreed. “But I would very much appreciate knowing why I've got an Army colonel in my ITU, please.”
+Her doctor was in no mood to entertain military scientists, however. "She undoubtedly is." She agreed. "But I would very much appreciate knowing why I've got an Army colonel in my ITU, please."
 
 Ted nodded. "Doctor Spilny, I need to swear you to secrecy on a few things. This is going to be important to her care, but it's also important for… well." he handed over a tablet with a non-disclosure agreement on it. The doctor skimmed it---it wasn't long---and then scrawled her signature and pressed her thumb to the biometric pad for good measure.
 
-"Miss Chang is one of the few people we know of to survive nervejam trauma." Ted told her, after he'd countersigned. “Are you familiar with nervejam at all?”
+"Miss Chang is one of the few people we know of to survive nervejam trauma." Ted told her, after he'd countersigned. "Are you familiar with nervejam at all?"
 
-"I heard it's some kind of alien weapon that can induce fatal seizures..." Spilny conceded.
+"I heard it's some kind of alien weapon that can induce fatal seizures…" Spilny conceded.
 
-"It's… a lot nastier than that." Ted revealed, solemnly. “I'll spare you the jargon, but it works by creating a field that disrupts some specific types of quantum activity that's part of the brain's normal function. Or, rather, forces it to behave a certain-” he trailed off. “The point is that while the effect may wear off instantly, the damage it does is permanent.”
+"It's… a lot nastier than that." Ted revealed, solemnly. "I'll spare you the jargon, but it works by creating a field that disrupts some specific types of quantum activity that's part of the brain's normal function. Or, rather, forces it to behave a certain-" he trailed off. "The point is that while the effect may wear off instantly, the damage it does is permanent."
 
 "Her brain is… scarred?"
 
@@ -666,7 +666,7 @@ Ted nodded, grimly. "Intimately. On a cellular chemistry level. Or… most likel
 
 Mr. Etsicitty and Ms. Buehler had weathered the vacuum of space rather better than Ms. Chang, and were both recovering elsewhere in the building. Etsicitty's foot was attracting prosthetic and rehabilitation specialists from all over North America, who were sharing detailed footage and images of it with their colleagues overseas. By all accounts the interface between flesh and synthetic material was ingeniously self-sterilising, and might well revolutionize the field of human prosthetics. Bartlett, as a lifelong enthusiast for science, was keeping a weather-eye on that development, but it was outside of his field.
 
-To be frank, so was the case of Ms. Chang, but nobody else was even half as qualified as Ted was, so….
+To be frank, so was the case of Ms. Chang, but nobody else was even half as qualified as Ted was, so…
 
 Doctor Spilny frowned at her patient, deep in thought. "Prognosis?"
 
@@ -674,7 +674,7 @@ Doctor Spilny frowned at her patient, deep in thought. "Prognosis?"
 
 "Lab rats?"
 
-"You can't… really scale up the behaviour of rats to the behaviour of humans..." Ted squirmed. “But what we *suspect* is that any existing psychological tendencies or predispositions are likely to be exacerbated. The other thing we noticed was a spike in learning retention and neuroplasticity for some time after exposure, which then tapered off to below previous levels, leaving the subjects, uh, strongly influenced by whatever they were doing immediately after the trauma.”
+"You can't… really scale up the behaviour of rats to the behaviour of humans…" Ted squirmed. "But what we *suspect* is that any existing psychological tendencies or predispositions are likely to be exacerbated. The other thing we noticed was a spike in learning retention and neuroplasticity for some time after exposure, which then tapered off to below previous levels, leaving the subjects, uh, strongly influenced by whatever they were doing immediately after the trauma."
 
 Spilny frowned at her patient again, watching her chest rise and fall with a click-hiss-wheeze as the ventilator did the work on her behalf.
 
@@ -682,7 +682,7 @@ Ted gave her a minute to think, which he used to produce a copy of the research 
 
 Spilny nodded, and accepted it. "I'll be sure to do that."
 
-"There's one last thing..."
+"There's one last thing…"
 
 "Which is?"
 
@@ -703,7 +703,7 @@ Three seconds later, the LED on its back lit up green, and he breathed a sigh of
 Ted let himself out. He didn't make eye contact with the family hovering outside, just nodded politely, touched his fingers to his brow, and made himself scarce, wishing he could do more.
 
 ___
-**Date Point 10y2m2w AV**    
+**Date Point 10y2m2w AV**
 **HMS** **_Sharman_** **(HMNB Folctha), Folctha, Cimbrean, The Far Reaches**
 
 ***John Burgess***
@@ -716,7 +716,7 @@ Hence they were watching '*The Pink Panther*'. The old one, with Peter Sellers. 
 
 "Man, when did I even have the chance?" The movie was on pause and the usual comfortable puppy-pile on the couch had broken up into a standing argument.
 
-Sikes opened his mouth to comment, and John nodded in anticipation of what he was going to say. "Okay, okay, yeah, lots of times, but come *on* man, timing! We were all on edge, we were all… then just as I was about to tell him he went and *proposed* to her, and then before he had a chance to get over that we had the mission, and..."
+Sikes opened his mouth to comment, and John nodded in anticipation of what he was going to say. "Okay, okay, yeah, lots of times, but come *on* man, timing! We were all on edge, we were all… then just as I was about to tell him he went and *proposed* to her, and then before he had a chance to get over that we had the mission, and…"
 
 "And you should of told him!" Titan asserted.
 
@@ -726,21 +726,21 @@ Firth weighed in. "You two are like the bromance of this outfit, how the fuck ar
 
 "He-"
 
-"We're supposed to trust you with our *lives.*" Blaczynski added.
+"We're supposed to trust you with our *lives."* Blaczynski added.
 
 That stung. It downright hurt, in fact. "You *know* you can." John protested, quietly.
 
 "Do we? 'Cause if you can help Horse's girl suck some other asshole's skinny fuckin' dick-"
 
-"Say *what?*" John rounded on Titan. “I didn't fuckin' help her!”
+"Say *what?"* John rounded on Titan. "I didn't fuckin' help her!"
 
 "You let her keep on doing it, dintcha?" Blaczynski retorted.
 
-"'Cause the alternative was ripping Horse's heart out of his fucking chest at *exactly* the wrong moment, man!" John illustrated the mental image with a gesticulation. “We wouldn't HAVE him if I'd done it before now. You think he'd have made it through without at least, like, the *idea* of her? And I'm not sure I'd have made it through without *him!*”
+"'Cause the alternative was ripping Horse's heart out of his fucking chest at *exactly* the wrong moment, man!" John illustrated the mental image with a gesticulation. "We wouldn't HAVE him if I'd done it before now. You think he'd have made it through without at least, like, the *idea* of her? And I'm not sure I'd have made it through without *him!"*
 
 "You think it was a choice between this, or no Protectors at all?" Rebar checked.
 
-John sighed and nodded. "Could be." he agreed. “Even Horse has his limits, man.”
+John sighed and nodded. "Could be." he agreed. "Even Horse has his limits, man."
 
 The three Defenders exchange quick glances, communicating silently.
 
@@ -748,13 +748,13 @@ The three Defenders exchange quick glances, communicating silently.
 
 "He was fucking furious, bro."
 
-"Surprised he didn't tie your ass in a pretzel." Titan said. “Fuck, he's gonna have a face like Armageddon landing when he gets back...”
+"Surprised he didn't tie your ass in a pretzel." Titan said. "Fuck, he's gonna have a face like Armageddon landing when he gets back…"
 
 "Yup." John agreed.
 
 "Yeah well, you fucking deserve it." Sikes folded his arms.
 
-"C'mon don't be like that, it's not like I did it to *help her.*"
+"C'mon don't be like that, it's not like I did it to *help her."*
 
 "But you DID help her though."
 
@@ -762,11 +762,11 @@ The three Defenders exchange quick glances, communicating silently.
 
 Everyone looked at Murray. Murray was like that---you could completely forget he was there until he opened his mouth, and softly Scottish though his speech might have been, everyone shut up and listened. Never mind that he was the smallest of the SOR's enlisted men, he commanded attention whenever he chose to.
 
-"...Let's just watch the movie."
+"…Let's just watch the movie."
 
 Everyone paused, then settled a bit. There was a round of nods and murmured agreements, and the guys all sat back down on the couch.
 
-Baseball was left standing. "Uh...hey, lemme in there..." he ventured
+Baseball was left standing. "Uh…hey, lemme in there…" he ventured
 
 "Couch is full, John." Firth told him, not looking at him.
 
@@ -784,7 +784,7 @@ The tension seemed to be just about starting to dissipate---or maybe that was ju
 
 "What the *fuck*?" Firth asked.
 
-"Sounded like it came from the gym." Murray aimed a thumb towards it. “Ah… shit, you don't think Adam…?”
+"Sounded like it came from the gym." Murray aimed a thumb towards it. "Ah… shit, you don't think Adam…?"
 
 He was left standing as the rest of them took off at a run.
 
@@ -792,7 +792,7 @@ Waiting for them in the gym was a sight more disturbing than anything John had s
 
 The 100lb plates were all off their racks and scattered around the gym like schoolyard frisbees. The spring steel barbell at the deadlift station---the one commissioned especially for the Protectors - had bent beyond hope of repair, the one at the squat rack was now roughly the shape of a hockey stick, and Adam was sitting in the middle of the floor, cradling his elbow and sobbing.
 
-Baseball was at his side in a flash. "Oh man, brother, I- *oof!*"
+Baseball was at his side in a flash. "Oh man, brother, I- *oof!"*
 
 The air rushed straight out of him and he felt a stab of pain in his ribs as he found himself caught in the kind of crushing bear-hug that might have pulped an alien and badly hurt most humans.
 
@@ -802,20 +802,20 @@ The guys all left him to it and found stuff to do. Murray, Firth and Blaczynski 
 
 Just as the last of the plates was being racked up, Rebar sidled over and gave John a tap on the shoulder.
 
-"Dude, uh… that was a structural wall he busted." He whispered. “We kinda need everyone out of here while we make it safe.”
+"Dude, uh… that was a structural wall he busted." He whispered. "We kinda need everyone out of here while we make it safe."
 
 John nodded at him, then gave Adam's back a hefty pat. "Hey… Horse. Man, we gotta move, okay? Come on, let's get you something to eat."
 
-Adam nodded against his chest, and asked, in the most childish tone that John had ever heard him produce, "...Can I have Eggos?"
+Adam nodded against his chest, and asked, in the most childish tone that John had ever heard him produce, "…Can I have Eggos?"
 
 Everyone had to pause to look at one another, despite the broken wall. Adam Arés - Mister Nutrition himself, the best cook on the team - and *Eggos?* Those were just two concepts that didn't go together, but now was *not* the time to argue.
 
 "Sure brother. Sure. All the Eggos you want, man. Come on. And I'll sort that elbow out while they're cooking."
 
-"...okay."
+"…okay."
 
 ___
-**Date Point 10y2m2w1d AV**    
+**Date Point 10y2m2w1d AV**
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Charlotte Gilroy***
@@ -828,15 +828,15 @@ Except when it resulted in Charlotte's best friend slumped inconsolable over her
 
 Eventually, she sent Ben and Sean on a walk to go get some takeaway, from the good Chinese place on the far side of town that didn't deliver. That earned her an hour of alone time for some girl talk.
 
-Ava certainly seemed to appreciate it. At least, she muttered "...thanks..." as soon as they were gone.
+Ava certainly seemed to appreciate it. At least, she muttered "…thanks…" as soon as they were gone.
 
 "Darling, you're going to have to come up for air sooner or later." Charlotte told her.
 
 It had the desired effect. Ava laughed---a thin, delicate, slightly hysterical laugh, but a laugh nonetheless---and finally unburied her face from her arms. Instead, she rested her elbows on the table and combed her fingers into her hair. "Sorry."
 
-"For being upset? I think you have a right..."
+"For being upset? I think you have a right…"
 
-"It's my own stupid fault though..." Ava sighed. Her hands dropped to the table and she sat back to stare up at the ceiling instead. “What was I *thinking?*”
+"It's my own stupid fault though…" Ava sighed. Her hands dropped to the table and she sat back to stare up at the ceiling instead. "What was I *thinking?"*
 
 "Which bit?"
 
@@ -844,58 +844,58 @@ It had the desired effect. Ava laughed---a thin, delicate, slightly hysterical l
 
 "The bit where you did it, or the bit where you were caught?"
 
-"...God, I don't know." Ava looked around the room. “I just… I don't know.”
+"…God, I don't know." Ava looked around the room. "I just… I don't know."
 
 The clock ticked for them a good ten seconds or so before she sagged and gave Charlotte a pleading look. "What do you think?"
 
 Charlotte took her hand. "You know… that's the first time you've asked for my opinion on this."
 
-"...It is?"
+"…It is?"
 
 "Yeah."
 
-"Oh..." Ava blinked at their hands. “...you'd have told me not to do it, wouldn't you?”
+"Oh…" Ava blinked at their hands. "…you'd have told me not to do it, wouldn't you?"
 
 "I would have." Charlotte agreed.
 
 "Why didn't you?"
 
-"You didn't ask." Charlotte gave her an apologetic facial shrug. “And… I don't think you'd have listened, either.”
+"You didn't ask." Charlotte gave her an apologetic facial shrug. "And… I don't think you'd have listened, either."
 
 Ava paused, then nodded and shut her eyes. "You know why I did it though, right?"
 
-"Darling? You did it because you were lonely and horny and Sean's hot and caring and he's a good match for you." Charlotte asserted. “Don't over-think it.”
+"Darling? You did it because you were lonely and horny and Sean's hot and caring and he's a good match for you." Charlotte asserted. "Don't over-think it."
 
-"But that's just the problem!" Ava exploded, tugging her hand out of Charlotte's grip to gesticulate. “I didn't think about it *enough!* Or… or I thought about it trying to convince… trying to...”
+"But that's just the problem!" Ava exploded, tugging her hand out of Charlotte's grip to gesticulate. "I didn't think about it *enough!* Or… or I thought about it trying to convince… trying to…"
 
 She gripped her hair again "I don't know where I went *wrong*."
 
-"Maybe the bit where you cheated on your boyfriend?" Charlotte suggested. Not unjustifiably, Ava glared at her. “No, darling… maybe it really is that simple. Maybe you should have either… asked him for permission, or broken up with him. Treated him honestly.”
+"Maybe the bit where you cheated on your boyfriend?" Charlotte suggested. Not unjustifiably, Ava glared at her. "No, darling… maybe it really is that simple. Maybe you should have either… asked him for permission, or broken up with him. Treated him honestly."
 
 "You're taking his side?" Ava asked
 
 "You're not?"
 
-Ava hesitated, then swallowed, sighed and rubbed her face. "I'm sorry." She said. “You're right. I should have. I… he said it himself, he was separated from me too.”
+Ava hesitated, then swallowed, sighed and rubbed her face. "I'm sorry." She said. "You're right. I should have. I… he said it himself, he was separated from me too."
 
-"Working relationships are about honesty." Charlotte told her. “If you ever have to hide something, if you ever have to lie about something… maybe it's not working.”
+"Working relationships are about honesty." Charlotte told her. "If you ever have to hide something, if you ever have to lie about something… maybe it's not working."
 
 Ava nodded, miserably. "And it wasn't working for a long time. Right from the moment he decided to sign up." she said.
 
 "Don't blame him." Charlotte cautioned.
 
-"I don't! I… I don't. I just… He was doing what he had to. But I should have told him then that I wasn't happy with it. Maybe if I'd done that..." Ava sighed, and shook her head slowly. “It's done. Can't change it. I can't bring it back, just like I can't bring Sara back, or home, or… or anything. I wish I could, but I can't.”
+"I don't! I… I don't. I just… He was doing what he had to. But I should have told him then that I wasn't happy with it. Maybe if I'd done that…" Ava sighed, and shook her head slowly. "It's done. Can't change it. I can't bring it back, just like I can't bring Sara back, or home, or… or anything. I wish I could, but I can't."
 
 "So… what are you going to do?"
 
-Ava flapped her arms in a resigned shrug. "Move on. I can't stay here, not with Adam and Gabe, I'm not… I won't be able to..." She paused, exasperated by her own lack of eloquence, then stood up. “The boys'll be back in, what, an hour?”
+Ava flapped her arms in a resigned shrug. "Move on. I can't stay here, not with Adam and Gabe, I'm not… I won't be able to…" She paused, exasperated by her own lack of eloquence, then stood up. "The boys'll be back in, what, an hour?"
 
-"Give or take..." Charlotte agreed, as Ava shrugged her coat on and headed for the door. “Why, what are you-?”
+"Give or take…" Charlotte agreed, as Ava shrugged her coat on and headed for the door. "Why, what are you-?"
 
 "I'm going to say goodbye to Dad."
 
 ___
-**Date Point 10y2m2w AV**    
+**Date Point 10y2m2w AV**
 **Byron Group Exploration Vessel 8** **_"Creature of Habit",_** **The Border Stars, Proximal End.**
 
 ***Kevin Jenkins***
@@ -968,15 +968,15 @@ Everyone exchanged glances, and Monica and Derek---co-pilot and flight engineer 
 
 "Never go against his nose for politics full stop." Jennie agreed.
 
-"Jesus, they're launching fighters." Derek announced. “They *really* don't want us docking.”
+"Jesus, they're launching fighters." Derek announced. "They *really* don't want us docking."
 
-"...Woah there, take it easy Four-four-niner, you can plainly see we're holding position. May we at least synchronize comms?"
+"…Woah there, take it easy Four-four-niner, you can plainly see we're holding position. May we at least synchronize comms?"
 
 "Remind them they *have* to under Article Seven of the-" Kevin began to tell him.
 
 "I *know*, Jenks." Derek snapped.
 
-"...Okay."
+"…Okay."
 
 "Yowch." Charlie muttered.
 
@@ -1006,18 +1006,18 @@ Sure enough, their billionaire employer's frowning visage was the very first fra
 
 There was a subtle sound, a little like somebody had thumped a bulkhead with their fist and caused the whole ship to give a dull ring. Interplanetary dark space was gone in an instant, replaced to one side by a grey and cratered horizon and, rising above it…
 
-"Oh no." Kevin moaned. “That *stupid* son of a bitch.”
+"Oh no." Kevin moaned. "That *stupid* son of a bitch."
 
 "What?" Ryan asked.
 
-"He's had an open jump beacon to Earth this *whole time?*"
+"He's had an open jump beacon to Earth this *whole time?"*
 
 "Our emergency recall, yeah. What, is that a problem?"
 
 Kevin spun on his heel and headed for his locker. "That's between me and Moses Byron." he replied.
 
 ___
-**Date Point 10y2m2w AV**    
+**Date Point 10y2m2w AV**
 **Folctha, Cimbrean, the Far Reaches.**
 
 ***Gabriel Arés***
@@ -1032,9 +1032,9 @@ Besides, letting Jess do something as simple as answer the door for him would ha
 
 It was Ava alright, wearing her oldest and favorite jacket, the simple, rugged one that she and Adam had got together before coming to Cimbrean, with the "From Ashes" patch on the sleeve.
 
-She gave him a tiny, sad smile that made him hesitate mid-greeting. "...Hey Dad."
+She gave him a tiny, sad smile that made him hesitate mid-greeting. "…Hey Dad."
 
-"...Hey."
+"…Hey."
 
 "Adam found out."
 
@@ -1044,17 +1044,17 @@ She hugged back, tight and shaking, and mumbled something he didn't catch.
 
 "What was that?"
 
-"I said I'm sorry, I… I didn't see. I was so stupid, I..."
+"I said I'm sorry, I… I didn't see. I was so stupid, I…"
 
-"Shh..." Gabe just held her a bit longer.
+"Shh…" Gabe just held her a bit longer.
 
-Eventually, she pulled away. "I'm… gonna go back to Earth." she announced. “Try and, and… Try and be somebody. Somebody who isn't a complete fuckup.”
+Eventually, she pulled away. "I'm… gonna go back to Earth." she announced. "Try and, and… Try and be somebody. Somebody who isn't a complete fuckup."
 
-"Hey, for what it's worth…" Gabe began “like I said, you're a daughter to me nowadays. I won't lie, when you told us I was… kinda disappointed in you. But I love you anyway, okay? I know you'll do okay.”
+"Hey, for what it's worth…" Gabe began "like I said, you're a daughter to me nowadays. I won't lie, when you told us I was… kinda disappointed in you. But I love you anyway, okay? I know you'll do okay."
 
-"I don't know…" Ava sighed and leaned against the wall. “I can never seem to figure out how to do the right thing.”
+"I don't know…" Ava sighed and leaned against the wall. "I can never seem to figure out how to do the right thing."
 
-"Want some advice?" Gabe offered. She looked up at him, waiting. “Well, okay, it's more of a story...”
+"Want some advice?" Gabe offered. She looked up at him, waiting. "Well, okay, it's more of a story…"
 
 When Ava's expectant gaze didn't change, he nodded and told it. "There was… back in San Diego, there was this woman, a Private Investigator. Terri Boone. I met her… about a year, year and a half before the bomb went off. She'd shot an intruder in her apartment. He was on her couch, had a gun, had no right to be there… open and shut case of self defense."
 
@@ -1066,15 +1066,15 @@ Ava nodded, listening.
 
 He sighed. "A few months later, she was dead. And… She was tied up in the bombing of the city. I can't go into it. But sometimes I ask myself if I could have done anything differently. If maybe had I just been lax on procedure that *one* time, maybe those two million people would still be alive. It's possible."
 
-He held up a hand as Ava started to speak. "Or. Maybe they could have blown up three cities. Or ten. Or maybe the whole world would be bombed flat from orbit by the Hunters by now. I don't know. And that's kinda the point. I regret not doing more for her...But I can't think of a single thing I'd do differently. You see what I'm saying?"
+He held up a hand as Ava started to speak. "Or. Maybe they could have blown up three cities. Or ten. Or maybe the whole world would be bombed flat from orbit by the Hunters by now. I don't know. And that's kinda the point. I regret not doing more for her…But I can't think of a single thing I'd do differently. You see what I'm saying?"
 
 Ava thought about it, then nodded slowly. "You can't do more than what seems like a good idea at the time." she said.
 
-"Right. You screw up, you move on, you learn, you screw up again." Gabe gave her a wry smile. “Some of us screw up worse than others, but… There's no secret. You've just got to forgive yourself and move on.”
+"Right. You screw up, you move on, you learn, you screw up again." Gabe gave her a wry smile. "Some of us screw up worse than others, but… There's no secret. You've just got to forgive yourself and move on."
 
-"Learn from your mistakes..."
+"Learn from your mistakes…"
 
-"Right..." Gabe nodded. “Do you regret...what you did?”
+"Right…" Gabe nodded. "Do you regret…what you did?"
 
 "Yeah."
 
@@ -1084,7 +1084,7 @@ Ava thought about it, then nodded slowly. "You can't do more than what seems lik
 
 "There we go, then. You're a better woman than you were yesterday."
 
-Ava managed to laugh at that, though she sobered again quickly. "...I'm going to miss you, Dad."
+Ava managed to laugh at that, though she sobered again quickly. "…I'm going to miss you, Dad."
 
 "I'll miss you too. Come back, okay? When you're ready."
 
@@ -1107,7 +1107,7 @@ Gabe sighed. "I'll be… I'll just learn from my mistakes and move on, like I to
 Gabe just shrugged, and shrank down into his chair again, rubbing his face. "*Esi es la vida*."
 
 ___
-**Date Point 10y2m2w1d AV**    
+**Date Point 10y2m2w1d AV**
 **Byron Group Head Offices, Omaha, Nebraska, USA, Earth.**
 
 ***Kevin Jenkins.***
@@ -1120,7 +1120,7 @@ Kevin had dealt with his employer's personal assistant before. Byron had a polic
 
 "If it's really that important I can fit you in for tomorrow at-"
 
-She was spared Kevin's frustrated lambasting by her phone ringing, and Moses Byron's voice on the speaker. "*Rachael, if you don't let him in I do believe I'll just need a new door anyway.*"
+She was spared Kevin's frustrated lambasting by her phone ringing, and Moses Byron's voice on the speaker. "*Rachael, if you don't let him in I do believe I'll just need a new door anyway."*
 
 "Yes, Mister Byron."
 
@@ -1142,23 +1142,23 @@ It all spoke to a fondness for the benefits of a billionaire's life while keepin
 
 Byron's head inclined slightly to one side. "Why? You know something I don't?" he asked.
 
-"What, *besides* the Swarm of Swarms? You sent us that video, boss man." Kevin told him. “You think if they can do that to Capitol Station, they'll struggle with us?”
+"What, *besides* the Swarm of Swarms? You sent us that video, boss man." Kevin told him. "You think if they can do that to Capitol Station, they'll struggle with us?"
 
-Byron pushed his chair out of the way and stepped over to the wet bar in the corner. "The Hunters" he said “Don't have a dang thing anywhere even close to Sol.”
+Byron pushed his chair out of the way and stepped over to the wet bar in the corner. "The Hunters" he said "Don't have a dang thing anywhere even close to Sol."
 
 "And how do you know that?" Kevin asked him.
 
-"Oh, that's easy." Byron said. “All we needed was a Hunter's corpse. No shortage of those about, didn't even have to send a fightin' *Homo Sapiens* out to grab one. Just put in a call to the right people. Once the eggheads had its communication implants, engineering a sensor that could pick up their chatter was simplicity itself. They assure me there are no Hunters anywhere near Earth. Drink? I ain't no bartender but I mix a decent Creole...”
+"Oh, that's easy." Byron said. "All we needed was a Hunter's corpse. No shortage of those about, didn't even have to send a fightin' *Homo Sapiens* out to grab one. Just put in a call to the right people. Once the eggheads had its communication implants, engineering a sensor that could pick up their chatter was simplicity itself. They assure me there are no Hunters anywhere near Earth. Drink? I ain't no bartender but I mix a decent Creole…"
 
 "And what about other threats?" Kevin asked, declining the offer with a hand gesture.
 
-Byron paused in pouring a drink for himself. Kevin noted idly that although he'd offered a creole, what he was pouring for himself was actually a Shirley Temple. "You mean to tell me you *know* about some other threats?" he asked, quietly. “What, you were involved in strategic intelligence briefings while you were cleaning tables at SCERF?”
+Byron paused in pouring a drink for himself. Kevin noted idly that although he'd offered a creole, what he was pouring for himself was actually a Shirley Temple. "You mean to tell me you *know* about some other threats?" he asked, quietly. "What, you were involved in strategic intelligence briefings while you were cleaning tables at SCERF?"
 
-"One of the NDAs I'm under forbids me from telling you how many NDAs I'm under nor for what reasons." Kevin shot back. “We're talking serious felony stuff here. But fuck, if it's serious enough and if I have to, I'll break every last fuckin' one and go to the pen knowing I tried to avert disaster.”
+"One of the NDAs I'm under forbids me from telling you how many NDAs I'm under nor for what reasons." Kevin shot back. "We're talking serious felony stuff here. But fuck, if it's serious enough and if I have to, I'll break every last fuckin' one and go to the pen knowing I tried to avert disaster."
 
 Byron arched an eyebrow at him.
 
-"...Though I'd take it as a personal favor if I didn't *have* to." Kevin admitted.
+"…Though I'd take it as a personal favor if I didn't *have* to." Kevin admitted.
 
 "That serious, huh?"
 
@@ -1166,7 +1166,7 @@ A new voice entered the conversation. "More than you might guess, Mister Byron."
 
 Kevin and Byron turned to the door. A slim, trim woman in a dark suit gave them a slim, trim smile and invited herself in. Of Rachael, there was no sign. "Mister Jenkins. I'm pleased to see you have this well in hand. I'll pretend the bit where you mused about sharing classified information was purely speculative."
 
-"Special Agent… Williams, right?" Kevin greeted her, dredging the name up from memory. They hadn't met since the Hierarchy debriefing at Scotch Creek, back before the San Diego blast. “Pleasure to see you again, always nice to see my tax dollars walk in the door wearing Armani.”
+"Special Agent… Williams, right?" Kevin greeted her, dredging the name up from memory. They hadn't met since the Hierarchy debriefing at Scotch Creek, back before the San Diego blast. "Pleasure to see you again, always nice to see my tax dollars walk in the door wearing Armani."
 
 "Good memory." Williams acknowledged him.
 
@@ -1174,58 +1174,58 @@ Kevin and Byron turned to the door. A slim, trim woman in a dark suit gave them 
 
 "He's at his daughter's Bat Mitzvah, thank you for asking. I was invited but, well… there was a serious incident involving an unknown, unshielded and only *barely* encrypted jump beacon orbiting the moon. Lucky for you that ship you rode in on was broadcasting Moses Byron's name everywhere, or you'd have been dead within seconds of arriving."
 
-Byron cleared his throat. "I'm not used" he declared “to being ignored in my own office.”
+Byron cleared his throat. "I'm not used" he declared "to being ignored in my own office."
 
-"Where are my manners?" Williams asked, smoothly producing and opening her identification. “Williams, CIA.”
+"Where are my manners?" Williams asked, smoothly producing and opening her identification. "Williams, CIA."
 
 Byron glowered at the seal she was showing him for a good few seconds as if expecting it to be so cheap a forgery as to fall apart in her hands. When this failed to happen, he grudgingly put his drink down and extended a hand. Williams didn't shake it.
 
-"So." Byron sat down to cover the snub. “Would either of you care to indulge me as to why in the good gosh-darn the Company just walked into my office and my PA is nowhere in sight?”
+"So." Byron sat down to cover the snub. "Would either of you care to indulge me as to why in the good gosh-darn the Company just walked into my office and my PA is nowhere in sight?"
 
 Williams turned a hand palm-up, inviting Kevin to speak. Kevin's caution briefly warred with his desire to launch into a full-blown rant at Byron, and won. Somehow, he suspected he was being tested here.
 
-"There's… let's call it the Big Bad. Out there." he said. “Bigger and badder than the Hunters, that's for sure. It wants us all dead, it might *use* the Hunters to get what it wants… and it's old. Old like you'd laugh me out of the office if I told you.”
+"There's… let's call it the Big Bad. Out there." he said. "Bigger and badder than the Hunters, that's for sure. It wants us all dead, it might *use* the Hunters to get what it wants… and it's old. Old like you'd laugh me out of the office if I told you."
 
 "How Lovecraftian." Byron drawled, swirling his drink. He had that look Kevin had seen on several men in his time, the intense one that spoke of furious calculation going on silently while the face remained impassive.
 
-"I'd almost *prefer* Lovecraft." Williams said. “Mister Jenkins has put it with supreme delicacy, so allow me to be blunter: we are, in real terms, no more militarily powerful on the interstellar scale than we were ten years ago. Forget Cimbrean, and the Firebirds and the V-class destroyers. Forget the Hephaestus LLC and your own accomplishments, forget even the panicky politics of the Dominion. In real terms, the human race collectively is still very much insignificant. But so is a grain of sand, and if you've ever got one of those in your sock, Mister Byron, you know just how irritating a grain of sand can be, and how badly you will want to *scratch* it.”
+"I'd almost *prefer* Lovecraft." Williams said. "Mister Jenkins has put it with supreme delicacy, so allow me to be blunter: we are, in real terms, no more militarily powerful on the interstellar scale than we were ten years ago. Forget Cimbrean, and the Firebirds and the V-class destroyers. Forget the Hephaestus LLC and your own accomplishments, forget even the panicky politics of the Dominion. In real terms, the human race collectively is still very much insignificant. But so is a grain of sand, and if you've ever got one of those in your sock, Mister Byron, you know just how irritating a grain of sand can be, and how badly you will want to *scratch* it."
 
 She flashed that slim, trim smile again. "Except that in our case, scratching is for now impossible thanks to the system containment forcefield that *you* violated."
 
-Byron took a sip and set his glass down. "This seems" he observed “like the kind of critical information that a man in my position, doing the things I was doing, ought to have been told.”
+Byron took a sip and set his glass down. "This seems" he observed "like the kind of critical information that a man in my position, doing the things I was doing, ought to have been told."
 
-"You were, and still are, judged to be a dangerous personality." Williams told him. She stepped forward and, uninvited, put her briefcase on Byron's desk. “Given that you *had* the information to know that your stunt with that beacon was a bad idea and went ahead with it anyway, that judgement stands.”
+"You were, and still are, judged to be a dangerous personality." Williams told him. She stepped forward and, uninvited, put her briefcase on Byron's desk. "Given that you *had* the information to know that your stunt with that beacon was a bad idea and went ahead with it anyway, that judgement stands."
 
-"And you figured that an *ignorant* dangerous personality was less of a problem than an educated one?" Byron retorted. “Extinction ain't exactly in my business plan. Had I known *that* was on the cards...”
+"And you figured that an *ignorant* dangerous personality was less of a problem than an educated one?" Byron retorted. "Extinction ain't exactly in my business plan. Had I known *that* was on the cards…"
 
-"Spare me." Williams interrupted. “We know that Governor Sandy hinted about a danger with neural implants to you in private. Anybody with your resources can't possibly be ignorant of just how aggressively the SOR and JETS were formed, nor of the huge sums of government money that went dark at the same time. And if you *were* somehow oblivious to all of those, I defy you to look me in the eye and tell me that San Diego escaped your attention.”
+"Spare me." Williams interrupted. "We know that Governor Sandy hinted about a danger with neural implants to you in private. Anybody with your resources can't possibly be ignorant of just how aggressively the SOR and JETS were formed, nor of the huge sums of government money that went dark at the same time. And if you *were* somehow oblivious to all of those, I defy you to look me in the eye and tell me that San Diego escaped your attention."
 
 Byron's expression didn't change, but he did draw a long and slightly indignant breath as he listened.
 
-"You already *had* all the information you *needed*, Mister Byron." Williams scolded him. “And still you proceeded unwisely. I shudder to think what you might have done had we filled in the detail for you.”
+"You already *had* all the information you *needed*, Mister Byron." Williams scolded him. "And still you proceeded unwisely. I shudder to think what you might have done had we filled in the detail for you."
 
 "Shoulda co-opted me, then." Byron grunted.
 
-"Maybe." Williams agreed. She turned to Kevin. “Mister Jenkins, I appreciate your involvement here, and I'm sure you could contribute in all sorts of ways, but this conversation between the United States of America and Mister Moses Byron is *not* for mortal ears. I'm sorry.”
+"Maybe." Williams agreed. She turned to Kevin. "Mister Jenkins, I appreciate your involvement here, and I'm sure you could contribute in all sorts of ways, but this conversation between the United States of America and Mister Moses Byron is *not* for mortal ears. I'm sorry."
 
 Kevin knew better than to argue. Williams held all the cards here.
 
-"Arright." he agreed. “But before you lay into my employer…?”
+"Arright." he agreed. "But before you lay into my employer…?"
 
 Williams nodded and made a gesture of invitation.
 
 "If there's a learning point in this whole clusterfuck, it's that we *really* shouldn't be keeping our people in the dark, arright? That goes for you too, Mister Byron. Briefing only two members of the crew about the recall meant I never got the chance to warn you it was a bad idea."
 
-Williams and Byron frowned at each other, then both made a conceding nod. "There's a fine art to secrecy." Williams agreed. “Errors in judgement may have happened all round. We intend to address that.”
+Williams and Byron frowned at each other, then both made a conceding nod. "There's a fine art to secrecy." Williams agreed. "Errors in judgement may have happened all round. We intend to address that."
 
-Byron just nodded again. "Fine." Kevin told them, breathing a little easier. “You two godly folks have fun talking over the mortal's head. I'll see ya at that policy meeting, Mister Byron.”
+Byron just nodded again. "Fine." Kevin told them, breathing a little easier. "You two godly folks have fun talking over the mortal's head. I'll see ya at that policy meeting, Mister Byron."
 
 "I'd be grateful if you would shut the door please, Mister Jenkins." Williams said. She produced a phone from her pocket, and tapped at it as Kevin crossed the room.
 
-Kevin couldn't resist just a *little* eavesdrop as he closed the door. Before it clicked softly shut, the last he heard was "It's me… Yes, he's right here Mister President..."
+Kevin couldn't resist just a *little* eavesdrop as he closed the door. Before it clicked softly shut, the last he heard was "It's me… Yes, he's right here Mister President…"
 
 ___
-**Date Point 10y2m2w1d AV**    
+**Date Point 10y2m2w1d AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Folctha, Cimbrean, the Far Reaches**
 
 ***Adam Arés***
@@ -1234,7 +1234,7 @@ For a blissful few seconds when Adam woke up, there was just the light of sunris
 
 Then yesterday hit him in the head.
 
-"...Fuck."
+"…Fuck."
 
 He levered himself upright. He was still in his civvies, basketball shorts and a T-shirt that he'd made himself, one of the few items of clothing he had that was actually loose on him.
 
@@ -1248,7 +1248,7 @@ Still. If Base had been up most of the night…
 
 Base started slightly in his seat, and blinked his eyes open. "Uh? Oh, shit."
 
-He straightened up, moving his back sinuously with a rapid-fire of little pops and crackles as he cleared out the stiffness from a few hours of bad posture. "Wasn't supposed to sleep..."
+He straightened up, moving his back sinuously with a rapid-fire of little pops and crackles as he cleared out the stiffness from a few hours of bad posture. "Wasn't supposed to sleep…"
 
 "You okay, bro?" Adam asked him.
 
@@ -1264,23 +1264,23 @@ He padded through into the kitchen. "You stayed up all night?" he asked.
 
 "Yeah. We figured somebody had to keep an eye on you."
 
-"Dude, I wasn't gonna do something stupid..."
+"Dude, I wasn't gonna do something stupid…"
 
 "I know, just…" John shrugged expansively, and sipped his re-heated tea.
 
-"...Thanks, bro."
+"…Thanks, bro."
 
 "First breakup's always the worst." John sighed.
 
-"I can't *believe* her." Adam sighed, thumping over to the fridge. To his quiet delight, there was still half a box of Eggos in there. “Where did you even *get* these on Cimbrean?”
+"I can't *believe* her." Adam sighed, thumping over to the fridge. To his quiet delight, there was still half a box of Eggos in there. "Where did you even *get* these on Cimbrean?"
 
 "Londis."
 
 Adam grunted and nodded as he turned on the grill. Able Seaman Thomas *'Londis'* Magoro derived his nickname from a chain of British convenience stores, thanks to his legendary ability to procure almost *anything*. If you wanted something and you wanted it quickly, you went to Londis.
 
-"I gotta ask, brother..." John said. “Eggos?”
+"I gotta ask, brother…" John said. "Eggos?"
 
-Adam shrugged "My dad made them for me whenever Mom was being difficult… Guess they're my comfort food." he laughed. “Hell, shove enough butter and syrup on them, they're probably a great fit for our macronutrients, right?”
+Adam shrugged "My dad made them for me whenever Mom was being difficult… Guess they're my comfort food." he laughed. "Hell, shove enough butter and syrup on them, they're probably a great fit for our macronutrients, right?"
 
 John gave a half-hearted half-laugh and sipped his tea again.
 
@@ -1292,29 +1292,29 @@ Adam hesitated, then shook his head and waved his hands resignedly. "It's done m
 
 John just gave him a patient stare.
 
-"...Alright! Alright. I'm fucking… I just don't know *why* man?! How *could* she! What the fuck? She just threw it all away? Why?"
+"…Alright! Alright. I'm fucking… I just don't know *why* man?! How *could* she! What the fuck? She just threw it all away? Why?"
 
 "Brother… I love you, but you've got the girl-smarts of a fucking ten-year-old." John grunted, and drained his mug.
 
 "You're saying it's *my* fault?" Adam asked, incredulous.
 
-"Nuh." John shook his head. “But it takes two to dance, man. D'you really think you were being fair on her? Never there, not really *there* there even when you were *there…* you follow me?”
+"Nuh." John shook his head. "But it takes two to dance, man. D'you really think you were being fair on her? Never there, not really *there* there even when you were *there…* you follow me?"
 
 "She's still the one who-"
 
-"Yeah." John interrupted. “but… I've done that shit too man.”
+"Yeah." John interrupted. "but… I've done that shit too man."
 
 Adam blinked at him. "You have?"
 
-"I played around, yeah. Ain't proud of it, but..." John scratched his head thoughtfully. “Look, the cheater's to blame, but they cheat for a reason. And at the time it seemed like a good reason. That's all I'm saying.”
+"I played around, yeah. Ain't proud of it, but…" John scratched his head thoughtfully. "Look, the cheater's to blame, but they cheat for a reason. And at the time it seemed like a good reason. That's all I'm saying."
 
 Adam didn't reply, and they lapsed into thoughtful silence until the Eggos were out of the grill and drowned in butter and maple syrup.
 
-"What could I have done differently, though?" he asked. “I wrote her all the time, called her every chance I got, took as much leave as I could to spend time with her...”
+"What could I have done differently, though?" he asked. "I wrote her all the time, called her every chance I got, took as much leave as I could to spend time with her…"
 
-"You know what I remember?" John asked. Adam had served him a couple of Eggos as well, and he'd apparently decided he enjoyed them. “You remember that night we were on the plane coming up to Scotch Creek to jump out here, and she called you really upset about something? And at the end of that call she was mad at you and hung up and you had no idea what she'd even called about?”
+"You know what I remember?" John asked. Adam had served him a couple of Eggos as well, and he'd apparently decided he enjoyed them. "You remember that night we were on the plane coming up to Scotch Creek to jump out here, and she called you really upset about something? And at the end of that call she was mad at you and hung up and you had no idea what she'd even called about?"
 
-"...Yeah?"
+"…Yeah?"
 
 "Par for the fucking course with you, bro. Every conversation you two ever had worked out like that somehow. I mean… did you ever ask her how her degree was going? Or, or take a look at her website?"
 
@@ -1328,7 +1328,7 @@ John rocked back. "Are you-? You don't even fucking know she has a website?!"
 
 Adam just stared at him, shaking his head slightly while he chewed.
 
-"Jesus fuck." John rubbed his forehead. “Do **_I_** actually know more about your girlfriend than you do?”
+"Jesus fuck." John rubbed his forehead. "Do **_I_** actually know more about your girlfriend than you do?"
 
 "Ex-girlfriend."
 
@@ -1336,11 +1336,11 @@ Adam just stared at him, shaking his head slightly while he chewed.
 
 Adam looked down at his plate. "Doesn't excuse it." he grunted.
 
-"No! But it *explains* it though!" John took a breath and cooled down. “She didn't just do this *'just because'*, brother. She *had* a reason, even if that reason wasn't good enough. I mean, how much leave did you have saved up? Sixty days? Use it or lose it, right? I remember, the major had to *order* us to take leave time.”
+"No! But it *explains* it though!" John took a breath and cooled down. "She didn't just do this *'just because'*, brother. She *had* a reason, even if that reason wasn't good enough. I mean, how much leave did you have saved up? Sixty days? Use it or lose it, right? I remember, the major had to *order* us to take leave time."
 
 "Yeah but, ramping down and coming back up on the training takes a month each! That would have put us behind-"
 
-"Adam." John sighed. “I'm not telling you if you were right or wrong not to take leave. I'm telling you *why* it happened, and what more you could have done. That's all. You could have taken more leave, you could have spent more time with her, you could have actually *taken an interest*. You didn't do any of those things and… well, this happened. She's the one who did it, but you've gotta ask why she felt she had to. Right?”
+"Adam." John sighed. "I'm not telling you if you were right or wrong not to take leave. I'm telling you *why* it happened, and what more you could have done. That's all. You could have taken more leave, you could have spent more time with her, you could have actually *taken an interest*. You didn't do any of those things and… well, this happened. She's the one who did it, but you've gotta ask why she felt she had to. Right?"
 
 Not wanting to admit out loud that he was probably right, Adam forced himself to shut up and think, rather than argue any more.
 
@@ -1354,49 +1354,49 @@ They were in the middle of hanging out the laundry when the dorm's phone rang. A
 
 Adam and Base shared a frown, and he jogged over to take the call. "Arés."
 
-"*Staff Sergeant, I have a gentleman here asking for you by name. He says it's important. Name of Harvey, Sean Harvey.*"
+"*Staff Sergeant, I have a gentleman here asking for you by name. He says it's important. Name of Harvey, Sean Harvey."*
 
 "Turn him away." Adam told them.
 
-"*He says, uh… He says 'Ava's gone missing', sergeant.*"
+"*He says, uh… He says 'Ava's gone missing', sergeant."*
 
-Adam must have paused for longer than he thought, because the next word he heard was "*...Sergeant?*"
+Adam must have paused for longer than he thought, because the next word he heard was "*…Sergeant?"*
 
-"...I'll be right there."
+"…I'll be right there."
 
 He notified Rebar of where he was going and jogged the few hundred meters over to the main gates. Sure enough, Sean was loitering at the guard post, pacing nervously.
 
 Adam didn't waste time on being nice. "What do *you* want?"
 
-"She's just… gone. She went to see your dad last night and now she's… nobody knows where she is." Sean explained. “I'm kinda worried she might...”
+"She's just… gone. She went to see your dad last night and now she's… nobody knows where she is." Sean explained. "I'm kinda worried she might…"
 
 "Shut up."
 
 Adam spun away from him, and was halfway back to the gates when Sean spoke up. "This is why she did it, you know!"
 
-Adam didn't turn around, but he did stop. "Do you even care about her?" He asked. “Or did you just wanna get your dick wet?”
+Adam didn't turn around, but he did stop. "Do you even care about her?" He asked. "Or did you just wanna get your dick wet?"
 
-"Do *YOU* care about her?" Sean retorted. “Or just about your fucking *territory*?”
+"Do *YOU* care about her?" Sean retorted. "Or just about your fucking *territory*?"
 
 Several hundred pounds of angry SOR operator was in his face half a second later. To Sean's credit, he did little more than rock back on his heels. He was shaking, but he held his own. "You're just going to walk away and let her be missing?"
 
-"I was *going,*" Adam snarled, “to request *leave* to go look for her.”
+"I was *going,*" Adam snarled, "to request *leave* to go look for her."
 
-"Sergeant?" The guards had stepped forward, cautiously. “Break it up, please.”
+"Sergeant?" The guards had stepped forward, cautiously. "Break it up, please."
 
 "You know where she is?" Sean asked, ignoring them.
 
 Adam didn't ignore them. He straightened. "What the fuck makes you think you have a right to know?" he asked.
 
-"*Because I'm her bloody friend you giant pillock!*" Sean snapped.
+"*Because I'm her bloody friend you giant pillock!"* Sean snapped.
 
-Adam's fist clenched. "*Friend?*" he asked. “Is that what you call it?”
+Adam's fist clenched. "*Friend?"* he asked. "Is that what you call it?"
 
 "Yes!"
 
-"Sergeant..." The gate guards had drawn closer. “Break it up, please.”
+"Sergeant…" The gate guards had drawn closer. "Break it up, please."
 
-Adam spared them a sideways glance, then very, very carefully relaxed his hand before he aimed a finger at Sean's face. "You don't get *shit* from me, Harvey." he growled. “She can tell you herself where she got to, *after* I've gone and got her. Fuck *her,* fuck *you,* and *fuck off.”*
+Adam spared them a sideways glance, then very, very carefully relaxed his hand before he aimed a finger at Sean's face. "You don't get *shit* from me, Harvey." he growled. "She can tell you herself where she got to, *after* I've gone and got her. Fuck *her,* fuck *you,* and *fuck off."*
 
 He stalked back through the gates, back to the dorm, and right up to Rebar, who'd taken over as their NCOIC since they'd lost Legsy. "Requesting leave." he said, getting right to the point.
 
@@ -1426,7 +1426,7 @@ The contact was enough to shut him up for the rest of the walk, or at least turn
 
 He followed the second trail until it intersected the paved road and, rather than hanging a right and walking down to the lake shore as the trail signs directed, instead crossed straight over and plunged on into the woods.
 
-The ecological calamity that the Cimbrean Reclamation Project insisted on calling "The Terran Microbe Action Zone" (and which the colonists knew rather less formally as “The Skidmark”) hadn't ever reached out this far, and so none of the native flora had been felled. It was still being steadily and relentlessly choked out by the Earthling imports, but that was all part of the plan. First had come logging everything within ten kilometers of the Zone, replanting and populating with species imported from Earth, and that was it. The natural aggressiveness and biological advantage of Deathworld life was being left to do the rest.
+The ecological calamity that the Cimbrean Reclamation Project insisted on calling "The Terran Microbe Action Zone" (and which the colonists knew rather less formally as "The Skidmark") hadn't ever reached out this far, and so none of the native flora had been felled. It was still being steadily and relentlessly choked out by the Earthling imports, but that was all part of the plan. First had come logging everything within ten kilometers of the Zone, replanting and populating with species imported from Earth, and that was it. The natural aggressiveness and biological advantage of Deathworld life was being left to do the rest.
 
 The result was a confused boundary zone where imported broadleaf trees gave way to a tangle of Earth and Cimbrean flora, the latter steadily dying back as the former out-grew them, shaded them over, guzzled the soil nutrients and, in a lot of cases, parasitized them.
 
@@ -1442,11 +1442,11 @@ She turned out to be talking to herself. She was right where he'd known she woul
 
 She flinched when she realized somebody was there, then relaxed when she saw who it was.
 
-"...Hey."
+"…Hey."
 
 Adam blinked. He hadn't foreseen that she'd be nude. "You uh… Did you swim?"
 
-"No I didn't swim." she shook her head. “I just… I'm more comfortable this way up here.”
+"No I didn't swim." she shook her head. "I just… I'm more comfortable this way up here."
 
 She leaned over and grabbed her t-shirt.
 
@@ -1456,19 +1456,19 @@ She flapped the shirt to get it the right way out. "Kinda, but… It's not too b
 
 "Who were you talking to, anyway?" Adam asked her. There was nobody else present.
 
-"This is going to sound really stupid..." Ava's face went a little red as she tugged her shirt on and covered up.
+"This is going to sound really stupid…" Ava's face went a little red as she tugged her shirt on and covered up.
 
 "What?"
 
-"...I was talking to Sara."
+"…I was talking to Sara."
 
-Adam hesitated, then gently rested a concerned hand on her upper back. "Baby..."
+Adam hesitated, then gently rested a concerned hand on her upper back. "Baby…"
 
 The term of endearment surprised him. After everything, after learning what she'd done, his first instinct was still to be tender and to love her?
 
-"I know." Ava nodded, and rubbed her face. “I know she's dead, I know. It's stupid, I just-”
+"I know." Ava nodded, and rubbed her face. "I know she's dead, I know. It's stupid, I just-"
 
-"She was *fourteen,* Ava." Adam sat down. “Maybe not the best source of life wisdom, you know?”
+"She was *fourteen,* Ava." Adam sat down. "Maybe not the best source of life wisdom, you know?"
 
 Ava sobbed a laugh, and they sat together in silence for a long time. Not touching, but close.
 
@@ -1484,11 +1484,11 @@ Ava sobbed a laugh, and they sat together in silence for a long time. Not touchi
 
 Ava didn't answer. Instead, she impaled the juice pouch with a straw and drained it.
 
-"...What were you talking to Sara about, anyway?" Adam asked her once she'd finished.
+"…What were you talking to Sara about, anyway?" Adam asked her once she'd finished.
 
-Ava glanced at him, then down at her bare feet. "You know what's really stupid?" She asked. “Like, really, **really,** *'what-the-fuck-is-wrong-with-me'* stupid?”
+Ava glanced at him, then down at her bare feet. "You know what's really stupid?" She asked. "Like, really, **really,** *'what-the-fuck-is-wrong-with-me'* stupid?"
 
-She looked at him again. "You explained everything *perfectly* yesterday. You put it totally into perspective. I *get* it, I get just how badly I fucked up, and **still** there's this bitch voice in the back of my head that wants me to believe… that's trying to tell me I did nothing wrong." She looked out over the lake. “I was trying to get rid of it.”
+She looked at him again. "You explained everything *perfectly* yesterday. You put it totally into perspective. I *get* it, I get just how badly I fucked up, and **still** there's this bitch voice in the back of my head that wants me to believe… that's trying to tell me I did nothing wrong." She looked out over the lake. "I was trying to get rid of it."
 
 "By talking to Sara?"
 
@@ -1500,33 +1500,33 @@ He shook his head gently. "Not really."
 
 Adam mulled that comment over.
 
-"No..." he decided. “Things *do* make sense. You know what the weirdest part of all this is?”
+"No…" he decided. "Things *do* make sense. You know what the weirdest part of all this is?"
 
 "What?"
 
-"If you'd just… *told* me, or *asked* me...fuck! I might even have been okay with it! Because I *get* it, I understand, you put it perfectly yesterday too. I married the Air Force first." He sighed. “But instead you *lied* to me, Ava. For… what, two years?”
+"If you'd just… *told* me, or *asked* me…fuck! I might even have been okay with it! Because I *get* it, I understand, you put it perfectly yesterday too. I married the Air Force first." He sighed. "But instead you *lied* to me, Ava. For… what, two years?"
 
 "About that." she agreed, nodding sadly.
 
-"I get that I was neglecting you," Adam told her. “I get that I was making decisions for us both without consulting you. Hell, I get that *he* was… probably good for you! What I *Just. Don't. Get*. is why you couldn't be straight with me?” He wiped his own eyes off. “For God's sake, yeah, breaking up with me would have hurt, but ***this?"***
+"I get that I was neglecting you," Adam told her. "I get that I was making decisions for us both without consulting you. Hell, I get that *he* was… probably good for you! What I *Just. Don't. Get*. is why you couldn't be straight with me?" He wiped his own eyes off. "For God's sake, yeah, breaking up with me would have hurt, but ***this?"***
 
 Ava, who usually shed tears so easily, seemed to have run out. Or maybe she'd just gone somewhere past them, where they were no longer relevant. Either way, her face was a mask of dry despondency.
 
 *"Why,* Ava?"
 
-"...I've been asking myself that question all morning."
+"…I've been asking myself that question all morning."
 
 "And?"
 
-"And… I really thought I was doing it for you. Charlotte said it was because I was lonely and horny, but… But I can remember thinking *'it's this or I lose him,'* and…" she exhaled and ran three fingers through her hair. “It's so stupid. *I'm* so stupid. If I hadn't got so hung up on holding on to the past, at least I'd still have my *integrity,* you know? But because I got it in my head I was doing it for you, I went and did completely the wrong thing.”
+"And… I really thought I was doing it for you. Charlotte said it was because I was lonely and horny, but… But I can remember thinking *'it's this or I lose him,'* and…" she exhaled and ran three fingers through her hair. "It's so stupid. *I'm* so stupid. If I hadn't got so hung up on holding on to the past, at least I'd still have my *integrity,* you know? But because I got it in my head I was doing it for you, I went and did completely the wrong thing."
 
-Adam stood up. "I thought I was doing *this* for you!" he told her, gesturing at the full, hugely-muscled mass of himself. “But you said it last night: You didn't want or need me to do this, and I sure as *fuck* didn't want or need you to cheat on me...”
+Adam stood up. "I thought I was doing *this* for you!" he told her, gesturing at the full, hugely-muscled mass of himself. "But you said it last night: You didn't want or need me to do this, and I sure as *fuck* didn't want or need you to cheat on me…"
 
 He sat down again. "Maybe we both need to stop believing our own bullshit." he concluded.
 
 Ava just stared at him, so he sighed and elaborated.
 
-"I thought I was doing this to protect you." He said. “Really I did, I was convinced. But you're right, if I'd really been acting for *you*, then… hell, I'd probably have gone into Colonial Security and been there for you every night, and… Instead I just got caught up in this. I was angry and grieving over Sara, I wanted to fight back, and then it turned out I'm *good* at fighting back. The *best* maybe!”
+"I thought I was doing this to protect you." He said. "Really I did, I was convinced. But you're right, if I'd really been acting for *you*, then… hell, I'd probably have gone into Colonial Security and been there for you every night, and… Instead I just got caught up in this. I was angry and grieving over Sara, I wanted to fight back, and then it turned out I'm *good* at fighting back. The *best* maybe!"
 
 He looked out across the lake, choosing his words. "Do you know what it's like to get pulled along into something like that? Where *everything* just lines up and you'd never even think of slowing down or stopping because it just feels *right?* Because you're enjoying it so much you don't ever want it to end?"
 
@@ -1538,11 +1538,11 @@ Ava nodded. "You feel like you're taking back your life." She agreed.
 
 "Right!"
 
-"...That's how it was for me, too." she said.
+"…That's how it was for me, too." she said.
 
-"...Do you think that's the truth?" Adam asked her. “Or is it just more bullshit we're inventing to make ourselves feel better?”
+"…Do you think that's the truth?" Adam asked her. "Or is it just more bullshit we're inventing to make ourselves feel better?"
 
-Ava paused. "...I...think it's the truth." she said. “Or at least… I hope it is...”
+Ava paused. "…I…think it's the truth." she said. "Or at least… I hope it is…"
 
 She trailed off, then spread her arms helplessly. "I don't know any more. I spent all this time trying to do the right thing, and did completely the wrong thing instead. I don't… I don't know if I can trust what's in my head."
 
@@ -1552,16 +1552,16 @@ Ava didn't answer, just stared despairingly at the water. A couple of minutes el
 
 "We're done, aren't we?"
 
-Adam nodded and stood up. "I love you, Ava." he said. “But there's just no… I can't.”
+Adam nodded and stood up. "I love you, Ava." he said. "But there's just no… I can't."
 
-"I know…" She looked up at him, grief and remorse written in every nuance of her expression. “I'm so sorry, Adam.”
+"I know…" She looked up at him, grief and remorse written in every nuance of her expression. "I'm so sorry, Adam."
 
-"...I'm sorry too."
+"…I'm sorry too."
 
 He turned his back on her, and started back up the trail.
 
 ___
-**Date Point 10y2m2w1d AV**    
+**Date Point 10y2m2w1d AV**
 **Vancouver General Hospital, Vancouver, British Columbia, Canada, Earth.**
 
 ***Xiù Chang***
@@ -1582,7 +1582,7 @@ So hard to *think*. She tried to take a calming breath, clear her head, and some
 
 "Xiù? Xiù! Nurse? Nurse help!"
 
-...Purple? Moving purple, and dark skin, and a soothing tone, like Ayma comforting a wailing cub.
+…Purple? Moving purple, and dark skin, and a soothing tone, like Ayma comforting a wailing cub.
 
 "It's okay, it's okay… she's just awake, it's okay. Shhh, darling. Don't fight the ventilator, it's okay. It's okay, you're safe."
 
@@ -1592,7 +1592,7 @@ Oh.
 
 Right.
 
-...
+…
 
 *Nurse.*
 
@@ -1606,7 +1606,7 @@ So hard to *think* but… those strangers by her bedside. The tiny elderly woman
 
 No. No no *no,* that was *wrong!* She didn't have a *big* brother! Her parents weren't-
 
-"Okay honey, shhh… calm now… I'm sorry, this is really distressing her, we'd better put her under again… It's okay darling, you're just not ready yet… It's okay..."
+"Okay honey, shhh… calm now… I'm sorry, this is really distressing her, we'd better put her under again… It's okay darling, you're just not ready yet… It's okay…"
 
 Something in her left hand. Something that made all the *wrong* go away.
 
@@ -1618,7 +1618,7 @@ Something…
 
 White.
 
-And… colours. Cards, by her bed. "Get Well Soon!" “We missed you!” “Welcome home!”
+And… colours. Cards, by her bed. "Get Well Soon!" "We missed you!" "Welcome home!"
 
 There was no beeping, this time. No hissing or clicking, nothing in her throat doing her breathing for her. Just… yes, a drip in her hand, and darkness outside the window. Warm yellow light through a slightly ajar door, admitting hushed conversation.
 
@@ -1626,19 +1626,19 @@ Xiù sat up, cautiously. She was alone, she had time to gather her thoughts, ass
 
 Fact check. She was in a hospital, with a drip in her hand. The gravity felt normal. The air had a certain… *richness* to it, warm and nourishing. She couldn't tell what the voices outside were saying---their volume was much too tactful for that---but the cadences *sounded* English.
 
-She carefully selected the right word. "...Hello?"
+She carefully selected the right word. "…Hello?"
 
 The conversation outside ceased, and then there were brisk footsteps, a rustle of scrubs, and a middle-aged nurse poked her head round the door.
 
 Her face lit up on seeing Xiù. "Oh! Hi!"
 
-Xiù froze, having not planned the conversation this far ahead. "...Hi. Uh..."
+Xiù froze, having not planned the conversation this far ahead. "…Hi. Uh…"
 
 "Oh it's okay honey, you're a bit disoriented right now, eh?"
 
-"A-a little." Xiù nodded. “...I'm in Vancouver?”
+"A-a little." Xiù nodded. "…I'm in Vancouver?"
 
-"Yep!" The nurse patted the bed “I'm Liz. Am I okay to sit down?”
+"Yep!" The nurse patted the bed "I'm Liz. Am I okay to sit down?"
 
 "S-sure."
 
@@ -1648,7 +1648,7 @@ Liz did so, settling comfortably next to her. "You and your friends made a stir 
 
 "Oh! Where are my-? I'm sorry, can I get you something, sweetie? No solids until the doctor says otherwise, but I could call up for some soup?"
 
-"...Actually, that'd be really nice. Yes please."
+"…Actually, that'd be really nice. Yes please."
 
 "Okay. You'll be okay for a few seconds?"
 
@@ -1656,15 +1656,15 @@ Xiù nodded for her, and managed a little smile.
 
 Liz wasn't long. Xiù heard her feet in the hall, a quick conversation, and she returned in only a minute or two. Still, it was long enough for Xiù to sort out her head and think through the most pressing questions she had.
 
-"So." Liz said, bustling back in. “Where were we?”
+"So." Liz said, bustling back in. "Where were we?"
 
-"Are my friends okay?" Xiù asked her. “Julian and Allison?”
+"Are my friends okay?" Xiù asked her. "Julian and Allison?"
 
 "They're fine. They're asleep right now, but they're just fine. You had the worst of it, actually."
 
 "I did?"
 
-Liz gestured with her hand, raising her left arm and touching a spot on her ribs, with an expression hinting for Xiù to do the same. When she did, there was a dressing there. "You've been asleep for about three days." Liz told her. “There were a couple of operations. Doctor Spilny will explain it all in the morning.”
+Liz gestured with her hand, raising her left arm and touching a spot on her ribs, with an expression hinting for Xiù to do the same. When she did, there was a dressing there. "You've been asleep for about three days." Liz told her. "There were a couple of operations. Doctor Spilny will explain it all in the morning."
 
 "Can I see them?"
 
@@ -1676,11 +1676,11 @@ She looked at the cards on her bedside again. "We caused a stir?"
 
 "Especially you! Vancouver's own prodigal daughter, gone these ten years, and-"
 
-"*Ten years?!*" Xiù's hand flew to her face in shock. “How long were we-? Uh, right… the escape pod… Stasis...”
+"*Ten years?!"* Xiù's hand flew to her face in shock. "How long were we-? Uh, right… the escape pod… Stasis…"
 
 "Oh, I'm sorry, sweetie, that just came out. I'm sorry." Liz soothed.
 
-"No, it's okay… I knew it was going to be about that, but..." Xiù rubbed her face. It didn't help. Her hands were shaking, so were her shoulders, and there was an urgent heat coming up from deep inside her, behind her eyes...
+"No, it's okay… I knew it was going to be about that, but…" Xiù rubbed her face. It didn't help. Her hands were shaking, so were her shoulders, and there was an urgent heat coming up from deep inside her, behind her eyes…
 
 Liz, demonstrating the sixth sense of mothers and nurses the world over, pulled her into a hug before the tears even arrived, and let her get it out of her system.
 
@@ -1688,13 +1688,13 @@ Liz, demonstrating the sixth sense of mothers and nurses the world over, pulled 
 
 "Yes you did."
 
-Xiù disengaged gently and sat up, wiping her cheeks. "...Sorry."
+Xiù disengaged gently and sat up, wiping her cheeks. "…Sorry."
 
 "Don't even apologise to me, sweetie. It's okay." Liz smiled warmly, and indicated that Xiù's soup had arrived sometime while she hadn't been paying attention. Xiù didn't need prompting---she scooped it up and, after a tentative sip to make sure it wasn't too hot, devoured the lot.
 
 It wasn't the greatest soup ever. But it was warm, it was comforting, it was *chicken*---and it was amazing how many things in the galaxy *didn't* taste like chicken---and it lasted maybe thirty seconds.
 
-"Whew!" Liz made an appreciative noise. “You needed that, eh?”
+"Whew!" Liz made an appreciative noise. "You needed that, eh?"
 
 "Oh God yes." Xiù wiped a little from the corners of her mouth, trying not to be embarrassed.
 
@@ -1710,10 +1710,10 @@ Xiù promised that she would and settled back onto her pillow. Liz fussed gently
 
 That left only the ceiling in the dim light, and one thought, as Xiù fell asleep:
 
-*'I'm home...'*
+*'I'm home…'*
 
 ___
-**Date Point 10y2m2w1d AV**    
+**Date Point 10y2m2w1d AV**
 **Byron Group head offices, Omaha, Nebraska, USA, Earth**
 
 ***Kevin Jenkins***
@@ -1726,7 +1726,7 @@ Kevin could see why the question was being whispered. Moses Byron, who was alway
 
 "Shh."
 
-Byron took a moment to survey the crew of BGEV-8, assorted board members and department heads, and cleared his throat. "Been a development." he croaked, and cleared his throat again. “This, uh… this planning session is cancelled. I'll let you know personally when we reschedule. For now, uh...”
+Byron took a moment to survey the crew of BGEV-8, assorted board members and department heads, and cleared his throat. "Been a development." he croaked, and cleared his throat again. "This, uh… this planning session is cancelled. I'll let you know personally when we reschedule. For now, uh…"
 
 He coughed. "Rachael. Recall GEV-9 and GEV-10. Tell them under no circumstances are they to use their jump drives---they've got to come back the old-fashioned way."
 
@@ -1738,21 +1738,21 @@ Nobody said a word---they just exchanged bewildered and slightly scared expressi
 
 People practically fled.
 
-"Based on the little… '*chat'* I just had with the halls of power in this great nation of ours..." Byron began, once the last door was closed “It seems I need to hire me a no-man. Somebody who, if I've got fifty people kissing my ass and telling me we're golden, if I look at you and you shake your head, we bury that idea and never speak of it again. Sound like something you can do?”
+"Based on the little… '*chat'* I just had with the halls of power in this great nation of ours…" Byron began, once the last door was closed "It seems I need to hire me a no-man. Somebody who, if I've got fifty people kissing my ass and telling me we're golden, if I look at you and you shake your head, we bury that idea and never speak of it again. Sound like something you can do?"
 
 "Does this thing come with a salary?" Kevin asked. He judged it correctly---Byron laughed.
 
-"Hah! And an office." he said. “Though if half the things I hear about your cooking are true, I might include attending to the comestibles on your list of duties.”
+"Hah! And an office." he said. "Though if half the things I hear about your cooking are true, I might include attending to the comestibles on your list of duties."
 
 "I could be persuaded to take a job like that."
 
-"Good… good" Byron cleared his throat again. “...We dodged a bullet. By *this* much.” he confided, holding up two narrowly spaced fingers for illustration.
+"Good… good" Byron cleared his throat again. "…We dodged a bullet. By *this* much." he confided, holding up two narrowly spaced fingers for illustration.
 
 "Dodged at least two by my count." Kevin agreed.
 
 "Yeah… I'll see you in the office tomorrow. You got a place to stay?"
 
-"HR already got my hotel room sorted out." Kevin told him. “Guess I'd better see them about somewhere more permanent, huh?”
+"HR already got my hotel room sorted out." Kevin told him. "Guess I'd better see them about somewhere more permanent, huh?"
 
 "You do that." Byron agreed. He shook Kevin's hand and wandered out of the room, clearly still deep in thought.
 
@@ -1764,25 +1764,25 @@ It was the first time he'd even thought of her in years, and he ambled through t
 
 He was about to swipe his phone to open the door lock when a thought occurred to him. Experimentally, he knocked on his own hotel room door.
 
-"*Come in.*"
+"*Come in."*
 
-The door wasn't locked, and Special Agent Williams was sitting in the large comfortable chair by the window, putting down a tablet. "Well done." she added. “You have good instincts.”
+The door wasn't locked, and Special Agent Williams was sitting in the large comfortable chair by the window, putting down a tablet. "Well done." she added. "You have good instincts."
 
-"Save it." Kevin muttered, and sat on his bed. “Look, Williams-”
+"Save it." Kevin muttered, and sat on his bed. "Look, Williams-"
 
-"Ah." she raised a finger. “Small note on tradecraft for you. '*Williams*' is a cover name. Professionally and to you, I go by Darcy. Special Agent Darcy, if you want to be formal.”
+"Ah." she raised a finger. "Small note on tradecraft for you. '*Williams*' is a cover name. Professionally and to you, I go by Darcy. Special Agent Darcy, if you want to be formal."
 
 "Darcy, huh? That a fake name too?"
 
-"If it was, why would I tell you?" She smiled again. “I would have introduced myself as Darcy if you hadn't dug up Williams to say hello.”
+"If it was, why would I tell you?" She smiled again. "I would have introduced myself as Darcy if you hadn't dug up Williams to say hello."
 
-"Pardon me for spoiling your entrance." Kevin deadpanned. “So what, are you offering me a job as well?”
+"Pardon me for spoiling your entrance." Kevin deadpanned. "So what, are you offering me a job as well?"
 
-"I am." she agreed. “Though I suspect the title won't be as impressive as whatever it is Byron's calling your new role.”
+"I am." she agreed. "Though I suspect the title won't be as impressive as whatever it is Byron's calling your new role."
 
 "Comestible attendant."
 
-Either Darcy's professional façade genuinely did slip for a moment, or else she was by a league the most flawless liar Kevin had ever met. "Hah!" she giggled, and raised a hand to cover her mouth. “Oh, that's good. I like that.”
+Either Darcy's professional façade genuinely did slip for a moment, or else she was by a league the most flawless liar Kevin had ever met. "Hah!" she giggled, and raised a hand to cover her mouth. "Oh, that's good. I like that."
 
 "So what *would* my job be?" Kevin asked her, deciding he probably had got through to the real woman under the Company act, whoever she was, and allowing himself a satisfied smile.
 
@@ -1792,7 +1792,7 @@ She hefted a light black satchel from beside her chair and handed it to him. Ins
 
 "What's the box do?" Kevin asked.
 
-"Encryption, decryption, secure communications..." Darcy shrugged. “*Don't* plug it into any device other than that tablet.”
+"Encryption, decryption, secure communications…" Darcy shrugged. "*Don't* plug it into any device other than that tablet."
 
 "What'll it do, explode?"
 
@@ -1800,24 +1800,24 @@ She hefted a light black satchel from beside her chair and handed it to him. Ins
 
 "Communication with *what*?" Kevin pressed.
 
-"A secure server." Darcy said. “Full of briefings and reports and documents that you'll need to read, though I *suspect* that a lot of what's in there won't come as that much of a surprise to you.”
+"A secure server." Darcy said. "Full of briefings and reports and documents that you'll need to read, though I *suspect* that a lot of what's in there won't come as that much of a surprise to you."
 
-Kevin nodded. "Just two more questions..."
+Kevin nodded. "Just two more questions…"
 
 Darcy sat back and delicately crossed her legs. "Shoot."
 
 "One: Why me? I ain't exactly the model of ambitious patriotism, you know."
 
-"Ten years ago, you drove up to the front gates of SCERF carrying the kind of intelligence we were absolutely starving for." Darcy told him. “You've clearly got *something* that does the job of ambition, even if it's just that you'd rather not get nuked from orbit. Certainly, you're smart enough to know that as a real possibility and you've taken active steps---potentially at risk to your own liberty and person---to combat it.” She inclined her head. “Now would *you* say that somebody like that wasn't worth our time?”
+"Ten years ago, you drove up to the front gates of SCERF carrying the kind of intelligence we were absolutely starving for." Darcy told him. "You've clearly got *something* that does the job of ambition, even if it's just that you'd rather not get nuked from orbit. Certainly, you're smart enough to know that as a real possibility and you've taken active steps---potentially at risk to your own liberty and person---to combat it." She inclined her head. "Now would *you* say that somebody like that wasn't worth our time?"
 
 Kevin frowned and didn't answer.
 
 "What's your second question?" Darcy prompted him, eventually.
 
-"...Does this thing come with a salary?"
+"…Does this thing come with a salary?"
 
 ___
-**Date Point 10y2m2w1d AV**    
+**Date Point 10y2m2w1d AV**
 **HMS** **_Sharman_** **(HMNB Folctha), Folctha, Planet Cimbrean, The Far Reaches**
 
 ***John Burgess***
@@ -1826,27 +1826,27 @@ ___
 
 Adam just shrugged and hung his light bag by the door. "I took a day. Got to sort out some things. Get my head right. But… you know me, I gotta be doing shit to think right, you hear me?"
 
-"I hear ya." John agreed. “I was gonna lift...”
+"I hear ya." John agreed. "I was gonna lift…"
 
 "Nuh-uh. We're wrestling. *Now*."
 
 Fifty seconds later, the mat was grinding painfully against John's face and his arm felt like it was one Newton of force *at most* from dislocating.
 
-"So." Adam shifted his posture just a little bit while John's feet scrabbled ineffectually for purchase. “Let's talk about how you kept my cheating ex's secret for her, '*brother'*.”
+"So." Adam shifted his posture just a little bit while John's feet scrabbled ineffectually for purchase. "Let's talk about how you kept my cheating ex's secret for her, '*brother'*."
 
 ___
-**Date Point 10y2m2w5d AV**    
+**Date Point 10y2m2w5d AV**
 **Folctha, Planet Cimbrean, The Far Reaches**
 
 ***Ava Rìos***
 
 "Ready?"
 
-"...No."
+"…No."
 
 "They're calling."
 
-"I know, I just..."
+"I know, I just…"
 
 Ava took one last look. It would have been nice to think of Folctha as her home, but… it wasn't. Not any more. Not really. It was all white buildings and parks and streets, now. There were cars, there was the beginning of a rail network to connect to the outlying farms and villages. There was a thriving street or two full of shops. There was a supermarket. There were paved roads, advertisements, the neon green cross of a pharmacy. It was a town, now. It wasn't the Folctha she'd lived in.
 
@@ -1854,7 +1854,7 @@ She could remember little wooden chalets tucked between the native trees. She co
 
 But that's all it was. Memory.
 
-"...I'm ready."
+"…I'm ready."
 
 Charlotte and Ben waved sadly to her from beyond the glass. She'd already said goodbye to Gabe, and Adam… she wasn't surprised he hadn't come. Jess had work. Hayley had left Cimbrean years ago.
 
@@ -1876,9 +1876,9 @@ The Earth end of the Byron Group's commercial jump array was Hamburg airport, an
 
 "Fifty quid each."
 
-"Good..." They passed through another security arch. “I can afford that.”
+"Good…" They passed through another security arch. "I can afford that."
 
-"I won't hear of it." Sean told her. “You're going to need that money.”
+"I won't hear of it." Sean told her. "You're going to need that money."
 
 "But-"
 
@@ -1886,65 +1886,65 @@ The Earth end of the Byron Group's commercial jump array was Hamburg airport, an
 
 "You can afford that?" She asked.
 
-"I've been writing articles for a bunch of different news sites and blogs, working part-time at 'Spoons." Sean shrugged. “I can afford it, just. I was probably going to wind up looking for a lodger anyway. Rent in London being what it is I'd have made a fuck of a lot, too, but… I mean, money's less important than helping you get on your feet.”
+"I've been writing articles for a bunch of different news sites and blogs, working part-time at 'Spoons." Sean shrugged. "I can afford it, just. I was probably going to wind up looking for a lodger anyway. Rent in London being what it is I'd have made a fuck of a lot, too, but… I mean, money's less important than helping you get on your feet."
 
 Touched, Ava managed a smile for him.
 
-"Besides," Sean added “I've got something coming up. My uncle Simon gets back from Angola next week. If he follows through on what he was talking about in his emails, maybe you and me, we could land on our feet.”
+"Besides," Sean added "I've got something coming up. My uncle Simon gets back from Angola next week. If he follows through on what he was talking about in his emails, maybe you and me, we could land on our feet."
 
 "What's he doing in Angola?"
 
 "Covering the election for Reuters."
 
-"I've still got that offer from Byron Group..." Ava noted, glancing at the corporate advertising for the jump array---Earth and Cimbrean, photographed from orbit and connected by a line that cycled through all the classic, vivid fibre-optic colours with the tagline 'O*ne small step…'*
+"I've still got that offer from Byron Group…" Ava noted, glancing at the corporate advertising for the jump array---Earth and Cimbrean, photographed from orbit and connected by a line that cycled through all the classic, vivid fibre-optic colours with the tagline 'O*ne small step…'*
 
-"Moses Byron talks a good game." Sean agreed. “Hell, it seems like he walks his talk too. I'm just not… I don't know, do you trust anybody who got that big that quickly?”
+"Moses Byron talks a good game." Sean agreed. "Hell, it seems like he walks his talk too. I'm just not… I don't know, do you trust anybody who got that big that quickly?"
 
 Ava shrugged. "People like his whole *'ethics and integrity'* brand. Even if it's just an act for the camera, he's playing that part to the hilt."
 
 "Is that the same thing as actually *being* ethical though?"
 
-"Sean..." Ava sighed. “Don't ask me about morals and stuff right now. I don't feel qualified.”
+"Sean…" Ava sighed. "Don't ask me about morals and stuff right now. I don't feel qualified."
 
 He inclined his head slightly, assessing her mood, then nodded and laid his hand gently on her upper back for just a second. "Okay."
 
 Neither of them said a word to the other for nearly an hour after that, by which point they had boarded their plane, taken off and reached cruising altitude. He'd been looking out of the window for most of that time.
 
-"...Are we okay?" he asked.
+"…Are we okay?" he asked.
 
 Ava had been using the plane's wifi to check her website. She put the tablet down when he spoke, and gave the question some thought. "We're… You're my very best friend, Sean. Is that enough? I don't think I've got more than that to give."
 
 He nodded, and gave her a hug. "I'm sorry, Ava."
 
-"...You didn't do anything."
+"…You didn't do anything."
 
-"No, I did. I got selfish, and..." Sean shrugged. “I pushed.”
+"No, I did. I got selfish, and…" Sean shrugged. "I pushed."
 
-"You didn't hurt me, Sean." Ava reassured him. “I hurt myself.”
+"You didn't hurt me, Sean." Ava reassured him. "I hurt myself."
 
 "And I helped."
 
-"Yeah, well… you can stop helping me hurt myself by letting me take the blame for this, okay?" She told him. “This whole thing has been a lesson, and I want to learn it, not, not foist off the responsibility on somebody else.” It was her turn to give him a reassuring squeeze. “You learn your lesson, and I'll learn mine. Okay?”
+"Yeah, well… you can stop helping me hurt myself by letting me take the blame for this, okay?" She told him. "This whole thing has been a lesson, and I want to learn it, not, not foist off the responsibility on somebody else." It was her turn to give him a reassuring squeeze. "You learn your lesson, and I'll learn mine. Okay?"
 
-Sean nodded despondently, aware that lesson he was going to have to learn was the one he wished he didn't have to. "...Okay."
+Sean nodded despondently, aware that lesson he was going to have to learn was the one he wished he didn't have to. "…Okay."
 
-He looked out the window again. "...That makes sense."
+He looked out the window again. "…That makes sense."
 
 ___
-**Date Point 10y2m2w6d AV**    
+**Date Point 10y2m2w6d AV**
 **Uncharted System, Deep Space**
 
 ***Vedregnegnug***
 
 "-show up. There we go. It seems we escaped."
 
-Vedreg allowed a mingled pulse of relief and released anxiety to highlight his body. A human would have shuddered. "I detest stasis." he declared. “Death or life on the moment of a button press. Thank you for sparing us any anticipation.”
+Vedreg allowed a mingled pulse of relief and released anxiety to highlight his body. A human would have shuddered. "I detest stasis." he declared. "Death or life on the moment of a button press. Thank you for sparing us any anticipation."
 
 Kirk dropped his lower-right hand, the prosthetic one, off the escape pod's control panel and gave a pleased nod. "And we have indeed arrived at our destination. Good." he announced.
 
 Their "destination", as far as Vedreg could tell, was a system in the middle of nowhere, some five years' travel time from the final resting place of the starship *Sanctuary* at the meager ten kilolights that was their escape pod's top speed.
 
-Without the stasis field, they would have starved to death before completing even a fraction of the journey, and theirs was one of the largest, fastest and best-equipped lifepods in their late ship's stable. Most of the others had been much smaller, cruder and slower. As it was...
+Without the stasis field, they would have starved to death before completing even a fraction of the journey, and theirs was one of the largest, fastest and best-equipped lifepods in their late ship's stable. Most of the others had been much smaller, cruder and slower. As it was…
 
 Both of them glanced in the corner, and mutually decided not to discuss the deathworlder in the room. Lewis had come scrambling into their escape pod seconds before Kirk had sealed it, babbling about *Sanctuary*'s port living area taking a bad hit and separating him from the others. He was now slumped against the wall with his arms on his knees and his forehead resting against them.
 
@@ -1952,17 +1952,17 @@ The escape pod's sensors had reported that all other life rafts had launched alo
 
 Vedreg could hardly blame him: Subjectively, scant seconds had passed since Lewis had given up on his friends. Pointing out that as far as the rest of the galaxy was concerned they had been dead for five years would have been both unhelpful and tactless. Lewis had every right to grieve.
 
-Rrrtktktkp'ch on the other hand were much more difficult to fathom without a translator. By the standards of pretty much every other sapient life-form, including their evolutionary 'cousins' the Vzk'tk, Kirk's species were renowned for reserved emotions, impenetrable body language and inscrutable expressions...but if the way Kirk paused upon glancing at Lewis and then patted the grieving human awkwardly on the shoulder was any indication, he was feeling the loss just as intensely.
+Rrrtktktkp'ch on the other hand were much more difficult to fathom without a translator. By the standards of pretty much every other sapient life-form, including their evolutionary 'cousins' the Vzk'tk, Kirk's species were renowned for reserved emotions, impenetrable body language and inscrutable expressions…but if the way Kirk paused upon glancing at Lewis and then patted the grieving human awkwardly on the shoulder was any indication, he was feeling the loss just as intensely.
 
 Kirk had always been stoic even by Rrrtk standards, however. He turned back to the controls, and indicated them to Vedreg.
 
 "You see?"
 
-Vedreg scrutinized the sensor readings. "That." he noted, with a swish of accusatory maroon “Is one of the two system defense forcefields stolen from a secure military facility of my people. The other of which now protects Cimbrean, I believe.”
+Vedreg scrutinized the sensor readings. "That." he noted, with a swish of accusatory maroon "Is one of the two system defense forcefields stolen from a secure military facility of my people. The other of which now protects Cimbrean, I believe."
 
 "Yes." Kirk did not seem to be at all contrite.
 
-"I do not approve of theft, Krrkktnkk a’ktnnzzik’tk." Vedreg chastised him.
+"I do not approve of theft, Krrkktnkk a"ktnnzzik"tk." Vedreg chastised him.
 
 "Would you have given permission if I had asked for them?"
 
@@ -1978,15 +1978,15 @@ No sooner had their pod crossed the threshold of where it had once been, than it
 
 Kirk nodded, and turned the translator back on. "Excellent."
 
-"Dude." Lewis raised his head. “That wasn't even Kirk's line.”
+"Dude." Lewis raised his head. "That wasn't even Kirk's line."
 
-"...what?" Both of them looked at him.
+"…what?" Both of them looked at him.
 
 "He said '*I have been, and will always be, your friend*'."
 
-"...You speak Domain?" Kirk asked, aghast.
+"…You speak Domain?" Kirk asked, aghast.
 
-"No, I *understand* Domain." Lewis hauled himself upright. “I couldn't *speak* Domain if you cut my throat. Where are we?”
+"No, I *understand* Domain." Lewis hauled himself upright. "I couldn't *speak* Domain if you cut my throat. Where are we?"
 
 "*How* do you understand Domain?" Kirk demanded.
 
@@ -1994,11 +1994,11 @@ Kirk nodded, and turned the translator back on. "Excellent."
 
 "But… you shouldn't be able to *understand* it!" Kirk protested.
 
-"It's a language isn't it?" Lewis shrugged. “Fuck, I can't pronounce Welsh either, but I could learn that just fine if I wanted. Now where are we and why's it so goddamn important that you quote Spock at the forcefield?”
+"It's a language isn't it?" Lewis shrugged. "Fuck, I can't pronounce Welsh either, but I could learn that just fine if I wanted. Now where are we and why's it so goddamn important that you quote Spock at the forcefield?"
 
 Kirk stared at him for a bit, then creaked a prolonged Rrrtk throat-clear, and called up the system navigation display as the liferaft boosted up to two lights and headed inwards.
 
-"This system has no official name, and I'm not sharing its co-ordinates, as much as I trust the both of you." he said. “Officially, it's unexplored.”
+"This system has no official name, and I'm not sharing its co-ordinates, as much as I trust the both of you." he said. "Officially, it's unexplored."
 
 "And unofficially?"
 
@@ -2016,11 +2016,11 @@ Lewis frowned at him. "Dude, when did you have *time*?"
 
 "I found out what happened to Mrwrki Station."
 
-Vedreg glowed a cocktail of surprised royal blue and solemn green, but Lewis just gave them both a confused frown. "Dude, not everyone in this boat's up to speed on galactic *everything*." he told them. “What's Mur-workey Station, and what happened to it?”
+Vedreg glowed a cocktail of surprised royal blue and solemn green, but Lewis just gave them both a confused frown. "Dude, not everyone in this boat's up to speed on galactic *everything*." he told them. "What's Mur-workey Station, and what happened to it?"
 
-"Mrwrki was a Kwmbwrw research outpost on the Lleyvian Frontier." Kirk explained. “That's a cluster of stars in extreme… well. '*up*'. That is, perpendicular to the galactic plane, in the direction conventionally-”
+"Mrwrki was a Kwmbwrw research outpost on the Lleyvian Frontier." Kirk explained. "That's a cluster of stars in extreme… well. '*up*'. That is, perpendicular to the galactic plane, in the direction conventionally-"
 
-"I know what '*up*' means, dude." Lewis snapped. “What happened to it?”
+"I know what '*up*' means, dude." Lewis snapped. "What happened to it?"
 
 "It… vanished."
 
@@ -2032,13 +2032,13 @@ Vedreg glowed a cocktail of surprised royal blue and solemn green, but Lewis jus
 
 Kirk hesitated. "Um… Yes."
 
-"How do you *do* that?" Vedreg objected. “How do you jump to accurate conclusions so quickly? All humans do it, it's… infuriating!”
+"How do you *do* that?" Vedreg objected. "How do you jump to accurate conclusions so quickly? All humans do it, it's… infuriating!"
 
-Lewis frowned at him with his mouth slightly open. "How do you *not*?" he countered. “I mean, why the fuck *else* would we be here, to take a selfie?”
+Lewis frowned at him with his mouth slightly open. "How do you *not*?" he countered. "I mean, why the fuck *else* would we be here, to take a selfie?"
 
 **"**We aren't deathworlders." Kirk pointed out.
 
-"But you've still got a working fucking thinker!" Lewis exclaimed, nonplussed. “Don't give me the ancient evolution life-or-death bullshit whatever, I'd expect *anyone* to see that one coming unless the only thing their brain's for is holding up their fucking hat!”
+"But you've still got a working fucking thinker!" Lewis exclaimed, nonplussed. "Don't give me the ancient evolution life-or-death bullshit whatever, I'd expect *anyone* to see that one coming unless the only thing their brain's for is holding up their fucking hat!"
 
 The two nonhumans looked at one another, then Kirk, with an air of extreme delicacy, cleared his throat again. "Lewis… are you okay?"
 
@@ -2046,15 +2046,15 @@ Lewis' laugh had an incredulous note to it. "Are you se-? Dude, like, are you fo
 
 "Will shouting at us bring them back?" Kirk asked.
 
-"Wh-? Well, no..."
+"Wh-? Well, no…"
 
 "Then what good does it do?" Kirk folded all four of his arms.
 
-"...So, what, you're not even going to give the four of them any more than, like, a *minute's* consideration?" Lewis asked.
+"…So, what, you're not even going to give the four of them any more than, like, a *minute's* consideration?" Lewis asked.
 
 "Lewis-"
 
-"Goddamn herd xenos, man, FUCK!" the human spun away into the back of the pod, slumped against the wall, rubbed his face and then barked an order at the pod. “Privacy field.”
+"Goddamn herd xenos, man, FUCK!" the human spun away into the back of the pod, slumped against the wall, rubbed his face and then barked an order at the pod. "Privacy field."
 
 It snapped on in a fuzz of white noise and mercifully obscured him from view.
 
@@ -2082,6 +2082,6 @@ ___
 **++End Chapter 23++**
 
 While Deathworlders chapters will always be published completely for
-free, with the aid of my backers on **[Patreon](http://www.patreon.com/HamboneHFY)** I’ve now been able to take more time for writing! As a result, chapters are now longer and more detailed (As if you hadn't noticed).
+free, with the aid of my backers on **[Patreon](http://www.patreon.com/HamboneHFY)** I"ve now been able to take more time for writing! As a result, chapters are now longer and more detailed (As if you hadn't noticed).
 
 Thank you for reading, and for your feedback :D
