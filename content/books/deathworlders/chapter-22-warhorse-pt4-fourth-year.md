@@ -87,7 +87,7 @@ that training into the routine."
 from multiple directions, preferably three." Powell added.
 
 "What's everyone else do while the spearhead's charging in?" Firth
-asked, as Baseball nodded and scribbled out some changes to the training
+asked, as BASEBALL nodded and scribbled out some changes to the training
 regime.
 
 "Minimising ET loss of life and limb." Stevenson replied.
@@ -111,7 +111,7 @@ workshop."
 
 "Who's going to carry it?" Vandenberg asked.
 
-"Humpin' stuff's usually Warhorse's job." Sikes drawled.
+"Humpin' stuff's usually WARHORSE's job." Sikes drawled.
 
 Adam looked up—he'd been looking through the training plan Burgess was
 writing, rather than at it. "Hmm?"
@@ -124,7 +124,7 @@ carrying the big stretcher for the Guvnurag patients?"
 "Ah, yeah. We're gonna need that, aren't we?" Sikes rubbed his jaw.
 "Burgess?"
 
-Baseball didn't look up. "Sure. Who's carrying the stasis bags?"
+BASEBALL didn't look up. "Sure. Who's carrying the stasis bags?"
 
 Akiyama chuckled. "You want it so much, looks like you're carrying it
 yourself, Calvin." he said, using Sikes' first name.
@@ -617,7 +617,7 @@ but which nowadays flew under the unreliable power of four temperamental
 home-made kinetic thrusters, the tuning and troubleshooting of which
 seemed to give him no end of fun.
 
-Baseball read trauma journals and medical textbooks, working towards a
+BASEBALL read trauma journals and medical textbooks, working towards a
 full nursing qualification. Legsy, Murray and Price had all taken to
 collecting little miniature fantasy armies and painting them, practising
 their fine dexterity by competing to see who could paint theirs most
@@ -798,7 +798,7 @@ swallowed, and shivered. "*Waaurrr.* Can, uh, can keep 'em topped up."
 the touchscreen mounted on the inside of his wrist, entering the suit
 release code with shaking fingers.
 
-"Suit off, Warhorse." Hargreaves echoed, and Adam nodded, glad to follow
+"Suit off, WARHORSE." Hargreaves echoed, and Adam nodded, glad to follow
 Powell's example. He entered the code, the pelvic seal disengaged and he
 leant forward and thrust his arms over his head. Doyle reached up from
 behind to disconnect the hoses, then moved round to the front and
@@ -1122,7 +1122,7 @@ her side, and provided a much-needed shoulder for her to soak.
 *Baby I know its your rest day today, call me when you can please
 xx*
 
-Baseball considered the text message for several seconds before offering
+BASEBALL considered the text message for several seconds before offering
 his sage and experienced wisdom.
 
 "Sounds serious, bro."
@@ -1231,7 +1231,7 @@ pressed three fingers to his forehead and looked pained. "You fuckin'
 Adam looked around at their reactions, then down at his knees. "…I
 really suck at this, huh?"
 
-"Brother." Baseball said, putting an arm round him. "She's a goddamn
+"Brother." BASEBALL said, putting an arm round him. "She's a goddamn
 saint for putting up with your stupid ass."
 
 * * *
@@ -1403,7 +1403,7 @@ A few minutes after she fell asleep, he did as well.
 
 **HMS Sharman, Folctha, Cimbrean, the Far Reaches**
 
-**John "Baseball" Burgess**
+**John "BASEBALL" Burgess**
 
 "Hey."
 
@@ -1421,13 +1421,13 @@ insults, but never going overboard.
 
 Seeing him so distressed had killed all of that.
 
-But that had to stop now. The long journey was over now, and Baseball
+But that had to stop now. The long journey was over now, and BASEBALL
 had to get his best friend back into soldier mode. "You okay?"
 
 "I dunno man." Adam swallowed. Hell, his eyes were red around the edge.
 "I think I really fucked up this time. I think I fucked up bad."
 
-"Brother, you didn't do shit." Baseball grabbed Adam's bag from him.
+"Brother, you didn't do shit." BASEBALL grabbed Adam's bag from him.
 "The old man says we're coming to Cimbrean, we're coming to Cimbrean.
 Not your fault we're here."
 
@@ -1438,7 +1438,7 @@ shit the whole time since. You told her first chance you got, man."
 
 Adam didn't say anything, he just nodded helplessly.
 
-"Come on." Baseball slapped him on the back. "We got shit to unload and
+"Come on." BASEBALL slapped him on the back. "We got shit to unload and
 get stowed and then it's the weekend. Get your mind off it, huh?"
 
 "…Yeah."
@@ -1500,11 +1500,11 @@ through then have it out with 'im once she's back here?"
 
 "Difficult, if she's struggling now…"
 
-"You know, if you two worry about Warhorse's love life too much, we're
+"You know, if you two worry about WARHORSE's love life too much, we're
 gonna wind up with THREE guys off their game." Vandenberg commented,
 joining them.
 
-"He'll be okay for now." Baseball said. "He just got a making up email."
+"He'll be okay for now." BASEBALL said. "He just got a making up email."
 
 "Good, 'cause I know the old man's noticed." Rebar joined them on the
 couch, which was already about at its limit. Something cracked deep
@@ -1515,7 +1515,7 @@ any attention.
 said. "Anyway, all we can do is keep him on task, let it all sort itself
 out, one way or another."
 
-"Yyyep." Baseball shifted his seat a bit, and the couch finally gave
+"Yyyep." BASEBALL shifted his seat a bit, and the couch finally gave
 up,—with a crackle of disintegrating wood, it tilted to one side and
 folded up like a house of cards.
 
@@ -1552,7 +1552,7 @@ varying expressions of confusion and delight.
 of his bum." Legsy grumbled, wincing as he gingerly lifted himself out
 of the couch wreckage with his hand pressed to his left buttock.
 
-Baseball just chuckled and went to fetch his medkit, while the Defenders
+BASEBALL just chuckled and went to fetch his medkit, while the Defenders
 put their heads together on designing a new couch. He passed Adam on the
 way, who was leaning against his door, smirking.
 
@@ -2003,7 +2003,7 @@ active duty…" he gestured a hand down the mid-line of his own body.
 "You want me to stress that?"
 
 "We're only going to want people who can hack the idea of never being
-the same again. Go talk to Warhorse sometime—Staff Sergeant Arés. I used
+the same again. Go talk to WARHORSE sometime—Staff Sergeant Arés. I used
 to work closely with his old man, who's a slim, small, little guy. Not
 unfit or anything, just…small. Four years ago, the lad was just, like, a
 younger version of 'is dad, but now he's fookin' *huge*! *A*nd he'll
@@ -2047,7 +2047,7 @@ It wasn't anything overt—she doubted the young man even knew he was
 doing it—but his attitude with her, while perfectly polite and
 respectful, was nevertheless decidedly cooler than those of his
 squadmates, and she noticed a few little frowns among the guys which
-suggested they were asking each other '*what's up with Warhorse?*'.
+suggested they were asking each other '*what's up with WARHORSE?*'.
 
 Which was why, when he went to cook between movies, she engineered an
 excuse that she needed a glass of water and joined him in the kitchen.
@@ -2159,7 +2159,7 @@ exciting time to be alive, y'know?"
 
 "True."
 
-"Speaking of shitty special effects…" Baseball stuck his head in the
+"Speaking of shitty special effects…" BASEBALL stuck his head in the
 kitchen. "We're watching the Power Rangers movie next, if you're
 interested Major?"
 
@@ -2575,7 +2575,7 @@ done. There had been no such lapses of professionalism since.
 Each simulation was designed to take a few hours. There was a lot of
 room in the warehouse, and the simulation techs worked all week to
 configure the next scenario ahead of training day. Beating the crap out
-of those two with Warhorse had probably spared them the wrath of their
+of those two with WARHORSE had probably spared them the wrath of their
 fellows. Or at least, the worst of it.
 
 Today, there were no such shenanigans. The Aggressors were a blur,
@@ -2766,7 +2766,7 @@ having been waiting as ordered, and the operators all straightened up as
 they saw the berets being carried on trays towards them, knowing what it
 meant.
 
-Powell started with Baseball. "Burgess. You did good work today." he
+Powell started with BASEBALL. "Burgess. You did good work today." he
 said. "Efficient, fast, bold. Don't stress about not carrying as much as
 the Incredible Hulk there. Don't doubt for a second that your speed is
 the unique skill you bring to this team—don't lose sight of that."
