@@ -1772,7 +1772,7 @@ almost completely forgotten that it had happened.
 
 * * *
 
-"So hey, Warhorse."
+"So hey, WARHORSE."
 
 Adam’s bunk-mate was John Burgess, and the two had bonded quickly over
 learning that they shared some San Diego experience. Burgess had lost
@@ -1803,15 +1803,15 @@ in the shower, the fuck are you smuggling in that sack, grapefruits?"
 "Man, they ain’t *that* big!"
 
 Adam snorted. "Like fuck they aren’t. You used to pitch for your school
-team, right? We should start calling you Baseball."
+team, right? We should start calling you BASEBALL."
 
 Burgess frowned at him. "*No!"* he asserted.
 
 "Too fucking late, brother." one of the others asserted. "You call him
-Warhorse, you get called Baseball. All’s fair in love and war."
+WARHORSE, you get called BASEBALL. All’s fair in love and war."
 
 There was general snickering at that one as the newly-christened
-'*Baseball*’ wilted. "…shit." he declared.
+'*BASEBALL*’ wilted. "…shit." he declared.
 
 Adam laughed. Being able to share the experience of an embarrassing
 nickname was taking some of the sting out. "Guess we’d better get used
@@ -2053,10 +2053,10 @@ that Powell was saying.
 "So, you must be Ava."
 
 She was being addressed by another new airman, a young, acne-scarred
-African-American man who offered her a hand to shake. "Warhorse said a
+African-American man who offered her a hand to shake. "WARHORSE said a
 lot about you."
 
-She shook it. "Warhorse?"
+She shook it. "WARHORSE?"
 
 "Your boy Adam there. That’s his callsign."
 
@@ -2070,7 +2070,7 @@ I’m going into the PJ pipeline with him."
 "I hope so, motherfucker took the top bunk over me for eight weeks!" He
 laughed, then self-censored. "Uh, sorry. Bleep."
 
-"It’s no problem. So…Warhorse?"
+"It’s no problem. So…WARHORSE?"
 
 "Couple’a reasons. Your boy can carry *anything*, he’s strong as shit,
 put a bag on him and he’ll run all day. So, we *could* have called him
@@ -2080,7 +2080,7 @@ Packmule, but…y’know with a name like Arés…"
 
 "Now the *other* reason is—"
 
-"Goddammit Baseball, don’t you tell her!" Adam returned in time to
+"Goddammit BASEBALL, don’t you tell her!" Adam returned in time to
 gently clamp his hands over Ava’s ears. She giggled and wriggled free.
 
 "Aww come on man, I’ve GOT to meet the girl brave enough to take *you*
@@ -2097,7 +2097,7 @@ been swimming, and he hadn’t been at anything like…full…
 
 She censored her own mental film reel.
 
-'*Baseball*’ paused, then grimaced. "Ah. Shit. You, uh…didn’t know?"
+'*BASEBALL*’ paused, then grimaced. "Ah. Shit. You, uh…didn’t know?"
 
 Ava shook her head. Adam just glared.
 
@@ -2138,7 +2138,7 @@ and jetted back North to return to Folctha. Adam and Ava sat together in
 the back seat of Gabe’s rented SUV on the drive into San Antonio proper,
 holding hands and talking quietly.
 
-"Okay, so…why '*Baseball*’?" she asked eventually.
+"Okay, so…why '*BASEBALL*’?" she asked eventually.
 
 "Couple of reasons."
 
@@ -2150,7 +2150,7 @@ dummy grenades…yeah."
 
 "And the embarrassing?"
 
-"BASEBALL. For…more or less the same reason I’m Warhorse. I don’t have
+"BASEBALL. For…more or less the same reason I’m WARHORSE. I don’t have
 to draw you a picture, do I?"
 
 She laughed. "Please don’t!"
@@ -2506,7 +2506,7 @@ each other in spirit rather than in person, huh?*
 
 Adam was smiling as he folded the letter up. "Good letter."
 
-"She ain’t here, bro. You’re talking to yourself again." Baseball
+"She ain’t here, bro. You’re talking to yourself again." BASEBALL
 grinned at him.
 
 "Beats your company." Adam retorted, grinning back.
@@ -2525,7 +2525,7 @@ Adam completed the fist pound. "Asshole."
 They were interrupted by the MTL, who entered the barracks and announced
 a briefing and lecture in ten minutes.
 
-"What now?" Baseball wondered aloud.
+"What now?" BASEBALL wondered aloud.
 
 They found out when they settled into their seats in the lecture hall
 six minutes later. There was the usual rigmarole of standing when the
@@ -2679,7 +2679,7 @@ Baxter stood up, and jaws dropped around the room.
 
 "That’s incredible." somebody muttered.
 
-"It’s goddamn alien space magic is what it is." Baseball grunted.
+"It’s goddamn alien space magic is what it is." BASEBALL grunted.
 
 Reed nodded agreement, letting the interruption slide. "And for the time
 being it looks like we’re stuck relying on the Corti to make it for us.
@@ -2790,7 +2790,7 @@ explanation in his head.
 "This is what I got in for." he said, simply. "I knew there had to be
 aliens involved *somewhere*, and…yeah."
 
-Baseball sat down. "You did?"
+BASEBALL sat down. "You did?"
 
 "Dude, antimatter? Nobody on Earth’s got that shit."
 
@@ -2799,7 +2799,7 @@ shit when I first heard about the SOR."
 
 Adam nodded. "Yeah." he said. "That one’s new on me, too."
 
-"Man, I ain’t sure about this Crue-D stuff." Baseball rubbed his chin
+"Man, I ain’t sure about this Crue-D stuff." BASEBALL rubbed his chin
 thoughtfully. "I knew too many guys got 'roided up in school…You sure
 you’re not rushing into this?"
 
@@ -2826,7 +2826,7 @@ the brains of the outfit."
 
 Adam laughed and gave him the finger.
 
-Baseball laughed too, then reached out, flipped Adam’s hand over,
+BASEBALL laughed too, then reached out, flipped Adam’s hand over,
 grabbed it in a knuckle-creaking handshake and dragged him in for a
 solid masculine slam-hug.
 
@@ -3107,9 +3107,9 @@ second skin.
 
 "Line up!"
 
-He met Baseball’s eye as they lined up alongside the pararescue
+He met BASEBALL’s eye as they lined up alongside the pararescue
 candidates. They stood out, now, clearly on a different career path. The
-PJs were strong as hell, but Adam and Baseball were both much, much
+PJs were strong as hell, but Adam and BASEBALL were both much, much
 bigger. Their ability to wriggle into tight places had been sacrificed
 to prioritize the raw power they needed to remain mobile and active
 under crushingly heavy loads.
@@ -3574,7 +3574,7 @@ kitchen. The whole apartment smelled of turkey and potatoes.
 "Yeah. Think I’ve learned just enough about medicine now to know that I
 know basically *nothing* about medicine. It’s…crazy." he sighed. "And
 for a while there I just wasn’t getting it, you know? My buddy
-Baseball—you remember Baseball?"
+BASEBALL—you remember BASEBALL?"
 
 Ava giggled. "Hard to forget."
 
