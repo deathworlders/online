@@ -236,11 +236,11 @@ finally said goodbye.
 
 * * *
 
-**John "Baseball" Burgess**
+**John "BASEBALL" Burgess**
 
 "Okay, it's a fucking *sauna* in here."
 
-Warhorse had always struggled with the heat. He was just so big
+WARHORSE had always struggled with the heat. He was just so big
 nowadays, and so dense, that he actively struggled if the temperature
 crept above seventy or so. Hell, ALL of the Operators were like that,
 but Adam had it worst.
@@ -306,7 +306,7 @@ bread stick.
 contact.
 
 She stopped chewing, and frowned at him as she swallowed. "What are you
-driving at, Baseball? Don't dance around, put it out there."
+driving at, BASEBALL? Don't dance around, put it out there."
 
 "…Have you found somebody else?"
 
@@ -447,13 +447,13 @@ He let them get on with it, and made a mental note to get the drone
 footage that Sikes had *definitely* taken, even if he'd deny it at
 first. It'd put the Major in a good mood to watch it, he knew.
 
-"And won't Adam an' Baseball have a surprise when they get back…" he
+"And won't Adam an' BASEBALL have a surprise when they get back…" he
 asked of nobody, turning back to admire the impromptu mural once again.
 Considering it had been done in the dead of night by four men in
 climbing gear fifty feet in the air, it was remarkably good. They must
 have been sneaking up there for *days* pencilling in the outline.
 
-Adam and Baseball, meanwhile, would be back from leave in two days.
+Adam and BASEBALL, meanwhile, would be back from leave in two days.
 
 He gave it three days before there were Feet somewhere on that castle.
 
@@ -1175,7 +1175,7 @@ astronaut ranted on the screen. "*You see the hat? I am MRS! NESBITT!!"*
 
 "Man, get off me!"
 
-The knot untangled enough for Baseball to squeeze out from under it and
+The knot untangled enough for BASEBALL to squeeze out from under it and
 roll over the back of the couch, and they collapsed back inwards as the
 guys found new comfortable spots to fill the void.
 
@@ -1197,7 +1197,7 @@ that long was easy for *me* either."
 Akiyama spoke up. "Women are high maintenance, man." he shared.
 
 Price snorted. "Fuck off, you've got less experience with women than
-Warhorse does."
+WARHORSE does."
 
 Akiyama took the insult with a smile "You wanna talk about getting laid,
 little man?"
