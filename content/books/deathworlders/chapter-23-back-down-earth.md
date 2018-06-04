@@ -30,7 +30,7 @@ They dutifully turned around with an assortment of chuckles, presenting the life
 
 She shuddered. "*Yuurgh.* Just the *thought* of that…!"
 
-"I know, right?" Baseball agreed. "Fuckin' shoot me, if it ever happens to me."
+"I know, right?" BASEBALL agreed. "Fuckin' shoot me, if it ever happens to me."
 
 This sparked universal agreement. "So you're basically having a '*who would win in a fight?*' conversation." Kovač noted. "Very macho. You're good, Firth."
 
@@ -42,9 +42,9 @@ This sparked universal agreement. "So you're basically having a '*who would win 
 
 "He's too cautious for an ambush. Just gotta put the pressure on, I guess. Suppress him and work round the side." Firth noted.
 
-"Okay… Warhorse then."
+"Okay… WARHORSE then."
 
-Kovač giggled. "Sniper round. From long range." she suggested. "You're good, Rebar."
+Kovač giggled. "Sniper round. From long range." she suggested. "You're good, REBAR."
 
 Everyone nodded, muttering variations on the theme of "Oh yeah."
 
@@ -58,7 +58,7 @@ Everyone nodded, muttering variations on the theme of "Oh yeah."
 
 "Come *on*, I'm not an aggressor!"
 
-"Take it for the compliment it is and move on, brother." Baseball suggested.
+"Take it for the compliment it is and move on, brother." BASEBALL suggested.
 
 "Gee, thanks…" Adam rolled his eyes.
 
@@ -86,7 +86,7 @@ Everyone nodded, muttering variations on the theme of "Oh yeah."
 
 "Dude, come on, yeah he's a fuckin' badass but he's not THAT-"
 
-"Nah bro." Baseball interrupted. "It's not about him being too scary, though he fuckin' *is*. It's about giving him a proper sendoff."
+"Nah bro." BASEBALL interrupted. "It's not about him being too scary, though he fuckin' *is*. It's about giving him a proper sendoff."
 
 "…you're right." Adam agreed. "He'd deserve nothing less."
 
@@ -118,15 +118,15 @@ The spacewalkers stood and jolted in place a bit as they used the controls on th
 
 "And… equipment."
 
-Adam helped the guys shrug on their equipment packages and make sure their loads were properly strapped on and distributed. That was his job specifically, backed up by Baseball, and he did it *right*. He took pride in that.
+Adam helped the guys shrug on their equipment packages and make sure their loads were properly strapped on and distributed. That was his job specifically, backed up by BASEBALL, and he did it *right*. He took pride in that.
 
 "Good." he declared.
 
 "That's our checklist, you're green-lit." Kovač stepped back. "Over to you, Vandenberg."
 
-"Thanks, Kovač." She nodded and joined the rest of the techs in heading for the airlock. Rebar, being the senior NCO, was in charge of the EVA they were doing.
+"Thanks, Kovač." She nodded and joined the rest of the techs in heading for the airlock. REBAR, being the senior NCO, was in charge of the EVA they were doing.
 
-"Righteous?" he prompted.
+"RIGHTEOUS?" he prompted.
 
 Firth nodded, and touched the side of his helmet. "CIC, RIGHTEOUS, we're green-lit for EVA."
 
@@ -142,9 +142,9 @@ Naked stars yawned at Adam from incomprehensibly far away, somehow made to feel 
 
 "*CIC, RIGHTEOUS. Commencing spacewalk."*
 
-"*Righteous, Caledonia CIC: have fun."*
+"*RIGHTEOUS, Caledonia CIC: have fun."*
 
-"*Man, we have* **_got_** *to get some sound or music or something in this shit."* Baseball commented. "*Vacuum's too quiet."*
+"*Man, we have* **_got_** *to get some sound or music or something in this shit."* BASEBALL commented. "*Vacuum's too quiet."*
 
 "*I hear ya… There's our box."* Firth agreed. Adam's HUD filled with a flight waypoint and instructions on how much thrust to give himself, which he followed to the letter. Firth knew best when it came to EVA navigation.
 
@@ -152,11 +152,11 @@ Naked stars yawned at Adam from incomprehensibly far away, somehow made to feel 
 
 They swung into place. As Firth set up shop notionally "above" the life raft to keep an eye on its velocity relative to *Caledonia*, Adam went with Sikes and Burgess joined Vandenberg in approaching antipodal spots on the rim of the little craft, where the two Defenders set to work welding larger versions of their suits' KMPs to it while the Protectors held them in place.
 
-It didn't take long before Rebar reported "*Done*." prompting a quiet cuss from Sikes.
+It didn't take long before REBAR reported "*Done*." prompting a quiet cuss from Sikes.
 
 "*Done. I owe you fifty."*
 
-"*Damn right you do. Righteous, over to you."*
+"*Damn right you do. RIGHTEOUS, over to you."*
 
 The five of them settled on the life raft and held on as Firth took over piloting it into *Caledonia*'s waiting flight deck.
 
@@ -178,7 +178,7 @@ Adam grinned inside his mask when he heard a feminine exclamation of disapproval
 
 "*Three cases of recent vacuum exposure. We* **_really_** *need a doctor, fella."*
 
-Adam waved at Baseball, who gave him a thumbs up. "Copy that. Sit tight folks, we'll have you out of there in a minute."
+Adam waved at BASEBALL, who gave him a thumbs up. "Copy that. Sit tight folks, we'll have you out of there in a minute."
 
 He switched his broadcast channel. "Caledonia medical, WARHORSE, do you copy?"
 
@@ -204,7 +204,7 @@ The occupants were in a bad way. The fit-looking tanned dude in the back had bad
 
 "Hah! *Bueno."* He turned back out the door, using the excuse of talking to the people outside to cover prepping a dose of anaesthetic---the Chinese girl was going to need to go on life support immediately, and for that she needed to be asleep.
 
-Not for the first time, he *wished* that they were authorised to use Crue-D for first aid. "Base, get the blonde patient, she looks oedemic." he instructed. "Rebar, I'ma need that board there." Vandenberg nodded and stepped smartly to retrieving it, so he returned his attention to the Chinese girl.
+Not for the first time, he *wished* that they were authorised to use Crue-D for first aid. "Base, get the blonde patient, she looks oedemic." he instructed. "REBAR, I'ma need that board there." Vandenberg nodded and stepped smartly to retrieving it, so he returned his attention to the Chinese girl.
 
 "Hey, can you try and grip my hand for me?" he asked her. Though she was able to raise her hand and *sort* of grip, there was nothing there in terms of strength, but she was so focused on the task it was simplicity itself to give her the shot with his other hand. She didn't seem to notice.
 
@@ -298,11 +298,11 @@ ___
 
 ***Adam Arés***.
 
-"Hey Dexter. Man, you are not going to *believe* who we just pulled off a life raft on the edge of Elder Space. Although, maybe you can guess, because you wouldn't be interested otherwise, huh? Anyway, we found your friend Xiù!"
+"Hey DEXTER. Man, you are not going to *believe* who we just pulled off a life raft on the edge of Elder Space. Although, maybe you can guess, because you wouldn't be interested otherwise, huh? Anyway, we found your friend Xiù!"
 
-"You tellin' Dexter?" Sikes stuck his head into the tablet's camera field of view. "Hey Dexter!"
+"You tellin' DEXTER?" Sikes stuck his head into the tablet's camera field of view. "Hey DEXTER!"
 
-This prompted Baseball, Firth and Rebar to join in too, and Adam just grinned at the camera as they expressed a series of happy greetings to their Gaoian friend-slash-mascot, before he finally shooed them away.
+This prompted BASEBALL, Firth and REBAR to join in too, and Adam just grinned at the camera as they expressed a series of happy greetings to their Gaoian friend-slash-mascot, before he finally shooed them away.
 
 "Yeah, you've gotta visit us sometime man. We can do, like, a joint training thing or something. Maybe see what you've got to teach us, like that fucking pulse-gun trick you pulled, that shit was *insane*!" He cleared his throat. "Anyway… yeah, we found your friend. Looks like she's been stuck in that pod for about five years, and they had a *rough* time of it, but she's alive. By the time you've got this they'll probably have taken her back to Earth, but don't worry, I'm sure we'll be able to sort out putting you two back in touch again…"
 
@@ -310,15 +310,15 @@ This prompted Baseball, Firth and Rebar to join in too, and Adam just grinned at
 
 He stopped the recording, and sent it without bothering to play it back. Regaari had been in touch a couple of times since Capitol Station, and Adam knew that he'd be delighted by the news.
 
-"All done?" Baseball asked. Adam just grinned at him. He'd saved lives, had some good training that morning, been able to send some really good news to a friend…
+"All done?" BASEBALL asked. Adam just grinned at him. He'd saved lives, had some good training that morning, been able to send some really good news to a friend…
 
 "Good day." he commented.
 
 "Yeah…"
 
-Baseball had been doing that a bit for a while now. Something was bugging him, Adam could tell, but if Base didn't want to share, that was his business. He wasn't about to push it. "You got anything planned?" He asked instead.
+BASEBALL had been doing that a bit for a while now. Something was bugging him, Adam could tell, but if Base didn't want to share, that was his business. He wasn't about to push it. "You got anything planned?" He asked instead.
 
-Baseball shrugged. "Goin' drinking with Titan. Dude's not been laid since he got shot. You?"
+BASEBALL shrugged. "Goin' drinking with TITAN. Dude's not been laid since he got shot. You?"
 
 Adam exchanged elaborate handshakes and backslaps with the other three as they left. "Ava's friend Sean's coming up from Earth. Apparently his uncle's like this journalist or something, doing a bit on the Byron group, yeah? We were gonna go up the lake, go for a swim. Really looking forward to that, they only just declared it clean this week. I've not been up there since before I enlisted!"
 
@@ -326,11 +326,11 @@ Adam exchanged elaborate handshakes and backslaps with the other three as they l
 
 "…something bothering you, bro?" Adam asked him.
 
-Baseball stood awkwardly in the middle of the locker room, drumming his hands nervously on his thighs and licking his lips.
+BASEBALL stood awkwardly in the middle of the locker room, drumming his hands nervously on his thighs and licking his lips.
 
 Adam stood up. "Dude… what's wrong?"
 
-Baseball apparently reached a decision. "Brother… you better sit your ass back down. I've got something you need to know."
+BASEBALL apparently reached a decision. "Brother… you better sit your ass back down. I've got something you need to know."
 
 ___
 **Date Point 10y2m2w AV**
@@ -392,7 +392,7 @@ He was interrupted by his communicator, which cheeped at him in a one beep, two 
 
 Ruuvi noticed his colleague's ears prick up. "Good news?"
 
-"A message from Warhorse."
+"A message from WARHORSE."
 
 "You have a human on your priority message list?" Ruuvi asked.
 
@@ -438,7 +438,7 @@ For a deadly few seconds, the only sound was the creak of the last tortured hing
 
 "Shit." she squeaked. "You know."
 
-For all the fury of his entrance, Adam's voice was dangerously quiet and level. "You *were* stupid enough to talk to Baseball." he pointed out.
+For all the fury of his entrance, Adam's voice was dangerously quiet and level. "You *were* stupid enough to talk to BASEBALL." he pointed out.
 
 However Ava wanted to respond, it didn't come out except as a silent mouthing of the start of a word, and some desperate looking around, blinking rapidly as she tried to think of what to say. She cowered and gave an involuntary terrified gasp when Adam bunched a fist and drove it into the wall so hard that the plaster caved in.
 
@@ -452,7 +452,7 @@ There was no refuge save for honesty. Sean did the best job he could of straight
 
 Rather than knocking his block off, Adam just made a disgusted noise and gave him a contemptuously gentle shove, landing Sean on his backside a few feet away. He turned and stalked back to Ava, who'd moved out of the corner he'd trapped her in and was watching him wide-eyed, hunched over and trembling, with her hands hugging her upper arms.
 
-"You know what Baseball said you said?" He demanded. "He said you said you don't owe me a fucking apology. What the *fuck*?!"
+"You know what BASEBALL said you said?" He demanded. "He said you said you don't owe me a fucking apology. What the *fuck*?!"
 
 Ava finally found her voice. "Hear me out." she pleaded.
 
@@ -522,7 +522,7 @@ ___
 
 "You are approaching a commune of females, male. Identify yourself."
 
-Regaari was in no mood for games. The message from Warhorse was far too important to pass to Ayma digitally---this was a *conversation*, and one that he was itching to have.
+Regaari was in no mood for games. The message from WARHORSE was far too important to pass to Ayma digitally---this was a *conversation*, and one that he was itching to have.
 
 "You can't be serious, Sister Layra, you've seen me every third or fourth day for a quarter of a year, it's *me!"* He pointed out, making a bee-line for the door.
 
@@ -564,7 +564,7 @@ Regaari glanced around to quickly check whether Ayma was present, then concluded
 
 Myun surged to her feet. "Shoo's safe?!"
 
-"They picked her up from an escape pod this morning." Much as he'd have preferred to keep the original, Regaari had to admit that having a prosthetic paw with a built in gesture-based control interface for his data was unbelievably convenient. He summoned Warhorse's message and sent it to Myun's device, which she snatched up and interrogated eagerly.
+"They picked her up from an escape pod this morning." Much as he'd have preferred to keep the original, Regaari had to admit that having a prosthetic paw with a built in gesture-based control interface for his data was unbelievably convenient. He summoned WARHORSE's message and sent it to Myun's device, which she snatched up and interrogated eagerly.
 
 She impressed and pleased Regaari by reaching up to the communicator clipped to her ear and pinching it before he had even thought to ask her. "Security Central, Mother Ayma has a priority message waiting on the grand concourse. Call for her please. Priority message for Mother Ayma, grand concourse."
 
@@ -572,7 +572,7 @@ She listened to the response, then growled a little. Her contract with Regaari h
 
 She sighed and unclipped the communicator, muttering a loaned human curse once it was safely turned off. "*Bitch*."
 
-Regaari chittered quietly. "Anyway, I don't know more than is in the message there. Though, if Warhorse thinks she had a rough time of it… I'm a little worried."
+Regaari chittered quietly. "Anyway, I don't know more than is in the message there. Though, if WARHORSE thinks she had a rough time of it… I'm a little worried."
 
 "Is there any way to find out more?" Myun asked.
 
@@ -710,15 +710,15 @@ ___
 
 It was Good Movie Night. Sometimes, the guys wanted a good movie to counterbalance all the awful ones they like to watch, and it was a good way to round off a mission day. The dorm was clean, they were all showered, and now there were a few hours of quiet time to lounge around in ranger shorts and watch something.
 
-Hence they were watching '*The Pink Panther*'. The old one, with Peter Sellers. That had been the plan at least, right up until somebody had asked where Warhorse had got to and John had tried to explain.
+Hence they were watching '*The Pink Panther*'. The old one, with Peter Sellers. That had been the plan at least, right up until somebody had asked where WARHORSE had got to and John had tried to explain.
 
-"And you didn't think to tell him sooner?" Titan was asking, plainly angry.
+"And you didn't think to tell him sooner?" TITAN was asking, plainly angry.
 
 "Man, when did I even have the chance?" The movie was on pause and the usual comfortable puppy-pile on the couch had broken up into a standing argument.
 
 Sikes opened his mouth to comment, and John nodded in anticipation of what he was going to say. "Okay, okay, yeah, lots of times, but come *on* man, timing! We were all on edge, we were all… then just as I was about to tell him he went and *proposed* to her, and then before he had a chance to get over that we had the mission, and…"
 
-"And you should of told him!" Titan asserted.
+"And you should of told him!" TITAN asserted.
 
 "You're supposed to be our fucking brother man, and you're lying to **_Horse_** of all people about his *girl fucking around*?" Sikes agreed.
 
@@ -732,13 +732,13 @@ That stung. It downright hurt, in fact. "You *know* you can." John protested, qu
 
 "Do we? 'Cause if you can help Horse's girl suck some other asshole's skinny fuckin' dick-"
 
-"Say *what?"* John rounded on Titan. "I didn't fuckin' help her!"
+"Say *what?"* John rounded on TITAN. "I didn't fuckin' help her!"
 
 "You let her keep on doing it, dintcha?" Blaczynski retorted.
 
 "'Cause the alternative was ripping Horse's heart out of his fucking chest at *exactly* the wrong moment, man!" John illustrated the mental image with a gesticulation. "We wouldn't HAVE him if I'd done it before now. You think he'd have made it through without at least, like, the *idea* of her? And I'm not sure I'd have made it through without *him!"*
 
-"You think it was a choice between this, or no Protectors at all?" Rebar checked.
+"You think it was a choice between this, or no Protectors at all?" REBAR checked.
 
 John sighed and nodded. "Could be." he agreed. "Even Horse has his limits, man."
 
@@ -748,7 +748,7 @@ The three Defenders exchange quick glances, communicating silently.
 
 "He was fucking furious, bro."
 
-"Surprised he didn't tie your ass in a pretzel." Titan said. "Fuck, he's gonna have a face like Armageddon landing when he gets back…"
+"Surprised he didn't tie your ass in a pretzel." TITAN said. "Fuck, he's gonna have a face like Armageddon landing when he gets back…"
 
 "Yup." John agreed.
 
@@ -766,7 +766,7 @@ Everyone looked at Murray. Murray was like that---you could completely forget he
 
 Everyone paused, then settled a bit. There was a round of nods and murmured agreements, and the guys all sat back down on the couch.
 
-Baseball was left standing. "Uh…hey, lemme in there…" he ventured
+BASEBALL was left standing. "Uh…hey, lemme in there…" he ventured
 
 "Couch is full, John." Firth told him, not looking at him.
 
@@ -774,7 +774,7 @@ Baseball was left standing. "Uh…hey, lemme in there…" he ventured
 
 "Couch. Is full."
 
-John directed a pleading look first at Rebar, who was avoiding eye contact, and then at Murray who gave him a complicated facial shrug which said quite clearly that he wasn't about to rekindle the argument by disagreeing and that John was just going to have to put up with it.
+John directed a pleading look first at REBAR, who was avoiding eye contact, and then at Murray who gave him a complicated facial shrug which said quite clearly that he wasn't about to rekindle the argument by disagreeing and that John was just going to have to put up with it.
 
 After a moment's hesitation, John settled for a resigned throat-clear and sitting cross-legged on the hard, cold floor *next* to the couch, rather than wrapped up with his buddies. It didn't feel right at all, and not even Sellers' dignified on-screen antics could fix that.
 
@@ -792,7 +792,7 @@ Waiting for them in the gym was a sight more disturbing than anything John had s
 
 The 100lb plates were all off their racks and scattered around the gym like schoolyard frisbees. The spring steel barbell at the deadlift station---the one commissioned especially for the Protectors - had bent beyond hope of repair, the one at the squat rack was now roughly the shape of a hockey stick, and Adam was sitting in the middle of the floor, cradling his elbow and sobbing.
 
-Baseball was at his side in a flash. "Oh man, brother, I- *oof!"*
+BASEBALL was at his side in a flash. "Oh man, brother, I- *oof!"*
 
 The air rushed straight out of him and he felt a stab of pain in his ribs as he found himself caught in the kind of crushing bear-hug that might have pulped an alien and badly hurt most humans.
 
@@ -800,7 +800,7 @@ There was nothing to do but put his own arms around his best friend's huge shoul
 
 The guys all left him to it and found stuff to do. Murray, Firth and Blaczynski set about cleaning up the gear, while the Defenders gathered round the damaged wall and held a hushed consultation with one another.
 
-Just as the last of the plates was being racked up, Rebar sidled over and gave John a tap on the shoulder.
+Just as the last of the plates was being racked up, REBAR sidled over and gave John a tap on the shoulder.
 
 "Dude, uh… that was a structural wall he busted." He whispered. "We kinda need everyone out of here while we make it safe."
 
@@ -1238,7 +1238,7 @@ Then yesterday hit him in the head.
 
 He levered himself upright. He was still in his civvies, basketball shorts and a T-shirt that he'd made himself, one of the few items of clothing he had that was actually loose on him.
 
-Baseball was slumped in an armchair in the doorway, snoring quietly with a book on his knee. Somebody had draped a blanket over him, and there was a mug of tea on the floor next to him, untouched and long gone cold. Adam recognized one of Major Powell's mugs.
+BASEBALL was slumped in an armchair in the doorway, snoring quietly with a book on his knee. Somebody had draped a blanket over him, and there was a mug of tea on the floor next to him, untouched and long gone cold. Adam recognized one of Major Powell's mugs.
 
 Remorse stabbed him right in the heart. Base was going to be suffering from lost sleep for the rest of the day, which was no fun at all on the SOR's training regime. A quick glance at the clock said it was only 0530. A Cimbrean day was twenty-eight hours long in total - close enough to Earth that people didn't really suffer from the difference. In fact, the extra hours usually translated to feeling like every day had been both productive and restful.
 
@@ -1364,7 +1364,7 @@ Adam must have paused for longer than he thought, because the next word he heard
 
 "…I'll be right there."
 
-He notified Rebar of where he was going and jogged the few hundred meters over to the main gates. Sure enough, Sean was loitering at the guard post, pacing nervously.
+He notified REBAR of where he was going and jogged the few hundred meters over to the main gates. Sure enough, Sean was loitering at the guard post, pacing nervously.
 
 Adam didn't waste time on being nice. "What do *you* want?"
 
@@ -1398,13 +1398,13 @@ Adam's fist clenched. "*Friend?"* he asked. "Is that what you call it?"
 
 Adam spared them a sideways glance, then very, very carefully relaxed his hand before he aimed a finger at Sean's face. "You don't get *shit* from me, Harvey." he growled. "She can tell you herself where she got to, *after* I've gone and got her. Fuck *her,* fuck *you,* and *fuck off."*
 
-He stalked back through the gates, back to the dorm, and right up to Rebar, who'd taken over as their NCOIC since they'd lost Legsy. "Requesting leave." he said, getting right to the point.
+He stalked back through the gates, back to the dorm, and right up to REBAR, who'd taken over as their NCOIC since they'd lost Legsy. "Requesting leave." he said, getting right to the point.
 
-Rebar blinked at him. "Dude, you could have just told the gate guard."
+REBAR blinked at him. "Dude, you could have just told the gate guard."
 
 "Yeah just… I'ma be gone all day. Wanted to grab some stuff and tell you in person."
 
-Rebar gave him a hug. "Okay brother. You go do what you gotta."
+REBAR gave him a hug. "Okay brother. You go do what you gotta."
 
 Adam just nodded and gave him a weak smile. He spun round the dorm, grabbing his light ruck from under his bunk to throw in a couple of pouches of juice, an old sweater of his that he never wore any longer on account of it being much too small, two bags of beef jerky and a small first-aid kit.
 
