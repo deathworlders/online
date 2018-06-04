@@ -1,5 +1,5 @@
 ---
-title: "Chapter 22: Warhorse Part 2—The Second Year"
+title: "Chapter 22: WARHORSE Part 2—The Second Year"
 date: 2015-09-19
 aliases:
   - /book/deathworlders/chapter-22-warhorse/second-year
@@ -106,7 +106,7 @@ Tony Collins high-fived him. Collins was one of the majority who were
 staying on as full-time PJs, and Adam had a huge amount of respect for
 all of them. They took the creed seriously.
 
-"Guess we are." he agreed. Baseball was on Skype to his mother back in
+"Guess we are." he agreed. BASEBALL was on Skype to his mother back in
 LA, but there was no doubt who the other half of the "you guys" plural
 that Collins had used was meant to be.
 
@@ -180,24 +180,24 @@ Jess just took his hand and walked him home.
 
 There was some laughter, and the four men from Delta Force who had been
 squaring their stuff away dropped what they were doing to welcome Adam
-and Baseball.
+and BASEBALL.
 
 "They're all good beds." One of them promised. "So you're our PJs? Jeez,
 you guys look like you could rip a steer in half."
 
-"We both got plenty of gains in us yet." Baseball noted. "You guys're on
+"We both got plenty of gains in us yet." BASEBALL noted. "You guys're on
 the Crue-D too, huh?"
 
 "We all are." The one with the name 'Stevenson' on his chest declared.
 "You think we're gonna get bigger?"
 
-"Shit yeah!" Baseball enthused. "Warhorse here's gonna be the fuckin'
+"Shit yeah!" BASEBALL enthused. "WARHORSE here's gonna be the fuckin'
 freak, though. Stumpy-ass midget fucker's got the mechanical advantage."
 
-"Warhorse?" Sergeant Akiyama gave Adam a questioning look, as Adam gave
+"WARHORSE?" Sergeant Akiyama gave Adam a questioning look, as Adam gave
 his friend a cheerful middle finger.
 
-"Cause he can carry a lotta heavy shit." Baseball told them, sparing
+"Cause he can carry a lotta heavy shit." BASEBALL told them, sparing
 Adam's blushes for once.
 
 "We're gonna need it." Vandenberg commented. Adam got the feeling that
@@ -215,7 +215,7 @@ Cavendish, and everything I could find about the guy says that's not a
 guesstimate. He'll have had the weight of that suit down to ten decimal
 places long before they built a prototype."
 
-"You dig up our itinerary for the week in all that research?" Baseball
+"You dig up our itinerary for the week in all that research?" BASEBALL
 asked him
 
 "Nope. Guess nobody's made an extravehicular special forces unit before,
@@ -226,13 +226,13 @@ away. Maybe a speech from the old man first, you know how it goes."
 There was some nodding. "Guess we'd better get our shit away." Adam
 said.
 
-"Top bunk!" Baseball called, dashing towards an unclaimed dorm room. The
+"Top bunk!" BASEBALL called, dashing towards an unclaimed dorm room. The
 others nodded, waved and wandered off to carry on their chores.
 
 "…He knows we've all got our own room, doesn't he?" Akiyama asked.
 
 "Ah, that's just a tradition of his." Adam replied, flinging his own bag
-over his shoulder and heading for the door next to Baseball's. "I got
+over his shoulder and heading for the door next to BASEBALL's. "I got
 the top bunk in basic, he reckons it should have been his, 'cause he's
 taller, so…"
 
@@ -371,13 +371,13 @@ shirts.
 
 "***JOHN!!! NOOOOO!!!!***"
 
-Baseball lost it, covered his face with one hand and writhed in his
+BASEBALL lost it, covered his face with one hand and writhed in his
 seat, wheezing a laugh deep in his gut. "Oh my fucking…"
 
 "He's *actually* milking the giant cow." Adam noted, folding his arms
 and throwing his head back to stare at the ceiling rather than the farce
 on screen. The whole movie was bad to the point of hilarity, leaving all
-six of them in varying stages of laughter, from Baseball's high-pitched
+six of them in varying stages of laughter, from BASEBALL's high-pitched
 Muttley snicker, to Vandenberg's nasal explosions.
 
 Stevenson wiped away a tear. "Man, fucking…*oh my God."* his voice had
@@ -510,7 +510,7 @@ be breaking even for calories on any op we do." He nodded towards Adam.
 carry the rest of us? You're fuckin' crazy, pal."
 
 Adam gave a self-deprecating little shrug and looked around the room.
-Legsy was unpacking an old PS3, which Baseball, Firth and Akiyama were
+Legsy was unpacking an old PS3, which BASEBALL, Firth and Akiyama were
 practically salivating over. Stevenson and Price, meanwhile, were
 setting up in the kitchen ready to prepare their first barracks dinner,
 an occasion which Stevenson had marked by donning a pink gingham apron.
@@ -812,7 +812,7 @@ failing to hold his weight any longer. Powell nose-dived into the dirt
 and rolled, clutching at his calf and gritting teeth that were suddenly
 covered in the blood that was pouring from his nose.
 
-Adam took off running just ahead of Baseball, and they arrived as Powell
+Adam took off running just ahead of BASEBALL, and they arrived as Powell
 rolled over and started to lever himself upright.
 
 "Sir—"
@@ -821,9 +821,9 @@ rolled over and started to lever himself upright.
 fell over again—there was no strength left in it at all. "Ee, ya
 fookin'- Aaargh!"
 
-"As your medic—" Baseball began.
+"As your medic—" BASEBALL began.
 
-Powell grabbed the front of Baseball's shirt…"I'm finishing. This
+Powell grabbed the front of BASEBALL's shirt…"I'm finishing. This
 fookin' run." he snarled, pausing for emphasis, "If I have to fookin'
 HOP."
 
@@ -845,12 +845,12 @@ and admiration.
 
 "Arright." he declared. "*NOW* you can fookin' medic me."
 
-Baseball set to work, examining the enormous bruise that was already
+BASEBALL set to work, examining the enormous bruise that was already
 spreading across Powell's calf. "Crue." he demanded, sticking out a
 hand.
 
 Adam had already prepared an injector, which he duly handed over.
-Baseball had a soft and efficient touch with needles. He also handed
+BASEBALL had a soft and efficient touch with needles. He also handed
 Powell an anaesthetic lolly. "stick that under your tongue for thirty
 seconds, sir." he ordered.
 
@@ -869,19 +869,19 @@ The chuckles became a ripple of laughter. Adam let him reach a twenty
 count before taking the stick back.
 
 "You're gonna need an hour or two for the Crude to work, major."
-Baseball declared, using one of the many nicknames they'd adopted for
+BASEBALL declared, using one of the many nicknames they'd adopted for
 Crue-D. He stood up. "Your nose—"
 
 "Has been broken before, Burgess, thank you." Powell shrugged. "I
 already fookin' sorted it."
 
-"Yes sir. You should probably still put a slap patch on that." Baseball
+"Yes sir. You should probably still put a slap patch on that." BASEBALL
 replied, cutting little triangles out of one so that it would fit over
 the major's nose properly.
 
 "I'll save it for my fookin' beauty sleep." Powell told him.
 
-"Wear it *now*, sir." Baseball insisted.
+"Wear it *now*, sir." BASEBALL insisted.
 
 Powell tried to sigh through his nose, only for a thin trickle of blood
 to start flowing back out of his nostril. He frowned, took the slap
@@ -1644,7 +1644,7 @@ outersuit?"
 "No, the helmet and breathing mask form part of the midsuit. What you're
 seeing here is the digital camo skin of the helmet." Cavendish answered.
 
-Baseball had a question. "Sir: Gyroscopes?"
+BASEBALL had a question. "Sir: Gyroscopes?"
 
 "You remember Firth's demonstration of angular momentum yesterday? Well,
 gyroscopes exploit that same phenomenon to keep you stable in space.
