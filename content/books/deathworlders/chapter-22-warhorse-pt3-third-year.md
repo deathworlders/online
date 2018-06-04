@@ -195,7 +195,7 @@ Scoring is worth twenty points, but if you can score and then get the
 goal back to the home circle in YOUR endzone, then you get a permanent
 score multiplier."
 
-"Sir…how do we get the goal in the first place?" Baseball asked.
+"Sir…how do we get the goal in the first place?" BASEBALL asked.
 
 Cavendish grinned. "You have to climb, gentlemen. Oh, one small
 point—most of the room's in microgravity, it's just the two meters at
@@ -222,7 +222,7 @@ Line up, lads!"
 Everyone hustled to the wall.
 
 "You know we need to stick some Feet on that goal, right?" Adam muttered
-to Baseball.
+to BASEBALL.
 
 "Yup."
 
@@ -234,7 +234,7 @@ Feet had become a badge of pride among Pararescumen and the preferred
 emblem for any kind of prank, especially ones where the PJs claimed
 ownership of something.
 
-SOR or not, Adam and Baseball were still PJs, and if it fell to them to
+SOR or not, Adam and BASEBALL were still PJs, and if it fell to them to
 move that goal, then goddammit, that goal was going to have green feet
 on it. No power on Earth or any other planet could stop that.
 
@@ -271,11 +271,11 @@ together they managed to grab onto the ceiling bars and began to
 manoeuvre—slowly—across the ceiling, circling around Burgess who'd been
 sent aloft alone and clearly looked like he wanted to swear about it.
 
-"Go for the drum, I've got Baseball." Vandenberg said.
+"Go for the drum, I've got BASEBALL." Vandenberg said.
 
 Adam made a grunt that was supposed to be confirmation, and angled for
 the spot directly above the goal drum. Burgess and Vandenberg collided,
-resulting in the Delta man hanging off Baseball, gripping his legs. It
+resulting in the Delta man hanging off BASEBALL, gripping his legs. It
 didn't seem to actually make a difference.
 
 "I can take both your asses!" Burgess was calling defiantly, though the
@@ -283,7 +283,7 @@ extra weight was slowing him down. But Adam saw an opportunity.
 
 "Rebar! Go for the drum!"
 
-Vandenberg looked down, grinned, and swung off Baseball's leg. He
+Vandenberg looked down, grinned, and swung off BASEBALL's leg. He
 dropped out of the ceiling's gravity zone instantly with a cry of "heads
 up!!" for anyone below, and stopped accelerating as he entered the
 microgravity volume, drifting at a comparatively slow speed. He actually
@@ -294,10 +294,10 @@ seconds.
 
 By the time he hit the ceiling gravity field again, Adam and Burgess
 were wrestling, each holding themselves aloft by one hand. Adam had got
-his legs around Baseball's waist and was trying to pry open his friend's
-grip, an attempt hindered by Baseball's long arms.
+his legs around BASEBALL's waist and was trying to pry open his friend's
+grip, an attempt hindered by BASEBALL's long arms.
 
-In the end, Baseball's boast about being able to take them both was
+In the end, BASEBALL's boast about being able to take them both was
 proven false. Rebar had just enough speed on re-entering the gravity
 field to latch on to his ankles, and their combined weight was more than
 his grip strength could handle.
@@ -907,7 +907,7 @@ nurtures their competition and their colleagues equally…"*
 
 "Y'all good?"
 
-"Man, FUCK the plumbing in this thing." Baseball was fidgeting and
+"Man, FUCK the plumbing in this thing." BASEBALL was fidgeting and
 frowning, trying to adjust his EV-MASS undersuit for comfort, an
 exercise that Adam was beginning to suspect might be doomed, at least
 until the water was pumped in.
@@ -915,7 +915,7 @@ until the water was pumped in.
 "Hey, Sergeant Kovač went through a really stressful day getting those
 measurements." He pointed out, grinning.
 
-"Riiight, real stressful." Baseball rolled his eyes. "*And* she was dumb
+"Riiight, real stressful." BASEBALL rolled his eyes. "*And* she was dumb
 enough to hit on the only guy on the team who's got a steady girl."
 
 "I can't help it if I'm pretty." Adam grinned.
@@ -923,9 +923,9 @@ enough to hit on the only guy on the team who's got a steady girl."
 "Man, you ain't the pretty one. The *Major*'s the pretty one."
 
 Adam's eyes widened a little, his expression became serious and he
-glanced over Baseball's shoulder.
+glanced over BASEBALL's shoulder.
 
-Baseball shut his eyes. "…He's behind me, isn't he?."
+BASEBALL shut his eyes. "…He's behind me, isn't he?."
 
 There was a tense moment, then Adam cracked up laughing, and the rest of
 the crew joined in. "Gotcha!"
@@ -1019,7 +1019,7 @@ night."
 
 Adam nodded his thanks and stepped forward onto the two once-yellow feet
 on the floor in the middle of Doyle and Hargreaves' working space.
-Naturally, he and Baseball had soon corrected the colour of those feet
+Naturally, he and BASEBALL had soon corrected the colour of those feet
 during the dead of night, earning them both an immediate "motivation"
 session from Legsy (who had quite astutely pointed out that there were
 no other pararescuemen anywhere on the facility, which didn't make for a
@@ -1062,7 +1062,7 @@ structures were taking the worst off the weight.
 
 The midsuit did something similar in response to his body temperature –
 its innermost padded gel lining expanded, and that was like getting a
-full-body bearhug from Baseball. It served a purpose, though---the
+full-body bearhug from BASEBALL. It served a purpose, though---the
 suit's incredible tightness both counteracted vacuum precluding the need
 for a pressurized internal environment except around the face and mouth,
 and made it an extension of his limbs rather than just something he was
@@ -1133,7 +1133,7 @@ was suited up. "Training time."
 
 "Aye, that they are. Anything else?"
 
-"Warhorse needs more weight on him in training."
+"WARHORSE needs more weight on him in training."
 
 "Oh come on-!"
 
