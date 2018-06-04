@@ -282,7 +282,7 @@ They were aboard and belted in in less than two minutes. Powell stood
 towards the front, gripping an overhead strap to stabilise himself as
 the little craft lurched skyward.
 
-"Right, This operation is called '*Nova Hound*'." he began, raising his
+"Right, This operation is called '*NOVA HOUND*'." he began, raising his
 voice over the engines. "Lucky for us, we've got an OPLAN for this exact
 scenario. The attack began ten or fifteen minutes ago. Our estimated
 response time is forty or fifty minutes. By the time we're on scene, the
@@ -739,7 +739,7 @@ somersault to kiss against the hull, absorbing the last of his momentum
 with his knees just as they had practiced in zero-G training so many
 times before.
 
-Breaching the glass was simple. Sterling and Highland hacked a simple
+Breaching the glass was simple. STERLING and HIGHLAND hacked a simple
 square out of the glass with two simple swipes of their fusion knives.
 Air pressure did the rest, flinging the plate of glass out into space,
 along with a blizzard of small objects caught in the rush of escaping
@@ -752,12 +752,12 @@ Legsy heaved himself through. There was a moment of silence.
 Powell hit the beacon on his belt as the Combat Controllers propelled
 themselves through the breach, and an inky cuboid, nearly invisible in
 space, simply appeared without ceremony next to him. Divorced of its
-power source, the stasis field collapsed and Warhorse, Baseball, Titan,
-Thor, Rebar and Snapfire were hanging next to him.
+power source, the stasis field collapsed and WARHORSE, BASEBALL, TITAN,
+THOR, REBAR and SNAPFIRE were hanging next to him.
 
 He let them through the hole first and, once through himself, settled
 onto the deck in galactic standard gravity. The Deltas deployed a
-forcefield seal over the breach and, at their nod, Legsy and Sterling
+forcefield seal over the breach and, at their nod, Legsy and STERLING
 burst through the door into the corridor beyond, pushing past the
 hurricane rush of air that flooded into their entry room. Their SMGs
 spat out their rounds with a noise that went right through Powell's
@@ -777,7 +777,7 @@ suppressed some pride when he turned and saw that the kid had just
 bagged his first Hunter kill. He was in commander mode right now, he
 couldn't afford to be sentimental.
 
-Legsy, Highland and Sterling took point, storming down the corridor and
+Legsy, HIGHLAND and STERLING took point, storming down the corridor and
 ripping into a knot of Hunters that were tormenting a shuddering
 Guvnurag. All five of the monsters were dead before they even knew they
 were under assault.
@@ -1045,7 +1045,7 @@ plating shook.
 
 "They're coming up the left!"
 
-"They're fucking suicidal…Baseball, Rebar, get up on the right there!"
+"They're fucking suicidal…BASEBALL, REBAR, get up on the right there!"
 
 The deck plating dented under their weight as the pinned three dashed
 from where they'd been hiding and made it into cover beside him. "Good
@@ -1085,11 +1085,11 @@ There was a deadly, horrible pause. "Fookin'.…can we make the array?"
 
 "I don't think so, sir."
 
-"…Thor, demolish it. We're EA jumping."
+"…THOR, demolish it. We're EA jumping."
 
 "Major. He's dead, sir."
 
-"…Aye. Grab the ETs and fall back, that way. Legsy, Highland! Cover the
+"…Aye. Grab the ETs and fall back, that way. Legsy, HIGHLAND! Cover the
 retreat."
 
 Regaari was hoisted up with Deathworlder strength and carried. There
@@ -1104,7 +1104,7 @@ The one carrying him muttered something. His helmet decided that the
 *sotto voce* delivery was not intended for translation, but Regaari
 understood just enough English to understand him.
 
-"…Goodbye, Sterling."
+"…Goodbye, STERLING."
 
 * * *
 
@@ -1180,12 +1180,12 @@ is absolutely perfect." he commented.
 
 "Regaari. Officer Regaari, of Clan Whitecrest."
 
-"*Cool. Call me Warhorse."*
+"*Cool. Call me WARHORSE."*
 
 Regaari pushed his nose up to the window of his bag, which was now a
 taut cylinder. He could just make out the human's arms on either side of
 him and beyond that, only Capitol Station and tumbling, burning lights.
-'*Warhorse'* sounded more like a codename to him than the human's real
+'*WARHORSE'* sounded more like a codename to him than the human's real
 name, but he wasn't going to argue. Goodness knew, he'd gone by plenty
 of assumed identities in his duties.
 
@@ -1194,14 +1194,14 @@ suit of yours is equipped for it?"
 
 "*Technically, everything about this suit is so classified I can't tell
 you shit about it, man. But, y'know, you'll figure out if it is or isn't
-by the way we do or don't burn up."* Warhorse told him.
+by the way we do or don't burn up."* WARHORSE told him.
 
 "How comforting."
 
 "*Hah!"*
 
 They fell in silence for a while. There was a pale blue glow just
-building up past the limb of Warhorse's limbs when Regaari finally
+building up past the limb of WARHORSE's limbs when Regaari finally
 spoke. "I'm curious. Why?"
 
 "*Why…what, man?"*
@@ -1209,13 +1209,13 @@ spoke. "I'm curious. Why?"
 "The Dominion's treated you-" he spoke in English as best as a Gaoian
 mouth could "-*like shit*. You lost a presumably elite soldier today…"
 
-"*One of the very fuckin' best."* Warhorse agreed. There was an
+"*One of the very fuckin' best."* WARHORSE agreed. There was an
 emotional edge to his voice, but Regaari couldn't interpret what that
 edge might be. Not that it was difficult to guess.
 
 "Not to…belittle his sacrifice." he said, carefully "But why?"
 
-"*Hey, I don't know the why of it, man."* Warhorse replied. "*But my
+"*Hey, I don't know the why of it, man."* WARHORSE replied. "*But my
 whole thing is saving lives. That's, like, my job, my purpose in life.
 So, I'm just doing what I do, you know?"*
 
@@ -1232,7 +1232,7 @@ man. But we SAVED like…what, fifty? Sixty?"*
 ungrateful politicians…"
 
 "*A life is a life, man. Doesn't matter if it's human, Gaoian, Kwmbwrw,
-or that little grey fuck on Baseball's chest."*
+or that little grey fuck on BASEBALL's chest."*
 
 There was a flicker of orange light. "Re-entry plasma?"
 
@@ -1247,7 +1247,7 @@ them."
 
 "Shoo."
 
-The translator spat out Warhorse's response in the form of the Gaori
+The translator spat out WARHORSE's response in the form of the Gaori
 word for "footwear" with a questioning uptick.
 
 "Her real name has this awkward sound at the start. Like *shhh* but
@@ -1277,7 +1277,7 @@ Then the shaking started.
 
 Regaari curled up, resisted the urge to let his claws out, and shut his
 eyes, wishing against all rationality that he could be a cub again as he
-and Warhorse became a fireball together, and *fell*.
+and WARHORSE became a fireball together, and *fell*.
 
 * * *
 
@@ -1288,7 +1288,7 @@ flung them from the station.
 "What? What was that?!" he asked.
 
 He hadn't thought to press the button on the communicator, but now
-Warhorse's voice came through to him from outside the bag, slightly
+WARHORSE's voice came through to him from outside the bag, slightly
 muffled but no more than that. They had atmosphere. "Parachute. Worst
 part's over, *compadre*, we're almost down safe. You okay?"
 
@@ -1301,13 +1301,13 @@ human fell down backwards, careful to let Regaari fall on top rather
 than the other way round.
 
 There were some more metallic clinks, a rustling of fabric, and then the
-top of his bag tore off. Warhorse looked in. "You okay?" he asked.
+top of his bag tore off. WARHORSE looked in. "You okay?" he asked.
 
 Regaari climbed out of the bag as best he could with only one paw and
 collapsed on his back, gulping like a stranded fish. "I never want to do
 anything like that ever again." he stated.
 
-Warhorse just lay beside him and chuckled. The chuckle turned into a
+WARHORSE just lay beside him and chuckled. The chuckle turned into a
 laugh and he surged to his feet and ripped off the helmet and mask of
 his pressure suit, revealing a stubbly fuzz of head-hair on deep
 nut-coloured skin. Still laughing he threw the helmet high into the air,
@@ -1316,7 +1316,7 @@ arms and *howled*.
 
 The noise was agony, a primal noar of defiance aimed at the universe
 which impaled Regaari's sensitive ears and straight through into the
-pain centers of his brain. Warhorse seemed to have gone mad, jumping and
+pain centers of his brain. WARHORSE seemed to have gone mad, jumping and
 swearing and punching the air, always returning to that same "*WOOO!"*
 sound. Regaari watched in alarm as the human did a double backflip in
 what must, to him, have been extremely low gravity, then stooped, ripped
@@ -1329,20 +1329,20 @@ wood.
 A second later, creaking, crackling, hissing and groaning, the tree fell
 over.
 
-Warhorse's laughter died and he sat up. "Jeez." he said. "Did *I* do
+WARHORSE's laughter died and he sat up. "Jeez." he said. "Did *I* do
 that?"
 
 Regaari scowled at him. "This is the only known class two planet. You're
 a native of a class twelve. You could probably ruin this planet's whole
 biosphere just by *breathing* on it, if you aren't careful."
 
-Warhorse blinked at him then stood up. "Didn't catch one word of that,
+WARHORSE blinked at him then stood up. "Didn't catch one word of that,
 man." he looked around "Where the fuck is my helmet?"
 
 Regaari picked it up and offered it to him, feeling his arm wobble from
 the weight.
 
-"Thanks, man." Warhorse wriggled it back onto his head, muttering
+"Thanks, man." WARHORSE wriggled it back onto his head, muttering
 angrily to himself. "*Fucking amateur, Arés, don't be stupid…Never
 remove your helmet, dumbass."*
 
@@ -1351,12 +1351,12 @@ working again "That we're standing on the only known class two planet in
 this galaxy, and you're from a Class twelve. You could do serious harm
 if you're not careful."
 
-"Shit." Warhorse nodded agreement. "You're right. Sorry."
+"Shit." WARHORSE nodded agreement. "You're right. Sorry."
 
 "You'd better not do *that* either, or you'll definitely kill this
 world." Regaari added.
 
-"I know man, I live on Cimbrean." Warhorse told him, twisting the helmet
+"I know man, I live on Cimbrean." WARHORSE told him, twisting the helmet
 back and forth until it was firmly in place and the docking collar
 re-engaged with a solid '*snap!'*
 
@@ -1365,7 +1365,7 @@ bit and wriggling his shoulders. "Thanks for the reminder, though."
 
 "How heavy IS that helmet?" Regaari asked.
 
-"Twenty-five pounds base weight." Warhorse replied, "Which, yeah.
+"Twenty-five pounds base weight." WARHORSE replied, "Which, yeah.
 Sucks."
 
 He rearranged some of his equipment and shrugged the ruck on again as if
@@ -1373,7 +1373,7 @@ it was nothing, causing Regaari's boggling over the helmet to intensify.
 He'd experienced for himself just how strong Xiù had been, but between
 the stone, that rucksack, and the easy way he had carried Regaari
 himself and all that other gear back on the station, it was plain that
-Warhorse vastly outstripped her.
+WARHORSE vastly outstripped her.
 
 The human pressed firmly on the side of his helmet. "STAINLESS,
 WARHORSE." he announced. "Arrived DZ, one healthy ET in tow, I'm at,
@@ -1385,7 +1385,7 @@ There was silence for a few seconds and then -
 "*WARHORSE, STAINLESS. I have your DZ. Seek cover, rest up. Turn to
 tac-net three niner four Tango November Juliet and await further. Out."*
 
-Warhorse grunted and looked around, scanning the horizon with those
+WARHORSE grunted and looked around, scanning the horizon with those
 predator's eyes. "There." he pointed. Regaari squinted, and could see
 the shimmer of water cascading down a rocky outcrop, carving a little
 tree-haunted valley.
@@ -1401,29 +1401,29 @@ you down, aren't I?"
 
 Regaari flattened his ears disbelievingly. "You can't be serious."
 
-"Gravity this low, I *need* something to weigh me down" Warhorse
+"Gravity this low, I *need* something to weigh me down" WARHORSE
 replied. "Besides, what do you mass, like ninety pounds? I could lift
 you one-handed in twice this gravity, no problem."
 
 The translator fed him a Gaori measurement that sounded about right, so
-he nodded, imitating the gesture he'd often seen Xiù use. Warhorse just
+he nodded, imitating the gesture he'd often seen Xiù use. WARHORSE just
 returned the gesture and waved a hand towards the pack on his shoulders.
 
 Regaari paused, then twitched his whiskers resignedly and did as the
 human suggested, clambering up the bag to sit atop it. It wasn't
-dignified, but Warhorse didn't appear to notice the extra weight.
+dignified, but WARHORSE didn't appear to notice the extra weight.
 
 "Man, we should put a machine gun up there for you or something." he
 chuckled.
 
 "How about optics, or that map of yours?" Regaari suggested.
 
-"Good thinking. Binos are in that front pocket there." Warhorse handed
+"Good thinking. Binos are in that front pocket there." WARHORSE handed
 up the map device. It was alarmingly short on detail, and Regaari said
-so. Warhorse just nodded. "Relax, intel's got our back. We'll have a
+so. WARHORSE just nodded. "Relax, intel's got our back. We'll have a
 better map pretty soon."
 
-They headed out. Warhorse quickly settled into a steady rhythm of big,
+They headed out. WARHORSE quickly settled into a steady rhythm of big,
 long bounding strides that ate up the ground, and just *kept going*. It
 wasn't quite running, so much as a vigorous, fast march, and it was
 deceptive. Regaari wouldn't have guessed they were moving very fast, but
@@ -1440,14 +1440,14 @@ found in a Gaoian equivalent, but optically it was superb. The only real
 burr in his fur that he could find to complain about was their
 heaviness.
 
-Warhorse wasn't even breathing heavily when they stopped again.
+WARHORSE wasn't even breathing heavily when they stopped again.
 
 Regaari chittered a little on a surge of cynicism. Their resting spot
 was as stereotypical of a low-class world as could be—a gentle glade fed
 by a clean bubbling stream with a pool in which slender, silver little
 fish were undulating. Idyllic.
 
-Warhorse ignored it. Instead he let Regaari off his back and shucked off
+WARHORSE ignored it. Instead he let Regaari off his back and shucked off
 the ruck, before examining the dressing on Regaari's arm. "Any pain or
 itching?" he asked.
 
@@ -1457,7 +1457,7 @@ course nothing happened except that what was left of the muscle sheath
 in his forearm twitched pathetically as it tried to flex and twist to
 pull on the now-absent tendons of his now-absent paw.
 
-He sat down and stared at the dressing as Warhorse made a satisfied
+He sat down and stared at the dressing as WARHORSE made a satisfied
 noise and pottered about, setting up a basic camp.
 
 "You okay?" he was asked after a while. Regaari chirruped a bitter
@@ -1467,7 +1467,7 @@ little laugh.
 foremost commandos and security specialists of the whole Gaoian species,
 but next to the Hunters I may as well be a cub. Next to *you*…"
 
-Warhorse had set up next to the pool and was digging through his bag.
+WARHORSE had set up next to the pool and was digging through his bag.
 "Nah, man. You're a fucking badass." he replied.
 
 "What was that expression? *Pull the other one.* Only, please don't
@@ -1481,14 +1481,14 @@ got spirit, bro."
 Regaari snorted. "*Spirit* doesn't count. Only results matter." he
 snapped, dismissively.
 
-"You *got* the result, though." Warhorse said. When Regaari twitched a
+"You *got* the result, though." WARHORSE said. When Regaari twitched a
 disbelieving ear at him, he nodded insistently. "Seriously. You're
 *alive*. You held out long enough for the cavalry to reach you and you
 saw that son of a bitch dead. Result."
 
 "You're just trying to pep me up." Regaari told him.
 
-Warhorse nodded. "'Course I am. Best way to do that's with the truth,
+WARHORSE nodded. "'Course I am. Best way to do that's with the truth,
 though. You're still kicking, it's not, and the difference was you going
 down swinging. Spirit gets results, man."
 
@@ -1505,7 +1505,7 @@ class two planet, you don't need to."
 
 "We're not on where you're from."
 
-Warhorse paused, then shrugged. "Eh, a good habit's a good habit." He
+WARHORSE paused, then shrugged. "Eh, a good habit's a good habit." He
 held up the little brown packages from the ruck. "Hungry?"
 
 "You're eating *now*? We only just landed."
@@ -1523,14 +1523,14 @@ come looking for us."
 "Oh. Well, I do like human food…"
 
 "Eh, this is just an MRE, not fine dining. Kind of the tastier
-alternative to those ration balls." Warhorse said, opening the package
+alternative to those ration balls." WARHORSE said, opening the package
 and tipping most of the contents out onto his lap. He tipped a little
 sachet of white powder into his bottle and shook it, turning the water a
 vivid pink, then took off his breathing mask and sipped it.
 
 "What's that?" Regaari asked.
 
-"Juice. Electrolytes, sugar, hydration." Warhorse sipped again and
+"Juice. Electrolytes, sugar, hydration." WARHORSE sipped again and
 licked his lips, frowning. "Supposedly it tastes like cherry."
 
 "Supposedly?"
@@ -1545,7 +1545,7 @@ promise."
 
 "Then…yes please."
 
-Warhorse nodded and examined the available options, "…I warn you man,
+WARHORSE nodded and examined the available options, "…I warn you man,
 this shit's…this is the high-performance version, it's meant to get a
 fuckload of energy into me first and foremost. The culinary experience
 is, like, a distant second." he pointed out.
@@ -1553,7 +1553,7 @@ is, like, a distant second." he pointed out.
 "I'll try it anyway. You're right, nutrition in a situation like this is
 important."
 
-Warhorse nodded, and stuffed the rest of the MREs back into his pack.
+WARHORSE nodded, and stuffed the rest of the MREs back into his pack.
 "Damn right." He ripped the top off a couple of transparent plastic
 bags, slipped the unappetizing green pouches of food inside, and then
 added a little water before returning the bags to their cardboard box
@@ -1567,24 +1567,24 @@ the boxes.
 "Clever." Regaari commented. "No flame, no smoke, minimal heat
 signature."
 
-"That's the idea." Warhorse agreed.
+"That's the idea." WARHORSE agreed.
 
 Regaari watched him cook, silently calculating how to eat his meal
-one-pawed. His nose twitched involuntarily when Warhorse kneaded a
+one-pawed. His nose twitched involuntarily when WARHORSE kneaded a
 little sachet and then spread the off-white paste it contained onto his
 dry crackers—the scent thus unleashed was creamy and rich, hinting that
 his dismissive assessment of the meal's quality had probably been
 unfair.
 
 Sadly, when Regaari sampled the crackers while waiting for the main
-course to be ready he was sorely disappointed, and Warhorse was
+course to be ready he was sorely disappointed, and WARHORSE was
 right—while the beverage was clearly *supposed* to taste like fruit,
 what it mostly tasted of was chemistry.
 
 "What's this?" he asked, opening and sniffing it. The scent was pungent
 and sugary.
 
-"'s called a HOOAH! bar." Warhorse said. "I wouldn't, man, that thing's
+"'s called a HOOAH! bar." WARHORSE said. "I wouldn't, man, that thing's
 got, like, a thousand calories in it."
 
 The translator paused while translating that figure, and Regaari could
@@ -1592,13 +1592,13 @@ see why. It must have been doing an internal error-check to make sure
 there wasn't some mistake. That was half a week's nutritional intake for
 a Gaoian male. "That many?"
 
-"Yep." Warhorse took the bar off him and bit into it, chewing
+"Yep." WARHORSE took the bar off him and bit into it, chewing
 vigorously. "*Giveff your jaw a workout, too."* he added, around the
 mouthful.
 
 "Exactly how many calories do you *need*?" Regaari asked.
 
-"Me, on a light day? At least ten thousand or so." Warhorse replied.
+"Me, on a light day? At least ten thousand or so." WARHORSE replied.
 "But this is gonna be a really active day, so…a lot more. Anyway, main
 should be ready."
 
@@ -1609,7 +1609,7 @@ was practically being overwhelmed by the rich scent. He tried it.
 
 One mouthful was enough. "Great…Father Fyu!" he coughed.
 
-Warhorse just laughed. "You okay?"
+WARHORSE just laughed. "You okay?"
 
 "It's like eating a candle!"
 
@@ -1627,7 +1627,7 @@ Regaari licked the sauce out of his fur, regaining his composure. "ET?"
 "Sure. '*ET*' is friendly, '*non-human*' is all formal and proper, and
 '*xeno*' is an insult."
 
-Warhorse inhaled most of his meal in three efficient scoops. "*Ffo-
+WARHORSE inhaled most of his meal in three efficient scoops. "*Ffo-
 thiff human friend off yourff*." he said, around the mouthful, before
 swallowing. "Joo?"
 
@@ -1645,7 +1645,7 @@ researcher*'."
 He snorted. "So the Corti Directorate claims, anyway. They killed all
 the males and abducted the females and cubs."
 
-Warhorse's expression darkened, even as he leaned over and stole
+WARHORSE's expression darkened, even as he leaned over and stole
 Regaari's leftovers. "*Coño de madre."* he snarled. The translator didn't seem to
 have a readily available equivalent, but the intent was clear.
 
@@ -1659,7 +1659,7 @@ females—fought fang and claw to get Shoo adopted into the Clan of
 Females. Most of the other females sided with her, of course, but some
 of the male clans…"
 
-"Yeah?" Warhorse took another mouthful "*I thought you guyff mofftly
+"Yeah?" WARHORSE took another mouthful "*I thought you guyff mofftly
 went along with the Femaleff*?"
 
 Regaari chittered. "I thought '*you guys*' were dangerous disease-ridden
@@ -1668,7 +1668,7 @@ their testicles than by their brains, but the females don't hold
 *absolute* power, just a strong influence. They may hold the veto, but
 they still want to mate as much as the males do."
 
-Warhorse chuckled again. "Yeah, that sounds about right." he agreed.
+WARHORSE chuckled again. "Yeah, that sounds about right." he agreed.
 "What did you think?"
 
 "I didn't. I was too focused on the blow to my career."
@@ -1690,7 +1690,7 @@ powerful Clans—were all preparing as if our membership of the Dominion
 was a foregone conclusion. Buying shares and equipment, training and
 indoctrinating our new Brothers a certain way, that kind of thing."
 
-"You suspected corruption in your own ranks?" Warhorse guessed.
+"You suspected corruption in your own ranks?" WARHORSE guessed.
 
 "No. I wasn't so cynical back then. I was appalled, of course. As far as
 I was concerned, even circumstantial evidence that the Dominion was
@@ -1714,14 +1714,14 @@ and who stood to gain."
 
 "He promoted me."
 
-Warhorse paused in pouring the last of the gravy into his mouth. "Come
+WARHORSE paused in pouring the last of the gravy into his mouth. "Come
 again?"
 
 "To the rank of Whitecrest attaché to the Mother-Supreme, part of her
 executive staff and, if need be, her bodyguard. A prestigious career
 move, on the face of it. The reality…" he sniffed.
 
-Warhorse just sat and listened, so Regaari pressed on. "The reality was
+WARHORSE just sat and listened, so Regaari pressed on. "The reality was
 I was now not involved in the investigation, was no longer part of the
 Clan's decision-making process, was a pariah in the inner circle and,
 though I theoretically had the ear of the Mother-Supreme, actually using
@@ -1733,11 +1733,11 @@ politically and reproductively ruined me."
 Regaari winced. The turn of phrase was intimately disturbing for
 Gaoians. "That's an…accurate description." he conceded.
 
-Warhorse nodded his understanding, starting in on the second HOOAH! bar.
+WARHORSE nodded his understanding, starting in on the second HOOAH! bar.
 Regaari shook his head in disbelief. "What do you *have* in there? A
 black hole?"
 
-"So what happened?" Warhorse asked, ignoring the jab.
+"So what happened?" WARHORSE asked, ignoring the jab.
 
 Regaari grinned, emulating the human gesture. "Shoo did."
 
@@ -1841,10 +1841,10 @@ that Giymuy was being *bullied* by the Whitecrests.
 **Date Point: 10y AV**
 **Planet Garden, Capitol System, Dominion Space**
 
-"You fought back." Warhorse observed.
+"You fought back." WARHORSE observed.
 
 "You're *damn* right I did." Regaari said, spitting the English word. He
-couldn't see Warhorse's mouth any more—the human had replaced his
+couldn't see WARHORSE's mouth any more—the human had replaced his
 breathing mask and was reclining against a rock, but he saw the way the
 skin around his eyes and face stretched and wrinkled. There was a smile
 under that mask.
@@ -1860,15 +1860,15 @@ follow*." there was a pause then: "*WARHORSE, STAINLESS. Your route to
 RP Alpha takes you near THOR's projected LZ, and I can't raise him.
 Determine his statu*s."
 
-Warhorse nodded, though of course his commander couldn't see it.
+WARHORSE nodded, though of course his commander couldn't see it.
 "STAINLESS, WARHORSE." he replied. "Orders received and understood.
 Out."
 
 The second the link was cut, he swore, loudly: "*Me cago en Dios!"*
 
-Regaari scrambled to his feet as Warhorse lurched upright. "Is that…?"
+Regaari scrambled to his feet as WARHORSE lurched upright. "Is that…?"
 
-"I fucking pray his radio's just out." Warhorse replied. He scowled at
+"I fucking pray his radio's just out." WARHORSE replied. He scowled at
 the intel tablet, looked around to get his bearings, then grabbed the
 ruck. He'd diligently re-packed it after they were done eating, and
 Regaari winced at the sheer weight of it as the human shrugged it on
@@ -1876,8 +1876,8 @@ before stooping and offering him two linked hands for a step. "climb
 on."
 
 Regaari didn't argue. Wherever '*RP Alpha*' was, it was nowhere nearby
-and he would just need to rely on Warhorse's strength and endurance if
-he was ever to get out from under a thundercloud of Hunters. Warhorse
+and he would just need to rely on WARHORSE's strength and endurance if
+he was ever to get out from under a thundercloud of Hunters. WARHORSE
 handed him the binoculars and intel tablet as soon as he was settled.
 
 "Keep me on course." he said.
@@ -1934,29 +1934,29 @@ said. "Good hunting."
 one-pawed. "It's hard to tell. A dark patch that shouldn't be there,
 that way."
 
-Warhorse glanced up, and corrected his course, puffing like some ancient
+WARHORSE glanced up, and corrected his course, puffing like some ancient
 steam contraption from Gao's early industrial era.
 
 Regaari lost sight of the anomaly as the terrain dipped, and when
-Warhorse pistoned up the rise on the far side of that dip, Regaari
+WARHORSE pistoned up the rise on the far side of that dip, Regaari
 nearly fell off him because the human stopped dead.
 
 "Oh, no…"
 
 Humans were so *expressive* in their grief. He'd seen it with Shoo, and
-now Warhorse was projecting his sorrow even through a bulky suit of
+now WARHORSE was projecting his sorrow even through a bulky suit of
 fully enclosed armour. He sagged for a moment and then pushed forward,
 until they reached the edge of what was, unmistakably, a fresh crater.
 
 The suit at the bottom of it was effectively intact, though it had been
 badly ablated by re-entry: blackened, melted and burned away. From the
 contortion of the limbs and the crushed flatness of the torso, its
-operator had not survived. Warhorse sat down with a thump.
+operator had not survived. WARHORSE sat down with a thump.
 
 Regaari climbed off him, sketched a gesture of respect with his
-remaining paw, and let Warhorse grieve. The same shields that had
-allowed Warhorse and him to reach the ground safely had plainly failed
-in Thor's case, or else never deployed at all. In either scenario, the
+remaining paw, and let WARHORSE grieve. The same shields that had
+allowed WARHORSE and him to reach the ground safely had plainly failed
+in THOR's case, or else never deployed at all. In either scenario, the
 suit had demonstrated that it was a hideously tough piece of equipment,
 having reached the ground and still recognisably being the same object.
 To fall from space and leave an impact crater and STILL be identifiable?
@@ -1970,7 +1970,7 @@ intensity had frequently overwhelmed those qualities, with the result
 that Regaari had simply never turned his thoughts to humans as
 engineers, builders and inventors.
 
-He was still ruminating on the fallen suit when Warhorse moved, slowly
+He was still ruminating on the fallen suit when WARHORSE moved, slowly
 raising his hand to the communicator on his shoulder.
 
 "STAINLESS," he said, voice thick with emotion. "WARHORSE. THOR is KIA.
@@ -1984,14 +1984,14 @@ carrying survive?"*
 "*WARHORSE, STAINLESS…Grab a memento, mate. Destroy the suit and
 continue to RP Alpha. Out."*
 
-Warhorse stood up again, then stepped down into his fallen comrade's
+WARHORSE stood up again, then stepped down into his fallen comrade's
 crater and ripped something from the front of the ruined suit, a patch
 of some kind. He did something Regaari couldn't quite see and then
 stepped back as, again, the suit began to smoke and then burst into
 seething, angry flames. There wasn't much left to burn—the destruction
 was already pretty well total.
 
-Warhorse sagged, and spoke to the charred thing in the crater. "…*Vaya
+WARHORSE sagged, and spoke to the charred thing in the crater. "…*Vaya
 con Dios*, brother."
 
 He knelt and gestured Regaari up onto his back again, checked the intel
@@ -1999,7 +1999,7 @@ tablet, turned north, and marched.
 
 * * *
 
-Warhorse was clearly in no mood for talking for most of the remaining
+WARHORSE was clearly in no mood for talking for most of the remaining
 distance to RP Alpha, wherever it was, and Regaari let him work in
 silence. Instead, he pulled out his pulse pistol and, with some
 difficulty thanks to his missing paw and the human's steady gait, made a
@@ -2015,7 +2015,7 @@ effective.
 
 It was probably designed for Deathworlders, he decided. That meant he
 was trusting the human not to have badly miscalculated and given him an
-overdose, but he was beginning to seriously trust Warhorse.
+overdose, but he was beginning to seriously trust WARHORSE.
 
 His thoughts were broken by the communicator.
 
@@ -2025,36 +2025,36 @@ stalked."*
 Regaari's fur started crawling instantly and he put a hand to his
 holster. "Stalked?" he asked.
 
-"Don't look around." Warhorse told him. "*LONGLEGS, WARHORSE*. Hunter?"
+"Don't look around." WARHORSE told him. "*LONGLEGS, WARHORSE*. Hunter?"
 
 "*Reckon so. One of the big fuckers that got STERLING. See that stream
 to your left? Take a water break, lure it out in the open when it
 catches up with you."*
 
-Warhorse looked left, and Regaari did the same. The surface of the
+WARHORSE looked left, and Regaari did the same. The surface of the
 stream in question was an invitation all by itself, and he realised he
 was growing really quite thirsty.
 
 "Will do." he said. "WARHORSE out."
 
 They paused. Regaari couldn't sense anything amiss, but apparently
-Warhorse could, because he stood still, listening for a few seconds,
+WARHORSE could, because he stood still, listening for a few seconds,
 then grunted and stooped by the water unclasping his mask.
 
 Regaari watched. Where he would have had to lie on his belly to lap at
-the water—undignified and uncivilised to a modern Gaoian—Warhorse just
+the water—undignified and uncivilised to a modern Gaoian—WARHORSE just
 carefully put his gun slightly aside, ready to have it up and firing at
 an instant's notice, and dipped both hands into the stream to form a
 shallow bowl, which he raised to his mouth.
 
 "Not filtering it this time?" Regaari asked.
 
-"Appearances." Warhorse muttered, not actually drinking the water. He
+"Appearances." WARHORSE muttered, not actually drinking the water. He
 tilted his head slightly. "Hear them?"
 
 "Hear wha-?"
 
-Regaari was interrupted by a pulse round, which glanced off Warhorse's
+Regaari was interrupted by a pulse round, which glanced off WARHORSE's
 upper arm. From the size and sound of it, it had been a heavy pulse, the
 kind with enough juice to fling humans about and break limbs. Sure
 enough, even the winging blow spun the bulky Deathworlder around his
@@ -2063,26 +2063,26 @@ axis and dropped him sprawling in the local grass-equivalent.
 Regaari's dive for cover saved his life. The bolt aimed at him would
 have reduced him to a nasty pink paste.
 
-Warhorse was up, though. Aside from knocking him around a bit, the pulse
+WARHORSE was up, though. Aside from knocking him around a bit, the pulse
 weapon hadn't apparently done anything at all to him except make him
 angry. He returned fire, gun producing a heavy slamming sound that
 Regaari could feel with each shot as a hammer-blow in his chest. One of
 the Hunters was torn to bits, dismembered by the firepower that ripped
 through it.
 
-The other, as '*Longlegs*' had predicted, was one of the big, grotesque,
+The other, as '*LONGLEGS*' had predicted, was one of the big, grotesque,
 wet-red naked musculature ones, and it was layered in heavy shield
-emitters that spat and flashed as Warhorse's bullets hit home but failed
+emitters that spat and flashed as WARHORSE's bullets hit home but failed
 to penetrate.
 
-It lunged forward and Warhorse took a smart step away as deadly
+It lunged forward and WARHORSE took a smart step away as deadly
 fusion-edged talons raked out, neatly shearing off the end of the gun.
 
 The Hunter was *fast*, nearly as much so as a human. Two pairs of those
-fusion claws swiped and slashed, and Warhorse survived only by throwing
+fusion claws swiped and slashed, and WARHORSE survived only by throwing
 himself backwards and then scuttling away on all fours, staggering to
 his feet to gain distance. The Hunter followed, and that would have been
-the end of Warhorse and Regaari both, had a *lightning bolt* of berserk
+the end of WARHORSE and Regaari both, had a *lightning bolt* of berserk
 and mountainous Deathworlder not erupted from among the shrubs without
 any warning.
 
@@ -2093,11 +2093,11 @@ threat before it hit home, and after that there was no more Hunter.
 declared, once the Hunter was in several pieces. Both men extended their
 gloved hands and bashed them together.
 
-"These ones are gonna be trouble." Warhorse replied. "I- ***LOOK
+"These ones are gonna be trouble." WARHORSE replied. "I- ***LOOK
 OUT!***"
 
 The *third* Hunter—another big one—had a cloaking device and a plasma
-gun, and that would have been the end of Longlegs and Warhorse both had
+gun, and that would have been the end of LONGLEGS and WARHORSE both had
 Regaari not shot it.
 
 The humans, in fairness, took the way that the beast disintegrated in a
@@ -2107,7 +2107,7 @@ Regaari, who was licking the burn on his remaining paw and kicking out
 the grass fire that was threatening to burst up around the glowing
 puddle that had once been his pulse pistol.
 
-"Fuckin' 'ell." Longlegs declared, while Warhorse scooped up some water
+"Fuckin' 'ell." LONGLEGS declared, while WARHORSE scooped up some water
 and dumped it on the ruined gun, producing a fog bank and an angry hiss.
 "The fuck was that?"
 
@@ -2116,27 +2116,27 @@ gun the right way…" he said, then gestured to the nasty mess of former
 Hunter that was swirling away downstream. "You only get one shot, but
 better one shot that counts than a thousand that don't."
 
-The humans exchanged glances. "I *like* this one." Warhorse said.
+The humans exchanged glances. "I *like* this one." WARHORSE said.
 
-"I can see why." Longlegs agreed. "We'd better get moving. They'll know
+"I can see why." LONGLEGS agreed. "We'd better get moving. They'll know
 where their mates were. Our best bet is to get to the RP."
 
 "Right. Let me just fix his paw. He needs at least one working."
-Warhorse agreed, then turned to Regaari. He grabbed something on his
+WARHORSE agreed, then turned to Regaari. He grabbed something on his
 harness and the bag fell off, clearly designed for quick release.
 "Legsy, If you need ammo, check the pockets on the left side." he added.
 
-Warhorse's thick, armored fingers were strong enough to accidentally
+WARHORSE's thick, armored fingers were strong enough to accidentally
 crush Regaari's bones to powder, but his trust in the human medic was
-well-placed. Warhorse's grip was merely firm, and he applied the
-dressing with paradoxical precision and delicacy while Longlegs reported
-the contact to Stainless and grabbed some of the offered ammunition.
+well-placed. WARHORSE's grip was merely firm, and he applied the
+dressing with paradoxical precision and delicacy while LONGLEGS reported
+the contact to STAINLESS and grabbed some of the offered ammunition.
 
-The process took only a few seconds before Warhorse stood and hoisted
+The process took only a few seconds before WARHORSE stood and hoisted
 his bag back on. "Okay, hop up. That'll do you for now. Let's go."
 
 Regaari didn't argue. Right now, the safest possible place in the
-universe seemed to be Warhorse's shoulders.
+universe seemed to be WARHORSE's shoulders.
 
 * * *
 
@@ -2147,7 +2147,7 @@ in the first place. It had no impressive rocky up thrusts or great slabs
 of broken crust resting at angles atop the layers below, only gentle
 swells and rolls and grassy hills.
 
-"Ruins?" Warhorse asked.
+"Ruins?" WARHORSE asked.
 
 "This planet used to be the embassy world for all species." Regaari
 explained. "Then the station was built, and because it's more convenient
@@ -2162,7 +2162,7 @@ been something in it to replenish them, Regaari supposed.
 "I don't know." Regaari told him. "My people are nearly as new to the
 galactic stage as yours, after all."
 
-"Right." Warhorse repeated.
+"Right." WARHORSE repeated.
 
 "STAINLESS, LONGLEGS. I have eyes on RP Alpha, one ET and WARHORSE with
 me."
@@ -2171,9 +2171,9 @@ me."
 forces approaching from the north."*
 
 Legs raised his binoculars to the north, and nodded, before turning to
-Warhorse. "Double time."
+WARHORSE. "Double time."
 
-"Hold on, scrappy." Warhorse said, and set off at an actual run.
+"Hold on, scrappy." WARHORSE said, and set off at an actual run.
 
 Regaari turned his own borrowed binos to the north, and felt his hackles
 rise. "They've got tanks?" he asked. "I've never even *heard* of Hunter
@@ -2204,7 +2204,7 @@ a note of satisfaction in it.
 
 "Was that…?"
 
-"Tactical nuclear…fusion warhead." Warhorse spoke. He was labouring
+"Tactical nuclear…fusion warhead." WARHORSE spoke. He was labouring
 worse than Legsy, but then again he was carrying at least twice as much
 weight, and it certainly didn't seem to be slowing him down. If not for
 his heavier breathing and the sheen of moisture beading on his face,
@@ -2235,35 +2235,35 @@ at a time in the low gravity as they shuttled ammunition and equipment
 higher up into the building.
 
 "Nothing like a fuckin' Corti on your back to make you want to get where
-you're going ASAP." One of the soldiers said. He and Warhorse exchanged
+you're going ASAP." One of the soldiers said. He and WARHORSE exchanged
 one of those fist-slam greetings. "Yours seems cool."
 
-"He's cool as shit! Scrappy, this here's Baseball."
+"He's cool as shit! Scrappy, this here's BASEBALL."
 
 "Scrappy? My name's-"
 
-"Nuh-ah, man. We're on mission." Baseball interrupted. "We're using your
+"Nuh-ah, man. We're on mission." BASEBALL interrupted. "We're using your
 war name."
 
 "…*Scrappy* seems like the kind of name you'd give a pet." Regaari
 protested.
 
-"How 'bout '*Dexter*'?" Warhorse suggested. "With the arm, and he's a
+"How 'bout '*DEXTER*'?" WARHORSE suggested. "With the arm, and he's a
 killer, bro."
 
 The reference—and Regaari knew enough about humans to know that it
 almost certainly *was* a reference or in-joke of some kind—went right
-over his head, but he decided that '*Dexter*' sounded much more
+over his head, but he decided that '*DEXTER*' sounded much more
 dignified than '*Scrappy*'. "It'll do." he agreed. As he'd suspected,
 the humans all grinned behind their masks, indicated by a creasing of
 their eyes.
 
-"Dexter it fookin' is."
+"DEXTER it fookin' is."
 
-This human could only be Stainless. He gave Regaari an interested look.
-"You think he's worth summat, Warhorse?"
+This human could only be STAINLESS. He gave Regaari an interested look.
+"You think he's worth summat, WARHORSE?"
 
-"He's a soldier sir." Warhorse declared.
+"He's a soldier sir." WARHORSE declared.
 
 "Right. If you're up for it, mate, I need somebody up in a window
 keeping an eye on the Hunters. We've got a range marker a click out, a
@@ -2271,7 +2271,7 @@ little bridge. Let RIGHTEOUS know when they start crossing it, okay?"
 
 Regaari gave him a human nod. "Can do." he declared.
 
-Stainless handed him a communicator. "Press this bit to talk. It's made
+STAINLESS handed him a communicator. "Press this bit to talk. It's made
 for us so you're gonna have to push pretty hard…"
 
 Regaari squeezed it. As predicted it needed some pressure, but he could
@@ -2283,7 +2283,7 @@ it's coming, head for the roof. Got that?"
 
 "Yes, sir."
 
-"Good man. WARHORSE, Titan's rigging explosives along the north road,
+"Good man. WARHORSE, TITAN's rigging explosives along the north road,
 resupply him. Legsy, nick BASEBALL's SAW and get yourself set up in a
 ground floor window. Understood?"
 
@@ -2368,7 +2368,7 @@ It snarled, baring all of those vicious teeth. **<Anticipation>**
 
 * * *
 
-***Dexter***
+***DEXTER***
 
 Regaari set down the binos and gripped the communicator's button for all
 he was worth. "RIGHTEOUS, DEXTER. They're crossing the bridge."
@@ -2399,7 +2399,7 @@ leave them behind and streak down into the atmosphere.
 
 * * *
 
-***Dexter***
+***DEXTER***
 
 Regaari first saw it as a star in the western sky.
 
@@ -2453,7 +2453,7 @@ dismantling of the prey-station. Meat to the* *maw!*+
 
 * * *
 
-***Dexter***
+***DEXTER***
 
 Something didn't add up, by Regaari's reckoning.
 
@@ -2486,20 +2486,20 @@ Hounds look up and south, then dive for cover.
 The opening salvo of coilgun fire that marched up the street therefore
 did nothing worse than punch some craters in the road surface and knock
 loose some masonry. The humans, whether by luck or incredible reflexes,
-escaped unharmed, though Snapfire's outer fabric suit ripped down his
+escaped unharmed, though SNAPFIRE's outer fabric suit ripped down his
 arm to reveal the armor scales beneath.
 
 "STAINLESS, DEXTER, looks like…twenty Hunter dropships just decloaked
 two hundred meters to our south. They're landing to drop passengers, the
 column to the north still isn't moving." He elaborated.
 
-STAINLESS's voice was tight, focused and precise. "*Roger. Nova Hounds,
+STAINLESS's voice was tight, focused and precise. "*Roger. NOVA HOUNDs,
 reform the line, face south. WARHORSE, get the ETs upstairs. DEXTER, how
 many Hunters?"*
 
 "As many as three hundred, STAINLESS." Regaari told him. The dropships
 took off again, engines making a tooth-grinding buzz as they angled up
-and over the roof. The Nova Hounds opened up a rippling volley of
+and over the roof. The NOVA HOUNDs opened up a rippling volley of
 gunfire, which the Hunters returned with interest. The street became a
 bilateral hailstorm of withering firepower, pock-marked with craters and
 fallen concrete where the Hunter coilguns had blasted the architecture
@@ -2536,7 +2536,7 @@ a frozen lake. "No missiles, boss. We're in atmo. EWAR only from me."
 
 * * *
 
-***Warhorse***
+***WARHORSE***
 
 "REBAR, Low on ammo!"
 
@@ -2606,7 +2606,7 @@ The coilgun round that would have killed the shuttle instead took out
 
 * * *
 
-***Stainless***
+***STAINLESS***
 
 "*Fallen angel, fallen angel! FIREBIRD, going down hard!"*
 
@@ -2655,7 +2655,7 @@ Hunters wherever they tried to take cover, DEXTER, and Powell himself.
 The Gaoian sounded relieved. "*Yes, STAINLESS."*
 
 There was shouting from the door and the Protectors returned, with
-Warhorse carrying Rylee Jackson over his shoulder in a fireman's lift,
+WARHORSE carrying Rylee Jackson over his shoulder in a fireman's lift,
 trailed by her WSO. Her leg was a *mess*, flight suit stained crimson
 around where it had been cut open and field dressed.
 
@@ -2665,10 +2665,10 @@ not got herself killed.
 
 She managed a weak, bravado-fuelled grin and extended a fist though she
 was sweating, shaking and tight-faced from pain. "Good to see you again,
-Stainless. Looks like your boys turned out okay."
+STAINLESS. Looks like your boys turned out okay."
 
 "Don't fookin' thank me until we're home." he replied, though he bumped
-her fist in return, then turned to Warhorse "Get her to the roof, mate."
+her fist in return, then turned to WARHORSE "Get her to the roof, mate."
 
 "Yes sir!"
 
@@ -2719,15 +2719,15 @@ He clamped down hard on his self-hatred and gave the order.
 
 * * *
 
-***Dexter***
+***DEXTER***
 
 The human shuttle pilot had nerves of steel, Regaari had to give him
 that much. Hovering level with a building's roof while aircraft
 thundered overhead was…
 
-He didn't have time to think about it further. Warhorse emerged from the
+He didn't have time to think about it further. WARHORSE emerged from the
 roof access door carrying another human in a flight suit and yelled at
-him, gesticulating with his free arm. "*Dexter, get in the fuckin'
+him, gesticulating with his free arm. "*DEXTER, get in the fuckin'
 ride!"*
 
 Regaari scrambled in, squeezing as far in as he could while the Corti,
@@ -2737,7 +2737,7 @@ missing, even though the ramp was coming up and they were ascending.
 
 "Where's-?"
 
-Stainless shot a glare at him that could have eviscerated anybody in the
+STAINLESS shot a glare at him that could have eviscerated anybody in the
 shuttle. Then he leaned against the bulkhead, slid down it, put his head
 between his knees and his hands on the back of his head, and shook.
 
@@ -2817,7 +2817,7 @@ and declared to be as clean and well-dressed as if he'd had it off in an
 operating theatre. There was nothing to be done for it, at least not
 that was available on the ship.
 
-He barely paid attention. He was watching the Nova Hounds.
+He barely paid attention. He was watching the NOVA HOUNDs.
 
 Once out of the shuttle, they had been attended to by technicians, who
 helped them remove the outer layer of their suits, revealing a variety
@@ -2828,12 +2828,12 @@ bulk of the suit's weight, as each man sighed a profound sigh of relief
 once they were off.
 
 The suits were taken away to be dismantled, serviced and cleaned as a
-powerful musk hit Regaari's nostrils. Each one of the Nova Hounds
+powerful musk hit Regaari's nostrils. Each one of the NOVA HOUNDs
 smelled of sweat, salt and exertion, and the dark grey bottom layer was
 black with moisture in several places. It was also, clearly, better than
 skin tight, as they had to wriggle out of it.
 
-Warhorse's had worn through at the left armpit. He just *snarled* like
+WARHORSE's had worn through at the left armpit. He just *snarled* like
 an angry beast, grabbed it with his right hand, and tore the underlayer
 right off his body in a ragged strip.
 
@@ -2852,7 +2852,7 @@ viewed clothing more as being practical and useful rather than
 necessary, she had seemed to go to great lengths to avoid letting any
 more of her skin be visible than was inevitable.
 
-The Nova Hounds didn't seem to care. Though they did return from their
+The NOVA HOUNDs didn't seem to care. Though they did return from their
 ablutions wearing loose, comfortable clothing.
 
 None of them had any kind of an expression. They just found an array of
@@ -2861,7 +2861,7 @@ silent, staring at nothing.
 
 Before long, every last one of them had fallen asleep.
 
-Not long after them, Regaari found a spot near Warhorse, curled up, and
+Not long after them, Regaari found a spot near WARHORSE, curled up, and
 fell asleep himself.
 
 * * *
@@ -2881,7 +2881,7 @@ He sat up.
 
 "Hey. Wondering when you'd wake up."
 
-Regaari stretched. Warhorse was sat next to him against the wall. He was
+Regaari stretched. WARHORSE was sat next to him against the wall. He was
 putting what looked like pictures back in his pack. "How long…?"
 
 "Eight hours or so."
@@ -2896,7 +2896,7 @@ see us."
 "Okay, but *why*?" Regaari demanded.
 
 "They started dismantling the station. Guess we're staying here to watch
-them do it, figure out why. Until then, we're cargo." Warhorse shrugged.
+them do it, figure out why. Until then, we're cargo." WARHORSE shrugged.
 "Sorry man. Don't worry, I'll keep an eye on your arm and we've got a
 field hospital set up in the other bay. You're in good hands."
 
@@ -2911,7 +2911,7 @@ gather. I was only a few days old when Giymuy was appointed." Regaari
 shrugged. He'd learned early on that humans and Gaoians had that gesture
 in common.
 
-"Gonna have to be a few days, man." Warhorse told him. "They're
+"Gonna have to be a few days, man." WARHORSE told him. "They're
 stripping the whole station and…y'know, it's a big station."
 
 Regaari chittered, a touch bitterly. "It'll take them *months* to
@@ -2940,7 +2940,7 @@ In ours, it would be something of a scandal."
 "I'd like to be." Regaari confessed. "I…haven't told her as much. She
 and I went through a lot together, but I don't know how she'd take it."
 
-Warhorse made a loud, explosive sound that was probably a laugh. "Oh,
+WARHORSE made a loud, explosive sound that was probably a laugh. "Oh,
 MAN. I *definitely* know how that one feels!" he exclaimed, then calmed.
 "At least, the going through a lot together thing."
 
@@ -2948,8 +2948,8 @@ MAN. I *definitely* know how that one feels!" he exclaimed, then calmed.
 
 "Brother, I am the WRONG man for female advice."
 
-They sat in silence for a while, until Regaari noticed that Warhorse—and
-some others of the Nova Hounds—were giving him strange looks.
+They sat in silence for a while, until Regaari noticed that WARHORSE—and
+some others of the NOVA HOUNDs—were giving him strange looks.
 
 "What?"
 
@@ -2970,7 +2970,7 @@ Maybe we should fill one of these crates with water for you…"
 "Great Father Fyu, no." Regaari protested. "Wet fur smells worse than
 you do."
 
-This caused Warhorse's expression to get even stranger. It was almost
+This caused WARHORSE's expression to get even stranger. It was almost
 like a smile, but wide-eyed rather than narrow-eyed. Regaari had no idea
 what it meant.
 
@@ -2981,7 +2981,7 @@ what it meant.
 "Fine, keep your secrets."
 
 He endured the occasional smiling glance for a while longer, listening
-to the music while Warhorse sighed and retrieved a few things—hard
+to the music while WARHORSE sighed and retrieved a few things—hard
 copy prints of some kind—from his bag and began to flip through them.
 
 "What are those?"
@@ -3009,7 +3009,7 @@ legs.
 "Not that I'm an expert." he declared "but if I had the mouth for it, I
 think a wolf-whistle would be in order."
 
-Warhorse laughed at that, then sighed as he looked at the pictures
+WARHORSE laughed at that, then sighed as he looked at the pictures
 again. "I hope she gives me a second shot." he said, wistfully.
 
 "A second shot? She turned you down?"
@@ -3018,33 +3018,33 @@ again. "I hope she gives me a second shot." he said, wistfully.
 other, and I was dumb enough to think that she'd just…"
 
 Whatever word he was searching for went un-found. There was a general
-looking-up and then standing-up as Stainless stepped onto the flight
+looking-up and then standing-up as STAINLESS stepped onto the flight
 deck, rather more professionally turned-out than his men in a full body
 uniform of some kind, rather than the sleeveless, short-legged things
-the rest of the Nova Hounds were wearing. He was even managing the
+the rest of the NOVA HOUNDs were wearing. He was even managing the
 impressive feat of managing to look comfortable in the heat.
 
 "Fall in." he ordered, quietly. Everyone gathered around him in a rough
-half-circle, the Nova Hounds themselves at the front, and all of their
+half-circle, the NOVA HOUNDs themselves at the front, and all of their
 technicians, attendants and support staff forming a second row behind
 them.
 
-"First things first. Titan's going to be fine. Was a nasty injury, but
+"First things first. TITAN's going to be fine. Was a nasty injury, but
 he's had surgery and a Crue-D shot, so he should be up and about in a
 day or two. Major Jackson suffered a fractured fibula and some
 nasty lacerations, but her early prognosis suggests a full recovery and
 return to duty in due course."
 
-There was murmured relief, which fell silent again as Stainless raised a
+There was murmured relief, which fell silent again as STAINLESS raised a
 hand.
 
 "We, uh-" he began, then cleared his throat. "We've had the unhappy
 privilege of watching three legendary men burn brightly today."
 
-Heads lowered. Regaari watched Baseball put his arm around Warhorse's
+Heads lowered. Regaari watched BASEBALL put his arm around WARHORSE's
 enormous shoulders and pull him close.
 
-"All of our lights will go out in time." Stainless continued. That
+"All of our lights will go out in time." STAINLESS continued. That
 mobile, malleable, expressive human face was alive with muscles
 wrestling under the surface, fighting to maintain dignity. "All of our
 journeys reach their end. What counts at the end of it all is how that
@@ -3063,10 +3063,10 @@ back*. We all make it home, one way or another."
 As nods of agreement created a gentle susurrus around the bay, he
 produced three small, battered items from his pocket.
 
-"Staff sergeant Brady Stevenson. Thor." He laid the little patch of
-cloth that Warhorse had salvaged from the crushed armor on the table.
+"Staff sergeant Brady Stevenson. THOR." He laid the little patch of
+cloth that WARHORSE had salvaged from the crushed armor on the table.
 
-"Sergeant First Class Leo Price. Sterling." A metal tag on a chain.
+"Sergeant First Class Leo Price. STERLING." A metal tag on a chain.
 
 "Master Sergeant James Jones." Another swatch of cloth. "…Legsy."
 
@@ -3075,7 +3075,7 @@ arms interlinked across one another's shoulders or around each others'
 waists. Around the bay, deathworlders were standing at attention, some
 fighting back their emotions, others displaying them openly.
 
-Stainless took a deep breath. "It's still early days for the SOR. We've
+STAINLESS took a deep breath. "It's still early days for the SOR. We've
 been blooded today, and despite our losses, we acquitted ourselves
 superbly under the most difficult circumstances, in keeping with the
 finest traditions of our parent units." He declared. "I expect that we
@@ -3109,13 +3109,13 @@ normally before its orbit carried it back into line of sight with the
 Hunters and they were forced to endure another three hours of mounting
 heat and humidity as best they could.
 
-In hindsight, not taking Warhorse up on that bath idea had been wise. He
+In hindsight, not taking WARHORSE up on that bath idea had been wise. He
 would have been shivering and at risk of hypothermia at the cold end of
 the cycle.
 
 They spent the time watching movies, huddled around a tiny tablet
 computer in a way that must surely have made the heat worse, but at
-least it was entertainment. He wound up sitting on Warhorse's shoulders
+least it was entertainment. He wound up sitting on WARHORSE's shoulders
 again so as to have a good view.
 
 Regaari had watched a number of movies with Xiù, and had mostly enjoyed
