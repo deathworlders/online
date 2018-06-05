@@ -7,7 +7,7 @@ author: "Philip R. Johnson (Hambone)"
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
-***Warhorse***
+***WARHORSE***
 
 *Thump.*
 
@@ -68,7 +68,7 @@ ___
 **Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
-***Air Engineering Technician Jack “Two-Seventy” Tisdale***
+***Air Engineering Technician Jack “TWO-SEVENTY” Tisdale***
 
 *Thump*
 
@@ -102,7 +102,7 @@ It started in his eyes. They darted wildly around the room, took in the personne
 
 Jack had seen eyes like that before, on the day his parents had told him Sara was dead. People used words like “hollow” or “dead” but those weren’t quite right. They weren’t hollow, but so full of horrible sights that there was no room for anything else. They weren’t dead; they saw nothing *but* death.
 
-They were the eyes of a man who’d just had the only thing that kept him moving forward taken away from him. WIld, unfocused, bereft of any idea how to cope.
+They were the eyes of a man who’d just had the only thing that kept him moving forward taken away from him. Wild, unfocused, bereft of any idea how to cope.
 
 Jack had the presence of mind to let Cook collapse onto him rather than just letting him crumple into a fetal ball on the floor. The guy weighed *nothing,* he was lighter than most Gaoians, but he hugged as hard as MOHO and Jack could tell that he was finally, finally letting go after God-knew-how-many years.
 
@@ -837,9 +837,9 @@ Murray spoke in a soft, almost amiable tone that sent an intimidated shiver down
 
 The pair fled.
 
-“...One’a these days ‘yer gonna hafta teach me how you do that, bruh,” Baseball commented. Murray just shrugged.
+“...One’a these days ‘yer gonna hafta teach me how you do that, bruh,” BASEBALL commented. Murray just shrugged.
 
-Fiin snarled slightly and stalked forward to the door. He closed it, sealed it, then broke out the welding tool he carried for exactly these situations. It took only a few seconds for him to permanently close it: he doubted even Warhorse could have smashed it open from the other side without explosives.
+Fiin snarled slightly and stalked forward to the door. He closed it, sealed it, then broke out the welding tool he carried for exactly these situations. It took only a few seconds for him to permanently close it: he doubted even WARHORSE could have smashed it open from the other side without explosives.
 
 Behind him, the floor gave way and the Defenders dropped down through it, declaring seconds later that the section they’d just entered was clear. The Protectors were second through it, followed by the Whitecrests, First Fang, and finally the Aggressors.
 
@@ -1097,7 +1097,7 @@ ___
 **Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
-***Air Engineering Technician Jack “Two-Seventy” Tisdale***
+***Air Engineering Technician Jack “TWO-SEVENTY” Tisdale***
 
 “Y’know, I’m actually kinda impressed. You took that hit like a *champ.”*
 
@@ -1355,7 +1355,7 @@ ___
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell system, Hunter space**
 
-***Warhorse***
+***WARHORSE***
 
 Big bastard. Not slow, fast. Dangerous.
 
@@ -1671,7 +1671,7 @@ Regaari made an intrigued noise. [“Apt. One of Great Father Fyu’s sayings, y
 
 “Express elevator to Hell’s waitin’ and ready sir,” Firth told him. They’d cleared out the debris near the atmosphere retention field to make for a smooth exit, and the team was running over pre-jump checks for an EA-HELLNO.
 
-It was a solemn ritual. The founders had lost a Brother this way, before Costello’s time. They weren’t interested in losing another to the same mistake. Even Warhorse seemed to have come back from that intense place he went to during a mission, just a little. He checked Costello’s suit from the ankles up with a few short words, gave him the traditional stunning slap to the helmet to let him know he was good to go, and turned to check Murray.
+It was a solemn ritual. The founders had lost a Brother this way, before Costello’s time. They weren’t interested in losing another to the same mistake. Even WARHORSE seemed to have come back from that intense place he went to during a mission, just a little. He checked Costello’s suit from the ankles up with a few short words, gave him the traditional stunning slap to the helmet to let him know he was good to go, and turned to check Murray.
 
 Funny how ‘Horse always looked after the smallest guys first.
 
