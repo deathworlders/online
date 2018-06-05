@@ -4,7 +4,7 @@ date: 2018-05-31T13:07:00+01:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
 ***WARHORSE***
@@ -41,7 +41,7 @@ Helmet-mounted medical scanner, full-body sweep. *Damn:* her heart is *destroyed
 
 Tissue sample. No time for subtlety or swabs, gotta get her in the bag *fast.* Sampler leaves a little bleeding wound on her arm.
 
-Intubate while Base shoves her into the bag. Last steps: Hands clear, bag closed, field on. Attach tissue sample and upload scan.
+Intubate while Base shoves her into the bag. Last steps: hands clear, bag closed, field on. Attach tissue sample and upload scan.
 
 Smacks on the arm from ‘Base. “I got her!”
 
@@ -65,7 +65,7 @@ Aggressors making headway: pitched battle. Join the formation...
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Air Engineering Technician Jack “TWO-SEVENTY” Tisdale***
@@ -204,11 +204,11 @@ Jack, Deacon and Hargreaves looked at each other, then reached an unspoken concl
 
 They told them everything. The Hierarchy, the war on Gao... everything.
 
-They didn’t take it well.  
+They didn’t take it well.
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **Folctha, Cimbrean, The Far Reaches**
 
 ***Xiù Chang***
@@ -288,7 +288,7 @@ She sent it just as the car arrived. She locked the door behind her, took a deep
 ___
 
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
 ***Brother Daar (“Tigger”) of Stoneback, Great Father of the Gao***
@@ -372,7 +372,7 @@ When the road was no good, they’d just make their own... and stop the enemy fr
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **Builder Hive, Hunter Space**
 
 ***The Alpha-of-Alphas***
@@ -404,7 +404,7 @@ Without an obvious solution available, it turned its attention to alternative. I
 It didn’t need long before it found one.
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
 ***Captain Anthony “Abbott”” Costello***
@@ -421,7 +421,7 @@ Costello was already thinking through the consequences. “...If they’ve got a
 
 He looked back at IRISH, who’d drawn the unlucky task of hauling it around when Daar had plodded over with a sinister grin and literally dropped the damn thing in his lap. The weapon itself was contained within a stasis field so as not to give away the game to any nosy radiation sensors, but that did nothing to reduce its bulk or its frankly absurd mass; Costello could hardly *budge* it. Apparently, eighteen-point-seven gigatons of boom didn’t come in a small package.
 
-Their third Protector noticed the attention and gave Costello a cheery kind of upward nod. IRISH may have been the newest and “smallest” member of the Beef Bros but that didn’t slow him down one bit. He and Titan---almost a Beef himself---had to work together to maneuver the massive charge through low-gravity, but IRISH bore it under gravity like a turtle bore its shell.
+Their third Protector noticed the attention and gave Costello a cheery kind of upward nod. IRISH may have been the newest and “smallest” member of the Beef Bros but that didn’t slow him down one bit. He and TITAN---almost a Beef himself---had to work together to maneuver the massive charge through low-gravity, but IRISH bore it under gravity like a turtle bore its shell.
 
 On the plus side, if that thing went off while they were anywhere within a few hundred miles of it, they’d never feel it.
 
@@ -475,7 +475,7 @@ They all were.
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lt.Col Owen “Stainless” Powell***
@@ -660,7 +660,7 @@ Powell let himself out and shook himself off. The mental image of that hologram 
 He shook the thought from his mind, and went to find something else to do.
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **Monument Valley, Navajo Nation Reservation, Utah/Arizona border, USA, Earth**
 
 ***Vemik Sky-Thinker***
@@ -725,7 +725,7 @@ There were two guides, in fact. A Human man and woman, both of whom bounced out 
 
 “Never in person. We’ve sent messages.” Jooyun explained. “But it turns out Raven’s like... what are you, my third cousin?”
 
-“Third or fourth, with maybe a removed or two thrown in there somewhere, yeah,” Raven nodded. She had a wide, happy smile that started in her eyes and made them sparkle: Vemik decided he liked her.  
+“Third or fourth, with maybe a removed or two thrown in there somewhere, yeah,” Raven nodded. She had a wide, happy smile that started in her eyes and made them sparkle: Vemik decided he liked her.
 
 “Means what?” Vemik asked.
 
@@ -774,7 +774,7 @@ The guides led, Vemik followed, and the day unfolded.
 The heat only got worse.
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
 ***Fiin, Champion of Clan Stoneback***
@@ -865,7 +865,7 @@ TITAN sprang over to it and pressed a sensor against its surface. “...Water,�
 
 “You can work with that, right?” Daar asked.
 
-“Hell yes, sir,” Titan had a grin in his voice as he gestured to SNAPFIRE. Fiin made room as the rest of the force came down to join them.
+“Hell yes, sir,” TITAN had a grin in his voice as he gestured to SNAPFIRE. Fiin made room as the rest of the force came down to join them.
 
 SNAPFIRE was already prepping a charge. “Water hammer?” he asked.
 
@@ -895,7 +895,7 @@ Whatever came, would come. There was no sense worrying about it.
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Jamie Choi***
@@ -988,7 +988,7 @@ Chang didn’t speak. She just listened politely, until the right word dragged i
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
 ***Brother Daar (“Tigger”) of Stoneback, Great Father of the Gao***
@@ -1094,7 +1094,7 @@ Daar turned in that direction and shouldered his gun. “Push!”
 There was still a lot of work to do.
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Air Engineering Technician Jack “TWO-SEVENTY” Tisdale***
@@ -1220,7 +1220,7 @@ Well... Jack watched it. Miller on the other hand fell asleep on his shoulder wi
 He didn’t try to wake her a second time. After a while, he fell asleep too.
 ___
 
-**Date Point 15y6m1d AV**    
+**Date Point 15y6m1d AV**  
 **Whitecrest Clan enclave, Alien Quarter, Folctha, Cimbrean, The Far Reaches**
 
 ***Champion Genshi of Whitecrest***
@@ -1261,7 +1261,7 @@ Genshi personally would have preferred an implant in his younger days to take ad
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lt. Col. Owen “Stainless” Powell***
@@ -1352,7 +1352,7 @@ It didn’t help.
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **The Ring, Hell system, Hunter space**
 
 ***WARHORSE***
@@ -1539,7 +1539,7 @@ Regaari ran a scanner over the twisted metal. “...There’s a void here. Looks
 
 “Right. Next compartment should be that ship-wreckin’ yard,” Daar said. “That’s our bomb site and egress. Check your suit seals, I don’t wanna find out somebody’s got a breach halfway through the HELLNO.”
 
-“That means you, MOHO,” Titan said. He checked the spot on the big Defender’s arm where the shrapnel had burned through the outersuit, and dug a pair of needle-nose pliers in, emerging after a few seconds and a tearing noise with a chunk of jagged metal as big as one of Daar’s ears.
+“That means you, MOHO,” TITAN said. He checked the spot on the big Defender’s arm where the shrapnel had burned through the outersuit, and dug a pair of needle-nose pliers in, emerging after a few seconds and a tearing noise with a chunk of jagged metal as big as one of Daar’s ears.
 
 “...Superficial damage. Suit integrity’s fine.”
 
@@ -1558,7 +1558,7 @@ Whatever. They weren’t dead, and the end was close now. It wasn’t the victor
 He’d take it.
 ___
 
-**Date Point: 15y6m1d AV**     
+**Date Point: 15y6m1d AV**  
 **The Alpha-of-Alphas’ sanctum, Hunter Space**
 
 ***The Alpha-of-Alphas***
@@ -1614,7 +1614,7 @@ It would have sagged, if it could. Instead, it listened until it heard the metal
 Reverently, perhaps even tenderly, the Builder began to feed.
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
 ***Captain Anthony “Abbott” Costello***
@@ -1713,7 +1713,7 @@ At least there was a nice view.
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **MBG private jet, over Iowa, USA, Earth**
 
 ***Kevin Jenkins***
@@ -1808,7 +1808,7 @@ He sighed and sat down on the couch again. “There’s a lotta blood on my hand
 
 ___
 
-**Date Point: 15y6m1d AV**    
+**Date Point: 15y6m1d AV**  
 **Freefall above planet Hell, Hunter Space**
 
 ***Captain Anthony “Abbott” Costello***
