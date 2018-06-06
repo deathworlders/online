@@ -19,7 +19,7 @@ The lads shook their heads. Planning sessions were a moment for Powell to pick h
 
 "A who what now?" Akiyama asked.
 
-Powell clicked the control for the slideshow he'd prepared. "This evil fooker. Cameron White, serial killer, sadist and generally charming bloke. Corti abducted him right out of the prison yard during an exercise break. Sparked quite the fookin' manhunt and an inquiry…nothing came of 'em of course because at the time nobody knew we needed to be thinking about alien abductions."
+Powell clicked the control for the slideshow he'd prepared. "This evil fooker. Cameron White, serial killer, sadist and generally charming bloke. Corti abducted him right out of the prison yard during an exercise break. Sparked quite the fookin' manhunt and an inquiry...nothing came of 'em of course because at the time nobody knew we needed to be thinking about alien abductions."
 
 A list of White's crimes filled the whole slide, and the two after it. "Dead, nowadays, but not before he terrorized the orbital shipyards at Irbzrk and killed dozens of ETs. Obviously, we can't allow scenarios like this in the future, if for no other reason than it makes the rest of us look bad."
 
@@ -47,7 +47,7 @@ The four Brits—even Powell—gave him an amused look. "We don't wish to know a
 
 Blaczynski just rolled his eyes at the chuckle that shimmered round the table, though he joined in. "Understood, sir. Point is, I used to do something like that all the time, so it should be do-able. Might be something we should factor into training."
 
-"Aye, good shout." Powell made a note. "So the spearhead is an Aggressor who's trained on agility in motion…Burgess, figure out how we can fit that training into the routine."
+"Aye, good shout." Powell made a note. "So the spearhead is an Aggressor who's trained on agility in motion...Burgess, figure out how we can fit that training into the routine."
 
 "Yes sir."
 
@@ -91,7 +91,7 @@ He paid oblique attention though, as Legsy tapped Arés on the shoulder on their
 
 "*Looked like your attention was flagging there, mate."* he heard.
 
-"…*Yeah, sorry. Just…*"
+"...*Yeah, sorry. Just...*"
 
 "*Just nothing, mate*." Legsy replied. "*We need to stay on top of it when we're off our game, and that means you stay on top of it too. Understand? I know you just saw Ava again, you miss her, but you gotta deal with it at the proper time, aye? Not on the old man's."*
 
@@ -105,7 +105,7 @@ It was mildly worrying that Arés had showed any kind of distraction like that. 
 
 Legsy had handled him well, though, and would doubtless continue to do so. There was no real cause for concern from a professional point of view.
 
-From a personal one…
+From a personal one...
 
 * * *
 
@@ -117,21 +117,21 @@ From a personal one…
 
 It was Ava's turn.
 
-"Okay, so the black card is…" she drew one and read it. "'*My hobby: Introducing unsuspecting aliens to the joys of'* blank.''
+"Okay, so the black card is..." she drew one and read it. "'*My hobby: Introducing unsuspecting aliens to the joys of'* blank.''
 
 The table rattled as three white cards were slammed down on it, and Ben cursed. According to one of Sean's house rules, whoever got their card down last had to take a drink.
 
 Given that they'd now been playing for more than an hour, all four of them were pretty well drunk by now. Ben sipped his beer while Ava shuffled the white cards they'd played.
 
-"Okay, so, my hobby is…Introducing unsuspecting aliens to the joys of…a big black dick!"
+"Okay, so, my hobby is...Introducing unsuspecting aliens to the joys of...a big black dick!"
 
 Charlotte giggled. She was probably the drunkest, and her poker face wasn't exactly impenetrable at the best of times.
 
-"Introducing aliens to the joys of…Fatal sex adventures!"
+"Introducing aliens to the joys of...Fatal sex adventures!"
 
 Everyone cringed aloud, giving little outraged laughs.
 
-"And introducing aliens to the joys of…The clitoris!" She put the last card down. "What is WITH you guys and sex cards?"
+"And introducing aliens to the joys of...The clitoris!" She put the last card down. "What is WITH you guys and sex cards?"
 
 "Oh come on, you're the one who played '*fucking in zero gravity*' last round!" Ben told her."
 
@@ -143,9 +143,9 @@ Ben cheered and raised his hand, but Charlotte giggled again as the black card w
 
 "Darling, I never knew you went that way!" she exclaimed, pantomiming shock.
 
-"Oh, the truth is out…" Ava turned in her seat and looked Charlotte in the eyes with a barely-restrained laugh threatening to burst out of her. "It's true, I'm a raging dyke for you my love."
+"Oh, the truth is out..." Ava turned in her seat and looked Charlotte in the eyes with a barely-restrained laugh threatening to burst out of her. "It's true, I'm a raging dyke for you my love."
 
-Shaking with mirth, Charlotte reached over and put a delicate hand on her cheek. "All this time, we've been denying the obvious…"
+Shaking with mirth, Charlotte reached over and put a delicate hand on her cheek. "All this time, we've been denying the obvious..."
 
 Ava reached up and took Charlotte's hand in her own, affecting a mournful of expression. "We can't, darling. What if your boyfriend finds out? He'd never approve."
 
@@ -171,7 +171,7 @@ Charlotte just waggled her eyebrows across the table. "Ava?"
 
 Ava hesitated, and Sean was just about to turn the idea down when she surprised all of them by nodding.
 
-"Uh…o-okay. Sure!"
+"Uh...o-okay. Sure!"
 
 To Sean, that sounded like alcohol-fuelled bravado rather than actual enthusiasm. "You sure?" he asked.
 
@@ -181,11 +181,11 @@ He should have known better. Ava gave him her best glare, and he could *see* her
 
 Ben laughed rigidly, then steeled himself, downed the last of his beer, and shuffled round the table. There was an awkward moment of hesitation, and then they just went for it.
 
-Sean had never kissed a dude before but had been idly curious about it for a while. Actually doing it turned out to be…just a kiss. There was a little bit of scratchy stubble involved, but lips were lips. No tongue involved, no big deal in the end. One to scratch off his list of life experiences.
+Sean had never kissed a dude before but had been idly curious about it for a while. Actually doing it turned out to be...just a kiss. There was a little bit of scratchy stubble involved, but lips were lips. No tongue involved, no big deal in the end. One to scratch off his list of life experiences.
 
 Charlotte had clearly enjoyed it, and fanned herself with her hand. "Whew!"
 
-Ava nodded, having gone decidedly red around the nose and cheeks herself, then shot a nervous glance at Charlotte. "So, uh…"
+Ava nodded, having gone decidedly red around the nose and cheeks herself, then shot a nervous glance at Charlotte. "So, uh..."
 
 "Our turn!" Charlotte seemed happy about it at least.
 
@@ -197,7 +197,7 @@ A few aesthetically pleasing seconds later, Ava just made a stunned little "huh"
 
 Sean chuckled. "Not as big a deal as you thought it would be?"
 
-"I…guess not." Ava agreed, then cleared her throat. "Can we, uh…whose go is it?"
+"I...guess not." Ava agreed, then cleared her throat. "Can we, uh...whose go is it?"
 
 "Ben."
 
@@ -205,7 +205,7 @@ Ben seemed to come to his senses a little. "Huh?"
 
 "Your black card, mate."
 
-"Oh, uh…'*In space, only two things are constant: Corti abductions and'* blank."
+"Oh, uh...'*In space, only two things are constant: Corti abductions and'* blank."
 
 Three white cards slapped the table, and this time Ava had to take a drink, which seemed to help her a bit.
 
@@ -225,13 +225,13 @@ She laughed, and stretched. "Am I okay to stay here tonight too?"
 
 "Sure, if you don't mind the couch."
 
-"Thanks…" She stood up, leaned back with her hands on her hips and sighed at the ripple of little pops that shot up her spine, before sitting down on the couch with the rest of her drink in hand. She brushed some hair out of her face and stared at the wall opposite, thoughtfully.
+"Thanks..." She stood up, leaned back with her hands on her hips and sighed at the ripple of little pops that shot up her spine, before sitting down on the couch with the rest of her drink in hand. She brushed some hair out of her face and stared at the wall opposite, thoughtfully.
 
 Sean sat beside her and studied her expression for a second. She didn't seem to notice.
 
 "You okay?"
 
-"Yeah, I just…" her frown didn't vanish, but she made eye contact. "Was that weird?"
+"Yeah, I just..." her frown didn't vanish, but she made eye contact. "Was that weird?"
 
 "Just a bit of harmless fun." Sean reassured her. "I dunno, a kiss is just a kiss. I didn't think it was that big a deal."
 
@@ -247,11 +247,11 @@ Ava scoffed. "No more than I am right now!"
 
 "Yeah, but you couldn't see anything. Hell, you could see less than you can see right now." she gestured to her chest, and the little bit of décolletage that she had on show.
 
-"I guess, but…" Sean thought about how to phrase his thoughts.
+"I guess, but..." Sean thought about how to phrase his thoughts.
 
 "But what?"
 
-"I could have…you were only behind the curtain."
+"I could have...you were only behind the curtain."
 
 "So?"
 
@@ -259,43 +259,43 @@ Ava scoffed. "No more than I am right now!"
 
 Ava adjusted her posture a bit, turning to face him even more. "You wouldn't, though."
 
-"Well…no. You're right, I wouldn't." Sean agreed.
+"Well...no. You're right, I wouldn't." Sean agreed.
 
 "Why not?"
 
-"Wh- well, I…" he thought about it some more, sipping his beer to cover the delay. "I guess…well, it'd be…Well, for the same reason I'm not going to just try and rip your clothes off you right now."
+"Wh- well, I..." he thought about it some more, sipping his beer to cover the delay. "I guess...well, it'd be...Well, for the same reason I'm not going to just try and rip your clothes off you right now."
 
 "*Exactly!"* Ava said. "If you'd done something like that I'd have punched you in the face, left the house, and you'd have lost me as a friend, and probably Charlotte and Ben, too."
 
 Sean finished his beer and resolved that it was his last—the whole world was more than a little fuzzy and swirly, and even in his drink-addled condition he knew that if he had one more it'd be too many and result in vomit. Besides he felt certain there was some kind of a valid counterargument to what Ava was saying, but it was impossible to think what that might be, past the drunk. "But the shower curtain thing would have been easier." he ventured.
 
-"Yeah, but it's not about what's easy, is it?" Ava swigged the last of her own drink. "It's about that that'd be wrong. And…I like you Sean, and I trust you. I'm trusting you right now, just by being here with you."
+"Yeah, but it's not about what's easy, is it?" Ava swigged the last of her own drink. "It's about that that'd be wrong. And...I like you Sean, and I trust you. I'm trusting you right now, just by being here with you."
 
 "I guess I never thought of it that way." Sean admitted.
 
-"Girls *have* to think of it that way." Ava shrugged. "I mean, I'm lucky, I'm fitter than you are, and maybe a bit stronger even, so I've got that to back me up. But everything's, like…you have to try and judge how safe you are."
+"Girls *have* to think of it that way." Ava shrugged. "I mean, I'm lucky, I'm fitter than you are, and maybe a bit stronger even, so I've got that to back me up. But everything's, like...you have to try and judge how safe you are."
 
 "So you trust me enough to take a shower while I'm in the room."
 
 "Yeah! You're a good guy, and like I said: I like you. I hadn't seen you for a couple of weeks, I wanted to catch up."
 
-"Well…fair enough." Sean gave up on his search for a counter-argument, and instead raised his empty bottle. "To being comfortable."
+"Well...fair enough." Sean gave up on his search for a counter-argument, and instead raised his empty bottle. "To being comfortable."
 
 "Damn right!" She tapped her own bottle to his, then leaned shakily forward to set it down on his coffee table with the exaggerated care of the thoroughly intoxicated.
 
-As she did so, the thought crept into Sean's inebriated brain that maybe he'd said the wrong thing there. "I've not…hurt that trust, have I?"
+As she did so, the thought crept into Sean's inebriated brain that maybe he'd said the wrong thing there. "I've not...hurt that trust, have I?"
 
 "Hurt how?"
 
 "By thinking of the curtain thing."
 
-She shook her head. "No, you're…asking what the rules are, right?" When he nodded, she nodded too. "Well that's fine. It shows you, like, respect boundaries and stuff. That you respect ***me***. *¿Tú entiendes?"*
+She shook her head. "No, you're...asking what the rules are, right?" When he nodded, she nodded too. "Well that's fine. It shows you, like, respect boundaries and stuff. That you respect ***me***. *¿Tú entiendes?"*
 
 Sean nodded, and they sat in silence for a bit.
 
 Maybe it was the booze doing the thinking, but he had a few questions he'd been itching to answer for a while, and now seemed like as good an opportunity as any to ask them.
 
-"So…Let's say we went swimming…" he said.
+"So...Let's say we went swimming..." he said.
 
 "Yeah?"
 
@@ -305,11 +305,11 @@ Maybe it was the booze doing the thinking, but he had a few questions he'd been 
 
 "You're telling me that'd be less of a problem for you than, say, kissing Charlotte?"
 
-"Well…" Ava fidgeted. "I shouldn't have done that. I mean, I know it wasn't…*anything…*but I…I don't know." She rubbed her face and got some hair out of the way. "It's like…if you're swimming then really a swimsuit is just, like, this nasty lump of wet cloth you have to take home with you when you're done. And it turns out they're pretty nasty bacteria traps, too. And, you know, people take their clothes off for showers and baths all the time, or, or the doctor or something, so…You know?"
+"Well..." Ava fidgeted. "I shouldn't have done that. I mean, I know it wasn't...*anything...*but I...I don't know." She rubbed her face and got some hair out of the way. "It's like...if you're swimming then really a swimsuit is just, like, this nasty lump of wet cloth you have to take home with you when you're done. And it turns out they're pretty nasty bacteria traps, too. And, you know, people take their clothes off for showers and baths all the time, or, or the doctor or something, so...You know?"
 
 "Know what?"
 
-"Like, that's what a kiss is *for* is…it's for love, or sex. Nudity doesn't have to be."
+"Like, that's what a kiss is *for* is...it's for love, or sex. Nudity doesn't have to be."
 
 "Erotic."
 
@@ -317,19 +317,19 @@ Maybe it was the booze doing the thinking, but he had a few questions he'd been 
 
 "You feeling guilty about that, then?"
 
-"I'm feeling like I *should* feel guilty." Ava sighed. "I don't know. I had fun tonight! Going outside my comfort zone a bit, it's…thrilling, you know? And it really was just fun and nothing else, so, maybe I'm over-thinking it."
+"I'm feeling like I *should* feel guilty." Ava sighed. "I don't know. I had fun tonight! Going outside my comfort zone a bit, it's...thrilling, you know? And it really was just fun and nothing else, so, maybe I'm over-thinking it."
 
 "Maybe." Sean agreed.
 
-"Yeah, I think I am." Ava said. "I mean…it's not like I kissed *you*."
+"Yeah, I think I am." Ava said. "I mean...it's not like I kissed *you*."
 
 Sean paused, his mind suddenly splitting into three parts. One was imagining exactly that scenario and desperately trying to figure out how to make it happen. Another was wondering exactly what she'd meant by that, and the third was detachedly watching the panic in the other two and the way his pulse had kicked up a notch.
 
-"True…" he agreed, cautiously.
+"True..." he agreed, cautiously.
 
-Ava was blushing. "I didn't mean it like-" she began. "I mean…I just know how you feel about me."
+Ava was blushing. "I didn't mean it like-" she began. "I mean...I just know how you feel about me."
 
-"Yeah but that's…that's out there. We've established those boundaries…haven't we?"
+"Yeah but that's...that's out there. We've established those boundaries...haven't we?"
 
 "Right. We're good." Ava nodded. "I'm comfortable with that."
 
@@ -339,9 +339,9 @@ She interrupted him. "Yeah."
 
 "You're sure?"
 
-She laughed a little nervously, then cleared her throat and unnecessarily tidied some hair away again. "…I do too."
+She laughed a little nervously, then cleared her throat and unnecessarily tidied some hair away again. "...I do too."
 
-"…Av-."
+"...Av-."
 
 "We'd, we'd, uh. We'd better go to sleep."
 
@@ -351,17 +351,17 @@ She laughed a little nervously, then cleared her throat and unnecessarily tidied
 
 "So why even tell me?"
 
-"Because I'm drunk and that was probably a bad idea." She unfolded her legs and stood up. "Just…forget I said it."
+"Because I'm drunk and that was probably a bad idea." She unfolded her legs and stood up. "Just...forget I said it."
 
 "Right." Sean drew the word out. "Got to save the world by making yourself miserable."
 
-"…Did you *mean* to sound so bitter just then?"
+"...Did you *mean* to sound so bitter just then?"
 
 "Well how am I supposed to sound?!" He demanded. "The girl I'm crazy about just told me she's into me too, but she's still loyal to the guy she never sees? How am I supposed to *not* be bitter about that?"
 
-"Because it's not so simple as '*I never see him*'!" Ava retorted. "Even if I DIDN'T have all those letters telling me how much the thought of me keeps him going, we went through…*everything* together! I'm not just going to throw that away!"
+"Because it's not so simple as '*I never see him*'!" Ava retorted. "Even if I DIDN'T have all those letters telling me how much the thought of me keeps him going, we went through...*everything* together! I'm not just going to throw that away!"
 
-"I know, I know…" Sean sighed. "You're not a quitter. That's one of the things I like about you."
+"I know, I know..." Sean sighed. "You're not a quitter. That's one of the things I like about you."
 
 "But you're still asking me to-"
 
@@ -369,13 +369,13 @@ She laughed a little nervously, then cleared her throat and unnecessarily tidied
 
 "So you're saying I should choose?"
 
-"I…" Sean sagged, and sat down again. "I don't know what I'm saying. I just want you to be happy, that's all."
+"I..." Sean sagged, and sat down again. "I don't know what I'm saying. I just want you to be happy, that's all."
 
 Ava blinked at him, then leaned over and gave him a hug. "I'm sorry."
 
-"I'm sorry too. I don't want things to be complicated here." he said. "It just…I care about you."
+"I'm sorry too. I don't want things to be complicated here." he said. "It just...I care about you."
 
-"I know. And…You know."
+"I know. And...You know."
 
 "Yeah."
 
@@ -387,9 +387,9 @@ Sean nodded, stood and opened the big sea chest that had once been his great-gra
 
 "If I'm lucky, I won't remember making a fool of myself in the morning." she said, laughing a little desperately.
 
-"You didn't." He promised her. "Who knows, maybe clearing the air like that'll help us…figure things out. You know?"
+"You didn't." He promised her. "Who knows, maybe clearing the air like that'll help us...figure things out. You know?"
 
-"…Maybe."
+"...Maybe."
 
 He handed her the blankets. "G'night, Ava."
 
@@ -407,13 +407,13 @@ When he woke in the morning, it came as a surprise to him that he'd managed to f
 
 **Adam Arés**
 
-Tuesdays were acclimation days. On paper, they looked like the easiest day on the schedule—the SOR had a little light PT first thing in the morning to limber them up and wake them, then breakfast, and then…nothing. A day full of "free self-improvement" time, where they were encouraged to pursue whatever creative or educational pursuits they liked.
+Tuesdays were acclimation days. On paper, they looked like the easiest day on the schedule—the SOR had a little light PT first thing in the morning to limber them up and wake them, then breakfast, and then...nothing. A day full of "free self-improvement" time, where they were encouraged to pursue whatever creative or educational pursuits they liked.
 
 Rebar spent it playing around in the workshop, making little metal sculptures or structures. Sikes was always nearby, working on his "pets", a small flotilla of drones of various sizes, from the little buzzy one the size of a quarter right up to "Dronezilla" which he'd originally assembled from scratch using four electric chainsaw motors but which nowadays flew under the unreliable power of four temperamental home-made kinetic thrusters, the tuning and troubleshooting of which seemed to give him no end of fun.
 
 BASEBALL read trauma journals and medical textbooks, working towards a full nursing qualification. Legsy, Murray and Price had all taken to collecting little miniature fantasy armies and painting them, practising their fine dexterity by competing to see who could paint theirs most realistically.
 
-Adam…sewed.
+Adam...sewed.
 
 He had figured out early on that the Odyssean gains he was going to make in terms of muscle during his training would, sooner or later, make it hard to find clothing that would fit. And, seeing as he'd learnt to sew in his medic training, it had only made sense to him to translate those skills into modifying his clothes so that he wouldn't have to wear huge douchebaggy wifebeaters and shorts day in day out.
 
@@ -455,13 +455,13 @@ The team hustled out, Adam among them.
 
 "We do?"
 
-"Aye. '*We*' meaning the Treaty nations, for a start. Cimbrean's…legally it's still a bit dodgy where the colony sits, if it's its own nation or a British colony, or an Overseas Territory or whatever…but it's definitely allied. No Russians, no Chinese or what-have-you, no other humans trying to fly in our sky. It's either ours, or it's alien."
+"Aye. '*We*' meaning the Treaty nations, for a start. Cimbrean's...legally it's still a bit dodgy where the colony sits, if it's its own nation or a British colony, or an Overseas Territory or whatever...but it's definitely allied. No Russians, no Chinese or what-have-you, no other humans trying to fly in our sky. It's either ours, or it's alien."
 
 "Second," he added. "Less hidin' places. Sol's packed full of fookin' nooks and crannies. Asteroids, Saturn's rings, more fookin' moons than we could count if I ordered every man here to go barefoot. We don't know what's lurkin' around our own home system. Hell, you know the Dominion had a research station around Saturn for *years* wi'out us noticing?"
 
 "Cimbrean's more open?"
 
-"Aye. No asteroid belt. One gas giant, and a bloody gigantic one at that, but it's only got the five moons and no ring. And the other planets are all…they're not exactly your holiday resort destination. No way to build a listening post there without us noticing."
+"Aye. No asteroid belt. One gas giant, and a bloody gigantic one at that, but it's only got the five moons and no ring. And the other planets are all...they're not exactly your holiday resort destination. No way to build a listening post there without us noticing."
 
 Adam held the door for him as they entered the suit maintenance building. "Then there's the citizens." Powell continued. "*Nobody* works on Cimbrean who has any implants in their brain. We've got total control over who gets onto that planet—everyone's accounted for, and everyone's clean. Zero Hierarchy, guaranteed, and so long as the system shield's up—and we have no reason to drop it—none are getting down there either."
 
@@ -485,7 +485,7 @@ All things considered, removing the EV-MASS managed the wonderful trick of being
 
 "And *Myrmidon*?" Adam asked.
 
-"Her flight decks have been completely sealed up and filled with capacitor banks." Powell said. "The idea is for her to serve as a flying battery for the Type Twos, give 'em…" Adam knew exactly why he hesitated. The cold was *biting* now, they were nearly at suits off. "some…actual staying power: Rather than having to jump out every few minutes to recharge off a nearby star, now *Myrmidon* can, uh…" he swallowed, and shivered. "*Waaurrr.* Can, uh, can keep 'em topped up."
+"Her flight decks have been completely sealed up and filled with capacitor banks." Powell said. "The idea is for her to serve as a flying battery for the Type Twos, give 'em..." Adam knew exactly why he hesitated. The cold was *biting* now, they were nearly at suits off. "some...actual staying power: Rather than having to jump out every few minutes to recharge off a nearby star, now *Myrmidon* can, uh..." he swallowed, and shivered. "*Waaurrr.* Can, uh, can keep 'em topped up."
 
 "Suit off, Major." Powell's lead tech said. Powell nodded and fumbled at the touchscreen mounted on the inside of his wrist, entering the suit release code with shaking fingers.
 
@@ -525,41 +525,41 @@ After all: He was going home.
 
 Sean could only shake his head vigorously. "That makes you perfect." he countered. "You know what's at stake."
 
-Ben exhaled at length through his nose, shaking his head. "I guess…" he paused to think, resting his thumb thoughtfully on the end of his nose before continuing.
+Ben exhaled at length through his nose, shaking his head. "I guess..." he paused to think, resting his thumb thoughtfully on the end of his nose before continuing.
 
-"…Look, between you and me, I kind of hate this Adam bloke's guts." he confided. "I don't know WHY she puts up with him, and I think it's only a matter of time before he really hurts her."
+"...Look, between you and me, I kind of hate this Adam bloke's guts." he confided. "I don't know WHY she puts up with him, and I think it's only a matter of time before he really hurts her."
 
 Sean nodded, listening.
 
-"But…you know, this is Ava we're talking about. She's not stupid, man." Ben shrugged. "You've said it yourself, you wish you had half her brain."
+"But...you know, this is Ava we're talking about. She's not stupid, man." Ben shrugged. "You've said it yourself, you wish you had half her brain."
 
-"Yeah, but there's a difference between smart and…*smart* isn't there?" Sean pointed out.
+"Yeah, but there's a difference between smart and...*smart* isn't there?" Sean pointed out.
 
-"I'm just saying…maybe you should trust her to know what she's about."
+"I'm just saying...maybe you should trust her to know what she's about."
 
 Sean sipped his cup of tea. "Dude, if I asked her why she loves this Adam guy? I know exactly what she'd say." he said, setting it down.
 
 "What?"
 
-"She'd bang on about how he's '*doing something amazing*' and how they '*went through a lot together' and…*you know, all that stuff we've heard before, right?"
+"She'd bang on about how he's '*doing something amazing*' and how they '*went through a lot together' and...*you know, all that stuff we've heard before, right?"
 
-"Right…?"
+"Right...?"
 
-"From what she's told us…do you know ANYTHING about what this chap's like as a person?"
+"From what she's told us...do you know ANYTHING about what this chap's like as a person?"
 
-Ben hesitated. "Well, he's…She says he's a nice guy, and that he's…strong…" he suggested, lamely.
+Ben hesitated. "Well, he's...She says he's a nice guy, and that he's...strong..." he suggested, lamely.
 
 "Great. Nice. Wonderful! Is that *all* he is, do you think?"
 
-"Well…no, there's got to be more to him than that, hasn't there?"
+"Well...no, there's got to be more to him than that, hasn't there?"
 
 "If there is, she's never breathed a word of it to me." Sean shrugged. "I wonder if *she* even knows what he's like any more?"
 
-"Could be…I don't know, does the military change people that much?"
+"Could be...I don't know, does the military change people that much?"
 
 "He went into it when they were *seventeen*, Ben. They were last really together—like, full-time together—when they were sixteen. Are you the same as you were back then?"
 
-"…No, I guess I'm not."
+"...No, I guess I'm not."
 
 "Think he is?"
 
@@ -567,19 +567,19 @@ Ben didn't answer until both their cups of tea were almost completely drained. "
 
 "I'm shit-scared, Ben. She might never talk to me again."
 
-"You said you want her to be happy, though…?"
+"You said you want her to be happy, though...?"
 
 "Yeah?"
 
 "Well, if she does that then I guess that'll mean she IS happy, deep down. Won't it?" Ben pointed out.
 
-"…I'm still allowed to hate this Adam guy even if she does-" Sean paused. "Right?"
+"...I'm still allowed to hate this Adam guy even if she does-" Sean paused. "Right?"
 
 "Sean, you can be as envious of that son of a bitch as you want." Ben patted him on the shoulder. "I've got your back."
 
 Sean nodded, and stood. Ben stood with him, and they parted ways on the doorstep as Sean locked up his house.
 
-"…Wish me luck?" he requested, pocketing the keys.
+"...Wish me luck?" he requested, pocketing the keys.
 
 Ben gave him a hug. "Go find out, man."
 
@@ -593,7 +593,7 @@ The message was very simple. It was a selfie of Sean standing outside her front 
 
 She laughed a little, set her tablet aside and got up to let him in.
 
-"I got beer for me, some kind of Bacardi fruit…thing for you." he said, by way of a hello, and held up the Bacardi fruit…thing delicately between thumb and index finger, as if it was a soiled diaper or something similarly unpleasant.
+"I got beer for me, some kind of Bacardi fruit...thing for you." he said, by way of a hello, and held up the Bacardi fruit...thing delicately between thumb and index finger, as if it was a soiled diaper or something similarly unpleasant.
 
 "What’s the occasion?" Ava asked, smiling nervously as she took it. Things had been a little awkward between them for nearly a month now, made all the worse by the nagging part of her brain that really, really missed being able to feel relaxed around him being at war with the part of her brain that really, really got all distracted and excited in his company.
 
@@ -609,7 +609,7 @@ She laughed a little, set her tablet aside and got up to let him in.
 
 "Great. That means you only have to write, like, three hundred words a day. Knowing you, you’ve typed more words than that on Facebook so far today."
 
-"Well, if people will insist on being *wrong* on the *Internet*…" he smirked, and tapped their drinks together.
+"Well, if people will insist on being *wrong* on the *Internet*..." he smirked, and tapped their drinks together.
 
 "Really though," he added "Is there that much difference between three hundred words today and five hundred tomorrow?"
 
@@ -621,15 +621,15 @@ She laughed a little, set her tablet aside and got up to let him in.
 
 "I suppose I can see why." Sean mused, after sipping his beer again. "You’ve had it quite hard, after all"
 
-Ava made an incredulous little laugh. "Only somebody as…as *English* as you could call it '*quite* hard’."
+Ava made an incredulous little laugh. "Only somebody as...as *English* as you could call it '*quite* hard’."
 
-"…I’m sorry."
+"...I’m sorry."
 
 "No, it’s fine. Yes, I’ve had it '*quite hard*.’ My home city was only blown up by aliens. My parents and school friends are only dead. I only witnessed my best friend’s murder. My boyfriend’s only gone away for years to become a space marine. I’ve definitely had it '*quite hard*’, thank you for noticing!"
 
 Sean was silent for a minute until she cooled off again, which took nearly a third of her glass. "And you’re still giving me advice on how to do my coursework properly." he added.
 
-"Somebody has to." she repeated, though she offered him an apologetic little smile. "I’m sorry, I just…"
+"Somebody has to." she repeated, though she offered him an apologetic little smile. "I’m sorry, I just..."
 
 "No, *I’m* sorry." Sean interrupted. He moved his chair a little closer to hers. "You're right, I shouldn't pretend like I know everything you've gone through."
 
@@ -637,7 +637,7 @@ She paused, then smiled, a rare, real, sad smile with her walls down for just a 
 
 Sean toasted her with his beer again, then put it down abruptly and sat forward. "Hey, I know a joke you might like." he said.
 
-Ava paused in the middle of sipping her own drink. "Okay…?"
+Ava paused in the middle of sipping her own drink. "Okay...?"
 
 "So, a man goes to see the doctor, and he says '*Doctor, I really need your help. I’ve been feeling so bleak and depressed lately, I don’t know what to do!*’ The doctor smiles and says. '*I know just what you need. The Great Pagliacci is in town this week,* *the funniest clown who ever lived! Go see him, and you will see that everything is alright.*’"
 
@@ -647,7 +647,7 @@ Ava paused in the middle of sipping her own drink. "Okay…?"
 
 What Ava produced in reaction wasn’t really a *laugh*. It was too short, and the amusement behind it was the quiet humour of bitter recognition, but it seemed to please Sean nonetheless, who shuffled a little closer.
 
-"That’s…not a great joke." she said, unconsciously tucking a curl of hair behind her ear to look at him.
+"That’s...not a great joke." she said, unconsciously tucking a curl of hair behind her ear to look at him.
 
 "I wasn’t telling it to be funny, duck." Sean told her. "I’m making a point."
 
@@ -657,19 +657,19 @@ What Ava produced in reaction wasn’t really a *laugh*. It was too short, and t
 
 "You've made that point before."
 
-"Yeah but…I thought, maybe I should follow my own advice."
+"Yeah but...I thought, maybe I should follow my own advice."
 
 He kissed her.
 
 Five perfect seconds later, when their lips parted, she was too stunned to do more than raise a few disjointed objections.
 
-"We- Uh, m-maybe that…"
+"We- Uh, m-maybe that..."
 
 She got no further as Sean kissed her again, and it was another several seconds before she finally worked up the presence of mind to put two hands on his chest and shove him right off his chair, leaping to her feet and turning away, too confused by the cluster bomb of emotions that had hit her to even look at him.
 
-Behind her, she heard Sean’s breathing slow. Very, very carefully, he picked himself up off the floor and straightened his clothing. "I’m sorry" he said. "I just…I needed to know, one way or the other."
+Behind her, she heard Sean’s breathing slow. Very, very carefully, he picked himself up off the floor and straightened his clothing. "I’m sorry" he said. "I just...I needed to know, one way or the other."
 
-She turned to face him, hunched over her folded arms. "You should…Probably go." she told him.
+She turned to face him, hunched over her folded arms. "You should...Probably go." she told him.
 
 He did as she suggested, turning and shuffling out of the kitchen without a backwards glance and with his fists balled. Ava waited until she heard the front door close and lock behind him before allowing herself the luxury of collapsing back into her seat, gripping two fistfuls of her hair, and beating herself up.
 
@@ -689,7 +689,7 @@ BASEBALL considered the text message for several seconds before offering his sag
 
 "Yeah." Adam nodded, and jerked his head toward the back of the plane. "I'll be back there."
 
-They were on stopover at Scott AFB, after a full two days of loading every scrap of the SOR's accumulated gear and personal effects onto the Galaxy. Huge as a C5's lift and fuel capacities were, the gym gear alone accounted for several tonnes which, when coupled with the reinforced furniture, the armory, the lucky reinforced Gravball goal, not to mention the suits, protective and maintenance equipment *for* the suits, plus the techs and all THEIR stuff…
+They were on stopover at Scott AFB, after a full two days of loading every scrap of the SOR's accumulated gear and personal effects onto the Galaxy. Huge as a C5's lift and fuel capacities were, the gym gear alone accounted for several tonnes which, when coupled with the reinforced furniture, the armory, the lucky reinforced Gravball goal, not to mention the suits, protective and maintenance equipment *for* the suits, plus the techs and all THEIR stuff...
 
 While a Galaxy had plenty of seating on the upper deck, the operators were all big enough to find the seats uncomfortably small, and they were prone to overheating anyway. Noisy as it was, the cargo deck was pleasantly cold, and so they'd set up a sort of nest in one of the few corners not completely given over to cargo, and were playing Texas Hold 'em.
 
@@ -697,15 +697,15 @@ It had taken a whale-sized gulp of fuel just to get them aloft. Hence the stopov
 
 The hell with the cost of international calls. He could afford it, and she needed him.
 
-"…*Hello?"*
+"...*Hello?"*
 
 He smiled. She sounded so cute when she was tired. "Ava? Did I wake you, babe?"
 
-"…*It's three in the morning baby."* she griped, just a little. "*I mean, I'm real glad to hear from you but why didn't you call sooner?"*
+"...*It's three in the morning baby."* she griped, just a little. "*I mean, I'm real glad to hear from you but why didn't you call sooner?"*
 
 "I'm on a plane." he explained. "We just landed in Illinois."
 
-"*Oh…what are you doing on a plane in Illinois?"*
+"*Oh...what are you doing on a plane in Illinois?"*
 
 "It's refuelling. We're on our way up to Scotch Creek."
 
@@ -723,15 +723,15 @@ He smiled. She sounded so cute when she was tired. "Ava? Did I wake you, babe?"
 
 "*Homesteading incentive?"* Ava interrupted him.
 
-"Yeah! It’s this big grant and maybe a low-interest loan for…you know, building a life out there. Buying a house or whatever. All they need from me is a few more years."
+"Yeah! It’s this big grant and maybe a low-interest loan for...you know, building a life out there. Buying a house or whatever. All they need from me is a few more years."
 
-"…*How **many** years, Adam?"*
+"...*How **many** years, Adam?"*
 
-"Uh…for the full grant, they want a career enlistment."
+"Uh...for the full grant, they want a career enlistment."
 
-"*Which is…how long?"*
+"*Which is...how long?"*
 
-"Uh…" he said sheepishly, "Well, I mean it’s…twenty years total commitment. But that include-"
+"Uh..." he said sheepishly, "Well, I mean it’s...twenty years total commitment. But that include-"
 
 "***TWENTY YEARS?!***" Adam jerked the phone away from his ear and winced. He could still hear her anyway. "You *re-enlisted for **twenty years** and you're on a plane going back to Cimbrean where I won't be able to call you or anything and you're only telling me **now?!**"*
 
@@ -747,11 +747,11 @@ Re-dialling sent him straight to her answerphone. He tried twice more just in ca
 
 "Uh-huh." Legsy muttered, in a noise that was equal parts agreement and scepticism. "And what did she actually want to talk to you about?"
 
-Adam paused. "Well, uh…I mean, I, um…"
+Adam paused. "Well, uh...I mean, I, um..."
 
 Every last one of his buddies pantomimed and voiced dismay. Legsy just pressed three fingers to his forehead and looked pained. "You fuckin' *tit*." he groaned.
 
-Adam looked around at their reactions, then down at his knees. "…I really suck at this, huh?"
+Adam looked around at their reactions, then down at his knees. "...I really suck at this, huh?"
 
 "Brother." BASEBALL said, putting an arm round him. "She's a goddamn saint for putting up with your stupid ass."
 
@@ -769,7 +769,7 @@ She sat up, blinked at the sad remains of her phone in the middle of the floor, 
 
 To her utter astonishment, smashed screen or not, it turned on and booted up. She nearly dismissed the three missed calls from Adam, but instead she sat and stared at them for nearly twenty minutes before finally arriving at a decision. One that was, she considered, perfectly reasonable, and entirely fair and balanced.
 
-"…Fuck it."
+"...Fuck it."
 
 She stood, took a shower, brushed her teeth, put on her clothes, grabbed her keys and the damaged device, and left the room.
 
@@ -781,19 +781,19 @@ Sean’s phone rang five times before he swiped the green control to answer. Thr
 
 He answered cautiously. "Hey."
 
-"…*Hey*."
+"...*Hey*."
 
-"I uh…I was worried I wouldn’t hear from you again. After…"
+"I uh...I was worried I wouldn’t hear from you again. After..."
 
-"*That was…"* Ava sighed down the phone. "…*We need to talk about it."*
+"*That was..."* Ava sighed down the phone. "...*We need to talk about it."*
 
 "I’ll come over."
 
-"*Or you could just let me in. It’s…kinda cold out here."*
+"*Or you could just let me in. It’s...kinda cold out here."*
 
 He frowned, leaned over and twitched the curtain aside. Ava gave him a sheepish wave through the glass. She was hovering outside his front door, bobbing, fidgeting and pacing.
 
-He let her in. "You could have just knocked…"
+He let her in. "You could have just knocked..."
 
 "Yeah." she agreed, but shrugged. "Didn’t, though."
 
@@ -801,51 +801,51 @@ He let her in. "You could have just knocked…"
 
 "Don't ask."
 
-"…Cup of tea?"
+"...Cup of tea?"
 
 She sighed a sort of laugh. "Sure."
 
 By the time the tea was made, she’d warmed up a bit on the couch, using the chocolate-brown throw for a blanket.
 
-"So, uh…look, I’m sorry-" he began.
+"So, uh...look, I’m sorry-" he began.
 
-"No, I understand." Ava told him. "In fact…I think you were right. I think we needed that question answered."
+"No, I understand." Ava told him. "In fact...I think you were right. I think we needed that question answered."
 
-Sean sat back, feeling his pulse raise a good notch. "Are you saying…What are you saying?"
+Sean sat back, feeling his pulse raise a good notch. "Are you saying...What are you saying?"
 
-Ava stood up and paced the room, still draped in the throw. "Look…You’re right. I don’t…I've been lonely as fuck for a long time, and I'm tired of being jerked around and taken for granted." she told him. "And you…you make all of that better. I'm not lonely around you, and I know you don't take me for granted."
+Ava stood up and paced the room, still draped in the throw. "Look...You’re right. I don’t...I've been lonely as fuck for a long time, and I'm tired of being jerked around and taken for granted." she told him. "And you...you make all of that better. I'm not lonely around you, and I know you don't take me for granted."
 
-"But…?"
+"But...?"
 
-She sighed. "But for all the shit he puts me through, I really do love Adam with all my heart, and he’s really doing something amazing. Okay? And I know that part of what keeps him going is…well, me."
+She sighed. "But for all the shit he puts me through, I really do love Adam with all my heart, and he’s really doing something amazing. Okay? And I know that part of what keeps him going is...well, me."
 
 Sean just listened to her.
 
-"But at the same time…You're right. I’ve got to live for myself a bit, don’t I? I’ve got to…to be happy and fulfilled myself or else…I know I’m just going to take it out on him one day. I can’t *afford* to resent him, and I don’t want to. But right now I do."
+"But at the same time...You're right. I’ve got to live for myself a bit, don’t I? I’ve got to...to be happy and fulfilled myself or else...I know I’m just going to take it out on him one day. I can’t *afford* to resent him, and I don’t want to. But right now I do."
 
 "I think I get you." Sean said.
 
 "Do you?" she asked. It was neither skeptical nor a challenge, nor even a plea for him to say what she wanted to hear. Just an honest query.
 
-It was Sean’s turn to stand up, and he put his hands on her upper arms, rubbing gently. "Ava…You know bloody well how I feel about you. I’m not asking for forever, I just…I want you to feel loved. That’s all. There’s room for more love in your life, isn’t there?"
+It was Sean’s turn to stand up, and he put his hands on her upper arms, rubbing gently. "Ava...You know bloody well how I feel about you. I’m not asking for forever, I just...I want you to feel loved. That’s all. There’s room for more love in your life, isn’t there?"
 
 She looked down, then away, then up at his face again. There were a tense few seconds of thoughtful silence.
 
 "Ground rules." she announced, at last.
 
-"Okay…?"
+"Okay...?"
 
 "This is going to end. I can put an exact date on it, okay? After I’ve graduated, and I go back to CImbrean, that’s it. If you can’t live with that, then we don’t do this and I guess we *both* get friendzoned."
 
 "That’s rule one." Sean nodded.
 
-"Rule two…" She continued. "We enjoy it. As much as we can, for as long as we’ve got."
+"Rule two..." She continued. "We enjoy it. As much as we can, for as long as we’ve got."
 
 "Rule three." Sean told her, nodding. "This is about you."
 
 Ava hesitated "Sean, I-" she began.
 
-"No, shut up. Look, I…fuck it, I love you. Bit early maybe to tell you that, but it’s been, what…three years, hasn’t it? Since we met."
+"No, shut up. Look, I...fuck it, I love you. Bit early maybe to tell you that, but it’s been, what...three years, hasn’t it? Since we met."
 
 "But w-"
 
@@ -887,7 +887,7 @@ But that had to stop now. The long journey was over now, and BASEBALL had to get
 
 "Brother, you didn't do shit." BASEBALL grabbed Adam's bag from him. "The old man says we're coming to Cimbrean, we're coming to Cimbrean. Not your fault we're here."
 
-"I know, but…she's right, I shoulda told her sooner."
+"I know, but...she's right, I shoulda told her sooner."
 
 "When? We found out about this three days ago, we've been loading our shit the whole time since. You told her first chance you got, man."
 
@@ -895,7 +895,7 @@ Adam didn't say anything, he just nodded helplessly.
 
 "Come on." BASEBALL slapped him on the back. "We got shit to unload and get stowed and then it's the weekend. Get your mind off it, huh?"
 
-"…Yeah."
+"...Yeah."
 
 Hard work was always a good balm for a troubled mind, and nobody could work harder than Protectors. By the time all the pallets had been cleared out of the Jump Array and moved to their respective final destinations, by the time the Operators had been shown to their new barrack and had got their possessions tidied away, and by the time the SOR was finally ensconced and ready to get on with business, Adam had relaxed a little, even cracked a smile and a joke.
 
@@ -909,17 +909,17 @@ Adam was sighing with relief. "She's a saint, you're right."
 
 Outwardly, John just nodded, and patted his buddy on the shoulder, leaving him to write his return.
 
-Internally, however…
+Internally, however...
 
 Legsy was reclining on the new couch, which was already groaning under the weight. They'd all but destroyed the last couch through piling onto it en masse for movie night, and roughhousing, and this one looked to be rather less sturdy—Vandenberg was already talking about welding together something more appropriate out of a material that was up to spec, like steel I-beam.
 
 "How is 'e?"
 
-"Got an email. She said sorry for getting mad, says she's gonna try to keep on top of it…" John vaulted the back of the couch to sit down and ignored the way it creaked as he landed.
+"Got an email. She said sorry for getting mad, says she's gonna try to keep on top of it..." John vaulted the back of the couch to sit down and ignored the way it creaked as he landed.
 
 "Don't know if I buy that." Legsy grunted.
 
-"Well, I mean…" John shrugged. "She's pretty fucking dedicated to him."
+"Well, I mean..." John shrugged. "She's pretty fucking dedicated to him."
 
 "Too fuckin' dedicated." Legsy agreed. "I dunno mate, she can't just go on writing off their fights and saying it's fine, can she?"
 
@@ -929,7 +929,7 @@ Legsy was reclining on the new couch, which was already groaning under the weigh
 
 "I hope so."
 
-"Difficult, if she's struggling now…"
+"Difficult, if she's struggling now..."
 
 "You know, if you two worry about WARHORSE's love life too much, we're gonna wind up with THREE guys off their game." Vandenberg commented, joining them.
 
@@ -941,7 +941,7 @@ Legsy was reclining on the new couch, which was already groaning under the weigh
 
 "Yyyep." BASEBALL shifted his seat a bit, and the couch finally gave up,—with a crackle of disintegrating wood, it tilted to one side and folded up like a house of cards.
 
-There was a long silence. "…Base?"
+There was a long silence. "...Base?"
 
 "Yeah, Legs?"
 
@@ -955,13 +955,13 @@ There was a long silence. "…Base?"
 
 "Yeah, can't have the NCOIC getting screwed in the ass." John agreed, standing up himself. This earned a groan from the two older men, and a middle finger from Legsy. "Alright, I'll patch up your butt."
 
-Vandenberg contemplated the wreckage. "Guess I'll get started on some actual furniture…Hey, Sikes!"
+Vandenberg contemplated the wreckage. "Guess I'll get started on some actual furniture...Hey, Sikes!"
 
 Snapshot's voice floated out of his room. "Yeah?"
 
 "Gimme a hand willya? The couch just gave and screwed Legsy in the ass!"
 
-"…What?" Sikes' head poked round the corner, as did everyone else's with varying expressions of confusion and delight.
+"...What?" Sikes' head poked round the corner, as did everyone else's with varying expressions of confusion and delight.
 
 "You big bastards broke it already?" Murray grinned.
 
@@ -993,7 +993,7 @@ Which meant that even at a dead run, the hundred yards or so between the bus sto
 
 Other than that, it had been a successful date. They'd gone to a movie, eaten at Frankie and Benny's, and had been strolling round the park when the first roll of thunder had driven them underground.
 
-Sean was the first to speak. Or pant. "Jesus…CHRIST!"
+Sean was the first to speak. Or pant. "Jesus...CHRIST!"
 
 "I hear ya. We shoulda got a cab" Ava clutched at her elbows and hugged over. She wasn't out of breath, but she had never coped well with the cold. "Yuuuurgh."
 
@@ -1031,7 +1031,7 @@ She came back down a few minutes later with her hair wrapped in a towel and wear
 
 "Warming up." she replied, and took her mug of tea. "You've still not changed?"
 
-"Well, if you're okay with me wandering the house naked…"
+"Well, if you're okay with me wandering the house naked..."
 
 "Why not? It's your house."
 
@@ -1065,7 +1065,7 @@ They sat in silence for a while, watching the news.
 
 *French EU minister Noémie Perrin said that although such concerns were well-founded, there were still grounds for optimism.*
 
-*"Bien sûr, nous devons être prudents, mais…<Of course we need to be cautious, but I don't think that we will learn anything if we remain stuck on one planet. Already, contact with alien life promises to end our dependence on fossil fuels and has>"*
+*"Bien sûr, nous devons être prudents, mais...<Of course we need to be cautious, but I don't think that we will learn anything if we remain stuck on one planet. Already, contact with alien life promises to end our dependence on fossil fuels and has>"*
 
 Ava shifted against him. "Hey, Sean?"
 
@@ -1073,7 +1073,7 @@ Ava shifted against him. "Hey, Sean?"
 
 He looked left, and she kissed him.
 
-It was a gentle kiss, accompanied by a happy sigh, and it lasted for a good few warm and comfortable seconds. Ava didn't kiss him all that often, but when she *did…!*
+It was a gentle kiss, accompanied by a happy sigh, and it lasted for a good few warm and comfortable seconds. Ava didn't kiss him all that often, but when she *did...!*
 
 When it was over, he gave her a little squeeze. "Mmm. That was nice. What was it for?"
 
@@ -1085,9 +1085,9 @@ When it was over, he gave her a little squeeze. "Mmm. That was nice. What was it
 
 And again.
 
-And a third time, just below his ear, a move which he answered by putting a thumb on her chin, gently pushing her to tilt her head up, and kissing her throat, then a little lower on her throat, and a little lower still…
+And a third time, just below his ear, a move which he answered by putting a thumb on her chin, gently pushing her to tilt her head up, and kissing her throat, then a little lower on her throat, and a little lower still...
 
-She grabbed his hand, worrying him that he'd gone too far, but instead she guided it up onto her chest and…oh, yeah. She wasn't wearing a bra, was she? He could feel something small and hard press against his palm, through the cloth. Fuck that cloth. He lowered his hand, unzipped the hoodie, grabbed the bottom of her t-shirt and pulled it up, awarding himself a mental medal at the noise she made when he put his lips and tongue to work on her nipple instead.
+She grabbed his hand, worrying him that he'd gone too far, but instead she guided it up onto her chest and...oh, yeah. She wasn't wearing a bra, was she? He could feel something small and hard press against his palm, through the cloth. Fuck that cloth. He lowered his hand, unzipped the hoodie, grabbed the bottom of her t-shirt and pulled it up, awarding himself a mental medal at the noise she made when he put his lips and tongue to work on her nipple instead.
 
 Her hands weren't idle, either. They roamed his back, curled in his hair, hauled up on his own clothing until he finally had to pull back and let her pull his shirt off.
 
@@ -1095,7 +1095,7 @@ She made a little laugh, and he was still trying to figure out if it was a mocki
 
 They paused, both breathing heavily, and then there was a new expression in her eye, a witchy one that he'd never seen there before.
 
-She leaned forward, and kissed his throat. Then his chest. Then a little lower…and a little lower…
+She leaned forward, and kissed his throat. Then his chest. Then a little lower...and a little lower...
 
 And a little lower.
 
@@ -1157,9 +1157,9 @@ Powell returned to his desk as the water boiled. "You must have known you'd wind
 
 "Thought you were up there with Armstrong and Gagarin?"
 
-"How many people actually know those names, though?" Rylee asked. "I heard one time that only 40% of the American public recognized Neil Armstrong and…Hell, something like ten percent of Americans think the Apollo missions were faked!"
+"How many people actually know those names, though?" Rylee asked. "I heard one time that only 40% of the American public recognized Neil Armstrong and...Hell, something like ten percent of Americans think the Apollo missions were faked!"
 
-"Aye, I heard that one too. I have my doubts." Powell shrugged. "People are interested in space again. When colonising an alien planet's on the cards…"
+"Aye, I heard that one too. I have my doubts." Powell shrugged. "People are interested in space again. When colonising an alien planet's on the cards..."
 
 "True. And things have changed *fast."* Rylee agreed with him. "Hell, you know the total tonnage of private space vehicles launched into orbit now beats the combined lifetime tonnage of both NASA *and* the Russians? And most of that is Hephaestus, which spent less doing it than the Gemini program cost."
 
@@ -1167,7 +1167,7 @@ Powell returned to his desk as the water boiled. "You must have known you'd wind
 
 The kettle clicked off and he stood to pour the coffee.
 
-"I know, I know…" Rylee conceded. "I just like to bitch about it, you know? I'd rather be flying."
+"I know, I know..." Rylee conceded. "I just like to bitch about it, you know? I'd rather be flying."
 
 "You know, you *are* allowed to enjoy other things besides flying." Powell told her.
 
@@ -1185,7 +1185,7 @@ The cafetiere rattled when he set it down on his desk alongside two scuffed but 
 
 Powell nodded as he filtered the coffee and poured it before answering.
 
-"I have never worked with a unit that had a higher background rate of pranks, hijinks and general shenanigans." He said, fondly. "They're completely fookin' nuts, the lot of 'em, and I totally sympathize. We're all eating well above our energy needs to try and get some reserves up, and all the PT in the world won't cut it nowadays. Every man jack of us is a fizzing ball of energy in the morning, and a half-trashed wreck come bedtime. And yet, discipline is *not* a problem here—they're all mature, sensible lads one an' all. It's just…bonkers in their dorm when they're letting off steam. But never once has it crossed the line, and I'm quite confident it never will."
+"I have never worked with a unit that had a higher background rate of pranks, hijinks and general shenanigans." He said, fondly. "They're completely fookin' nuts, the lot of 'em, and I totally sympathize. We're all eating well above our energy needs to try and get some reserves up, and all the PT in the world won't cut it nowadays. Every man jack of us is a fizzing ball of energy in the morning, and a half-trashed wreck come bedtime. And yet, discipline is *not* a problem here—they're all mature, sensible lads one an' all. It's just...bonkers in their dorm when they're letting off steam. But never once has it crossed the line, and I'm quite confident it never will."
 
 "You make them sound like a puppy farm." Rylee observed.
 
@@ -1205,7 +1205,7 @@ Powell sipped his drink. "I take it you're going to want me in front of the came
 
 "Fair enough. What's yours?"
 
-Powell hesitated. "Um…STAINLESS."
+Powell hesitated. "Um...STAINLESS."
 
 "Nice!"
 
@@ -1213,39 +1213,39 @@ Powell hesitated. "Um…STAINLESS."
 
 "Which was?"
 
-"I'd rather not say." Powell scratched his nose awkwardly. "Just say it harked back to a stupider and, er…more racist time in my life and leave it at that."
+"I'd rather not say." Powell scratched his nose awkwardly. "Just say it harked back to a stupider and, er...more racist time in my life and leave it at that."
 
 Rylee blinked at him. "You don't seem racist." she said.
 
-"I'm not, now. Once upon a time, though…You wouldn't have liked me, and for good fookin' reason. I'd rather not say more than that."
+"I'm not, now. Once upon a time, though...You wouldn't have liked me, and for good fookin' reason. I'd rather not say more than that."
 
 "Hey, I'm not interviewing you right now, Powell."
 
-"Yeah but…Look, I don't have a lot of mates. I'm not about to alienate one of the few I've got by sharing exactly what I'd have thought when I was an idiot fookin' kid, arright?"
+"Yeah but...Look, I don't have a lot of mates. I'm not about to alienate one of the few I've got by sharing exactly what I'd have thought when I was an idiot fookin' kid, arright?"
 
 "I think I can guess, anyway." she commented, drily.
 
-"Rylee…" Powell cleared his throat. "Look, if you're gonna go with an angle for the SOR, the best one you can go with is self-improvement. We're not just aiming for *better,* we're aiming for *best*."
+"Rylee..." Powell cleared his throat. "Look, if you're gonna go with an angle for the SOR, the best one you can go with is self-improvement. We're not just aiming for *better,* we're aiming for *best*."
 
-"Owen." She interrupted. "Relax. I'm just surprised, not upset." Where he was sipping his coffee, she took a decent-sized gulp of it. "Hell, I guess I was the same, you don't grow up black in Arkansas without…What I'm saying is, we're all allowed to grow older and wiser."
+"Owen." She interrupted. "Relax. I'm just surprised, not upset." Where he was sipping his coffee, she took a decent-sized gulp of it. "Hell, I guess I was the same, you don't grow up black in Arkansas without...What I'm saying is, we're all allowed to grow older and wiser."
 
 "Ah, to hell wi' the older part, just so long as I keep getting' wiser." Powell chuckled. "I tell you what, I DON'T miss all the aches and pains I was havin'. My knees haven't felt so good in years!"
 
-Rylee's smile returned. "…So. You're okay with me doing this."
+Rylee's smile returned. "...So. You're okay with me doing this."
 
 "Absolutely."
 
 "And you want the whole angle to be self-improvement."
 
-"Well…" Powell looked to his right and slightly downwards as he marshalled his thoughts. "We both know at least some of this material is going to end up as a recruiting video, most likely." He said. "Right now, the SOR has *one* operational unit, which isn't even active yet. Now, we might be able to keep the training up just fine, but missions? One mission and we'll be knocked on our backsides and have to build up again. Sure, we've got guys coming up the pipeline behind us, but the full unit MTOE calls for, uh…"
+"Well..." Powell looked to his right and slightly downwards as he marshalled his thoughts. "We both know at least some of this material is going to end up as a recruiting video, most likely." He said. "Right now, the SOR has *one* operational unit, which isn't even active yet. Now, we might be able to keep the training up just fine, but missions? One mission and we'll be knocked on our backsides and have to build up again. Sure, we've got guys coming up the pipeline behind us, but the full unit MTOE calls for, uh..."
 
-He rolled his head back and frowned at the ceiling, searching his memory. "Thirty six, seventy-two…About a hundred and eleven operators all told, plus three times as many specialists in support roles. All of those operators have got to meet some already high standards and then clear a rigorous elimination round before they so much as *see* a vial of Crue-D, let alone their spacesuit. And by the time they're ready for active duty…" he gestured a hand down the mid-line of his own body. "Permanent physical and psychological changes."
+He rolled his head back and frowned at the ceiling, searching his memory. "Thirty six, seventy-two...About a hundred and eleven operators all told, plus three times as many specialists in support roles. All of those operators have got to meet some already high standards and then clear a rigorous elimination round before they so much as *see* a vial of Crue-D, let alone their spacesuit. And by the time they're ready for active duty..." he gestured a hand down the mid-line of his own body. "Permanent physical and psychological changes."
 
 "You want me to stress that?"
 
-"We're only going to want people who can hack the idea of never being the same again. Go talk to WARHORSE sometime—Staff Sergeant Arés. I used to work closely with his old man, who's a slim, small, little guy. Not unfit or anything, just…small. Four years ago, the lad was just, like, a younger version of 'is dad, but now he's fookin' *huge*! *A*nd he'll still be huge when he's in his eighties."
+"We're only going to want people who can hack the idea of never being the same again. Go talk to WARHORSE sometime—Staff Sergeant Arés. I used to work closely with his old man, who's a slim, small, little guy. Not unfit or anything, just...small. Four years ago, the lad was just, like, a younger version of 'is dad, but now he's fookin' *huge*! *A*nd he'll still be huge when he's in his eighties."
 
-Rylee nodded, thoughtfully. "I mean…I'm just going to be narrating and interviewing on this thing, it's up to the director in the end." she said. "But I'll pass that along."
+Rylee nodded, thoughtfully. "I mean...I'm just going to be narrating and interviewing on this thing, it's up to the director in the end." she said. "But I'll pass that along."
 
 "That's all I can ask for."
 
@@ -1273,13 +1273,13 @@ Arés blinked. "Problem, ma'am?"
 
 "You've been kind of giving me the '*I don't like you much*' thing this whole time, and I'm curious why."
 
-"…I'm sorry, I didn't mean to-" He stopped himself, but that sentence had revealed the nice guy underneath the chilly attitude. "…You never called the Tisdales, is all."
+"...I'm sorry, I didn't mean to-" He stopped himself, but that sentence had revealed the nice guy underneath the chilly attitude. "...You never called the Tisdales, is all."
 
-"…Who?"
+"...Who?"
 
 He frowned. "Mark and Hayley?"
 
-Memory stirred. "Oh! I, uh…I never learned their…wait shit, *Tisdale*? As in *Sara* Tisdale?"
+Memory stirred. "Oh! I, uh...I never learned their...wait shit, *Tisdale*? As in *Sara* Tisdale?"
 
 "Yeah."
 
@@ -1291,29 +1291,29 @@ Rylee dragged a chair out from under the table—a huge, metal, heavy one built 
 
 "You didn't know their surnames?"
 
-"We had fun together, that's all!" Rylee told him. "We're not friends or anything. We just…yeah."
+"We had fun together, that's all!" Rylee told him. "We're not friends or anything. We just...yeah."
 
 She frowned at him. "Actually, how did you even know about that?"
 
-"My, uh…my girlfriend saw you with them. Ma'am."
+"My, uh...my girlfriend saw you with them. Ma'am."
 
-"Huh…" She went still and silent for a second, and then rubbed her face. "Christ."
+"Huh..." She went still and silent for a second, and then rubbed her face. "Christ."
 
-Arés scratched the back of his head. "I…Guess I owe you an apology."
+Arés scratched the back of his head. "I...Guess I owe you an apology."
 
-"No, no." Rylee shook her head. "If I'd *known* I'd have called them. But, I didn't and I guess that's…Jesus, their little girl."
+"No, no." Rylee shook her head. "If I'd *known* I'd have called them. But, I didn't and I guess that's...Jesus, their little girl."
 
 "And my friend."
 
-"…I'm sorry, Arés."
+"...I'm sorry, Arés."
 
 "Was that an apology or condolences, ma'am?"
 
-"Bit of both…" She sighed, and ran a hand over her head. Realising that her hair was out of its bun, she let it out and re-did it. "Thanks for being straight with me though."
+"Bit of both..." She sighed, and ran a hand over her head. Realising that her hair was out of its bun, she let it out and re-did it. "Thanks for being straight with me though."
 
 "You asked."
 
-She sat awkwardly silent as he studied a chart stuck to the refrigerator, and then he seemed to thaw out entirely. "So, hey. I've actually been kinda curious…"
+She sat awkwardly silent as he studied a chart stuck to the refrigerator, and then he seemed to thaw out entirely. "So, hey. I've actually been kinda curious..."
 
 "Yeah?"
 
@@ -1337,7 +1337,7 @@ He pulled a bowl of soaked beans out of the fridge. "None at all?"
 
 "True."
 
-"Speaking of shitty special effects…" BASEBALL stuck his head in the kitchen. "We're watching the Power Rangers movie next, if you're interested Major?"
+"Speaking of shitty special effects..." BASEBALL stuck his head in the kitchen. "We're watching the Power Rangers movie next, if you're interested Major?"
 
 "Oh man, I've not watched that since I was a kid!" Rylee stood up. "See you through there, Arés?"
 
@@ -1359,19 +1359,19 @@ Rylee gave him her best smile and followed Burgess back through into the living 
 
 "I was fucking *terrified* of losing my virginity."
 
-Sean gritted his teeth and curled his fingers into the pillowcase She had both of her hands on his wrists, gently trapping him. "How…things have changed." he commented.
+Sean gritted his teeth and curled his fingers into the pillowcase She had both of her hands on his wrists, gently trapping him. "How...things have changed." he commented.
 
 Ava giggled and paused to grind her hips *deep* down onto him, a motion which sent a delicious shiver of pleasure right through her, so that her eyelashes fluttered and she bit her lower lip so hard that it hurt. Apparently it worked for Sean too, because his expression of furious concentration became desperate.
 
-"Oh Christ…"
+"Oh Christ..."
 
-"It's okay, lover…" she leant right forward and whispered into his ear. "*Come for me."*
+"It's okay, lover..." she leant right forward and whispered into his ear. "*Come for me."*
 
-She kissed his jaw and stroked his hair as he came down from whatever star she'd just sent him into orbit around, until he found his voice again and said something characteristically witty between great gulping breaths: "Fuuuuuck. Whoa-oh my…whew."
+She kissed his jaw and stroked his hair as he came down from whatever star she'd just sent him into orbit around, until he found his voice again and said something characteristically witty between great gulping breaths: "Fuuuuuck. Whoa-oh my...whew."
 
 She grinned down at him. "Good one?"
 
-"Jesus." He opened his eyes and swallowed, expression equal parts worshipful and concerned. "Did…are you okay?"
+"Jesus." He opened his eyes and swallowed, expression equal parts worshipful and concerned. "Did...are you okay?"
 
 "I'm fine." she promised, and carefully dismounted to roll down beside him. Neither of them moved very much for a few minutes until his breathing and pulse had returned to something resembling normal, at which point he cleared his throat and discreetly tied and disposed of the contraceptive he was still wearing.
 
@@ -1387,7 +1387,7 @@ It took her a few seconds to interpret the change in his expression. "Sean. Shit
 
 "*Really*?" He asked.
 
-"God fucking dammit that's…I'm so sorry."
+"God fucking dammit that's...I'm so sorry."
 
 Sean sighed, stood up and went to the bathroom, which left her to sit up as well and blush violently by herself for a few minutes, hoping that the bed might maybe come alive and devour her before his return or something equally implausible to spare her a moment's more shame.
 
@@ -1397,9 +1397,9 @@ When he came back in, he just sat next to her and rubbed her back. "You twit." h
 
 "Well, better this than the other way around." he joked, with a slightly awkward laugh.
 
-"…You're not mad?"
+"...You're not mad?"
 
-"…Well, I'm a bit jealous…" he confessed. "…but not mad. I get it, I'm the '*other guy*' here. I suppose I should be glad this is the first time it's happened."
+"...Well, I'm a bit jealous..." he confessed. "...but not mad. I get it, I'm the '*other guy*' here. I suppose I should be glad this is the first time it's happened."
 
 A laugh exploded out of her and brought embarrassed tears with it, which just made him laugh and kiss her below the ear. "It's *okay*." he promised.
 
@@ -1421,7 +1421,7 @@ The wall clock uncomfortably counted out twenty seconds before she finally sighe
 
 "Yes."
 
-"…Do blowjobs count?"
+"...Do blowjobs count?"
 
 "Yes."
 
@@ -1437,9 +1437,9 @@ She gave him a light backhand in the upper arm. "Sean!"
 
 "It's good to know you're not that much of a slut." she told him.
 
-"No it's not that." Sean waved a hand. "It's just…*Twenty* is your definition for a slut? I went to school with a guy who claimed a hundred when he was eighteen, and I'm quite sure it was the truth."
+"No it's not that." Sean waved a hand. "It's just...*Twenty* is your definition for a slut? I went to school with a guy who claimed a hundred when he was eighteen, and I'm quite sure it was the truth."
 
-"Bullshit!" Ava protested. "How do you even…?"
+"Bullshit!" Ava protested. "How do you even...?"
 
 "A different girl every week for two years?" Sean suggested. "Apparently it's not that hard if you know how."
 
@@ -1447,7 +1447,7 @@ She gave him a light backhand in the upper arm. "Sean!"
 
 "He volunteers with a HIV awareness program."
 
-"…Oh."
+"...Oh."
 
 "Yeah."
 
@@ -1467,7 +1467,7 @@ This time, she got his name right.
 
 **Major Owen Powell**
 
-Being a minute later than he'd planned heading for today's training session meant that Powell was just late enough to run into Technical Sergeant Kovač coming down the hall the other way, struggling under a cardboard box that she could have fit inside. "Uh…Delivery for you, Major."
+Being a minute later than he'd planned heading for today's training session meant that Powell was just late enough to run into Technical Sergeant Kovač coming down the hall the other way, struggling under a cardboard box that she could have fit inside. "Uh...Delivery for you, Major."
 
 Powell stood and brought his hands together in a single eager clap. "Outstanding." he declared. "I ordered those a *month* ago."
 
@@ -1549,7 +1549,7 @@ The huddle broke up, everyone headed for their respective loadout station to gra
 
 *"Yeah pal. I would too, but trust me, right? We don't put our best at risk until we have to."*
 
-Arés' silence spoke volumes on what he thought of that assessment. "*Legs…"*
+Arés' silence spoke volumes on what he thought of that assessment. "*Legs..."*
 
 *"Nah mate. Said that for a reason. I'd rather have one of you bored and a jump away than fifty other medics right next to me in the fight, and you'd better bloody believe I mean that."*
 
@@ -1577,7 +1577,7 @@ Today, there were no such shenanigans. The Aggressors were a blur, emptying each
 
 The Defenders were no less deadly, but their deadliness was more methodical. Laying sensors and mines behind them, carrying spare ammo for the Aggressors, watching the Aggressors' backs, disarming traps and overcoming engineering and technical challenges. When the team had to climb "up" a long hallway that had had its gravity rotated by ninety degrees, the Defenders were the ones who deployed the ropes.
 
-There were firefights against an entrenched squad of simulated Chehnasho troops, easily brushed aside. There was a desperate battle against a pack of flying blades, one of which only *narrowly* failed to "kill" Firth. There was a holographic Vulza—Price dodged a snap of its jaws, wrapped his arms around its snout and held on while Blaczynski bayoneted it in the eye. It took nearly twenty minutes for Vandenberg and Akiyama to disarm a particularly nasty electrical discharge trap, while the rest of the men dug in and warded off probing attacks by an increasingly desperate Hierarchy force…
+There were firefights against an entrenched squad of simulated Chehnasho troops, easily brushed aside. There was a desperate battle against a pack of flying blades, one of which only *narrowly* failed to "kill" Firth. There was a holographic Vulza—Price dodged a snap of its jaws, wrapped his arms around its snout and held on while Blaczynski bayoneted it in the eye. It took nearly twenty minutes for Vandenberg and Akiyama to disarm a particularly nasty electrical discharge trap, while the rest of the men dug in and warded off probing attacks by an increasingly desperate Hierarchy force...
 
 Which turned out to be a distraction. No sooner was the trap disarmed and the squad retreating into the room than a gunship—an illusion, projected on the huge "window" that ran the length of the room – decloaked and began to fire indiscriminately through the glass. A quick jerk of the gravity approximated the room decompressing. They all grabbed handholds and so none of them were "spaced" by the simulated blowout, but *finally*, three of the lads were forced to obey the rules of the simulation and lie down inactive as their MILES systems reported incapacitating hits.
 
@@ -1621,7 +1621,7 @@ Powell took his time down the ladder and strolled thoughtfully across the concre
 
 "Master sergeant." he said quietly, greeting Legsy. "I'd like to hear your reasons for aborting the raid and pulling out, please."
 
-"Sir. The longer we took, the more likely the Hierarchy mind was to have just deleted the data. With all the lads up and running I was happy to take that chance, but after we got stuck on that trap and took casualties…"
+"Sir. The longer we took, the more likely the Hierarchy mind was to have just deleted the data. With all the lads up and running I was happy to take that chance, but after we got stuck on that trap and took casualties..."
 
 "You deemed it prudent to preserve assets?"
 
@@ -1639,7 +1639,7 @@ He tucked his thumbs into his belt and looked up and down the line. "What we kno
 
 "*Yes sir."* They nodded, seeing and understanding what he was saying.
 
-"Right. This isn't the result we were hoping for today." he said, and saw them all nodding and thinking. "…But it was good enough. Kovač!"
+"Right. This isn't the result we were hoping for today." he said, and saw them all nodding and thinking. "...But it was good enough. Kovač!"
 
 The sergeant and a handful of other NCOs entered with parade precision, having been waiting as ordered, and the operators all straightened up as they saw the berets being carried on trays towards them, knowing what it meant.
 
@@ -1649,7 +1649,7 @@ Burgess accepted the beret. It was black, with two pins on it—the Vitruvian Ma
 
 "Arés. You're clearly strong enough to carry two men in EV-MASS, but you've got no control over the momentum. Just remember that one man saved is better than three dead. You'd have got them all without even tiring yourself if you'd taken it steady." He handed over the second beret with the green-feet pin, and returned the younger man's salute, keeping his immense pride in the lad to himself. It wouldn't do to seem to have a favourite.
 
-"For our Defenders…I know it's not an emblem of your original training, but for you we've selected the castle. You've wonderfully fallen into your roles as the finest combat engineers ever, and something tells me you won't mind, am I right?"
+"For our Defenders...I know it's not an emblem of your original training, but for you we've selected the castle. You've wonderfully fallen into your roles as the finest combat engineers ever, and something tells me you won't mind, am I right?"
 
 "*Essayons*, sir." Sikes commented.
 
@@ -1659,7 +1659,7 @@ He shared similar words of wisdom and gestures of respect with the remaining Def
 
 He stepped back. "This is a moment to take pride in yourselves, but it's also a moment for humility. We've chosen the black beret for a good reason. Yes, the black of space obviously, but more important is that the black beret is the colour worn by many an ordinary infantryman and marine the world over. It is critical that we all remain grounded, and conscious of the fact that we are all *just servicemen*, fighting for the same reasons as any other."
 
-"You have done what many hundreds of thousands in our home nations' armed services could not…" he continued, but then gestured to Kovač and the men beside her. "…but you would not be SOR without our technicians and support staff. Which is why I want you to help me hand out berets and insignia to everyone else in this regiment. We are the tip of the spear—but without the wood behind it, a speartip alone is a poor weapon."
+"You have done what many hundreds of thousands in our home nations' armed services could not..." he continued, but then gestured to Kovač and the men beside her. "...but you would not be SOR without our technicians and support staff. Which is why I want you to help me hand out berets and insignia to everyone else in this regiment. We are the tip of the spear—but without the wood behind it, a speartip alone is a poor weapon."
 
 "*Yes sir."* they seemed eager to do as he had said, and he allowed himself to smile at the fierce pride shining in their faces.
 
@@ -1673,11 +1673,11 @@ He stepped back. "This is a moment to take pride in yourselves, but it's also a 
 
 **Charlotte Gilroy**
 
-Being tall and slim meant that Charlotte had always suffered in the cold, and there was just no substitute on dark frozen evenings for pajamas, loungewear, two blankets, a hot chocolate…and a nice warm boyfriend on the couch.
+Being tall and slim meant that Charlotte had always suffered in the cold, and there was just no substitute on dark frozen evenings for pajamas, loungewear, two blankets, a hot chocolate...and a nice warm boyfriend on the couch.
 
 For once, they were actually hanging out at home, rather than Sean's house. Their place was a student flat that she, Ben and Ava could *just* afford on their combined housing allowance. Two bedrooms, a tiny bathroom, and a small shared space that did the work of kitchen, dining room and living room all in one.
 
-At least…She and Ben were hanging out. Ava was busy getting ready, and Sean was busy Ava-watching. If Charlotte had been forced to pick a word to describe his expression, it might have been "guarded". Sean usually had the light of intellectual good humour in his eyes and a slight smile around his mouth, as if he'd got the joke on life and was just waiting for everybody else to get it so they could laugh together.
+At least...She and Ben were hanging out. Ava was busy getting ready, and Sean was busy Ava-watching. If Charlotte had been forced to pick a word to describe his expression, it might have been "guarded". Sean usually had the light of intellectual good humour in his eyes and a slight smile around his mouth, as if he'd got the joke on life and was just waiting for everybody else to get it so they could laugh together.
 
 Seeing him look tense, stressed and serious was a new one on her, even though only somebody who knew him well would have noticed.
 
@@ -1689,7 +1689,7 @@ Sean stood up and headed for the door.
 
 "Sean?"
 
-Sean cleared his throat. "We're…out of milk." he grunted.
+Sean cleared his throat. "We're...out of milk." he grunted.
 
 To her credit, Ava's happy buzzing ceased, and she rushed up to him and gave him a reassuring kiss. "Okay." she said. "You go get milk."
 
@@ -1697,7 +1697,7 @@ To her credit, Ava's happy buzzing ceased, and she rushed up to him and gave him
 
 "It's okay." She promised. "I'd like for you to meet him, though."
 
-"…I'll try." Sean promised unconvincingly, and let himself out.
+"...I'll try." Sean promised unconvincingly, and let himself out.
 
 Ava's shoulders dropped as the door closed, but she picked herself up again after a second and turned around. "How do I look?"
 
@@ -1711,7 +1711,7 @@ They let her bustle some more until she suddenly laughed aloud. "Hah! Message fr
 
 "Good to know he's able to laugh about this." Ben commented.
 
-"…I know it's hard on him." Ava replied. "But…well, we talked about this before we started. What more can I do?"
+"...I know it's hard on him." Ava replied. "But...well, we talked about this before we started. What more can I do?"
 
 The creaking of the stairs up to their door stopped Charlotte from answering. She just shrugged and smiled weakly.
 
@@ -1727,15 +1727,15 @@ This was largely futile, considering that after he'd finally been able to weaken
 
 Ava made the introductions. "Adam: Ben, Charlotte."
 
-There was a round of "nice to meet you"s and "Hi"s with matching handshakes and it dawned on Charlotte that Adam was actually…rather dorky. He geeked out hugely over Ben's tattoos when the Koi carp Ben was sporting today decided to swim up his sleeve and down the other arm just as they were shaking hands.
+There was a round of "nice to meet you"s and "Hi"s with matching handshakes and it dawned on Charlotte that Adam was actually...rather dorky. He geeked out hugely over Ben's tattoos when the Koi carp Ben was sporting today decided to swim up his sleeve and down the other arm just as they were shaking hands.
 
 "Oh my *God* where do I get those?!" He demanded. "Can you turn them off so they don't show?"
 
-"Yep." Ben replied, answering the second question first. "Mind you, these cost me a couple of thousand quid, and…" he extended a forearm alongside Adam's own: The contrast was like comparing a shot glass to a pint mug. "You're a bit of a bigger canvas, mate."
+"Yep." Ben replied, answering the second question first. "Mind you, these cost me a couple of thousand quid, and..." he extended a forearm alongside Adam's own: The contrast was like comparing a shot glass to a pint mug. "You're a bit of a bigger canvas, mate."
 
 "Yeah, but think about what I could have on there!" Adam chuckled. "I could watch *movies*!"
 
-He was…*likeable*. Nice! And when Charlotte made eye contact with Ava as Ben slapped his forehead and bemoaned never thinking of that, the look she got back had an undeniable "told-you-so" element to it.
+He was...*likeable*. Nice! And when Charlotte made eye contact with Ava as Ben slapped his forehead and bemoaned never thinking of that, the look she got back had an undeniable "told-you-so" element to it.
 
 "Come on, meatstack." Ava leaned forward and got Adam's attention again. "We're going into the city, remember?"
 
@@ -1747,9 +1747,9 @@ He was…*likeable*. Nice! And when Charlotte made eye contact with Ava as Ben s
 
 "We will." Charlotte promised.
 
-And that was that. Ava gave them a grateful sort of shrug as she left, and they listened to him enthusing as she followed him down the stairs, about seeing Tower Bridge and the Eye and HMS *Belfast* and Buckingham Palace and…
+And that was that. Ava gave them a grateful sort of shrug as she left, and they listened to him enthusing as she followed him down the stairs, about seeing Tower Bridge and the Eye and HMS *Belfast* and Buckingham Palace and...
 
-"So." Ben cleared his throat after the creaking stairs and litany of tourist traps had faded. "He's…a *really* nice guy? How the fuck did that happen?"
+"So." Ben cleared his throat after the creaking stairs and litany of tourist traps had faded. "He's...a *really* nice guy? How the fuck did that happen?"
 
 Charlotte had to nod, watching the door a little warily, not quite sure what to make of this new information. "I don't understand." she agreed, and turned to frown her confusion at Ben. "He's adorkable!"
 
@@ -1757,19 +1757,19 @@ Charlotte had to nod, watching the door a little warily, not quite sure what to 
 
 Charlotte thought about it. "Has she?" She asked eventually. "I mean, you saw how she lit up there, didn't you you?"
 
-"…Yeah." Ben. "I don't think I've ever seen her so animated."
+"...Yeah." Ben. "I don't think I've ever seen her so animated."
 
-"Maybe she *hasn't* been happy recently. Maybe she's just been…"
+"Maybe she *hasn't* been happy recently. Maybe she's just been..."
 
-Ben nodded. "…coping."
+Ben nodded. "...coping."
 
-Charlotte scratched at her bra strap, frowning at something only she could see in deep thought, until Ben slipped an arm around her waist. "Are we…okay with that?" he asked.
+Charlotte scratched at her bra strap, frowning at something only she could see in deep thought, until Ben slipped an arm around her waist. "Are we...okay with that?" he asked.
 
-"I think…Yeah. Or at least, I am." She replied. "I think if she's doing it to cope, so she can get through and have more of *that* then, then…then I can understand."
+"I think...Yeah. Or at least, I am." She replied. "I think if she's doing it to cope, so she can get through and have more of *that* then, then...then I can understand."
 
-"Yeah but…What about Sean?"
+"Yeah but...What about Sean?"
 
-"That's where it falls apart, yeah…" she agreed.
+"That's where it falls apart, yeah..." she agreed.
 
 Neither of them said anything for a little while, and after a bit, Ben turned on the TV.
 
@@ -1783,9 +1783,9 @@ They were in the middle of a report about the Iranian nuclear weapons program wh
 
 Sean dropped his bag on the coffee table and himself into the chair next to it, rubbing at his forehead as if he was trying to iron out the frown, and watched the news with them.
 
-Clearly, he had other things on his mind though. "…So what's he like?"
+Clearly, he had other things on his mind though. "...So what's he like?"
 
-"He's…actually really nice." Charlotte told him, keeping her tone of voice delicate and sympathetic.
+"He's...actually really nice." Charlotte told him, keeping her tone of voice delicate and sympathetic.
 
 "I already knew *that*." Sean told her, dropping his hand into his lap and managing a weak smile.
 
@@ -1793,7 +1793,7 @@ Clearly, he had other things on his mind though. "…So what's he like?"
 
 "'Course I bloody do. Ava's told us that enough times, hasn't she?"
 
-Ben and Charlotte exchanged a glance. "I…didn't really believe it before now." Ben confessed.
+Ben and Charlotte exchanged a glance. "I...didn't really believe it before now." Ben confessed.
 
 "Why not?" Sean asked him.
 
@@ -1803,13 +1803,13 @@ Ben and Charlotte exchanged a glance. "I…didn't really believe it before now."
 
 Sean surged upright, stood there for a second with his face turned away from them, and then heaved a huge sigh and headed for the door. "I'll see you Monday."
 
-Charlotte scrambled out of Ben's lap to try and talk to him, putting a hand on his upper arm. "Sean…"
+Charlotte scrambled out of Ben's lap to try and talk to him, putting a hand on his upper arm. "Sean..."
 
 He turned and made fleeting, unconvincing eye contact. "I'm *fine*, fairy." he lied, using the group's pet nickname for Charlotte.
 
 "You're not, mate." Ben pointed out.
 
-"Well…better me than her then, isn't it? She's suffered enough."
+"Well...better me than her then, isn't it? She's suffered enough."
 
 Charlotte's hand dropped to her side, and he shrugged his jacket on. "I'll see you Monday." he repeated.
 
@@ -1825,7 +1825,7 @@ Charlotte didn't stop him this time.
 
 "Presentable?"
 
-"Well, we’d have preferred you wear a dress, but you ARE here in a military capacity…"
+"Well, we’d have preferred you wear a dress, but you ARE here in a military capacity..."
 
 Rylee suppressed a sigh, and turned it into a smile. "Trust me, I wouldn’t be comfortable in a dress."
 
@@ -1845,7 +1845,7 @@ Not that it would have been anybody’s business even if she'd been in a traditi
 
 She forced aside those kinds of resentful thoughts as the one minute warning was called, and gritted her teeth against the urge to tend to some last-second grooming. She'd only undo all the hard work of the production crew.
 
-The wait ended abruptly—she heard her name announced, rapturous cheering and applause, the band striking up a jazzed-up version of the theme from the old 1960s Star Trek, and she pretended to be delighted and amused by it as she stepped out onto the stage, waving and smiling and shaking hands with the host—David…somebody. She was solid on the David at least, but…oh, no, his full name was part of the show's name, which filled the stage. David Royce.
+The wait ended abruptly—she heard her name announced, rapturous cheering and applause, the band striking up a jazzed-up version of the theme from the old 1960s Star Trek, and she pretended to be delighted and amused by it as she stepped out onto the stage, waving and smiling and shaking hands with the host—David...somebody. She was solid on the David at least, but...oh, no, his full name was part of the show's name, which filled the stage. David Royce.
 
 Settling onto the couch as the applause finally began to fade was a solid relief.
 
@@ -1873,7 +1873,7 @@ Royce politely ignored the interruption. "-then you trained for and flew *Pandor
 
 "That's unusual?"
 
-"Well, I think it was that willingness to roll my sleeves up and get elbow-deep in the machinery that actually got me onto *Pandora*, because…y'know, she was a prototype, a testbed, there was always something on the verge of going wrong with her, you know?" Rylee said. "But nowadays it's a point of pride in the wing, you look after your sled. You get to know her and love her and…"
+"Well, I think it was that willingness to roll my sleeves up and get elbow-deep in the machinery that actually got me onto *Pandora*, because...y'know, she was a prototype, a testbed, there was always something on the verge of going wrong with her, you know?" Rylee said. "But nowadays it's a point of pride in the wing, you look after your sled. You get to know her and love her and..."
 
 "Love her?"
 
@@ -1881,21 +1881,21 @@ Royce politely ignored the interruption. "-then you trained for and flew *Pandor
 
 "Okay, go on." Royce challenged and humoured her. "What are *Firebird*'s?"
 
-"Uh…nothing major. Just…little things like the way her Field-Assisted Landing System is always the first thing to need recalibrating, or the way the hum of the gyroscope changes as we fly…That kind of thing."
+"Uh...nothing major. Just...little things like the way her Field-Assisted Landing System is always the first thing to need recalibrating, or the way the hum of the gyroscope changes as we fly...That kind of thing."
 
 Royce smiled, and Rylee knew that smile. It was the one that came before the questions started to get more personal.
 
-"So…" he began. "is *Firebird* the only love in your life, or…?"
+"So..." he began. "is *Firebird* the only love in your life, or...?"
 
 "I'm *very* career focused." Rylee said, dismissively.
 
 "Your career can't take up ALL your time though."
 
-"Military careers are…they're not fair on any partner you might have, so I've preferred to not get drawn into anything long-term like that."
+"Military careers are...they're not fair on any partner you might have, so I've preferred to not get drawn into anything long-term like that."
 
 Royce raised an eyebrow. "Surely there are people you care about?"
 
-"Of course there are!" Rylee said. "Some of them aren't even human! I just don't think it's fair to devote years of your life to the service and force your partner to take second place. I've got nothing but respect for the guys and girls who can make it work but…Heck, the '*Dear John*' letter is *named* for something that happens to soldiers all the time. And what about the kids? You ever see that picture of this little boy being handed his daddy's folded flag? And he's trying not to cry?"
+"Of course there are!" Rylee said. "Some of them aren't even human! I just don't think it's fair to devote years of your life to the service and force your partner to take second place. I've got nothing but respect for the guys and girls who can make it work but...Heck, the '*Dear John*' letter is *named* for something that happens to soldiers all the time. And what about the kids? You ever see that picture of this little boy being handed his daddy's folded flag? And he's trying not to cry?"
 
 She shrugged, and deflated. "I cried when I saw it." she confessed, glancing nervously at the camera, even as the audience erupted into sympathetic applause.
 
@@ -1935,7 +1935,7 @@ Royce clearly decided that he couldn't press the privacy issue any further witho
 
 "So the SOR are the really science-fiction ones." Royce observed.
 
-"I guess." Rylee laughed. "But they're as nice a bunch of guys as you could meet, they've…I mean, they're committed to saving lives and serving other people in a BIG way, they've gone through *hell* to make it happen, and, I've met them, they're all really humble, sweet guys. Y'know, they met me and they just wanted to take some selfies, and I was like '*who's taking the selfie with who here?*' because…yeah, I'm in awe of them, I really am."
+"I guess." Rylee laughed. "But they're as nice a bunch of guys as you could meet, they've...I mean, they're committed to saving lives and serving other people in a BIG way, they've gone through *hell* to make it happen, and, I've met them, they're all really humble, sweet guys. Y'know, they met me and they just wanted to take some selfies, and I was like '*who's taking the selfie with who here?*' because...yeah, I'm in awe of them, I really am."
 
 "Did you hear the content of that leaked advisory?" Royce asked, referring to a minor scandal of a few months previously where a memo doing the rounds in the Pentagon had somehow found its way onto the Internet. Rylee was onto him now, and knew that he was only asking because that was his job, so she just nodded, calmly.
 
@@ -1943,17 +1943,17 @@ Royce clearly decided that he couldn't press the privacy issue any further witho
 
 "Doesn't it concern you that we're still using alien-made shuttlecraft?"
 
-"I've seen those shuttles in action," Rylee said "And…yeah, okay, as a pilot, they suck. They're idiot-proof, unarmed, unarmored civilian models, so they just don't perform to the kind of high standard that the military demands…but they work. And, right now, we don't have a human-made alternative that does."
+"I've seen those shuttles in action," Rylee said "And...yeah, okay, as a pilot, they suck. They're idiot-proof, unarmed, unarmored civilian models, so they just don't perform to the kind of high standard that the military demands...but they work. And, right now, we don't have a human-made alternative that does."
 
 "Why not?"
 
-"Well…okay, look, we got really lucky with *Pandora* and the TS/2, AND with some other projects like the V-class and the San Diego Class because people—real, qualified aerospace engineers—had already put serious thought into designing them as, like, a thought experiment right down to every rivet and solder. And then when all the alien technology came along, modifying those designs turned out to be pretty easy."
+"Well...okay, look, we got really lucky with *Pandora* and the TS/2, AND with some other projects like the V-class and the San Diego Class because people—real, qualified aerospace engineers—had already put serious thought into designing them as, like, a thought experiment right down to every rivet and solder. And then when all the alien technology came along, modifying those designs turned out to be pretty easy."
 
 "So nobody had designed an orbit-to-ground transport before now?" Royce asked, sounding sceptical.
 
-"Transports aren't like those other two." Rylee pointed out. "You can make some assumptions about…how big and heavy the pilot of a strike craft is going to be, how many crew are going to fit onto a destroyer. But what about the transport? Until you know about how many people it's going to need to carry and how much gear they've got with them and…"
+"Transports aren't like those other two." Rylee pointed out. "You can make some assumptions about...how big and heavy the pilot of a strike craft is going to be, how many crew are going to fit onto a destroyer. But what about the transport? Until you know about how many people it's going to need to carry and how much gear they've got with them and..."
 
-She tailed off expressively, to indicate the long list of things that needed to be known before such a design could even be started. "Until you know all that, then you can't progress beyond speculation. Then it comes down to compromises. A small ship's harder to detect and intercept, but if it's got enough engine and power on board to accelerate as hard as we'd like then there's not much room for the cargo. 'scuse me…"
+She tailed off expressively, to indicate the long list of things that needed to be known before such a design could even be started. "Until you know all that, then you can't progress beyond speculation. Then it comes down to compromises. A small ship's harder to detect and intercept, but if it's got enough engine and power on board to accelerate as hard as we'd like then there's not much room for the cargo. 'scuse me..."
 
 She took a sip of water before continuing. "Anything capable of meeting our performance requirements is going to be huge, and then you can't actually use the flight deck on any of the classes of ship we've got right now. Not even the big retrofitted alien ones. So, that means docking ports. Well, neither the V-class nor San Diego have *got* docking ports, because none of our existing docking port designs were meant to be used on an accelerating starship."
 
@@ -1961,13 +1961,13 @@ She waved her hands expressively back and forth as she spoke, ending with a snap
 
 Royce sat back. "So, do you have any idea when somebody will get it right?" he asked.
 
-"I couldn't say." Rylee shook her head. "I'm not aware of any promising designs in the works, and if there *were* any I wouldn't be at liberty to discuss them but…to be honest, I think we're going to have to do without for a few years yet. It's going to be a tough one to solve, I think."
+"I couldn't say." Rylee shook her head. "I'm not aware of any promising designs in the works, and if there *were* any I wouldn't be at liberty to discuss them but...to be honest, I think we're going to have to do without for a few years yet. It's going to be a tough one to solve, I think."
 
 "But you're confident it will be solved." Royce observed.
 
 "Oh yeah." Rylee nodded. "Eventually. But designing any vehicle just doesn't happen overnight, let alone something like a shuttle craft."
 
-"Rylee, it's been great having you on the show…"
+"Rylee, it's been great having you on the show..."
 
 "It's been great being here."
 

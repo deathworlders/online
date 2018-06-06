@@ -14,7 +14,7 @@ aliases:
 
 Regaari's head-duck of agreement had an unconsciously immature, cubbish quirk to it that came naturally when Giymuy engaged her Mother's instincts. The Mother-Supreme was now silver from eartip to foot and thoroughly venerable. Over the years of working together, her relationship with Regaari had thawed from purely professional, to something of a friendship, but she was still *the* Mother, and when she gave advice, deference was instinctive.
 
-"I know…" he agreed, reluctantly. "'*Human ideas*, *eroding Gaoian culture*.' I've been staying well abreast of the backlash. We both have, which is why we've only…talked about it."
+"I know..." he agreed, reluctantly. "'*Human ideas*, *eroding Gaoian culture*.' I've been staying well abreast of the backlash. We both have, which is why we've only...talked about it."
 
 "Even talking about it is '*heresy*', in some camps."
 
@@ -28,7 +28,7 @@ Regaari caught the sad irony in Giymuy's agreement. "We're a free society." he p
 
 "The humans *need* those things coded in law." Regaari pointed out. "In fact they were, from what I gather, something of a revolutionary concept when first introduced. We meanwhile have always taken them as self-evident. You don't need a law granting people the freedom to.. to breathe, or to eat."
 
-Giymuy chuffed. "'*We hold these truths to be self-evident*…'" she quoted.
+Giymuy chuffed. "'*We hold these truths to be self-evident*...'" she quoted.
 
 Regaari, being the one who had first introduced that document to her, recognised the quotation instantly. "Missing, of course, the irony that if they really WERE self-evident then they would never have had to write them down."
 
@@ -38,15 +38,15 @@ Giymuy duck-nodded herself. "Meanwhile, we DID find them self-evident." she obse
 
 "Dare I whisper the word '*monogamy*'?"
 
-"It's not…she's had other cubs since mine. It's just that we still enjoy each others' company and…we still feel much the same as we did when we sired that cub." Regaari stood and paced the room. "And this, somehow, is a brewing scandal. A male and a female liking each other and wishing to spend time together, rather than simply remembering one another as a fond, temporary dalliance? Perhaps those truths aren't so self-evident after all, perhaps Gaoians have all just…thought too much alike up until now."
+"It's not...she's had other cubs since mine. It's just that we still enjoy each others' company and...we still feel much the same as we did when we sired that cub." Regaari stood and paced the room. "And this, somehow, is a brewing scandal. A male and a female liking each other and wishing to spend time together, rather than simply remembering one another as a fond, temporary dalliance? Perhaps those truths aren't so self-evident after all, perhaps Gaoians have all just...thought too much alike up until now."
 
 Giymuy chittered loudly and at length at that one. "Oh!" she gasped, trying to recover. "If only we did! There would be no need for a Mother-Supreme and I could retire and live out my time surrounded by cubs and happy young Mothers."
 
-She regained her composure, and noticed the slightly offended set of Regaari's ears. "Ah, I am sorry. You may be right. We are discussing the…*adulteration* of our culture by alien ideas, after all."
+She regained her composure, and noticed the slightly offended set of Regaari's ears. "Ah, I am sorry. You may be right. We are discussing the...*adulteration* of our culture by alien ideas, after all."
 
 "That was probably inevitable the moment we made First Contact." Regaari grumbled.
 
-"*We* know that." Giymuy gestured to the station they were aboard. "Many Gaoians may not. And this is the root of our problem—we are being changed by these ideas whether we like it or not. These ideas of '*heresy*' and '*taboo*' are just as much a pollution of what it means to be Gaoian as…pizza, pancakes, meditation and monogamy. Then there's poor Myun. I never imagined that I'd see the day when a young, healthy, intelligent and very pretty female was *shunned* because no male will court her for fear of the political consequences."
+"*We* know that." Giymuy gestured to the station they were aboard. "Many Gaoians may not. And this is the root of our problem—we are being changed by these ideas whether we like it or not. These ideas of '*heresy*' and '*taboo*' are just as much a pollution of what it means to be Gaoian as...pizza, pancakes, meditation and monogamy. Then there's poor Myun. I never imagined that I'd see the day when a young, healthy, intelligent and very pretty female was *shunned* because no male will court her for fear of the political consequences."
 
 Regaari snarled a little angry laugh. "Oh yes. they'll hire her to provide hand-to-hand combat instruction, but *mating* with the '*freak*'?" He growled a little. "If she wasn't young enough to be one of my cubs, I might approach her with a contract myself just to spite them."
 
@@ -54,7 +54,7 @@ Regaari snarled a little angry laugh. "Oh yes. they'll hire her to provide hand-
 
 Regaari fell silent. He was still considering the suggestion when the communicator in his pocket buzzed. He tapped it with a claw. "They're ready for you in the council chamber." he said.
 
-"It's about time…where's my stick?"
+"It's about time...where's my stick?"
 
 Regaari handed it to her. Giymuy had many walking sticks these days, and each one was a calculated statement. For today, she had selected the natural, knurled one made of Cimbrean Pinkwood, a now-extinct species that had once occupied one small portion of a continent that was now long swallowed up by deathworlder terraforming. The humans had logged the lot rather than let it be ruined by the advancing tide of disease, and had sold the wood to collectors to drum up funds. Giymuy had snapped up three tree's worth. Craftsmen from every clan on Gao and beyond had vied for the privilege of creating the sticks, desk and curiosities she had commissioned, predicting that the prestige of creating for her would improve their own mating chances.
 
@@ -64,7 +64,7 @@ It was quite the little procession. Giymuy had chosen simple charcoal robes that
 
 This was a big occasion: A galactic broadcast that had taken some negotiation to secure. Even Regaari didn't know what the Mother-Supreme had planned for the address she was about to give to the Dominion Grand Council, but he was looking forward to it.
 
-*Every* species had automatic membership and presence on the Grand Council, even if they were not Dominion members. Even if that species was an enthusiastic member of the Celzi Alliance, there were dissenters, ones who had chosen to side with the Dominion, representing their species. An unpopular minority at home, perhaps, but still there. The only vacant seats belonged to the declining species, who no longer cared to show up…And to the humans.
+*Every* species had automatic membership and presence on the Grand Council, even if they were not Dominion members. Even if that species was an enthusiastic member of the Celzi Alliance, there were dissenters, ones who had chosen to side with the Dominion, representing their species. An unpopular minority at home, perhaps, but still there. The only vacant seats belonged to the declining species, who no longer cared to show up...And to the humans.
 
 There was a space for them, but it remained unoccupied. Regaari wasn't even sure if the deathworlders knew that space existed.
 
@@ -82,7 +82,7 @@ The Chairman considered her for a while, then backed down. "Then please. Continu
 
 Giymuy accepted the concession with a slight bow to the chair, then turned to address the Council as a whole.
 
-"Gaoians and Humans share a fondness for Base Ten mathematics." she began. "Which is why I note that, by the calendar of the planet Earth, It has now been exactly ten years since the Hunters raided their city of Vancouver. Less than three of their years later, the human race achieved faster-than-light manned flight for the first time. Those ten years have been…tumultuous and interesting, and often controversial."
+"Gaoians and Humans share a fondness for Base Ten mathematics." she began. "Which is why I note that, by the calendar of the planet Earth, It has now been exactly ten years since the Hunters raided their city of Vancouver. Less than three of their years later, the human race achieved faster-than-light manned flight for the first time. Those ten years have been...tumultuous and interesting, and often controversial."
 
 She tapped her stick down, twice. "The Dominion's response to this singular deathworld species has been one of fear and mistrust. This stick I am holding is a symbol of why that fear is justified, being made from the wood of a tree now extinct due to them. I am not here to argue against the policy of the last ten years—the past cannot be undone—but to share a vision of policy for the *next* ten."
 
@@ -106,11 +106,11 @@ The male's ears were pricked up and his teeth bared—sure signs of stress, aler
 
 "Who by?"
 
-"That's still being…" His ears rose, then flattened against his skull.
+"That's still being..." His ears rose, then flattened against his skull.
 
 "Regaari?"
 
-"…The Swarm of Swarms." he quickened the pace. "The Hunters are back."
+"...The Swarm of Swarms." he quickened the pace. "The Hunters are back."
 
 * * *
 
@@ -206,7 +206,7 @@ He turned. The Mother-Supreme was leaning heavily against a wall, panting and gr
 
 She slumped, sliding to the ground. Concerned males gathered round and Regaari rushed to her side. "Giymuy!"
 
-"Oh, don't…" she coughed. "At least my age is getting me first, before the Hunters do."
+"Oh, don't..." she coughed. "At least my age is getting me first, before the Hunters do."
 
 The men exchanged glances, aware that they weren't to be so lucky.
 
@@ -214,7 +214,7 @@ The men exchanged glances, aware that they weren't to be so lucky.
 
 "Don't be so stupid!" she snapped, then her breath rattled horribly. She was clearly in hideous pain.
 
-She continued In a gentler tone. "Regaari. *You* can escape. I will only slow you down, and so will these soldiers. Get…" she heaved and coughed, but fought through it. "Get to the diplomatic shuttle, and activate the emergency displacement recall…Tell them…" her strength was failing by the second, and when she repeated "tell them…" she was almost inaudible.
+She continued In a gentler tone. "Regaari. *You* can escape. I will only slow you down, and so will these soldiers. Get..." she heaved and coughed, but fought through it. "Get to the diplomatic shuttle, and activate the emergency displacement recall...Tell them..." her strength was failing by the second, and when she repeated "tell them..." she was almost inaudible.
 
 Regaari leaned in close. He only barely heard her last words.
 
@@ -232,7 +232,7 @@ He closed her eyes. "I'll tell them." he promised.
 
 They did so. Gaoian gravity was just a little higher than Galactic Standard, and between two of them, he was launched to the height of a ceiling that could accommodate even the tallest Rrrrtktktkp'ch or bulkiest Guvnurag. He caught the edge, swung there for a second, and then hauled himself up and into the air duct.
 
-"And…third?" One of the soldiers asked.
+"And...third?" One of the soldiers asked.
 
 Regaari unslung his gun and got his bearings.
 
@@ -250,7 +250,7 @@ Caruthers acknowledged the communication with a clear nod and eye contact. "By m
 
 *Violent*'s Captain—Commander Anthony Miller—nodded. "I agree sir."
 
-"Signal the fleet to prepare to jump on my mark…"
+"Signal the fleet to prepare to jump on my mark..."
 
 He was pleased that it took only some five seconds before "All ships ready to jump, Admiral." was called.
 
@@ -426,7 +426,7 @@ Why they should do so was incomprehensible to the Alpha of the Brood-that-Builds
 
 It sensed that there was no answer to that conundrum within the remit of engineering.
 
-For their part, the Hunters' responses to human weaponry just didn't seem to be giving them the edge that the Builder had hoped for. The guns were just too heavy, and needed to be held in too specific a way so as to avoid injury. If only they could capture a working example of the weapons the humans themselves were using…
+For their part, the Hunters' responses to human weaponry just didn't seem to be giving them the edge that the Builder had hoped for. The guns were just too heavy, and needed to be held in too specific a way so as to avoid injury. If only they could capture a working example of the weapons the humans themselves were using...
 
 As they watched, a family of spindly blue Prey were herded into the territory the humans had seized and vanished through the displacement device. Just behind them was the wounded Large Prey, actually being *carried* by two of the Deathworlders. The Builder revised its estimates as to human maximum muscle strength upwards by several percentage points.
 
@@ -450,7 +450,7 @@ The latest generation, available only to Whitecrests, could admit pulse fire fro
 
 He turned to the ship and froze cold, realising that the Hunters had already crippled it, recognising the fact that it was a possible escape craft. He had no way off the station.
 
-No, there had to be an alternative, something he'd overlooked…
+No, there had to be an alternative, something he'd overlooked...
 
 A crawling sense of paranoia made him look up.
 
@@ -464,7 +464,7 @@ It replied by biting off his left paw just above the wrist.
 
 It was an almost dainty gesture, and Hunter teeth were so sharp that Regaari was almost able to see it happen without feeling it. One moment it was his paw, the next it was a meaty morsel, frothing blood in the creature's mouth, crunching and splintering as the hunter bit through the bone to swallow what had once been a part of him.
 
-It *laughed*. There was no epithet in Gaori to describe how much he hated it for that. The…*beast* gloated, savoring its kill. He snorted nasal mucus and spat it into the creature's remaining eye, too proud to give it the satisfaction of fearing it. He *hated* it, hated everything it stood for, and his last thought was to hope fervently that it would choke on him.
+It *laughed*. There was no epithet in Gaori to describe how much he hated it for that. The...*beast* gloated, savoring its kill. He snorted nasal mucus and spat it into the creature's remaining eye, too proud to give it the satisfaction of fearing it. He *hated* it, hated everything it stood for, and his last thought was to hope fervently that it would choke on him.
 
 Instead, its head twitched to look over his shoulder, and it dropped him, bringing up one of those large long guns.
 
@@ -500,7 +500,7 @@ He kept his head down. There was more gunfire, shouting, the deck plating shook.
 
 "They're coming up the left!"
 
-"They're fucking suicidal…BASEBALL, REBAR, get up on the right there!"
+"They're fucking suicidal...BASEBALL, REBAR, get up on the right there!"
 
 The deck plating dented under their weight as the pinned three dashed from where they'd been hiding and made it into cover beside him. "Good shooting, Hoss."
 
@@ -508,7 +508,7 @@ The deck plating dented under their weight as the pinned three dashed from where
 
 "I took a hit, didn't penetrate. Those guns of theirs hit hard though."
 
-"Watch the ones coming down the middle…fuck! NERVEJAM!"
+"Watch the ones coming down the middle...fuck! NERVEJAM!"
 
 "*Oh no you don't*!"
 
@@ -522,7 +522,7 @@ A storm of shooting. Heavy footfalls, more shouting, and something large was dra
 
 "They're still coming!"
 
-"Throwing grenade…FRAG OUT!"
+"Throwing grenade...FRAG OUT!"
 
 An explosion that left his ears ringing in protest. Station damage alarms started wailing nearby, adding to the chorus of violence.
 
@@ -530,15 +530,15 @@ An explosion that left his ears ringing in protest. Station damage alarms starte
 
 "He needs to be jumped to triage right now, sir."
 
-There was a deadly, horrible pause. "Fookin'.…can we make the array?"
+There was a deadly, horrible pause. "Fookin'....can we make the array?"
 
 "I don't think so, sir."
 
-"…THOR, demolish it. We're EA jumping."
+"...THOR, demolish it. We're EA jumping."
 
 "Major. He's dead, sir."
 
-"…Aye. Grab the ETs and fall back, that way. Legsy, HIGHLAND! Cover the retreat."
+"...Aye. Grab the ETs and fall back, that way. Legsy, HIGHLAND! Cover the retreat."
 
 Regaari was hoisted up with Deathworlder strength and carried. There were three others with him: a Corti and two Kwmbwrw, who seemed to be equally as petrified by their rescuers as by the Hunters.
 
@@ -546,7 +546,7 @@ He could see over his carrier's shoulder as they ran. The one in charge paused l
 
 The one carrying him muttered something. His helmet decided that the *sotto voce* delivery was not intended for translation, but Regaari understood just enough English to understand him.
 
-"…Goodbye, STERLING."
+"...Goodbye, STERLING."
 
 * * *
 
@@ -574,7 +574,7 @@ There was muffled speech, then shouting as the humans who had stayed behind retr
 
 "Right. Last seal check, blow it on my go."
 
-The humans scrambled to check each other's suits, and all loudly declared them satisfactory, then the one carrying him turned away and hunkered down and…
+The humans scrambled to check each other's suits, and all loudly declared them satisfactory, then the one carrying him turned away and hunkered down and...
 
 Losing his hand turned out to be only the *second*  most violent thing that happened to Regaari that day. The first was any station-dweller's nightmare—the total catastrophic failure of an outside wall, and the resulting depressurisation that flung them and everything else in the room out into space. Crushing G-forces caused him to black out for a second.
 
@@ -608,25 +608,25 @@ Regaari pushed his nose up to the window of his bag, which was now a taut cylind
 
 They fell in silence for a while. There was a pale blue glow just building up past the limb of WARHORSE's limbs when Regaari finally spoke. "I'm curious. Why?"
 
-"*Why…what, man?"*
+"*Why...what, man?"*
 
-"The Dominion's treated you-" he spoke in English as best as a Gaoian mouth could "-*like shit*. You lost a presumably elite soldier today…"
+"The Dominion's treated you-" he spoke in English as best as a Gaoian mouth could "-*like shit*. You lost a presumably elite soldier today..."
 
 "*One of the very fuckin' best."* WARHORSE agreed. There was an emotional edge to his voice, but Regaari couldn't interpret what that edge might be. Not that it was difficult to guess.
 
-"Not to…belittle his sacrifice." he said, carefully "But why?"
+"Not to...belittle his sacrifice." he said, carefully "But why?"
 
 "*Hey, I don't know the why of it, man."* WARHORSE replied. "*But my whole thing is saving lives. That's, like, my job, my purpose in life. So, I'm just doing what I do, you know?"*
 
 "You lost a man." Regaari repeated.
 
-"*Yeah. And I'm going to miss him like crazy, he was one of my brothers, man. But we SAVED like…what, fifty? Sixty?"*
+"*Yeah. And I'm going to miss him like crazy, he was one of my brothers, man. But we SAVED like...what, fifty? Sixty?"*
 
 "That many?"
 
 "*Something like."*
 
-"Still, risking twelve elite human soldiers to save fifty or sixty ungrateful politicians…"
+"Still, risking twelve elite human soldiers to save fifty or sixty ungrateful politicians..."
 
 "*A life is a life, man. Doesn't matter if it's human, Gaoian, Kwmbwrw, or that little grey fuck on BASEBALL's chest."*
 
@@ -642,11 +642,11 @@ There was a flicker of orange light. "Re-entry plasma?"
 
 The translator spat out WARHORSE's response in the form of the Gaori word for "footwear" with a questioning uptick.
 
-"Her real name has this awkward sound at the start. Like *shhh* but more…buzzing."
+"Her real name has this awkward sound at the start. Like *shhh* but more...buzzing."
 
-"…*Wait, not Jew? You had a Jewish friend?"*
+"...*Wait, not Jew? You had a Jewish friend?"*
 
-"I don't know what that is. Her name was a longer and…*flatter* sound. She said she was *Chinese-Canadian*?"
+"I don't know what that is. Her name was a longer and...*flatter* sound. She said she was *Chinese-Canadian*?"
 
 "*Aah, right. Gotcha. Yah, most other humans struggle with Chinese names too."*
 
@@ -654,7 +654,7 @@ The plasma outside was now a steady orange torrent. The bag's window was clearly
 
 Then the shaking started.
 
-"Is it…meant to do this?"
+"Is it...meant to do this?"
 
 "*You got me, compadre. This is the first time I've done this."*
 
@@ -674,7 +674,7 @@ He hadn't thought to press the button on the communicator, but now WARHORSE's vo
 
 "What's left of me is doing fine."
 
-"*Bueno*. Last hit coming up in three…two…"
+"*Bueno*. Last hit coming up in three...two..."
 
 Regaari grimaced as there was a thump and several jolts, before the human fell down backwards, careful to let Regaari fall on top rather than the other way round.
 
@@ -698,7 +698,7 @@ WARHORSE blinked at him then stood up. "Didn't catch one word of that, man." he 
 
 Regaari picked it up and offered it to him, feeling his arm wobble from the weight.
 
-"Thanks, man." WARHORSE wriggled it back onto his head, muttering angrily to himself. "*Fucking amateur, Arés, don't be stupid…Never remove your helmet, dumbass."*
+"Thanks, man." WARHORSE wriggled it back onto his head, muttering angrily to himself. "*Fucking amateur, Arés, don't be stupid...Never remove your helmet, dumbass."*
 
 "I *said*." Regaari repeated, when it was back on and the translator was working again "That we're standing on the only known class two planet in this galaxy, and you're from a Class twelve. You could do serious harm if you're not careful."
 
@@ -716,7 +716,7 @@ He checked it was seated properly by throwing his head back and forth a bit and 
 
 He rearranged some of his equipment and shrugged the ruck on again as if it was nothing, causing Regaari's boggling over the helmet to intensify. He'd experienced for himself just how strong Xiù had been, but between the stone, that rucksack, and the easy way he had carried Regaari himself and all that other gear back on the station, it was plain that WARHORSE vastly outstripped her.
 
-The human pressed firmly on the side of his helmet. "STAINLESS, WARHORSE." he announced. "Arrived DZ, one healthy ET in tow, I'm at, uh…" he checked the device in his hand and reeled off a string of numbers. "Seeking cover and awaiting orders."
+The human pressed firmly on the side of his helmet. "STAINLESS, WARHORSE." he announced. "Arrived DZ, one healthy ET in tow, I'm at, uh..." he checked the device in his hand and reeled off a string of numbers. "Seeking cover and awaiting orders."
 
 There was silence for a few seconds and then -
 
@@ -748,7 +748,7 @@ Regaari paused, then twitched his whiskers resignedly and did as the human sugge
 
 They headed out. WARHORSE quickly settled into a steady rhythm of big, long bounding strides that ate up the ground, and just *kept going*. It wasn't quite running, so much as a vigorous, fast march, and it was deceptive. Regaari wouldn't have guessed they were moving very fast, but when he glanced behind them he saw that their landing site was already distant, and receding.
 
-He played with the '*binos*', adjusting their width, having to set them to their widest to fit his own face, but once he did so and toyed with the wheel on top and its functions, he swiftly got the hang of it. It was…strange, handling a piece of human technology, made by humans for human use. It certainly didn't feel like a lower-tech species' gear, either. It may have lacked a few of the advanced features that he'd have found in a Gaoian equivalent, but optically it was superb. The only real burr in his fur that he could find to complain about was their heaviness.
+He played with the '*binos*', adjusting their width, having to set them to their widest to fit his own face, but once he did so and toyed with the wheel on top and its functions, he swiftly got the hang of it. It was...strange, handling a piece of human technology, made by humans for human use. It certainly didn't feel like a lower-tech species' gear, either. It may have lacked a few of the advanced features that he'd have found in a Gaoian equivalent, but optically it was superb. The only real burr in his fur that he could find to complain about was their heaviness.
 
 WARHORSE wasn't even breathing heavily when they stopped again.
 
@@ -762,7 +762,7 @@ He sat down and stared at the dressing as WARHORSE made a satisfied noise and po
 
 "You okay?" he was asked after a while. Regaari chirruped a bitter little laugh.
 
-"I'm supposed to be one of the elite." he said. "Clan Whitecrest, foremost commandos and security specialists of the whole Gaoian species, but next to the Hunters I may as well be a cub. Next to *you*…"
+"I'm supposed to be one of the elite." he said. "Clan Whitecrest, foremost commandos and security specialists of the whole Gaoian species, but next to the Hunters I may as well be a cub. Next to *you*..."
 
 WARHORSE had set up next to the pool and was digging through his bag. "Nah, man. You're a fucking badass." he replied.
 
@@ -780,7 +780,7 @@ WARHORSE nodded. "'Course I am. Best way to do that's with the truth, though. Yo
 
 Regaari sat silently and watched. The human soon made a satisfied noise and pulled out a handful of flat brown packs of some kind, and scooped up some water from the pool in a little bottle. There was a pump of some kind in the bottle's end, and after a few enthusiastic strokes of that, the water was forced back out through the filter nozzle.
 
-"Are you…*filtering and purifying* that?" Regaari asked. "This is a class two planet, you don't need to."
+"Are you...*filtering and purifying* that?" Regaari asked. "This is a class two planet, you don't need to."
 
 "Basic survival rule where I'm from, never trust the water."
 
@@ -796,7 +796,7 @@ WARHORSE paused, then shrugged. "Eh, a good habit's a good habit." He held up th
 
 "Relax, we got that covered. Besides, there's a long way to go ahead of us, I'm *going* to need the nutrition, whereas the Hunters only *might* come looking for us."
 
-"Oh. Well, I do like human food…"
+"Oh. Well, I do like human food..."
 
 "Eh, this is just an MRE, not fine dining. Kind of the tastier alternative to those ration balls." WARHORSE said, opening the package and tipping most of the contents out onto his lap. He tipped a little sachet of white powder into his bottle and shook it, turning the water a vivid pink, then took off his breathing mask and sipped it.
 
@@ -808,13 +808,13 @@ WARHORSE paused, then shrugged. "Eh, a good habit's a good habit." He held up th
 
 "Look, you want one of these to try? Because I can eat whatever's too much for you."
 
-"…If it's safe."
+"...If it's safe."
 
 "It's all been treated with gamma radiation man. Totally sterile, I promise."
 
-"Then…yes please."
+"Then...yes please."
 
-WARHORSE nodded and examined the available options, "…I warn you man, this shit's…this is the high-performance version, it's meant to get a fuckload of energy into me first and foremost. The culinary experience is, like, a distant second." he pointed out.
+WARHORSE nodded and examined the available options, "...I warn you man, this shit's...this is the high-performance version, it's meant to get a fuckload of energy into me first and foremost. The culinary experience is, like, a distant second." he pointed out.
 
 "I'll try it anyway. You're right, nutrition in a situation like this is important."
 
@@ -842,11 +842,11 @@ The translator paused while translating that figure, and Regaari could see why. 
 
 "Exactly how many calories do you *need*?" Regaari asked.
 
-"Me, on a light day? At least ten thousand or so." WARHORSE replied. "But this is gonna be a really active day, so…a lot more. Anyway, main should be ready."
+"Me, on a light day? At least ten thousand or so." WARHORSE replied. "But this is gonna be a really active day, so...a lot more. Anyway, main should be ready."
 
 Between a small rock and leaning the bag against what remained of his left forearm, Regaari was able to hold it steady enough to poke at it with the spoon. While it certainly *looked* appetising enough, his nose was practically being overwhelmed by the rich scent. He tried it.
 
-One mouthful was enough. "Great…Father Fyu!" he coughed.
+One mouthful was enough. "Great...Father Fyu!" he coughed.
 
 WARHORSE just laughed. "You okay?"
 
@@ -868,7 +868,7 @@ WARHORSE inhaled most of his meal in three efficient scoops. "*Ffo- thiff human 
 
 "How'd you meet? There's not a lot of us out here. She an abductee?"
 
-Regaari made an affirmative ducking nod. "Yes, about…eleven Gaori years ago now, one of our settler transports was raided by mercenaries working for an-" he raised his paws and made a '*finger quotes*' gesture that Xiù had been fond of, only realising that the effect was spoiled a little by his missing paw after he'd done it. "'*Unauthorized researcher*'."
+Regaari made an affirmative ducking nod. "Yes, about...eleven Gaori years ago now, one of our settler transports was raided by mercenaries working for an-" he raised his paws and made a '*finger quotes*' gesture that Xiù had been fond of, only realising that the effect was spoiled a little by his missing paw after he'd done it. "'*Unauthorized researcher*'."
 
 He snorted. "So the Corti Directorate claims, anyway. They killed all the males and abducted the females and cubs."
 
@@ -878,7 +878,7 @@ WARHORSE's expression darkened, even as he leaned over and stole Regaari's lefto
 
 "Where do you come in?"
 
-"There was…political fallout. Ayma—the leader of the abducted females—fought fang and claw to get Shoo adopted into the Clan of Females. Most of the other females sided with her, of course, but some of the male clans…"
+"There was...political fallout. Ayma—the leader of the abducted females—fought fang and claw to get Shoo adopted into the Clan of Females. Most of the other females sided with her, of course, but some of the male clans..."
 
 "Yeah?" WARHORSE took another mouthful "*I thought you guyff mofftly went along with the Femaleff*?"
 
@@ -890,21 +890,21 @@ WARHORSE chuckled again. "Yeah, that sounds about right." he agreed. "What did y
 
 "Your career?"
 
-Regaari made an uncomfortable noise. "It's…complicated."
+Regaari made an uncomfortable noise. "It's...complicated."
 
 "I'm a medic, *compadre*. I can handle complicated."
 
-Regaari wobbled his head sideways in a '*fair enough*' gesture. "I…had some disagreements with the clan." he said. "This was early in our negotiations with the Dominion, and I was part of the inquiry into the missing transports. We had all of the circumstantial evidence we could have wanted that proved there were Dominion species involved, and that this '*unauthorized*' researcher was anything but, but nothing concrete. Meanwhile, I found out that the Whitecrest Clan—and several other powerful Clans—were all preparing as if our membership of the Dominion was a foregone conclusion. Buying shares and equipment, training and indoctrinating our new Brothers a certain way, that kind of thing."
+Regaari wobbled his head sideways in a '*fair enough*' gesture. "I...had some disagreements with the clan." he said. "This was early in our negotiations with the Dominion, and I was part of the inquiry into the missing transports. We had all of the circumstantial evidence we could have wanted that proved there were Dominion species involved, and that this '*unauthorized*' researcher was anything but, but nothing concrete. Meanwhile, I found out that the Whitecrest Clan—and several other powerful Clans—were all preparing as if our membership of the Dominion was a foregone conclusion. Buying shares and equipment, training and indoctrinating our new Brothers a certain way, that kind of thing."
 
 "You suspected corruption in your own ranks?" WARHORSE guessed.
 
-"No. I wasn't so cynical back then. I was appalled, of course. As far as I was concerned, even circumstantial evidence that the Dominion was involved in our transports going missing—and complacency is collusion, as far as I'm concerned—was reason enough to abandon the negotiations on the spot and approach the Celzi Alliance. Of course, now I know that the Alliance is just as bad, but…"
+"No. I wasn't so cynical back then. I was appalled, of course. As far as I was concerned, even circumstantial evidence that the Dominion was involved in our transports going missing—and complacency is collusion, as far as I'm concerned—was reason enough to abandon the negotiations on the spot and approach the Celzi Alliance. Of course, now I know that the Alliance is just as bad, but..."
 
-He shook himself. "…Rather than discussing the matter with some of my more seasoned Brothers, I took it straight to one of the Fathers, convinced that it was an honest oversight, and that when they saw the evidence we had gathered, the mistake would be corrected."
+He shook himself. "...Rather than discussing the matter with some of my more seasoned Brothers, I took it straight to one of the Fathers, convinced that it was an honest oversight, and that when they saw the evidence we had gathered, the mistake would be corrected."
 
 "Bad move?"
 
-"The Father I approached was one of the…hmm…quiet conspirators. Not one of the obvious beneficiaries of the deal, but still very much involved, and who stood to gain."
+"The Father I approached was one of the...hmm...quiet conspirators. Not one of the obvious beneficiaries of the deal, but still very much involved, and who stood to gain."
 
 "What happened?"
 
@@ -912,13 +912,13 @@ He shook himself. "…Rather than discussing the matter with some of my more sea
 
 WARHORSE paused in pouring the last of the gravy into his mouth. "Come again?"
 
-"To the rank of Whitecrest attaché to the Mother-Supreme, part of her executive staff and, if need be, her bodyguard. A prestigious career move, on the face of it. The reality…" he sniffed.
+"To the rank of Whitecrest attaché to the Mother-Supreme, part of her executive staff and, if need be, her bodyguard. A prestigious career move, on the face of it. The reality..." he sniffed.
 
 WARHORSE just sat and listened, so Regaari pressed on. "The reality was I was now not involved in the investigation, was no longer part of the Clan's decision-making process, was a pariah in the inner circle and, though I theoretically had the ear of the Mother-Supreme, actually using it might have been seen as meddling in Female affairs, which would have politically and reproductively ruined me."
 
 "They de-clawed you."
 
-Regaari winced. The turn of phrase was intimately disturbing for Gaoians. "That's an…accurate description." he conceded.
+Regaari winced. The turn of phrase was intimately disturbing for Gaoians. "That's an...accurate description." he conceded.
 
 WARHORSE nodded his understanding, starting in on the second HOOAH! bar. Regaari shook his head in disbelief. "What do you *have* in there? A black hole?"
 
@@ -937,7 +937,7 @@ Kinoro's ears swiveled uncertainty. "Security footage from the Corti facility th
 
 "I'm not involved in the investigation any more, remember?" he pointed out. "Father Taaru saw to that."
 
-"This is…relevant. We may need you to, ah, *influence* the Mother-Supreme."
+"This is...relevant. We may need you to, ah, *influence* the Mother-Supreme."
 
 Regaari's ears flattened. "This footage had better give me a compelling reason to do so." he said.
 
@@ -959,7 +959,7 @@ Regaari watched as the footage cut to the alien female cutting a swathe through 
 
 "Plausible." Regaari conceded.
 
-"And terrifying." Kinoro continued. "If I'm right then that…*thing*…is a bomb waiting to explode."
+"And terrifying." Kinoro continued. "If I'm right then that...*thing*...is a bomb waiting to explode."
 
 "Is she? Look here, she's fighting differently now that she's figured out the strength disparity." Regaari slowed down the footage to point out the subtle changes in the alien's fighting style. "Wounding, rather than killing. Showing restraint, despite not having a good reason to."
 
@@ -967,7 +967,7 @@ Regaari watched as the footage cut to the alien female cutting a swathe through 
 
 "Have any of the females shown signs of infection?"
 
-"…No. None."
+"...No. None."
 
 "Then you know what I see, Brother? I see a poor pre-contact life form, who-knows-how-far from home and probably feeling very confused right now." Regaari looked his Brother in the eye. "And I intend to say as much to the Mother-Supreme."
 
@@ -975,7 +975,7 @@ Regaari watched as the footage cut to the alien female cutting a swathe through 
 
 "What will they do, crown me the Emperor of Gao and call it a punishment?" Regaari scoffed.
 
-Kirono growled. There was a flash of teeth before he restrained himself—in older and less civilized times, that would have inevitably led to a snapping, claw-bearing fight. "Your own Brothers and Fathers…" he began--
+Kirono growled. There was a flash of teeth before he restrained himself—in older and less civilized times, that would have inevitably led to a snapping, claw-bearing fight. "Your own Brothers and Fathers..." he began--
 
 "Are wrong, Brother." Regaari interrupted, ejecting the little crystalline data wafer that Kirono had brought him, and pocketing it. "I'm loyal to the clan, but that doesn't mean I have to agree with the Fathers automatically."
 
@@ -983,7 +983,7 @@ Kirono growled. There was a flash of teeth before he restrained himself—in old
 
 Regaari's ears pricked. "They're *ordering* me to influence her?" he asked.
 
-"Well…no…Not *ordering* as such…" Kirono backpedalled, and with good reason. The whole clan's mating fitness would suffer if the Females felt that Giymuy was being *bullied* by the Whitecrests.
+"Well...no...Not *ordering* as such..." Kirono backpedalled, and with good reason. The whole clan's mating fitness would suffer if the Females felt that Giymuy was being *bullied* by the Whitecrests.
 
 "Then I shall use my best discretion and judgement." Regaari asserted. "Just as the Fathers trained me to."
 
@@ -1006,7 +1006,7 @@ WARHORSE nodded, though of course his commander couldn't see it. "STAINLESS, WAR
 
 The second the link was cut, he swore, loudly: "*Me cago en Dios!"*
 
-Regaari scrambled to his feet as WARHORSE lurched upright. "Is that…?"
+Regaari scrambled to his feet as WARHORSE lurched upright. "Is that...?"
 
 "I fucking pray his radio's just out." WARHORSE replied. He scowled at the intel tablet, looked around to get his bearings, then grabbed the ruck. He'd diligently re-packed it after they were done eating, and Regaari winced at the sheer weight of it as the human shrugged it on before stooping and offering him two linked hands for a step. "climb on."
 
@@ -1042,13 +1042,13 @@ Caruthers turned to Violent's captain and raised a finger with a nod, indicating
 
 ***Regaari***
 
-"There. I see…" Regaari worked the focusing control as best he could one-pawed. "It's hard to tell. A dark patch that shouldn't be there, that way."
+"There. I see..." Regaari worked the focusing control as best he could one-pawed. "It's hard to tell. A dark patch that shouldn't be there, that way."
 
 WARHORSE glanced up, and corrected his course, puffing like some ancient steam contraption from Gao's early industrial era.
 
 Regaari lost sight of the anomaly as the terrain dipped, and when WARHORSE pistoned up the rise on the far side of that dip, Regaari nearly fell off him because the human stopped dead.
 
-"Oh, no…"
+"Oh, no..."
 
 Humans were so *expressive* in their grief. He'd seen it with Shoo, and now WARHORSE was projecting his sorrow even through a bulky suit of fully enclosed armour. He sagged for a moment and then pushed forward, until they reached the edge of what was, unmistakably, a fresh crater.
 
@@ -1062,15 +1062,15 @@ He was still ruminating on the fallen suit when WARHORSE moved, slowly raising h
 
 "STAINLESS," he said, voice thick with emotion. "WARHORSE. THOR is KIA. EAR field failure."
 
-"…*WARHORSE, STAINLESS. Copy that. Did the field jump array he was carrying survive?"*
+"...*WARHORSE, STAINLESS. Copy that. Did the field jump array he was carrying survive?"*
 
-"Uh…that's a Negative, STAINLESS."
+"Uh...that's a Negative, STAINLESS."
 
-"*WARHORSE, STAINLESS…Grab a memento, mate. Destroy the suit and continue to RP Alpha. Out."*
+"*WARHORSE, STAINLESS...Grab a memento, mate. Destroy the suit and continue to RP Alpha. Out."*
 
 WARHORSE stood up again, then stepped down into his fallen comrade's crater and ripped something from the front of the ruined suit, a patch of some kind. He did something Regaari couldn't quite see and then stepped back as, again, the suit began to smoke and then burst into seething, angry flames. There wasn't much left to burn—the destruction was already pretty well total.
 
-WARHORSE sagged, and spoke to the charred thing in the crater. "…*Vaya con Dios*, brother."
+WARHORSE sagged, and spoke to the charred thing in the crater. "...*Vaya con Dios*, brother."
 
 He knelt and gestured Regaari up onto his back again, checked the intel tablet, turned north, and marched.
 
@@ -1130,7 +1130,7 @@ The humans, in fairness, took the way that the beast disintegrated in a horrible
 
 "Fuckin' 'ell." LONGLEGS declared, while WARHORSE scooped up some water and dumped it on the ruined gun, producing a fog bank and an angry hiss. "The fuck was that?"
 
-Regaari licked his burnt paw again. "If you know how to rewire a pulse gun the right way…" he said, then gestured to the nasty mess of former Hunter that was swirling away downstream. "You only get one shot, but better one shot that counts than a thousand that don't."
+Regaari licked his burnt paw again. "If you know how to rewire a pulse gun the right way..." he said, then gestured to the nasty mess of former Hunter that was swirling away downstream. "You only get one shot, but better one shot that counts than a thousand that don't."
 
 The humans exchanged glances. "I *like* this one." WARHORSE said.
 
@@ -1150,9 +1150,9 @@ RP Alpha turned out to be a cluster of buildings atop a gentle swell in the grou
 
 "Ruins?" WARHORSE asked.
 
-"This planet used to be the embassy world for all species." Regaari explained. "Then the station was built, and because it's more convenient to dock with a station than land on a planet…"
+"This planet used to be the embassy world for all species." Regaari explained. "Then the station was built, and because it's more convenient to dock with a station than land on a planet..."
 
-"Right…" The humans paused to sip from their water supplies. The water was strangely coloured, like the instant juice had been. There must have been something in it to replenish them, Regaari supposed.
+"Right..." The humans paused to sip from their water supplies. The water was strangely coloured, like the instant juice had been. There must have been something in it to replenish them, Regaari supposed.
 
 "Whose was this then?" Legsy asked.
 
@@ -1184,13 +1184,13 @@ Regaari did so. Nothing much happened for some seconds.
 
 "What am I looking-"
 
-He winced and shielded his eyes as there was a tremendous flash in the sky. It faded almost instantly, but left a purplish-green blob of afterimage behind. "…for?"
+He winced and shielded his eyes as there was a tremendous flash in the sky. It faded almost instantly, but left a purplish-green blob of afterimage behind. "...for?"
 
 "Our angels have got orbital superiority." Legsy's translated voice had a note of satisfaction in it.
 
-"Was that…?"
+"Was that...?"
 
-"Tactical nuclear…fusion warhead." WARHORSE spoke. He was labouring worse than Legsy, but then again he was carrying at least twice as much weight, and it certainly didn't seem to be slowing him down. If not for his heavier breathing and the sheen of moisture beading on his face, Regaari might have guessed he was almost finding the run easy. "RIGHTEOUS'll be…having fun, eh Legs?"
+"Tactical nuclear...fusion warhead." WARHORSE spoke. He was labouring worse than Legsy, but then again he was carrying at least twice as much weight, and it certainly didn't seem to be slowing him down. If not for his heavier breathing and the sheen of moisture beading on his face, Regaari might have guessed he was almost finding the run easy. "RIGHTEOUS'll be...having fun, eh Legs?"
 
 "Too fuckin' right he will. Nobody ever gets to play with the big toys."
 
@@ -1214,7 +1214,7 @@ Both men angled for it.
 
 "Nuh-ah, man. We're on mission." BASEBALL interrupted. "We're using your war name."
 
-"…*Scrappy* seems like the kind of name you'd give a pet." Regaari protested.
+"...*Scrappy* seems like the kind of name you'd give a pet." Regaari protested.
 
 "How 'bout '*DEXTER*'?" WARHORSE suggested. "With the arm, and he's a killer, bro."
 
@@ -1230,7 +1230,7 @@ This human could only be STAINLESS. He gave Regaari an interested look. "You thi
 
 Regaari gave him a human nod. "Can do." he declared.
 
-STAINLESS handed him a communicator. "Press this bit to talk. It's made for us so you're gonna have to push pretty hard…"
+STAINLESS handed him a communicator. "Press this bit to talk. It's made for us so you're gonna have to push pretty hard..."
 
 Regaari squeezed it. As predicted it needed some pressure, but he could do it. "STAINLESS, DEXTER. Communications test."
 
@@ -1278,7 +1278,7 @@ The Alpha-of-Alphas radiated a good mood. It leaned forward slightly in its thro
 
 **<Assertion>** +*It is the most likely outcome. They move with remarkable speed across terrain.*+
 
-**<Observation>** +*The Broods are closing in on their refuge…*+
+**<Observation>** +*The Broods are closing in on their refuge...*+
 
 The Alpha-of-Alphas gestured resignation. **<Dismissive>** +*But we lack air and orbital control. There will be more deathworlder surprises. I do not doubt that the capture will fail, but we will learn more from it.*+
 
@@ -1292,7 +1292,7 @@ Regaari set down the binos and gripped the communicator's button for all he was 
 
 "*DEXTER, RIGHTEOUS. Copy **that**, y'all watch this shit and tell me how much it hurts them."*
 
-Regaari's fur rose a bit. The human '*Combat Controller*''s voice had been full of a kind of malicious anticipation which was equal parts infectious and worrying. "RIGHTEOUS, DEXTER…watch *what*, exactly?"
+Regaari's fur rose a bit. The human '*Combat Controller*''s voice had been full of a kind of malicious anticipation which was equal parts infectious and worrying. "RIGHTEOUS, DEXTER...watch *what*, exactly?"
 
 There was a pause. RIGHTEOUS was presumably busy. A few seconds later, he got back on the line.
 
@@ -1324,7 +1324,7 @@ It knocked dust from the floor of the office and shattered windows when it swept
 
 He watched it expire, then put the binoculars down. His paw was shaking.
 
-"Humans are crazy…" he muttered.
+"Humans are crazy..." he muttered.
 
 * * *
 
@@ -1332,7 +1332,7 @@ He watched it expire, then put the binoculars down. His paw was shaking.
 
 **<Epiphany>** +*Of course! So simple, yet so effective! No need for dangerous and expensive antimatter, no need to mine and enrich fissionable elements! Just drop a steel pole from orbit! Beautiful!*+
 
-The Alpha-of-Alphas stroked a claw down one of the cables that connected it to the swarm. **<Observation>** +*It seems…crude.*+
+The Alpha-of-Alphas stroked a claw down one of the cables that connected it to the swarm. **<Observation>** +*It seems...crude.*+
 
 **<Insistence>** +*Crude it may be, but Alpha-of-Alphas, greatest one: This is the weapon with which we shall destroy them. With the resources needed to build a single swarm-ship, I can assemble enough of these to destroy a hundred cities.*+
 
@@ -1360,7 +1360,7 @@ Which was why he was able to save the team's lives. He was looking right at the 
 
 The opening salvo of coilgun fire that marched up the street therefore did nothing worse than punch some craters in the road surface and knock loose some masonry. The humans, whether by luck or incredible reflexes, escaped unharmed, though SNAPFIRE's outer fabric suit ripped down his arm to reveal the armor scales beneath.
 
-"STAINLESS, DEXTER, looks like…twenty Hunter dropships just decloaked two hundred meters to our south. They're landing to drop passengers, the column to the north still isn't moving." He elaborated.
+"STAINLESS, DEXTER, looks like...twenty Hunter dropships just decloaked two hundred meters to our south. They're landing to drop passengers, the column to the north still isn't moving." He elaborated.
 
 STAINLESS's voice was tight, focused and precise. "*Roger. NOVA HOUNDs, reform the line, face south. WARHORSE, get the ETs upstairs. DEXTER, how many Hunters?"*
 
@@ -1490,7 +1490,7 @@ He clamped down hard on his self-hatred and gave the order.
 
 ***DEXTER***
 
-The human shuttle pilot had nerves of steel, Regaari had to give him that much. Hovering level with a building's roof while aircraft thundered overhead was…
+The human shuttle pilot had nerves of steel, Regaari had to give him that much. Hovering level with a building's roof while aircraft thundered overhead was...
 
 He didn't have time to think about it further. WARHORSE emerged from the roof access door carrying another human in a flight suit and yelled at him, gesticulating with his free arm. "*DEXTER, get in the fuckin' ride!"*
 
@@ -1562,7 +1562,7 @@ The suits were taken away to be dismantled, serviced and cleaned as a powerful m
 
 WARHORSE's had worn through at the left armpit. He just *snarled* like an angry beast, grabbed it with his right hand, and tore the underlayer right off his body in a ragged strip.
 
-Regaari blinked. He'd known the human was strong, but seeing what that strength *looked* like was something else entirely. It was almost…ugly. Uncomfortably reminiscent of those red-raw Superhunters, he could almost see the strands and fibers of muscle under the skin, so many muscles. Bulging power in places Gaoians didn't have places.
+Regaari blinked. He'd known the human was strong, but seeing what that strength *looked* like was something else entirely. It was almost...ugly. Uncomfortably reminiscent of those red-raw Superhunters, he could almost see the strands and fibers of muscle under the skin, so many muscles. Bulging power in places Gaoians didn't have places.
 
 They surprised him further by removing their garments altogether and then retreating behind the plastic screen for a shower. Xiù had always been squeamish about removing her clothes, he remembered that. Even when bathing, despite being in the company of beings who biologically and psychologically *couldn't* find her attractive, and despite that Gaoians viewed clothing more as being practical and useful rather than necessary, she had seemed to go to great lengths to avoid letting any more of her skin be visible than was inevitable.
 
@@ -1584,7 +1584,7 @@ He sat up.
 
 "Hey. Wondering when you'd wake up."
 
-Regaari stretched. WARHORSE was sat next to him against the wall. He was putting what looked like pictures back in his pack. "How long…?"
+Regaari stretched. WARHORSE was sat next to him against the wall. He was putting what looked like pictures back in his pack. "How long...?"
 
 "Eight hours or so."
 
@@ -1602,17 +1602,17 @@ Regaari ducked a nod. "I know. And, I'm grateful. Without you, the Clan of Femal
 
 "A recommendation. But one that's usually listened to, from what I gather. I was only a few days old when Giymuy was appointed." Regaari shrugged. He'd learned early on that humans and Gaoians had that gesture in common.
 
-"Gonna have to be a few days, man." WARHORSE told him. "They're stripping the whole station and…y'know, it's a big station."
+"Gonna have to be a few days, man." WARHORSE told him. "They're stripping the whole station and...y'know, it's a big station."
 
 Regaari chittered, a touch bitterly. "It'll take them *months* to appoint a successor anyway, even with her recommendation." he said. "I'm going to miss her though."
 
 "Yeah?"
 
-"Oh yes. She wasn't just somebody I worked for. If she'd been younger…" he trailed off. "Though, Ayma might not have approved."
+"Oh yes. She wasn't just somebody I worked for. If she'd been younger..." he trailed off. "Though, Ayma might not have approved."
 
 "This the Ayma that fought so hard to have your human friend adopted into the clan?"
 
-"That's right. She's also the mother of my most recent cub, and.…She and I…" he made a little growling noise, the equivalent of a human clearing their throat. "It's…complicated."
+"That's right. She's also the mother of my most recent cub, and....She and I..." he made a little growling noise, the equivalent of a human clearing their throat. "It's...complicated."
 
 "Man, I know how that feels."
 
@@ -1620,7 +1620,7 @@ Regaari chittered, a touch bitterly. "It'll take them *months* to appoint a succ
 
 "You two are exclusive?"
 
-"I'd like to be." Regaari confessed. "I…haven't told her as much. She and I went through a lot together, but I don't know how she'd take it."
+"I'd like to be." Regaari confessed. "I...haven't told her as much. She and I went through a lot together, but I don't know how she'd take it."
 
 WARHORSE made a loud, explosive sound that was probably a laugh. "Oh, MAN. I *definitely* know how that one feels!" he exclaimed, then calmed. "At least, the going through a lot together thing."
 
@@ -1634,13 +1634,13 @@ They sat in silence for a while, until Regaari noticed that WARHORSE—and some 
 
 "You're panting."
 
-"Well…yes." Regaari said. "That's how we deal with heat. We pant, you sweat." he gestured to the fact that everybody on deck was stripped down to the bare minimum they could get away with, and even that was dark wet and sticking to the skin.
+"Well...yes." Regaari said. "That's how we deal with heat. We pant, you sweat." he gestured to the fact that everybody on deck was stripped down to the bare minimum they could get away with, and even that was dark wet and sticking to the skin.
 
 "That's *amazing."*
 
 "Why?"
 
-"Just…ah, man, it just triggers some weird instincts I guess. Forget it. Maybe we should fill one of these crates with water for you…"
+"Just...ah, man, it just triggers some weird instincts I guess. Forget it. Maybe we should fill one of these crates with water for you..."
 
 "Great Father Fyu, no." Regaari protested. "Wet fur smells worse than you do."
 
@@ -1656,7 +1656,7 @@ He endured the occasional smiling glance for a while longer, listening to the mu
 
 "What are those?"
 
-"Uh…Ah fuck it, you're not human. This is Ava."
+"Uh...Ah fuck it, you're not human. This is Ava."
 
 Regaari scrutinized the pictures. '*Ava*' had plainly set up and taken the images herself, and they were obviously a mating display. It was the only way to explain the curious poses and the odd choice of clothing, both calculated to show off her body to best effect while still hiding away those parts of her anatomy that he knew humans were peculiarly squeamish about. The prints had a slightly worn, often-handled look around the edges.
 
@@ -1668,7 +1668,7 @@ WARHORSE laughed at that, then sighed as he looked at the pictures again. "I hop
 
 "A second shot? She turned you down?"
 
-"We…went through a lot together. Then we went through a lot without each other, and I was dumb enough to think that she'd just…"
+"We...went through a lot together. Then we went through a lot without each other, and I was dumb enough to think that she'd just..."
 
 Whatever word he was searching for went un-found. There was a general looking-up and then standing-up as STAINLESS stepped onto the flight deck, rather more professionally turned-out than his men in a full body uniform of some kind, rather than the sleeveless, short-legged things the rest of the NOVA HOUNDs were wearing. He was even managing the impressive feat of managing to look comfortable in the heat.
 
@@ -1682,7 +1682,7 @@ There was murmured relief, which fell silent again as STAINLESS raised a hand.
 
 Heads lowered. Regaari watched BASEBALL put his arm around WARHORSE's enormous shoulders and pull him close.
 
-"All of our lights will go out in time." STAINLESS continued. That mobile, malleable, expressive human face was alive with muscles wrestling under the surface, fighting to maintain dignity. "All of our journeys reach their end. What counts at the end of it all is how that journey was spent, and I for one will consider myself blessed that, for a while, I was able to journey alongside these epic three, and call them my comrades, my friends…and my brothers."
+"All of our lights will go out in time." STAINLESS continued. That mobile, malleable, expressive human face was alive with muscles wrestling under the surface, fighting to maintain dignity. "All of our journeys reach their end. What counts at the end of it all is how that journey was spent, and I for one will consider myself blessed that, for a while, I was able to journey alongside these epic three, and call them my comrades, my friends...and my brothers."
 
 He swallowed, lowered his head for a second, then raised it again and Regaari admired the strength that he managed to force into his voice.
 
@@ -1694,13 +1694,13 @@ As nods of agreement created a gentle susurrus around the bay, he produced three
 
 "Sergeant First Class Leo Price. STERLING." A metal tag on a chain.
 
-"Master Sergeant James Jones." Another swatch of cloth. "…Legsy."
+"Master Sergeant James Jones." Another swatch of cloth. "...Legsy."
 
 By now, all the seven men standing directly in front of him had their arms interlinked across one another's shoulders or around each others' waists. Around the bay, deathworlders were standing at attention, some fighting back their emotions, others displaying them openly.
 
 STAINLESS took a deep breath. "It's still early days for the SOR. We've been blooded today, and despite our losses, we acquitted ourselves superbly under the most difficult circumstances, in keeping with the finest traditions of our parent units." He declared. "I expect that we will go on to great things in due course, which is why I'm going to conclude with what I hope will be the regimental motto, so listen closely. Remember this." heads raised and gave him their full attention.
 
-"…'*What a piece of work is man. How noble in reason, how infinite in faculties. In form and moving how express and admirable. In action, how like an angel: In* *apprehension, how like a god!*'"
+"...'*What a piece of work is man. How noble in reason, how infinite in faculties. In form and moving how express and admirable. In action, how like an angel: In* *apprehension, how like a god!*'"
 
 He set his jaw and saluted fiercely. Every one of the humans present copied him. "When gods fall, we will remember them."
 
@@ -1718,7 +1718,7 @@ They spent the time watching movies, huddled around a tiny tablet computer in a 
 
 Regaari had watched a number of movies with Xiù, and had mostly enjoyed them, though he had wondered what in Gao's name she got out of 'horror' movies. She'd mostly watched them from behind her hands, squirming and occasionally shrieking while the poor traumatized Gaoians had been even worse affected. Humans could be ***dark*** in their storytelling it seemed.
 
-He'd not watched a movie like this one, though. It *almost* had a Gaoian in it: too short, oddly proportioned, with digitigrade feet and strange facial proportions and markings that suggested a chromosomal disorder, and clearly built on Deathworlder anatomy, making him stockier and far stronger than any real Gaoian, but still…
+He'd not watched a movie like this one, though. It *almost* had a Gaoian in it: too short, oddly proportioned, with digitigrade feet and strange facial proportions and markings that suggested a chromosomal disorder, and clearly built on Deathworlder anatomy, making him stockier and far stronger than any real Gaoian, but still...
 
 "*Why would you wanna save the galaxy?"*
 
@@ -1744,7 +1744,7 @@ Throw in that SOR men were universally large, and that made getting past one ano
 
 "Shouldn't you be seeing Ava, Sergeant?" Powell asked. "She'll be worried about you."
 
-"We were just…organising the wake, sir." Adam explained.
+"We were just...organising the wake, sir." Adam explained.
 
 Powell nodded. "Good. And I'll be bloody well upset if you lot don't drink every drop of alcohol on this planet, you hear me?"
 
@@ -1756,11 +1756,11 @@ But then again, that hadn't been the nature of his relationship with Legsy to be
 
 "Goodnight, sir." Adam said, and turned to go.
 
-"Arés…"
+"Arés..."
 
 The young man turned to face him again. "Sir?"
 
-"…Legsy and I were in the habit of sharing a post-mission drink. You'd be…very welcome to join me in keeping that tradition alive."
+"...Legsy and I were in the habit of sharing a post-mission drink. You'd be...very welcome to join me in keeping that tradition alive."
 
 Adam blinked at him, then nodded, swallowing. "I'd like that." he managed.
 
@@ -1772,43 +1772,43 @@ Powell unlocked his office and led the way in, visiting the top of his filing ca
 
 They chimed glasses, and knocked them back. He was slightly impressed that Adam had no worse reaction to it than clearing his throat and a slightly pinched expression for a second, considering it was probably his first taste of whisky.
 
-Powell poured the second pair of drinks. "I'm recommending Price for the Victoria Cross and  Legsy for the George Cross." he said. "And as far as I'm concerned, Jackson and Semenza deserve the Medal of Honor, they saved the bloody lot of us…but they'll probably settle for less. There'll be a few other decorations getting handed out too…" He paused, and shrugged. "We'll see how it goes. Not sure I care about medals right now."
+Powell poured the second pair of drinks. "I'm recommending Price for the Victoria Cross and  Legsy for the George Cross." he said. "And as far as I'm concerned, Jackson and Semenza deserve the Medal of Honor, they saved the bloody lot of us...but they'll probably settle for less. There'll be a few other decorations getting handed out too..." He paused, and shrugged. "We'll see how it goes. Not sure I care about medals right now."
 
 They drank again. Adam had the look of a man who wanted to ask questions but was restraining himself.
 
 "You've got permission to speak freely right now, lad." Powell told him. "Make use of it, I don't grant it often."
 
-"Just…a question sir."
+"Just...a question sir."
 
 "Go on then."
 
-"…How are you holding up?"
+"...How are you holding up?"
 
 "Christ, remind me not to let you ask freely too often, you get right down to business, don't you?"
 
 "Sorry, sir, I-"
 
-"No, no. Fair question…" He appreciated it, in fact. He rubbed the bridge of his nose and drank his third glass while he thought. Adam copied him. "I'm not…I *try* not to be a weak man, but ordering a friend to his death…" Powell put his glass down and reached for the bottle one last time. "It beats you up."
+"No, no. Fair question..." He appreciated it, in fact. He rubbed the bridge of his nose and drank his third glass while he thought. Adam copied him. "I'm not...I *try* not to be a weak man, but ordering a friend to his death..." Powell put his glass down and reached for the bottle one last time. "It beats you up."
 
-"I'd be…kinda worried if it didn't, sir."
+"I'd be...kinda worried if it didn't, sir."
 
-Powell poured again and nodded. "True. And it'd be a lonely fookin' job if I didn't get on with my men, you know? It just…it needs to be understood that the mission comes first. When it's one man versus every man…I can't, I *won't* be fookin' sentimental about it. I have to send the right man for the job…whoever that might be."
+Powell poured again and nodded. "True. And it'd be a lonely fookin' job if I didn't get on with my men, you know? It just...it needs to be understood that the mission comes first. When it's one man versus every man...I can't, I *won't* be fookin' sentimental about it. I have to send the right man for the job...whoever that might be."
 
 "I didn't get that when I signed up." Adam confessed.
 
 "Well, what about now you know what it's like?"
 
-"Sir…speaking candidly?"
+"Sir...speaking candidly?"
 
 Powell handed him his glass. "I thought we bloody were."
 
-"Well then…if I was the right man for the job…I guess I wouldn't just expect you to send me, I'd *want* you to."
+"Well then...if I was the right man for the job...I guess I wouldn't just expect you to send me, I'd *want* you to."
 
 Powell nodded, staring at his glass for a moment. "Aye. And I reckon Legsy would have said the same."
 
 They toasted and drank for the fourth and final time.
 
-"Go on, Sergeant. You've better things to be doing and prettier people to be doing them with than commiserating with your commanding officer." He said as he set his glass down. "I'm…coping."
+"Go on, Sergeant. You've better things to be doing and prettier people to be doing them with than commiserating with your commanding officer." He said as he set his glass down. "I'm...coping."
 
 "Yes sir. Good night."
 
@@ -1834,7 +1834,7 @@ He waved his left arm to show off his new cybernetic paw. "I very nearly was." h
 
 "Who are you here to see, male?" the second guard interrogated him, clearly not satisfied with Myun's reassurance. To judge from Myun's resigned and impatient body language, this was nothing unusual.
 
-Maybe he *should* court the young female after all…If nothing else, Myun would benefit from knowing she had allies.
+Maybe he *should* court the young female after all...If nothing else, Myun would benefit from knowing she had allies.
 
 "I'm here to inform the late Mother-Supreme's chosen successor of her nomination." He announced, picking the one of the three truthful answers he could have given on the grounds that it was probably the least controversial.
 
@@ -1850,7 +1850,7 @@ Ayma's voice made them both freeze on the spot. "That makes sense."
 
 She had been cuddling and rocking a tiny newborn in the moonlight, almost invisibly still, and chittered a little at the way both Myun and Regaari flinched. "Yulna's a good choice. She won't be afraid to speak her mind."
 
-"I will…leave you two alone, shall I?" Myun stepped away a little, out of earshot.
+"I will...leave you two alone, shall I?" Myun stepped away a little, out of earshot.
 
 Ayma made an amused face. "That poor little Sister has watched too many human romance movies." she declared.
 
@@ -1858,21 +1858,21 @@ Ayma made an amused face. "That poor little Sister has watched too many human ro
 
 "Oh, she's convinced you and I are '*an item*', or something." Ayma growled a little, wryly. "You've seen those human movies, you how know they react. They get jealous over mating partners. That's not us, is it?"
 
-"Well…" Regaari' paused, then nodded, burying his disappointment. "…No. You're right. It's not."
+"Well..." Regaari' paused, then nodded, burying his disappointment. "...No. You're right. It's not."
 
 She stood and gave him a friendly nose-rub, as of old and close friends. "I like you too much, Regaari. I'd hate to fall out with you over mating contracts."
 
 That, at least, was a dose of welcome, soothing cold water to balm his burned self-esteem. "You do?"
 
-"Oh yes." Ayma glanced up and down the commune concourse and then leaned in conspiratorially. "If I had to choose just one…wait, what happened to your *paw?!"*
+"Oh yes." Ayma glanced up and down the commune concourse and then leaned in conspiratorially. "If I had to choose just one...wait, what happened to your *paw?!"*
 
 She'd tried to take it intimately, and had found herself holding smooth carbon fiber instead of fur.
 
-He grimaced at it. "It's…a long story. I'll tell you what happened over breakfast, if you'll do me a favour."
+He grimaced at it. "It's...a long story. I'll tell you what happened over breakfast, if you'll do me a favour."
 
 "Name it."
 
-"It's about Sister Myun…"
+"It's about Sister Myun..."
 
 * * *
 
@@ -1884,7 +1884,7 @@ He grimaced at it. "It's…a long story. I'll tell you what happened over breakf
 
 There was a sigh from the ship's owner and commander. "*Yes*, Hzzkvk, we're looking for a *single* escape pod, but the ship *launched* two."
 
-Hzzkvk blinked at his Corti employer. "But…Bedu, if the ship launched two, why are we only after one?"
+Hzzkvk blinked at his Corti employer. "But...Bedu, if the ship launched two, why are we only after one?"
 
 Bedu repeated his weary sigh. "Because the client is paying us five million Directorate Currency Units for the escape pod with one of your '*cousins*' on it, and NOT for the other one."
 
@@ -1896,7 +1896,7 @@ Mwrmwrwk interrupted him, saving Bedu's headache from progressing any further. "
 
 "Hzzkvk!" Bedu snapped, then mellowed his tone. "I tell you this as a colleague of three years: the subject of your species' remarkable intelligence is the focus of frequent discussion among the Corti, and may I say that you yourself are a type specimen for the exact qualities that we find so fascinating. Nevertheless there is a time for *not* asking questions, and this is one such, hmm?"
 
-Hzzkvk was practically glowing with pride. "Why…thank you Bedu!" he said.
+Hzzkvk was practically glowing with pride. "Why...thank you Bedu!" he said.
 
 "Indeed. Please be so kind as to man the scoop field should we need to bring them aboard?"
 
@@ -1910,13 +1910,13 @@ Once the gangly blue shape of their junior crewman had left the bridge, Mwrmwrwk
 
 "Nor did I this time." Bedu replied amiably.
 
-"So…Vzk'tk intelligence really IS a subject of frequent discussion among the Corti?"
+"So...Vzk'tk intelligence really IS a subject of frequent discussion among the Corti?"
 
 Bedu granted himself the luxury of satisfaction at his own cleverness. The Kwmbwrw was by no means an idiot herself, and that meant that if he'd snuck his veiled insult past her, then Hzzkvk would *never* notice it.
 
 "Indeed." he told her. "We often find ourselves wondering how a species so terminally *dim* ever managed to invent the wheel."
 
-Mwrmwrk took a second to process that, then made a kind of fluttering, purring noise in her chest—her species' equivalent of laughter. "I see…And, we're coming up on the liferaft."
+Mwrmwrk took a second to process that, then made a kind of fluttering, purring noise in her chest—her species' equivalent of laughter. "I see...And, we're coming up on the liferaft."
 
 "Does the transponder code match?" Bedu demanded, examining the little puck-shaped craft on his screen.
 
@@ -1926,7 +1926,7 @@ Mwrmwrk took a second to process that, then made a kind of fluttering, purring n
 
 "Won't they notice?"
 
-"If they are who we want, it will not matter, and if they are not…well, they will never find out what happened. Please, run the scan."
+"If they are who we want, it will not matter, and if they are not...well, they will never find out what happened. Please, run the scan."
 
 Mwrmwrk raised a hand to acknowledge the order, then followed it. A second later, data poured onto Bedu's command screen.
 
@@ -1934,7 +1934,7 @@ Mwrmwrk raised a hand to acknowledge the order, then followed it. A second later
 
 "Are you *sure* they won't have noticed?" Mwrmwrk asked, already changing course. Behind them, the escape pod blinked away as the slight change in their vector translated to a separation of light seconds in a heartbeat.
 
-"At *most*, they may have felt a sensation of time…having done something strange." Bedu conceded. "I doubt they will pay it a second thought."
+"At *most*, they may have felt a sensation of time...having done something strange." Bedu conceded. "I doubt they will pay it a second thought."
 
 * * *
 
@@ -1944,27 +1944,27 @@ Mwrmwrk raised a hand to acknowledge the order, then followed it. A second later
 
 The little wooden '*Eden*' sign that Sara had once given them rattled when Ava opened the door. She paused on seeing him and then threw herself straight into a hug with such force that, despite the disparity between her mass and his strength, Adam had to take a step back to absorb her.
 
-"Oh my god, Adam!" she couldn't even fit her arms all the way around him. She'd been right: things had changed. "Are you okay? People are saying Legsy didn't come back…?!"
+"Oh my god, Adam!" she couldn't even fit her arms all the way around him. She'd been right: things had changed. "Are you okay? People are saying Legsy didn't come back...?!"
 
-"Yeah." Adam nodded "He, uh…"
+"Yeah." Adam nodded "He, uh..."
 
-Ava made a sad, almost childish little sound of loss. "Are you…alright?"
+Ava made a sad, almost childish little sound of loss. "Are you...alright?"
 
-"I wouldn't have come back if not for him." Adam told her. "Or Leo, either. They…None of us would."
+"I wouldn't have come back if not for him." Adam told her. "Or Leo, either. They...None of us would."
 
 She retreated into the apartment and sat down on the couch. "Goddammit."
 
-Adam shut the door as he entered and sat next to her. "Yeah…"
+Adam shut the door as he entered and sat next to her. "Yeah..."
 
-There was a melancholy silence for a little while, which Adam finally broke. "Legsy…gave me some advice, before we headed out. This may not be the best time to follow up on it, but…"
+There was a melancholy silence for a little while, which Adam finally broke. "Legsy...gave me some advice, before we headed out. This may not be the best time to follow up on it, but..."
 
-"…What?"
+"...What?"
 
-"He…helped me figure out what you are to me."
+"He...helped me figure out what you are to me."
 
 Ava blinked at him, then turned to face him, giving him her attention.
 
-Adam took her hand. "You're…this amazing, gorgeous, talented woman that I'd like to get to know better." he said.
+Adam took her hand. "You're...this amazing, gorgeous, talented woman that I'd like to get to know better." he said.
 
 Ava paused, but then a smile broke through on her face like the dawn rising. "Yeah?"
 
@@ -1972,7 +1972,7 @@ Adam nodded.
 
 Ava looked at him for a long, contemplative moment and then sighed, and he could *see* the tension and misery flow out of her as she wiped away a tear.
 
-"…It's a date." she said.
+"...It's a date." she said.
 
 * * *
 
@@ -1980,4 +1980,4 @@ Ava looked at him for a long, contemplative moment and then sighed, and he could
 
 While Deathworlders chapters will always be published completely for free, with the aid of my backers on **[Patreon](http://www.patreon.com/HamboneHFY)** I've now been able to take more time for writing! Pledging a single dollar per chapter gets you access to my behind-the-scenes blog where, among other things, I keep a running tally of each chapter's word count as it's written.
 
-Other benefits may become apparent in due course… 
+Other benefits may become apparent in due course... 

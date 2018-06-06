@@ -43,7 +43,7 @@ Medrà sat forward. "That is not going to happen." he stated, bluntly.
 
 "Why not?"
 
-"Cruezzir has a history of interacting…dangerously with human physiology. It has created two of the most notorious and effective criminals the galaxy has ever seen, in fact."
+"Cruezzir has a history of interacting...dangerously with human physiology. It has created two of the most notorious and effective criminals the galaxy has ever seen, in fact."
 
 "Yes, I've read their files." Anees replied. "I also know enough about Cruezzir to be certain that, in their cases, it was applied incautiously and incorrectly, and that the long term effects are devastating in terms of mental health, which would be detrimental to our plans."
 
@@ -81,7 +81,7 @@ Powell's own chair creaked as he sat back and folded his arms, scrutinising Adam
 
 The question threw Adam a bit, outraging him. "Wh–? What do you mean '*why'*?" he demanded. "My best friend is dead! So's my mother! So's everyone I went to school with. Millions of people!"
 
-"Right." Powell agreed, nodding amiably. "That rather proves that what you're after, *if* it exists, is a big deal, doesn't it? So…what are you going to do with the information, should you acquire it? Is it obsession? Curiosity? Revenge? What?"
+"Right." Powell agreed, nodding amiably. "That rather proves that what you're after, *if* it exists, is a big deal, doesn't it? So...what are you going to do with the information, should you acquire it? Is it obsession? Curiosity? Revenge? What?"
 
 "I want to do whatever I can to stop anyone else from dying!" Adam snapped.
 
@@ -93,9 +93,9 @@ The captain nodded, and sat forward. "Right then. If that's your goal, then real
 
 "Not a problem." Adam told him.
 
-"Aye? Well, we'll see. Now…" Powell rubbed his chin again. "Realistically speaking…the only two services that are doing anything in space right now are the Royal Navy and the US Air Force. Thanks to your Cimbrean citizenship, you're eligible to join either service, but frankly you're more American than Brit, so the latter'd maybe suit you a bit better."
+"Aye? Well, we'll see. Now..." Powell rubbed his chin again. "Realistically speaking...the only two services that are doing anything in space right now are the Royal Navy and the US Air Force. Thanks to your Cimbrean citizenship, you're eligible to join either service, but frankly you're more American than Brit, so the latter'd maybe suit you a bit better."
 
-He sat back again. "As for what you do in your chosen service…well, that one's your choice to make, I can't advise you there."
+He sat back again. "As for what you do in your chosen service...well, that one's your choice to make, I can't advise you there."
 
 "How did you choose?" Adam asked him.
 
@@ -103,7 +103,7 @@ He sat back again. "As for what you do in your chosen service…well, that one's
 
 He noticed the change in Adam's expression. "What?"
 
-"I've…never heard you swear before."
+"I've...never heard you swear before."
 
 "I don't swear around children." Powell said, simply.
 
@@ -113,7 +113,7 @@ He noticed the change in Adam's expression. "What?"
 
 He nodded toward the door. "This isn't a decision to be made here in my office." he said. "Hit the library, do some research, think about it. My door's open, alright?"
 
-Adam nodded, still a little stunned by the show of respect. "I…Thank you, captain."
+Adam nodded, still a little stunned by the show of respect. "I...Thank you, captain."
 
 * * *
 
@@ -123,23 +123,23 @@ Ava seemed to spend every waking second playing with her inherited camera these 
 
 "I guess. It seems like as good a thing to go on as anything else." Adam replied.
 
-She put the camera down. "But…special forces, Adam? Won't that take you away for a long time?"
+She put the camera down. "But...special forces, Adam? Won't that take you away for a long time?"
 
-He stopped searching for a second and turned in his seat. "…Yeah, it will." he agreed.
+He stopped searching for a second and turned in his seat. "...Yeah, it will." he agreed.
 
 They hugged, melting into each others' arms without either of them needing to invite the other.
 
 "What are you going to do, do you think?" He asked after a silent minute or so. She ran a hand through her curls.
 
-"I guess…I want to help people too." she said. "I want to make some sense of all this. And now this camera's been left to me, and Sara always talked about being a photojournalist…"
+"I guess...I want to help people too." she said. "I want to make some sense of all this. And now this camera's been left to me, and Sara always talked about being a photojournalist..."
 
-"How do you even get started on that? It's not like they have recruitment…"
+"How do you even get started on that? It's not like they have recruitment..."
 
 "I've been doing my own research there." Ava told him. "I thought I'd try for City University London."
 
 "I guess you'll be away for a long time too then, huh?"
 
-She nodded, resting her forehead against his. "I guess…"
+She nodded, resting her forehead against his. "I guess..."
 
 She caught sight of what was on his screen and looked up. "I like that one."
 
@@ -147,7 +147,7 @@ She caught sight of what was on his screen and looked up. "I like that one."
 
 "Yeah." She said. "What do you think?"
 
-Adam stared at it for a few seconds, repeating it under his breath. "I think…that's the one." he said.
+Adam stared at it for a few seconds, repeating it under his breath. "I think...that's the one." he said.
 
 * * *
 
@@ -155,7 +155,7 @@ Adam stared at it for a few seconds, repeating it under his breath. "I think…t
 
 "The motto speaks to me." Adam shrugged.
 
-"…Aye, alright. But not to try and talk you out of it or owt like that, you're setting yourself up for a really fookin' difficult couple of years."
+"...Aye, alright. But not to try and talk you out of it or owt like that, you're setting yourself up for a really fookin' difficult couple of years."
 
 "I know the training will be hard, but—"
 
@@ -163,7 +163,7 @@ Adam stared at it for a few seconds, repeating it under his breath. "I think…t
 
 Adam was smart enough to shut up and let him say his piece. The captain dug into his foot locker and pulled out a small A5 notebook, which turned out to be pasted full of photographs and hand-written notes. He flipped through the first few pages until he alighted on a picture of a young, acne-scarred man who was gazing proudly out of the photograph. "This was me when I took the Potential Royal Marines Course." he said. "Right dorky little shite, wasn't I?"
 
-Adam caught his eye, and realised Powell was amused at himself. "I fookin' thought I was a proper Marine, I did. The PRMC is two and a half days, they test you in the gym and the assault course, take you on a three mile run…I thought '*if this is what it's like, this is going to be fookin' easy*." He laughed silently, deep in his chest, and flipped the page "Then I went through the actual Royal Marines training."
+Adam caught his eye, and realised Powell was amused at himself. "I fookin' thought I was a proper Marine, I did. The PRMC is two and a half days, they test you in the gym and the assault course, take you on a three mile run...I thought '*if this is what it's like, this is going to be fookin' easy*." He laughed silently, deep in his chest, and flipped the page "Then I went through the actual Royal Marines training."
 
 The next photo had less acne and a stronger, more Powell-like expression, worn by a young man in a black uniform and green beret, with a rifle held precisely by his side. "*That* was tough. The PRMC didn't prepare me for it at all, it just meant I was tough enough to START the training without collapsing."
 
@@ -175,23 +175,23 @@ He opened the book again, flipping to a series of pages filled with pictures of 
 
 He sat down. "And it just gets tougher from there. *Much* tougher. Men have died in that training. I failed the first time, only barely managed it the second but managed it I fookin' well did. Right?"
 
-Adam nodded his understanding. "Okay…?"
+Adam nodded his understanding. "Okay...?"
 
 "From what I've heard of it, I honestly don't know if I could have made it through the Pararescue pipeline." Powell confessed. His face was the very picture of deadly seriousness. "They call it '*Superman School*' for a bloody good reason."
 
-"…But people do get through it." Adam pointed out.
+"...But people do get through it." Adam pointed out.
 
 "Oh aye, they do. And if you think you'll be one of them, then fookin' well go for it. I just want you to have some idea of what you'd be getting yourself in for."
 
-"Let's say I do manage it…" Adam said. "Will that get me in on the secret?"
+"Let's say I do manage it..." Adam said. "Will that get me in on the secret?"
 
 Powell said nothing, but returned to his desk and sat down.
 
-"Your first step," he said, not answering the question, "…is recruitment. The nearest US armed forces recruiting center is technically in Seattle, 'cause that's the easiest place to get to from Scotch Creek. If you're going to walk in there and say '*I want to be a Pararescueman*' then it's going to take, oh…a week or so, total, so you'll need a hotel room."
+"Your first step," he said, not answering the question, "...is recruitment. The nearest US armed forces recruiting center is technically in Seattle, 'cause that's the easiest place to get to from Scotch Creek. If you're going to walk in there and say '*I want to be a Pararescueman*' then it's going to take, oh...a week or so, total, so you'll need a hotel room."
 
 "That long?"
 
-"You thought it was as easy as just '*Hi there, I would like to soldier please'*? You'll have to take a…" Powell looked up, remembering a detail. "…ASVAB, I think it's called. Vocational Aptitude test. They'll put you through a physical and mental evaluation, you'll talk to a special forces recruiter, the works."
+"You thought it was as easy as just '*Hi there, I would like to soldier please'*? You'll have to take a..." Powell looked up, remembering a detail. "...ASVAB, I think it's called. Vocational Aptitude test. They'll put you through a physical and mental evaluation, you'll talk to a special forces recruiter, the works."
 
 He sniffed. "If they take you—though I can't see why they wouldn't—you'll go straight on from there to Lackland Air Force Base in San Antonio for basic training. That's eight weeks. You'll graduate, see your family for the weekend, and then that's it. You're on to the PJ pipeline and you'll find it a lot harder to see them again after that. Realistically? Christmas, and that's about it. For two years, maybe longer."
 
@@ -205,25 +205,25 @@ Adam went quiet and thought long and hard about that one.
 
 Powell nodded, then stood and shook Adam's hand. "Well then. I'll be cheering for you." He said.
 
-"Could I…?" Adam tailed off then shook his head. "Never mind."
+"Could I...?" Adam tailed off then shook his head. "Never mind."
 
 "Spit it out, mate."
 
-"If this is going to be hard…could you help me get started? Give me a taster? Get me in shape?"
+"If this is going to be hard...could you help me get started? Give me a taster? Get me in shape?"
 
 Powell paused. "I'll have to discuss it with Legsy, he's the one who specialized in training and instruction." he said. "And he won't like it."
 
 "Why not?"
 
-"Well because he likes you, you daft bugger!" Powell said. "And while he'll be happy to get you up to standard for Basic, if he's going to give you even a fookin' *taster* of Pararescue indoctrination, which is what I think you're asking for…" Adam nodded "…Then he'll have to go hard on you, right hard."
+"Well because he likes you, you daft bugger!" Powell said. "And while he'll be happy to get you up to standard for Basic, if he's going to give you even a fookin' *taster* of Pararescue indoctrination, which is what I think you're asking for..." Adam nodded "...Then he'll have to go hard on you, right hard."
 
 "I guessed as much." Adam said, patiently. He was beginning to grow tired of Powell driving the point home.
 
-Powell noticed, and sighed. "I'll…talk to Legs. Meet us in the gym tomorrow at 10:30, after a good breakfast. You'll need it."
+Powell noticed, and sighed. "I'll...talk to Legs. Meet us in the gym tomorrow at 10:30, after a good breakfast. You'll need it."
 
 "Thank you, Captain."
 
-"Might be a bit premature there, mate." Powell joked. "But you're welcome. I'll…do what I can to help you along."
+"Might be a bit premature there, mate." Powell joked. "But you're welcome. I'll...do what I can to help you along."
 
 "You will?"
 
@@ -231,7 +231,7 @@ Powell noticed, and sighed. "I'll…talk to Legs. Meet us in the gym tomorrow at
 
 "I will. Thank you, captain."
 
-Half of Powell's mouth ticked upward. "Dismissed." he said. "…trainee."
+Half of Powell's mouth ticked upward. "Dismissed." he said. "...trainee."
 
 * * *
 
@@ -245,7 +245,7 @@ Not for the first time, she reflected that with her heart-shaped face and curly 
 
 "Ava? What's wrong, honey?"
 
-"Umm…" Ava gave her a nervy little smile. "Nothing's *wrong*, it's just I could…I could just use some advice."
+"Umm..." Ava gave her a nervy little smile. "Nothing's *wrong*, it's just I could...I could just use some advice."
 
 "From me?" That was astonishing. Hayley wasn't sure she was qualified to advise anybody on anything these days.
 
@@ -255,75 +255,75 @@ Hayley stepped aside "Come on in." she offered.
 
 Ava did so, and perched herself restlessly onto the edge of the couch.
 
-"Cup of tea, sweetie? Or, I've got Ovaltine…"
+"Cup of tea, sweetie? Or, I've got Ovaltine..."
 
 Ava smiled, a little weakly. "Ovaltine would be nice." she agreed.
 
 Hayley let her relax as she bustled about, taking a little longer making the drinks than was strictly necessary. By the time she was done, Ava had sat back a little and released some tension in a big sigh.
 
-"So…what's up?" Hayley asked, though she had a sneaking suspicion.
+"So...what's up?" Hayley asked, though she had a sneaking suspicion.
 
-"I, um…" Ava puffed out her cheeks and exhaled. "Adam and me, we've never…I mean…"
+"I, um..." Ava puffed out her cheeks and exhaled. "Adam and me, we've never...I mean..."
 
-Okay, so Hayley's suspicion had been wrong, but now she understood what this was really about. "You've not? Oh, honey…I kind of thought with you living together…"
+Okay, so Hayley's suspicion had been wrong, but now she understood what this was really about. "You've not? Oh, honey...I kind of thought with you living together..."
 
-Ava looked down at her hands, which were a frantic little knot of fingers. "Different beds." she said, with a little laugh. "Are you…okay with me coming to you?"
+Ava looked down at her hands, which were a frantic little knot of fingers. "Different beds." she said, with a little laugh. "Are you...okay with me coming to you?"
 
-"Well who else are you going to ask? Adam's dad?" Hayley laughed, and Ava giggled. "No, honey, it's…I'm actually kind of flattered. What do you need to know?"
+"Well who else are you going to ask? Adam's dad?" Hayley laughed, and Ava giggled. "No, honey, it's...I'm actually kind of flattered. What do you need to know?"
 
-"I guess…whether I should, really." Ava said, relaxing. "I mean, Mom and Dad always said I should wait for marriage, and…"
+"I guess...whether I should, really." Ava said, relaxing. "I mean, Mom and Dad always said I should wait for marriage, and..."
 
 "So did mine. I didn't listen."
 
-"Yeah, but…"
+"Yeah, but..."
 
-"No, honey, listen to me a second." Hayley shuffled forward on the couch and set her tea down. "I know you miss your parents so much it hurts. I can't go two hours without remembering Sara and…" she closed her eyes and rallied. "But…Let me tell you what I wish I'd told her, okay? All your parents would want is for you to be happy, and to be safe. That's all."
+"No, honey, listen to me a second." Hayley shuffled forward on the couch and set her tea down. "I know you miss your parents so much it hurts. I can't go two hours without remembering Sara and..." she closed her eyes and rallied. "But...Let me tell you what I wish I'd told her, okay? All your parents would want is for you to be happy, and to be safe. That's all."
 
 "It is?"
 
-Hayley nodded. "They told you to wait because they didn't want you rushing in and getting hurt." she said. "There's nothing magical about your wedding day that'll suddenly make it the right choice if it wasn't before, and if it's the right choice now, then…why wait?"
+Hayley nodded. "They told you to wait because they didn't want you rushing in and getting hurt." she said. "There's nothing magical about your wedding day that'll suddenly make it the right choice if it wasn't before, and if it's the right choice now, then...why wait?"
 
-Ava was nodding along, but she frowned. "How…do I know when it's right?" she asked.
+Ava was nodding along, but she frowned. "How...do I know when it's right?" she asked.
 
-"Well, you…" Hayley paused to think about it. "Okay, now here's something I wish *my* parents had told *me*, okay?"
+"Well, you..." Hayley paused to think about it. "Okay, now here's something I wish *my* parents had told *me*, okay?"
 
-"Okay…?"
+"Okay...?"
 
-"Sex is…nice." She paused, and corrected herself. "No, it's great, even. But everyone seems to get this idea that it's this precious, special thing and they say all kinds of stupid stuff about it. Judging you for having too little, too much, being a virgin, *not* being a virgin…"
+"Sex is...nice." She paused, and corrected herself. "No, it's great, even. But everyone seems to get this idea that it's this precious, special thing and they say all kinds of stupid stuff about it. Judging you for having too little, too much, being a virgin, *not* being a virgin..."
 
-"So…I shouldn't care?" Ava asked.
+"So...I shouldn't care?" Ava asked.
 
 "Exactly! Just be smart about it. Have as much or as little as you want, and don't let anybody tell you when or with who or anything like that. That's all your choice and nobody else's. Just be smart about it."
 
 "Smart?"
 
-"Well I mean, you know about…the pill, and condoms and everything, right?"
+"Well I mean, you know about...the pill, and condoms and everything, right?"
 
-"Oh, *that!"* Ava looked relieved. "Yes I…I know that stuff."
+"Oh, *that!"* Ava looked relieved. "Yes I...I know that stuff."
 
-"Good. So be smart about using them, because…trust me on this, you really don't want to be a mum yet."
+"Good. So be smart about using them, because...trust me on this, you really don't want to be a mum yet."
 
 "No." Ava agreed.
 
-"Okay. So the question isn't '*how do you know when it's the right time*', okay? The question is just…'*Do you want to*'?"
+"Okay. So the question isn't '*how do you know when it's the right time*', okay? The question is just...'*Do you want to*'?"
 
-There was a long pause, during which Ava drank about a third of her Ovaltine. "Adam's…going away." she said, eventually and quietly.
+There was a long pause, during which Ava drank about a third of her Ovaltine. "Adam's...going away." she said, eventually and quietly.
 
 Hayley shuffled around the corner and put an arm round Ava, rubbing her back. "He is?"
 
-Ava nodded. "He turns seventeen a few days before Christmas, and he's…joining the military."
+Ava nodded. "He turns seventeen a few days before Christmas, and he's...joining the military."
 
-"Oh, honey…"
+"Oh, honey..."
 
-"No, no. I'm happy: I'm going to be doing something too. We both want to achieve something and this is the way he's doing it." She sounded like she meant it. "But…he's going to be gone for so long, and…"
+"No, no. I'm happy: I'm going to be doing something too. We both want to achieve something and this is the way he's doing it." She sounded like she meant it. "But...he's going to be gone for so long, and..."
 
 "You feel like you should give him a proper send-off?"
 
 Ava nodded.
 
-"That's…for me, that wouldn't be the right reason, sweetie."
+"That's...for me, that wouldn't be the right reason, sweetie."
 
-Ava wrapped both hands around her Ovaltine and sipped it. "In that case…what *would* be the right reason?" She asked.
+Ava wrapped both hands around her Ovaltine and sipped it. "In that case...what *would* be the right reason?" She asked.
 
 "There's only one right reason, honey: because you both want to. The list starts and ends there."
 
@@ -331,27 +331,27 @@ They sat in silence for a bit until Ava had finished her drink.
 
 "I'm leaving too." Hayley revealed.
 
-"…You are?!" Ava looked up, and Hayley internally winced at the desperation she saw in the younger girl's eyes. "Hayley, why?"
+"...You are?!" Ava looked up, and Hayley internally winced at the desperation she saw in the younger girl's eyes. "Hayley, why?"
 
 "Don't worry, it's not because of Sara or anything. I'll be coming back." she promised. "I'm just going away for a few months."
 
 "Why?"
 
-"I'm…Mark and I are having another baby." She dug the pregnancy test box out from where she'd hidden it under a throw pillow. "We're worried about the low gravity affecting the baby's development, so I'm going back to Earth for a year…You're the first person I've told besides him."
+"I'm...Mark and I are having another baby." She dug the pregnancy test box out from where she'd hidden it under a throw pillow. "We're worried about the low gravity affecting the baby's development, so I'm going back to Earth for a year...You're the first person I've told besides him."
 
-"Oh, wow…"
+"Oh, wow..."
 
-"I think I conceived a day or two before we lost Sara…I know Mark and I haven't…we've not been together since then."
+"I think I conceived a day or two before we lost Sara...I know Mark and I haven't...we've not been together since then."
 
 "You've not?"
 
-Hayley nodded. "I'm not ready." she said. "I'm so scared I'll treat the new child like a replacement for Sara. But…here we are. So, I'm going back to work with the Earth end of the Reclamation Project, and Mark's staying here."
+Hayley nodded. "I'm not ready." she said. "I'm so scared I'll treat the new child like a replacement for Sara. But...here we are. So, I'm going back to work with the Earth end of the Reclamation Project, and Mark's staying here."
 
 It was Ava's turn to put a hand on Hayley's arm. "Are you two..?"
 
-"We're…" Hayley squeezed back some impending tears with a forced smile. "We're fine. Really. He gets angry sometimes, I've said some things that…We scare Jack sometimes. But we always cuddle and talk it out afterwards. In a way, I'm glad the baby's come along. It'll give us both something to work on for the future. Maybe that and a little distance will help."
+"We're..." Hayley squeezed back some impending tears with a forced smile. "We're fine. Really. He gets angry sometimes, I've said some things that...We scare Jack sometimes. But we always cuddle and talk it out afterwards. In a way, I'm glad the baby's come along. It'll give us both something to work on for the future. Maybe that and a little distance will help."
 
-She wiped her eyes. "Come on, you came here for advice. Is…did I help?"
+She wiped her eyes. "Come on, you came here for advice. Is...did I help?"
 
 Ava nodded. "You helped a lot." she promised. "I just have one question left, really."
 
@@ -363,23 +363,23 @@ Hayley giggled. "Honey, with boys? It's *so* easy to tell."
 
 "Be serious." Ava protested.
 
-"I was!" Hayley assured her. "But the simplest way is to just ask him. Failing that, if you want to be sure…well, if you make it obvious that you want him, then you'll know soon enough either way."
+"I was!" Hayley assured her. "But the simplest way is to just ask him. Failing that, if you want to be sure...well, if you make it obvious that you want him, then you'll know soon enough either way."
 
-"So…how do I make it obvious?"
+"So...how do I make it obvious?"
 
 Hayley laughed. "Go into his room wearing some perfume and one of his T-shirts and nothing else, kiss him, then grab his wrist and put his hand on your butt." she said. "He'd have to be *dead* not to get that message."
 
 "But what if–?"
 
-Hayley interrupted her, patiently. "Ava. Sweetie. Everything after that point is for you and him, okay? There's no script. Just *talk* to one another. Tell him how you feel, tell him what you want to do, tell him what you want *him* to do, ask him what *he* wants…That's the most important thing, okay? Communication."
+Hayley interrupted her, patiently. "Ava. Sweetie. Everything after that point is for you and him, okay? There's no script. Just *talk* to one another. Tell him how you feel, tell him what you want to do, tell him what you want *him* to do, ask him what *he* wants...That's the most important thing, okay? Communication."
 
-"That sounds…awkward." Ava was blushing.
+"That sounds...awkward." Ava was blushing.
 
-"It will be. Forget what it's like in movies, sex is always at least a little bit awkward. Your first time most of all. Just…live with that and try to have fun."
+"It will be. Forget what it's like in movies, sex is always at least a little bit awkward. Your first time most of all. Just...live with that and try to have fun."
 
-"…Thanks, Hayley."
+"...Thanks, Hayley."
 
-"No; thank *you*. It's good to…" she'd been about to say something about falling back into that mother role, but decided against it. "…to be able to give advice." she finished.
+"No; thank *you*. It's good to..." she'd been about to say something about falling back into that mother role, but decided against it. "...to be able to give advice." she finished.
 
 Ava smiled and gave her a little hug. She left the house looking much more relaxed than she had entered it.
 
@@ -389,17 +389,17 @@ For her part, Hayley was surprised to find there was a little warm coal of happi
 
 ***Owen Powell***
 
-"So…what am I going to be doing?" Adam was asking, as Powell entered the gym. Legsy hadn't, as predicted, been happy about giving Adam a '*taster*', but the young man was persuasive and knew his own mind.
+"So...what am I going to be doing?" Adam was asking, as Powell entered the gym. Legsy hadn't, as predicted, been happy about giving Adam a '*taster*', but the young man was persuasive and knew his own mind.
 
 The sergeant just picked up the rucksack that had been leaning against the wall behind him, hoisting it easily in one hand. "You're going to run around the gym wearing this." he said.
 
-"Okay…" Adam turned around. "How heavy is—*oof!"*
+"Okay..." Adam turned around. "How heavy is—*oof!"*
 
-"Do up that one around your waist…and that one across your chest. Pull 'em tight…no, tighter than that, come on! There you are." Legsy instructed, until the pack was strapped tight to Adam's body. He gave it an experimental shake, yanking the teenager around. "Good?"
+"Do up that one around your waist...and that one across your chest. Pull 'em tight...no, tighter than that, come on! There you are." Legsy instructed, until the pack was strapped tight to Adam's body. He gave it an experimental shake, yanking the teenager around. "Good?"
 
 Adam nodded, though his expression had an edge of trepidation to it now. "Good."
 
-"…Well, what are you waiting for then?" Legsy demanded. Adam made an '*oh, right*' face and set off at a jog.
+"...Well, what are you waiting for then?" Legsy demanded. Adam made an '*oh, right*' face and set off at a jog.
 
 "Is that what you call running?" Legsy shouted after him. "Come on, you're here to *train*, boyo!"
 
@@ -419,7 +419,7 @@ Adam nodded and gained some speed.
 
 "You're starting the kid out on tab weight?"
 
-"If he's going for PJ, sir…*faster boyo, come on!*…then fuck aye I'm starting him there." Legsy told him. "Besides, he's stronger than he looks."
+"If he's going for PJ, sir...*faster boyo, come on!*...then fuck aye I'm starting him there." Legsy told him. "Besides, he's stronger than he looks."
 
 Powell watched Adam piston along, already drenched in sweat and red as a forge. "You know training better than me." he conceded.
 
@@ -441,7 +441,7 @@ Powell arched an eyebrow at the number on it. "Really?"
 
 "Fuck aye." Legsy agreed. "Especially if we can find his superman button."
 
-"His…hmm." Powell rubbed his chin. "Mind if I–?"
+"His...hmm." Powell rubbed his chin. "Mind if I–?"
 
 "Be my guest."
 
@@ -453,17 +453,17 @@ Adam's breathing was much improved even by the time Powell reached him, though t
 
 "Do? You're not done yet, mate."
 
-"…you're *kidding*?!"
+"...you're *kidding*?!"
 
 "Nope."
 
-"But…how…? *Everything* hurts!"
+"But...how...? *Everything* hurts!"
 
 "Is that right? Fine, that's nowt to be worried about." Powell reassured him. "You can lie there a bit longer, but while you're at it, I want you to imagine the future."
 
-"Okay…?"
+"Okay...?"
 
-"Imagine…Adam Arés, seventy years from now, dying peacefully in hospital, surrounded by his beautiful wife and beautiful kids and beautiful grandkids. Idyllic, right? A warm hand in his, and his family all about him, he closes his eyes and slips away…and there they are."
+"Imagine...Adam Arés, seventy years from now, dying peacefully in hospital, surrounded by his beautiful wife and beautiful kids and beautiful grandkids. Idyllic, right? A warm hand in his, and his family all about him, he closes his eyes and slips away...and there they are."
 
 Adam just gaped at him, confused.
 
@@ -499,29 +499,29 @@ The now familiar soreness and weakness in Adam's legs were promptly forgotten wh
 
 "Well, what do you get the man who's leaving everything behind?" Gabriel asked.
 
-"…good question." Adam said, eyeing the gifts. Gabriel just grinned and lit the candles—two large numbers, rather than a field of seventeen small ones. "Blow them out and you'll see." he promised.
+"...good question." Adam said, eyeing the gifts. Gabriel just grinned and lit the candles—two large numbers, rather than a field of seventeen small ones. "Blow them out and you'll see." he promised.
 
 Adam dutifully did so, and Ava slid the gifts in front of him as Gabriel set about cutting the cake.
 
 "That one's from the school." she said as Adam selected it. He fingered the odd, lumpy package for a second, then gave up on identification and ripped it open.
 
-"Sandals and a…toiletries bag?" He opened it and peered inside, finding an assortment of hygiene products and some deodorant.
+"Sandals and a...toiletries bag?" He opened it and peered inside, finding an assortment of hygiene products and some deodorant.
 
 "They did some research and apparently you'll need all of those in training." Ava explained.
 
 "Huh. Thoughtful of them." Adam set them aside, pleased with the gift.
 
-Ava gave him an embarrassed smile when he opened her gift. "You're allowed so little and…y'know, the school had already got you everything, so, I, uh…kind of donated to charity in your name." she confessed. "I'm sorry."
+Ava gave him an embarrassed smile when he opened her gift. "You're allowed so little and...y'know, the school had already got you everything, so, I, uh...kind of donated to charity in your name." she confessed. "I'm sorry."
 
 "WaterAid?" Adam read the card.
 
-"Yeah. They say the amount I gave should save a few lives…" she smiled nervously.
+"Yeah. They say the amount I gave should save a few lives..." she smiled nervously.
 
 Adam kissed her. "Good gift." he reassured her, and selected the card from Gabriel.
 
 A photograph fell out of it when he opened it. When he picked it up, his mouth opened slightly. "How did you–?"
 
-"Facebook." Gabriel said. "Kind of a…reminder of more innocent days."
+"Facebook." Gabriel said. "Kind of a...reminder of more innocent days."
 
 Adam nodded, realising that it was the first time he'd seen his own mother's face in months. Luiza Arés *nee* Ortega hadn't been an easy woman to get along with. In fact some days she'd been the bane of his life. But the photograph really was a happy one, showing off an all-too-rare smile that made it very obvious why Gabriel had ever fallen in love with her, and it reminded Adam just for a second that he really did miss her.
 
@@ -543,7 +543,7 @@ Christmas on Cimbrean seemed set to become something a little different to the s
 
 None of the small congregation at that morning's nondenominational mass had apparently minded. In fact, the sermon had stressed Matthew 6:5 and its implications for a Christian abroad in a predominantly secular galaxy. Not that you should keep your faith to yourself, as such, so much as that your faith was *yours*, your own little candle to carry. Giving you light and warmth, but also representing a burden of care, not to let it die and not to burn down your relationships with.
 
-That…*relaxed* approach didn't exactly gel with what Ava had learned in Sunday school. The ideas of Hell and Salvation had always scared her, while, insofar as Christianity as it was practiced in Folctha could be called a "sect", their sect's focus on personal fulfillment in this life through a loving relationship with God, rather than expectation of reward or a stay of punishment in the next through a regime of worship, spoke to her.
+That...*relaxed* approach didn't exactly gel with what Ava had learned in Sunday school. The ideas of Hell and Salvation had always scared her, while, insofar as Christianity as it was practiced in Folctha could be called a "sect", their sect's focus on personal fulfillment in this life through a loving relationship with God, rather than expectation of reward or a stay of punishment in the next through a regime of worship, spoke to her.
 
 The consensus at discussion over coffee that had followed had broadly been that in fact a Christian on Cimbrean was free to have a much more personal relationship with God precisely for those reasons. Most of them confessed to feeling more spiritually fulfilled than they ever had on Earth. A few expressed doubts about "reinventing" Christianity, but even those voices were simply voices of caution, rather than rejection.
 
@@ -555,7 +555,7 @@ There was no snow, of course. In fact, it was a warm Cimbrean summer's day, henc
 
 The Gaoians were watching it all with plain and obvious bemusement, she noticed. There were a lot of them now, all males, and all seriously throwing themselves into the practice of meditation with the vigor of a man helping his child build sandcastles who'd suddenly uncovered a pirate chest. They were sipping mulled wine and probably enjoying themselves, though they were keeping out of the way.
 
-There was so much to take in, none of it guided by any specific tradition, but informed by hundreds. People bringing out their presents to put them in little piles under the tree. The smells of the town feast being prepared, spices and dancing and an impromptu *a capella* rendition of "Fairytale of New York", Sir Jeremy Sandy in a Santa outfit, the Soldiers versus Civilians tug-o'-war…
+There was so much to take in, none of it guided by any specific tradition, but informed by hundreds. People bringing out their presents to put them in little piles under the tree. The smells of the town feast being prepared, spices and dancing and an impromptu *a capella* rendition of "Fairytale of New York", Sir Jeremy Sandy in a Santa outfit, the Soldiers versus Civilians tug-o'-war...
 
 Hayley and Mark sitting in a corner, his arms around her waist from behind, watching their son—Sara's little brother Jack—play with his classmates with strange expressions that were equal parts happiness and sadness.
 
@@ -583,23 +583,23 @@ She called through the door. "Can I come in?"
 
 "Sure!"
 
-She'd left the hall light on and leaned against the door frame, backlit by it, and Adam had to employ some willpower not to stare. She was wearing what looked a lot like one of his t-shirts, a thin white one. The shirt itself wasn't blocking any of the light from behind her, and the varying depth of shadow her body made under it was…
+She'd left the hall light on and leaned against the door frame, backlit by it, and Adam had to employ some willpower not to stare. She was wearing what looked a lot like one of his t-shirts, a thin white one. The shirt itself wasn't blocking any of the light from behind her, and the varying depth of shadow her body made under it was...
 
 He sat up some more and leaned forward to try and hide what the view did to him, discreetly bunching a little more blanket on his lap.
 
-There wasn't anywhere else to look though, without actually looking away from her. If he looked down then he had to contend with her legs, and as for her face…there was an expression there he couldn't really read—a dark and intense one.
+There wasn't anywhere else to look though, without actually looking away from her. If he looked down then he had to contend with her legs, and as for her face...there was an expression there he couldn't really read—a dark and intense one.
 
-"Hey, uh…" He said. "You okay?"
+"Hey, uh..." He said. "You okay?"
 
 "It's gone midnight." she said.
 
-"Oh…uh, happy birthday."
+"Oh...uh, happy birthday."
 
 She looked like she was about to say something. Then she shook her head, stepped onto the bed and hugged him. "Can I sleep here tonight?" She asked.
 
 He scooted over and she dug herself under the blankets and wriggled into his chest. He smoothed her hair out of the way. "You okay?"
 
-"…I just…" She looked up and kissed him. "It's going to be tough, not having you around."
+"...I just..." She looked up and kissed him. "It's going to be tough, not having you around."
 
 He put a hand on the back of her head and held her. "That's going to be the toughest bit." he agreed.
 
@@ -645,9 +645,9 @@ It was subtle. The young mother in line in front of him had shepherded her kids 
 
 He tried to ignore it, studying the menu as they crawled toward the counter, but it was difficult to ignore that the people who joined the line behind him left arm's length at least, nor the snippet of conversation he could just hear from a middle-aged couple by the door.
 
-'*No, I don't think so…he doesn't have any tattoos…*'
+'*No, I don't think so...he doesn't have any tattoos...*'
 
-*That*…shocked him. Upset and surprised him. He fumbled his way through a clumsy order for a simple Latte, left the change for a tip, and made himself scarce.
+*That*...shocked him. Upset and surprised him. He fumbled his way through a clumsy order for a simple Latte, left the change for a tip, and made himself scarce.
 
 His return walk to the hotel was a solemn and thoughtful one which he spent, rather than looking up at the buildings, looking down at his feet, lost in thought and trying to ignore the way people veered out of his path on the sidewalk.
 
@@ -673,7 +673,7 @@ By the time it was done he felt both as if he'd never stopped moving, and also a
 
 "Why?"
 
-"The unit motto speaks to me. '*That others may live*'." When Foster just waited patiently, he felt drawn to elaborate. "I've…I'm from San Diego originally, I've lost people, and I guess I want to keep others from having to experience that."
+"The unit motto speaks to me. '*That others may live*'." When Foster just waited patiently, he felt drawn to elaborate. "I've...I'm from San Diego originally, I've lost people, and I guess I want to keep others from having to experience that."
 
 "Have you considered alternatives?"
 
@@ -681,17 +681,17 @@ By the time it was done he felt both as if he'd never stopped moving, and also a
 
 "What alternatives did you consider?"
 
-"I guess…security, force protection. Medic…That kinda thing, you know? I was thinking of being a cop like my dad, before I decided to do this."
+"I guess...security, force protection. Medic...That kinda thing, you know? I was thinking of being a cop like my dad, before I decided to do this."
 
 "Was there any specific event that changed your mind there?"
 
-Adam nodded. "My friend was murdered. Sara Tisdale? On Cimbrean? I heard it was a big story back here on Earth for a while…"
+Adam nodded. "My friend was murdered. Sara Tisdale? On Cimbrean? I heard it was a big story back here on Earth for a while..."
 
 Foster nodded. "You have my condolences." he said. "But why did that change your mind about your choice of career?"
 
 Adam took a deep breath, worried that what he was about to say might sound paranoid or crazy and ruin his chances then and there, but Powell's advice had been impossible to misinterpret—speak honestly, always.
 
-"I think…I think there's a pattern at work." he said. "like, everyone knows that San Diego was destroyed by antimatter, it was in the official investigation's report. But nobody has that much antimatter on Earth, so there have to be aliens involved somehow, and who else would want to sabotage Folctha's spaceport like the guy who shot Sara was trying to? Well, I think that the military know who's behind it, and I want in. I want to stop them from hurting anybody else."
+"I think...I think there's a pattern at work." he said. "like, everyone knows that San Diego was destroyed by antimatter, it was in the official investigation's report. But nobody has that much antimatter on Earth, so there have to be aliens involved somehow, and who else would want to sabotage Folctha's spaceport like the guy who shot Sara was trying to? Well, I think that the military know who's behind it, and I want in. I want to stop them from hurting anybody else."
 
 "Hmm."
 
@@ -715,7 +715,7 @@ Adam dropped off the bar and turned to face him. Foster shook his head. "I didn'
 
 "Sorry."
 
-Foster watched him resume his form. "So…why you?" he asked.
+Foster watched him resume his form. "So...why you?" he asked.
 
 "What do you mean?" Adam asked him.
 
@@ -725,7 +725,7 @@ Foster watched him resume his form. "So…why you?" he asked.
 
 "Okay, well what makes you think you're right for Pararescue?."
 
-Adam's brow creased as he really started to feel his muscles working. The weighted vest was making all the difference. "I'm going to work damn hard for this." he said. "if I have to stay on this…" he grunted "…bar 'til I'm twenty to prove that, I damn well will."
+Adam's brow creased as he really started to feel his muscles working. The weighted vest was making all the difference. "I'm going to work damn hard for this." he said. "if I have to stay on this..." he grunted "...bar 'til I'm twenty to prove that, I damn well will."
 
 "You think you can work that hard?"
 
@@ -751,7 +751,7 @@ The important part was, that he was past the first hurdle.
 
 ***Technical Sergeant George Foster***
 
-"Okay, next up for review is…Adam Arés, permanent address…Twenty Delaney Row, Folctha, Cimbrean. Huh."
+"Okay, next up for review is...Adam Arés, permanent address...Twenty Delaney Row, Folctha, Cimbrean. Huh."
 
 "Yeah, we've got ourselves a space cadet here." Somebody joked.
 
@@ -761,19 +761,19 @@ The important part was, that he was past the first hurdle.
 
 "What's it say?"
 
-"Pretty typical British, really." The sergeant with that file examined the letter. "To.. blah, blah…'*I'm sending this young man your way with my professional opinion that he may be of some use to you. Yours sincerely, Captain Owen Powell*' et cetera. End letter." She smiled, folding it up again. "You've got to love the Brits, right?"
+"Pretty typical British, really." The sergeant with that file examined the letter. "To.. blah, blah...'*I'm sending this young man your way with my professional opinion that he may be of some use to you. Yours sincerely, Captain Owen Powell*' et cetera. End letter." She smiled, folding it up again. "You've got to love the Brits, right?"
 
 "Isn't Powell the SBS officer behind the SOR program?" Foster asked. "If he is, then that's a *glowing* reference right there."
 
 "That's right."
 
-"Well his opinion seems on the money. The kid's already fit and strong and he's got exactly the right build for a PJ. So…Unless there's anything wrong with him, Doc?"
+"Well his opinion seems on the money. The kid's already fit and strong and he's got exactly the right build for a PJ. So...Unless there's anything wrong with him, Doc?"
 
-The chief medical examiner studied his own copy of the candidate's notes. "His bloodwork showed a lot of testosterone…" He commented. "…but I chalk that up to him being young, fit and eager to prove himself. I see no reason to suspect steroids or substance abuse. His mother died young in the San Diego blast so there's no way to know his medical history from her…There's a history of Glaucoma and Coronary Artery Disease from his paternal grandparents, but his ECG and intraocular pressures were all fine today. No concerns."
+The chief medical examiner studied his own copy of the candidate's notes. "His bloodwork showed a lot of testosterone..." He commented. "...but I chalk that up to him being young, fit and eager to prove himself. I see no reason to suspect steroids or substance abuse. His mother died young in the San Diego blast so there's no way to know his medical history from her...There's a history of Glaucoma and Coronary Artery Disease from his paternal grandparents, but his ECG and intraocular pressures were all fine today. No concerns."
 
 Foster turned to the staff psychologist, Lieutenant Schoemann. "Doctor?"
 
-"…He's angry. Grieving and angry." Schoemann concluded, examining his notes. "But he's channelling it well, it's motivating him healthily. He's got a long-term steady girlfriend and he's come to us. That shows drive and an ability to emotionally commit, and that month of hard training proves that this wasn't a spur-of-the-moment decision, he's thought about this and prepared for it. He's…maybe not the most introspective young man I've ever met, but he's not lacking in intelligence…Overall he's calm, pleasant, confident, intelligent and well-adjusted, with plenty of healthy aggression. I think he's an excellent candidate."
+"...He's angry. Grieving and angry." Schoemann concluded, examining his notes. "But he's channelling it well, it's motivating him healthily. He's got a long-term steady girlfriend and he's come to us. That shows drive and an ability to emotionally commit, and that month of hard training proves that this wasn't a spur-of-the-moment decision, he's thought about this and prepared for it. He's...maybe not the most introspective young man I've ever met, but he's not lacking in intelligence...Overall he's calm, pleasant, confident, intelligent and well-adjusted, with plenty of healthy aggression. I think he's an excellent candidate."
 
 "Guess he's one for you, then." Foster commented, turning to Master Sergeant Wood, the special forces recruiter.
 
@@ -801,7 +801,7 @@ The driver parked up and got out of the car, which surprised him, as did the fac
 
 The driver shook his hand. "Master Sergeant Tony Wood, USAF special forces recruiter." he said, producing a card to verify his identity.
 
-"Oh! I, uh…thought I'd be meeting you at the MEPS, Master Sergeant."
+"Oh! I, uh...thought I'd be meeting you at the MEPS, Master Sergeant."
 
 "You can just call me Sergeant, son. I figured I'd get a look at you in motion, you up to go for a jog?"
 
@@ -811,7 +811,7 @@ And so it proved. That month of training with Legsy paid off—jogging on Earth 
 
 Weirdly, the questions he'd been preparing for didn't materialise. They just did a double loop round some of the interesting parts of Downtown before returning to the car, and Adam's ego wilted a little when he noticed that Wood, although he was steaming up the air with regular, working breaths, had obviously found the run much easier than he had. Clearly, he still had a lot of fitness to gain to really make the grade.
 
-"Not bad. Y'ain't fast but next to some of the other kids I've seen…" Wood congratulated him.
+"Not bad. Y'ain't fast but next to some of the other kids I've seen..." Wood congratulated him.
 
 "Thank you, Sergeant."
 
@@ -835,9 +835,9 @@ Wood didn't comment as he climbed in, just put an arm on the back of the seat to
 
 "Thank you." Adam tried not to smile.
 
-"Well, hear me out…" Wood took a third right turn. Adam wasn't sure if he had a destination in mind—the route was such an inefficient one that he  suspected the sergeant was just driving for the sake of keeping them moving. Fortunately he didn't turn right again, but sat back and relaxed on a long straight.
+"Well, hear me out..." Wood took a third right turn. Adam wasn't sure if he had a destination in mind—the route was such an inefficient one that he  suspected the sergeant was just driving for the sake of keeping them moving. Fortunately he didn't turn right again, but sat back and relaxed on a long straight.
 
-"…What if I could offer you something more?" he asked.
+"...What if I could offer you something more?" he asked.
 
 "More?"
 
@@ -847,7 +847,7 @@ Adam did so. When he swiped to turn it on, it filled with what was clearly a for
 
 "Non-Disclosure Agreement." Wood revealed. "You need to read it in full, sign and give a verbal signature, but the gist of it is that what I'm about to tell you is classified information and you'll be liable to federal prosecution if you discuss it with unauthorised persons."
 
-"Okay…" Adam read the document in full, twice, then wrote and signed his name and, when prompted, carefully enunciated the script that the form displayed for him. "I, Adam Miguel Ángel Arés, solemnly affirm that I agree to be bound by the terms and conditions of this non-disclosure agreement."
+"Okay..." Adam read the document in full, twice, then wrote and signed his name and, when prompted, carefully enunciated the script that the form displayed for him. "I, Adam Miguel Ángel Arés, solemnly affirm that I agree to be bound by the terms and conditions of this non-disclosure agreement."
 
 Wood nodded. "There's a program in the works, something that your Captain Powell had a hand in masterminding." he said.
 
@@ -859,23 +859,23 @@ Adam nodded. "Yeah."
 
 "Well, Captain Powell, and the commanding officers of the two ships involved, HMS *Myrmidon* and HMS *Caledonia*, they made a recommendation to the British Ministry of Defence that specialist skills and training were going to be required to form the basis of infantry operations in space. The MoD decided to share the idea with the DoD, and from there it got bumped all around the Coalition and it's becoming a joint Allied venture."
 
-He took a left turn. "It's being called the Spaceborne Operations Regiment, or SOR. Currently it doesn't even really exist—it doesn't have any men, the spacesuits they'd wear are still being designed…but we know two things about it. The first being that its primary mandate will be frontline combat operations against the alien organisation which, you're right, nuked San Diego and murdered your friend."
+He took a left turn. "It's being called the Spaceborne Operations Regiment, or SOR. Currently it doesn't even really exist—it doesn't have any men, the spacesuits they'd wear are still being designed...but we know two things about it. The first being that its primary mandate will be frontline combat operations against the alien organisation which, you're right, nuked San Diego and murdered your friend."
 
 "So it's real."
 
 "Yup. That's as much as I can tell you for now; even under NDA, you're not cleared for the details. But you're right, we're fighting a war right now, and the SOR are going to be the guns in that fight."
 
-"…Alright. What's the other thing?"
+"...Alright. What's the other thing?"
 
 "Training will be four years. Minimum. And you'll be under contract for at least four years after that, so this would be at least an eight year commitment, if you took it."
 
-"That's…an awful long time."
+"That's...an awful long time."
 
 "Yup." Wood agreed. "We had to jump through hoops to get that contract approved."
 
 "Would they be doing stuff other than fighting these aliens?"
 
-"Anti-piracy operations, counter-Hunter operations…Most of the time you'd be operating exactly like any Pararescueman under the aegis of the USAF, so search and rescue of liferafts and broken ships, humanitarian aid, emergency medicine. Finally, you'd be a qualified astronaut and that means you might wind up spending some time on the ISS in some capacity."
+"Anti-piracy operations, counter-Hunter operations...Most of the time you'd be operating exactly like any Pararescueman under the aegis of the USAF, so search and rescue of liferafts and broken ships, humanitarian aid, emergency medicine. Finally, you'd be a qualified astronaut and that means you might wind up spending some time on the ISS in some capacity."
 
 "Anything else?"
 
@@ -887,9 +887,9 @@ Wood's jaw moved, thoughtfully. "Yes." he said eventually. "We *think* we're goi
 
 "It can be done, though?"
 
-"Sure. The numbers are within the limits of what's humanly possible, but if we're going to get you that strong inside the duration of your training…At the very least it'll be difficult, and probably quite dangerous."
+"Sure. The numbers are within the limits of what's humanly possible, but if we're going to get you that strong inside the duration of your training...At the very least it'll be difficult, and probably quite dangerous."
 
-Adam sat quietly and ignored whatever route Wood was taking for some minutes. "I'll…need to think about it." he decided eventually.
+Adam sat quietly and ignored whatever route Wood was taking for some minutes. "I'll...need to think about it." he decided eventually.
 
 "Good." Wood nodded. "If you jumped at the chance, I'd have turned you down on the spot. You're going to need to be sensible, not impulsive."
 
@@ -915,7 +915,7 @@ He surveyed them all. "This Oath is binding. Once you have taken it, you will ha
 
 Nobody did. Adam flipped the card over, double-checked its content, and nodded to himself, mentally preparing.
 
-The officer smiled, "In that case, we'll be going in alphabetical order…Arés, Adam."
+The officer smiled, "In that case, we'll be going in alphabetical order...Arés, Adam."
 
 Adam stepped forward.
 
@@ -927,7 +927,7 @@ Adam stepped forward.
 
 Adam did so.
 
-"I, Adam Miguel Angél Arés, do solemnly affirm that I will…" he checked the card "…will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I…will bear true faith and allegiance to the same; and that…" he checked the card again "and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the, uh…the Uniform Code of Military Justice. By my word am I bound."
+"I, Adam Miguel Angél Arés, do solemnly affirm that I will..." he checked the card "...will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I...will bear true faith and allegiance to the same; and that..." he checked the card again "and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the, uh...the Uniform Code of Military Justice. By my word am I bound."
 
 The officer extended a hand, smiling warmly. "Welcome to the Air Force, son."
 
@@ -957,7 +957,7 @@ A face was suddenly inches from his own "*You play any musical instruments, trai
 
 "No, sir!" The face disappeared.
 
-There was a lot of shouting, much of it…not *insulting*, but certainly calculated to shake any illusions he may have had about being confident or ready for this. He tried to stay focused in case any of it was directed at him. The fact that nobody else rolled up and roared at him suggested that he succeeded there, and it wasn't long before they were bawled into filing into the building, assigned their seats at deafening volume, told to stand up, told to sit down.
+There was a lot of shouting, much of it...not *insulting*, but certainly calculated to shake any illusions he may have had about being confident or ready for this. He tried to stay focused in case any of it was directed at him. The fact that nobody else rolled up and roared at him suggested that he succeeded there, and it wasn't long before they were bawled into filing into the building, assigned their seats at deafening volume, told to stand up, told to sit down.
 
 Adam could focus on nothing other than making sure he heard and obeyed any order that was directed at him, responding to them as well he could. It wasn't long before he found himself at a mess table with a tray in front of him. There wasn't much on it—a sandwich, a bag of potato chips and a small carton of orange juice. the sandwich turned out to be frozen solid, the chips were plain and unsalted, and the juice was watery and unpalatable. He forced it down as best he could anyway, polishing off the juice and chips before he was halfway through the sandwichcicle.
 
@@ -1075,7 +1075,7 @@ Burgess frowned at him. "*No!"* he asserted.
 
 "Too fucking late, brother." one of the others asserted. "You call him WARHORSE, you get called BASEBALL. All's fair in love and war."
 
-There was general snickering at that one as the newly-christened '*BASEBALL*' wilted. "…shit." he declared.
+There was general snickering at that one as the newly-christened '*BASEBALL*' wilted. "...shit." he declared.
 
 Adam laughed. Being able to share the experience of an embarrassing nickname was taking some of the sting out. "Guess we'd better get used to it." he said.
 
@@ -1097,7 +1097,7 @@ Ava nodded. "Yeah, he gets to send me one a week, this is the fourth one. Logan 
 
 "It's a shame you can't have phone calls."
 
-"Yeah. I really miss just hearing his voice…" Ava looked at the letter, longingly.
+"Yeah. I really miss just hearing his voice..." Ava looked at the letter, longingly.
 
 "Could I–?" Jessica asked. "I mean, not if it's too personal, but I'd like to know how he's getting on."
 
@@ -1111,35 +1111,35 @@ Ava nodded, knowing that Adam's letters never contained anything embarrassingly 
 
 Jessica giggled "It's okay. Go on."
 
-"…*It means I blanked up and I don't want to blank up. Being yelled at means the TI's got my back, he wants to help me not blank up in future. So when he yells at me, he's helping me."*
+"...*It means I blanked up and I don't want to blank up. Being yelled at means the TI's got my back, he wants to help me not blank up in future. So when he yells at me, he's helping me."*
 
-"*They've made me Guidon bearer, it's kind of cool but I have to carry this thing on runs and salute with it and it's heavy as-*" she cleared her throat "…*as blank."*
+"*They've made me Guidon bearer, it's kind of cool but I have to carry this thing on runs and salute with it and it's heavy as-*" she cleared her throat "...*as blank."*
 
 "*That's my fifteen minutes, lots of love to Dad and even more for you."*
 
 *Love, Adam."*
 
-Jessica sat back. "Wow." she said. "He sounds…different already."
+Jessica sat back. "Wow." she said. "He sounds...different already."
 
 "Yeah." Ava agreed, quietly.
 
-"…are you okay with that?"
+"...are you okay with that?"
 
 Ava folded the letter again. "I guess I have to be." she said.
 
 Jessica inclined her head—Ava had sounded genuinely philosophical rather than resigned or bitter. "What do you mean?"
 
-"There's…" Ava sighed, and sat back, running a hand through her hair. "Like, there are so many things I can't change. I sure as heck couldn't change Adam's mind about this, if I could he wouldn't *be* Adam. So what's the point in not being okay with them?"
+"There's..." Ava sighed, and sat back, running a hand through her hair. "Like, there are so many things I can't change. I sure as heck couldn't change Adam's mind about this, if I could he wouldn't *be* Adam. So what's the point in not being okay with them?"
 
-"That's…true, I guess." Jessica conceded.
+"That's...true, I guess." Jessica conceded.
 
-"Yeah…" Ava looked down at the letter. There was a sharp *tap* as a wet patch appeared on it and she scrubbed furiously at her face.
+"Yeah..." Ava looked down at the letter. There was a sharp *tap* as a wet patch appeared on it and she scrubbed furiously at her face.
 
-"Ava, if you need some time alone…" Jessica offered.
+"Ava, if you need some time alone..." Jessica offered.
 
-This earned her a brave little smile, and a headshake. "I'm…No, I just need to, to focus on the things I *can* change. That's all."
+This earned her a brave little smile, and a headshake. "I'm...No, I just need to, to focus on the things I *can* change. That's all."
 
-"…Okay. You let me know if you need anything, okay?"
+"...Okay. You let me know if you need anything, okay?"
 
 Ava just nodded her gratitude, set the letter aside, and returned to reading the textbook she'd chosen.
 
@@ -1177,7 +1177,7 @@ Ava gave Gabriel a teasing smile. "You don't recognise your own son?" She asked.
 
 There was a deep-throated chuckle from Gabe's left. "It's called '*marching*' mate." Powell told him. The captain had declined to share his reasons for attending the graduation, but in any case he stood out less than Ava would have guessed. His wasn't even the only non-US uniform present. In any case, Powell had a remarkable ability to stand still, watchful and quiet and slip people's attention when he wanted to. He was scanning the few hundred trainees in the parade with a cool, level stare that took in the details. "Your lad's an Airman now."
 
-Gabe frowned at him. "He's…still the same person under it all though, right?"
+Gabe frowned at him. "He's...still the same person under it all though, right?"
 
 "Even better." Powell said. "Trust me, he's the same bloke under it all, but he'll be sharper now, more confident. Probably in a bloody good mood, too."
 
@@ -1229,7 +1229,7 @@ She shook it. "WARHORSE?"
 
 "Your boy Adam there. That's his callsign."
 
-"He never mentioned that…"
+"He never mentioned that..."
 
 "Eh, he hates it." The airman grinned. "Did he mention me? John Burgess, I'm going into the PJ pipeline with him."
 
@@ -1237,9 +1237,9 @@ She shook it. "WARHORSE?"
 
 "I hope so, motherfucker took the top bunk over me for eight weeks!" He laughed, then self-censored. "Uh, sorry. Bleep."
 
-"It's no problem. So…WARHORSE?"
+"It's no problem. So...WARHORSE?"
 
-"Couple'a reasons. Your boy can carry *anything*, he's strong as shit, put a bag on him and he'll run all day. So, we *could* have called him Packmule, but…y'know with a name like Arés…"
+"Couple'a reasons. Your boy can carry *anything*, he's strong as shit, put a bag on him and he'll run all day. So, we *could* have called him Packmule, but...y'know with a name like Arés..."
 
 "Makes sense." Ava agreed, grinning.
 
@@ -1253,11 +1253,11 @@ Ava frowned at him, ignoring whatever it was Adam was so desperate about. "Brave
 
 Burgess grinned. "you know? The pants monster? Your boy here's morning wood damn near took my eye out from across the room!"
 
-"Wh–wow, really?" She'd seen Adam naked before of course, but that had been swimming, and he hadn't been at anything like…full…
+"Wh–wow, really?" She'd seen Adam naked before of course, but that had been swimming, and he hadn't been at anything like...full...
 
 She censored her own mental film reel.
 
-'*BASEBALL*' paused, then grimaced. "Ah. Shit. You, uh…didn't know?"
+'*BASEBALL*' paused, then grimaced. "Ah. Shit. You, uh...didn't know?"
 
 Ava shook her head. Adam just glared.
 
@@ -1265,7 +1265,7 @@ Ava shook her head. Adam just glared.
 
 Now *both* of them glared.
 
-"…I'll, uh," Burgess backed away, pointing generally over his shoulder. "I'll see you at the start of Indoc, brother."
+"...I'll, uh," Burgess backed away, pointing generally over his shoulder. "I'll see you at the start of Indoc, brother."
 
 "I'ma kick your ass worse than the PT." Adam warned him, though there was a hint of amusement under the warning.
 
@@ -1273,7 +1273,7 @@ Now *both* of them glared.
 
 Adam snorted and caught Ava's gaze. She was studying him with a grin of her own pulling at her cheeks, threatening to burst out into laughter, and it started to pull even harder when her eyebrows raised themselves at him.
 
-He cleared his throat. "He's…exaggerating."
+He cleared his throat. "He's...exaggerating."
 
 Her eyes flicked downwards. "Guess I'll just have to see for myself sometime."
 
@@ -1287,31 +1287,31 @@ It was good to know he was still essentially himself.
 
 Gabriel was treating them to dinner, while Powell had made his apologies and jetted back North to return to Folctha. Adam and Ava sat together in the back seat of Gabe's rented SUV on the drive into San Antonio proper, holding hands and talking quietly.
 
-"Okay, so…why '*BASEBALL*'?" she asked eventually.
+"Okay, so...why '*BASEBALL*'?" she asked eventually.
 
 "Couple of reasons."
 
 "One cool, one embarrassing?"
 
-"That's pretty much it, yeah." Adam nodded. "Burgess can *throw*. Says he was pitcher for his school team, and when we were practicing with dummy grenades…yeah."
+"That's pretty much it, yeah." Adam nodded. "Burgess can *throw*. Says he was pitcher for his school team, and when we were practicing with dummy grenades...yeah."
 
 "And the embarrassing?"
 
-"BASEBALL. For…more or less the same reason I'm WARHORSE. I don't have to draw you a picture, do I?"
+"BASEBALL. For...more or less the same reason I'm WARHORSE. I don't have to draw you a picture, do I?"
 
 She laughed. "Please don't!"
 
-"We're here." Gabriel announced. He'd pulled the car into the parking lot of a steakhouse called "The Barn Door" which he'd looked up using the excuse '*when in Rome…*'
+"We're here." Gabriel announced. He'd pulled the car into the parking lot of a steakhouse called "The Barn Door" which he'd looked up using the excuse '*when in Rome...*'
 
 It didn't take long to seat them, in a low-lit corner with a good view of some rodeo photographs and the two-foot flames on the grill.
 
 "So." Gabriel broke the silence once they were seated and had glanced at the menus. "That was Basic, huh?"
 
-"Yeah." Adam agreed. "Weird, it seemed really hard at the time but now…I mean, I'd find it easy if I had to go through that a second time."
+"Yeah." Adam agreed. "Weird, it seemed really hard at the time but now...I mean, I'd find it easy if I had to go through that a second time."
 
 "Eager to get on with PJ training?"
 
-Adam smiled sheepishly. "Dreading it." he said. "But, yeah. I said to Powell when he tried to warn me about it, y'know, people *do* pass it, and…it'll be tough, but I'm gonna be one of them."
+Adam smiled sheepishly. "Dreading it." he said. "But, yeah. I said to Powell when he tried to warn me about it, y'know, people *do* pass it, and...it'll be tough, but I'm gonna be one of them."
 
 Their waitress showed up. "Get y'all some drinks, folks?" she asked.
 
@@ -1331,11 +1331,11 @@ They looked around, determined that they were, and ordered the 24oz porterhouse 
 
 "So what happens after indoc?" Ava asked, once Rose had gone.
 
-"Airborne training, survival, diving, mountaineering, medical training…"
+"Airborne training, survival, diving, mountaineering, medical training..."
 
-"I mean," she interrupted, "After all that, too. Are you going to be on Cimbrean, or…?"
+"I mean," she interrupted, "After all that, too. Are you going to be on Cimbrean, or...?"
 
-"Maybe." Adam said. "I've got some career choices coming up, and if it all goes right then hopefully I will, but if I'm not…"
+"Maybe." Adam said. "I've got some career choices coming up, and if it all goes right then hopefully I will, but if I'm not..."
 
 "You two'll just have to figure it out." Gabe told them.
 
@@ -1357,33 +1357,33 @@ Adam was still watching her backside when Gabe tapped him on the upper arm. "Hey
 
 Adam blinked at him. "What's up?"
 
-"I love you both very much, right? I'm hoping for a future where you two have got a couple of beautiful kids, and…"
+"I love you both very much, right? I'm hoping for a future where you two have got a couple of beautiful kids, and..."
 
-"*Dad*…"
+"*Dad*..."
 
 "Shut up and listen, man." Gabe sighed. "That's just what I want, okay? If you want different, fine. But tell me honestly—if you're serious about her, then that's the kind of thing you need to think about. *Are* you serious about her?"
 
 "Totally." Adam said, firmly.
 
-"Good, because she's serious about you too." Gabe nodded, though his expression was still concerned. "Just…be careful, alright? You're looking at two, three years of only getting to see each other every other month on a long weekend, or something. That's going to be difficult."
+"Good, because she's serious about you too." Gabe nodded, though his expression was still concerned. "Just...be careful, alright? You're looking at two, three years of only getting to see each other every other month on a long weekend, or something. That's going to be difficult."
 
 "We know. We talked about that." Adam promised.
 
 "And?"
 
-"And…" Adam trailed off, then shrugged.
+"And..." Adam trailed off, then shrugged.
 
-"Adam, I'm proud of you right now, but don't be dumb about this, okay? You can still be honor graduate and all that stuff and still fuck up your love life. Don't…" it was Gabriel's turn to pause, searching for the right turn of phrase. "Don't forget to…"
+"Adam, I'm proud of you right now, but don't be dumb about this, okay? You can still be honor graduate and all that stuff and still fuck up your love life. Don't..." it was Gabriel's turn to pause, searching for the right turn of phrase. "Don't forget to..."
 
-"Dad. She's tough. We've talked this over together, and…we'll get through." Adam reassured him.
+"Dad. She's tough. We've talked this over together, and...we'll get through." Adam reassured him.
 
-"I know she's tough. You both are. I just…" Gabriel sighed and gave up. "I just hope you're both as tough as you think you are. Okay? I don't want you to wind up hurting each other."
+"I know she's tough. You both are. I just..." Gabriel sighed and gave up. "I just hope you're both as tough as you think you are. Okay? I don't want you to wind up hurting each other."
 
 "We love you too, Dad."
 
 Gabe gave him a sidelong hug. "Good to know." he said. "I just needed to get that said."
 
-Adam nodded. "It's heard. But…I'm sure we're fine. After everything that's happened…"
+Adam nodded. "It's heard. But...I'm sure we're fine. After everything that's happened..."
 
 "You never heard about the last straw that broke the camel's back, *Amigo*?"
 
@@ -1393,7 +1393,7 @@ Gabe sat back with an uncomfortable expression. "How—" he began, then paused. 
 
 Adam waited for him to finish. Or even get started. In the end Gabe just shook his head and hugged his son again.
 
-"Alright, *Amigo*. If that's good enough for you…"
+"Alright, *Amigo*. If that's good enough for you..."
 
 * * *
 
@@ -1405,9 +1405,9 @@ Adam waited for him to finish. Or even get started. In the end Gabe just shook h
 
 "So this is Cruezzir?"
 
-The Corti ambassador raised a hand. "Not…quite." he revealed. "The Directorate was dead set against the idea of your species acquiring the original Cruezzir drug. In fact, we are now discontinuing it, and strongly advise that should a sample of the original fall into your possession, you should destroy it."
+The Corti ambassador raised a hand. "Not...quite." he revealed. "The Directorate was dead set against the idea of your species acquiring the original Cruezzir drug. In fact, we are now discontinuing it, and strongly advise that should a sample of the original fall into your possession, you should destroy it."
 
-"We will…take that under advisement." Doctor Hussein assured him. "Though in that case, what is this on your desk?"
+"We will...take that under advisement." Doctor Hussein assured him. "Though in that case, what is this on your desk?"
 
 "A derivative, specifically designed for the human market with the intent of avoiding some future pitfalls."
 
@@ -1419,13 +1419,13 @@ Hussein frowned. "I don't follow you." he said. "Where is the problem with a med
 
 Medrà mimicked a thin-lipped, prim smile. "Doctor, if I have learned one thing about your species these last few years, it is that, if dirt were edible, you would all be obese."
 
-"…I see."
+"...I see."
 
 "No insult is intended, you understand. You are from a dangerous world, I can only assume that to use and stockpile resources as rapaciously as you do was a necessary survival instinct for your genetic forebears."
 
-"As a medicine, though…" Hussein protested.
+"As a medicine, though..." Hussein protested.
 
-"We are not satisfied that it would *remain* a simple medicine. You already know of the one nicknamed the "Human Disaster", which means in turn that you also how to synthesize Cruezzir in industrial quantities. All you need is a sample of the drug itself." Medrà gestured oddly: it took  Doctor Hussein a second to recall from his studies of alien body language that the gesture indicated concern. "We fear that Cruezzir injections and patches would become commonplace, even the norm, taking an already imposing species and making the pinnacle of your physical potential *trivial* to attain, rather than a lifelong pursuit which precludes the study of other, more…*cerebral* endeavors."
+"We are not satisfied that it would *remain* a simple medicine. You already know of the one nicknamed the "Human Disaster", which means in turn that you also how to synthesize Cruezzir in industrial quantities. All you need is a sample of the drug itself." Medrà gestured oddly: it took  Doctor Hussein a second to recall from his studies of alien body language that the gesture indicated concern. "We fear that Cruezzir injections and patches would become commonplace, even the norm, taking an already imposing species and making the pinnacle of your physical potential *trivial* to attain, rather than a lifelong pursuit which precludes the study of other, more...*cerebral* endeavors."
 
 Hussein considered his Corti counterpart for a second. "You make it sound like you want us to remain below our potential."
 
@@ -1439,7 +1439,7 @@ Hussein considered his Corti counterpart for a second. "You make it sound like y
 
 "Indeed."
 
-Medrà picked up the phial on his desk again. "*This* version, this Cruezzir derivative, contains a limiting factor—resistance. Over time, any human who regularly uses it will steadily, but slowly, become increasingly immune. There are a few other changes, mostly designed to prevent the drug from being synthesized by your symbiotic bacteria but…suffice it to say we feel less uncomfortable releasing *this* for you to use than the medicine for which you actually asked. There will be no more *Human Disasters* with this derivative."
+Medrà picked up the phial on his desk again. "*This* version, this Cruezzir derivative, contains a limiting factor—resistance. Over time, any human who regularly uses it will steadily, but slowly, become increasingly immune. There are a few other changes, mostly designed to prevent the drug from being synthesized by your symbiotic bacteria but...suffice it to say we feel less uncomfortable releasing *this* for you to use than the medicine for which you actually asked. There will be no more *Human Disasters* with this derivative."
 
 He gestured out of the window, toward the Earth. From the L1 point where the Dominion embassy was anchored, it filled a respectable portion of the sky. "I believe your ancestry comes from a region responsible for the myth of a '*jinn*', doctor?"
 
@@ -1447,7 +1447,7 @@ He gestured out of the window, toward the Earth. From the L1 point where the Dom
 
 "According to that myth, the '*jinn*' would grant wishes, but would twist the wishes according to a literal interpretation of their wording, to the wisher's detriment." He offered the phial. "We, doctor, are twisting the wish according to a sensible interpretation of its *intent*, to the wisher's and our own mutual benefit."
 
-Hussein considered his options, then gave up and took the phial. "In that case," he said "having read the trade agreement and been advised on it…we accept the terms."
+Hussein considered his options, then gave up and took the phial. "In that case," he said "having read the trade agreement and been advised on it...we accept the terms."
 
 They shook on it. Gently.
 
@@ -1473,17 +1473,17 @@ They shook on it. Gently.
 
 *Hey Ava,*
 
-*Im sorry Ive not written you since last week. I did get your letter and I hope you know Id have written back if I could Ive just been too thrashed to even pick up a pen. Really the PT here is that hard. Im talking 20 solid hours of calisthenics…when there feeling kind. I swear Im not exaggerating.*
+*Im sorry Ive not written you since last week. I did get your letter and I hope you know Id have written back if I could Ive just been too thrashed to even pick up a pen. Really the PT here is that hard. Im talking 20 solid hours of calisthenics...when there feeling kind. I swear Im not exaggerating.*
 
-*Getting a reward today though—a good long letter session a whole hour! Everyone else is calling home or whatever but for me…wow just getting some quiet time to sit and think and write to you is like I never imagined Id think something so simple was such a big deal. I spent half of it just sitting and thinking and getting my head sorted out.*
+*Getting a reward today though—a good long letter session a whole hour! Everyone else is calling home or whatever but for me...wow just getting some quiet time to sit and think and write to you is like I never imagined Id think something so simple was such a big deal. I spent half of it just sitting and thinking and getting my head sorted out.*
 
 *You know I said in one of my letters from basic that I kind of enjoy being shouted at now? Well that's still true its hard to explain but if Im being shouted at then its kind of a compliment because the MTL knows I can do better and hes telling me so. I mean actual words of encouragement are nice too dont get me wrong but I can see now that it wouldnt get anybody through this.*
 
 *There training us for the very worst you know? They want to be able to send us into anything and have us be strong enough that if we fail it was never possible in the first place. And theres no way to do that except the way they do it. Theyve been doing it for years they know what theyre doing here and I know that I can make it through this.*
 
-*So yeah I hurt basically all the time Im tired basically all the time Im so wired that just getting a whole HOUR of quiet time feels like the biggest luxury in the world…but dont be sad for me baby because underneath it all I think Im actually kind of enjoying myself.*
+*So yeah I hurt basically all the time Im tired basically all the time Im so wired that just getting a whole HOUR of quiet time feels like the biggest luxury in the world...but dont be sad for me baby because underneath it all I think Im actually kind of enjoying myself.*
 
-*If that sounds weird…maybe it is I dont know?*
+*If that sounds weird...maybe it is I dont know?*
 
 *I still struggle to eat enough. There giving me like 10000 calories a day or something insane like that thats a heck of a lot of food and with me not being a big guy some days its almost harder to get all of that food to fit in my belly than it is to do the actual PT.*
 
@@ -1509,7 +1509,7 @@ Mail call had become the best part of Adam's day, enough so to shake the ache ri
 
 *I may not be there with you doing the PT or whatever. But I pray for you every day, I think of you every minute, and knowing you're thinking of me even with what you're going through is what helps me too. You've been there for ME through all the really big shit of the last few years too, you know that?*
 
-*I feel lonely a lot. No you, no Sara, no Hayley…I love* (here Ava had written the word 'your' and then scribbled over it) *Dad, but you can't have a social life of just one person.*
+*I feel lonely a lot. No you, no Sara, no Hayley...I love* (here Ava had written the word 'your' and then scribbled over it) *Dad, but you can't have a social life of just one person.*
 
 *I guess we're both learning how to cope with just being there for each other in spirit rather than in person, huh?*
 
@@ -1571,13 +1571,13 @@ There was no breach of discipline as such, but all six of the PJ candidates exch
 
 One of them put his hand up, and Reed pointed to him, inviting him to ask his question.
 
-"Sir, if a man wearing one of those has to carry one of his buddies, that's gotta be, uh…six hundred pounds at least. Hell, it could be a lot more. How's anybody supposed to hump that kind of weight any kind of a serious distance?"
+"Sir, if a man wearing one of those has to carry one of his buddies, that's gotta be, uh...six hundred pounds at least. Hell, it could be a lot more. How's anybody supposed to hump that kind of weight any kind of a serious distance?"
 
-Reed acknowledged the question's validity with a nod. "It's a big ask." he agreed. "The suit does contain some passive load-bearing structures which will help, but the operators wearing it will need to be exceedingly strong. Which is why we're coming to you now, with…this."
+Reed acknowledged the question's validity with a nod. "It's a big ask." he agreed. "The suit does contain some passive load-bearing structures which will help, but the operators wearing it will need to be exceedingly strong. Which is why we're coming to you now, with...this."
 
 He closed the slideshow and opened a video.
 
-"This is footage of Lance-Corporal Aaron Baxter, United States Marine Corps. Baxter was involved in a vehicle collision during a training exercise two weeks ago, and suffered a, uh…" Reed checked his notes, pronouncing the medical terminology slowly and with care. "A…posteriorly displaced…open comm-in-uted…intra-articular tibial plateau fracture with an…intimal tear of the…pop-lit-e-al artery."
+"This is footage of Lance-Corporal Aaron Baxter, United States Marine Corps. Baxter was involved in a vehicle collision during a training exercise two weeks ago, and suffered a, uh..." Reed checked his notes, pronouncing the medical terminology slowly and with care. "A...posteriorly displaced...open comm-in-uted...intra-articular tibial plateau fracture with an...intimal tear of the...pop-lit-e-al artery."
 
 He looked up. "As I understand it, that basically means the poor bastard's knee got flattened and everything broke into little bitty bits."
 
@@ -1587,7 +1587,7 @@ Everybody grimaced.
 
 While the footage of Baxter continued on one half of the screen, the other half began a quick animation detailing the origins and capabilities of the drug. "It's called Cruezzir-Derivative Compound A, but for the purposes of common usage, we're calling it Crue-D. Don't ask me how, but it hugely accelerates and improves the healing process." Reed continued. "Baxter went under the knife to have all those little bitty bits put back together and the plumbing fixed, and while they were at it, he let them inject this stuff right in there."
 
-On the screen, Baxter's dressings were being removed. "This is him only thirty hours after the operation. Notice, there's no surgical wound, nor a scar from the open fracture. That had closed up by the six hour mark, and If they'd put sutures in him, they'd have had to operate to get them back out again. Fortunately they foresaw that and only clamped the wound and compressed it. But when they X-rayed the kneecap at eight hours, they found out it was damn near perfectly intact. They kept him in bed for another day just to be sure, but…"
+On the screen, Baxter's dressings were being removed. "This is him only thirty hours after the operation. Notice, there's no surgical wound, nor a scar from the open fracture. That had closed up by the six hour mark, and If they'd put sutures in him, they'd have had to operate to get them back out again. Fortunately they foresaw that and only clamped the wound and compressed it. But when they X-rayed the kneecap at eight hours, they found out it was damn near perfectly intact. They kept him in bed for another day just to be sure, but..."
 
 Baxter stood up, and jaws dropped around the room.
 
@@ -1597,13 +1597,13 @@ Baxter stood up, and jaws dropped around the room.
 
 Reed nodded agreement, letting the interruption slide. "And for the time being it looks like we're stuck relying on the Corti to make it for us. When our scientists tried to figure out how it works in the lab, they say the samples just dissolved into water and some weird organic molecules, like it's got a self-destruct built in. But the results are plain—Corporal Baxter is fit and well and back with his unit, under observation for long-term side effects but otherwise unscathed after what *should* have been the end of a promising career as a US marine."
 
-He turned off the screen. "So…what does this have to do with the six of you?" he asked, rhetorically. "The short version is that with the physical demands of the SOR program being so high-end, we want to use this stuff therapeutically during the physical training. Slap-patches, joint injections…You're all familiar with the theory behind muscle gains?"
+He turned off the screen. "So...what does this have to do with the six of you?" he asked, rhetorically. "The short version is that with the physical demands of the SOR program being so high-end, we want to use this stuff therapeutically during the physical training. Slap-patches, joint injections...You're all familiar with the theory behind muscle gains?"
 
 There was general nodding. "Good. But to spell it out for the sake of clarity, the very basic version is that the muscles and ligaments suffer minor damage, and heal stronger than they were before."
 
 "With this stuff," he continued "we think we can take that process to a new level. Completely thrash the trainee during the day, then they heal perfectly overnight thanks to a contact patch of Crue-D. Throw in some of the latest developments in Sports Science and we think it's possible to produce operators whose bodies exist on the absolute limit of what's humanly possible."
 
-One of the others put his hand up. "Begging your pardon sir, but…You want *us* to do that?"
+One of the others put his hand up. "Begging your pardon sir, but...You want *us* to do that?"
 
 "I'm putting it out there for you to think about. Like I said, the SOR is still in its infancy. We've got all the necessary infrastructure in place, now all that's needed are volunteers. Any such volunteers will be plucked from the pararescue pipeline and put onto the SOR highway instead. This will closely mirror—and often take place alongside—pararescue training, but will be even more physically intense, and will then be followed by SOR-specific training and possibly astronaut training as well. Any questions?"
 
@@ -1615,7 +1615,7 @@ Several hands went up. Reed acknowledged one of them with a point of his pen.
 
 "What happens when *that* happens?"
 
-"According to the Corti, the subject undergoes rapid muscle growth, an increase in bone density, and…basically reaches their maximum physical potential without the need to exercise their way there, not to mention becoming permanently able to heal from even quite serious injuries at a remarkable rate. There's also some suggestion that they become biologically immortal and may experience improved skill-learning and the tapping of latent genetic potential that exists inside the human genome, such as the ability to see some way into the infrared."
+"According to the Corti, the subject undergoes rapid muscle growth, an increase in bone density, and...basically reaches their maximum physical potential without the need to exercise their way there, not to mention becoming permanently able to heal from even quite serious injuries at a remarkable rate. There's also some suggestion that they become biologically immortal and may experience improved skill-learning and the tapping of latent genetic potential that exists inside the human genome, such as the ability to see some way into the infrared."
 
 There was silence, then somebody else put their hand up. "Begging your pardon sir, but why the hell aren't we going with *that*?"
 
@@ -1623,7 +1623,7 @@ There was silence, then somebody else put their hand up. "Begging your pardon si
 
 "Besides that," he continued "We have no idea if that's just in the short-term. The long-term effects of Crue-D applied topically in a targeted and safe fashion, we are assured, are nil. *Nothing* is known about the long-term consequences of keeping the human body indefinitely soaked in the original Cruezzir."
 
-He cleared his throat. "The only remaining thing that *could* be a risk factor would be nutrition. You'll be packing on muscle and bone mass at such an incredible rate that your diets will have to be strictly controlled down to the last milligram and calorie. Every snack, every meal. You won't even be able to grab a burger without planning and training ramp-down, and if done incorrectly you might find yourself suffering from malnutrition. At the very least it would be a wasted opportunity. At worst, well…"
+He cleared his throat. "The only remaining thing that *could* be a risk factor would be nutrition. You'll be packing on muscle and bone mass at such an incredible rate that your diets will have to be strictly controlled down to the last milligram and calorie. Every snack, every meal. You won't even be able to grab a burger without planning and training ramp-down, and if done incorrectly you might find yourself suffering from malnutrition. At the very least it would be a wasted opportunity. At worst, well..."
 
 This was met with thoughtful silence. Reed let them mull it over for a moment, then spoke again.
 
@@ -1635,7 +1635,7 @@ This was met with thoughtful silence. Reed let them mull it over for a moment, t
 
 Adam looked up. He'd been considering how to write back to Ava, tell her that his training would go on for at least another two years beyond what they had discussed, without breaching confidentiality or classification. He knew she'd accept that he couldn't discuss such things with her, but she still deserved an explanation, and he was carefully assembling that explanation in his head.
 
-"This is what I got in for." he said, simply. "I knew there had to be aliens involved *somewhere*, and…yeah."
+"This is what I got in for." he said, simply. "I knew there had to be aliens involved *somewhere*, and...yeah."
 
 BASEBALL sat down. "You did?"
 
@@ -1645,11 +1645,11 @@ BASEBALL sat down. "You did?"
 
 Adam nodded. "Yeah." he said. "That one's new on me, too."
 
-"Man, I ain't sure about this Crue-D stuff." BASEBALL rubbed his chin thoughtfully. "I knew too many guys got 'roided up in school…You sure you're not rushing into this?"
+"Man, I ain't sure about this Crue-D stuff." BASEBALL rubbed his chin thoughtfully. "I knew too many guys got 'roided up in school...You sure you're not rushing into this?"
 
 "These ain't roids. This shit *heals* you stronger, man!"
 
-"Yeah, but…man, you trust *anything* ET makes?"
+"Yeah, but...man, you trust *anything* ET makes?"
 
 Adam sighed. "I've been thinking about it for a long time, Base. The SOR's going to be going up against the group that killed my mom and my friends. That's *why* I joined in the first place—'cause a group like that, needs people fighting them, you know? I don't know if I trust ET, but I sure as hell trust *us*, you know?"
 
@@ -1657,7 +1657,7 @@ Adam sighed. "I've been thinking about it for a long time, Base. The SOR's going
 
 "Yeah."
 
-"…Okay. I'm with you, Hoss."
+"...Okay. I'm with you, Hoss."
 
 Adam paused: "Base, bro, you don't have to."
 
@@ -1669,7 +1669,7 @@ BASEBALL laughed too, then reached out, flipped Adam's hand over, grabbed it in 
 
 "Besides, we get to be fuckin' astronauts." he added. "You KNOW that's a ticket to pussy."
 
-Adam laughed again "Alright, you sentimental fuck. You're with me…I appreciate it."
+Adam laughed again "Alright, you sentimental fuck. You're with me...I appreciate it."
 
 "You better."
 
@@ -1681,7 +1681,7 @@ Adam laughed again "Alright, you sentimental fuck. You're with me…I appreciate
 
 *The downside is that the training is two years longer than we'd planned for, and it's going to be really hard to get the time to visit you during those two years.*
 
-*I wish there was time for us to talk about it properly, but they want my answer on whether or not I'm signing up for this thing on Monday, and there's just not time for me to get back and with the emails only updating once a day, by the time your reply gets to me, it'll be Monday anyway, so…*
+*I wish there was time for us to talk about it properly, but they want my answer on whether or not I'm signing up for this thing on Monday, and there's just not time for me to get back and with the emails only updating once a day, by the time your reply gets to me, it'll be Monday anyway, so...*
 
 *I'm sorry Ava. But this is too perfect to pass up.*
 
@@ -1705,33 +1705,33 @@ Ava ran a shaking hand through unbrushed, unwashed hair and lost whatever grip o
 
 Jess just held her until finally Ava managed to pull herself together and straighten up. "What happened?"
 
-"I just…I checked my emails, and there's one from Adam, and…" Ava looked away and made an angered expression at herself, fighting to stay in control. "He changed the plan."
+"I just...I checked my emails, and there's one from Adam, and..." Ava looked away and made an angered expression at herself, fighting to stay in control. "He changed the plan."
 
-"Changed the…? I don't understand."
+"Changed the...? I don't understand."
 
-"I was *fine* with him doing two years of pararescue training and some deployments, and…I don't know! All that, we'd got it sorted out and I was fine with it! But now he's talking about *four* years of training and maybe not being able to see each other *at all* in those extra couple of years! And who *knows* how long after that!" Ava threw her hands up and engaged anger circuits that Jess had never seen in her before.
+"I was *fine* with him doing two years of pararescue training and some deployments, and...I don't know! All that, we'd got it sorted out and I was fine with it! But now he's talking about *four* years of training and maybe not being able to see each other *at all* in those extra couple of years! And who *knows* how long after that!" Ava threw her hands up and engaged anger circuits that Jess had never seen in her before.
 
-"*Que se supone que haga? Él no me preguntó, él no me habla de ello …el hijo de puta me acaba de enviar una CARTA DE MIERDA y espera que yo sea bien! Eso **pendejo** desconsiderado!* Eh?"
+"*Que se supone que haga? Él no me preguntó, él no me habla de ello ...el hijo de puta me acaba de enviar una CARTA DE MIERDA y espera que yo sea bien! Eso **pendejo** desconsiderado!* Eh?"
 
 Jess sat on a desk. "I don't speak Spanish, Ava." she pointed out, gently. "But watch your language, the kids'll be here soon."
 
-Ava went still, then deflated and sat down, miserably. "He just…it's not just *his* life." she complained.
+Ava went still, then deflated and sat down, miserably. "He just...it's not just *his* life." she complained.
 
 Jess gave her a moment to be silent. When Ava wiped her eyes and began to sort herself out, she took the opportunity to be constructive. "What are you going to do?" she asked.
 
 Ava made a bitter little noise. "I should have learned this by now, shouldn't I? Don't plan for anything, because tomorrow you might get nuked."
 
-"So…?"
+"So...?"
 
-"So what I'm going to *do* is…whatever seems like a good idea at the time." Ava said.
+"So what I'm going to *do* is...whatever seems like a good idea at the time." Ava said.
 
 "So what seems like a good idea right now?"
 
-"Hah! Dumping his ass." but Ava was shaking her head to indicate that she had nothing of the sort in mind. "But…whatever, so he's been an insensitive jerk and made a huge decision without me. So what? At least he cares. He still loves me, and I love him too, even if he's been a *huge* jackass right now."
+"Hah! Dumping his ass." but Ava was shaking her head to indicate that she had nothing of the sort in mind. "But...whatever, so he's been an insensitive jerk and made a huge decision without me. So what? At least he cares. He still loves me, and I love him too, even if he's been a *huge* jackass right now."
 
-"So…?" Jessica repeated.
+"So...?" Jessica repeated.
 
-"So I guess what seems like a good idea is just…forgive him and try to be happy." Ava shrugged. "Be happy *in the moment*, right? That's what our Gaoians are so into. And I…I think I'd be unhappier without him."
+"So I guess what seems like a good idea is just...forgive him and try to be happy." Ava shrugged. "Be happy *in the moment*, right? That's what our Gaoians are so into. And I...I think I'd be unhappier without him."
 
 She sighed, and stretched. "What do you think?"
 
@@ -1741,11 +1741,11 @@ Jess considered the question. "I guess my marriage broke up because we weren't a
 
 "Like he did." Jess agreed. "I think that's what love is, is understanding when one of you comes first. Sometimes it's you, sometimes it's him."
 
-She hesitated, then decided to put her money where her mouth was and say what seemed like a good idea at the time. "And…Ava, he's a soldier now. Soldiers…they don't always come back. I think you're going to need to get used to trying to live as well as you can '*in the moment*' and not…and figure out how you're going to get by without him, if that ever happens."
+She hesitated, then decided to put her money where her mouth was and say what seemed like a good idea at the time. "And...Ava, he's a soldier now. Soldiers...they don't always come back. I think you're going to need to get used to trying to live as well as you can '*in the moment*' and not...and figure out how you're going to get by without him, if that ever happens."
 
 A banging in the hallways made them both look up—it was the clear sound of the class starting to arrive. "If you want to borrow a hairbrush, there's one in my office, on the desk." Jess offered.
 
-Ava smiled. It wasn't a strong smile, but it was genuine. "Thanks, Jess. I needed…thank you."
+Ava smiled. It wasn't a strong smile, but it was genuine. "Thanks, Jess. I needed...thank you."
 
 Jess gave her another hug. "I hope I helped."
 
@@ -1769,7 +1769,7 @@ Jess straightened and got herself back into teacher mode. The first, and hopeful
 
 *Dr. J. A. B. Olmstead*     *Junior and Senior Groups Tutor, Folctha Comprehensive School.*
 
-"Wow…that's, uh, *easily* the best report card I ever had."
+"Wow...that's, uh, *easily* the best report card I ever had."
 
 Gabriel took off his reading glasses. "Yeah?"
 
@@ -1777,21 +1777,21 @@ Ava sighed. "Every other one I ever had always had the words '*could do better*'
 
 "I guess they were." Gabriel agreed, though he left out his opinion that if her performance had previously been lackluster then that probably reflected more on the education system than on Ava herself. "You gonna go for it?"
 
-She hesitated. "Do you…think I should?"
+She hesitated. "Do you...think I should?"
 
 "It sounds like an excellent opportunity." Gabriel told her. "Experience, money and education all in one go? Chances like that don't come along too often."
 
-"True…"
+"True..."
 
 Gabriel knew what the trepidation was about. "Why not discuss it with Doctor Olmstead?" He suggested. "If you want plenty of time to get out there and practice your photography, maybe she can help."
 
-Ava nodded and pulled the camera out of her handbag. She was constantly fiddling with it nowadays, usually with a frown. "I do need to practice more. I keep looking at Sara's old pictures and seeing…you know, seeing new things in them. Things she was doing that I didn't even know how to see before…"
+Ava nodded and pulled the camera out of her handbag. She was constantly fiddling with it nowadays, usually with a frown. "I do need to practice more. I keep looking at Sara's old pictures and seeing...you know, seeing new things in them. Things she was doing that I didn't even know how to see before..."
 
-She sighed. "She was…*really* talented, Gabe. I want to try and do justice to her, try and…bring back some of her spark, but I don't think I *can*."
+She sighed. "She was...*really* talented, Gabe. I want to try and do justice to her, try and...bring back some of her spark, but I don't think I *can*."
 
-"Even if you don't," Gabriel told her. "In trying, you'll find your own talent. Don't think of it as bringing back her spark, but as…I dunno, reincarnating it. Same spirit, but different, yeah?"
+"Even if you don't," Gabriel told her. "In trying, you'll find your own talent. Don't think of it as bringing back her spark, but as...I dunno, reincarnating it. Same spirit, but different, yeah?"
 
-"Maybe…"
+"Maybe..."
 
 She put the camera away, then stood up and kissed him on the forehead. "I'd better get home." she said.
 
@@ -1809,7 +1809,7 @@ She put the camera away, then stood up and kissed him on the forehead. "I'd bett
 
 Indoc had taught Adam a trick. It had taught him how to notice that he was exhausted and in pain, but to treat those facts as an abstract.
 
-It was a useful trick. One that kept his feet kicking, hour upon hour upon hour, in a pool of cold water, with his goggles flooded and his muscles saturated with lactic acid. The mind went to a quiet place without thought, where the absence of any stimulation but the physical exertion didn't matter, and where the exertion itself was not the immediate, intimate issue it might once have been, but was instead…academic. It wasn't even tedious—his ego was so shut down as to not care that he'd received no real intellectual stimulation for *hours*.
+It was a useful trick. One that kept his feet kicking, hour upon hour upon hour, in a pool of cold water, with his goggles flooded and his muscles saturated with lactic acid. The mind went to a quiet place without thought, where the absence of any stimulation but the physical exertion didn't matter, and where the exertion itself was not the immediate, intimate issue it might once have been, but was instead...academic. It wasn't even tedious—his ego was so shut down as to not care that he'd received no real intellectual stimulation for *hours*.
 
 There was just the task: Keep kicking.
 
@@ -1887,17 +1887,17 @@ The maitre'd spun by with the wine list and a recommendation, which they agreed 
 
 "She was pretty thrilled with your recommendation." He revealed. "So was I. I think it's exactly what she needs."
 
-"I hope so." Jessica poured herself a small glass of water from the complimentary jug between them. "She's…an amazing person, really. Her and your son both."
+"I hope so." Jessica poured herself a small glass of water from the complimentary jug between them. "She's...an amazing person, really. Her and your son both."
 
 "Don't I know it." Gabriel agreed. "I don't think I'd be coping so well if I wasn't so proud of them both."
 
 "Yes, I heard Adam was an '*honor graduate*'?"
 
-"I barely recognised him!" Gabriel said. "He walked differently, he looked around differently, he was so much more…*focused*." He sighed. "I guess the military suits him. On the one hand I'm pleased, but on the other…you know, he's signing up for a very dangerous life. After everything that's happened…"
+"I barely recognised him!" Gabriel said. "He walked differently, he looked around differently, he was so much more...*focused*." He sighed. "I guess the military suits him. On the one hand I'm pleased, but on the other...you know, he's signing up for a very dangerous life. After everything that's happened..."
 
 Jess leaned forward, unconsciously echoing his sigh. "Heaven help us if we ever get used to the idea of our kids doing dangerous work." she commented, and nodded along when he nodded.
 
-"*Si.* He's his own man, and Ava's her own woman. I just wish I knew how to make their lives…happier."
+"*Si.* He's his own man, and Ava's her own woman. I just wish I knew how to make their lives...happier."
 
 Jess smiled. "Start by making your own life happier." she suggested.
 
@@ -1917,9 +1917,9 @@ The wine arrived along with a couple of slim menus, which distracted them both f
 
 Gabe just shrugged a little. "A little weaker in some ways, a little stronger in others." he suggested. "I'm ready to date again, for instance. That's a big step forward for me."
 
-"You still held a bit of a candle for your ex? I know it took me ages to get over my divorce…"
+"You still held a bit of a candle for your ex? I know it took me ages to get over my divorce..."
 
-"…No, I don't think that's it." Gabe mulled it over. "I think I was more…bruised and weary, if that makes sense?"
+"...No, I don't think that's it." Gabe mulled it over. "I think I was more...bruised and weary, if that makes sense?"
 
 "I understand." Jess nodded, fiddling with the stem of her glass and listening to him with her chin on her hand.
 
@@ -1929,9 +1929,9 @@ Jess giggled. "My ex-*wife* and I haven't spoken in years." she said. "I have no
 
 Gabriel cleared his throat. "Sorry."
 
-"Don't be." She reassured him. "I only mention it when it's relevant, and it's only relevant with people who…"
+"Don't be." She reassured him. "I only mention it when it's relevant, and it's only relevant with people who..."
 
-"Who…?"
+"Who...?"
 
 She just winked at him. Her nose wrinkled a little when she did so, and Gabriel practically fell in love on the spot.
 
@@ -1949,7 +1949,7 @@ She smiled, causing her nose to wrinkle again, and her glass rang against his.
 
 Gabriel laughed. "A little bit of column A and a little bit of column B." he suggested. Neither of them were *drunk* as such, but they both definitely had a happy buzz on, warming and rounding off the night as he walked her home with an arm around her waist. She seemed very happy to be going at his slow, limping pace.
 
-"I think you're right…aww, we're at my house already?"
+"I think you're right...aww, we're at my house already?"
 
 Gabriel studied it. Jess lived in the same kind of tiny chalet as had been given to Adam and Ava, like most of the colonists. He knew that Sir Jeremy was still handling the minutiae of bringing in contractors to establish more permanent and comfortable housing, but that project had only just begun.
 
@@ -1959,7 +1959,7 @@ Gabriel studied it. Jess lived in the same kind of tiny chalet as had been given
 
 "Yep. Want to see?"
 
-Jess laughed. "Oh, Gabe." she chided. "I think we'd at least better have a couple more dates before you show me how big your…" she paused, cheekily. "…*apartment* is."
+Jess laughed. "Oh, Gabe." she chided. "I think we'd at least better have a couple more dates before you show me how big your..." she paused, cheekily. "...*apartment* is."
 
 "Whenever you want, wherever you want." he replied.
 
@@ -1999,11 +1999,11 @@ She nodded and slumped down at the table. "That." she said. "Would be amazing."
 
 "He's not due back until tomorrow." Gabriel pointed out. His kitchen faucet had a mode to deliver boiling water, and he used it to fill the cafetier with his favoured blend of Galapagos coffee—a rare treat. Sure, Ava adulterated hers with so much cream and sugar that it was barely recognisable, and a bit of a waste, but he figured it must still be better behind all that than just the instant stuff.
 
-"Yeah, but…it's his birthday, so I can't sleep." Ava gave him a little smile that said she knew just how nonsensical that was.
+"Yeah, but...it's his birthday, so I can't sleep." Ava gave him a little smile that said she knew just how nonsensical that was.
 
 "You're that nervous at seeing him again?" Gabriel asked, leaning against the counter while the coffee brewed.
 
-"For, like…a whole bunch of reasons." Ava agreed.
+"For, like...a whole bunch of reasons." Ava agreed.
 
 "Eh, don't worry so much." Gabriel told her fondly. "if you two manage to break the bed or something, I'll fix it."
 
@@ -2017,7 +2017,7 @@ She'd gone beet red, but she stood up and hugged him. "I'm sorry, I—"
 
 Ava took the compliment well, sitting down again and tidying herself up a little with a smile as Gabriel depressed the plunger on his cafetier and served.
 
-"I um…" she began. "I guess now that that's out there, I should…there's something I want you to know."
+"I um..." she began. "I guess now that that's out there, I should...there's something I want you to know."
 
 "You sure?" Gabriel asked, catching her nervousness.
 
@@ -2025,21 +2025,21 @@ Ava swallowed and nodded. "I guess if I've learned anything these last couple of
 
 A news reel of different emotions rapid-fired across Gabriel's face, but he sat down and said nothing, letting Ava take her time.
 
-"I miss my parents." she said, finally. "It's…so nice to have a parent again, I love you. You took me in, you've been everything I needed but…"
+"I miss my parents." she said, finally. "It's...so nice to have a parent again, I love you. You took me in, you've been everything I needed but..."
 
 "I understand." Gabriel said softly. "There's no substitute for the original. Hell, I miss *my* folks."
 
-"No, that's not it…" Ava sighed, then wiped her eyes. "I feel really guilty whenever I think this, but I kind of feel like…like you've been a *better* father to me. You're *here*, you've always been here for Adam, and you've been here for me too. I hate to say it, but my parents' idea of being good parents was just to, to buy me stuff. They gave me whatever I asked for but they didn't really…I don't know…"
+"No, that's not it..." Ava sighed, then wiped her eyes. "I feel really guilty whenever I think this, but I kind of feel like...like you've been a *better* father to me. You're *here*, you've always been here for Adam, and you've been here for me too. I hate to say it, but my parents' idea of being good parents was just to, to buy me stuff. They gave me whatever I asked for but they didn't really...I don't know..."
 
 "They gave you what you asked for, which maybe wasn't what you needed?" Gabriel finished.
 
-"…Papa would never have joked about fixing the bed." Ava said. "And…Mom would have told me off for not brushing my hair, but you asked if I was feeling okay. Stuff like that, that you do for me and for Adam. You treat us like a, like you're our *friend* as well as our dad. I miss them, but…they treated me more like a doll or a…a pet or a trophy sometimes."
+"...Papa would never have joked about fixing the bed." Ava said. "And...Mom would have told me off for not brushing my hair, but you asked if I was feeling okay. Stuff like that, that you do for me and for Adam. You treat us like a, like you're our *friend* as well as our dad. I miss them, but...they treated me more like a doll or a...a pet or a trophy sometimes."
 
 Gabriel handed her a clean tissue, which she made grateful use of. "You don't need to feel guilty of that, you know." he said.
 
-"I know that up *here*." Ava tapped her scalp, then bunched a fist between her breasts and knocked on her sternum. "but…"
+"I know that up *here*." Ava tapped her scalp, then bunched a fist between her breasts and knocked on her sternum. "but..."
 
-Gabe scooted round the table and hugged her. "It means a lot." he promised. "I try but…it's good to know you think I'm doing a good job."
+Gabe scooted round the table and hugged her. "It means a lot." he promised. "I try but...it's good to know you think I'm doing a good job."
 
 She smiled. "I'm glad I got that out there."
 
@@ -2061,19 +2061,19 @@ Gabe laughed a little. "Go home and sleep." he suggested. "You're going to need 
 
 The passenger jump array had been expanded again during the year of Adam's absence, but they'd kept the glass wall, allowing friends and family to witness the arrivals and departures.
 
-There were a lot of them these days. Byron Group employees headed home for Christmas, travellers from Earth visiting Cimbrean for the same…
+There were a lot of them these days. Byron Group employees headed home for Christmas, travellers from Earth visiting Cimbrean for the same...
 
 And Adam's face on a nearly unrecognisable body.
 
 Ava's jaw threatened to drop. Adam had warned her, as best he could, about what to expect from the fitness regime he'd been on, but she hadn't been prepared for *this*.
 
-Sure, he'd been fit before leaving and at the end of Basic. Buff, even. But the Adam who caught her gaze and smiled that same winning, puppyish smile at her was getting to the point where the word "buff" was no longer quite adequate. He was…
+Sure, he'd been fit before leaving and at the end of Basic. Buff, even. But the Adam who caught her gaze and smiled that same winning, puppyish smile at her was getting to the point where the word "buff" was no longer quite adequate. He was...
 
-He was…
+He was...
 
 He was fucking *HOT*.
 
-A year of living alone had inevitably resulted in fantasizing and…well, in entertaining herself as best she could, and Ava had assembled a sizable folder on her tablet full of big strong guys. While knowing that he was going to come back big and strong had almost certainly played a role in shaping her tastes that way, Adam would *not* have looked out of place in that folder.
+A year of living alone had inevitably resulted in fantasizing and...well, in entertaining herself as best she could, and Ava had assembled a sizable folder on her tablet full of big strong guys. While knowing that he was going to come back big and strong had almost certainly played a role in shaping her tastes that way, Adam would *not* have looked out of place in that folder.
 
 She made a mental note to add some pictures of him to it.
 
@@ -2081,13 +2081,13 @@ His muscles were as firm and dense as teak when they hugged, and he made her fee
 
 "*GOD* I missed you."
 
-She sighed happily and kissed him. "Your letters just…wow, they didn't do justice. Look at you!"
+She sighed happily and kissed him. "Your letters just...wow, they didn't do justice. Look at you!"
 
 He looked down and spread his arms. "You like?"
 
-He turned around, and Ava had to *fight* to stop herself from automatically biting her lower lip. "*Yeah*…" she squeaked. "I mean, you were pretty before, but…"
+He turned around, and Ava had to *fight* to stop herself from automatically biting her lower lip. "*Yeah*..." she squeaked. "I mean, you were pretty before, but..."
 
-They became aware that several bystanders were able to overhear them, to judge by the amused glances they were attracting, and shared a bit of a blush. Adam shouldered his bag with a weighty thump. "Am I…staying with you?"
+They became aware that several bystanders were able to overhear them, to judge by the amused glances they were attracting, and shared a bit of a blush. Adam shouldered his bag with a weighty thump. "Am I...staying with you?"
 
 "Why wouldn't you be?"
 
@@ -2097,7 +2097,7 @@ They became aware that several bystanders were able to overhear them, to judge b
 
 "But Thanksgiving was last month." Adam pointed out.
 
-"Yeah, but you missed it." she retorted. "And it was your birthday yesterday, so…"
+"Yeah, but you missed it." she retorted. "And it was your birthday yesterday, so..."
 
 "Does it work that way?"
 
@@ -2121,17 +2121,17 @@ They hugged.
 
 "You were struggling with that?" Ava asked, hanging up her jacket and sitting down at Gabriel's dinner table, while Gabriel returned to the kitchen. The whole apartment smelled of turkey and potatoes.
 
-"Yeah. Think I've learned just enough about medicine now to know that I know basically *nothing* about medicine. It's…crazy." he sighed. "And for a while there I just wasn't getting it, you know? My buddy BASEBALL—you remember BASEBALL?"
+"Yeah. Think I've learned just enough about medicine now to know that I know basically *nothing* about medicine. It's...crazy." he sighed. "And for a while there I just wasn't getting it, you know? My buddy BASEBALL—you remember BASEBALL?"
 
 Ava giggled. "Hard to forget."
 
-He laughed. "Right. Well, he was kicking my ass. He's a total natural. Me…I mean, I'm starting to get it now, but for a long while there, getting all that knowledge to stay in my head was damn near impossible. You've got to learn a lot of the academic stuff before you can start working on the practical, you know?"
+He laughed. "Right. Well, he was kicking my ass. He's a total natural. Me...I mean, I'm starting to get it now, but for a long while there, getting all that knowledge to stay in my head was damn near impossible. You've got to learn a lot of the academic stuff before you can start working on the practical, you know?"
 
 "You always were more of a hands-on kinda guy." Gabriel noted, from the kitchen. Jess nodded, smiling and looking up at the ceiling with an '*oh yeah*' expression.
 
 "You were okay though?" she asked.
 
-"Ah, y'know. I was just…frustrated." Adam's chair creaked as he sat down next to Ava. "Like, I'd gone through all the pain of Indoc and all that PT and everything, and here I was struggling with what I'd thought was gonna be the easy bit. So yeah, the good news from home helped there. Made me feel positive again, and that helped me get past the block. Can't say I'm ever going to be a *great* medic, but I'm not gonna be a *bad* medic, either."
+"Ah, y'know. I was just...frustrated." Adam's chair creaked as he sat down next to Ava. "Like, I'd gone through all the pain of Indoc and all that PT and everything, and here I was struggling with what I'd thought was gonna be the easy bit. So yeah, the good news from home helped there. Made me feel positive again, and that helped me get past the block. Can't say I'm ever going to be a *great* medic, but I'm not gonna be a *bad* medic, either."
 
 "So you approve?" Gabe asked, appearing with the plates.
 
@@ -2149,37 +2149,37 @@ Adam laughed and did so, retrieving a bird the size of a dog from the oven which
 
 "No shit? What else is out there?"
 
-"Bobcats, bats, mice, eels, eagles…" Ava smiled. "From what Hayley Tisdale was telling me, they're throwing a whole bunch of different species into the mix and letting natural selection do the rest."
+"Bobcats, bats, mice, eels, eagles..." Ava smiled. "From what Hayley Tisdale was telling me, they're throwing a whole bunch of different species into the mix and letting natural selection do the rest."
 
 "They're talking about deer and wolves, too." Jess added. "It's not all going perfectly right—I heard the eagles especially are struggling. Apparently the low gravity throws off their instincts when they're swooping in on top of something, and they struggle to hunt at first."
 
 "How is Hayley?" Adam asked.
 
-"She's…She and Marc, they're both okay. Did I tell you they had a little girl?"
+"She's...She and Marc, they're both okay. Did I tell you they had a little girl?"
 
-"…Yeah, you did. Hope?"
+"...Yeah, you did. Hope?"
 
-"Hope. That's right." Ava nodded. "She *was* gonna come back to Folctha after the birth but the medical advice was it's probably not good for a kid to live in low gravity until at least their second growth spurt which is, what? Ten or eleven years? And even then…"
+"Hope. That's right." Ava nodded. "She *was* gonna come back to Folctha after the birth but the medical advice was it's probably not good for a kid to live in low gravity until at least their second growth spurt which is, what? Ten or eleven years? And even then..."
 
 "Right." Adam nodded.
 
-"So, they're living in London nowadays, working for the Reclamation Project. Something about…GMO plants that are better suited to Cimbrean's soil, gravity and sunlight."
+"So, they're living in London nowadays, working for the Reclamation Project. Something about...GMO plants that are better suited to Cimbrean's soil, gravity and sunlight."
 
-Gabe set down the last of the gravy, vegetables and sauces, and glanced around the table, looking happier and less stressed than Adam could remember seeing him in a long time. "So…Thanksgiving. It's been a rough and crazy few years, and…you know, I can't remember the last time we actually did this. I just wanted you to know how thankful I am to have the three of you in my life."
+Gabe set down the last of the gravy, vegetables and sauces, and glanced around the table, looking happier and less stressed than Adam could remember seeing him in a long time. "So...Thanksgiving. It's been a rough and crazy few years, and...you know, I can't remember the last time we actually did this. I just wanted you to know how thankful I am to have the three of you in my life."
 
 Jess smiled, and murmured a "Hear, hear."
 
 Gabe and Ava exchanged glances, and bowed their heads in prayer. Jess just put her elbow on the table and her chin in her hand, watching them with a faint smile.
 
-Adam…thought.
+Adam...thought.
 
-It was a skill he hadn't been given much opportunity to practice. Constant PT, constant education, interspersed only with meals, sleep and only a little leisure time (most of which had been taken up by letters and Madden) hadn't made for a contemplative year. He'd learned to enjoy moments, though, and this moment was…
+It was a skill he hadn't been given much opportunity to practice. Constant PT, constant education, interspersed only with meals, sleep and only a little leisure time (most of which had been taken up by letters and Madden) hadn't made for a contemplative year. He'd learned to enjoy moments, though, and this moment was...
 
-Warm. Comfortable. He shut his eyes and let it wash over him—the gentle breathing, the wall clock marking away the seconds, the buzz of the kitchen light and hum of the oven fan, the warmth of Ava sitting next to him, the soft sound of his Dad praying under his breath…
+Warm. Comfortable. He shut his eyes and let it wash over him—the gentle breathing, the wall clock marking away the seconds, the buzz of the kitchen light and hum of the oven fan, the warmth of Ava sitting next to him, the soft sound of his Dad praying under his breath...
 
 He opened his eyes when Gabriel murmured an "*Amen*", and looked up.
 
-"So…" he asked. "What are the rest of you having?"
+"So..." he asked. "What are the rest of you having?"
 
 * * *
 
@@ -2193,7 +2193,7 @@ She called through the door. "Can I come in?"
 
 "Sure!"
 
-She'd left the hall light on and leaned against the door frame, backlit by it, and Adam just had to stare. She was wearing one of his t-shirts, a thin white one. The shirt itself wasn't blocking any of the light from behind her, and the varying depth of shadow her body made under it was…
+She'd left the hall light on and leaned against the door frame, backlit by it, and Adam just had to stare. She was wearing one of his t-shirts, a thin white one. The shirt itself wasn't blocking any of the light from behind her, and the varying depth of shadow her body made under it was...
 
 Amazing. Sexy. Gorgeous. He could just about make out her nipples by the shadows they cast across the fabric, and the shirt was *just* short enough to create a fascinating dark triangle with her thighs. When he looked up at her face, she was breathing heavily through slightly parted lips.
 
@@ -2203,7 +2203,7 @@ She laughed, nervously. "Happy birthday to me."
 
 "*Deja vu*." he observed. She laughed a little again, and took a pace forward, loitering at the end of the bed.
 
-"I've been…kind of regretting that, I, uh…I chickened out last time." she confessed.
+"I've been...kind of regretting that, I, uh...I chickened out last time." she confessed.
 
 "Ch–uh, chickened out?"
 
@@ -2225,7 +2225,7 @@ He could feel every inch of his body pulsing, shaken by a heart that was suddenl
 
 "I want to." she interrupted him.
 
-"But…you're scared."
+"But...you're scared."
 
 "So are you."
 
@@ -2241,7 +2241,7 @@ Adam could no more have disobeyed her than he could have willed himself to telep
 
 She made a noise, something between a frightened whimper and a "wow", and there was a little crinkly noise as she tore open the wrapper of the thing she'd brought with her.
 
-"I don't know how to put one of those on…" he objected.
+"I don't know how to put one of those on..." he objected.
 
 "It's okay." she promised, and touched him where the contact went through him like an electric shock. "I do."
 
@@ -2255,17 +2255,17 @@ Most of the morning was spent fielding birthday well-wishes for Ava. Her present
 
 It was only after the last of their visitors had gone that either of them were able to discuss what had happened the night before, as they were finishing the washing up.
 
-"Did you…" she cleared her throat. "…Was it…okay?"
+"Did you..." she cleared her throat. "...Was it...okay?"
 
-He took her hand. "It was…kind of awkward." he confessed.
+He took her hand. "It was...kind of awkward." he confessed.
 
-"Yeah…" she nodded agreement. "I'm sorry…"
+"Yeah..." she nodded agreement. "I'm sorry..."
 
-"No, no…it was great! Uh…maybe we, uh, just need to practice."
+"No, no...it was great! Uh...maybe we, uh, just need to practice."
 
 She thought about that, put her head on one side, put the last fork on the drying rack and vanished into the bedroom.
 
-"Uh, Ava…?"
+"Uh, Ava...?"
 
 Her shirt flew out of the door. "So let's practice!" she called.
 
