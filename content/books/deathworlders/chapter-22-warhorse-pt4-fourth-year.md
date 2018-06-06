@@ -1,6 +1,11 @@
---- title: "Chapter 22: Warhorse Part 4—The Fourth Year" date: 2015-09-21 aliases:   - /book/deathworlders/chapter-22-warhorse/fourth-year ---
+---
+title: "Chapter 22: Warhorse Part 4—The Fourth Year"
+date: 2015-09-21
+aliases:
+  - /book/deathworlders/chapter-22-warhorse/fourth-year
+---
 
-**Date Point: 8y 1m AV**
+**Date Point: 8y 1m AV**  
 
 **Huntsville Alabama, USA, Earth**
 
@@ -104,7 +109,7 @@ From a personal one…
 
 * * *
 
-**Date Point: 8y 2m AV**
+**Date Point: 8y 2m AV**  
 
 **London, England, Earth**
 
@@ -396,7 +401,7 @@ When he woke in the morning, it came as a surprise to him that he'd managed to f
 
 * * *
 
-**Date point: 8y 4m AV**
+**Date point: 8y 4m AV**  
 
 **Huntsville Alabama, USA, Earth**
 
@@ -862,7 +867,7 @@ A few minutes after she fell asleep, he did as well.
 
 * * *
 
-**Date point: 8y 4m AV**
+**Date point: 8y 4m AV**  
 
 **HMS Sharman, Folctha, Cimbrean, the Far Reaches**
 
@@ -974,7 +979,7 @@ Whatever was going on with Ava, Adam at least was okay. That was all they could 
 
 * * *
 
-**Date Point: 8y 5m AV**
+**Date Point: 8y 5m AV**  
 
 **London, England, Earth**
 
@@ -1096,7 +1101,7 @@ And a little lower.
 
 * * *
 
-**Date Point: 8y 6m AV**
+**Date Point: 8y 6m AV**  
 
 **Folctha, Cimbrean, the Far Reaches.**
 
@@ -1342,7 +1347,7 @@ Rylee gave him her best smile and followed Burgess back through into the living 
 
 * * *
 
-**Date Point: 8y 7m 3w AV**
+**Date Point: 8y 7m 3w AV**  
 
 **London, England, Earth.**
 
@@ -1456,7 +1461,7 @@ This time, she got his name right.
 
 * * *
 
-**Date Point: 8y 9m AV**
+**Date Point: 8y 9m AV**  
 
 **HMS Sharman, Folctha, Cimbrean, the Far Reaches**
 
@@ -1662,7 +1667,7 @@ He stepped back. "This is a moment to take pride in yourselves, but it's also a 
 
 * * *
 
-**Date Point: 8y 10m AV**
+**Date Point: 8y 10m AV**  
 
 **London, England, Earth**
 
@@ -1812,7 +1817,7 @@ Charlotte didn't stop him this time.
 
 * * *
 
-**Date Point: Christmas Eve, 8y** 11m **AV**
+**Date Point: Christmas Eve, 8y** 11m **AV**  
 
 **New York City, USA, Earth**
 

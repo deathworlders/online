@@ -1,6 +1,11 @@
---- title: "Chapter 22: Warhorse Part 2—The Second Year" date: 2015-09-19 aliases:   - /book/deathworlders/chapter-22-warhorse/second-year ---
+---
+title: "Chapter 22: Warhorse Part 2—The Second Year"
+date: 2015-09-19
+aliases:
+  - /book/deathworlders/chapter-22-warhorse/second-year
+---
 
-**Date Point: First Contact Day, 6y AV**
+**Date Point: First Contact Day, 6y AV**  
 
 **HMS Sharman, Cimbrean, The Far Reaches**
 
@@ -36,7 +41,7 @@ Powell met the toast. "Aye."
 
 * * *
 
-**Date Point: 6y 5m AV**
+**Date Point: 6y 5m AV**  
 
 "*Miss Ava Rios,*     *20 Delaney Row,*     *Folctha, Cimbrean*     *CIFO11 3BQ*
 
@@ -52,7 +57,7 @@ Powell met the toast. "Aye."
 
 * * *
 
-**Date Point: 6y 6m AV**
+**Date Point: 6y 6m AV**  
 
 **Kirtland Air Force Base, New Mexico, USA, Earth**
 
@@ -80,7 +85,7 @@ Adam smiled. "Go save lives, man. It's been a privilege."
 
 * * *
 
-**Date Point: 6y 9m AV**
+**Date Point: 6y 9m AV**  
 
 "Wow. You really don't have a lot of stuff, do you?"
 
@@ -104,7 +109,7 @@ Jess just took his hand and walked him home.
 
 * * *
 
-**Date Point: 6y 9m AV**
+**Date Point: 6y 9m AV**  
 
 **Huntsville, Alabama, USA, Earth**
 
@@ -152,7 +157,7 @@ There was some nodding. "Guess we'd better get our shit away." Adam said.
 
 * * *
 
-**Date Point: 6y 9m AV**
+**Date Point: 6y 9m AV**  
 
 **London, England, Earth**
 
@@ -226,7 +231,7 @@ Ava watched her go, smiling, and hurried to finish hanging up her shirts.
 
 * * *
 
-**Date Point: 6y 9m AV**
+**Date Point: 6y 9m AV**  
 
 **Huntsville Alabama, USA, Earth**
 
@@ -314,7 +319,7 @@ Adam gave a self-deprecating little shrug and looked around the room. Legsy was 
 
 * * *
 
-**Date Point: 6y 9m AV**
+**Date Point: 6y 9m AV**  
 
 **Saddlers Bar, CULSU student bar, London, England, Earth**
 
@@ -480,7 +485,7 @@ Ava nodded, pleased to have made a friend. "Good idea." she said.
 
 * * *
 
-**Date Point: 6y 10m AV**
+**Date Point: 6y 10m AV**  
 
 **Bankhead Parkway NE, Huntsville, Alabama, USA, Earth**
 
@@ -558,7 +563,7 @@ A chorus of "Yes Sir." answered him.
 
 * * *
 
-**Date Point: 6y 10m AV**
+**Date Point: 6y 10m AV**  
 
 **Regent's Park, London, UK, Earth.**
 
@@ -666,7 +671,7 @@ Ava shrug-nodded. "Okay."
 
 * * *
 
-**Date Point: 6y 10m 3w AV**
+**Date Point: 6y 10m 3w AV**  
 
 **Huntsville Alabama, USA, Earth**
 
@@ -800,7 +805,7 @@ Cavendish hooked his thumbs into his belt and looked thoroughly pleased with him
 
 *** * ***
 
-**Date Point: 6y 10m 3w AV**
+**Date Point: 6y 10m 3w AV**  
 
 **Finchley, London, England, Earth.**
 
@@ -952,7 +957,7 @@ Sean glanced at Ben, who delivered the most subtle little head-shake, and so the
 
 * * *
 
-**Date Point: 6y 10m 3w 1d AV**
+**Date Point: 6y 10m 3w 1d AV**  
 
 **Huntsville Alabama, USA, Earth**
 
@@ -1036,7 +1041,7 @@ He rubbed his hands. "That concludes the introduction. Any questions, before I s
 
 * * *
 
-**Date Point: 6y 11m AV**
+**Date Point: 6y 11m AV**  
 
 **Folctha, Cimbrean, The Far Reaches**
 
@@ -1188,7 +1193,7 @@ Byron smiled. "For starters, Levaughn." he agreed. "For starters."
 
 * * *
 
-**Date Point: 6y 11m 2w AV**
+**Date Point: 6y 11m 2w AV**  
 
 **Folctha, Cimbrean, The Far Reaches**
 

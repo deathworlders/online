@@ -1,6 +1,11 @@
---- title: "Chapter 22: Warhorse Part 6—Operation NOVA HOUND" date: 2015-09-23 aliases:   - /book/deathworlders/chapter-22-warhorse/operation-nova-hound ---
+---
+title: "Chapter 22: Warhorse Part 6—Operation NOVA HOUND"
+date: 2015-09-23
+aliases:
+  - /book/deathworlders/chapter-22-warhorse/operation-nova-hound
+---
 
-**Date Point: First Contact Day, 10y AV**
+**Date Point: First Contact Day, 10y AV**  
 **Capitol Station, Capitol System, Dominion Space.**
 
 ***Officer Regaari,* Clan Whitecrest Attaché to the Mother-Supreme.**
@@ -679,7 +684,7 @@ Regaari climbed out of the bag as best he could with only one paw and collapsed 
 
 WARHORSE just lay beside him and chuckled. The chuckle turned into a laugh and he surged to his feet and ripped off the helmet and mask of his pressure suit, revealing a stubbly fuzz of head-hair on deep nut-coloured skin. Still laughing he threw the helmet high into the air, shrugged off the parachute harness and rucksack, and then spread his arms and *howled*.
 
-The noise was agony, a primal noar of defiance aimed at the universe which impaled Regaari's sensitive ears and straight through into the pain centers of his brain. WARHORSE seemed to have gone mad, jumping and swearing and punching the air, always returning to that same "*WOOO!"* sound. Regaari watched in alarm as the human did a double backflip in what must, to him, have been extremely low gravity, then stooped, ripped a stone from the turf that was as big as Regaari's *head* and threw it hard at a nearby tree before collapsing, giggling, on his back.
+The noise was agony, a primal roar of defiance aimed at the universe which impaled Regaari's sensitive ears and straight through into the pain centers of his brain. WARHORSE seemed to have gone mad, jumping and swearing and punching the air, always returning to that same "*WOOO!"* sound. Regaari watched in alarm as the human did a double backflip in what must, to him, have been extremely low gravity, then stooped, ripped a stone from the turf that was as big as Regaari's *head* and threw it hard at a nearby tree before collapsing, giggling, on his back.
 
 The stone hit the tree with such incredible force that it lodged in the wood.
 
@@ -923,7 +928,7 @@ Regaari grinned, emulating the human gesture. "Shoo did."
 
 * * *
 
-**Date Point: ten years earlier, 12d AV**
+**Date Point: ten years earlier, 12d AV**  
 **Yei Wa City, Wi Ko Yun province, Gao**
 
 "So why are you bringing this to me, and what is it?"
@@ -964,7 +969,7 @@ Regaari watched as the footage cut to the alien female cutting a swathe through 
 
 "…No. None."
 
-"Then you know what I see, Brother? I see a poor pre-contact life form, who-knows- how-far from home and probably feeling very confused right now." Regaari looked his Brother in the eye. "And I intend to say as much to the Mother-Supreme."
+"Then you know what I see, Brother? I see a poor pre-contact life form, who-knows-how-far from home and probably feeling very confused right now." Regaari looked his Brother in the eye. "And I intend to say as much to the Mother-Supreme."
 
 "You'd defy our clan Fathers a second time?"
 
@@ -984,7 +989,7 @@ Regaari's ears pricked. "They're *ordering* me to influence her?" he asked.
 
 * * *
 
-**Date Point: 10y AV**
+**Date Point: 10y AV**  
 **Planet Garden, Capitol System, Dominion Space**
 
 "You fought back." WARHORSE observed.
@@ -1191,7 +1196,7 @@ He winced and shielded his eyes as there was a tremendous flash in the sky. It f
 
 "Fusion weaponry is not a toy!" Regaari protested.
 
-"It is when it knocks those big swarmships out." Legsy pointed gain. It was hard to see in daylight, but there were definitely distant bright trails describing stately lines in the sky. Wreckage, falling from orbit.
+"It is when it knocks those big swarmships out." Legsy pointed again. It was hard to see in daylight, but there were definitely distant bright trails describing stately lines in the sky. Wreckage, falling from orbit.
 
 They burst from the brush and shrub and picked up the pace across the open ground around the buildings, pounding up the shallow incline onto a paved road surface.
 

@@ -1,6 +1,11 @@
---- title: "Chapter 22: Warhorse Part 1—The First Year" date: 2015-09-18 aliases:   - /book/deathworlders/chapter-22-warhorse ---
+---
+title: "Chapter 22: Warhorse Part 1—The First Year"
+date: 2015-09-18
+aliases:
+  - /book/deathworlders/chapter-22-warhorse
+---
 
-**Date Point: 4y 10m AV**
+**Date Point: 4y 10m AV**  
 
 **Dominion Embassy Station, Earth/Luna L1 point, Sol system**
 
@@ -56,7 +61,7 @@ Anees allowed the inner *'gotcha'* that rang triumphantly around his head to fee
 
 * * *
 
-**Date Point: 4y 10m AV**
+**Date Point: 4y 10m AV**  
 
 **Folctha Colony, Cimbrean, The Far Reaches**
 
@@ -470,7 +475,7 @@ Then, without a word, he rolled over, hauled himself to his feet, and began to r
 
 * * *
 
-**Date Point: 4y11m1w AV**
+**Date Point: 4y11m1w AV**  
 
 **Folctha Colony, Cimbrean, the Far Reaches.**
 
@@ -528,7 +533,7 @@ He reached over and hugged Gabriel. "Love you, dad."
 
 * * *
 
-**Date Point: Christmas Day, 4y11m2w AV**
+**Date Point: Christmas Day, 4y11m2w AV**  
 
 **Folctha Colony, Cimbrean, The Far Reaches**
 
@@ -566,7 +571,7 @@ It was just the start of a day that lasted forever.
 
 * * *
 
-**Date Point: Boxing Day, 4y11m2w AV**
+**Date Point: Boxing Day, 4y11m2w AV**  
 
 ***Adam Arés***
 
@@ -612,7 +617,7 @@ She was still there in the morning when he woke up.
 
 * * *
 
-**Date Point: 4y11m4w AV**
+**Date Point: 4y11m4w AV**  
 
 **Seattle, Washington, USA, Earth**
 
@@ -782,7 +787,7 @@ They moved on to the next candidate.
 
 * * *
 
-**Date Point: First Contact Day, 5 years AV**
+**Date Point: First Contact Day, 5 years AV**  
 
 **Seattle, Washington, USA, Earth**
 
@@ -970,7 +975,7 @@ Adam didn't wonder. Twelve hours of travel and the emotional jolt of leaving Ava
 
 * * *
 
-**Date Point: 5y AV**
+**Date Point: 5y AV**  
 
 **Folctha Colony, Cimbrean, The Far Reaches**
 
@@ -998,7 +1003,7 @@ It made for tough reading. She went to school in a low mood.
 
 * * *
 
-**Date Point: 5y1wAV**
+**Date Point: 5y1wAV**  
 
 **Lackland Air Force Base, San Antonio, Texas, USA, Earth.**
 
@@ -1076,7 +1081,7 @@ Adam laughed. Being able to share the experience of an embarrassing nickname was
 
 * * *
 
-**Date Point: 5y1w4d AV**
+**Date Point: 5y1w4d AV**  
 
 **Folctha Colony, Cimbrean, The Far Reaches**
 
@@ -1154,7 +1159,7 @@ Jessica went to make herself a cup of tea, and didn't return until she was absol
 
 * * *
 
-**Date Point: 5y 2m AV**
+**Date Point: 5y 2m AV**  
 
 **Lackland AFB, San Antonio, Texas, USA, Earth**
 
@@ -1392,7 +1397,7 @@ Adam waited for him to finish. Or even get started. In the end Gabe just shook h
 
 * * *
 
-**Date Point: 5y 2m 3w AV**
+**Date Point: 5y 2m 3w AV**  
 
 **Dominion Embassy Station, Earth/Moon L1 Point, Sol.**
 
@@ -1448,7 +1453,7 @@ They shook on it. Gently.
 
 * * *
 
-**Date Point: 5y 2m 4w AV**
+**Date Point: 5y 2m 4w AV**  
 
 *Hey Ava*
 
@@ -1464,7 +1469,7 @@ They shook on it. Gently.
 
 * * *
 
-**Date Point: 5y 4m AV**
+**Date Point: 5y 4m AV**  
 
 *Hey Ava,*
 
@@ -1492,7 +1497,7 @@ They shook on it. Gently.
 
 * * *
 
-**Date Point: 5y 4m 2d AV**
+**Date Point: 5y 4m 2d AV**  
 
 "Airman Arés!"
 
@@ -1686,7 +1691,7 @@ Adam laughed again "Alright, you sentimental fuck. You're with me…I appreciate
 
 * * *
 
-**Date Point: 5y 4m 5d AV**
+**Date Point: 5y 4m 5d AV**  
 
 **Folctha, Cimbrean, The Far Reaches**
 
@@ -1796,7 +1801,7 @@ She put the camera away, then stood up and kissed him on the forehead. "I'd bett
 
 * * *
 
-**Date Point: 5y 5m 1w AV**
+**Date Point: 5y 5m 1w AV**  
 
 **Lackland Air Force Base, San Antonio, Texas, USA, Earth**
 
@@ -1846,7 +1851,7 @@ He paused, then smiled. "But don't get stupid." he added. "training resumes the 
 
 * * *
 
-**Date Point: 5y 9m 3w AV**
+**Date Point: 5y 9m 3w AV**  
 
 **Folctha Colony, Cimbrean, the Far Reaches**
 
@@ -1974,7 +1979,7 @@ Gabriel Arés walked home with the largest smile on his face that he'd worn in y
 
 * * *
 
-**Date Point: 5y 11m 1w AV**
+**Date Point: 5y 11m 1w AV**  
 
 **Folctha colony, Cimbrean, the Far Reaches**
 
@@ -2048,7 +2053,7 @@ Gabe laughed a little. "Go home and sleep." he suggested. "You're going to need 
 
 * * *
 
-**Date Point: 5y 11m 1w AV**
+**Date Point: 5y 11m 1w AV**  
 
 **Folctha, Cimbrean, The Far Reaches**
 
@@ -2178,7 +2183,7 @@ He opened his eyes when Gabriel murmured an "*Amen*", and looked up.
 
 * * *
 
-**Date Point: Boxing Day, 5y 11m 2w AV**
+**Date Point: Boxing Day, 5y 11m 2w AV**  
 
 Adam wasn't yet asleep, but it still took him a couple of seconds to register the knock on his door.
 

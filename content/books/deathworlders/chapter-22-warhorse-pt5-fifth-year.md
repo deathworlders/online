@@ -1,6 +1,11 @@
---- title: "Chapter 22: Warhorse Part 5—The Fifth Year" date: 2015-09-22 aliases:   - /book/deathworlders/chapter-22-warhorse/fifth-year ---
+---
+title: "Chapter 22: Warhorse Part 5—The Fifth Year"
+date: 2015-09-22
+aliases:
+  - /book/deathworlders/chapter-22-warhorse/fifth-year
+---
 
-**Date Point: 9y 3d AV**
+**Date Point: 9y 3d AV**  
 
 **London, England, Earth**
 
@@ -88,7 +93,7 @@ He felt warm and alive.
 
 * * *
 
-**Date Point: 9y 2m 1w AV**  **San Diego National Memorial, San Diego County, Southern California, USA, Earth**
+**Date Point: 9y 2m 1w AV**    **San Diego National Memorial, San Diego County, Southern California, USA, Earth**
 
 **Gabriel Arés**
 
@@ -226,7 +231,7 @@ By the time Adam returned with a waiter bearing a pedestal fan, he was delighted
 
 * * *
 
-**Date Point: 9y 2m 2w AV**
+**Date Point: 9y 2m 2w AV**  
 
 **HMS Sharman, Folctha, Cimbrean, The Far Reaches**
 
@@ -274,7 +279,7 @@ He gave it three days before there were Feet somewhere on that castle.
 
 * * *
 
-**Date Point: 9y 2m 2w 2d AV**   **London, England, Earth**
+**Date Point: 9y 2m 2w 2d AV**     **London, England, Earth**
 
 ***Sean Harvey***
 
@@ -340,7 +345,7 @@ Sean took her hand, and for the last time she led him up the stairs.
 
 * * *
 
-**Date Point: 9y 5m AV**   **Folctha, Cimbrean, The Far Reaches**
+**Date Point: 9y 5m AV**     **Folctha, Cimbrean, The Far Reaches**
 
 ***Jessica Olmstead***
 
@@ -402,7 +407,7 @@ All in all, the future was looking bright.
 
 * * *
 
-**Date Point: 9y 6m AV**   **London, England, Earth**
+**Date Point: 9y 6m AV**     **London, England, Earth**
 
 ***Ava Rios***
 
@@ -534,7 +539,7 @@ The countdown started, and Ava couldn't resist one last gesture—just before th
 
 * * *
 
-**Date Point: 9y 7m AV**   **London, England, Earth**
+**Date Point: 9y 7m AV**     **London, England, Earth**
 
 ***Charlotte Gilroy***
 
@@ -584,7 +589,7 @@ Fortunately, she remembered how to nod long before then, and by the time it arri
 
 * * *
 
-**Date point: Christmas Day, 9y 11m 3w AV**   **Folctha, Cimbrean, the Far Reaches.**
+**Date point: Christmas Day, 9y 11m 3w AV**     **Folctha, Cimbrean, the Far Reaches.**
 
 ***Ava Rios***
 
