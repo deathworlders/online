@@ -446,7 +446,7 @@ Inside his helmet, Drew snorted. Some things would never change, and the world w
 
 "Oh, bloody hell…" Drew sighed to himself. Things had been going so peacefully, too. On the radio, he asked “Can it wait? If I don’t finish my scheduled job it’ll set the repairs back.”
 
-*"Nah, yeah, I told him that and he said it’s a no-can-do Drew. I even told him how much it’d cost, and he still said bring you in."* A note of concern crept into Drew M’s voice. *“An’ you know what, if Big Jezza thinks the money can get stuffed then I reckon somethin’s a bit fuckin’ sketchy.”*
+*"Yeah, nah, I told him that and he said it’s a no-can-do Drew. I even told him how much it’d cost, and he still said bring you in."* A note of concern crept into Drew M’s voice. *“An’ you know what, if Big Jezza thinks the money can get stuffed then I reckon somethin’s a bit fuckin’ sketchy.”*
 
 That was putting it mildly. Drew carefully backed out of the compartment he’d been welding. "I’ll be inside in twenty," he promised.
 
