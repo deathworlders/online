@@ -10,7 +10,7 @@ aliases:
 
 Rylee Jackson woke, and groaned. *Talamay* must have been stronger than it had tasted.
 
-She groaned even louder when the previous night's conversation came back to her, and buried her face in her pillow for a second, then rolled over and look up at *Pandora*'s wing, flung over her cot like a protective lover's arm.
+She groaned even louder when the previous night's conversation came back to her, and buried her face in her pillow for a second, then rolled over and look up at *Pandora's* wing, flung over her cot like a protective lover's arm.
 
 She spoke the word that heralded a bad start to any day: "Shit."
 

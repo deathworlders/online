@@ -5,7 +5,7 @@ aliases:
   - /book/deathworlders/chapter-21-dragon-dreams/215-interlude-d4-d5-c4-dxc4
 ---
 
-**Date Point: 4y 10m AV**    
+**Date Point: 4y 10m AV**
 **The Abyssal Plain, Pacific Ocean floor, Earth**
 
 There was a war raging at the bottom of the ocean, and out of the four factions involved, only one even knew that it was happening.
