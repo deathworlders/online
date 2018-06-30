@@ -993,7 +993,7 @@ Allison just shrugged, and after a second Yulna sagged. “...But true,” she c
 
 “...That was your first time seeing that side of us,” Yulna sighed. “And I suppose that’s the problem I face now. My Sisters are going to feel pulled in two directions by their instincts over this ring and what the Great Father did to it.”
 
-She tapped her forehead. “Up *here* we can see the logic of it and understand that the Hunters were really to blame… Down *here* though…”* she stroked the fur of her abdomen. “The Great Father killed a great many cubs, both on Gao and now on the Ring. Some of us will be furious with him over that, even though we never knew them.”
+She tapped her forehead. “Up *here* we can see the logic of it and understand that the Hunters were really to blame… Down *here* though…” she stroked the fur of her abdomen. “The Great Father killed a great many cubs, both on Gao and now on the Ring. Some of us will be furious with him over that, even though we never knew them.”
 
 “And because *you* made him Great Father…” Xiù predicted.
 
@@ -1213,7 +1213,7 @@ Amy smiled at her and though she was on the far side of the room, her voice soun
 
 Ava waved at her and adjusted her mic. “So something big’s gonna happen with the Gao?”
 
-Jason’s voice: *“Yeah. Apparently the Great Father just showed up on the *Rich Plains* in person…”*
+Jason’s voice: *“Yeah. Apparently the Great Father just showed up on the Rich Plains in person…”*
 ___
 
 **Date Point: 15y6m4d AV**    
@@ -1591,7 +1591,7 @@ Jack just shrugged again and finished tidying up to his satisfaction. He returne
 
 “It’s not super formal,” Jack said. He put his phone on the altar and tapped at it. “It’s just about raising the energy and sending it their way. How you do that is up to you and your tradition. Just so long as it comes from the heart, you know?” He tapped at the phone one last time and the quiet sounds of drumming and chanting started to waft through the circle. Satisfied, he made a procession around the circle, lighting the candles and muttering something. Rihanna was close enough to hear him as he lit the third one.
 
-*“Guardian of the West, I call upon you to watch over this rite. Powers of energy and will, guided by fire, let those in my thoughts know healing and comfort…”
+*“Guardian of the West, I call upon you to watch over this rite. Powers of energy and will, guided by fire, let those in my thoughts know healing and comfort…”*
 
 He moved on, lit the fourth candle and retreated to the altar, where he knelt and bowed his head for some time. After a minute or so he picked up bundle of leaves and set fire to the end, which produced a surprising amount of smoke as it smouldered. Satisfied, he set the lighter down and waved the bundle slowly around himself and the altar.
 
@@ -1731,7 +1731,7 @@ Ted’s drink of choice was a lemon and ginger infusion, which he accepted grate
 
 “I didn’t hear shouting this time,” Gyotin ventured.
 
-“I think they’re past that point. Each of them blames the other for the fact that they’ve---their words, not mine— *’lost control of the kids.’*”
+“I think they’re past that point. Each of them blames the other for the fact that they’ve---their words, not mine—*’lost control of the kids.’”*
 
 “It always comes back to control with them, doesn’t it?”
 
