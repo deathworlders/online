@@ -6,7 +6,7 @@ author: "P.A.B.Arianis (paladin3712x)"
 
 ---
 
-**3 years, 10 months, 3 weeks AV**  
+**13 years, 10 months, 3 weeks AV**  
 **Aetlayus, “Sea Rose” Node-cluster**  
 
 **Lanth**
@@ -764,7 +764,7 @@ He spared a grudging grin for the officer’s anticipation. “Brother Farragun,
 **++Incoming connection…  
 Established++**  
 
-**++System notification: Private session between User 0005 and User 0006; Session Opened++**  
+**++System notification: Private session between User 0005 and User 0063; Session Opened++**  
 
 **+0005+:** Report, what is the condition of Gorai?  
 
