@@ -11,7 +11,7 @@ author: "Philip R. Johnson (Hambone)"
 
 The sky was boiling.  
 
-Costello had never seen northern lights before, and now sheets of silent fire were coiling languidly across the heavens far faster than he’d imagined they would, shifting hue like some fibre-optic christmas tree or something. One minute turquoise, the next orange shading to green, or bright red…
+Costello had never seen northern lights before, and now sheets of silent fire were coiling languidly across the heavens far faster than he’d imagined they would, shifting hue like some fibre-optic Christmas tree or something. One minute turquoise, the next orange shading to green, or bright red…
 
 All thanks to that goddamn bomb. He’d tried to follow the explanation of how it worked, really he had, but really it had just driven home to him that the Gao were an alien species with a few centuries of technological ground separating them from humanity. They knew things about physics that just didn’t fit Costello’s meagre scientific education.
 
@@ -82,7 +82,7 @@ Nobody was celebrating this one.
 ___
 
 **Date Point: 15y6m1d AV**    
-**Builder brood-barge, Hell system Hunter Space**
+**Builder brood-barge, Hell system, Hunter Space**
 
 ***The Builder Alpha-of-Alphas***
 
@@ -160,17 +160,17 @@ Initial assessment: All four are in a fragile state of mind having endured a dec
 
 All four should therefore be considered highly likely to develop Post-Traumatic Stress Disorder in the near future, and should be treated appropriately. Depression, anxiety and other conditions also seem probable.
 
-Doctor Cook is unquestionably the worst case. Although his colleagues report that he held together well during their exile and escape, now that he is safe among humans he has lapsed into a catatonic daze. His attention can be briefly gained but is difficult to hold. Unfortunately, he has also twice now become violent and assaulted base staff. He is therefore currently sedated and it is probably worth keeping him on a sedative regime for the time being. I have started him on Lorazepam. He violently rejected the assistance of our base chaplain.
+Doctor Cook is unquestionably the worst case. Although his colleagues report that he held together well during their exile and escape, now that he is safe among humans he has lapsed into a catatonic daze. His attention can be briefly gained but is difficult to hold. Unfortunately, he has also twice now become violent and assaulted base staff. He is therefore currently sedated and it is probably worth keeping him on a sedative regime for the time being. I have started him on lorazepam. He violently rejected the assistance of our base chaplain.
 
-Doctor Chase is superficially in a good mood but she is evasive with regards to the status of her colleague Doctor Wheeler, who is in intensive care, and changes the subject quickly whenever Doctor Wheeler is mentioned. Of the four, she spent the longest with the chaplain and requested a rosary, which seems to comfort her greatly. Although this is a welcome development, she should be monitored for signs of obsessive behaviour and I have prepared a script for Fluoxetine should it become necessary.
+Doctor Chase is superficially in a good mood but she is evasive with regards to the status of her colleague Doctor Wheeler, who is in intensive care, and changes the subject quickly whenever Doctor Wheeler is mentioned. Of the four, she spent the longest with the chaplain and requested a rosary, which seems to comfort her greatly. Although this is a welcome development, she should be monitored for signs of obsessive behaviour and I have prepared a script for fluoxetine should it become necessary.
 
-Mister Spears is quiet and solemn, and was eager to escape from our infirmary when I spoke to him. Despite his malnourished and exhausted condition he seemed anxious to get out of bed and explore, or at least to have some activity to distract him. I started him on a low dose of Diazepam, which seemed to help, but he remains restless and finds it difficult to concentrate on anything for long. I am told that he threw a book across the room at one point, but he readily calmed down and apologized to the nurse. If his restlessness persists, he may need stronger Diazepam.
+Mister Spears is quiet and solemn, and was eager to escape from our infirmary when I spoke to him. Despite his malnourished and exhausted condition he seemed anxious to get out of bed and explore, or at least to have some activity to distract him. I started him on a low dose of Diazepam, which seemed to help, but he remains restless and finds it difficult to concentrate on anything for long. I am told that he threw a book across the room at one point, but he readily calmed down and apologized to the nurse. If his restlessness persists, he may need stronger diazepam.
 
-Doctor Choi is objectively in the best condition both physically and mentally. He describes his mood as “both high and low” but his emotions and mood seem to be largely appropriate considering his recent history. He was very eager to be reunited with his parents, who are en route to Folctha at the time of writing. He spoke at length with the chaplain and me about what he should tell his parents and what he should leave out, especially vis-a-vis cannibalism. He was quite concerned over what their reaction might be, but did not strike me as inappropriately anxious. To be on the safe side, I have prepared a script for Sertraline which I hope will not be necessary.
+Doctor Choi is objectively in the best condition both physically and mentally. He describes his mood as “both high and low” but his emotions and mood seem to be largely appropriate considering his recent history. He was very eager to be reunited with his parents, who are en route to Folctha at the time of writing. He spoke at length with the chaplain and me about what he should tell his parents and what he should leave out, especially vis-a-vis cannibalism. He was quite concerned over what their reaction might be, but did not strike me as inappropriately anxious. To be on the safe side, I have prepared a script for sertraline which I hope will not be necessary.
 
 I do not anticipate that they will remain in my care beyond this letter.
 
--Lt.Cmdr. K. Mears    
+-Lt Cmdr K. Mears    
 Counsellor, HMS *Sharman*
 ___
 
@@ -261,7 +261,7 @@ There were concessions, of course. Both Amanda and Jacob had access to the boys 
 
 She knelt to give the boys a hug. “Shouldn’t you two be getting ready for bed? It’s late.”
 
-“Xiù never said to.” Ramsey supplied.
+“Xiù never said to,” Ramsey supplied.
 
 “Where is she?”
 
@@ -449,15 +449,15 @@ Yan grumbled and scooted a little closer to the fire. Jooyun didn’t mind the c
 
 Raven quirked an eyebrow. “You’re not cold *at all?”*
 
-Jooyun chuckled softly. “Well...” He stood up, fetched his “blue jeans” from the rack he’d built and carefully wriggled into them, “Maybe a little. Even I have my limits. But now I have warm pants! This is a good reason to make cloth, Yan. Easier to clean than pelts, too.”
+Jooyun chuckled softly. “Well...” He stood up, fetched his “blue jeans” from the rack he’d built and carefully wriggled into them. “Maybe a little. Even I have my limits. But now I have warm pants! This is a good reason to make cloth, Yan. Easier to clean than pelts, too.”
 
 There was a miserable sound from the pile of blankets to Yan’s left. Vemik was under there somewhere, having claimed Jooyun’s blanket on the grounds that Jooyun wasn’t using it.
 
-Sky-Brother chuckled, “You okay, bud? It’ll be better if you crawl out and sit with us.”
+Sky-Brother chuckled. “You okay, bud? It’ll be better if you crawl out and sit with us.”
 
 Vemik lifted the front of the blanket with his tail, just enough to peek out. “Soup ready, yet?”
 
-“Getting there,” Mikey gave it a stir. It was all made with food they’d acquired themselves during the day. Seeing just how *much* food the Humans could scrounge up from what had looked to Yan’s eyes like an empty dusty wasteland had been… well, he’d learned a lot. There wasn’t a lot, but there was enough to send them to bed with a full belly, which meant another tomorrow to find more food.
+“Getting there.” Mikey gave it a stir. It was all made with food they’d acquired themselves during the day. Seeing just how *much* food the Humans could scrounge up from what had looked to Yan’s eyes like an empty dusty wasteland had been… well, he’d learned a lot. There wasn’t a lot, but there was enough to send them to bed with a full belly, which meant another tomorrow to find more food.
 
 That seemed to be how Humans did things, in fact. Get enough food *now* to reach *tomorrow.* If you could get enough food for the day after, and the day after, and the hand of days after that then that was good, but Mikey had said something interesting to make Yan think.
 
@@ -521,7 +521,7 @@ Yan suppressed a shiver. He *hated* bugs. Too many of the People died to the shi
 
 In fact, not a lot of sleeping happened at first. Yan lay there with a head full of thoughts for some time, listening idly as Raven taught Vemik the names of the stars. He had to admit, he liked that the humans had named some of them after a great hunter.
 
-His bedroll was warm and comfortable though. In the end, his thoughts drifted away, and so did he.
+His bedroll was warm and comfortable though. In the end, his thoughts drifted off, and so did he.
 ___
 
 **Date Point: 15y6m3d AV**    
@@ -541,7 +541,7 @@ We discussed the situation at length, though mostly I think he just needed to ve
 
 I reminded him to hydrate before going to bed, which lifted his spirits and made him laugh. All things considered, I see no cause for alarm, though I imagine we will have a few more conversations on this subject in the near future.
 
--Lt.Cmdr. K. Mears    
+-Lt Cmdr K. Mears    
 Counsellor, HMS *Sharman*
 ___
 **Date Point: 15y6m3d AV**    
@@ -589,7 +589,7 @@ Sheeyo duck-nodded thoughtfully. “And the Dominion is too politically fracture
 
 “And there ain’t nobody else we can trade with to make up the difference,” Daar duck-nodded. “But you sound like you’re contradicting yourself, Champion Sheeyo. Are the Dominion too fractured to trouble us, or could they make our lives difficult?”
 
-Sheeyo twitched an ear. “Both, my father. They’re paralyzed by indecision and internal turmoil, but all it takes is one moment of backbone, one charismatic leader to show them the way…”
+Sheeyo twitched an ear. “Both, My Father. They’re paralyzed by indecision and internal turmoil, but all it takes is one moment of backbone, one charismatic leader to show them the way…”
 
 “Hrrm.”
 
@@ -818,7 +818,7 @@ We shifted the discussion into Arés’ own immense propensity for aggression, w
 
 It would be helpful if I was better-acquainted with Daar, but Arés’ moment of epiphany seemed to coincide with mulling over the term *‘Great Father.’* Considering the recent change in his family circumstances, I am left to wonder what connection he has made, a conversation I look forward to having with him next month.
 
-Lt.-Cmdr K. Mears    
+-Lt Cmdr K. Mears    
 Counsellor, HMS *Sharman.*
 ___
 
@@ -897,7 +897,7 @@ Thus, Nofl’s meeting with the great and powerful was over, at least for now. H
 
 “Mother Prime and Father Prime?” He shook his head in disbelief as he muttered the words to himself. Hopefully the coming New Corti paradigm would have more of a sense of imagination.
 
-It was too much to hope that they might delve through the species’ most ancient archives and dig up whatever long-forgotten fable had filled the same role in Corti society as Adam and Eve had in Western Human society. That kind of lore was long-gone.
+It was too much to hope that they might delve through the species’ most ancient archives and dig up whatever long-forgotten fable had filled the same role in Corti society as Adam and Eve had in Western Human society. That kind of lore was long gone.
 
 But then again… perhaps that just meant they had the chance to write it from new.
 
@@ -993,7 +993,7 @@ Allison just shrugged, and after a second Yulna sagged. “...But true,” she c
 
 “...That was your first time seeing that side of us,” Yulna sighed. “And I suppose that’s the problem I face now. My Sisters are going to feel pulled in two directions by their instincts over this ring and what the Great Father did to it.”
 
-She tapped her forehead. “Up *here* we can see the logic of it and understand that the Hunters were really to blame… Down *here* though…” she stroked the fur of her abdomen. “The Great Father killed a great many cubs, both on Gao and now on the Ring. Some of us will be furious with him over that, even though we never knew them.”
+She tapped her forehead. “Up *here* we can see the logic of it and understand that the Hunters were really to blame… Down *here* though…” She stroked the fur of her abdomen. “The Great Father killed a great many cubs, both on Gao and now on the Ring. Some of us will be furious with him over that, even though we never knew them.”
 
 “And because *you* made him Great Father…” Xiù predicted.
 
@@ -1067,7 +1067,7 @@ Xiù paused. “Hmm? What?”
 
 “That’s a nava cake, babe.”
 
-“Yup!” Xiù happily scooped a dollop off her chin to lick it off her finger, then saw Allison’s expression “...I  guess it’s an acquired taste.”
+“Yup!” Xiù happily scooped a dollop off her chin to lick it off her finger, then saw Allison’s expression. “...I  guess it’s an acquired taste.”
 
 “Y’know, sometimes I can’t tell if you take being kinda-sorta Gaoian real seriously, or if you just went native. I mean, you even say *‘us’* when you talk about the Clan.”
 
@@ -1106,6 +1106,7 @@ Xiù sighed. “That sounds perfect.”
 “We’ll make it happen,” Allison promised. Xiù nodded, snuggled into her a little closer, and comfortable silence descended. Allison stroked her hair a few times then put her head back to relax for the ride home herself.
 
 At least *some* things in life could be simple...
+
 __
 
 **Date Point: 15y6m3d AV**    
@@ -1119,7 +1120,7 @@ Ben watched her go with a fond chuckle then gave Ava a hug. “Well. It’s abou
 
 The dog wagged her tail at him, while Ava grinned and sat down on their couch. “Yeah. It is.”
 
-“So what’s he like?” Charlotte called. Her and Ben’s house was small and modest, especially by Folctha’s standards. Charlotte called it *‘cosy’:* Ava had always felt it was cramped, especially with all the *stuff* they had cluttering up the place. Stacks of old console games, a tough Aloe Vera that was somehow managing to survive their slapdash attention, shelves full of interesting knick-knacks and a mountain of untouched cook books. The whole thing was sprinkled liberally with lonely crumpled socks and mugs that bore a thin internal lacquer of dried tea.
+“So what’s he like?” Charlotte called. Her and Ben’s house was small and modest, especially by Folctha’s standards. Charlotte called it *‘cosy’:* Ava had always felt it was cramped, especially with all the *stuff* they had cluttering up the place. Stacks of old console games, a tough Aloe Vera that was somehow managing to survive their slapdash attention, shelves full of interesting knick-knacks and a mountain of untouched cookbooks. The whole thing was sprinkled liberally with lonely crumpled socks and mugs that bore a thin internal lacquer of dried tea.
 
 She had to admit: it was one of the most characterful and lived-in places that she knew. It was a *home* in the complete and messy sense of the word, whereas Ava had few possessions and paid for a cleaner to visit twice a week. The contrast was stark.
 
@@ -1243,7 +1244,7 @@ We touched briefly on Operation LOST CUB. He had nothing much to say on the subj
 
 This pragmatic attitude is typical of him, and I am satisfied that he is mentally and emotionally well.
 
-Lt Cmdr K. Mears,    
+-Lt Cmdr K. Mears,    
 Counsellor, HMS *Sharman.*
 
 ___
@@ -1283,7 +1284,7 @@ She locked it down again in a second, but Sheeyo *knew.* He returned his attenti
 
 “Despite this objective triumph, our great enemy was crafty and resilient,” the Great Father continued. “The Hunters fought back, hard. In so doing, they bought themselves time, and were able to save many ships. They are wounded and diminished, but still very much active… and now they are severed from what was their primary source of food.”
 
-He tapped a claw sharply on the lectern when the background rustle of conversation got a little too loud, and that was enough to quiet them again. “The Dominion may believe that the Hunters primarily feed themselves by raiding, but that ain’t so. As it turns out---and the Council should already know this, as it was a tiny young Gaoian female called Sister Triymin who first delivered this intelligence to you—” the Great Father’s voice dropped half an octave as he said that, and for a second there was livid anger almost crackling in his hackles and teeth, “---This Ring was full of slaves. Slaves kept and bred purely for the purposes of being *meat.”*
+He tapped a claw sharply on the lectern when the background rustle of conversation got a little too loud, and that was enough to quiet them again. “The Dominion may believe that the Hunters primarily feed themselves by raiding, but that ain’t so. As it turns out---and the Council should already know this, as it was a tiny young Gaoian female called Sister Triymin who first delivered this intelligence to you—” the Great Father’s voice dropped half an octave as he said that, and for a second there was livid anger almost crackling in his hackles and teeth, “---this Ring was full of slaves. Slaves kept and bred purely for the purposes of being *meat.”*
 
 He raised his voice now. Where Sheeyo had mastered the art of lofting his voice over a commotion, Daar’s gravelly tones just smashed the hubbub aside like a landslide. He would brook no interruption.
 
@@ -1293,7 +1294,7 @@ He raised his voice now. Where Sheeyo had mastered the art of lofting his voice 
 
 He finished with a deep breath, and tilted his neck until it made a popping sound that seemed to satisfy him.
 
-“Now,” he said. “Know that this Council forfeited any right to object or question us when you stood by and watched my people burn nearly to extinction. I have done you the courtesy of giving this warning. It’s up ‘ta you whether you listen. My personal advice? Invest heavily in jump arrays. Get shields up around your core systems. We will make our prototype systems available, and in the meantime we will patrol heavily along vulnerable spacelanes and intervene when and how we see fit. Be grateful: I remind you that until such time as compensation has been paid for this Council’s failure to act in our defence, we are not bound by our treaty obligations.”
+“Now,” he said. “Know that this Council forfeited any right to object or question us when you stood by and watched my people burn nearly to extinction. I have done you the courtesy of giving this warning. It’s up ‘ta you whether you listen. My personal advice? Invest heavily in jump arrays. Get shields up around your core systems. We will make our prototype systems available, and in the meantime we will patrol heavily along vulnerable spacelanes and intervene when and how we see fit. Be grateful: I remind you that until such time as compensation has been paid for this Council’s failure to act in our defence, we are not bound by our treaty obligations.
 
 “One last word: Y’all need to change your battle doctrine. The Dominion has relied for too long on an unwieldy doctrine of gross tonnage and firepower. That needs to end *now* and y’need ‘ta look at how those of us who actually got *results* against the Hunters have been doin’ things. Hard times are ahead: You can adapt and overcome them. We’ll even help. But if you fail to heed my warnings today, you *will* be mauled at least, and we won’t be able to stop it. Consider yerselves warned.”
 
@@ -1307,7 +1308,7 @@ Generously, Daar slowed down for him.
 
 Aware that he’d need to go back into that chamber shortly, Sheeyo opted for a diplomatic answer. “That... went as well as could be expected, My Father.”
 
-Daar only grumbled in reply and padded along in silence. Even at this slower paces, Sheeyo was finding it hard to keep up with him.
+Daar only grumbled in reply and padded along in silence. Even at this slower pace, Sheeyo was finding it hard to keep up with him.
 
 “Yeah,” he eventually allowed. “I s’pose. Meanwhile I gotta head back t’Earth again and schmooze. And also, I got a surprise I’m cookin’ up. Uh...I should maybe apologize ahead o’ time. It’s gonna make ‘yer life rough, maybe.”
 
@@ -1422,7 +1423,7 @@ They walked arm-in-arm along Quarter Street, the gap between downtown Folctha to
 
 “Hey, the Lads have brains,” Derek objected loyally. “Hell, Arés—uh, Marty—got ‘em all reading poetry. Though I think at this point it’s *competitive.* ‘Cuz, obviously, one of ‘em has to be the *best* at it, somehow.”
 
-Ava smiled fondy. “...Only *they* could make a competition out of reading poetry.”
+Ava smiled fondly. “...Only *they* could make a competition out of reading poetry.”
 
 “I think their general leaderboard---yes, they have one of those too---has Murray and Firth tied.”
 
@@ -1450,7 +1451,7 @@ Derek laughed, and indicated their destination. “You eaten here before?”
 
 In fact, the place was doing good business. If Derek hadn’t booked a table in advance, Ava doubted they’d have been able to sit. As it was, the waitress had saved them a secluded, intimate little table in the corner.
 
-A lot of effort had gone into decorating the building’s interior as though it was some kind of mediterranean stone farmhouse, and the effect was quite convincing. Ava hung her jacket over the back of the chair, parked her purse under it, and sat down only to find herself sitting below a rack of drying herbs. There were wine bottles *everywhere,* apparently stored in the walls as much for decoration as for ease of access, and the classical guitar music was just loud enough to give each table some privacy without forcing anybody to raise their voice.
+A lot of effort had gone into decorating the building’s interior as though it was some kind of Mediterranean stone farmhouse, and the effect was quite convincing. Ava hung her jacket over the back of the chair, parked her purse under it, and sat down only to find herself sitting below a rack of drying herbs. There were wine bottles *everywhere,* apparently stored in the walls as much for decoration as for ease of access, and the classical guitar music was just loud enough to give each table some privacy without forcing anybody to raise their voice.
 
 She was impressed.
 
@@ -1492,7 +1493,7 @@ He grimaced. “I said… *‘That is so cool. What was it like?’”*
 
 “I… take it that didn’t go down well,” Ava predicted.
 
-“He just… calmly pushed his coffee aside, leaned forward, looked me in the eye. And he said *‘If you don’t shut your mouth right now, I’m gonna take you into that restroom right there and fuck you up’.”* Derek looked down at his hands and almost-laughed at himself. “I nearly shit my pants.”
+“He just… calmly pushed his coffee aside, leaned forward, looked me in the eye. And he said *‘If you don’t shut your mouth right now, I’m gonna take you into that restroom right there and fuck you up.'”* Derek looked down at his hands and almost-laughed at himself. “I nearly shit my pants.”
 
 “But you enlisted.”
 
@@ -1528,7 +1529,7 @@ Ava took the paper and unfolded it. She speed-read the short message printed on 
 
 “I know. And believe me, he has this weighing on him a lot more than I do.”
 
-Ava drained half her wine glass in one gulp and took a deep breath. Opportunities like this were… well, they were like striking oil in her backyard, or finding a renaissance masterpiece in grandma’s loft. They *never* happened, not without a lifetime of hard work and reputation-building.
+Ava drained half her wine glass in one gulp and took a deep breath. Opportunities like this were… well, they were like striking oil in her backyard, or finding a Renaissance masterpiece in grandma’s loft. They *never* happened, not without a lifetime of hard work and reputation-building.
 
 What surprised her though was that that thought came in a long way behind the simple fact that she agreed with him: after what she’d seen and been through in Egypt, even though that was not even a *fraction* of the whole story…
 
@@ -1607,7 +1608,7 @@ Jack opened his eyes and glanced at her. “It’s how my family does things,”
 
 He smiled at her again then returned his attention to the ritual.
 
-*“Spirits of this world, extend your protection and love to Ben Cook, James Choi, Holly Chase and Damian Spears, and to the brothers of the HEAT, of First Fang, and of Clan Whitecrest. Help them cut away their pain—” he drew the blade in a strong cutting motion through the air. “Help them cut away their grief. Help them cut away their despair. Help them cut away their guilt.”*
+*“Spirits of this world, extend your protection and love to Ben Cook, James Choi, Holly Chase and Damian Spears, and to the brothers of the HEAT, of First Fang, and of Clan Whitecrest. Help them cut away their pain—”* he drew the blade in a strong cutting motion through the air. *“Help them cut away their grief. Help them cut away their despair. Help them cut away their guilt.”*
 
 He drew one last cut with the knife, set it down again and raised his hands in front of him palm-up. *“Help them forgive and love themselves. Help them see the good in their deeds, and help them be whole. Spirits of water, air, fire and earth… help them heal.”*
 
@@ -1713,11 +1714,11 @@ Some days, it looked impenetrable even to him. The taboos in particular could be
 
 Take caffeine for instance. To insects, a fatal pesticide. To humans a million times more massive, it was a pleasant stimulant with few if any consistent drawbacks. To Gaoians...it depended, and there was no way to tell how any particular person would respond. Gyotin quite enjoyed it. The Great Father seemed to get a buzz just from *sniffing* an espresso and, allegedly, actually drinking the stuff was enough to have him tearing around in a frenzy.
 
-Its trade and import, as far as Gyotin had learned, may have been instrumental in the development of Humanity’s renaissance and enlightenment eras. And tea was the very model of a civilized drink, having a history that allegedly went back five thousand years.
+Its trade and import, as far as Gyotin had learned, may have been instrumental in the development of Humanity’s Renaissance and Enlightenment eras. And tea was the very model of a civilized drink, having a history that allegedly went back five thousand years.
 
 Why should either be a taboo among humans? And yet they were, to Mormons. But hot chocolate was not, despite the fact that the sugar and fats were objectively far more unhealthy than caffeine.
 
-It was all so intriguingly confusing, and it was why Gyotin’s little impromptu coffee shop in the Multi-Faith Center (free, but donations gratefully accepted) always kept a healthy supply of ovaltine and herbal infusions for when the Buehlers were having a session.
+It was all so intriguingly confusing, and it was why Gyotin’s little impromptu coffee shop in the Multi-Faith Center (free, but donations gratefully accepted) always kept a healthy supply of Ovaltine and herbal infusions for when the Buehlers were having a session.
 
 There were about forty Mormons in Folctha, total. The branch president was a happy, smiling, truly lovely guy named Ted who gave so much of his time to other people that there was no possible way Gyotin could see that he might have any other hobbies or personal interests.  
 
@@ -1737,13 +1738,13 @@ Ted’s drink of choice was a lemon and ginger infusion, which he accepted grate
 
 Ted sighed. “Yes. Always. And it’s…” He scooted forward in his seat and put his drink down on the floor between his feet, untouched. “The truly frustrating part is that in their way I think Jacob and Amanda really do love their children. Even Allison. But they got so completely fixated on being their children’s protectors that they forgot that the *other* side of parenthood is letting the kids leave the nest someday.”
 
-Gyotin decided to make himself an ovaltine. “A Gaoian male might not be the best to talk to about this, you know,” he said. “I don’t know much about raising cubs.”
+Gyotin decided to make himself an Ovaltine. “A Gaoian male might not be the best to talk to about this, you know,” he said. “I don’t know much about raising cubs.”
 
 “Neither do I,” Ted confessed. “But we can both spot when they’re doing it wrong.”
 
 “Seeing that they do it wrong is not the same thing as being able to show them the right way… assuming they even *can* be shown the right way.”
 
-They’re both prideful.”
+"They’re both prideful.”
 
 “Hmm.” Gyotin mulled that over as he made his drink.
 
@@ -1789,7 +1790,7 @@ Ted nodded and sipped his drink. “I find… in most people, pride like that is
 
 Ted shook his head. “I believe in healing, and I believe that everybody *can* be healed. I know there must be *some* way to get through to them, I just… can’t figure out what it is.”
 
-“Hmm.” Gyotin sipped his ovaltine then set it aside. “...Are you sure you’re not being prideful yourself?” he asked innocently.
+“Hmm.” Gyotin sipped his Ovaltine then set it aside. “...Are you sure you’re not being prideful yourself?” he asked innocently.
 
 “I… Hmm. I... what do you mean?”
 
@@ -1891,7 +1892,7 @@ Finally, he managed to sting Daar’s temper. The Great Father scowled at him an
 
 Rather than push his luck and nettle Daar again, Gyotin simply tilted his head the other way and listened some more.
 
-Daar rewarded his patience by finally getting to his *real* question. “Is she gonna fuck me over?” he asked “Everythin’ I think I know says no, but ain’t nobody I trust more than you to answer this question. I can’t ask ‘Horse, he’s loyal. I can’t ask the HEAT, the pretty much hate her the *mostest.* Genshi is a Cousin but he’s got other motivations, and Regaari is in the same boat, ‘cept worse. He thinks I don’t know what he’s plannin’ but I do. So...do I trust her?”
+Daar rewarded his patience by finally getting to his *real* question. “Is she gonna fuck me over?” he asked “Everythin’ I think I know says no, but ain’t nobody I trust more than you to answer this question. I can’t ask ‘Horse, he’s loyal. I can’t ask the HEAT, they pretty much hate her the *mostest.* Genshi is a Cousin but he’s got other motivations, and Regaari is in the same boat, ‘cept worse. He thinks I don’t know what he’s plannin’ but I do. So...do I trust her?”
 
 A simple question got a simple answer.
 
@@ -1954,7 +1955,7 @@ That put them minutes away. With a sigh, Yefrig resigned himself to disappointme
 
 “Recall the salvage team,” he said. “We’ll pass on all of our data to the fleet’s Matriarch as a courtesy and withdraw.”
 
-Not every hunt could be a success, he supposed. But that was true for both sides: The Gaoian fleet had thwarted more attacks than it had missed. Each miss hurt… but the initiative was still theirs, an still being applied.
+Not every hunt could be a success, he supposed. But that was true for both sides: The Gaoian fleet had thwarted more attacks than it had missed. Each miss hurt… but the initiative was still theirs, and still being applied.
 
 “...She… Sends her thanks and regards, Shipfather.” The communications Brother sounded surprised, and Yefrig could hardly blame him. The Kwmbwrw attitude had, officially at least, been snooty rather than warm. Getting a note of esteem out of one of their fleet Matriarchs was.. Unexpected. And warming.
 
@@ -1968,7 +1969,7 @@ ___
 
 ***The Builder Alpha-of-Alphas***
 
-Waste was one thing; Jettisoning of dead weight was another. A resource that endangered other resources was the functional opposite of an asset, and for the time being there was a ruthless calculus at play across the entire Swarm-of-Swarms.
+Waste was one thing; jettisoning of dead weight was another. A resource that endangered other resources was the functional opposite of an asset, and for the time being there was a ruthless calculus at play across the entire Swarm-of-Swarms.
 
 To whit: The strong ate, and the weak starved.
 
@@ -1988,7 +1989,7 @@ What remained, however, was stability. Sustainability. The surviving Broods were
 
 *+< Intrigued >* It self-replicated?+
 
-*+< Confirmation>* The scout watched it for several cycles. It surveyed the inner-system planets then found a rich resource deposit and deployed a nanofactory. It then built a shipyard and constructed appeared to be a copy of itself before departing via jump drive.+
+*+< Confirmation>* The scout watched it for several cycles. It surveyed the inner-system planets then found a rich resource deposit and deployed a nanofactory. It then built a shipyard and constructed what appeared to be a copy of itself before departing via jump drive.+
 
 *+< Growing inspiration >* Such replication could theoretically be exponential. *< Query >* You were unable to capture it?+
 
@@ -2093,7 +2094,7 @@ In fact, calling the planet Earth 2.0 was about on the money. Even the solar sys
 
 There were some inevitable differences. Earth 2.0 had a more pronounced axial tilt, and its moon, in addition to being larger, was closer and not *quite* tidally locked, which Lucy suggested probably meant it was much younger. Aside from huge tides, it was difficult to predict how that would affect surface conditions, but the coltainer probe had been impressed enough to establish a pre-colony site and jump array before returning.
 
-“So waddawe think?” Lewis asked after they’d spent half an hour cooing over lush satellite imagery and the UAVs the probe had sent down.
+“So whaddawe think?” Lewis asked after they’d spent half an hour cooing over lush satellite imagery and the UAVs the probe had sent down.
 
 “I think it looks like the probe’s working!” Lucy declared.
 
@@ -2137,7 +2138,7 @@ Rather than talking about work on the elevator or the short walk back to their s
 
 “Uh… edging.”
 
-“Oh yeah…” she nibbled at his ear and sent shivers down his spine as she whispered. *“Don’t turn around.”*
+“Oh yeah…” She nibbled at his ear and sent shivers down his spine as she whispered. *“Don’t turn around.”*
 
 He grit his teeth and screwed his face up. “Oh come on, Loo, you’re gonna tease me *more?!”*
 
@@ -2374,7 +2375,7 @@ Vital signs flared back into life on Nofl’s monitor as the blood substitute di
 
 Step three: repairs. The heart was definitely destroyed: in fact it was barely in one piece, being held together by a thin thread of connective tissue. In theory, the same cell-level microsurgical techniques that would reassemble the patient at the end of this procedure could have simply woven that heart back together had the wound been clean, but the fusion claw had burned and seared the cardiac muscle, partly blowing it open when the blood inside had boiled.
 
-Fortunately, they had a replacement cloned from Doctor Wheeler’s own tissue sample. There would be no immune rejection response, no complications---It effectively was the same heart, except new and healthy. The replacement floated into place somewhere amidst the splayed organs, and the drones went to work on attaching it to the circulatory system and delivering the appropriate electrical and chemical stimuli to get it beating.
+Fortunately, they had a replacement cloned from Doctor Wheeler’s own tissue sample. There would be no immune rejection response, no complications---it effectively was the same heart, except new and healthy. The replacement floated into place somewhere amidst the splayed organs, and the drones went to work on attaching it to the circulatory system and delivering the appropriate electrical and chemical stimuli to get it beating.
 
 Meanwhile the knee was stripped down like an onion being peeled, pulled open, washed out, resurfaced and a synthetic synovial membrane was attached and filled with fluid. The ovaries were deconstructed, the cysts drained, closed, and rapid-grown tissue was printed in to fill the voids they left before a hormone regulator in the form of a tiny patch the size of a pinhead was adhered to each one as it was put back together.
 
@@ -2462,9 +2463,9 @@ Jenkins smiled. “Relax, this won’t blow the deal outta the water,” he pred
 
 “I hope not.”
 
-“It won’t. Look, worst case scenario you just hafta *buy* the information you need.”
+“It won’t. Look, worst-case scenario you just hafta *buy* the information you need.”
 
-“We need more than the information,” Nofl explained. “We need the expertise. We need the goodwill. Access to the raw data alone will get us where we want to go of course… but ultimately, for obvious reasons, the galactic experts on the Human genome are Humans.”
+“We need more than the information,” Nofl explained. “We need the expertise. We need the goodwill. Access to the raw data alone will get us where we want to go, of course… but ultimately, for obvious reasons, the galactic experts on the Human genome are Humans.”
 
 “Funny how y’all spent years collecting human samples and then… what? Did the data on us just go up in smoke? I was an abductee, I *know* they took gene samples.”
 
@@ -2486,11 +2487,11 @@ Jenkins raised his eyebrows. “Defective, huh?”
 
 “...I’ve offended you.”
 
-“Yes,” he sighed, “But with you I can at least tell it ain’t malicious.”
+“Yes,” he sighed, “but with you I can at least tell it ain’t malicious.”
 
 “Thank you.” Nofl glanced at the stasis pod with Doctor Wheeler in it. “If it counts for anything, I promise you that Corti in general don’t stoop to malice. My people have our flaws---thoughtlessness, arrogance, and a lack of empathy that makes it hard to fathom how our society operates sometimes---but malice isn’t really in our nature.”
 
-There was a *bing* sound, and a little icon above his seat told Nofl to put his seatbelt back on if he wasn’t already wearing it. Seconds later, they first ghost of turbulence and fire sent a queasy jolt through his stomach as the inertial compensation system fought back against upper-atmosphere turbulence.
+There was a *bing* sound, and a little icon above his seat told Nofl to put his seatbelt back on if he wasn’t already wearing it. Seconds later, the first ghost of turbulence and fire sent a queasy jolt through his stomach as the inertial compensation system fought back against upper-atmosphere turbulence.
 
 “So what was *my* defect?” Kevin asked.
 
@@ -2536,11 +2537,11 @@ Nofl acknowledged the point with a serene nod. “Oh, that I *wholly* understand
 
 “Oh, don’t be obtuse!” Nofl flapped his hand excitedly. “Work only gets you so far. At some point you need to be *better* and you *know* it, don’t you dare lie. Many of your academics are every bit the intellectual equals of a prissy silver-banner Corti Dean. I’d wager some of them are better! And yet despite all that, your species seems reluctant to acknowledge the basic truth of it all. Why *not* take full advantage? You can’t tell me *you* don’t use what you have to get what you want. Why pretend otherwise? Why would anyone on the SOR? Julian? Presidents? Geniuses?”
 
-“I never said they don’t, but people like that usually don’t flaunt it. Also,” he continued, “you keep coming back to Julian. Why exactly *was* he abducted?”
+“I never said they don’t, but people like that usually don’t flaunt it. Also,” Kevin continued, “you keep coming back to Julian. Why exactly *was* he abducted?”
 
 “His suitability for the planned experiment and his exceptional genetics. He was blessed with functionally optimal and effectively defect-free versions of many alleles, and with strong hybrid vigor in his ancestry, too. That, along with his physical and mental developmental history, made him as ideal a specimen as could be found. His social background was optimal as well.”
 
-“...Right,” Kevin pressed on with a grumble. “Anyway. That means *super-Julian* is a perfect example of what I mean, actually. His ancestors suffered *hard* ‘cuz of those kind of ‘master race’ ideas, right? So then it’s pretty fuckin’ ironic that he’s apparently a Goddamned *wunderkind* like all those murderin’ racist motherfuckers could never be.”
+“...Right.” Kevin pressed on with a grumble. “Anyway. That means *super-Julian* is a perfect example of what I mean, actually. His ancestors suffered *hard* ‘cuz of those kind of ‘master race’ ideas, right? So then it’s pretty fuckin’ ironic that he’s apparently a Goddamned *wunderkind* like all those murderin’ racist motherfuckers could never be.”
 
 Kevin was clearly agitated for some unfathomable reason but he abruptly paused, considered something, and changed tack. “Hell, y’know what? I bet that fucks with him, *hard.* All three of ‘em prob’ly. I assume Allison and Xiù are in the same boat?”
 
@@ -2587,7 +2588,7 @@ Good coffee, too.
 
 Still. In comparison to the *Rich Plains, San Diego* was a pike swimming alongside a whale, and it was telling that the Dominion flotilla had carefully rearranged itself, without being overtly threatening, to keep an eye on the human warship.
 
-Neither Brewer nor Knight were worried: *San Diego* was built around shield generators, to the point where actual weaponry was almost an afterthought. If she needed to destroy anything she had her wormhole link to the Strategic Deep Space Weapons Reserve at Minot, but the shield generators themselves could wreak terrible havoc if needed They were powerful enough to physically crush a hostile ship, and could function as a variable-frequency laser in a pinch.
+Neither Brewer nor Knight were worried: *San Diego* was built around shield generators, to the point where actual weaponry was almost an afterthought. If she needed to destroy anything she had her wormhole link to the Strategic Deep Space Weapons Reserve at Minot, but the shield generators themselves could wreak terrible havoc if needed. They were powerful enough to physically crush a hostile ship, and could function as a variable-frequency laser in a pinch.
 
 They were certainly powerful enough to keep the ship intact long enough to jump out if the Dominion ships opened fire. Unlikely as that scenario might be, it was a comforting thought.
 
@@ -2639,7 +2640,7 @@ Knight turned to his security detail, who were looking significantly neater and 
 
 “Master Sergeant Firth! You shaved for me!”
 
-“Only the best for you, sir. “ The behemoth operator had one of his rare wry grins today. “Though it’s Senior Master Sergeant now. I’ve got shiny new stripes and everythang.”
+“Only the best for you, sir." The behemoth operator had one of his rare wry grins today. “Though it’s Senior Master Sergeant now. I’ve got shiny new stripes and everythang.”
 
 “Well, I regret having missed your promotion, *senior* master sergeant. I presume the festivities were memorable?”
 
@@ -2651,7 +2652,7 @@ Murray sniffed a quiet laugh. “Aye, I scrub up. Gotty look the part, don’t w
 
 “You succeeded admirably. After you, gentlemen.”
 
-They nodded, and all their jovial anticipation vanished in instant. The two of them assumed their positions alongside and slightly behind Knight, and from there…
+They nodded, and all their jovial anticipation vanished in an instant. The two of them assumed their positions alongside and slightly behind Knight, and from there…
 
 Weighty, robotic, stone-faced precision. Like all the best-drilled ceremony, it managed the trick of conveying genuine menace without so much as a flicker of aggression. They weren’t there to threaten and intimidate. They were there...to show they could, if it was needed.
 
@@ -2663,7 +2664,7 @@ The sudden silence as the trio of humans entered the council chamber spoke *volu
 
 With their charge safely delivered to his place in the chamber, Murray and Firth did fine statue impressions and became part of the scenery at the edge of the hall, alongside their counterparts from the other Dominion species.
 
-Knight would admit to some small private pleasure as many of the other honor guards…subtly gave then room.
+Knight would admit to some small private pleasure as many of the other honor guards subtly gave them room.
 
 His spot on the floor was among a cluster of four at one end of the chamber alongside, in descending order of seniority, the Corti, the Rauwrhyr and the Gao. It was a potent faction: the Corti brought the gravitas of the Dominion’s most advanced and wealthy member, while the Gao and humanity were arguably the two mightiest militaries in the room.
 
@@ -2687,7 +2688,7 @@ There was an awkward silence, which he allowed to stretch out to the point of ac
 
 “Ambassador,” the Domain’s delegate stepped forward. “Your predecessor’s murder was an act of sabotage by agents opposed to the process of galactic peace---this Hierarchy that your government and the Clans of Gao have inescapably uncovered. I’m sure my fellows will join me in deploring what happened to Ambassador Hussein, but surely you cannot blame us for the actions of an infiltrator?”
 
-“Maybe we cannot,” Knight conceded, “But what about the Fall of Gao? Were Hierarchy saboteurs responsible for the way this council stood back and *watched?* Is their infiltration of this chamber that total?”
+“Maybe we cannot,” Knight conceded, “but what about the Fall of Gao? Were Hierarchy saboteurs responsible for the way this council stood back and *watched?* Is their infiltration of this chamber that total?”
 
 He gestured at Sheeyo. “We are here because our friends request it, for their own reasons. Do not mistake our presence for endorsement. Now, I have a few matters of procedure to cover before—yes?”
 
@@ -2705,7 +2706,7 @@ They couldn’t even kick him off the council, given that the Dominion charter s
 
 Of course, in practice the Dominion’s policy with Hunters was, sensibly, to shoot first when possible.
 
-“As I said, I have a few matters of procedure to address,” he continued, “the first and most important of which is the naming of my advisory staff. It’s my understanding that the rules and procedures of this house permit me to name name one cross-species advisor?” He looked to the speaker, who gave him a slow gesture of acceptance.
+“As I said, I have a few matters of procedure to address,” he continued, “the first and most important of which is the naming of my advisory staff. It’s my understanding that the rules and procedures of this house permit me to name one cross-species advisor?” He looked to the speaker, who gave him a slow gesture of acceptance.
 
 “Go ahead, Ambassador Knight.”
 
