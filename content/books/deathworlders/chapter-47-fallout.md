@@ -704,7 +704,7 @@ He could appreciate a lady who knew what she wanted.
 
 Ava laughed and crouched down next to him. “So what was the delay? I thought you’d be free as soon as the Ten’Gewek were on Earth.”
 
-Derek shrugged apologetically. “I had to secure permissions and reassure a buncha government types and… Shit, I think if I’d tried to do it all by email I’d still be stuck in my office. I spent the whole time visiting folks in their offices.”
+Derek shrugged apologetically. “I had to secure permissions and reassure a buncha government types and… Shit, I think if I’d tried to do it all by email I’d still be stuck in my office. So I spent the whole time visiting folks in *their* offices instead.”
 
 She scratched the dog. “Taking two aliens on a tour around the national parks and stuff is hard work, huh?”
 
@@ -748,7 +748,7 @@ Considering they were both still crouched down next to Hannah, the result was th
 
 Derek rubbed the back of his head and picked a little fleck of gravel out of his hair. “That ain’t how I imagined it going.”
 
-“ Was it okay? I mean, you hit your head, that’s… and you only asked me out and I… did I read too much into—?”
+“Is it okay? I mean, you hit your head, that’s… and you only asked me out and I… did I read too much into—?”
 
 “Ava.”
 
@@ -758,11 +758,11 @@ It was his turn to kiss her. She melted into him with a happy sigh and consideri
 
 After a while she straightened up and looked around. “I, uh… Hmm. Good thing it’s early in the morning.”
 
-They helped each other to their feet, where she recovered her composure by adjusting her hair, and he recovered his by adjusting his clothes. She was right, one benefit of their just-after-sunrise routine was that the park was basically empty and as far as he could tell their public display of affection had gone unnoticed.
+They helped each other to their feet, where she recovered her composure by adjusting her hair, and he recovered his by adjusting his clothes. She was right, one benefit of their just-after-sunrise routine was that the park was basically empty and as far as he could tell their public display of affection had gone un-witnessed.
 
 “Whew. Uh… Hmm.” She turned to look at him and finally seemed to have got her balance back. “...Yeah. You can take me to dinner tomorrow.”
 
-Derek snorted and laughed. “Real casual. I’m convinced.”
+Derek snorted and laughed. “Real convincing. Very casual.”
 
 She rolled her eyes, but she was smiling. “...Really though? I… I mean, my relationship with the SOR has never been great...”
 
@@ -1019,7 +1019,9 @@ Xiù nodded. “Let’s face it. If the Males didn’t want the Females to have 
 
 “...And cases like Myun aside, they’re bigger and stronger than you, too,” Allison pointed out.
 
-Yulna broke an egg into the flour bowl. “You’re saying that Females only have *any* power because males allow it?”
+Yulna broke an egg into the flour bowl, and Allison saw Xiù subtly wince and bite her tongue. Yulna had an... *unorthodox* approach to baking, but right now it was her kitchen and her relaxation activity, so she got to do it however she liked.
+
+“You’re saying that Females only have *any* power because males allow it?” she asked, seemingly oblivious to Xiù's fidgeting.
 
 “...No. But there’s something important at play. Hell, look at us.” Allison gestured to Xiù and herself. “Julian’s never been small, but now he’s a *lot* heavier than the pair of us combined. The only reason Xiù ever wins when they spar these days is because she’s tricky, and because he’s just *playing.* What if he decided to stop playing one day? He’s managed to scare me plenty of times.”
 
