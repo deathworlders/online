@@ -3425,7 +3425,9 @@ Ava was back on-screen, standing on the concrete at Camp Farthrow wearing a corr
 
 > “There has been no official estimate of the death toll, and an accurate count may actually be impossible in the long run, but even the most conservative estimates suggest that about a billion Gaoians were implanted in some manner…all biodroned in the space of seconds. Sources within AEC suggest that the slaughter in the immediate hours of the conflict may have numbered at least another billion, and we may never know how many Gaoian civilians still survived inside the quarantined cities before the orbital strikes.
 
-> Clean-up operations continue in the countryside and around the planet but this morning, just for a few hours, the conflict stands still…and the unprecedented living cost of this war can finally start to sink in. …Ava Ríos for ESNN, Lavmuy, Gao.”* The feed returned to the studio and a trio of blathering idiots in suits started making inane noises about what they’d just heard. Hoeff wasn’t listening. Nobody was. It was just…_Billions._ That number was too…
+> Clean-up operations continue in the countryside and around the planet but this morning, just for a few hours, the conflict stands still…and the unprecedented living cost of this war can finally start to sink in. …Ava Ríos for ESNN, Lavmuy, Gao.”
+
+The feed returned to the studio and a trio of blathering idiots in suits started making inane noises about what they’d just heard. Hoeff wasn’t listening. Nobody was. It was just…_Billions._ That number was too…
 
 [“How…how big is this] billion?” Yan said it quietly but everyone heard him. He put Hoeff down then sat back on his haunches, and the crowd of Given-Men backed up to give them room.
 
