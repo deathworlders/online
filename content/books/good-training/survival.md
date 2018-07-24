@@ -3,7 +3,8 @@ title: "Survival"
 date: 2017-12-31
 lastmod: 2018-07-13
 weight: 4
-alias: /book/good-training/survival
+aliases:
+  - /book/good-training/survival
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
