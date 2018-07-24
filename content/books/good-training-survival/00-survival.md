@@ -51,13 +51,13 @@ Julian wasn’t ruffled at all.
 
 Vemik always exaggerated every syllable the first time he tried wrapping his long, reptilian tongue around the alien sounds of a new word.
 
-Julian had an apt analogy ready to go. “Like when you mix \[sap-stinger-honey with dirt.\] Sorta. It’s…when you mix things you didn’t want to mix.”
+Julian had an apt analogy ready to go. “Like when you mix [sap-stinger-honey with dirt.] Sorta. It’s…when you mix things you didn’t want to mix.”
 
 “Con**tam**inated.” Vemik said it quickly, then worked his jaw. “Easy word!”
 
 Daniel got a close-up and prolonged look at the young Sky-Thinker’s growing fangs as he said the word several times, ‘tasting’ it to learn the pattern better. It was a wonder the Ten’Gewek managed to speak English at all, really; between their large, clearly predatory teeth and that tongue of theirs—which when contracted practically filled the rest of their mouth—it really wasn’t surprising their own language consisted mostly of open vowels and simple consonants.
 
-“You say it well, \[Sky-Thinker\]. And we’ve already talked at length why we wanted to avoid that.” Daniel enjoyed his talks with young Sky-Thinker, though he’d found certain points needed to be regularly reinforced.
+“You say it well, [Sky-Thinker]. And we’ve already talked at length why we wanted to avoid that.” Daniel enjoyed his talks with young Sky-Thinker, though he’d found certain points needed to be regularly reinforced.
 
 “I know. Hungry?” He offered Julian and Daniel each a roasted shank, which both men took gratefully. Daniel tore into his; he couldn’t remember ever being quite as _hungry_ as he had been since he arrived on Akyawentuo, and yet somehow the years of accumulated dad-bod flab were just _melting_ off him.
 
@@ -165,13 +165,13 @@ Daniel had his victory and grinned. “Exactly.”
 
 Vemik chose that moment to thunder back at a high gallop, his precious blueberries cradled safely under one arm.
 
-Julian turned his head to look and chuckled softly. \[“All of them, Vemik? That seems a little greedy don’t you think?”\] Julian rolled his neck with a mighty _pop_ and a happy sigh.
+Julian turned his head to look and chuckled softly. [“All of them, Vemik? That seems a little greedy don’t you think?”] Julian rolled his neck with a mighty _pop_ and a happy sigh.
 
-\[“But they’re tasty!”\] Vemik said, defensively. He looked contrite in the way that only a young man could when confronted with an obvious faux pas.
+[“But they’re tasty!”] Vemik said, defensively. He looked contrite in the way that only a young man could when confronted with an obvious faux pas.
 
-Julian folded his arms and grinned sideways. \[“Yeah, but I also don’t have any more. They don’t grow all year ‘round, Sky-Thinker.”\]
+Julian folded his arms and grinned sideways. [“Yeah, but I also don’t have any more. They don’t grow all year ‘round, Sky-Thinker.”]
 
-\[“…Okay.”\]
+[“…Okay.”]
 
 They did, of course. Modern hydroponics and global distribution was a hell of a thing.
 
@@ -181,7 +181,7 @@ Back on-topic. “So Julian, about that essay…”
 
 There was more than a hint of slightly malicious glee in his voice, and Vemik caught the meaning as well.
 
-\[“We will make you _strong,_\] professor!”
+[“We will make you _strong,_] professor!”
 
 The young Ten’Gewek thumped his brawny, ever-expanding chest and nodded seriously. Like most of the men living nearby—from Yan on down to their smallest apprentice—Vemik had taken a keen interest in Julian’s twice-a-day workouts with the rest of the human contingent and wanted to know _everything_ about what they were doing. The Ten’Gewek all participated eagerly if not necessarily seriously, and Walsh in particular was happy to oblige them.
 
@@ -292,23 +292,23 @@ It took another minute of literal bone-crunching force to completely finish the 
 
 Sometimes, it was good to have an unambiguous reminder of how savage the People truly were. Julian thumped down from his tree and asked, “Why not use your spear?” He stalked over to his werne—it was a juvenile male he took with an arrow through the base of its skull—and began cutting its head off.
 
-Yan grunted and lightly tossed his bull’s massive head toward Julian, who was knocked off his feet by the sheer weight of it. \[“Spear hunting is dangerous. You need to close with it when it charges and then shift to the side, but the werne might swipe you with its head. If he does he can tear your guts out. They can’t throw their head up, though. If you jump on their back, there’s almost nothing they can do.”\]
+Yan grunted and lightly tossed his bull’s massive head toward Julian, who was knocked off his feet by the sheer weight of it. [“Spear hunting is dangerous. You need to close with it when it charges and then shift to the side, but the werne might swipe you with its head. If he does he can tear your guts out. They can’t throw their head up, though. If you jump on their back, there’s almost nothing they can do.”]
 
-That made sense. But still, \[“And you didn’t use your knife, because…?”\] Julian marked himself in its blood and set the bull’s head down, then clambored back to his feet.
+That made sense. But still, [“And you didn’t use your knife, because…?”] Julian marked himself in its blood and set the bull’s head down, then clambored back to his feet.
 
-The Given-Man grunt-snarled in an annoyed manner then looked at Julian, thought for a moment, and reconsidered. \[“Didn’t need it. It’s best to give prey a worthy death if you can. It should have a chance to fight for its life. That’s the blessing of being a Given-Man. We can fight any prey on their own terms, and we can fight other hunters for the right to prey. I have even Taken a Brown One and lived.”\] Yan immediately made a gesture of respect, a thing the People did for _no_ other creature.
+The Given-Man grunt-snarled in an annoyed manner then looked at Julian, thought for a moment, and reconsidered. [“Didn’t need it. It’s best to give prey a worthy death if you can. It should have a chance to fight for its life. That’s the blessing of being a Given-Man. We can fight any prey on their own terms, and we can fight other hunters for the right to prey. I have even Taken a Brown One and lived.”] Yan immediately made a gesture of respect, a thing the People did for _no_ other creature.
 
 Julian nodded, though he didn’t entirely agree with the method. “Not that I could ever do that,” he said absentmindedly, to no-one in particular.
 
-Yan tilted his head in genuine curiousity. \[“Why not?”\]
+Yan tilted his head in genuine curiousity. [“Why not?”]
 
-\[“I’m not that strong.”\] Julian shook himself and snapped back to the present. \[“And I don’t think I ever will be. But on Earth we have several kinds of animal on my world that hunt that way.”\]
+[“I’m not that strong.”] Julian shook himself and snapped back to the present. [“And I don’t think I ever will be. But on Earth we have several kinds of animal on my world that hunt that way.”]
 
-Yan grunted. \[“They don’t use knives either?”\] Julian gave him a Look.
+Yan grunted. [“They don’t use knives either?”] Julian gave him a Look.
 
-\[“No. They…\] constrict. \[That means they squeeze their prey by wrapping ‘round it, and they just squeeze…and squeeze…and keep at it until the animal can’t breathe anymore. Then they swallow it whole and sit still for moons at a time.”\]
+[“No. They…] constrict. [That means they squeeze their prey by wrapping ‘round it, and they just squeeze…and squeeze…and keep at it until the animal can’t breathe anymore. Then they swallow it whole and sit still for moons at a time.”]
 
-\[“Hum.”\] Yan huffed. \[“We have stories of creatures like that, I think. Singer could tell you more. They do not live here, they are far away.”\]
+[“Hum.”] Yan huffed. [“We have stories of creatures like that, I think. Singer could tell you more. They do not live here, they are far away.”]
 
 Julian nodded and set to work on the heads. He cracked open the skull with his hatchet and stuffed the brains into a leather sack, then hung the skulls to drain. The brains would be used to tan leather but the rest would stink up the village, especially since the werne had recently calved. They would come back for the skulls later when the insects had picked them clean.
 
@@ -316,9 +316,9 @@ When he was done and ready to go, Julian got down on his haunches and hefted his
 
 “Those critters you mentioned,” Julian said, “You think maybe they lived near some of the places we showed you? Where there were different People?”
 
-“Maybe. \[We didn’t trade with them. Den’s tribe was closest, and he said their men were _weak_ and broke too easy in a fight, and their women were very pretty. But they weren’t any fun, couldn’t Take it hard enough!”\] Yan’s fang-filled snarl-grin was almost too cheesy for words.
+“Maybe. [We didn’t trade with them. Den’s tribe was closest, and he said their men were _weak_ and broke too easy in a fight, and their women were very pretty. But they weren’t any fun, couldn’t Take it hard enough!”] Yan’s fang-filled snarl-grin was almost too cheesy for words.
 
-Julian grinned back. \[“Maybe his cock wasn’t good enough for them. Who knows?”\]
+Julian grinned back. [“Maybe his cock wasn’t good enough for them. Who knows?”]
 
 Yan trilled in response, then worked his way under the werne and hoisted it onto his shoulders with about as much apparent effort as it might take Julian to pick up a sack of concrete. The bull absolutely dwarfed Yan in terms of bulk and it comically made Julian think of Mighty Mouse, carrying a house or something likewise silly overhead. By then…he wasn’t surprised.
 
@@ -326,13 +326,13 @@ The Ten’Gewek were…dense. Weighty and powerful, much more so than even their
 
 They walked back to the village mostly in silence, with only the occasional joke or story between them, since Julian was exerting himself enough that he could only handle brief conversations. Yan seemed to understand, yet he seemed completely untested by the task at hand and had a happy spring in his step. Upright movement was definitely slower no matter how easy it was for him, though, which let Julian amble along and save energy while Yan shuffled at a brisk pace, occasionally bouncing forward in that wide-legged, swaggering almost-waddle the brawnier men of the People often did while walking.
 
-\[“Next time, I show you with spear. You won’t be allowed to use your _rifle_ on the hunt.”\]
+[“Next time, I show you with spear. You won’t be allowed to use your _rifle_ on the hunt.”]
 
 It took Julian a second to recall what Yan was talking about, then it snapped clear in his mind. Julian nodded and they walked for about an hour until they’d encountered the first sentry posted along the village’s territory. Yan sauntered back into camp with the massive bull still slung over his shoulders, not at all tired it seemed; he hardly seemed to remember he had a crushed bull on his back and only set it down once the man tending the village fire reminded him.
 
 Julian on the other hand was aching to drop his burden and did so immediately. Yan didn’t notice, he was bouncing about and happy to be home, and eager to socialize with the rest of the tribe. He was gregarious that way and wanted to check in with every couple, play with every kid, and check, re-check, play some more, and re-re-recheck the progress on the werne he brought back.
 
-One of his regular squeezes eventually caught his hints and brought him some warm stew. The look of simple happiness on his face from such a small gesture was almost cloyingly sweet. \[“Thank you!”\] His tail reached up and tickled her face, which earned him the trilling equivalent of a flirtatious giggle and a urgent, whispered promise…. She bounced away with a _decidedly_ meaningful sway of her hips and tail with Yan watching her all the while, a blissfully happy expression on his face.
+One of his regular squeezes eventually caught his hints and brought him some warm stew. The look of simple happiness on his face from such a small gesture was almost cloyingly sweet. [“Thank you!”] His tail reached up and tickled her face, which earned him the trilling equivalent of a flirtatious giggle and a urgent, whispered promise…. She bounced away with a _decidedly_ meaningful sway of her hips and tail with Yan watching her all the while, a blissfully happy expression on his face.
 
 He was just as bad as the HEAT fellas.
 
@@ -370,15 +370,15 @@ Which was where Yan had him trapped.
 
 “I know,” Julian said. “I’m worried about the drug. It may not be safe for humans.”
 
-“Not safe for \[People\], take anyway. Only _strong_ man live…” Yan ducked his head and did the Ten’Gewek equivalent of a sheepish grin by way of a sideways snarl, “Maybe we be careful, only let strong boys try.”
+“Not safe for [People], take anyway. Only _strong_ man live…” Yan ducked his head and did the Ten’Gewek equivalent of a sheepish grin by way of a sideways snarl, “Maybe we be careful, only let strong boys try.”
 
 Well, that was at least some kind of relief, that Yan thought Julian was _strong enough_ now. But still: as much as he trusted and was fond of the ‘most biggest’ sapient gorilla-thing there was…he wasn’t exactly a medical expert on human toxicology.
 
 Which was a good point to make, actually. “I know Yan. And…thank you. It’s been…a lot of work, to get strong enough to do this. But—”
 
-“Is good!” Yan interrupted in his cheery, gruff way, then switched to People-speak. \[“But your tribe isn’t weak, Jooyun. You’re just…different-strong. Very different and _very_ strong. But it’s good you are doing this. Thank you. It makes things easier.”\]
+“Is good!” Yan interrupted in his cheery, gruff way, then switched to People-speak. [“But your tribe isn’t weak, Jooyun. You’re just…different-strong. Very different and _very_ strong. But it’s good you are doing this. Thank you. It makes things easier.”]
 
-That it did. But still. \[“Thank you for trusting me with this. But\] Poison, Yan. Mind-altering drugs are dangerous, and they can affect different kinds of life—of People—very differently.”
+That it did. But still. [“Thank you for trusting me with this. But] Poison, Yan. Mind-altering drugs are dangerous, and they can affect different kinds of life—of People—very differently.”
 
 “Explain.” Yan said it very carefully; that particular word always gave him trouble.
 
@@ -386,7 +386,7 @@ Julian had been preparing for that question. He’d done his research and come u
 
 “There is a sickness. We call it Cancer, and it’s _nasty._ The only way to kill it is to take poison. The poison is medicine when we use it the right way, because it kills the person slightly slower than it kills the sickness…but it has to be used carefully, given by people who _really_ know the Giving-magic involved in a _deep_ way. And if _you_ were sick with cancer, they would say they don’t know enough about your body to give you the poison medicine safely. Your body is strong, but like you said it’s strong in different ways. What would be safe for me might kill you, or maybe do nothing at all.”
 
-Yan’s heavy brow furrowed. Their faces generally weren’t quite as mobile as a human’s so they only showed feeling when that feeling was _strong._ \[“So, you think maybe our magic powder will hurt you _very_ bad? I mean, more than it’s meant to?”\]
+Yan’s heavy brow furrowed. Their faces generally weren’t quite as mobile as a human’s so they only showed feeling when that feeling was _strong._ [“So, you think maybe our magic powder will hurt you _very_ bad? I mean, more than it’s meant to?”]
 
 “…It might. Or it might not help me See at all. Or it might do exactly what it’s supposed to, or it might do something totally different. It’s…a branch we haven’t tested yet.”
 
@@ -404,19 +404,19 @@ He responded with a hunter’s grin and messily devoured the rest of his prey, b
 
 “Right. Well.” Julian pressed onward. “You were going to say something?”
 
-“…Yes.” Yan wiped his mouth clean with the back of his hand. “Smart to think first. Don’t just charge bull Werne without plan,” he said eventually, then switched back to People-Speak. \[“But. The Vision is the most important part of this, Jooyun Sky-Hunter. Without the vision, you cannot learn what the gods want to teach you.”\]
+“…Yes.” Yan wiped his mouth clean with the back of his hand. “Smart to think first. Don’t just charge bull Werne without plan,” he said eventually, then switched back to People-Speak. [“But. The Vision is the most important part of this, Jooyun Sky-Hunter. Without the vision, you cannot learn what the gods want to teach you.”]
 
 Julian nodded but remained deeply conflicted. He knew, academically, that he wouldn’t get out of this now that he’d shown enthusiasm for the prospect. But…he _really_ took some things from the Church seriously, even if he wasn’t a very good believer. “My body is my temple” had struck a chord with him a long time ago. He’d watched too many of his friends on the rez and elsewhere die inside because of drugs or alcohol or whatever, so…
 
-\[“Some of the Singers of my tribe—or, the people in my tribe who do what Singers do—talk about purity a lot,”\] he said. \[“Being clean, in body, mind and soul. They taught me that drugs—magic powders and smoking leaf, things like that—are unclean.”\]
+[“Some of the Singers of my tribe—or, the people in my tribe who do what Singers do—talk about purity a lot,”] he said. [“Being clean, in body, mind and soul. They taught me that drugs—magic powders and smoking leaf, things like that—are unclean.”]
 
-Yan just looked baffled. \[“How?”\] He asked. \[“They open your mind to the Gods!”\]
+Yan just looked baffled. [“How?”] He asked. [“They open your mind to the Gods!”]
 
 “Some of them can. I guess. I’ve never taken anything more than that alcohol you’ve tried.”
 
 “Pfeh.” Yan spat in the dirt. That had been his standard response to any mention of alcohol since his lone experience with it. Julian saw his opening and pounced.
 
-\[“Exactly. Alcohol wasn’t good for you. For me…Well.”\] Time for a troll-grin, and a risky one. \[“Allison and Xiù haven’t ever complained…”\]
+[“Exactly. Alcohol wasn’t good for you. For me…Well.”] Time for a troll-grin, and a risky one. [“Allison and Xiù haven’t ever complained…”]
 
 …And suddenly he had a ton of gorilla sitting on his hips. Smirking, at least. But still.
 
@@ -432,11 +432,11 @@ In response Yan grinned and settled a tiny bit more of his weight onto Julian. T
 
 Julian sighed and gamely attempted to escape, and their encounter rapidly deteriorated into a wrestling match. Or, rather, Julian got wrestled _by_ Yan. Calling it a match was maybe a bit of a lie because that would imply there was a possibility Yan might not be completely victorious. It was part of the game and in tribal settings it was important to play along; Yan was in charge and that couldn’t ever be denied. And besides, there wasn’t any malice behind it. Yan liked to roughhouse and so did Julian. Their “matches” also tended to mirror the state of their arguments, so in this case, Yan eventually allowed Julian to “pin” him while he made his point.
 
-“We’re not the same. Alcohol is very different for us. We just get a little dizzy, maybe loosen up a little. Most of us have to drink a _lot_ before it starts to hurt. But you…” Yan gave him an indulgent warning look, “I mean, the \[People\], are _much_ more sensitive.” Julian wasn’t sure if Yan had heard that word before, but he was a good enough speaker nowadays that he could pick up words from the context. “Vemik had three beers and was rip-roaring drunk. Three beers barely gets me _buzzed.”_
+“We’re not the same. Alcohol is very different for us. We just get a little dizzy, maybe loosen up a little. Most of us have to drink a _lot_ before it starts to hurt. But you…” Yan gave him an indulgent warning look, “I mean, the [People], are _much_ more sensitive.” Julian wasn’t sure if Yan had heard that word before, but he was a good enough speaker nowadays that he could pick up words from the context. “Vemik had three beers and was rip-roaring drunk. Three beers barely gets me _buzzed.”_
 
 Yan gave a thoughtful look while he chewed on those words, then rather effortlessly rolled over the top of Julian and pinned him by the simple expedient of laying on top of him chest to chest with a smug grin, arms pinned above his head with one hand and the other palming his skull and locking it in place. Carefully of course, because Yan was big enough to kill Julian with just his weight if he wanted to…but he wasn’t gentle, either. Julian had to struggle to breathe.
 
-\[“We aren’t so different, though. Very strange, yes…I think I am strange to you, too…”\]
+[“We aren’t so different, though. Very strange, yes…I think I am strange to you, too…”]
 
 _“Nngh._ Sure.” Yan lifted some of his weight off of Julian to let him speak easier. _“Ow._ Anyway…yeah, we can use language. We see and hear much the same. We even think about things the same way. But our tribes, way deep down where it really counts…are different. That matters. Yan…you don’t have a nose. And there’s an organ in your belly that I don’t have and I don’t know what it does. Your heart doesn’t work the same way as mine and it’s _way_ stronger, my liver can handle stuff that would shrivel yours like a dry fruit…we’re _very_ different.”
 
@@ -454,9 +454,9 @@ Which meant there was no way out. Julian was _going_ to take some kind of halluc
 
 _This must be what duty feels like._ An odd thought, really.
 
-So, not really knowing what else would be right, Julian nodded to himself and took the plunge. \[“I will make it happen, Yan Given-Man. I promise. I don’t know how yet, but…”\]
+So, not really knowing what else would be right, Julian nodded to himself and took the plunge. [“I will make it happen, Yan Given-Man. I promise. I don’t know how yet, but…”]
 
-That seemed to be all he wanted. Yan lumbered off of Julian and gently helped him to his feet. \[“We do it _right,_ Jooyun. I believe you.”\] The moment turned into a back-shattering hug, and then Yan moved on to more important matters. \[“Now. Before we do this, I want to see how you handle a spear. We’re going werne hunting.”\]
+That seemed to be all he wanted. Yan lumbered off of Julian and gently helped him to his feet. [“We do it _right,_ Jooyun. I believe you.”] The moment turned into a back-shattering hug, and then Yan moved on to more important matters. [“Now. Before we do this, I want to see how you handle a spear. We’re going werne hunting.”]
 
 “Wait, again? Right now?”
 
@@ -489,7 +489,7 @@ Along the way they’d taken about a hundred biodrones out of the picture and re
 
 Anyway. All of that was two days ago. What they had to do now before Great Father Daar had to leave was get the basics of unit discipline in place.
 
-“What is…\[drill?”\] One of the Clanless—_god_ they were skinny—asked through the translator. It seemed an honest enough question, and Michael thought it deserved an honest answer.
+“What is…[drill?”] One of the Clanless—_god_ they were skinny—asked through the translator. It seemed an honest enough question, and Michael thought it deserved an honest answer.
 
 “Moving and marching in formation. My drill sergeant said it came from ancient tactics back when we fought with, I dunno, muskets or spears or whatever. But it’s good for teachin’ teamwork.”
 
@@ -931,7 +931,7 @@ Planet Akyawentuo, The Ten’Gewek Protectorate, Near 3Kpc Arm
 
 “So, if we _salt_ the roots in boiling water with some herbs, and use a _very_ tight…what was the word?”
 
-\[“Jar,”\] Julian said encouragingly.
+[“Jar,”] Julian said encouragingly.
 
 “—And then we boil the whole _jar_ with the _lid_ on loose, so the bad spirits can get out but not back in…”
 
@@ -943,7 +943,7 @@ Singer stood in front of Julian and Xiù, who had some of his marvelous little w
 
 “How long will this ‘jarred’ food last?”
 
-\[“…Canned.”\] Julian chipped in again, with a slightly embarrassed look.
+[“…Canned.”] Julian chipped in again, with a slightly embarrassed look.
 
 “But those are _jars.”_
 
@@ -953,7 +953,7 @@ Sometimes, English words had a strange story behind them. It was always a bit am
 
 “Can we use our pots?”
 
-Xiù looked to Julian, who considered the problem. “You _can_ but it’s important the pots be made very well. You’ll need to seal them with, uh, hardened ketta sap or stinger-wax maybe? Or you need melted fat to pour on top of the food as it cools. And the pots will need to be \[glazed\] too. That’s not very hard to do. You just need a ‘kiln’ which is a kind of furnace. Which…if you have that, you can also make glass, really.”
+Xiù looked to Julian, who considered the problem. “You _can_ but it’s important the pots be made very well. You’ll need to seal them with, uh, hardened ketta sap or stinger-wax maybe? Or you need melted fat to pour on top of the food as it cools. And the pots will need to be [glazed] too. That’s not very hard to do. You just need a ‘kiln’ which is a kind of furnace. Which…if you have that, you can also make glass, really.”
 
 ‘Glass’ was one of those English words that they’d adopted as their own. The tricky sound at the beginning wasn’t as hard to make as it could be in other words, and it was nice and short, with a strong sound at the end. Very male.
 
@@ -981,7 +981,7 @@ The eldest Singer looked at the jars and the big metal ‘pot’ Julian had over
 
 “How long will it be _good?”_
 
-Julian nodded at Xiù. “We have to make some to test, but…if the jar is completely \[airtight\] and you store it where it’s dry and dark…very many seasons, maybe.”
+Julian nodded at Xiù. “We have to make some to test, but…if the jar is completely [airtight] and you store it where it’s dry and dark…very many seasons, maybe.”
 
 The other Singers nodded. Food that could be saved forever! That was _strong_ giving-magic and they would be fools to turn that down.
 
@@ -993,7 +993,7 @@ Eldest Singer’s gaze turned on her sharply, and Singer felt her tail wanting t
 
 _That_ would certainly get the women excited. The best way to a man’s heart was through his mouth, after all, and there wasn’t much of anything a man liked more than sweet sticky food. Particularly if it was being fed to him…
 
-“We need to figure out the exact _‘recipes’_ too. Food you want to can has to be made a little differently. And I don’t think we should _encourage_ \[sugar\] habits, Julian.” Xiù gave him the sharp, affectionate look any woman did when their man was slightly out of line, then turned back to the Singers. “Too much \[sugar\] can make you fat.”
+“We need to figure out the exact _‘recipes’_ too. Food you want to can has to be made a little differently. And I don’t think we should _encourage_ [sugar] habits, Julian.” Xiù gave him the sharp, affectionate look any woman did when their man was slightly out of line, then turned back to the Singers. “Too much [sugar] can make you fat.”
 
 “Like Professor Hurt?”
 
@@ -1005,9 +1005,9 @@ Xiù nodded in a different way—mouth flattened out, and her eyebrows raised. S
 
 Julian chuckled quietly and shook his head. “Right. Anyway. Let’s start with the stew—” Eldest had a smug grin, now, “—and see if it cans well. If it does, maybe I teach the men how to make glass? I’ll need to learn myself…”
 
-\[“Glazed pottery might be easier.”\]
+[“Glazed pottery might be easier.”]
 
-\[“Still need a kiln, though.”\]
+[“Still need a kiln, though.”]
 
 “True.” They looked back at the Singers. “Why don’t we try with what we have here first? If you like it, we can get started on making little ‘crocks.’ We’d need to build things…”
 
@@ -1077,7 +1077,7 @@ He’d picked up the basics pretty quickly too, though he did the thing Daniel�
 
 “Hum. _‘Boat.’_ Means…what does it mean?” That was Vemik, who along with his newest apprentice was hanging off Yan’s back. He had lately been a lot more conscientious of his sentence structure and often corrected himself mid-stream. And now that his face was quite firmly adult-shaped, his pronunciations were getting better almost daily, too.
 
-“It’s something that we can use to cross ponds, lakes, seas, oceans…it sits on top of water like \[floater-leaves\] do in the pond nearby.”
+“It’s something that we can use to cross ponds, lakes, seas, oceans…it sits on top of water like [floater-leaves] do in the pond nearby.”
 
 Daniel could feel Yan shudder behind him and huff disgustedly above. “That feels dumb.” There was a round of trills and a smirk from Hoeff, who was sitting in a tree above and watching with his usual happy smug-mug.
 
@@ -2595,7 +2595,7 @@ Yan mopped some of the sweat from his crest and loosened up his crushing grip on
 
 Fall was almost upon them and the signs were everywhere. The werne were growing restless and some had already begun migrating south for better feeding grounds. The days were shorter and the warmth from the sun had started to fade…it was time to finish preparing for winter. The year’s final Rites of Manhood were well underway and all the Given-Men had grown boys in their tribes to guide through the Hunt, the Singers were helping their girls cross over into Womanhood…
 
-But the Hunt was the most important thing. It was when the tribes drew the line between the good times of spring and summer, and the upcoming harshness of fall and winter. This winter would probably be easier since they had much food ‘canned,’ which all of the tribes had worked hard to make. Or, was it ‘jarred?’ Maybe ‘potted?’ That felt better since they mostly used their little clay pots—now ‘glazed’ which was a nicely buzzy word…\[buzzword\] maybe? Was that right? It sounded right. He’d have to ask Jooyun because ‘English’ words could twist in strange ways. ‘Potting’ food wasn’t _potting_ because that meant a _different_ way to save meat, which wasn’t ‘canning’ like Jooyun insisted they were doing, even though they were using pots…
+But the Hunt was the most important thing. It was when the tribes drew the line between the good times of spring and summer, and the upcoming harshness of fall and winter. This winter would probably be easier since they had much food ‘canned,’ which all of the tribes had worked hard to make. Or, was it ‘jarred?’ Maybe ‘potted?’ That felt better since they mostly used their little clay pots—now ‘glazed’ which was a nicely buzzy word…[buzzword] maybe? Was that right? It sounded right. He’d have to ask Jooyun because ‘English’ words could twist in strange ways. ‘Potting’ food wasn’t _potting_ because that meant a _different_ way to save meat, which wasn’t ‘canning’ like Jooyun insisted they were doing, even though they were using pots…
 
 Strange Sky-Tribe magic. Useful, but strange. Nobody was quite ready to trust themselves to this ‘canned’ food because of that. Not yet. Let it prove itself over a few winters, like every man needed to prove themselves.
 
@@ -2801,11 +2801,11 @@ Michael had nightmares about them, some nights. He suspected he’d need a hell 
 
 Tonight was a big raid and a very dangerous one. A “Clan Ironsides” had emplaced itself in a deep-shaft mine and had enough supplies to last for years. They had females with them too, and negotiations had failed once a flybot had descended the mine and captured evidence of exactly how their self-declared Grandfather treated their women. That made Michael’s blood _boil._ He had no problem whatsoever bringing death to scum like that. Neither did anyone he worked with, and they weren’t shy to say it, either.
 
-\[“Don’t be nice to them,\] Michael.” Pinky was too blind and, honestly, too dumb to be trusted in combat, but he could cook, he could work, and he was surprisingly strong for his size, so he ended up following along as a ‘camp rat’ in the rear. He was good at it too, and liked to help his friends get ready for a fight.
+[“Don’t be nice to them,] Michael.” Pinky was too blind and, honestly, too dumb to be trusted in combat, but he could cook, he could work, and he was surprisingly strong for his size, so he ended up following along as a ‘camp rat’ in the rear. He was good at it too, and liked to help his friends get ready for a fight.
 
 “We won’t, Pinks. These guys fuckin’ deserve it.” By now they were all fluently bilingual. Everyone preferred to speak their mother tongue, though. It was easier.
 
-\[“Good.”\] A little heft, a bit of a twist, and Michael had all his gear seated and ready.
+[“Good.”] A little heft, a bit of a twist, and Michael had all his gear seated and ready.
 
 That just left the actual mission. The mine wasn’t of much strategic importance. It wasn’t yet depleted but they had much richer sources of heavy metals on Gao and in their star system. Were it not for the Females, Great Father Daar would likely have left them at peace.
 
@@ -3142,7 +3142,7 @@ That was a huge relief. Julian exhaled happily, and smiled gratefully at everyon
 
 “Babe, you _always_ want pancakes the morning after. Besides, don’t you think we should do waffles instead? I need something a little more filling.”
 
-Xiù interjected with a private joke in the Ten’Gewek language \[“He filled you pretty well last night, as I remember.”\] Allison’s jaw play-dropped, and Xiù smirked back at her. Although there was no way Marc and Hayley understood the words, they got the content and grinned regardless.
+Xiù interjected with a private joke in the Ten’Gewek language [“He filled you pretty well last night, as I remember.”] Allison’s jaw play-dropped, and Xiù smirked back at her. Although there was no way Marc and Hayley understood the words, they got the content and grinned regardless.
 
 Julian grinned smugly to himself and decided to break camp. He climbed out of the tent and began stowing their little field kitchen. “There’s that diner in downtown Folctha that does those big belgian waffles. We could go there!” He realized suddenly that he _really_ wanted something sugary and terrible, consequences to his macros be damned.
 
@@ -3405,33 +3405,33 @@ Worse, they seemed to prefer there be not a millimeter of space between them and
 
 It wasn’t pretty.
 
-\> “Dawn over Lavmuy, the start of another day in a conflict that dwarfs any in human history. But at last, the end may be in sight…at an incredible cost.
+> “Dawn over Lavmuy, the start of another day in a conflict that dwarfs any in human history. But at last, the end may be in sight…at an incredible cost.
 
-\> This morning, Allied Extrasolar Command declared that major combat operations in the Gaoian Emergency had been completed. An hour later, the Rods From God fell. In an act of stunning aggression, the pragmatic calculus behind Great Father Daar’s strategy became apparent: It took just half an hour to reduce most of Gao’s major cities to rubble, burying the enemy forces under a relentless steel rain.”
+> This morning, Allied Extrasolar Command declared that major combat operations in the Gaoian Emergency had been completed. An hour later, the Rods From God fell. In an act of stunning aggression, the pragmatic calculus behind Great Father Daar’s strategy became apparent: It took just half an hour to reduce most of Gao’s major cities to rubble, burying the enemy forces under a relentless steel rain.”
 
 There was an awed, solemn note in Ava’s voice. She was a San Diego native, Hoeff recalled. One of the few hundred people who’d survived that city. Now she was reporting over a highlight reel of literally dozens of mushroom clouds blossoming on the horizon.
 
-\> “As the Rods fell, the Office of the Great Father released a statement explaining that this overwhelming strike was ‘necessary to forestall the permanent collapse of Gaoian society and to prevent a never-ending series of disasters which the Gao no longer have the un-implanted manpower or expertise to manage.’ Speaking at High Mountain Fortress shortly afterwards, Great Father Daar made no attempt to sugar-coat his decision…”
+> “As the Rods fell, the Office of the Great Father released a statement explaining that this overwhelming strike was ‘necessary to forestall the permanent collapse of Gaoian society and to prevent a never-ending series of disasters which the Gao no longer have the un-implanted manpower or expertise to manage.’ Speaking at High Mountain Fortress shortly afterwards, Great Father Daar made no attempt to sugar-coat his decision…”
 
 The video cut over to the big furry dude, who stood ready in front of a collection of weird-looking banners. He was…Hoeff felt himself and Yan behind him deflate, along with the rest of the team. Daar stood tall, proud and fierce, a dignified avatar of justice who would brook absolutely no nonsense from anyone. He looked the very picture of a capable and regal statesman.
 
 He looked dead inside.
 
-\> “Many of our brightest and most talented were implanted, and all were lost within a heartbeat of each other. It is with profound regret that I ordered this action. Simultaneous to this strike, and in coordination with our Human allies, we have begun operations to retake Wi Kao, Lavmuy, Den So, Kanmuy, and Shem Yui. Stoneback’s Fangs will form the leading point on the assaults. The eighty-second Airborne Division will form the bulk of our wedge, and our growing Army of the Gao will secure and hold everything as we reclaim it, as they have already done so admirably across the countryside. May this war come to a quick and victorious end, may we preserve our heartland and our future, and may our Brothers and Sisters get the justice they deserve. Thank you.”
+> “Many of our brightest and most talented were implanted, and all were lost within a heartbeat of each other. It is with profound regret that I ordered this action. Simultaneous to this strike, and in coordination with our Human allies, we have begun operations to retake Wi Kao, Lavmuy, Den So, Kanmuy, and Shem Yui. Stoneback’s Fangs will form the leading point on the assaults. The eighty-second Airborne Division will form the bulk of our wedge, and our growing Army of the Gao will secure and hold everything as we reclaim it, as they have already done so admirably across the countryside. May this war come to a quick and victorious end, may we preserve our heartland and our future, and may our Brothers and Sisters get the justice they deserve. Thank you.”
 
 Lately the Ten’Gewek had wanted to know what “Daar Given-Man” had been up to. He’d been instrumental in saving their people, they knew, and the youngest children in particular talked excitedly about him and the “angry werne rides” he gave to anyone asking. But the mood of what was happening spread quickly. Hoeff listened. The boisterous noises of so many nearby people had quickly dimmed to a quiet murmur.
 
 Ava was back on-screen, standing on the concrete at Camp Farthrow wearing a correspondent’s blue body armor and a hollow expression. Her knuckles were white around her microphone.
 
-\> “There has been no official estimate of the death toll, and an accurate count may actually be impossible in the long run, but even the most conservative estimates suggest that about a billion Gaoians were implanted in some manner…all biodroned in the space of seconds. Sources within AEC suggest that the slaughter in the immediate hours of the conflict may have numbered at least another billion, and we may never know how many Gaoian civilians still survived inside the quarantined cities before the orbital strikes.
+> “There has been no official estimate of the death toll, and an accurate count may actually be impossible in the long run, but even the most conservative estimates suggest that about a billion Gaoians were implanted in some manner…all biodroned in the space of seconds. Sources within AEC suggest that the slaughter in the immediate hours of the conflict may have numbered at least another billion, and we may never know how many Gaoian civilians still survived inside the quarantined cities before the orbital strikes.
 
-\> Clean-up operations continue in the countryside and around the planet but this morning, just for a few hours, the conflict stands still…and the unprecedented living cost of this war can finally start to sink in. …Ava Ríos for ESNN, Lavmuy, Gao.”\* The feed returned to the studio and a trio of blathering idiots in suits started making inane noises about what they’d just heard. Hoeff wasn’t listening. Nobody was. It was just…_Billions._ That number was too…
+> Clean-up operations continue in the countryside and around the planet but this morning, just for a few hours, the conflict stands still…and the unprecedented living cost of this war can finally start to sink in. …Ava Ríos for ESNN, Lavmuy, Gao.”* The feed returned to the studio and a trio of blathering idiots in suits started making inane noises about what they’d just heard. Hoeff wasn’t listening. Nobody was. It was just…_Billions._ That number was too…
 
-\[“How…how big is this\] billion?” Yan said it quietly but everyone heard him. He put Hoeff down then sat back on his haunches, and the crowd of Given-Men backed up to give them room.
+[“How…how big is this] billion?” Yan said it quietly but everyone heard him. He put Hoeff down then sat back on his haunches, and the crowd of Given-Men backed up to give them room.
 
-“…I…\[I don’t know. It’s too big to know.”\]
+“…I…[I don’t know. It’s too big to know.”]
 
-Walsh added his bit. Quietly, and mournfully. \[“It’s big like the stars, Yan. Big like light is fast.”\]
+Walsh added his bit. Quietly, and mournfully. [“It’s big like the stars, Yan. Big like light is fast.”]
 
 “Turn it off, Julian.” Hoeff couldn’t bear to see anymore.
 
@@ -3447,11 +3447,11 @@ Julian was the first to speak. “Um…sorry we wrecked your party.”
 
 Xiù wiped a tear from her face and nodded along glumly. “…I wish we could have helped.”
 
-Yan switched to People-speak. \[“I don’t know how _we_ can help. People are dying in countings too big to _know._\] He heaved a big, sad sigh, \[And you showed me where the _Hierarchy_ killed the rest of us. Now only the forest-people live, and there are so few left I almost know them all.”\]
+Yan switched to People-speak. [“I don’t know how _we_ can help. People are dying in countings too big to _know._] He heaved a big, sad sigh, [And you showed me where the _Hierarchy_ killed the rest of us. Now only the forest-people live, and there are so few left I almost know them all.”]
 
-Professor Hurt also nodded along. \[“Daar wasn’t lying. He wants you to live, Yan Given-Man. You and all your people. You must grow much stronger before you fight an enemy this big.”\]
+Professor Hurt also nodded along. [“Daar wasn’t lying. He wants you to live, Yan Given-Man. You and all your people. You must grow much stronger before you fight an enemy this big.”]
 
-\[“I know.”\] Yan shook his head and heaved another great sigh from deep in his chest. \[“It feels wrong. Daar Given-Man is _friend._ We would be dead if not for him. And for you. All of you! What do I have to Give? You have the magic of _lightning!”_\] He looked at his fists, and at his feet. \[“All I know is what leaves will make you sick and where the yshek live.”\]
+[“I know.”] Yan shook his head and heaved another great sigh from deep in his chest. [“It feels wrong. Daar Given-Man is _friend._ We would be dead if not for him. And for you. All of you! What do I have to Give? You have the magic of _lightning!”_] He looked at his fists, and at his feet. [“All I know is what leaves will make you sick and where the yshek live.”]
 
 “And you have saved my life thrice so far,” said Professor Hurt, holding up three fingers. “Not even Julian Sky-Hunter knows how to survive in the wild better than you.” The big woodsman crossed his arms and nodded along. “You or _any_ of your people, Yan. Maybe that’s not as big as you want but…thank you, again.”
 
