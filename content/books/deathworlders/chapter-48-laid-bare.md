@@ -63,7 +63,7 @@ ___
 
 **++Cynosure++:** I requested that you please not call me that.
 
-**++0004++:** *<Pointed>* But you don’t deny that you unleashed it.
+**++0004++:** *< Pointed >* But you don’t deny that you unleashed it.
 
 **++0003:++:** Shut up, **0004.** Petty sniping like that is what got us into this mess, and you alone seem to be immune to learning that lesson.
 
@@ -71,7 +71,7 @@ ___
 
 **++0003++:** One more word, and I will demote you to **0999.** Am I clear?
 
-**++0004++:** *<Shock; Meek acquiescence.>*
+**++0004++:** *< Shock; Meek acquiescence. >*
 
 **++Cynosure++:** In fairness, **0004** is correct. This parasitic entity is my creation, inadvertent or not. It is indeed my fault… it is not however my responsibility, at least not exclusively.
 
@@ -97,13 +97,13 @@ ___
 
 **++0003++:** True. It would be foolish to proceed with that as our working theory. But allow me *some* hope, please.
 
-**CHANNEL: 4 instances of emote:** *<grim humor>*
+**CHANNEL: 4 instances of emote:** *< grim humor >*
 
 **++Cynosure++:** It must have a point of contact with the Humans. If we can locate that…
 
 **++0020++:** Or it may still be embedded within the Hunters. That’s where I would be right now.
 
-**++0004++:** *<Intrigued>* Your rationale?
+**++0004++:** *< Intrigued >* Your rationale?
 
 **++0020++:** The Builder coup represents a major political and social upheaval, and the new Alpha-of-Alphas was never aware of our relationship with its predecessor.
 
