@@ -33,7 +33,7 @@ Following *Sanctuary’s* destruction, A’ktnnzzik’tk---more often known as �
 
 **What happens next?**
 
-Ambassador Knight has not yet made it clear what the GRA’s agenda for the Security Council will be. For now, he has committed humanity to the political faction broadly known as *‘Reformers,’* which also includes the Gaoian Ambassador Champion Sheeyo of Clan Goldpaw, Cori Directorate Ambassador Veril, and Ambassador Scrythcra of the Rauwrhyr Combined Nations.
+Ambassador Knight has not yet made it clear what the GRA’s agenda for the Security Council will be. For now, he has committed humanity to the political faction broadly known as *‘Reformers,’* which also includes the Gaoian Ambassador Champion Sheeyo of Clan Goldpaw, Corti Directorate Ambassador Veril, and Ambassador Scrythcra of the Rauwrhyr Combined Nations.
 
 Kirk’s presence at his side is a source of endless speculation for extraterrestrial political commentators, but a Domain public poll suggested that he has lost none of his popularity and many Domain citizens are interested to see what influence he will have.
 
@@ -44,7 +44,7 @@ The other Reformer ambassadors declined to make any statement, and at the time o
 Only time will tell what Knight’s appointment will truly mean for humanity and the galactic community.
 
 -Ava Magdalena Ríos    
-*Extrerrestrial Affairs Correspondent*
+*Extraterrestrial Affairs Correspondent*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 **++0004++:** Something that **0006** unleashed upon us.
 
-**++0009:** **[File Attachment: Entity Briefing Document]**
+**++0009++:** **[File Attachment: Entity Briefing Document]**
 
 **++Cynosure++:** I requested that you please not call me that.
 
@@ -377,7 +377,7 @@ This was the first. About thirty-seven kilolightyears from Sol, and currently in
 
 There was a cry of “Fire in the hole!” from her right, followed by a loud *BANG!* as Roberts fired the ground-to-orbit mortar. A brilliant streak of blue light connected sand and sky for a heartbeat before the warp field collapsed, and Katja’s HUD reported that she now had satellite telemetry.
 
-That was proving to be one of the most clever technologies the Gao had taught them. In-atmosphere warp had all *sorts* or clever uses, and human forays into the tech had only successfully yielded weapons like the Skymaster guns. The mortar on the other hand could deliver satellites *directly* into stable orbits.
+That was proving to be one of the most clever technologies the Gao had taught them. In-atmosphere warp had all *sorts* of clever uses, and human forays into the tech had only successfully yielded weapons like the Skymaster guns. The mortar on the other hand could deliver satellites *directly* into stable orbits.
 
 The day---morning, they quickly discovered---unfolded at a steady pace, punctuated by the sound of Roberts seeding the sky with satellites. Every time he did so, local bat-like flying animals scared up and circled for a few minutes before returning to the ground.
 
@@ -1132,7 +1132,7 @@ There was a pause.
 
 “...She saved all our lives, Mark. I can tell you that much.”
 
-Jack took a sharp breath, picked up some discarded plates and cups, and headed indoors. He didn’t want to hear more. He’d gone over Sara’s death with Adam. He knew how it had gone, how things had unfolded. He new the truth… And no matter how kind it might be, he knew that Gabe had just lied.
+Jack took a sharp breath, picked up some discarded plates and cups, and headed indoors. He didn’t want to hear more. He’d gone over Sara’s death with Adam. He knew how it had gone, how things had unfolded. He knew the truth… And no matter how kind it might be, he knew that Gabe had just lied.
 
 He didn’t think he could stand the grateful look on his dad’s face any longer.
 
@@ -1277,13 +1277,13 @@ The moose bolted the instant the bear burst out of the bush barely a good throw 
 
 The moose was heaved right off its feet and dumped to the ground. Huge paws snapped ribs like twigs, and claws as long as Yan’s fingers tore ragged gouges in its hide.
 
-Jooyun was right. This ‘bear’ wasn’t nearly as big or as dangerous-looking as a Brown One. But it was *mean.* Fast, *strong,* ferocious… and it had completely snuck up on them.
+Jooyun was right. This ‘bear’ wasn’t nearly as big or as dangerous-looking as a Brown One---in fact, the moose was bigger---but it was *mean.* Fast, *strong,* ferocious… and it had completely snuck up on them.
 
 It held the moose’s head down with one massive paw, engulfed its throat in powerful jaws and *shook,* dragging the flailing bull around like a toy. There was a crack, and the moose was no more.
 
 Then it whipped around on its paws to face them, teeth bared and bloody, and it *roared.*
 
-The message was clear: ***“MINE.”***
+The message was clear: ***“MINE!”***
 
 “Holy testicle Tuesday…” Heff muttered. He had the rifle aimed squarely at the bear, but every line of him said he’d rather be somewhere else.
 
@@ -1379,7 +1379,9 @@ Dog skimmed it. He trusted his crew 100%, they’d all proven they could hack de
 
 Sure, it was a formality---they’d all *definitely* have noticed if a shipping container full of Cimbrean lumber suddenly tore off the hull and smacked into the warp field boundary---but it was an *important* formality.
 
-Fortunately, it was easy to swipe down through it and see that every field read a nice happy “Inspection OK.” And the return trip would be far less monotonous. Once they’d taken on their cargo of supercapacitors at the Rauwryhr homeworld, they’d just pop their jump drive and moor with Armstrong Station. Payday was just two days away, and after that they’d get a week off before heading out on the next run. It was a good rhythm.
+Fortunately, it was easy to swipe down through it and see that every field read a nice happy “Inspection OK.”
+
+The return trip would be far less monotonous. Once they’d taken on their cargo of supercapacitors at the Rauwryhr homeworld, they’d just pop their jump drive and moor with Armstrong Station. Payday was just two days away, and after that they’d get a week off before heading out on the next run. It was a good rhythm.
 
 “...Looks good,” he conceded after a minute in which his free hand had helped him drink about half his coffee. “Think we can call the dock crew’s fix on Three permanent, huh?”
 
@@ -1423,7 +1425,7 @@ Dog cussed and limped to the comms station just as the rest of the crew barrelle
 
 “Armstrong Tower, Hotel-Charlie-Foxtrot-One. Emergency jumpback after a Hunter attack on Lane Ten-Four-Five. No casualties, minor injuries. Sending beacon details...”
 
-“Jesus, Hunters?” Cathy went pale and buckled herself in at her station. Dog mimed zipping up her flight suit at her, and pale white became flush pink as he fumbled to neaten herself up. Mitch meanwhile dropped into the comms seat and quickly sent over the codes for the beacon they’d left behind on bugging out. Right now, the Hunters would be ripping through that unfortunate freighter that had followed them into the spike. If AEC had ships and fighters ready to scramble...
+“Jesus, Hunters?” Cathy went pale and buckled herself in at her station. Dog mimed zipping up her flight suit at her, and pale white became flush pink as she fumbled to neaten herself up. Mitch meanwhile dropped into the comms seat and quickly sent over the codes for the beacon they’d left behind on bugging out. Right now, the Hunters would be ripping through that unfortunate freighter that had followed them into the spike. If AEC had ships and fighters ready to scramble...
 
 *“Copy that, Hotel-Charlie. Hold station, await inspection.”*
 
