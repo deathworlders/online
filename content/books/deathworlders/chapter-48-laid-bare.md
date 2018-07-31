@@ -2056,7 +2056,7 @@ I attempt to explain, and find myself growing uncomfortable as I do so. My attem
 
 I query him extensively about this philosophy, and again he produces an outpouring of thought that, sadly, didn’t make the cut into this article. In the end, he finishes with this comment:
 
-*“It’s a stupid idea, and it doesn’t account for personal agency or…nuts, any of the things people do. If somebody uses that phrase, they’re basically saying they think we’re all just little balls bouncing around in a giant pachinko machine with no control over where we go, and that’s just as insulting as it is dehumanizing. Or degaoianizing, or whatever. Desapientizing.”
+*“It’s a stupid idea, and it doesn’t account for personal agency or…nuts, any of the things people do. If somebody uses that phrase, they’re basically saying they think we’re all just little balls bouncing around in a giant pachinko machine with no control over where we go, and that’s just as insulting as it is dehumanizing. Or degaoianizing, or whatever. Desapientizing.”*
 
 [Image: Daar posing on his haunches, talking animatedly, the fur around his nape matted]    
 
