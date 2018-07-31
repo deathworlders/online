@@ -109,7 +109,7 @@ ___
 
 **++Cytosis++:** As far as you know.
 
-*++0020++:** Granted, but was the former A-of-As aware of the Entity?
+**++0020++:** Granted, but was the former A-of-As aware of the Entity?
 
 **++0003++:** Absolutely not. We never divulged that information.
 
@@ -213,7 +213,7 @@ Loor’s tail whipped the other way. “A lot can happen in a season, Singer.”
 
 That last promise seemed satisfactory. He thanked her and left the village in a much less violent mood than he’d arrived, leaving the Singer to sigh and plop down next to the fire where some of the women were preserving another batch of stew the winter.
 
-She sat with her thoughts and helped with the preparations for some time until a shouting-stone’s call drew her attention. It was the unique *thrum*thrum-*thrum*thrum rhythm the lookouts used for when a human was headed their way.
+She sat with her thoughts and helped with the preparations for some time until a shouting-stone’s call drew her attention. It was the unique thrum-*thrum!* thrum-*thrum!* rhythm the lookouts used for when a human was headed their way.
 
 Sure enough, a few minutes later Professor Hurt ambled into camp with his hands empty but five root-birds hanging from his pack. He exchanged words of goodwill with the lookouts and handed the meat over as a gift. The Singer nodded happily: ever since his return, the Given-Men had been grumbling much less over the humans out at the *‘bunker.’* The old man was no kind of a Given-Man himself, but he knew how to make and keep the peace.
 
@@ -1046,7 +1046,7 @@ She heaved herself to her feet and returned to her family.
 ___
 
 **Date Point: 15y6m2w2d AV**    
-**Folctha, Cimbrean, The Far Reaches
+**Folctha, Cimbrean, The Far Reaches**
 
 ***Jack Tisdale***
 
@@ -1261,7 +1261,7 @@ The two humans chuckled quietly as the sound echoed off the hills around them. *
 
 *“...How close?”*
 
-“Not close. Several good throws away at least.”*
+“Not close. Several good throws away at least.”
 
 Yan shook himself as the cry went up again. He nodded. Now that he’d heard it once, he listened and agreed with Jooyun that the beast making it was far away… but it must have *mighty* lungs to make a sound that loud which carried so strongly.
 
@@ -1880,11 +1880,11 @@ He describes what that means in cheery detail and seems to delight in conforming
 
 He throws in a “Keeda tale” to illustrate the point, which could perhaps best be described as a nursery tale lacking any caution about mature themes. Most of them are violently silly. I will admit he may have drawn a grin or two from me, and perhaps a brief chuckle; he is a good storyteller. I do my best to remain neutral and he does, in his way, respect that boundary. He decides to wrap up his exposition with a more sober summary.
 
-*“[…] So yeah, our sexual genetics are pretty messed up, and now we’re pretty sure that was done to us by the Hierarchy way back when. But the gist of it is that usually, only about one in six cubs are female and males come in degrees. Males in the second degree make up most of the population these days. Supermales in the third degree aren’t common, fourth degree are rarer than females, and if they’re fifth or sixth degree we call them hypermales.*”
+*“[…] So yeah, our sexual genetics are pretty messed up, and now we’re pretty sure that was done to us by the Hierarchy way back when. But the gist of it is that usually, only about one in six cubs are female and males come in degrees. Males in the second degree make up most of the population these days. Supermales in the third degree aren’t common, fourth degree are rarer than females, and if they’re fifth or sixth degree we call them hypermales.”*
 
 **Presumably each degree is rarer, then?**
 
-*“Yup! Each is usually *way* less common than the previous.”*
+*“Yup! Each is usually* ***way*** *less common than the previous.”*
 
 **And which degree are you?**
 
@@ -1956,7 +1956,7 @@ Loyal praise seems to be another habit of his.
 
 **Isn’t it unusual for you to have surrendered the title?**
 
-*“Yeah, but there’s precedent. Finn just needed to prove to me and the Clan that he could handle it, and there ain’t any better way to do that than a good tussle! He held up, I stepped down and became Champion Emeritus. Stoneback’s in the *right* paws for what’s coming.”
+*“Yeah, but there’s precedent. Finn just needed to prove to me and the Clan that he could handle it, and there ain’t any better way to do that than a good tussle! He held up, I stepped down and became Champion Emeritus. Stoneback’s in the* ***right*** *paws for what’s coming.”*
 
 The next part of the interview shifted to decidedly darker topics.
 
