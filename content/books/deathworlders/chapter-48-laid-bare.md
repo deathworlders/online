@@ -2064,7 +2064,7 @@ Alas we don’t have time to explore exactly how the Great Father knows of pachi
 
 **Nevertheless, some of the accusations they level are more concrete. You have been described as a ‘genocidal dictator’ and a ‘Gaoian supremacist.’**
 
-Modeling is often strenuous work in ways the unfamiliar would never appreciate, and the strain of holding himself under tension is beginning to tire him: His chittering is more weary.
+Modelling is often strenuous work in ways the unfamiliar rarely appreciate, and the strain of holding himself under tension is beginning to tire Daar: His chittering is more weary.
 
 *“How can I be a Gaoian supremacist when some of my most favoritest [sic] people are aliens? I seem to recall a wild ride caught up in the tail of the most biggest [sic] monkey ever, all so we could save his people from laser-wielding death robots! Yan Given-man is my* ***friend.*** *And that ain’t even getting into my Human cousins, nor the other ETs I respect. So you tell me how I’m any kind of a supremacist.”*
 
