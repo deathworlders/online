@@ -1986,7 +1986,7 @@ He freezes in a particularly striking pose. By now, the strain of the shoot is b
 
 I shake my head to indicate that I have not, and he quotes it.
 
-*“‘What is best in life? To crush your enemies, see them driven before you, and to hear the lamentations of their women.’ True words, those. Balls, they’re more true than modern civilized folks of any species like to admit, and that’s dangerous.”*
+***“‘What is best in life? To crush your enemies, see them driven before you, and to hear the lamentations of their women.’*** *True words, those. Balls, they’re more true than modern civilized folks of any species like to admit, and that’s dangerous.”*
 
 **How so?**
 
