@@ -1619,7 +1619,7 @@ Gabe blinked, and then scowled inwardly at himself. Where the *hell* was his hea
 
 “And I’m Rachel. Ray.”
 
-They shook hands and traded *nice to meet you*s.
+They shook hands and traded a *nice to meet you* each way.
 
 “You know… I think you and Gyotin are the only two people who haven’t treated me like I’m made of glass since I got here,” Ray confessed. “We’re just… talking. Two strangers getting to know each other. What’s your secret?”
 
@@ -2044,7 +2044,7 @@ He produces the Gaoian equivalent of a sigh and relaxes. So do I.
 
 This provokes waves of chittering mirth which take some time for him to bring under control.
 
-*“That’s an extra stupid thing of them to say! And insulting in the most dumbest, pointlessest [sic] way! What do they think I am? Powerless? And if so, how did I do this thing they accuse me of? Or who do they think is holding my puppet strings? Did I, oh, orchestrate the biodroning of billions and then* ***nuke*** *all those cities because… I don’t know, because AEC was yanking on my leash? Or maybe they think tough little Sartori has me by the balls? He’s a wiley President, but no.”*
+*“That’s an extra stupid thing of them to say! And insulting in the most dumbest, pointlessest [sic] way! What do they think I am? Powerless? And if so, how did I do this thing they accuse me of? Or who do they think is holding my puppet strings? Did I, oh, orchestrate the biodroning of billions and then* ***nuke*** *all those cities because… I don’t know, because AEC was yanking on my leash? Or maybe they think tough little Sartori has me by the balls? He’s a wily President, but no.”*
 
 He pauses, then chitters again.
 
@@ -2494,7 +2494,7 @@ Yan, meanwhile, had progressed to Level Two of his typical chat-up routine, and 
 
 “Ooh!” She pointed at it excitedly with an almost Vemik-like curiosity. “Is it prehensile?”
 
-“Pre-*hens-*isle.” Yan looked to Julian and grunted for attention.
+“Pre- *hens-* isle.” Yan looked to Julian and grunted for attention.
 
 [“That means you can use it like you use your hands and feet.”] Julian added with a grin, [“And stop hitting on everyone you meet, you huge oaf! It’s not like you’ll get any time with her anyway.”]
 
