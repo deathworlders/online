@@ -1593,7 +1593,7 @@ It was Gabe’s turn to laugh, and he decided he liked Wheeler. “I might be,�
 
 “I’ve had enough alone time to last me the rest of my life. And honestly, now I’m curious: I could have sworn men like Warhorse didn’t have parents. Architects, maybe…”
 
-Gabe half-laughed. “…That’s probably more true then I wanna admit. But he swears up and down he’s healthy and…well, he gave me a grandkid, and whatever he does to be like that lets him do his job. If he couldn’t do *that* I don’t know how he’d cope.”
+Gabe half-laughed. “…That’s probably more true than I wanna admit. But he swears up and down he’s healthy and…well, he gave me a grandkid, and whatever he does to be like that lets him do his job. If he couldn’t do *that* I don’t know how he’d cope.”
 
 “...That sounds like there’s a long and sad story there.”
 
