@@ -453,7 +453,7 @@ Derek couldn’t help himself: his laugh made heads turn.
 
 “Good.” She grinned at him, leaned forward and lowered her voice, looking him in the eye. “I don’t want a perfect gentleman.”
 
-“So you want… what? A rogue?""
+“So you want… what? A rogue?”
 
 “Mmm…” Ava ran a finger around her coffee mug’s rim and gave him a lopsided, daring smile. “Enough of a gentleman to hold the door for me, enough of a scoundrel to pin me against the wall before it’s closed. Something like that.”
 
