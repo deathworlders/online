@@ -1,9 +1,10 @@
 ---
-title: "Chapter 2: Strategies"
+title: "Strategies"
 weight: 12
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
+chapter: 1.2
 ---
 
 **10y, 8m AV**  

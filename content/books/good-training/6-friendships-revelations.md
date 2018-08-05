@@ -1,9 +1,10 @@
 ---
-title: "Chapter 6: Friendships & Revelations"
+title: "Friendships & Revelations"
 weight: 8
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
+chapter: 6
 ---
 
 It began with two large pieces of equipment being wheeled into the office—a generator, and a piece of technology that Regaari didn’t recognize at all. Stainless didn’t speak until both were connected and powered up. Regaari gritted his teeth against the hypersonic whine that it made. It was probably outside of a human’s range of hearing—it was on the very upper edge of a Gaoian’s.
