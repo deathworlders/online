@@ -1,5 +1,5 @@
 ---
-title: "Chapter 00: Prelude to War"
+title: "Prelude to War"
 date: 2018-05-13
 lastmod: 2018-05-13
 author: "P.A.B.Arianis (paladin3712x)"
