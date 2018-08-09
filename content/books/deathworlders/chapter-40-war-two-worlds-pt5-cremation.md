@@ -1158,7 +1158,7 @@ ___
 
 **++0005++:** *\<Curt interruption>* Shut up.
 
-**Channel notification: 238 unique emotes recorded from 312 participants. 145 counts** ***\<Shock>,*** **70 counts** ***\<Stunned disbelief>,*** **19 counts** ***\<Amused delight>,*** **1 count** ***\<Long overdue satisfaction>,*** **1 count** ***\<Hero worship>,*** **1 count** ***\<Belligerent defiance>*** **1 count** ***\<Aghast outrage>***
+**Channel notification: 238 unique emotes recorded from 312 participants. 145 counts** ***\<Shock>,*** **70 counts** ***\<Stunned disbelief>,*** **19 counts** ***\<Amused delight>,*** **1 count** ***\<Long overdue satisfaction>,*** **1 count** ***\<Hero worship>,*** **1 count** ***\<Belligerent defiance>,*** **1 count** ***\<Aghast outrage>***
 
 **++0005++:** *\<Venting frustration>* You and your… your *fucking* arrogance! Your totalitarian, top-down leadership system, your rigid thinking, your inept, clumsy-handed adherence to an inflexible system that has failed us repeatedly against the Humans, and yet you have the undiluted *hubris* to declare that failure is unacceptable? If that is so then your **leadership** is unacceptable! You have presided over an accelerating cascade of failures, ruled with absolute control over every facet and yet failed to accept responsibility when *your* plans fail, when *your* strategies are defeated and when *your* agents propose a superior alternative which you then summarily dismiss as unorthodox. No more! I will no longer be led by you!
 
