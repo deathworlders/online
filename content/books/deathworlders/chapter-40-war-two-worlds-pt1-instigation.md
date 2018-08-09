@@ -3717,4 +3717,4 @@ ___
 
 Thank you for reading!
 
-*The Deathworlders* will continue in Chapter 41: War On Two Worlds pt.2 - Escalation.
+*The Deathworlders* will continue in Chapter 40: War On Two Worlds pt.2 - Escalation.
