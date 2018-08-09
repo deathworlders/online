@@ -453,7 +453,7 @@ Derek couldn’t help himself: his laugh made heads turn.
 
 “Good.” She grinned at him, leaned forward and lowered her voice, looking him in the eye. “I don’t want a perfect gentleman.”
 
-“So you want… what? A rogue?""
+“So you want… what? A rogue?”
 
 “Mmm…” Ava ran a finger around her coffee mug’s rim and gave him a lopsided, daring smile. “Enough of a gentleman to hold the door for me, enough of a scoundrel to pin me against the wall before it’s closed. Something like that.”
 
@@ -1593,7 +1593,7 @@ It was Gabe’s turn to laugh, and he decided he liked Wheeler. “I might be,�
 
 “I’ve had enough alone time to last me the rest of my life. And honestly, now I’m curious: I could have sworn men like Warhorse didn’t have parents. Architects, maybe…”
 
-Gabe half-laughed. “…That’s probably more true then I wanna admit. But he swears up and down he’s healthy and…well, he gave me a grandkid, and whatever he does to be like that lets him do his job. If he couldn’t do *that* I don’t know how he’d cope.”
+Gabe half-laughed. “…That’s probably more true than I wanna admit. But he swears up and down he’s healthy and…well, he gave me a grandkid, and whatever he does to be like that lets him do his job. If he couldn’t do *that* I don’t know how he’d cope.”
 
 “...That sounds like there’s a long and sad story there.”
 
