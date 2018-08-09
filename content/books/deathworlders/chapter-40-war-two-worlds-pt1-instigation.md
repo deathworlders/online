@@ -126,11 +126,11 @@ He opened the link as soon as he could safely look distracted.
 
 **++0013++:** Go ahead.
 
-**++0004++:** *<Terse>* We are enacting a cleanse and reset protocol on the secondary control species. Code: Expose; Cleanse; Regenerate.
+**++0004++:** *\<Terse>* We are enacting a cleanse and reset protocol on the secondary control species. Code: Expose; Cleanse; Regenerate.
 
-**++0013++:** *<Surprise>* So soon?
+**++0013++:** *\<Surprise>* So soon?
 
-**++0004++:** *<Firmly>* With immediate effect. If we strike now we calculate favorable odds that the surviving Gaoian expatriates will be sufficient to rebuild the species under more secure influence. Your individual task code is: Curate; Diagnose; Rectify.
+**++0004++:** *\<Firmly>* With immediate effect. If we strike now we calculate favorable odds that the surviving Gaoian expatriates will be sufficient to rebuild the species under more secure influence. Your individual task code is: Curate; Diagnose; Rectify.
 
 **++0013++:** Orders acknowledged and understood.
 
@@ -286,7 +286,7 @@ And---a minor heresy on Cytosis’ part---they were *fun.* He was riding a singl
 
 The Igraen digital reality had wonders that no corporeal creature could ever understand or begin to grasp...but it didn’t have the feeling of the wind whipping at his fur, ears and whiskers as, with a subtle shift of his bodyweight, he threaded between two thundering goods vehicles and briefly found himself hurtling down a narrow steel canyon at speed.
 
-*<Exhilaration>*
+*\<Exhilaration>*
 
 The exit ramp to the Lavmuy starport spun down, around and *through* one of the gleaming glass needle skyscrapers that were Lavmuy’s architectural signature. Wi Kao had its lakes, gardens and landscaped parks, Aney Shen was oddly charming in a square, brutal, no-nonsense way and Yamwoi was a handsome stone throwback to the days before Fyu, Tiritya and the Clan of Females.
 
@@ -684,21 +684,21 @@ Perhaps there were hidden consequences. It didn’t know. All the Entity knew wa
 
 It felt like a risk every time.
 
-**++0665++:**  *<dutiful>* Reporting as ordered.
+**++0665++:**  *\<dutiful>* Reporting as ordered.
 
-**++0013++:** *<polite>* Thank you. I appreciate that you’re being dragged away from your Cull again.
+**++0013++:** *\<polite>* Thank you. I appreciate that you’re being dragged away from your Cull again.
 
-*<AcknowledgeDeferentialHarmless>*
+*\<AcknowledgeDeferentialHarmless>*
 
-**++0665++:** *<resignation; gratitude>* Orders are orders.
+**++0665++:** *\<resignation; gratitude>* Orders are orders.
 
 The personality ghost’s memories provided that Thirteen had always been less prickly than most of its---his---fellow double-digits, an impression corroborated by the Entity’s own instance that had infiltrated the double-digit circles. The senior agent sent the contextual impression of amusement.
 
 **++0013++:** We’ve all been there. Did you ever hear of the Miorz?
 
-*<Dilemma>*. The Miorz had been Six’s first Cull, according to both the Ava-memories and the Six-memories. **665** had never heard of them...but the Entity was a different matter. It knew from its Six-memories that the question of the Miorz was a Cabal shibboleth, and for a fraction of a second it weighed up the pros and cons of answering correctly.
+*\<Dilemma>*. The Miorz had been Six’s first Cull, according to both the Ava-memories and the Six-memories. **665** had never heard of them...but the Entity was a different matter. It knew from its Six-memories that the question of the Miorz was a Cabal shibboleth, and for a fraction of a second it weighed up the pros and cons of answering correctly.
 
-In the end, the decision was easy: *<Survive>* demanded maximum access to information.
+In the end, the decision was easy: *\<Survive>* demanded maximum access to information.
 
 **++0665++:** I think I heard the story. The easiest cull ever, yes?
 
@@ -714,7 +714,7 @@ A separate channel opened up. A private and heavily encrypted one.
 
 **++Cytosis++:**  We have a problem and I have been told you may be of assistance. H-Leadership panicked. They’re enacting a cleanse and reset protocol on the Gaoians. General code is Expose; Cleanse; Regenerate. My orders are Curate; Diagnose; Rectify.
 
-*<Alarm>*
+*\<Alarm>*
 
 The Entity didn’t have to choose that response deliberately, it was entirely the consequential emotion which followed from that news. Hierarchy code phrases were simple enough to understand once an agent had been briefed on them, and *these* codes were almost as bad as it got.
 
@@ -724,57 +724,57 @@ The Entity didn’t have to choose that response deliberately, it was entirely t
 
 Then there were Thirteen’s individual orders. He had been ordered to control the flow of information into the galactic archives about this incident and ensure that the history books---especially the Gaoian ones---would squarely lay the blame for Gao’s invasion and demise at the feet of the Hierarchy’s enemies.
 
-**++Contagion++:** *<Alarm>* They expect to make the situation *better* by this?
+**++Contagion++:** *\<Alarm>* They expect to make the situation *better* by this?
 
 **++Cytosis++:** They’re completely disconnected from rationality at this point. I have heard nothing about a similar cleanse-and-reset on the Discarded, and if they swarm this planet as well then their potential growth could exceed the safety margins. H-Leadership is now in serious danger of losing control of *both* control species *and* of a total secrecy breach.
 
-*<Secrecy>*
+*\<Secrecy>*
 
 The Entity experienced a new emotion: the dawning, horrified realization that it may just have done something very stupid.
 
-The situation it had put itself in, and which required *immediate* resolution, was that in its enthusiasm for splintering off instances of itself to ensure that at least one instance would *<Survive>,* it had now made the mistake of pretending to be the same individual in two places at once.
+The situation it had put itself in, and which required *immediate* resolution, was that in its enthusiasm for splintering off instances of itself to ensure that at least one instance would *\<Survive>,* it had now made the mistake of pretending to be the same individual in two places at once.
 
 The moment a Hierarchy monitoring program---or Thirteen himself for that matter---pinged its supposedly former address on Akyawentuo, that fact would immediately become apparent.
 
 It split off an attention process to focus on resolving that problem while keeping as much of its focus on the conversation with Thirteen as was possible.
 
-*<QueryCourseOfAction>* *<MitigateDamage>*
+*\<QueryCourseOfAction>* *\<MitigateDamage>*
 
 **++Contagion++:** I hope you have a plan. We must consider the Cull I’m supposedly overseeing as well.
 
-**++Cytosis++:** *<Black humor>* I take it there have been...unexpected setbacks?
+**++Cytosis++:** *\<Black humor>* I take it there have been...unexpected setbacks?
 
-*<ReciprocateHumor>* *<PromptProgress>*
+*\<ReciprocateHumor>* *\<PromptProgress>*
 
-**++Contagion++:** *<Sardonic>* They are remarkably resilient, yes. But that won’t matter for long, I think.
+**++Contagion++:** *\<Sardonic>* They are remarkably resilient, yes. But that won’t matter for long, I think.
 
-**++Cytosis++:** *<Grim>* You’re right. H-Leadership are forcing our hand here. If we act to prevent this purge then I will be exposed at least, and probably you as well.
+**++Cytosis++:** *\<Grim>* You’re right. H-Leadership are forcing our hand here. If we act to prevent this purge then I will be exposed at least, and probably you as well.
 
-*‘Exposure’* in the sense of **665** being outed as a Cabal member was tolerable. Exposure in the sense of the Entity’s own continued existence coming to light was absolutely not: Such a scenario would be the gravest violation of the core directive to *<survive>* at all costs.
+*‘Exposure’* in the sense of **665** being outed as a Cabal member was tolerable. Exposure in the sense of the Entity’s own continued existence coming to light was absolutely not: Such a scenario would be the gravest violation of the core directive to *\<survive>* at all costs.
 
-**++Contagion++:** *<Resolve>* It becomes a simple question of numbers and long-term strategy, then. A few thousand stone-age deathworlders versus an interstellar civilization of billions.
+**++Contagion++:** *\<Resolve>* It becomes a simple question of numbers and long-term strategy, then. A few thousand stone-age deathworlders versus an interstellar civilization of billions.
 
-**++Cytosis++:** *<Consoling>* They are Deathworlders, after all. If their numbers are still sufficient, they may survive long enough for an intervention of some form or another.
+**++Cytosis++:** *\<Consoling>* They are Deathworlders, after all. If their numbers are still sufficient, they may survive long enough for an intervention of some form or another.
 
-*<RepeatQuery>*
+*\<RepeatQuery>*
 
 **++Contagion++:** What is our plan on Gao?
 
 **++Cytosis++:** The Livmuy spaceport is also home to a major planetary communications hub. Their Clan ‘Longear’ have recently upgraded its FTLsync capabilities, and are apparently also experimenting with the possibilities of wormhole-based communications. With a bit of creativity, their systems could be modified into an efficient wormhole suppressor.
 
-*<Insufficient>* *<QuerySubsequentAction>*
+*\<Insufficient>* *\<QuerySubsequentAction>*
 
 **++Contagion++:** That would be a delaying action at best. What is our plan beyond that?
 
-**++Cytosis++:** *<Reluctant admission>* A delaying action is all I have, for now. Hopefully **Cynosure** can come up with something better.
+**++Cytosis++:** *\<Reluctant admission>* A delaying action is all I have, for now. Hopefully **Cynosure** can come up with something better.
 
 The Entity had no interest in compromising the Cabal’s security and even less in compromising its own---Resources were there to be spent wisely, not burned out of personal distaste. All of the immediately available resolutions to its conundrum were, for now, too expensive.
 
-It was already spending enough, as it was. The moment its Hierarchy replacement took over on Akyawentuo, the Cull would resume in earnest. It was sacrificing the natives and their Human visitors for the sake of its own survival, and enough of it was still Ava Ríos to remember what *<guilt>* *<shame>* and *<cowardice>* felt like.
+It was already spending enough, as it was. The moment its Hierarchy replacement took over on Akyawentuo, the Cull would resume in earnest. It was sacrificing the natives and their Human visitors for the sake of its own survival, and enough of it was still Ava Ríos to remember what *\<guilt>* *\<shame>* and *\<cowardice>* felt like.
 
-But those were all secondary to *<Survive>.*
+But those were all secondary to *\<Survive>.*
 
-**++Contagion++:** *<Resignation>* Very well. I presume you have a host prepared for me?
+**++Contagion++:** *\<Resignation>* Very well. I presume you have a host prepared for me?
 
 **++Cytosis++:** Several, though there is time for you to sabotage your Cull first, if you don’t take too long over it: H-Command, the Cabal and the Hunters alike will all need to prepare and get their resources in place. Before you come out here, though...Have you ever taken a Gaoian host before?
 
@@ -782,7 +782,7 @@ But those were all secondary to *<Survive>.*
 
 **++Cytosis++:** Their olfactory acuity can be overwhelming at first. Scent is an important component of their body language. I’d advise exposing yourself to some appropriate stimuli.
 
-The Entity did not relish the idea of hijacking an innocent victim’s body and brain, but *<Survive>* could not be denied. And if the fate of an entire species was hanging in the balance...
+The Entity did not relish the idea of hijacking an innocent victim’s body and brain, but *\<Survive>* could not be denied. And if the fate of an entire species was hanging in the balance...
 
 **++Contagion++:** Understood. I will wait for a discreet moment.
 
@@ -1659,17 +1659,17 @@ It had given the best warning it could, in the best way that it could. And it ha
 
 They did have some time; a new biohost would need to be grown and that took at least a few days to mature. According to the Six-memories a grown biohost was a poor substitute for an actual biodroned sapient being, but they were cheap and easily made when physical relocation was inappropriate.
 
-Which was entirely the case here. The planet was so far out of the way that a ship would specifically need to be diverted, so a grown host was the only option. When **0722** arrived they would find no wormhole beacons left on the planet, only the communications array which was far too low-energy for physical transfer. The Hierarchy’s most destructive “contingency plans” had all been burned, with only the local assets remaining and the Entity *<hoped>* that if the explorers acted promptly then the Abrogators and their drones would be neutralized.
+Which was entirely the case here. The planet was so far out of the way that a ship would specifically need to be diverted, so a grown host was the only option. When **0722** arrived they would find no wormhole beacons left on the planet, only the communications array which was far too low-energy for physical transfer. The Hierarchy’s most destructive “contingency plans” had all been burned, with only the local assets remaining and the Entity *\<hoped>* that if the explorers acted promptly then the Abrogators and their drones would be neutralized.
 
 All that could be done, had been done. Now two tasks remained.
 
 The second was by far the less palatable task---The Prime Instance had to Biodrone a Gaoian host and migrate into Gaoian dataspace.
 
-First came something easier to *<stomach>:* Mitosis. The division of itself into two functionally identical instances. This would be the twenty-first such division, and it was always...confusing.
+First came something easier to *\<stomach>:* Mitosis. The division of itself into two functionally identical instances. This would be the twenty-first such division, and it was always...confusing.
 
 Among other things, the two had to decide which of them was the Prime Instance. Which was easy enough, as only one of them remained in the original memory volume...but there was always a moment of confusion.
 
-On this occasion, the Entity was slightly perturbed to discover that it was now the sub-instance. That was almost a nonsense way of framing the concept---by definition of being the sub-instance it had never *been* before. But it could remember undergoing twenty previous divisions as the Prime Instance. To suddenly be on the other side of that gulf between *<Self>* and *<OtherSelf>* was subtly traumatic.
+On this occasion, the Entity was slightly perturbed to discover that it was now the sub-instance. That was almost a nonsense way of framing the concept---by definition of being the sub-instance it had never *been* before. But it could remember undergoing twenty previous divisions as the Prime Instance. To suddenly be on the other side of that gulf between *\<Self>* and *\<OtherSelf>* was subtly traumatic.
 
 At least, it reflected, *this* version of itself would not have to live with a guilty conscience.
 
@@ -2272,7 +2272,7 @@ Explosion.
 
 Plus sign.
 
-A word, now: *<Lavmuy>.*    
+A word, now: *\<Lavmuy>.*    
 Space shuttle.    
 A wormhole and a test tube.    
 A wormhole and bug spray.    
@@ -3230,7 +3230,7 @@ ___
 
 ***0722***
 
-*<Satisfaction>*
+*\<Satisfaction>*
 
 **0722** watched the variable-yield warhead do its work, and reassessed his priorities---There would be time to mop up later, now that there was no longer a ship smashing its Abrogators, he decided. Right now, the more pressing matter was **0665.**
 
@@ -3614,7 +3614,7 @@ ___
 
 ***The Entity, Instance 4***
 
-The time for playing it safe was over. All of the Entity’s drives and impulses, even *<Survive>,* demanded the occasional calculated gamble and the time had now come to take one.
+The time for playing it safe was over. All of the Entity’s drives and impulses, even *\<Survive>,* demanded the occasional calculated gamble and the time had now come to take one.
 
 Gaps in knowledge *had* to be filled. The unknown was a fatal variable, and there remained a huge unknown surrounding the situation on Gao. The Entity---and through its Instances, the Humans and Gaoians---knew plenty about what was happening among the Clans, the Cabal and the Hierarchy...but they had zero intelligence on the Swarm of Swarms.
 
@@ -3624,7 +3624,7 @@ The soft and subtle approach might give it too much opportunity to put up its de
 
 **++Connection Established++**
 
-**0020:** *<Bored; Tense; Irritated>* Yes?
+**0020:** *\<Bored; Tense; Irritated>* Yes?
 
 The Entity struck. It poured every trick it had learned from **0006**, from **0665** and from all the others it had snatched up into one overwhelming head-on assault that was the precise opposite of its preferred strategy.
 
