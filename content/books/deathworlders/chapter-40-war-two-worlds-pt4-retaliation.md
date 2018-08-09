@@ -223,7 +223,7 @@ Those instincts made it clear, from watching the Hierarchy’s strategic plannin
 
 The Entity had delicately encouraged their mistaken impressions, where it could. Mostly, however, it waited and watched. Its enemies were slowly hanging themselves, there was no need to intervene.
 
-Even though it was, little by little, beginning to grow *< bored >*.
+Even though it was, little by little, beginning to grow *\<bored>*.
 
 **++0018++:** We must presume that **0020** was killed. He will be restored from backup, but I doubt that will shed any light on why the Hunter scouts made such an enormous blunder at such a sensitive moment.
 
@@ -231,21 +231,21 @@ Even though it was, little by little, beginning to grow *< bored >*.
 
 **++0018++:** It may as well have. The wormhole disruption field extends nearly four light hours. The remaining Hunter scouts can’t warp out of the field without being detected and interdicted, and the Alpha-of-Alphas continues to refuse our invitation to jump to our beacon. It doesn’t trust us.
 
-**++0012++:** *< Grudging admiration >* Smart of it.
+**++0012++:** *\<Grudging admiration>* Smart of it.
 
-**++0018++:** *< Irritation >* ...Yes. True. We let that thing get much too intelligent.
+**++0018++:** *\<Irritation>* ...Yes. True. We let that thing get much too intelligent.
 
-**++0005++:** *< firm; exasperated >* Enough half-speak. *Are we winning this war?*
+**++0005++:** *\<firm; exasperated>* Enough half-speak. *Are we winning this war?*
 
 **++0018++:** ...No. The Humans have established total dominance of the lines of communication and supply, they have the upper hand in orbit, and what few reports we can extract from our ground forces suggest that they are divided, uncoordinated and blind while the Humans and Gaoians are becoming increasingly coherent, organized and mobile. If they were to deploy a system forcefield now to lock out the Swarm…
 
-**++0012++:** *< Alarm >* Why haven’t they? Is it possible they are aware of Dark Eye?
+**++0012++:** *\<Alarm>* Why haven’t they? Is it possible they are aware of Dark Eye?
 
 The Entity metaphorically pricked up its ears.
 
 **++0018++:** I...have no way of knowing. There are other plausible explanations, but the planetary defense facilities groundside are practically helpless already. Possibly they are simply being cautious and would prefer to completely consolidate their hold on the planet before they deploy a shield. I don’t think they would allow Dark Eye to exist for long if they became aware of it, however.
 
-**++0005++:** *< Skeptical >* Dark Eye is no space station, it’s a *moon.* How could they possibly destroy it?
+**++0005++:** *\<Skeptical>* Dark Eye is no space station, it’s a *moon.* How could they possibly destroy it?
 
 **++0015++:** They still have the Hazardous Environment Assault Team.
 
@@ -253,9 +253,9 @@ The Entity metaphorically pricked up its ears.
 
 There was a comparatively long and solemn pause; a rarity in Hierarchy sessions.
 
-**++0005++:** *< Command; Immediate >*  **0015,** you are reassigned. Take over Dark Eye and prepare it to repel a boarding force. We must assume that the deathworlders either already know about it, or will discover it soon.
+**++0005++:** *\<Command; Immediate>*  **0015,** you are reassigned. Take over Dark Eye and prepare it to repel a boarding force. We must assume that the deathworlders either already know about it, or will discover it soon.
 
-**++0015++:** *< Grim >* Yes, **0005.**
+**++0015++:** *\<Grim>* Yes, **0005.**
 
 ++SYSTEM NOTIFICATION: USER **0015** HAS LEFT THE SESSION++
 
@@ -268,7 +268,7 @@ Interesting. Very interesting indeed.
 
 Like a half-glimpsed vision of a giant squid jetting away into the abyssal black, the Entity vanished back into the network structure again, and began tracking down whatever it could find of this *‘Dark Eye.’*
 
-It was *< grateful >* to have something to do again.
+It was *\<grateful>* to have something to do again.
 
 ___
 
@@ -1057,7 +1057,7 @@ With a thought it jumped the entire Swarm-of-Swarms to a staging beacon well out
 
 The third thought rolled around every Hunter brain in the fleet, building and gaining fervor with every passing hungry second.
 
-*< Meat to the maw! >*
+*\<Meat to the maw!>*
 ___
 
 **Date Point: 14y4d AV**    
@@ -1518,7 +1518,7 @@ ___
 
 ***0015***
 
-*< Satisfaction >*
+*\<Satisfaction>*
 
 So. The HEAT weren’t invincible after all. They took a lot of killing, in the form of a massive overpressure explosion, but they could *be* killed and there would be plenty more opportunities. There were plenty more traps.
 
@@ -1641,7 +1641,7 @@ The Agent responsible had put up some desultory Hierarchy-grade firewalls and ot
 
 After that...it was stalking a quarry that didn’t know it was being stalked, in a network the quarry would believe was secure, while the quarry was fixated on a distraction in matterspace.  A less wary and paranoid mind would have thought the hunt was easy.
 
-*Easy,* however, was the antithesis of *< Survive >.* Easy was the ultimate mistake, the fatal trap. The Entity *never* believed that things would go smoothly. There was too much at stake to relax or cut corners.
+*Easy,* however, was the antithesis of *\<Survive>.* Easy was the ultimate mistake, the fatal trap. The Entity *never* believed that things would go smoothly. There was too much at stake to relax or cut corners.
 
 It stalked, rather than swaggered. Skulked rather than rushing. It took its time. It checked and double-checked its progress. It covered its tracks. The process was slow going...But it was close.
 
@@ -1894,9 +1894,9 @@ ___
 
 Fifteen put up a hard fight. Harder than many, almost as hard as Six once had...but the Entity knew their tricks by now. When their guard was down, an Agent was a victim, and this one’s guard had been totally forgotten.
 
-His final memories flowed into the Entity’s continuity of experience in a rush: *< Awe;Disbelief;Fear >*, garnished with a final cold white stab---the religious terror of a man who’d come face to face with God only to learn that God was *angry.*
+His final memories flowed into the Entity’s continuity of experience in a rush: *\<Awe; Disbelief; Fear>*, garnished with a final cold white stab---the religious terror of a man who’d come face to face with God only to learn that God was *angry.*
 
-The Entity stripped his access codes from his shell and violated the command programs he’d built around himself, extended its feelers into the Dark Eye system. Probing, questing, searching for what it knew was there. When it found the puppet strings it wanted, it cut them and watched with a sense of *< Satisfaction >* as the last drones and biodrones collapsed.
+The Entity stripped his access codes from his shell and violated the command programs he’d built around himself, extended its feelers into the Dark Eye system. Probing, questing, searching for what it knew was there. When it found the puppet strings it wanted, it cut them and watched with a sense of *\<Satisfaction>* as the last drones and biodrones collapsed.
 
 If it could, it would have laughed to itself when Firth, perplexed at the sudden cessation of all hostilities, stalked up to one of the limp biodrones and kicked it. Confusion and frustration were written all over his body language. It sent a thread of its own making out into the facility’s systems.
 
@@ -1940,7 +1940,7 @@ Adam frowned. It wasn’t like Costello to be cryptic. “What’s that mean, si
 
 Costello just nodded toward something behind Adam’s shoulder. Adam turned---there was a wall screen behind him. It was cracked and had a smear of Gaoian blood across it from where he vaguely recalled hurling a biodrone head-first into the wall hard enough to burst its hardsuit, but behind the fractured glass was something so totally anachronistic that it took a second for him to process what he was looking at.
 
-*< :-) >*
+*\< :-) >*
 ___
 
 **Date Point: 14y4d AV**    
@@ -2245,37 +2245,37 @@ ___
 
 “...Powell told me about you.”
 
-*< :-( >*
+*\< :-( >*
 
 “Can’t you speak?”
 
-*< NotEasy;AlienForeignWrong >*
+*\<NotEasy; AlienForeignWrong>*
 
 “You? Or speaking?”
 
 There was a moment’s hesitation before the next message appeared on the screen Adam was addressing.
 
-*< Yes >*
+*\<Yes>*
 
 Adam almost snorted a laugh. “...Right. Well...thank you. A lot of lives got saved.”
 
-*< :-) / <3 >*
+*\< :-) / <3 >*
 
 That sobered him.
 
 “There’s...really some Ava in there?”
 
-*< Yes >*
+*\<Yes>*
 
 “How...how much?”
 
 There was a much, much longer pause before finally, to Adam’s enormous surprise, a complete and coherent paragraph wrote itself on the screen.
 
-*< It’s complicated. I’m not alive: this entity killed me. What you’re reading now is the entity inputting the thought it wants to communicate into my memories, which interpret that thought. Yes, it’s ghoulish and probably disturbing. I’m sorry. Just remember that you’re not actually speaking to Ava---the real Ava is back on Cimbrean. I’m just a ghost, or echo. >*
+*\<It’s complicated. I’m not alive: this entity killed me. What you’re reading now is the entity inputting the thought it wants to communicate into my memories, which interpret that thought. Yes, it’s ghoulish and probably disturbing. I’m sorry. Just remember that you’re not actually speaking to Ava---the real Ava is back on Cimbrean. I’m just a ghost, or echo.>*
 
 “It...you...have her memories?”
 
-*< Mine and several others. But the rest are Igraens. It...for lack of a better word, it likes me more. >*
+*\< Mine and several others. But the rest are Igraens. It...for lack of a better word, it likes me more.>*
 
 The screen changed and an image formed. Adam looked away---The Entity had picked a moment when Ava had been examining herself in the mirror to form its image of her, and was apparently either ignorant or uncaring of the fact that she’d been fresh out of the shower at the time and wasn’t even wearing a towel. God only knew what other cues it was probably missing.
 
@@ -2283,19 +2283,19 @@ The screen changed and an image formed. Adam looked away---The Entity had picked
 
 The image vanished.
 
-*< It’s sorry. Some of my memories confuse it. It used that memory because it was a happy one, and it likes happiness. Unfortunately, most of my happy memories are like that. You, me and Sara on the beach, for example. >*
+*\<It’s sorry. Some of my memories confuse it. It used that memory because it was a happy one, and it likes happiness. Unfortunately, most of my happy memories are like that. You, me and Sara on the beach, for example.>*
 
 “You seem pretty calm about this…” Adam ventured.
 
-*< I told you, I’m not Ava. I’m just her memories, translating its meaning for your benefit. You’re speaking to the Entity through me, and it has very little control over what I say. >*
+*\<I told you, I’m not Ava. I’m just her memories, translating its meaning for your benefit. You’re speaking to the Entity through me, and it has very little control over what I say.>*
 
 “You keep saying *‘me’* and *‘I’* though, and calling it *‘it’*.”
 
-*< Yes. Adam, there’s enough of me here to behave like myself, but I’m not really real. If I was I would be screaming in horror right now but I’m just memories and however much of my...her...personality it decided not to delete. >*
+*\<Yes. Adam, there’s enough of me here to behave like myself, but I’m not really real. If I was I would be screaming in horror right now but I’m just memories and however much of my...her...personality it decided not to delete.>*
 
 “That’s...fuck, that’s horrible.”
 
-*< You just made it feel very sad. It wants you to know that it doesn’t want to be horrible, it just wants to survive. If it’s any consolation, I would have gone insane pretty quickly if it hadn’t assimilated me. It hopes that it spared me some suffering. >*
+*\<You just made it feel very sad. It wants you to know that it doesn’t want to be horrible, it just wants to survive. If it’s any consolation, I would have gone insane pretty quickly if it hadn’t assimilated me. It hopes that it spared me some suffering.>*
 
 Adam cringed internally and tried not to let it show. As strained as his relationship with Ava might be at times, he still cared deeply for her. This whole situation was sickening, but to think about a version of her being *euthanized* in cyberspace, alone and afraid and impossible to rescue, that was…
 
@@ -2303,25 +2303,25 @@ He didn’t want to deal with it. He was going to have a *long* talk with the co
 
 “...If all it wants is to survive, why help us?” he asked, veering away from the subject of Ava’s digital double’s horrific fate. “It must be taking some big risks by fighting Big Hotel.”
 
-*< Purpose is a vital component of survival - you have to have a reason to live, otherwise you’re just...existing. It thinks you probably know that. I KNOW you do. >*
+*\<Purpose is a vital component of survival - you have to have a reason to live, otherwise you’re just...existing. It thinks you probably know that. I KNOW you do.>*
 
 It was completely right, there.
 
 “It learned that one from you?”
 
-*< Yes >*
+*\<Yes>*
 
 “...Well...Thank you. Again. You saved a lot of lives today.”
 
-*< Never enough. >*
+*\<Never enough.>*
 
 That actually put a smile on Adam’s face. “No,” he agreed. “Never. But better than nothing.”
 
-*< Give Ava a hug for me. You don’t have to tell her who it’s from. >*
+*\<Give Ava a hug for me. You don’t have to tell her who it’s from.>*
 
 “...I’ll do that.”
 
-*< Thank you. ...I miss hugs. >*
+*\<Thank you. ...I miss hugs.>*
 
 The screen faded and Adam got the distinct sense that the conversation was over, on a note that left him completely off-balance.
 
@@ -2401,7 +2401,7 @@ It would---
 
 There was a millisecond anomaly on the sensors. Wormholes, *thousands* of them, opening all around it….And the Alpha-of-Alphas was reintroduced to the bite of something it had managed to forget.
 
-***< PAIN! >***
+***\<PAIN! >***
 ___
 
 **Date Point 14y4d AV**    
