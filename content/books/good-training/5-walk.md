@@ -1,9 +1,10 @@
 ---
-title: "Chapter 5: Walk"
+title: "Walk"
 weight: 9
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
+chapter: 1.5
 ---
 
 **11y, 4m AV**  

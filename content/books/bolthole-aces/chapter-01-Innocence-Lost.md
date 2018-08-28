@@ -1,9 +1,9 @@
 ---
-title: "Chapter 01: Innocence Lost"
+title: "Innocence Lost"
 date: 2018-06-17
 lastmod: 2018-06-17
 author: "P.A.B.Arianis (paladin3712x)"  
-
+chapter: 1
 ---
 
 **13 years, 10 months, 3 weeks AV**  
@@ -76,7 +76,7 @@ _“And what of our western_ friends?”
 
 _“What about this Byron fellow? You mentioned him as a possible option in your last report.”_ Zhao thought a moment about the American Mogul.  
 
-“My contacts groundside were making progress in that front, however there are rumors that something’s scared Byron pretty bad. We don't have any idea what it might have been, but whatever it was, I doubt that he’ll be selling any of his most recent advances soon.” 
+“My contacts groundside were making progress in that front, however there are rumors that something’s scared Byron pretty bad. We don't have any idea what it might have been, but whatever it was, I doubt that he’ll be selling any of his most recent advances soon.”
 “Even to the Americans?”  
 
 “Maybe to them, but of that even I’m not certain. My sources say he’s pretty spooked.”  
@@ -342,7 +342,7 @@ Enivieri passed through the info centers again, still communicating their confus
 
 Five rotations… yeah. Enivieri thanked the vendor of her first stop and initiated the transfer of credits. Money was going to get a little tight too. She continued to pull the puzzle over in her mind. It just didn’t fit. Why were the Gaoians fighting the Humans. Sure, it was possible that the Humans could have betrayed them and initiated the attack, and sure, of all the current Dominion species, the Gaoians seemed to be the most hearty and most capable of meeting the Humans in a fight. With the Alliance and Dominion war on hold, it certainly explained how the scrappers were freed up and hungry for something risky, but all of the ships that the Gaoians had committed to the war were still stationed out with those forces to ensure the enforced peace. At least she thought they still were based on the chatter from those crew lucky enough to rotate back through the Cauldron’s Cradle on leave. Were the Humans so mercurial as to attempt a strike while the Gaoians were undefended? She’d seen enough of human myth to believe them capable, but try as she might, she just couldn’t envision Pooja doing something so two-faced. But was her daughter the exception, or the norm? Might Pooja one day turn on her?  
 
-She twitched her legs and forcibly ended that thought. Pooja was her _daughter._ Never. Whether the Humans were or were not capable of such treachery, that was a matter for the future. Maybe there was something else at work here, but spending any more time on it was pointless. She had a client, the client offered more money, Enivieri had to deliver. 
+She twitched her legs and forcibly ended that thought. Pooja was her _daughter._ Never. Whether the Humans were or were not capable of such treachery, that was a matter for the future. Maybe there was something else at work here, but spending any more time on it was pointless. She had a client, the client offered more money, Enivieri had to deliver.
 As she concluded her business and turned down the corridor that would lead her back to her shuttle, she passed by an old alcove. Enivieri’s eyes darted to look down it wistfully but she kept moving. The crevasse never failed to bring back the memories though. Memories of terror and the Hunter’s Ultimatum. She pushed the memories aside and continued to the shuttle with her small hover-pallet of goods in tow.  
 
 The memories did return though, as she brought the shuttle out of the forcefield and into space. She thought of what it had been like to move into that first hull together. They’d had to leave just about everything behind and didn’t know even if Enivieri would return to claim it. Their hull had boasted only a single cargo bay worth of oxygen with three crude emergency portable air recyclers. The cockpit had been almost entirely blown off and would require the most work of any of it. But they’d done it. They’d made it their new home, bit by bit. Selling her baby, the very first Mark 1, had been tough though. If it hadn’t have been such a clean deal she might not have been so fast to part with the ship that had saved them. The deal had been a direct, straight up contract with Clan One-Fang that gave her the funds to purchase her next two hulls. Putting that ship to work on trash heaps wasn’t glamorous, but it was a job to which it had been well designed.  
@@ -403,7 +403,7 @@ Well, if he was going to lead, at least for now, he’d better act the part. He 
 >
 >Sūn Long is now helping with the fields. I think that we will be able to complete the harvest in time this season. Long complains greatly at the added work, but Sheng seems to feel that it is his duty, or some strange thing like that, to have his son pick up what you could not complete. ~~I do not~~ I am not angry that you chose to leave. I know that in your heart you were never happy here; would never have been happy here. Still, it is hard. I know that I do not carry the same opinion of military service that Sūn Sheng does, but it has taken you from me as I always feared that it could. You chose to go, and that is better than what I feared, but you are still gone.  I have thought much on duty these past days. I’ve even tried to meditate, as your mother once did. It has been so long my son, I struggle to remember how. I have begun praying again. I pray for your safe return.  
 >
->Sheng’s daughter Bai has been by as well. Sometimes she arrives with Long in the morning to help with preparing first meal. She asks about you as well. Perhaps I should speak with Sheng on your behalf. She seems of good heart, and her cooking is agreeable. I think you might like to have someone else who would be better at writing you than just myself. Perhaps this is what her father wishes as well, he always was a bit too in awe of the People’s Army. 
+>Sheng’s daughter Bai has been by as well. Sometimes she arrives with Long in the morning to help with preparing first meal. She asks about you as well. Perhaps I should speak with Sheng on your behalf. She seems of good heart, and her cooking is agreeable. I think you might like to have someone else who would be better at writing you than just myself. Perhaps this is what her father wishes as well, he always was a bit too in awe of the People’s Army.
 I am sure you are quite busy and I will not keep you with more worries of an old man. Be smart as time has taught you, steady as I have tried to teach you, and faithful as your mother once taught you. I shall try to be these things as well. I also pray that you will find the world you seek, and that you will never forget the roots you planted.  
 >
 >Your Father
@@ -515,7 +515,7 @@ Goruu paused mid step and turned to face her. For the first time since engineeri
 
 Faced with such sudden conviction, Amyni felt her own sense of duty stirred and could only duck-nod in response.  
 
-“Good. Let’s go.” 
+“Good. Let’s go.”
 
 ---
 
@@ -618,7 +618,7 @@ Goruu was less excited. “Great, I’ll strategy them to death. Can you give me
 “Eh, they’re not all that bad.”  
 
  A few moments later and the holo image flickered over to a forward projection emanating from the nose of their ship.  
- 
+
 “Much better! Now,” He saw that the destroyer, which at one time may have been a ways off, was gaining speed on them rapidly and coming in on a heading that would bring its forward mounted, and therefore most powerful, coilguns within range on their ship very soon. “Where do we go?”  
 
 “Well, you wanted to get back into the fight.” Amyni’s tone indicated that she didn’t think highly of this choice. “We could go to Gao, or back to Gorai.”  
@@ -675,7 +675,7 @@ What remained of the destroyer spiraled out and away from them as the initial en
 
 “Well, humans have this really strange custom with new ships, I guess that will have to count.” The image of the destroyer’s engines busted and shattered along with the spray of atmosphere jetting from its nose as it spun did seem a bit like this champagne he’d heard about.  
 
-Goruu pushed down the mounting worry that perhaps the other crew had not been implanted, that he’d just doomed many of his actual Brothers to a very unpleasant death. If they were still Gaoian, they’d take to the life-pods, if not? He remembered the look in Curraj’s eyes and he stopped caring. 
+Goruu pushed down the mounting worry that perhaps the other crew had not been implanted, that he’d just doomed many of his actual Brothers to a very unpleasant death. If they were still Gaoian, they’d take to the life-pods, if not? He remembered the look in Curraj’s eyes and he stopped caring.
 
 The _Clawbreaker_ lept into warp with all the fluid lethality of an assassin's dagger.  
 
@@ -699,7 +699,7 @@ It concluded its biologic need and stepped out of the compartment. The ship wasn
 
 Seven-Three-Four also used the time to review the rest of the ship’s layout, the delivery schedule, and the recorded strength of the ships keeping station outside. Finally, as it stepped its host onto the tiny bridge, it moved directly to the primary ship control station. Unsurprisingly, all function was currently routed through the single station, why waste resources with multiple biodrones working both bridge stations when one would do? The Gaoian drone who was in the station paid him no mind, clearly following orders to worry only about things external to the ship. And, at the moment, he was. The readouts were focused on the ongoing battle between a Comet class Destroyer and one of the new Eclipse class cruisers. So that must have been where those vermin had gone. For just a moment, Seven-Three-Four considered tapping into the weapon systems of a few of the other Eclipses, slaving them to the tender somehow, and blowing that rogue Cruiser out of space.  
 
-But that impulse passed quickly and Seven-Three-Four chose, instead, the less risky approach. Destroying the three pests now would certainly be cathartic, but it would do little to further its directive of securing supplies and bodies for droning.  A new opportunity would present itself soon. Seven-Three-Four took note of the system to which the fleeing Eclipse Cruiser jumped, following it’s rather spectacular exit, and settled in to wait. 
+But that impulse passed quickly and Seven-Three-Four chose, instead, the less risky approach. Destroying the three pests now would certainly be cathartic, but it would do little to further its directive of securing supplies and bodies for droning.  A new opportunity would present itself soon. Seven-Three-Four took note of the system to which the fleeing Eclipse Cruiser jumped, following it’s rather spectacular exit, and settled in to wait.
 
 ---
 
@@ -730,7 +730,7 @@ There was the opening. Someone else had made a mistake as well and the instructo
 
 Finally they all looked at each other. There’d be no post-op relaxation tonight for anyone, just five cadets jammed into one small common room trying very hard not to miss even one little error. Yay… wing bonding with the people who hated him.  
 
-“Dismissed!” 
+“Dismissed!”
 
 ---
 

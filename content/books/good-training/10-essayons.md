@@ -1,9 +1,10 @@
 ---
-title: "Chapter 10: Essayons"
+title: "Essayons"
 weight: 4
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
+chapter: 10
 ---
 
 **That evening**  

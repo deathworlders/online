@@ -1,9 +1,10 @@
 ---
-title: "Chapter 13: Adventure Time"
+title: "Adventure Time"
 weight: 1
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
+chapter: 13
 ---
 
 # Adventure Time

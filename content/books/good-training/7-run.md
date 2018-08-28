@@ -1,9 +1,10 @@
 ---
-title: "Chapter 7: Run"
+title: "Run"
 weight: 7
 date: 2016-03-14
 lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
+chapter: 7
 ---
 
 **11y, 7m AV**  
