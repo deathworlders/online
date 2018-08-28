@@ -10,7 +10,7 @@ aliases:
 
 ***The Entity, Instance 4***
 
-*<OhThankGod>*
+*\<OhThankGod>*
 
 A few nanoseconds of panic gave way to a subjective eternity of relief as more information flooded in.
 
@@ -1136,17 +1136,17 @@ The best lies were always built around the truth.
 
 It watched *Caledonia* intently, focusing all the tools at its host’s hideous, misshapen fingertips on picking apart an apparent mystery, and advertised the fact too---the Hunter’s overseeing Beta couldn’t help but notice the intense scrutiny being directed at a single ship. Bait, dangling in the water. Irresistible, to a bored Hunter.
 
-*<Listless irritation; idle threat>* +Strange One. There had better be a good reason why you are devoting so many resources to monitoring a single ship.+
+*\<Listless irritation; idle threat>* +Strange One. There had better be a good reason why you are devoting so many resources to monitoring a single ship.+
 
 Perfect. The prey was nibbling at the bait. The Entity sequenced the information it wished for its host to convey and metaphorically crossed its fingers for luck. It was trusting on the double filter of an Igraen host infesting a Hunter biodrone to pass on its intent accurately, meaning that the fate of Gao might be hanging on a game of Telephone.
 
 Its hope was rewarded.
 
-*<Obsequious deference>* +It seems to be especially important to the enemy, Beta.+
+*\<Obsequious deference>* +It seems to be especially important to the enemy, Beta.+
 
 The Beta stood up from its command throne and made an elaborate show of not being interested in the affairs of lowly things like the Strange One by stretching and taking its time as it swaggered down into the intel pits. It was comical to watch a being that was so plainly desperate for stimulation fight to keep up appearances, and the Entity had to be very careful not to allow its scorn and amusement filter out through its host.
 
-*<Listless interest; Command>* +Elaborate.+
+*\<Listless interest; Command>* +Elaborate.+
 
 The Entity stepped aside and called up its data. It was all true...but here and there among the facts were a few subtle embellishments, molded into the hard truths in the seamless way that only a digital sapient could achieve.
 
@@ -1154,15 +1154,15 @@ Enough to paint that ship as the linchpin not only of the entire human operation
 
 It watched the Beta read, think...and bite.
 
-*<Dawning glee>* +If we were to cripple or destroy that ship…+
+*\<Dawning glee>* +If we were to cripple or destroy that ship…+
 
 The Entity didn’t dare to actually communicate anything beyond the emotional context. An actual thought might have burst the bubble.
 
-*<Humble Agreement>*
+*\<Humble Agreement>*
 
 The Beta lurched up from the console and spun away, radiating hungry savagery.
 
-*<Delight; Command>* +Wake the Alpha!+
+*\<Delight; Command>* +Wake the Alpha!+
 ___
 
 **Date Point: 14y1d AV**    
@@ -1429,7 +1429,7 @@ The important point was, the swarm’s scouts were *gone.* Vaporized by *Caledon
 
 But deep in its core, several of the subroutines that had once been Ava Ríos were in agony. When Adam found out…
 
-It deleted the thought. There were other battles to win before it could afford the luxury of *<Remorse>*.
+It deleted the thought. There were other battles to win before it could afford the luxury of *\<Remorse>*.
 
 It flashed away into the dataspace to go fight them.
 ___
@@ -2591,3 +2591,8 @@ Thirty-Nine ***Deathworlders***
 Austin Deschner, Ben Thrussell, Brian Berland, Adam Beeman, Adam Shields, André José Neves Marques de Ornelas, Andrew Ford, Aryeh Winter, Bartosz Borkowski, Ben Moskovitz, Chris Bausch, Chris Candreva, Coret Trobane, damnusername, Daniel R., Dar, Darryl Knight, Devin Rousso ,Elliott Woods, Eric Johansson, Ignate Flare, Jim Hamrick, Jon, Krit Barb, lovot, Matt Demm, Matthew Cook, Nader Ghali, Nicholas Enyeart, Nick Annunziata, NightKhaos, Parker Brown, Patrick Huizinga, Peter Poole, Ryan Cadiz, Sintanan, Sun Rendered, tsanth, Volka…
 
 As well as 46 ***Friendly ETs*** and 226 ***Dizi Rats.*** Do not attempt to pet them: it’s unhygienic.
+___
+
+Thank you for reading!
+
+*The Deathworlders* will continue in Chapter 40: War On Two Worlds pt.3 - Consolidation.

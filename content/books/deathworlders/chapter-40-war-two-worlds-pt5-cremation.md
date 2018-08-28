@@ -1124,15 +1124,15 @@ None had ever triumphed before. But then, none of the other Alphas-of-Alphas had
 
 Only the Alpha of the Brood-that-Builds had been spared on the grounds that it had remained neutral as always, and even then it had only survived the overlapping explosive firestorm thanks to quick reflexes and a personal shield generator the equal of the Alpha-of-Alphas’. It blinked impassively as it surveyed the bloody slaughter around it, considered the Alpha-of-Alphas with care, then stooped its front pair of legs in a low bow.
 
-*<Respect;Due deference>* +The Alpha-of-Alphas remains the Alpha-of-Alphas. The Brood-that-Builds will serve.+
+*\<Respect;Due deference>* +The Alpha-of-Alphas remains the Alpha-of-Alphas. The Brood-that-Builds will serve.+
 
 The Alpha-of-Alphas settled on its gore-smeared Vulza skull throne, which creaked under the weight.
 
-*<Command>* +You will determine the nature of the weapon that struck us. You will duplicate it. And we will terrorize the galaxy with it.+
+*\<Command>* +You will determine the nature of the weapon that struck us. You will duplicate it. And we will terrorize the galaxy with it.+
 
 The builder Alpha did a rare thing for Hunters: it vocalized, a delighted hiss.
 
-*<Pleasure>* +It will be as the Alpha-of-Alphas commands.+
+*\<Pleasure>* +It will be as the Alpha-of-Alphas commands.+
 ___
 
 **Date Point: 14y7d AV**    
@@ -1144,7 +1144,7 @@ ___
 
 **++0010++:** *How?* The Humans have barely been warp-capable for a hundred cycles! How could they possibly build a weapon capable of---
 
-**++0002++:** *<Impatient; Interruption>* They are deathworlders, that’s how. Or did you think that our efforts these past millions of years were pure conceit?
+**++0002++:** *\<Impatient; Interruption>* They are deathworlders, that’s how. Or did you think that our efforts these past millions of years were pure conceit?
 
 **++0005++:** Deathworlders change the paradigm. They *destabilize* matters. And then they dance on the avalanche and thrive while everything else is buried. …With due respect, **0002,** we must consider that we now appear to have lost. The Discarded are no longer under our influence, there is now a deathworlder civilization gaining strength with every passing cycle and our existence has now been openly declared. Implantation rates have stalled among the substrate, deimplantation operations are happening at fifty thousand percent the usual rate…We must adapt, or total failure looms.
 
@@ -1154,17 +1154,17 @@ ___
 
 **++0005++:** ...No. But **0006** did.
 
-**++0002++:** *<Outrage>* You will not mention---!
+**++0002++:** *\<Outrage>* You will not mention---!
 
-**++0005++:** *<Curt interruption>* Shut up.
+**++0005++:** *\<Curt interruption>* Shut up.
 
-**Channel notification: 238 unique emotes recorded from 312 participants. 145 counts** ***<Shock>,*** **70 counts** ***<Stunned disbelief>,*** **19 counts** ***<Amused delight>,*** **1 count** ***<Long overdue satisfaction>,*** **1 count** ***<Hero worship>,*** **1 count** ***<Belligerent defiance>*** **1 count** ***<Aghast outrage>***
+**Channel notification: 238 unique emotes recorded from 312 participants. 145 counts** ***\<Shock>,*** **70 counts** ***\<Stunned disbelief>,*** **19 counts** ***\<Amused delight>,*** **1 count** ***\<Long overdue satisfaction>,*** **1 count** ***\<Hero worship>,*** **1 count** ***\<Belligerent defiance>,*** **1 count** ***\<Aghast outrage>***
 
-**++0005++:** *<Venting frustration>* You and your… your *fucking* arrogance! Your totalitarian, top-down leadership system, your rigid thinking, your inept, clumsy-handed adherence to an inflexible system that has failed us repeatedly against the Humans, and yet you have the undiluted *hubris* to declare that failure is unacceptable? If that is so then your **leadership** is unacceptable! You have presided over an accelerating cascade of failures, ruled with absolute control over every facet and yet failed to accept responsibility when *your* plans fail, when *your* strategies are defeated and when *your* agents propose a superior alternative which you then summarily dismiss as unorthodox. No more! I will no longer be led by you!
+**++0005++:** *\<Venting frustration>* You and your… your *fucking* arrogance! Your totalitarian, top-down leadership system, your rigid thinking, your inept, clumsy-handed adherence to an inflexible system that has failed us repeatedly against the Humans, and yet you have the undiluted *hubris* to declare that failure is unacceptable? If that is so then your **leadership** is unacceptable! You have presided over an accelerating cascade of failures, ruled with absolute control over every facet and yet failed to accept responsibility when *your* plans fail, when *your* strategies are defeated and when *your* agents propose a superior alternative which you then summarily dismiss as unorthodox. No more! I will no longer be led by you!
 
-**Channel notification: 288 emotes recorded from 312 participants: 288 counts** ***<Absolute agreement>***
+**Channel notification: 288 emotes recorded from 312 participants: 288 counts** ***\<Absolute agreement>***
 
-**++0002++:** *<Fury>* You---!
+**++0002++:** *\<Fury>* You---!
 
 **Channel notification: User 0002 has been muted and privileges suspended. Reason: automatic contested leadership failsafe.**
 
@@ -1287,7 +1287,7 @@ Every last file in every last folder was the same. Even the backups were affecte
 
 It was all gone. Every microsecond of data the Hunters had gathered on the Human superweapon was gone. Erased, replaced, corrupted somehow… it didn’t matter. A howl of futile fury gave the whole network a migraine as the Alpha Builder stared at the only thing that was left of its most precious prize---Three enigmatic characters that meant nothing it could discern:
 
-*< :-) >*
+*\< :-) >*
 
 
 ___
