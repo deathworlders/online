@@ -400,7 +400,11 @@ In addition, the following direct steps have been taken:
 
 *This is a developing situation. We are aware of reports of other attacks all over the world, and will update this article as information becomes available.*
 
-*Stories related to this:* Obituary: Steven Lawrence
+*Stories related to this:*
+
+Obituary: Steven Lawrence    
+Who Are The Alien Protection Army?    
+Scotch Creek Protest Turns Violent
 
 ___
 
