@@ -1055,7 +1055,7 @@ God, and they were only on the starter course, too.
 
 Like a lot of people who were a little out of touch with technology, that thought seemed to surprise the Prime Minister. Gabe just nodded. “It’s called Dire-1. Unfortunately for us it’s pretty well designed: when the attacks were over and we captured their phones, the keys had all changed and the message histories were deleted. Forensics are going over it, but if they thought they could actually get anything they’d have been a lot more enthusiastic.”
 
-Sir Jeremy caught Gabe’s eye and and gave the subtlest of headshakes. *Wrong approach.*
+Sir Jeremy caught Gabe’s eye and gave the subtlest of headshakes. *Wrong approach.*
 
 “Still, surely you can find--” Neech began.
 
