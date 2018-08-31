@@ -4,7 +4,7 @@ date: 2018-08-31T14:00:00+01:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
-n**Date Point: 15y6m3w AV**    
+**Date Point: 15y6m3w AV**    
 **Folctha, Cimbrean, The Far Reaches**
 
 ***Allison Buehler***
