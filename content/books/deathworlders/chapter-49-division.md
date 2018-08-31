@@ -3087,25 +3087,25 @@ In this case, cryogenic pumping technology, and the sophisticated thermal manage
 
 The Endless Thirst Alpha showed a very un-Eater-like interest in the new project. It even studied the blueprints, an activity that most Eaters would have found to be a waste of time. Possibly it was attempting to earn favor with the new Alpha-of-Alphas, but that didn’t matter. The intelligence to remain informed of its superior’s projects was valuable.
 
-\+ *\<Pride>* Does the Alpha of the Endless Thirst approve?+
+*\<Pride>* +Does the Alpha of the Endless Thirst approve?+
 
 The Alpha broadcast that it did.
 
-\+ *\<Respect>* I see limitless potential.+
+*\<Respect>* +I see limitless potential.+
 
-\+ *\<Pleased>* Good. Perhaps your Brood will be among the first to receive one of these.+
+*\<Pleased>* +Good. Perhaps your Brood will be among the first to receive one of these.+
 
-\+ *\<Flattery>* The Alpha-of-Alphas is generous.+
+*\<Flattery>* +The Alpha-of-Alphas is generous.+
 
 While the Endless Thirst Brood gorged themselves on their reward of live Kwmbwrw slaves, the Alpha-of-Alphas oversaw the installation of the thermal systems, and updated the ship’s blueprints with the new design.
 
-\+ *\<Demand>* I require an assessment: is it ready for flight trials?+
+*\<Demand>* +I require an assessment: is it ready for flight trials?+
 
 One-by-one, the teams of Builders working on the project confirmed that it was.
 
 The last report, however, was confusing and came from an unregistered agent in the system.
 
-\+ *\<Smug>* Yoink!+
+*\<Smug>* +Yoink!+
 
 ***...What*** did “Yoink” mean? Alarm signals filled the network as the firewalls and intrusion countermeasures detected an attack of bewildering complexity and power. Though the Builders reacted swiftly, they couldn’t react swiftly enough: every defence they’d built was clawed aside, gnawed through or simply ignored. In heartbeats, the whole system was locked down, every user locked out. Not even the Alpha-of-Alpha’s top-level codes worked.
 
