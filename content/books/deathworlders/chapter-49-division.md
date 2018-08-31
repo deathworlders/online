@@ -121,7 +121,7 @@ Allison nodded. That had been itching at the back of her mind. “Thanks.”
 
 Not liking the sound of that, but glad to at least get moving in the right direction, Allison backed out of the door and held it open for Xiù. “What problem?”
 
-*“I’ve had a call from the police,” Willard explained. *“They want to discuss the attack… they say you killed a man?”*
+*“I’ve had a call from the police,”* Willard explained. *“They want to discuss the attack… they say you killed a man?”*
 
 “He was trying to stab Xiù.”
 
