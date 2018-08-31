@@ -1401,7 +1401,7 @@ Sam sat down, adjusted the seat to his preferred position, put on his seatbelt a
 
 Dog called up the ship’s log on the tablet and logged the transfer. Another drumbeat in the slow rhythm of the day. “Okay. See you in two hour—” he began.
 
-The alarm went off only a shaved second before the whole deck lurched violently and MOSTIMF’s superstructure made a cetacean groan. Dog staggered three paces across the bridge before losing his balance and landing heavily on his back.
+The alarm went off only a shaved second before the whole deck lurched violently and MOSITMF’s superstructure made a cetacean groan. Dog staggered three paces across the bridge before losing his balance and landing heavily on his back.
 
 “Gravity spike!” Sam slapped the autopilot and heaved hard left on the controls. The stars outside wheeled.
 
