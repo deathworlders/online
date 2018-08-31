@@ -113,7 +113,7 @@ She heard what sounded like a relieved exhalation. *“Good to hear from you. We
 
 “Hopefully they’re gonna discharge her any minute now. We’re hoping to go home.”
 
-*“I’ll send a car. I’ve got a team watching your house and another at the school looking after your brothers. Your parents are both unharmed and, uh… declined any protection.”
+*“I’ll send a car. I’ve got a team watching your house and another at the school looking after your brothers. Your parents are both unharmed and, uh… declined any protection.”*
 
 Allison nodded. That had been itching at the back of her mind. “Thanks.”
 
