@@ -2281,7 +2281,7 @@ Julian rested his forearm on top his forehead and groaned in reply.
 
 “Aww, don’t be a big baby! It’ll be fine, I promise. Have I let you down yet?” Adam helped Julian up to a sitting position, then hoisted him up to a bench; he was still light-headed.
 
-*“Ungh*…no, I guess…wait, is *this* how you fellas train?”
+*“Ungh* …no, I guess…wait, is *this* how you fellas train?”
 
 “Yup! Well, the Crude is a big part of it, sure. And if you do it long enough you can train *way* harder. We’re not gonna do that, this is strictly rehab and some opportunistic body hardening. I mean…” He have Julian a calculating look. “Unless you wanna get bigger?”
 
@@ -2895,7 +2895,7 @@ It turned out to be excellent.
 
 ___
 
-*Date Point: 15y7m1d AV**    
+**Date Point: 15y7m1d AV**    
 **High Mountain Fortress**
 
 ***Daar, Great Father of the Gao***
