@@ -61,7 +61,7 @@ Xiù squeezed her hand a little tighter.  The nurse probably didn’t speak a wo
 
 “...You still love me, right?”
 
-Xiù squeezed her tighter. “Of *course* I do!”
+Xiù squeezed her tighter. “Of *course* I do, dummy!”
 
 “Just… the way you looked at me… and…”
 
