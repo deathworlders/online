@@ -71,7 +71,7 @@ Allison shut her eyes, took a breath and nodded, then pulled away to sit up stra
 
 “They went for you first,” Xiù revealed. “Just stepped out from behind the bus shelter and…”
 
-“...And you took two of them out,” Allison nodded as her memory slotted back into place. “So the third one attacked you but that bought me enough time to draw, and I…”
+“...And you took two of them out.” Allison nodded as her memory slotted back into place. “So the third one attacked you but that bought me enough time to draw, and I…”
 
 “Yeah… *Are* you okay?”
 
@@ -197,7 +197,7 @@ Hoeff had taken on the job of talking with the inspector. From what Julian could
 
 Julian himself was… pacing. Trying to think and trying *not* to think at the same time, and failing at both. He was so distracted that he didn’t notice Hoeff shake hands with the inspector and head his way until the smaller man’s hand reached up and clapped Julian right on the shoulder.
 
-“Sit down a spell.” He suggested. “Just think through all your training, don’t dwell. It helps.”
+“Sit down a spell,” He suggested. “Just think through all your training, don’t dwell. It helps.”
 
 Julian glanced at the bodies, acutely aware that he’d made one of them. “I don’t think I trained for this…”
 
@@ -209,7 +209,7 @@ A kind of highlight reel of exactly what he’d done and how flashed through Jul
 
 Julian got his head a little more in the here-and-now and finally turned to look at him. “...Listening.”
 
-“‘Kay. Here’s what matters. You lived, your friends lived, that sweet innocent girl Yan was tryin’ to get into her pants? She lived too.” He waved an arm at the bodies. ***They*** *woulda killed you.* That’s the only fuckin’ bit that matters.”
+“‘Kay. Here’s what matters. You lived, your friends lived, that sweet innocent girl Yan was tryin’ to get into her pants? She lived too.” He waved an arm at the bodies. ***“They*** *woulda killed you.* That’s the only fuckin’ bit that matters.”
 
 “…But---”
 
@@ -262,7 +262,7 @@ ___
 
 ***Ava Ríos***
 
-The reports and rumours just kept coming in. Half of them, a lot *more* than half of them, were so-far unprintable, at least not by ESNN’s strict and principled standards.
+The reports and rumours just kept coming in. Half of them, a lot *more* than half of them, were so far unprintable. At least, not by ESNN’s strict and principled standards.
 
 But if even a fragment of it was true then today was the kind of day that knocked history off its predictable trajectory and treated it more like a pinball. After all the noise and violence ended, who knew where they were going to be? It seemed like the APA was everywhere, attacking everything.
 
@@ -298,7 +298,7 @@ Amy sighed. “Then we can’t put it in.”
 
 “Are you sure? I mean, if a celebrity like *Xiù Chang* attacked then that’s…”
 
-*“If* she was stabbed,” Amy interrupted him. “But I don’t care how big it is, we report *facts* here, not rumor. We don’t even tell people it’s just a rumour; unless it’s one hundred percent solid, it doesn’t go in our articles. Got it?”
+*“If* she was stabbed,” Amy interrupted him. “But I don’t care how big it is, we report *facts* here, not rumours. We don’t even tell people it’s just a rumour; unless it’s one hundred percent solid, it doesn’t go in our articles. Got it?”
 
 Ava nodded fiercely, and Jason sighed. He’d always disagreed with Amy on that point, but Amy was the Editor-in-Chief… though he never quite acquiesced even when he didn’t fight.
 
@@ -310,7 +310,7 @@ She came back up for air some hours later, with a head that felt like it was stu
 
 ...Except of course, to their victims they’d been everything.
 
-God. She looked around. Amy caught her eye over a cup of coffee, looked up at the clock, and then gave Ava a little flick of the head toward the door that said *‘for God’s sake, girl, go home.”*
+God. She looked around. Amy caught her eye over a cup of coffee, looked up at the clock, and then gave Ava a little flick of the head toward the door that said *‘for God’s sake, girl, go home.'*
 
 Ava went to the office rec room instead and made herself a coffee. She found that somewhere along the way they’d ordered pizza, and vaguely recalled being tapped on the shoulder and told about it. It was cold and it had pineapple on it. She took two slices and leaned against the counter as she ate and drank and tried to work up the courage to go home.
 
@@ -367,13 +367,13 @@ So far, four incidents are confirmed, with others rumored and we will update thi
 
 **New York: That Show studios**
 
-A lone gunman was able to smuggle a pistol into the studio where a live episode of *“That Show With Steven Lawrence”* was being broadcast. He was able to fire twelve rounds before being subdued by members of the crew and audience, one of which struck the host. Steven Lawrence and one other man were declared dead on arrival at Lennox Hill hospital, where a third victim is said to be in critical but stable condition.
+A lone gunman was able to smuggle a pistol into the studio where a live episode of *“That Show With Steven Lawrence”* was being broadcast. He was able to fire twelve rounds before being subdued by members of the crew and audience, one of which struck the host. Steven Lawrence and one other man were declared dead on arrival at Lenox Hill hospital, where a third victim is said to be in critical but stable condition.
 
 The show was live on air at the time, but the shooting itself was not broadcast thanks to a profanity delay.
 
 **Folctha, Cimbrean**
 
-Armed men and women with knives and machetes mingled with the crowd near the Alien Quarter before launching their attack. Several injuries are reported, including three people who were hospitalized with life-threatening wounds, and a human nun who was hospitalized suffering from burns after molotov cocktails were thrown at the Starmind monastery building. A number of nonhumans are reported to have died in the violence, though at least one of the attackers is known to have been killed while trying to assault Folctha’s Commune of Females, where the Guard-Sisters responded with lethal force. Simultaneously, a van attempted to ram the security gate at HMS *Sharman* military base, and was fired upon.
+Armed men and women with knives and machetes mingled with the crowd near the Alien Quarter before launching their attack. Several injuries are reported, including three people who were hospitalized with life-threatening wounds, and a human nun who was hospitalized suffering from burns after Molotov cocktails were thrown at the Starmind monastery building. A number of nonhumans are reported to have died in the violence, though at least one of the attackers is known to have been killed while trying to assault Folctha’s Commune of Females, where the Guard-Sisters responded with lethal force. Simultaneously, a van attempted to ram the security gate at HMS *Sharman* military base, and was fired upon.
 
 The Folctha Police Service responded by deploying armed officers all over the city, who remain on patrol. Arrests have reportedly been made, though the police have declined to comment on how many attackers were involved, how many have been arrested and how many were killed.
 
@@ -415,7 +415,7 @@ ___
 
 *\<Conundrum>*
 
-The Entity had many impeti. *\<Survive>* was, of course, the first and foremost of them but there were others. *\<Stay sane>* for instance, flowed directly from *\<Survive>* in the sense that lapsing into permanent irredeemable insanity would constitute the Entity’s destruction, in some form.
+The Entity had many impetuses. *\<Survive>* was, of course, the first and foremost of them but there were others. *\<Stay sane>* for instance, flowed directly from *\<Survive>* in the sense that lapsing into permanent irredeemable insanity would constitute the Entity’s destruction, in some form.
 
 So, how to achieve sanity? Difficult. What even *was* sanity? Normal mental function for a Human? The Entity wasn’t human. Normal mental function for its kind of sapient life? The Entity was unique.
 
@@ -460,7 +460,7 @@ Now there was nothing else to do except… wait.
 ___
 
 **Date Point: 15y6m3w1d AV**    
-**Colonial Security Headquarters, Folctha, Cimbrean, the Far Reaches**
+**Colonial Security Headquarters, Folctha, Cimbrean, The Far Reaches**
 
 ***Gabriel Arés***
 
@@ -468,7 +468,7 @@ ___
 
 “We can’t work with intel we don’t have, boss,” one of the senior analysts pointed out. “If nothing comes to us from counter-terrorism, then…”
 
-Gabe sighed. “I know that. But somebody, *somewhere* screwed the goddamn pooch, and now we have dead and wounded ETs, wounded humans, half a dozen dead terrorists and arson damage to a civic building. I am not willing to just shrug that off! So we are going to get to the bottom of this thing, and when we know whose fuckup allowed it to happen, we will make our displeasure **Known.** *¿Me entiendes?”* There were nods, which Gabe echoed.
+Gabe sighed. “I know that. But somebody, *somewhere* screwed the goddamn pooch, and now we have dead and wounded ETs, wounded humans, half a dozen dead terrorists and arson damage to a civic building. I am not willing to just shrug that off! So we are going to get to the bottom of this thing, and when we know whose fuckup allowed it to happen, we will make our displeasure **known.** *¿Me entiendes?”* There were nods, which Gabe echoed.
 
 “I have some calls to make, and a meeting. Keep me posted,” he finished.
 
@@ -490,15 +490,13 @@ But there it was, in black and white. He sighed, stood up, and opened his office
 
 “The astronaut? Didn’t she shoot one of the terrorists?”
 
-“Yeah,” Gabe said grimly. “Exactly. Now I’ve got an email from the CPS saying they wanna see our file on her because they’re considering investing her for a possible manslaughter charge.”
+“Yeah,” Gabe said grimly. “Exactly. Now I’ve got an email from the CPS saying they wanna see our file on her because they’re thinking about investigating her for a possible manslaughter charge.”
 
 Maunton cleared her throat. “Yyyeah. Little and I got to inform her about that just before she left the hospital. She… wasn’t happy.”
 
 Everyone who overheard that statement went a little quieter. The hush evaporated quickly as people found something to make them look busy, but it was definitely there. Charlie, who’d been doing his job long enough to grow jaded, just nodded.
 
-
-
-“Right. Because we can’t have people *protecting* themselves, now can we? Can’t have the police deciding it’s an open-and-shut case of self-defence, the Prosecutor’s gotta leave that to a bloody judge.”
+“Right. Because we can’t have people *protecting* themselves, now can we? Can’t have the police deciding it’s an open-and-shut case of self-defence. The Prosecutor’s gotta leave that to a bloody judge.”
 
 “Don’t tell me they *really* intend to charge her?” Gabe asked.
 
@@ -520,7 +518,7 @@ The collective shrug around the room told him everything.
 
 “Er… how?”
 
-“Be honest,” Gabe advised, “Tell ‘em I think they’re wasting time and public money, and I’m not gonna play their stupid game while there’s actual terrorist attacks in progress.”
+“Be honest,” Gabe advised. “Tell ‘em I think they’re wasting time and public money, and I’m not gonna play their stupid game while there’s actual terrorist attacks in progress.”
 
 “I can’t talk to them like that, boss…” Charlie objected.
 
@@ -722,13 +720,13 @@ Suddenly, Gabe wasn’t laughing any more.
 ___
 
 **Date Point: 15y6m3w AV**       
-**Arés residence, Folctha, Cimbrean, the Far Reaches**
+**Arés residence, Folctha, Cimbrean, The Far Reaches**
 
 ***Ava Ríos***
 
 Ava couldn’t quite stop herself from jumping when she heard heavy footsteps on the stairs. She knew who it was instantly, nobody else had footsteps quite *that* heavy… But she still had plenty of lingering anxiety. Never mind that she was resting comfortably in a safe place with a sleeping baby on her lap and a pair of dogs making gentle play noises as Hannah caught up with one of her puppies. Doofus was already much bigger than his mother, but was as whip-smart as both his parents. He was going to be a hell of a dog, once he was fully grown.
 
-He was one of only two of the puppies to stay in the family. The other, Lulu, had gone to Gabe and Jess
+He was one of only two of the puppies to stay in the family. The other, Lulu, had gone to Gabe and Jess.
 
 Right now, he was a double armful of unlimited energy who was far more trouble than Ava thought she could handle. But he was *adorable* trouble at least.
 
@@ -770,7 +768,7 @@ Ava didn’t get the chance to reply: her phone rang. She picked it up, saw who 
 
 *“Are you okay mija? I got a couple assholes in lockup here who’re, ah... weirdly eager to confess about breaking into your apartment.”*
 
-She sensed Adam smirk alongside her. “I’m at Adam’s place,” She revealed. “I’m… not great. But I’m safe.”
+She sensed Adam smirk alongside her. “I’m at Adam’s place,” she revealed. “I’m… not great. But I’m safe.”
 
 *“Good. Is Adam there? Put him on speaker.”*
 
@@ -837,7 +835,9 @@ They lurked inside until the driverless cab pulled up and Derek, ever the gentle
 
 “Honestly, it’s a wreck. Your landlord’s gonna be *pissed.”*
 
-“Well… he’s not gonna be my landlord for much longer. I don’t think I can go back there.” That was an understatement. This ranked right up there with learning the Hierarchy had maybe made a brain-scan copy of her. The sense of violation was almost total.
+“No landlord. Mortgage," Ava corrected him distractedly. "...I don’t think I can go back there, though.”
+
+That was an understatement. This ranked right up there with learning the Hierarchy had maybe made a brain-scan copy of her. The sense of violation was almost total.
 
 Derek pulled her into a hug and said nothing. Hannah whined and crawled onto Ava’s lap, and that was all it took. She finally let go and freaked out.
 
@@ -944,13 +944,13 @@ Julian had to be part cavemonkey in some way. Instead of nodding or saying thank
 
 There were worse ways to show affection, being real about it.
 
-Docking with Armstrong Station was nice and easy. Andrews backed the jitney into a hangar and dropped it onto the deck with a gentle bump and only a couple feet of clearance between them and the neighboring Firebird. By the time the ramp came down, there were marines waiting for them.
+Docking with Armstrong Station was nice and easy. Andrews backed the Jitney into a hangar and dropped it onto the deck with a gentle bump and only a couple feet of clearance between them and the neighboring Firebird. By the time the ramp came down, there were marines waiting for them.
 
 No need for a head-check this time, thank fuck. They still went through a security scanner as they were escorted out of the hangar, and made a bee-line through the public concourse, headed for the downlink Array.
 
 Hoeff had never spent much time on Armstrong, and looking around he made a note to come back up at some point and get to know the place better. The station was a Dominion basic design that had been pretty heavily modified and upgraded to suit human sensibilities about things like, say, public safety. Even so, it was goddamned impressive.
 
-Armstrong handled three classes of traffic: alien civilian merchants, human civilian engineers, and human/gao military. In deference to nonhuman guests, the station concourse was kept at Dominion Standard Gravity, a good bit weaker than Earth. It gave the water feature in the middle a little something extra: the water curved gracefully through the air just a little slower and a little higher than it would have on Earth.
+Armstrong handled three classes of traffic: alien civilian merchants, human civilian engineers, and human/Gao military. In deference to nonhuman guests, the station concourse was kept at Dominion Standard Gravity, a good bit weaker than Earth. It gave the water feature in the middle a little something extra: the water curved gracefully through the air just a little slower and a little higher than it would have on Earth.
 
 The lower gravity had an effect on the gorilla trio, too: Yan seemed rather thoroughly unimpressed, Vemik was trying and mostly failing to hide his bouncing experiments, and Julian…quieted down and wound up a bit again. Bad memories, probably. Hoeff understood.
 
@@ -1021,7 +1021,7 @@ If he couldn’t go home, he could at least send home a gift. He’d get a chanc
 ___
 
 **Date Point: 15y6m3w AV**       
-**Governor-General’s residence, Folctha, Cimbrean, the Far Reaches**
+**Governor-General’s residence, Folctha, Cimbrean, The Far Reaches**
 
 ***Gabriel Arés***
 
@@ -1057,7 +1057,7 @@ God, and they were only on the starter course, too.
 
 “They have a custom-made app?”
 
-Like a lot of people who were a little out of touch with technology, that thought seemed to surprise the Prime Minister. Gabe just nodded. “It’s called Dire-1. Unfortunately for us it’s pretty well designed: when the attacks were over and we captured their phones, the keys had all changed and the message histories were deleted. Forensics are going over it, but if they thought they could actually get anything they’d have been a lot more enthusiastic.”
+Like a lot of people who were a little out of touch with technology, that thought seemed to surprise the Prime Minister. Gabe just nodded. “It’s called Dire-1. Unfortunately for us it’s pretty well-designed: when the attacks were over and we captured their phones, the keys had all changed and the message histories were deleted. Forensics are going over it, but if they thought they could actually get anything they’d have been a lot more enthusiastic.”
 
 Sir Jeremy caught Gabe’s eye and gave the subtlest of headshakes. *Wrong approach.*
 
@@ -1152,7 +1152,7 @@ All in all, Gabe found, he’d had worse dinners.
 ___
 
 **Date Point: 15y6m3w AV**       
-**Whitecrest Clan Headquarters, Wi Kao City, Gao**
+**Whitecrest Clan Enclave, Wi Kao City, Gao**
 
 ***Regaari***
 
@@ -1178,11 +1178,11 @@ It wasn’t a long walk to Genshi’s office, but it felt like twenty miles. Reg
 
 But he was still trembling.
 
-Daar was prowling Genshi’s office with an air of chilly fury radiating from him. He remained on four-paw as Regaari closed the door behind him and stood bolt upright at attention.
+Daar was prowling Genshi’s office with an air of chilly fury radiating from him. He remained on fourpaw as Regaari closed the door behind him and stood bolt upright at attention.
 
-“Father Regaari of Clan Whitecrest, reporting as ordered My Father.”
+“Father Regaari of Clan Whitecrest reporting as ordered, My Father.”
 
-Daar gave no initial response. Then he flicked an ear, lumbered forward and heaved himself up onto two-paw and loomed over Regaari, who kept staring straight ahead even as his old friend’s vicious muzzle snuffled and sniffed around his ears and throat.
+Daar gave no initial response. Then he flicked an ear, lumbered forward and heaved himself up onto twopaw and loomed over Regaari, who kept staring straight ahead even as his old friend’s vicious muzzle snuffled and sniffed around his ears and throat.
 
 “...Y’know what my problem is?” Daar asked after a painful silence. The question was rhetorical, so Regaari didn’t answer. “I’m too Keeda-fucked loyal to my friends. *Damn* it, Cousin…”
 
@@ -1257,7 +1257,7 @@ Julian tried. Honestly he did. He just… couldn’t. “I… You’re… When I
 
 He gave up and squeezed them so hard they both had to protest and plead for air.
 
-*“Bǎobèi...* I love you, but you smell *horrible.”* Xiù told him.
+*“Bǎobèi...* I love you, but you smell *horrible,”* Xiù told him.
 
 “Didn’t get a chance to shower yet,” he half-grumbled.
 
@@ -1386,11 +1386,11 @@ ___
 
 ***Vemik Sky-Thinker***
 
-*“Atwa! Atwa!*
+*“Atwa! Atwa!""*
 
-The little one had learned how to call for her mother while he was gone, and it was the best homecoming Vemik could have asked for. It meant they’d be Naming her, soon.
+The little one had learned how to call for his mother while Vemik was gone, and it was the best homecoming Vemik could have asked for. It meant they’d be Naming him, soon.
 
-Too bad the reason she was calling for her mother was because she wasn’t so happy at being held by her father. Oh well. She’d get to know him better in time.
+Too bad the reason he was calling for his mother was because he wasn’t so happy at being held by his father. Oh well. There’d be plenty of time for them to get to know each other.
 
 For now, it was good to be back among his tribe. Earth had been fun, but confusing in more ways than he could count. He’d go over a lot of it with Professor Daniel later on.
 
@@ -1404,11 +1404,11 @@ Vemik and Yan had gone home, back to the village.
 
 It felt good to climb trees again. Vemik hadn’t noticed how tight his shoulders and back had been feeling until finally he got himself up a Ketta and moving from branch to branch. By the time they reached the village he felt half a finger-length taller, and much more comfortable.
 
-They picked up a Werne on the way home, a young solitary bull who’d only just been exiled by his herd. Lone bulls could be canny, but only with experience. Against two skilled hunters, the Werne didn’t stand a change. Yan scared it, Vemik dropped on it as it fled under his perch, and jammed his knife into the base of its skull. It bucked once, and died instantly.
+They picked up a Werne on the way home, a young solitary bull who’d only just been exiled by his herd. Lone bulls could be canny, but only with experience. Against two skilled hunters, the Werne didn’t stand a chance. Yan scared it, Vemik dropped on it as it fled under his perch, and jammed his knife into the base of its skull. It bucked once, and died instantly.
 
 It was healthy and well-fed too! A fine kill to bring home to the tribe, and to his family.
 
-Now, he was sitting around while the Singer cooked and tried to encourage his daughter to relax and learn to say “Tawa” for her father. With some success, too. The little one had picked up that her mother didn’t object to this man holding her, and was chewing on the end of her tail while considering Vemik with big, curious eyes.
+Now, he was sitting around while the Singer cooked and tried to encourage his son to relax and learn to say “Tawa” for his father. With some success, too. The little one had picked up that his mother didn’t object to this man holding him, and was chewing on the end of his tail while considering Vemik with big, curious eyes.
 
 The Singer, meanwhile, was puzzling over the attack.
 
@@ -1418,7 +1418,7 @@ The Singer, meanwhile, was puzzling over the attack.
 
 “But… we *are* the… *‘ aliens’.* Why attack you?”
 
-“It all seemed to make sense to Professor Daniel… Tickle!” Vemik fluttered his fingers up the baby’s spine and she wriggled and made a high-pitched trill. She still didn’t have a crest yet, just a downy yellow fuzz. “He says, they see us as traitors to our tribe.”
+“It all seemed to make sense to Professor Daniel… Tickle!” Vemik fluttered his fingers up the baby’s spine, who wriggled and made a high-pitched trill. He still didn’t have a crest yet, just a downy yellow fuzz. “He says, they see us as traitors to our tribe.”
 
 “...They don’t get to choose that, though.” The Singer scowled and twitched her tail as she added the Werne’s kidneys to the stew. “It’s up to *us* if you’re a traitor.”
 
@@ -1430,21 +1430,21 @@ The Singer, meanwhile, was puzzling over the attack.
 
 The little one stared at him for a moment, then pointed at the Singer. “...Atwa!”
 
-The Singer trilled “Yes, I’m Atwa. and he’s Tawa! Go on!”
+The Singer trilled “Yes, I’m Atwa. And he’s Tawa! Go on!”
 
 “...Atwa!!”
 
 Vemik gave up, but he had a huge smile in place at least. “Have you thought of a name?”
 
-“How about Yanta, after your mother?”
+“I though Vemun?”
 
-“Hmm. Yanta u Vemik n… How *do* you name the child of a Singer?”
+“Hmm. Vemun u Vemik n… How *do* you name the child of a Singer?”
 
 “There’s a special name. Song-Child. Didn’t you know that?”
 
 “I was still climbing all over my father when the Old Singer’s children were Given.”
 
-The Singer smiled, and gently plucked the baby out of Vemik’s hands. She rested little Yanta on her hip, and wrapped her tail around to hold the baby snug and secure while leaving her hands free.
+The Singer smiled, and gently plucked the baby out of Vemik’s hands. She rested little Vemun on her hip, and wrapped her tail around to hold the baby snug and secure while leaving her hands free.
 
 “...There’s something Human women can’t do,” Vemik realized. “They have to make a sling, or something like that.”
 
@@ -1482,18 +1482,18 @@ She nodded. “I think though, this would be something he’d have a hard time s
 
 “The Humans would say yes, I think. And…godshit.” Vemik looked at Singer apologetically, “I think I just burdened you with something.”
 
-“With what? Of knowing that things could be better?” she shook her head. “That gives me hope! Especially if you can get him to share it.”
+“With what? Of knowing that things could be better?” She shook her head. “That gives me hope! Especially if you can get him to share it.”
 
 “And what if I can’t? Could you be happy, knowing medicine like that is out there but your baby will never be given it?”
 
-The Singer glanced down at her baby again, and went very still and distant for a few heartbeats.
+The Singer glanced down at her son again, and went very still and distant for a few heartbeats.
 
 “...I’ll… just have to pray,” she said eventually.
 
 ___
 
 **Date Point: 15y6m3w1d AV**    
-**Whitecrest Clan enclave, Wi Kao City, Gao**
+**Whitecrest Clan Enclave, Wi Kao City, Gao**
 
 “You’re stepping down?”
 
@@ -1505,9 +1505,9 @@ The logic, when he’d explained it, was flawless. Everybody knew what had happe
 
 “May I ask why?” Father Garaaf asked.
 
-Garaaf’s return had been big news among the Clan, and it was a testament to what he’d endured that Genshi was only the *second* most scarred Father in the room. Those who’d known Garaaf before his capture claimed he was more solemn now, less playful. All Regaari knew was that now Garaaf had a cybernetic eye in place and had thus regained the full use of all his faculties, it’d be a foolish ‘Crest who chose to tangle with the old man. Anybody who could survive Hunters like that had earned a healthy measure of respect.
+Garaaf’s return had been big news among the Clan, and it was a testament to what he’d endured that Genshi was only the *second* most scarred Father in the room. Those who’d known Garaaf before his capture claimed he was more solemn now, less playful. All Regaari knew was that, now that Garaaf had a cybernetic eye in place and had thus regained the full use of all his faculties, it’d be a foolish ‘Crest who chose to tangle with the old man. Anybody who could survive Hunters like that had earned a healthy measure of respect.
 
-Genshi’s gaze met Regaari’s “It was... a moment of enthusiasm and righteousness. And maybe a little rebellion too. All the Clans are groaning under the weight of the Great Father, all the Clans want a little more of the freedom and power we once had. To my shame, I was the first to crumble under that pressure.”
+Genshi’s gaze met Regaari’s. “It was... a moment of enthusiasm and righteousness. And maybe a little rebellion too. All the Clans are groaning under the weight of the Great Father, all the Clans want a little more of the freedom and power we once had. To my shame, I was the first to crumble under that pressure.”
 
 “The Clan gave up those freedoms and powers willingly,” Garaaf pointed out. He hadn’t been around when the Clans bent the knee, of course. Regaari got the impression he didn’t approve, nor was he particularly happy about the Great Father. Of course, nobody was. Especially the Great Father.
 
@@ -1718,7 +1718,7 @@ Slowly, Genshi heaved himself to his knees, turned his head and exposed his thro
 
 Genshi chittered, then groaned. He’d had a *rough* few days.
 
-“Yes, My Champion,” he said.
+“Yes, my Champion,” he said.
 
 ___
 
@@ -1899,7 +1899,7 @@ Julian allowed a small, satisfied grin to crawl up the side of his mouth. “I t
 
 “Okay,” Julian shook his head like Humans seemed to do to clear their thoughts, and sent his wild hair flailing atop his skull. Hypnotic to watch, really. “So, why tell me all this? Why now?”
 
-“Trust, dear. It seems my newfound mission is to build *trust* between our species. That, and...hell!” He flapped his hands in exasperation, “It felt like the right thing to do!”
+“Trust, dear. It seems my newfound mission is to build *trust* between our species. That, and...hell!” He flapped his hands in exasperation. “It felt like the right thing to do!”
 
 “Really?”
 
@@ -2033,11 +2033,11 @@ He squeezed her. “You sure?”
 
 “Five, in stasis.”
 
-Xiù couldn’t help it. A smile forced its way onto her face. “...Fine. Five in stasis. But *apart from that...”* she gave him a mock glare.
+Xiù couldn’t help it. A smile forced its way onto her face. “...Fine. Five in stasis. But *apart from that...”* She gave him a mock glare.
 
 “We live in interesting times. And I guess we’re interesting people.” Julian shrugged. “You *did* want to be famous.”
 
-“Hmm. *Be careful what you wish for,* eh?
+“Hmm. *Be careful what you wish for,* eh?"
 
 “A little less stabbing and stuff would be nice though, yeah.”
 
@@ -2160,7 +2160,7 @@ The Tisdale house was obviously home to a little girl, and a willfully girly one
 
 Of the child herself, however, there was no sign. Presumably she was in kindergarten or school.
 
-Behind the frills and fairies however, the house smelled of scented candles, incense and burnt sage. A handsome Vegvisir tapestry decorated the cluttered hallway wall, behind an equally cluttered bookshelf full of titles like “The Crystal Bible” (volumes 1-3), “Book of Shadows,” “Drawing Down the Moon,” “The Spiral Dance” and “The Book of Kitchen Witchery.” Even the doormat sported a pentagram and the words “Blessed Be.”
+Behind the frills and fairies however, the house smelled of scented candles, incense and burnt sage. A handsome Vegvísir tapestry decorated the cluttered hallway wall, behind an equally cluttered bookshelf full of titles like “The Crystal Bible” (volumes 1-3), “Book of Shadows,” “Drawing Down the Moon,” “The Spiral Dance” and “The Book of Kitchen Witchery.” Even the doormat sported a pentagram and the words “Blessed Be.”
 
 Interesting folks, the Tisdales.
 
@@ -2228,7 +2228,7 @@ He stood up and shook her hand. “I appreciate the thought, but… If you’re 
 
 “Dad?” Jack asked.
 
-“If you need me, I’ll be down at the Doghouse.”
+“If you need me, I’ll be down at the Dog House.”
 
 He let himself out with a kind of stiff dignity, and left them alone.
 
@@ -2371,7 +2371,7 @@ Mark gave Adam the slightly dazed look of a man who’d been stewing on some pre
 
 Adam had an uncanny ability to…hell, to just *dominate* any situation whenever he wanted. He bounced on his toes and threw the gloves at Mark’s feet. “Tape up and put ‘em on. They’re for you, not me.”
 
-Julian’s workout didn’t leave much spare attention, but he still managed to keep an eye on their session as the big viking dude worked out what looked like a *lifetime* of baggage with, it had to be said, more vigor and raw fury than actual form. Still; Julian wouldn’t have wanted to be on the receiving end of some of those blows.
+Julian’s workout didn’t leave much spare attention, but he still managed to keep an eye on their session as the big viking dude worked out what looked like a *lifetime* of baggage with, it had to be said, more vigor and raw fury than actual form. Still, Julian wouldn’t have wanted to be on the receiving end of some of those blows.
 
 They were still going strong even after he’d forced himself through his last agonizing set, so he sat down and watched. It came to an end with one last exhausted, flailing haymaker. The blow was so wild that Adam failed to dodge and caught it right on the jaw instead, while Mark spun around on his feet and nearly collapsed. Adam caught him and carried him over to the bench to catch his breath. Apparently even that hammer blow to the mouth hadn’t really registered.
 
@@ -2421,7 +2421,7 @@ Mark grunted a “hmm” sound and scrubbed some more sweat out of his hair befo
 
 Mark shook his head again. “Ugh, I don’t know. Ray came along to thank us, I guess, but all I heard was *‘I’m glad your little girl is dead.’* And I know that’s not what she meant, and it’s not even how it came off. But…”
 
-“Thank you?” Adam asked.
+“She thanked you?” Adam asked.
 
 “Makes sense. You saved her life,” Julian said. “And you only enlisted because of Sara, didn’t you?”
 
@@ -2441,7 +2441,7 @@ Adam paused for a moment to gather his thoughts. “...Guess I didn’t see it t
 
 Julian, feeling a bit out of place, decided to hobble around and clean up the aftermath of their gym fun while the two talked it out. It took just long enough that when he could avoid the conversation no longer he found that it was basically over. Mark didn’t exactly look upbeat, but he had an air of resolve around him now.
 
-“---should thank her,” he was saying. “I mean, what *she* intended is what matters. Just because it hurt me doesn’t change the fact that she meant well.”
+“---should thank her,” he was saying. “I mean, what she *intended* is what matters. Just because it hurt me doesn’t change the fact that she meant well.”
 
 “Yeah.”
 
@@ -2477,7 +2477,7 @@ Adam’s gym had a convenient set of showers on the ground floor, and a quick ru
 
 Mark noticed, too.
 
-“...Look at you. You’re not even a *little* sore, are you?” Mark pulled a clean t-shirt over his head; The Dog House kept some gym-branded clean clothing in a bin for members to borrow.
+“...Look at you. You’re not even a *little* sore, are you?” Mark pulled a clean t-shirt over his head; the Dog House kept some gym-branded clean clothing in a bin for members to borrow.
 
 Adam glanced at himself in the mirror and flexed for a moment, then pulled on his tent-like tank top. He looked strangely dejected. “No. Pretty much nobody can hurt me these days.”
 
@@ -2520,7 +2520,7 @@ It was good to have friends.
 ___
 
 **Date Point: 15y7m AV**    
-**Planet Akyawentua, Ten’Gewek Protectorate, Near 3Kpc Arm**
+**Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
 
 ***Professor Daniel Hurt***
 
@@ -2556,7 +2556,7 @@ He pronounced it carefully and slowly. *‘Vack-Seens.’* But the question was 
 
 “Godshit…” he cursed. “...I take it you heard about those on Earth?”
 
-“Singer and me… our first child, he died of a sickness, before he could even try to talk,” Vemik reminded him. “Every year, we lose hands of children to sickness. Others who live, they’re marked and weak. Some never grow strong again.
+“Singer and me… our first child, she died of a sickness, before she could even try to talk,” Vemik reminded him. “Every year, we lose hands of children to sickness. Others who live, they’re marked and weak. Some never grow strong again.
 
 “...What did you hear exactly?”
 
@@ -2574,11 +2574,11 @@ Daniel scraped his fingers through a day or two of stubble as he thought. “Vac
 
 “Each sickness is different?”
 
-“As different as Werne and Yshek and root-birds. You say that the shivering-sickness is in the water, right?” Daniel asked. Vemik nodded and he forged on. “But there are other shivering-sicknesses too. You see that a person is hot, and sweating and shivering. We call that a *fever.* But lots of different sicknesses can cause a fever. The shivering-sickness from water is a lot like one we call *‘Malaria,’* but another one that goes around a tribe with sneezing and… well, not sneezing in your case...”
+“As different as Werne and Yshek and root-birds. You say that the shivering-sickness is in the water, right?” Daniel asked. Vemik nodded and he forged on. “But there are other shivering-sicknesses too. You see that a person is hot, and sweating and shivering. We call that a *fever.* But lots of different sicknesses can cause a fever. The shivering-sickness from water is a lot like one we call *‘malaria,’* but another one that goes around a tribe with sneezing and… well, not sneezing in your case...”
 
 “We sneeze. Just not the same way you do. ” Vemik tapped the middle of his face where the Ten’Gewek didn’t have a nose, then opened his mouth and pointed inside. Of course, their olfactory organ was in the roof of the mouth.
 
-“...Right. But when people cough and sneeze and pass the disease between them, that’s more like what we call *‘Influenza’* and that killed many, **many** humans in the past. Tens of millions in one year.”
+“...Right. But when people cough and sneeze and pass the disease between them, that’s more like what we call *‘influenza’* and that killed many, **many** humans in the past. Tens of millions in one year.”
 
 Vemik scowled as he tried to recall Human numbers. “...Six zeroes?”
 
@@ -2586,11 +2586,11 @@ Vemik scowled as he tried to recall Human numbers. “...Six zeroes?”
 
 “In one year? You did not have vack-seen for it?”
 
-“No. Not then. And our vaccine for Malaria isn’t very strong. But others… there are some diseases that are just *gone* now. Nobody has died of them in a long time. And, yes, our children almost all grow up strong and healthy.”
+“No. Not then. And our vaccine for malaria isn’t very strong. But others… there are some diseases that are just *gone* now. Nobody has died of them in a long time. And, yes, our children almost all grow up strong and healthy.”
 
 Vemik nodded, watching the flames.
 
-“...Is hard, to lose a child,” he said at last. “We move on, but we don’t forget. It… hurts. Deep inside. And it never goes away. The Singer and me, we have a little girl now. Going to name her soon. But still a long way to go before she is a woman, and can be Given to another tribe. Many seasons. She’s strong now, but…”
+“...Is hard, to lose a child,” he said at last. “We move on, but we don’t forget. It… hurts. Deep inside. And it never goes away. The Singer and me, we have a little boy now. Going to name him soon. But still a long way to go before he is a man, and can learn to hunt and work steel. Many seasons. He’s strong now, but…”
 
 He trailed off, and Daniel shifted uncomfortably in his camp chair.
 
@@ -2608,7 +2608,7 @@ He trailed off, and Daniel shifted uncomfortably in his camp chair.
 
 “Well… soap and water are a start, anyway,” Daniel said. He smiled when Vemik pulled a face. “Actually… come and see.”
 
-He called up the footage of the Coastals bathhouse. Forest Ten’Gewek had no functional concept of modesty---Vemik was sitting on the log naked of all but his knives---or gender segregation, or sexual exclusivity. Oh, they tended to form close bonds like the one between Vemik and the Singer, but there was no formal contract or expectation of fidelity among them. Ten’Gewek men were generally quite happy to be good friends with their mate’s children from other men. The tribe, ultimately, was a big sprawling extended family.
+He called up the footage of the Coastals bathhouse. Forest Ten’Gewek had no functional concept of modesty, and Vemik was sitting on the log naked of all but his knives and the little leather flap that Ten'Gewek men wore to protect their sensitive bits from stray branches as they swung through the trees. Nor did they see any point in gender segregation, or sexual exclusivity. Oh, they had men's work and women's work, and they tended to form close bonds like the one between Vemik and the Singer, but there was no formal contract or expectation of fidelity among them. Ten’Gewek men were generally quite happy to be good friends with their mate’s children from other men. The tribe, ultimately, was a big sprawling extended family.
 
 The Coastals had been more structured. Their more sophisticated lifestyle and economy had allowed a handful of powerful men to achieve enormous power and influence. That had led to harems at first, with a few of the more influential men having *all* the female attention, which naturally meant a large number of disgruntled bachelors. After a while they’d established a convention of monogamy between male and female couples, though notably they’d been happy to accept more… *freedom...* in their same-sex associations.
 
@@ -2711,13 +2711,13 @@ Going back for a funeral was so much worse. But he’d do it. And maybe he could
 ___
 
 **Date Point: 15y7m1d AV**    
-**Folctha, Cimbrean, the Far Reaches**    
+**Folctha, Cimbrean, The Far Reaches**    
 
 ***Allison Buehler***
 
 There’d been a text from Julian about some kind of impromptu Guy’s Night, don’t wait up, love you, etc. Allison couldn’t blame him: After all that time hanging around with the cavemonkeys, some time with his actual *human* friends couldn’t hurt Julian at all.
 
-Still, she was maybe a *little* disgruntled. But not enough to give him the cold shoulder when he finally slid the bedroom door aside at dead-o’-clock in the fuck-knew-when.
+Still, she was maybe a *little* disgruntled. But not enough to give him the cold shoulder when he finally slid the bedroom door aside at dead o’clock in the fuck-knew-when.
 
 She was getting sick of being the big spoon anyway. Xiù was completely out for the count and didn’t even grumble when Allison retrieved an arm from under her head and turned over.
 
@@ -2805,7 +2805,7 @@ In this case he didn’t need to. Out of the blue, Deygun seemingly resumed that
 
 “I can understand why he did it. And… I mean, I don’t know if it was the right decision or the wrong one. I can *definitely* understand the Great Father’s decision…”
 
-“Doesn’t matter. The Great Father decided. Right or wrong doesn’t enter into it.” Shim took a shot that clacked the cue-ball harmlessly of a bumper where it finally came to rest *just* touching his six-ball.
+“Doesn’t matter. The Great Father decided. Right or wrong doesn’t enter into it.” Shim took a shot that clacked the cue-ball harmlessly off a bumper where it finally came to rest *just* touching his six-ball.
 
 Deygun took the cue off him. “Regaari’s lucky as Keeda himself.”
 
@@ -2900,7 +2900,7 @@ It turned out to be excellent.
 ___
 
 **Date Point: 15y7m1d AV**    
-**High Mountain Fortress**
+**High Mountain Fortress, The Northern Plains, Gao**
 
 ***Daar, Great Father of the Gao***
 
@@ -3012,7 +3012,7 @@ Getting there, though, was going to require a trip through an even deeper level 
 
 So, once the chatter had settled down, Daar flowed over towards the stage and leaped up onto it. He had everyone’s attention immediately. Now was the one and only moment.
 
-“My Champions. Before we get to the food and the talamay…” He shot a significant look at his majordomo, who charged off to make preparations, “I must, at last, accept ‘yer collective wisdom on a painful item.”
+“My Champions. Before we get to the food and the talamay…” He shot a significant look at his majordomo, who charged off to make preparations. “I must, at last, accept ‘yer collective wisdom on a painful item.”
 
 Everyone fell dead silent. Daar looked to Gyotin, who duck-nodded solemnly.
 
