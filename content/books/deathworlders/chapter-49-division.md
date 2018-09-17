@@ -191,13 +191,19 @@ ___
 
 There were RCMP, and an air ambulance to take away the guy Yan had half-crushed in the hope that *maybe* they could save his pelvis. The gas station clerk was freaking out while giving a statement to a pair of friendly female Mounties and both Yan and Vemik were sitting very still on the floor, watching what was going on. There was a general sense of mutual distrust between them and the armed men who’d showed up surprisingly fast considering how deep they were in the ass-end of nowhere.
 
-Julian was trying to focus on the controlled hubbub rather than on his thoughts. But it was hard to get over the fact that part of what the officers were doing was documenting a few corpses. Men who’d been alive only a little while ago.
+Julian was trying to focus on fixing his broken foot rather than on his thoughts. But it was hard to get over the fact that part of what the officers were doing was documenting a few corpses. Men who’d been alive only a little while ago.
+
+This one was a worse break than usual. Probably because he'd been forced to keep bearing weight and moving on it. But it had come at the worst possible time, and come this close to getting him *killed.* It had certainly thrown him off. Maybe if it had held together he could have fought better, he wouldn't have had to...
+
+He pushed the thought away, or tried to. He didn't want to be in this position, wondering what might have been. He'd never know either way.
+
+...That was really going to eat at him, he knew it.
 
 Hoeff had taken on the job of talking with the inspector. From what Julian could gather there was a superintendent on the way.
 
-Julian himself was… pacing. Trying to think and trying *not* to think at the same time, and failing at both. He was so distracted that he didn’t notice Hoeff shake hands with the inspector and head his way until the smaller man’s hand reached up and clapped Julian right on the shoulder.
+Julian himself was… pacing. Trying to think and trying *not* to think at the same time, and failing at both. He was so distracted that he didn’t notice Hoeff shake hands with the inspector and head his way until the smaller man’s hand clapped Julian right on the shoulder.
 
-“Sit down a spell,” He suggested. “Just think through all your training, don’t dwell. It helps.”
+“Focus on the shit you can control,” he suggested. “Just think through all your training, don’t dwell. It helps.”
 
 Julian glanced at the bodies, acutely aware that he’d made one of them. “I don’t think I trained for this…”
 
@@ -217,7 +223,11 @@ Julian got his head a little more in the here-and-now and finally turned to look
 
 “...Is it that easy?”
 
-“It’s a fuckin’ start. Look, we gotta wait until the Super gets here and maybe somebody even higher’n that an’ apparently there’s a Weaver comin’ from Scotch Creek for us. And, uh… you might not wanna go back to Akyawentuo.”
+“It’s a fuckin’ start."
+
+Julian nodded and looked down at the battered prosthetic in his hands. "...Kinda feel like it coulda gone differently if this piece of shit had held up."
+
+"That ain't your fault and it ain't worth dwellin' on," Hoeff told him sharply. "Look, we gotta think about the future. Right now we're waitin' until the Super gets here and maybe somebody even higher’n that an’ apparently there’s a Weaver comin’ from Scotch Creek for us. And, uh… you might not wanna go back to Akyawentuo.”
 
 “...Why not?”
 
@@ -251,7 +261,7 @@ Hoeff gave him a complicated, sympathetic expression and clapped a hand on his s
 
 “Yeah.”
 
-That about exhausted Julian’s ability to talk about it. He sat back and ran his hands through his hair, then gave up on trying to make sense of things.
+That about exhausted Julian’s ability to talk about it. He sat back and ran his hands through his hair, then gave up on trying to make sense of things and stooped to reattach his foot. He tested it and it held, but this time had been the final straw. He'd never be able to trust it again.
 
 “...D’you think I could get a beer?” he asked.
 
@@ -1361,7 +1371,7 @@ Allison’s expression said everything. Slowly, Julian reached out and took her 
 
 “So what now? I guess Yan and Vemik went home?” Allison asked.
 
-“Yup. Hoeff went with, make sure Daniel and the other scientists are alright. I’ll prob’ly head over there first chance I get, just to check up on ‘em. But I’ma take a couple days off first, get my head sorted out… maybe go see about getting my foot serviced.”
+“Yup. Hoeff went with, make sure Daniel and the other scientists are alright. I’ll prob’ly head over there first chance I get, just to check up on ‘em. But I’ma take a couple days off first, get my head sorted out… and I need to get my foot serviced.”
 
 “You know Nofl’s the best man in town for that, right?” Xiù pointed out. She saw his expression and giggled. “I know, I know. But he managed to arrange life-saving surgery for one of the *Dauntless* crew. He’s alright.”
 
@@ -1771,9 +1781,9 @@ Nofl inspected it. It was, he had to agree, a considerable improvement. Far from
 
 “I… asked nicely?”
 
-“...Fascinating.” Nofl whipped a diagnostic wand out of its drawer and ran it over the prosthetic. “Oh…dear me. The composite bones *all* have hairline fractures. The synthetic calluses are wearing down, and there’s even some over-stress in the artificial musculature. Julian dear, what *have* you been doing? Wrestling gorillas?”
+“...Fascinating.” Nofl whipped a diagnostic wand out of its drawer and ran it over the prosthetic. “Oh…dear me. The composite bones *all* have fractures, two of the metatarsals are more glue than composite at this point, the synthetic calluses are wearing down, and there’s even some over-stress in the artificial musculature. Julian dear, what *have* you been doing? Wrestling gorillas?”
 
-“Uh…lifting, and mentoring with the Ten’Gewek.”
+“Uh… Stuff. Mostly lifting, and mentoring with the Ten’Gewek.”
 
 “Wrestling gorillas indeed. Oh no, no, no this can’t keep up with you at all. Not unless you want to run it through a complete maintenance cycle every fortnight.”
 

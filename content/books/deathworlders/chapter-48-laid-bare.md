@@ -2576,13 +2576,21 @@ The van’s side door was hauled open along its rails and men in black clothing 
 
 Off-balance and retreating, Julian bought himself precious time by flinging a handy pack of instant noodles at the baton-wielder’s face. It hit, and was just enough of a distraction for Julian to close the distance, grab the idiot and—
 
-Crack, scream. Baton dropped. Right cross to the chin to take him outta the fight, he drops hard and his skull goes *crack* on the tiles. An enraged bellow from Yan, a war-hoot from Vemik, a shriek from the clerk and a ringing slam from the van as *something* violent happened. Ignore it: Axe guy taking a swing.
+There was a horribly familiar crunching sensation in his foot.
 
-Slow, clumsy. Dart back, dart forward, fist to the throat. Axe guy staggers making gurgling sounds. Grab head, twist hard, bring down and knee in face. Trip with leg and *stomp.*
+*Fuck, not* ***now...***
+
+Handicapped, under attack, no options but to fight *hard.*
+
+Twist the idiot's arm. Snap, scream. Baton drops to the ground. Right cross to the chin; Idiot drops hard and his skull goes *crack* on the edge of the counter. Lots of blood.
+
+An enraged bellow from Yan, a war-hoot from Vemik, a shriek from the clerk and a ringing slam from the van as *something* violent happened. Ignore it: Axe guy taking a swing.
+
+Broken foot. Slow, clumsy. Can't dart back out of range, surge forward instead off the good foot, get inside Axe Guy's reach, fist to the throat. Axe Guy drops his weapon and clutches his throat, making gurgling sounds. Two wild off-balance blows to the face. Axe guy goes down.
 
 Look around.
 
-Three guys left, all hesitating with wide fear in their eyes. Julian cracked his knuckles and advanced; A bolt of intelligence struck and they retreated from him. The van driver panicked and reversed outta the hole in the wall, yelling and gesturing for the others to get in—
+Three guys left, all hesitating with wide fear in their eyes. Julian cracked his knuckles and advanced, praying they wouldn't notice that his left foot was no good; They retreated from him. The van driver panicked and reversed outta the hole in the wall, yelling and gesturing for the others to get in—
 
 ***SLAM!***
 
@@ -2592,9 +2600,9 @@ Wisely, they complied.
 
 ...Check on the attackers.
 
-Julian prowled back to Baton Guy. His left arm was bent in several unnatural directions and he was totally unconscious. Not a threat.
+Julian limped back to Axe Guy, willing his foot not to fall apart. The bastard was totally unconscious, but still breathing with blood leaking from his nose. Not a threat.
 
-Axe Guy wasn’t moving. Shit, he wasn’t *breathing;* his neck was twisted the wrong way.
+Baton Guy wasn’t moving. Shit, he wasn’t *breathing;* the side of his head was dented inward.
 
 Oh.
 
@@ -2632,7 +2640,7 @@ Julian looked back at his own handiwork.
 
 He’d just killed someone. He’d maybe…
 
-Spurred by...something…he checked on Baton Guy. When he put a finger to the guy’s throat, he found a pulse, which made him sag with relief. He didn’t know if he could have handled killing *two* men. He’d never killed anyone before.
+Spurred by...something…he checked on Axe Guy. When he put a finger to the guy’s throat, he found a pulse, which made him sag with relief. He didn’t know if he could have handled killing *two* men. He’d never killed anyone before.
 
 …Wait, no. He had. There’d been that fight in Izbrk, with the Chehnash mercenaries. They’d been people too. But...
 
