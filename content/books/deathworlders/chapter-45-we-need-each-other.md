@@ -210,7 +210,7 @@ It listened to the ecstatic chattering that filled the Hunter network as its for
 
 Unheard by any of its brethren, it broadcast to itself in the dark.
 
-*< Resolve >* **+Meat to the Maw.+**
+*\<Resolve>* **+Meat to the Maw.+**
 
 ___
 
@@ -431,31 +431,31 @@ ___
 
 ***The Alpha-of-Alphas***
 
-*< Icy calm; Reprimand >* +My instructions were very clear. Humans are to be *caught,* not destroyed.+
+*\<Icy calm; Reprimand>* +My instructions were very clear. Humans are to be *caught,* not destroyed.+
 
 The Alpha in charge of the brood that had first opened fire on the fleeing Humans and their stolen Swarmship transmitted a grovelling apology.
 
-*< Abject terror >* +The Venom-Bile Brood is eager to the Hunt, Alpha-of-Alphas! When the bloodthirst takes us—+
+*\<Abject terror>* +The Venom-Bile Brood is eager to the Hunt, Alpha-of-Alphas! When the bloodthirst takes us—+
 
 Bored of such a pathetic excuse, the Alpha-of-Alphas casually ordered every other ship in the Swarm to tear the Venom-Bile broodship apart. It vanished in a hail of firepower so intense that the Alpha’s last instant of panic was silenced before it could properly be said to have begun.
 
 With its irritation partly sated, the Alpha-of-Alphas turned to the older and more seasoned Alpha of the Reaping-Brood, whose ship had wounded another broodship during the pursuit.
 
-*< Demand >* +And how shall I answer your mis-step?+
+*<Demand>* +And how shall I answer your mis-step?+
 
 Both the Reaping-Brood and their accidental victims the Gnawing-Brood were large, powerful and wily. Wily enough to have stayed away from the slaughter that had ensued when many of the other Alphas had tried to depose the Alpha-of-Alphas. Both were keys to power, and the Alpha-of-Alphas knew it: it would not be sensible to disgruntle either one.
 
 Fortunately, the Reaping-Brood Alpha knew when to kowtow.
 
-*< Careful; Deferential >* +The Reaping-Brood forfeits all Hunting and breeding rights until the Alpha-of-Alphas deigns to permit us otherwise. We make reparations to the Gnawing-Brood, a thousand slaves.+
+*\<Careful; Deferential>* +The Reaping-Brood forfeits all Hunting and breeding rights until the Alpha-of-Alphas deigns to permit us otherwise. We make reparations to the Gnawing-Brood, a thousand slaves.+
 
 That was proportionate and sensible—it would mollify the Gnawing-Brood, and the Alpha-of-Alphas could lift the restrictions after only a modest wait.
 
-*< Imperious condescension; decree >* +The Reaping-Brood’s restitution is... acceptable.+
+*\<Imperious condescension; Decree>* +The Reaping-Brood’s restitution is... acceptable.+
 
 The mood among the remaining—carefully and modestly expressed—was satisfaction and agreement.
 
-*< Displeasure; Command >* +Meat has slipped from the maw. This is unacceptable. Learn, adapt, and ensure that it never happens again. End session.+
+*\<Displeasure; Command>* +Meat has slipped from the maw. This is unacceptable. Learn, adapt, and ensure that it never happens again. End session.+
 
 The virtual forum of Alphas shut down, leaving the Alpha-of-Alphas to consider the situation in peace.
 
@@ -1884,7 +1884,7 @@ She shut her up by taking her hand. “Holly. It’s okay. You’re not selfish 
 
 They all turned to look at him. He stepped aside and indicated his communicator. It was hooked up to a tablet he’d managed to keep, scrounge or steal from somewhere, and it flashed three of the most incongruous characters at them that Ray had never expected to see here at them.
 
-*< :-) >*
+*\<:-)>*
 
 “...What th’—?”
 
@@ -2106,7 +2106,7 @@ They dashed out of their hiding spot and across the open deck. Garaaf’s timing
 
 Ray, Spears and Cook sprang up it and got into position where they weren’t immediately obvious as the drones swept down and began to map the next victim. When she got to the top of the ramp, Ray could hear busy sounds already at work in the engineering bay as Conley and Garaaf tore the ship apart looking for their prizes.
 
-For a tense minute or two, nothing much happened. Then she flinched back as a brilliant green beam swept through the open ramp. It was followed seconds later by a drone, come to map the ship’s interior. None of them got a chance to react to its presence: it spun a neat three-sixty in the middle of the cargo bay, swept the whole volume in less than a second, and *immediately* turns its attention on the three humans.
+For a tense minute or two, nothing much happened. Then she flinched back as a brilliant green beam swept through the open ramp. It was followed seconds later by a drone, come to map the ship’s interior. None of them got a chance to react to its presence: it spun a neat three-sixty in the middle of the cargo bay, swept the whole volume in less than a second, and *immediately* turned its attention on the three humans.
 
 “Garaaf!” Spears raised his rifle to aim at it, squinting against the light as it scanned him. “Trouble!”
 
@@ -2204,7 +2204,7 @@ And there were more still to take. Cunning prey, *dangerous* prey, and frustrati
 
 It was going to *enjoy* this hunt.
 
-*< Delight; Triumph; Joy >* **+Meat to the Maw!+**
+*\<Delight; Triumph; Joy>* **+Meat to the Maw!+**
 ___
 
 **Date Point: 15y6m1d AV**    
@@ -2530,7 +2530,7 @@ Regaari duck-nodded and fell in alongside them. Daar and Fiin traded an unspoken
 
 *Sharman* was pulsing with activity. Personnel in the uniforms of all different branches from several different nations were rushing back and forth with serious expressions and assorted tablets, pieces of paper or toolboxes. Powell received, read, signed and gave orders on three quick matters while just striding down a thirty-meter corridor as personnel made room for them.
 
-Daar spoke to him urgently and low. “Did you get brief on what I’m gonna do?”
+Daar spoke to him urgently and low. “Did you get briefed on what I’m gonna do?”
 
 Powell looked grim. “...Aye.”
 
@@ -2893,7 +2893,7 @@ The one Cook had pushed aside saw her move and rounded on her, pounced.
 
 Something happened to the sound. It was… gone, now. All the shouting, the alarms, the desperation, it all went silent. Everything came down to the twelve-inch razor-sharp steel claw it had just shoved into her heart.
 
-TIme stopped just long enough for Ray to realize that she was dead.
+Time stopped just long enough for Ray to realize that she was dead.
 
 Something the size and general shape of a bear slammed into the Hunter, tore it apart. Another one saved Cook’s hide by inches. Bullets were ripping through the hall, clearing a space, but Ray fell backwards into armored hands. She looked up and saw her own face reflected in some kind of visor: There were dark brown eyes behind it, alert and intense. Human eyes that alighted on the blade in her chest and knew just as well as she did that she wasn’t going to make it.
 
