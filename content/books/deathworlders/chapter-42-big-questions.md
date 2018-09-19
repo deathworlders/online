@@ -837,7 +837,7 @@ ___
 
 The music was the secret. The otherworldly singing and beats that underpinned his montage of the People’s lives and history was *literally* otherworldly—It was the Singer, Yan’s niece.
 
-Persuading her to let him record her voice and play it back for others to hear had been a delicate philosophical argument. Ten’Gewek language and culture weren’t yet quite up to speed with the notion of *copying.* The saw a thing being Taken, or being Given. Sometimes both at the same time, but the point was that whatever was Given or Taken ceased to belong to one person and now belonged to somebody or something else. The notion that a thing could be Given/Taken and yet still remain with the original owner had been tricky ethical ground at first.
+Persuading her to let him record her voice and play it back for others to hear had been a delicate philosophical argument. Ten’Gewek language and culture weren’t yet quite up to speed with the notion of *copying.* They saw a thing being Taken, or being Given. Sometimes both at the same time, but the point was that whatever was Given or Taken ceased to belong to one person and now belonged to somebody or something else. The notion that a thing could be Given/Taken and yet still remain with the original owner had been tricky ethical ground at first.
 
 Daniel had tried to compare it to childbirth by suggesting that a mother gave life to her baby but did not lose her life in the process, but the Singer had countered from experience that the process of birthing a new life was exhausting and weakened the mother for a little while.
 
