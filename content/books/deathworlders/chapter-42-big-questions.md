@@ -40,7 +40,7 @@ aliases:
 
 **++0012++:** Successful humans in leadership often do not work towards a goal. They have underlings for that. Instead, the most effective human leaders focus on changing the environment and systems so they benefit the desired end state.
 
-**++Proximal++:** *<Pleased>* It is good to see that senior Hierarchy agents studied the enemy’s psychology as well.
+**++Proximal++:** *\<Pleased>* It is good to see that senior Hierarchy agents studied the enemy’s psychology as well.
 
 **++0008++:** We are on the defensive and losing ground. The time will come when we must go on the offensive again, and without a clear strategy our counterattack will be unguided and useless. Surely you are not proposing we proceed with no plan at all?
 
@@ -50,9 +50,9 @@ aliases:
 
 **++0012++:** So we experiment. Introduce stimuli and watch the response.
 
-**++Cynosure++:** *<Amused>* Poke the hornet’s nest.
+**++Cynosure++:** *\<Amused>* Poke the hornet’s nest.
 
-**++Proximal++:** *<In-joke>* Didn’t that go badly for you last time?
+**++Proximal++:** *\<In-joke>* Didn’t that go badly for you last time?
 
 **++Cynosure++:** To the contrary.
 
