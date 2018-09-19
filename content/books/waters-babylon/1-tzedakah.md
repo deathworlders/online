@@ -1183,7 +1183,7 @@ boundary fence, and had surveyed for one of the three hospitals, command
 bunkers, barracks, a warehouse, field generators, forcefield emitters, and,
 perhaps most crucially, the planned jump portal to Tel Aviv.
 
-Crowds of curious Gaoian cubs gathered to watch the Human soldiers arrived, many
+Crowds of curious Gaoian cubs gathered to watch as the Human soldiers arrived, many
 jumping and chirruping with excitement to anyone that would listen. Mothers also
 watched, trying to keep an aloof demeanor and keep an eye on the cubs, but no
 less interested at the sudden development. Truck after truck was waved through
