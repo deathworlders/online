@@ -313,7 +313,7 @@ The Corti approximated a grim smile. "I want that barrier down."
 
 ---
 
-Maria Sadowski didn't know what to make of anything. She had got used to the idea of alien life, got used to scavenging whatever scraps they could be bothered to deign to kick her way. Her ribs and bones were visible everywhere, her gums bled constantly, and the sores just wouldn't heal.
+Maria Sadowska didn't know what to make of anything. She had got used to the idea of alien life, got used to scavenging whatever scraps they could be bothered to deign to kick her way. Her ribs and bones were visible everywhere, her gums bled constantly, and the sores just wouldn't heal.
 
 And then just like that, the attitude had changed. One minute, she was ignored by aloof creatures who barely deigned to acknowledge her at all, now they saw her and walked across the other side of the transitway. If she went into an eating-house to beg, before she had been lucky to get scraps---now she got as much as she could stuff into herself while around her tables vacated and the owner carried itself in a way that suggested that, if its species could sweat and if that sweat meant what it meant in humans, it would have been sweating.
 
