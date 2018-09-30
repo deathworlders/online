@@ -1997,7 +1997,7 @@ They whole family was home today. Tristan and Ramsey had a break from their moth
 
 Apparently the latest medical scanners could get a non-invasive and totally harmless read on the baby’s sex from its chromosomes, even at this early stage. Xiù thought she would have preferred not to know, but Allison had decided that she wanted to and, well… it was her baby. Her prerogative.
 
-Either way, tonight was the night to finally let Julian know, so Xiù had decided to set up a special dinner.  Fortunately, Tristand and Ramsey had an absolutely insatiable appetite for learning how to cook now that they’d got a taste of it. Maybe it was some of the forbidden fruit: coming from a house where they hadn’t been allowed to do more in the kitchen than get juice out of the fridge, the idea that they were actually being trusted to cook stuff, and that they were actually cooking *good* stuff, seemed to thrill them both.
+Either way, tonight was the night to finally let Julian know, so Xiù had decided to set up a special dinner.  Fortunately, Tristan and Ramsey had an absolutely insatiable appetite for learning how to cook now that they’d got a taste of it. Maybe it was some of the forbidden fruit: coming from a house where they hadn’t been allowed to do more in the kitchen than get juice out of the fridge, the idea that they were actually being trusted to cook stuff, and that they were actually cooking *good* stuff, seemed to thrill them both.
 
 Still, not all kitchen work was glamorous.
 
