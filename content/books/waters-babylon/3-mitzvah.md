@@ -1486,7 +1486,7 @@ of sorts, that was unparalleled in the history of the Gao. Regaari saw
 attention for very long to much of anything.
 
 His own priority message list had gotten quite a bit longer than it had been
-since Operation NOVA HOUND, and it had a lot more humans on it than it had. Now,
+since Operation NOVA HOUND, and it included a lot more humans on it than before. Now,
 he had an entire list of people who might be sending messages to the Great
 Father to pay attention to as well, and most of those were what he paid
 attention to.

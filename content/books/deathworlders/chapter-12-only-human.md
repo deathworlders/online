@@ -603,7 +603,7 @@ Her objections faltered. "...yeah. I guess that sounds like Adrian." she admitte
 
 "Sounds like my kind of crazy bastard." Powell said, admiringly. "You sure he's dead?"
 
-"He was unconscious, and they were venting the atmosphere, trying to kill us. If I'd tried to drag him to the escape pod, we'd have both died." Jen asserted, though her old self hated to sound so...coldly practical. Again,though,  there was that understanding, nonjudgmental look in Powell's eye, and it occurred to her that maybe she had some things in common with the special forces captain that neither of them really wanted to have in common with *anybody*.
+"He was unconscious, and they were venting the atmosphere, trying to kill us. If I'd tried to drag him to the escape pod, we'd have both died." Jen asserted, though her old self hated to sound so...coldly practical. Again, though, there was that understanding, nonjudgmental look in Powell's eye, and it occurred to her that maybe she had some things in common with the special forces captain that neither of them really wanted to have in common with *anybody*.
 
 Powell looked up as somebody knocked on crate next to his office tent and stuck his head through the flap. "What's up, Brewer?"
 

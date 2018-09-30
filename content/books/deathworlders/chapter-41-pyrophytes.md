@@ -57,7 +57,7 @@ The crew liked it, on the whole. On a quiet day with nothing else to do, Flight 
 
 Right now though it was quiet, which meant folks were working. There was a lot to do on final approach to a Dominion cradle world.
 
-"So serious," Dog teased after taking a second to be certain nothing was out of the ordinary. His crew variously smirked, chuckled and rolled their eyes. They *were* an earnest lot—all of them were huge nerds who’d leapt at the chance to be starship crew and honestly didn’t give a shit that the starship in question was basically a glorified Big Rig.
+"So serious," Dog teased after taking a second to be certain nothing was out of the ordinary. His crew variously smirked, chuckled and rolled their eyes. They *were* an earnest lot—all of them were huge nerds who’d leapt at the chance to be part of a starship crew and honestly didn’t give a shit that the starship in question was basically a glorified Big Rig.
 
 "You’re the one always says approach is when things go wrong, Dog," Webber spoke up. He was the A-shift communications operator, a former air traffic controller from some backwater airfield in Ass-End County, the state of Nowhere. Operating the radio on an interstellar freighter was probably no more exciting, but he seemed to enjoy it.
 

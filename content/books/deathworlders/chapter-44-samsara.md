@@ -587,7 +587,7 @@ Gorg looked around. The canyons were indeed quite barren, unless one counted a f
 
 Ray spoke over him. “We make do. Take our advice, Gorg: Take your herd and leave. There’s nothing for you here.”
 
-An awful suspicion settled on Gorg’s yoke and he backed away a little. He’d know a few Kwmbwrw in his time, and they’d always muttered darkly about omnivorous species like Humans and Gaoians that didn’t restrict themselves to a voluntarily herbivorous diet.
+An awful suspicion settled on Gorg’s yoke and he backed away a little. He’d known a few Kwmbwrw in his time, and they’d always muttered darkly about omnivorous species like Humans and Gaoians that didn’t restrict themselves to a voluntarily herbivorous diet.
 
 Suddenly, the canyons didn’t seem like the safe option any longer.
 
@@ -1788,7 +1788,7 @@ The argument stretched on, with passionate and at-times contradictory points bei
 
 There were a few personal considerations. Daar’s most admirable and most difficult trait was his scrupulous, effectively absolute commitment to personal fidelity. He had no problems with a tactical deception but he, himself, would *never* lie, or permit a lie to be told on his behalf. The furthest he would go down that line was carefully-crafted silence, or the utterance of *extremely* precise and cautious truths. Even that was something he preferred to avoid, since he “wasn’t a Goldpaw contracting officer.”
 
-Which meant the deception demanded very careful timing. For now, the Great Father’s office would remain silent and refuse comment. With luck the media would keep digging, and he would eventually be “compelled” make a public statement requesting military aid. Sartori would have his Cabinet defer until public pressure reached a fever pitch, and then with a show of reluctant determination...commit to the fight.
+Which meant the deception demanded very careful timing. For now, the Great Father’s office would remain silent and refuse comment. With luck the media would keep digging, and he would eventually be “compelled” to make a public statement requesting military aid. Sartori would have his Cabinet defer until public pressure reached a fever pitch, and then with a show of reluctant determination...commit to the fight.
 
 The first draft of his own first response should be ready and waiting in the oval office by morning.
 
@@ -1811,7 +1811,7 @@ Harmonies, though...He could truly enjoy harmonies. The intricate interplay of s
 
 The Humans, though, had voices that *transfixed.* Choral music especially held his attention, when the chords they assembled hung like shimmering fabric in the air, evoking mental images of cold stone and high architecture. He could listen to it for hours.
 
-Being dragged away was irksome, but he knew better than to resist. He’d ned *weeks* of good behaviour before they returned his music if he didn’t “play ball,” so yet again he meekly let himself be hooded and led, turned and twisted so that he didn’t know where one room was in relation to the other, and sat down in the comfortable chair opposite his *second* interrogator, Homer.
+Being dragged away was irksome, but he knew better than to resist. He’d need *weeks* of good behaviour before they returned his music if he didn’t “play ball,” so yet again he meekly let himself be hooded and led, turned and twisted so that he didn’t know where one room was in relation to the other, and sat down in the comfortable chair opposite his *second* interrogator, Homer.
 
 Homer was nothing like Bill. Bill was built like a sturdy fortification, with a tubby belly and hairy arms. Homer didn’t seem to suit his name at all: he was slim, clean, precise and had long fingers. He was almost totally bald, but wore a rough stubbly beard that framed rather than softened his cheekbones.
 
@@ -2209,7 +2209,7 @@ He never failed to reward her with delighted little growls and groans of pleasur
 
 “Oh...I love you so fucking much...”
 
-She felt like could spend forever grooming his chest. It was broad, thick, and hugely strong, and almost no part of him smelled so utterly male. But she had another goal. She worked her way lower and spent a pleasantly long time grooming the bricks of his abs...then lower...
+She felt like could spend forever grooming his chest. It was broad, thick, and hugely strong, and almost no other part of him smelled so utterly male. But she had another goal. She worked her way lower and spent a pleasantly long time grooming the bricks of his abs...then lower...
 
 And then lower.
 
