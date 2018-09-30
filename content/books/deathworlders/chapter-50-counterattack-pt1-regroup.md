@@ -2330,7 +2330,7 @@ She gestured sharply at the camera without looking at it. *“Just… listen. Th
 
 *“So… it’s offering us a deal. It wants to keep the ship. Which doesn’t matter because the ship is a von-neumann probe, it can just make us a perfect copy. And it wants… something. I’m having trouble figuring out what it means by this. First line, spaceship then a person. Second line, two spaceships, each with a CD. Third line, four spaceships, CDs and a green tick at the end. Then another set, spaceship person. Spaceship spaceship person person. Four spaceships, four persons, red cross.”*
 
-“It’s… thinking of replicating?” Lewis asked. He got out of the way as the Weaver’s loadmaster and crew ctivated the triple-thick air retention field and dropped the ramp at the back. He knew he was perfectly safe but *dang:* having nothing but space magic between him and infinite vacuum was kinda distracting. “...Darcy, I’m sorry. I don’t care how good whatever it puts on the table is, we can’t allow that.”
+“It’s… thinking of replicating?” Lewis asked. He got out of the way as the Weaver’s loadmaster and crew activated the triple-thick air retention field and dropped the ramp at the back. He knew he was perfectly safe but *dang:* having nothing but space magic between him and infinite vacuum was kinda distracting. “...Darcy, I’m sorry. I don’t care how good whatever it puts on the table is, we can’t allow that.”
 
 *“I don’t think so.... Yeah, red cross from the Entity.”*
 
