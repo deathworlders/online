@@ -1993,7 +1993,7 @@ So she’d come home, shared what had happened with Julian and Al, neither of th
 
 Her most successful distractions had been her property development scheme over in Franklin, and her vicarious glee for Allison who’d decided to only tell Julian about the pregnancy *after* her scan. To their mutual irritation, the family planning center had insisted that she needed a few more weeks before they’d scan her, so the whole month had gone past worrying in equal parts between keeping a secret from him, and not getting his hopes up just in case something had gone wrong.
 
-They whole family was home today. Tristan and Ramsey had a break from their mother, Julian was enjoying a “gentle” gym session---i.e., one that didn’t involve ‘Horse’s personal attention---and Allison was *finally* out to get the scan, which meant today was the day they finally got to break the news.
+The whole family was home today. Tristan and Ramsey had a break from their mother, Julian was enjoying a “gentle” gym session---i.e., one that didn’t involve ‘Horse’s personal attention---and Allison was *finally* out to get the scan, which meant today was the day they finally got to break the news.
 
 Apparently the latest medical scanners could get a non-invasive and totally harmless read on the baby’s sex from its chromosomes, even at this early stage. Xiù thought she would have preferred not to know, but Allison had decided that she wanted to and, well… it was her baby. Her prerogative.
 
@@ -2300,7 +2300,7 @@ Lewis glanced up at the camera where Darcy was sitting in her office, snug and h
 
 *“Yeah, and it ain’t anything we’ve been exposed to before. Like…there’s not even a physical interface that’s compatible.”*
 
-“It’s till talkin’ to us though,” Lewis pointed out.
+“It’s still talkin’ to us though,” Lewis pointed out.
 
 *“It’s* ***sending*** *the right signals, sure. Over fuckin’* WiFi *because apparently it has WiFi somehow... It’s just not accepting connections the other way. Any insight from our friend, Darcy?”*
 
@@ -3078,7 +3078,7 @@ Well, I guess that makes the People natural born capitalists then…” Xiù mut
 
 “So…what do we do?”
 
-“Start small? I dunno. I’m honestly a little wary of doing this, big fella. Finance is something I’ve had to learn a lot about since exploring made my rich, and it’s hard to get your head around. I *pay* a man to do nothing but take care of my money. It’s a strange thing to say, huh?”
+“Start small? I dunno. I’m honestly a little wary of doing this, big fella. Finance is something I’ve had to learn a lot about since exploring made me rich, and it’s hard to get your head around. I *pay* a man to do nothing but take care of my money. It’s a strange thing to say, huh?”
 
 “We have a lot of rules about it,” Xiù explained. “A *lot* of rules, powerfully enforced. Because the people who break those rules can make life worse for *everyone.”*
 
