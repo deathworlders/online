@@ -1926,7 +1926,7 @@ Daar grumbled to himself in what Caruthers knew to be a noise of discomfiture. *
 
 *“What do we have, and what don’t we have?”* Davies asked. *“Aside from the staging platform.”*
 
-*“I think, at this point, I can muster an orbital drop with mebbe three, uh, … you’d call ‘em battalions I guess. That’s basically a short division. Fifth Fang’s been re-activated too. I got others in the pipeline but… anyway. I have ready forces. It ain’t enough to conquer a planet, but it could clear a city.”*
+*“I think, at this point, I can muster an orbital drop with mebbe three, uh, … you’d call ‘em brigades I guess. That’s basically a short division. Fifth Fang’s been re-activated too. I got others in the pipeline but… anyway. I have ready forces. It ain’t enough to conquer a planet, but it could clear a city.”*
 
 *“Or seize and destroy a wormhole suppression facility,”* Kolbeinn suggested.
 
