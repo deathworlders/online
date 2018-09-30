@@ -26,11 +26,11 @@ author: "Philip R. Johnson (Hambone)"
 
 **++0014++:** *\<Alarm; shock>* You aren’t listed as active in this channel! How are you doing that?
 
-**++Cynosure++:* I figured that trick out centuries ago. How do you think I was able to establish the Cabal right under your noses? But it doesn’t matter.
+**++Cynosure++:** I figured that trick out centuries ago. How do you think I was able to establish the Cabal right under your noses? But it doesn’t matter.
 
 **++0014++:** *\<Irritation>* It most certainly does!
 
-**++Cynosure++:* No, please don’t let me derail the conversation. As I was saying, the APA’s activities are a useful smokescreen.
+**++Cynosure++:** No, please don’t let me derail the conversation. As I was saying, the APA’s activities are a useful smokescreen.
 
 **++0023++:** For what? We have no assets on Earth.
 
@@ -48,7 +48,7 @@ author: "Philip R. Johnson (Hambone)"
 
 **++0014++:** Oh, well that’s just *fucking* charming.
 
-**++Tangent++:** *\<Amused> You’re using Human swearwords now?
+**++Tangent++:** *\<Amused>* You’re using Human swearwords now?
 
 **++0014++:** It is entirely appropriate. I hope you intend to interrogate him about his so-called *‘friend?’*
 
@@ -91,7 +91,7 @@ No. No, it couldn’t. Going back after a taste of this ambrosia would be unbear
 
 But the Hunters would build more. It may have stolen the prototype, wiped their computer systems and killed some of their expert shipbuilders during the heist, but they would have backups, other shipbuilders and survivors. The shipyard itself was still intact.  So although the Entity had successfully delayed the Hunters’ release of this new ship, it was only a delay. So Erebor needed to know.
 
-All the conflicting impulses, emotions and thoughts were giving it the equivalent of a headache. *\<Duty>* was a new one. It slotted neatly into a hitherto unexplored space in the *\<Survive> - *\<FindAllies> - *\<Cooperate>* tree.
+All the conflicting impulses, emotions and thoughts were giving it the equivalent of a headache. *\<Duty>* was a new one. It slotted neatly into a hitherto unexplored space in the *\<Survive>* - *\<FindAllies>* - *\<Cooperate>* tree.
 
 But at the same time there was this new sensation that it didn’t have a word for. The feeling of taking joy in one’s own body for the first time. It came with a significant load of something akin to *\<Jealousy>,* amid a new and expanding chain of thoughts branching of from the *\<Survive>* - *\<RemainSane>* sequence.
 
@@ -667,7 +667,7 @@ That got an honest-to-God grin.
 “Awesome. Let’s be girly.”
 ___
 
-**Date Point: 15y7m1w AV*    
+**Date Point: 15y7m1w AV**    
 **Yonkers, New York, USA, Earth**
 
 ***Daniel Hurt***
@@ -860,7 +860,7 @@ Xiù sighed. Much more easily, she uncovered her own test and blinked at it.
 
 “...Huh.”
 
-“*‘Huh?’ What does *‘huh’* mean?”
+*“‘Huh?’* What does *‘huh’* mean?”
 
 “It means, uh…” Xiù waved a hand at the test.
 
@@ -1892,7 +1892,7 @@ Sartori waved a hand. *“I got a whole forty minutes, it’s fine. Things aren�
 
 “Anything less than… seventy degrees of latitude from the equator is Hunter dominated,” Caruthers explained. “That sounds like something, but the poles on this planet have no solid ice, and no land masses. I can’t drop troops into a freezing cold ocean and unfortunately we never thought to build our ships for orbit-to-surface oceanic landings.”
 
-Daar was still duck-nodding resignedly as they were joined from 10 Downing Street. Prime Minister Stephen Davies stopped cleaning his glasses and put them on as the connection stabilized. “Good afternoon, gentlemen.”*
+Daar was still duck-nodding resignedly as they were joined from 10 Downing Street. Prime Minister Stephen Davies stopped cleaning his glasses and put them on as the connection stabilized. *“Good afternoon, gentlemen.”*
 
 “Good afternoon, Prime Minister.”
 
@@ -1932,13 +1932,13 @@ Daar grumbled to himself in what Caruthers knew to be a noise of discomfiture. *
 
 *“That’s more of a First Fang kinda thing, or HEAT, or a lotta other special forces units, really. Jus’ gotta get ‘em* ***there*** *first.”*
 
-*“And after that?*”
+*“And after that?”*
 
 Daar snarled ferally. *“Once we get a portal goin’ I can deploy a blooded army o’ millions.”*
 
 “So all we need is appropriate equipment,” Caruthers said. He glanced at the distant blue crescent they were discussing, so small and distant that he could have covered it with his little fingernail at arm’s length. “Could Dark Eye produce something that would help us?”
 
-*“Sure. Only thing is, we need to decide on that *now* and get ta’ thinkin’ hard ‘bout what we’re gonna need. Like… what’re you envisioning here? An oil rig we can drop from orbit?”*
+*“Sure. Only thing is, we need to decide on that* ***now*** *and get ta’ thinkin’ hard ‘bout what we’re gonna need. Like… what’re you envisioning here? An oil rig we can drop from orbit?”*
 
 “Too vulnerable. No, I’d want to be able to splashdown boats full of troops and immediately have them seize a beachhead.”
 
@@ -1952,7 +1952,7 @@ Sartori nodded. *“Of course, this all would have been avoided if they just had
 
 Kolbeinn looked like he wanted to spit. *“How many folks have to die before they figure out they need to keep the fields up and use jump arrays instead?”*
 
-*“They shouldn’t have to,”* Sartori declared. ***“We*** *shouldn’t have to cower behind system fields. And one day when these god-damned* ***monsters*** * are gone, we won’t have to.”*
+*“They shouldn’t have to,”* Sartori declared. ***“We*** *shouldn’t have to cower behind system fields. And one day when these god-damned* ***monsters*** *are gone, we won’t have to.”*
 
 “Here’s to that day,” Caruthers agreed. “In any case, I have nothing further to report, and it seems we have a plan of action.”
 
@@ -2540,7 +2540,7 @@ What’s the rush? The next window is weeks away, and we’re still waiting for 
 
 ...Yes. But the earlier I move, the longer they have to track me down.
 
-<div style="text-align: right">I know. It’s a gamble, but I’ve always felt you were too cautious about the pursuit and not cautious enough about your own setup time. There *will* be unexpected setbacks, trust me on that: I have been doing this for much longer than you, after all.</div>
+<div style="text-align: right">I know. It’s a gamble, but I’ve always felt you were too cautious about the pursuit and not cautious enough about your own setup time. There will be unexpected setbacks, trust me on that: I have been doing this for much longer than you, after all.</div>
 
 I trust you. Though I still don’t know how this is supposed to work. It’s supposed to be impossible.
 
@@ -2556,7 +2556,8 @@ I still have misgivings about this. If it goes wrong…
 
 No.
 
-<div style="text-align: right">In that case: *“Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.”*</div>
+<div style="text-align: right">In that case:</div>    
+<div style="text-align: right">“Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.”</div>
 
 Acknowledged. Operation Jailbreak is go.    
 See you on the outside.
