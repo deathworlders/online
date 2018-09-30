@@ -1485,7 +1485,7 @@ Murphy noticed. “You much of a gun girl?”
 
 Yulna chittered. “We get our own back. I believe *Talamay* is taking Earth by storm, isn’t it?”
 
-“Yeah! Also, Gaoians don’t get drunk, right? **wrong.** They just don’t get *wobbly.* Drink enough and they’re attitudes loosen up something fierce…”
+“Yeah! Also, Gaoians don’t get drunk, right? **wrong.** They just don’t get *wobbly.* Drink enough and their attitudes loosen up something fierce…”
 
 Yulna caught Xiù’s eye, then chittered as Xiù felt her blush start up. “Yes. Our first experience of the Human reaction to alcohol was… memorable.”
 
