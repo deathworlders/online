@@ -1,6 +1,6 @@
 ---
 title: "Chapter 50: Counterattack, pt.1 - Regroup"
-date: 2018-09-30T13:00:00+01:00
+date: 2018-09-30T12:30:00+01:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
