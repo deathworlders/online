@@ -1003,7 +1003,7 @@ It made for tough reading. She went to school in a low mood.
 
 * * *
 
-**Date Point: 5y1wAV**  
+**Date Point: 5y1w AV**  
 
 **Lackland Air Force Base, San Antonio, Texas, USA, Earth.**
 

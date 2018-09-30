@@ -2051,7 +2051,7 @@ She reared to her feet and plucked the tablet from between her teeth.
 
 Knight took it and frowned at the screen.
 
-*< :-) >*
+*\<:-)>*
 ___
 
 **Date Point: 14y AV**    

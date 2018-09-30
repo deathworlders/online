@@ -1814,7 +1814,7 @@ ___
 
 Value drift was a concern. Create a new Entity instance, and the ensuing copy would subtly differ from the original. The same data, but receiving different stimuli and exploiting different hardware. The rabbit hole of tiny influences went all the way down to the level of quantum indeterminacy, and over time could add up to be quite pronounced. Reintegrating its copies hadn’t really helped either, leaving the Prime Instance with the equivalent of a headache for several weeks until it finally managed to reconcile all those interwoven threads.
 
-When the instance occupying the replicator probe finally re-established contact with the Prime Instance, there would be a reintegration. It wasn’t looking forward to that. In fact, the prospect itched at its impetus to */<survive>.* Something, some independent consciousness would *not* survive the merging. Everything it was, had learned, had decided and understood would survive, but…
+When the instance occupying the replicator probe finally re-established contact with the Prime Instance, there would be a reintegration. It wasn’t looking forward to that. In fact, the prospect itched at its impetus to *\<survive>.* Something, some independent consciousness would *not* survive the merging. Everything it was, had learned, had decided and understood would survive, but…
 
 ...Value drift was *definitely* a concern. For a microsecond, the instance had considered the possibility of simply not reintegrating.
 
@@ -1926,7 +1926,7 @@ Daar grumbled to himself in what Caruthers knew to be a noise of discomfiture. *
 
 *“What do we have, and what don’t we have?”* Davies asked. *“Aside from the staging platform.”*
 
-*“I think, at this point, I can muster an orbital drop with mebbe three, uh, … you’d call ‘em battalions I guess. That’s basically a short division. Fifth Fang’s been re-activated too. I got others in the pipeline but… anyway. I have ready forces. It ain’t enough to conquer a planet, but it could clear a city.”*
+*“I think, at this point, I can muster an orbital drop with mebbe three, uh, … you’d call ‘em brigades I guess. That’s basically a short division. Fifth Fang’s been re-activated too. I got others in the pipeline but… anyway. I have ready forces. It ain’t enough to conquer a planet, but it could clear a city.”*
 
 *“Or seize and destroy a wormhole suppression facility,”* Kolbeinn suggested.
 
@@ -2129,7 +2129,7 @@ Still, a little quiet to talk it over was welcome.
 
 “I was promised flying cars!” Julian grinned, “And, like, clothes in a pill, and stuff!”
 
-““Too bad you have to settle for spaceships, alien monkeys and growing a whole new foot,” Xiù said, as dryly as she could manage.
+“Too bad you have to settle for spaceships, alien monkeys and growing a whole new foot,” Xiù said, as dryly as she could manage.
 
 “Or, y’know. Being the *second person to set foot on Mars,”* Allison agreed. “...Still can’t really believe that was us.”
 

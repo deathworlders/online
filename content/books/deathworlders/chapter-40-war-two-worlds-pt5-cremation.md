@@ -1124,7 +1124,7 @@ None had ever triumphed before. But then, none of the other Alphas-of-Alphas had
 
 Only the Alpha of the Brood-that-Builds had been spared on the grounds that it had remained neutral as always, and even then it had only survived the overlapping explosive firestorm thanks to quick reflexes and a personal shield generator the equal of the Alpha-of-Alphas’. It blinked impassively as it surveyed the bloody slaughter around it, considered the Alpha-of-Alphas with care, then stooped its front pair of legs in a low bow.
 
-*\<Respect;Due deference>* +The Alpha-of-Alphas remains the Alpha-of-Alphas. The Brood-that-Builds will serve.+
+*\<Respect; Due deference>* +The Alpha-of-Alphas remains the Alpha-of-Alphas. The Brood-that-Builds will serve.+
 
 The Alpha-of-Alphas settled on its gore-smeared Vulza skull throne, which creaked under the weight.
 
@@ -1287,7 +1287,7 @@ Every last file in every last folder was the same. Even the backups were affecte
 
 It was all gone. Every microsecond of data the Hunters had gathered on the Human superweapon was gone. Erased, replaced, corrupted somehow… it didn’t matter. A howl of futile fury gave the whole network a migraine as the Alpha Builder stared at the only thing that was left of its most precious prize---Three enigmatic characters that meant nothing it could discern:
 
-*\< :-) >*
+*\<:-)>*
 
 
 ___

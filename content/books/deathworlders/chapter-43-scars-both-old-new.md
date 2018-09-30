@@ -84,7 +84,7 @@ Moho chuckled and almost knocked him over with a brotherly clout to the back. �
 
 Moho grimaced. “Oof. Friendzoned.”
 
-“It’s just the truth!” Jack objected. “I mean… it’s nice that she’s into me? No, it’s *amazing!* And I know I’m probably crazy for not… he cleared his throat. “...But… I don’t know. It’d feel weird, to me.”
+“It’s just the truth!” Jack objected. “I mean… it’s nice that she’s into me? No, it’s *amazing!* And I know I’m probably crazy for not…” he cleared his throat. “...But… I don’t know. It’d feel weird, to me.”
 
 “Oh, hell. She turned into a big sis for you, didn’t she?”
 
@@ -2530,7 +2530,7 @@ ___
 
 Ray had to give him credit: When Jamie Choi made a spear, he made a *hell* of a spear.
 
-He’d scavenged some parts from *Dauntless* to make them, in the form of repurposed and straightened Titanium alloy ribs, dug out from the rigid parts of the ship’s force-carrying structure between pressure hull and its outer skin. Each was lightweight, stiff and strong, and Jamie had added a kind of cross-shaped reinforcement behind the tip to stop an impaled Hunter from forcing its way down the shaft.
+He’d scavenged some parts from *Dauntless* to make them, in the form of repurposed and straightened Titanium alloy ribs, dug out from the rigid parts of the ship’s force-carrying structure between the pressure hull and its outer skin. Each was lightweight, stiff and strong, and Jamie had added a kind of cross-shaped reinforcement behind the tip to stop an impaled Hunter from forcing its way down the shaft.
 
 The last step had been to make them sharp enough that Ray could have shaved her legs for the first time in years.
 

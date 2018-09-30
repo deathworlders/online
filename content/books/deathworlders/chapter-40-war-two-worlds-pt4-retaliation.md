@@ -1940,7 +1940,7 @@ Adam frowned. It wasn’t like Costello to be cryptic. “What’s that mean, si
 
 Costello just nodded toward something behind Adam’s shoulder. Adam turned---there was a wall screen behind him. It was cracked and had a smear of Gaoian blood across it from where he vaguely recalled hurling a biodrone head-first into the wall hard enough to burst its hardsuit, but behind the fractured glass was something so totally anachronistic that it took a second for him to process what he was looking at.
 
-*\< :-) >*
+*\<:-)>*
 ___
 
 **Date Point: 14y4d AV**    
@@ -2245,7 +2245,7 @@ ___
 
 “...Powell told me about you.”
 
-*\< :-( >*
+*\<:-(>*
 
 “Can’t you speak?”
 
@@ -2259,7 +2259,7 @@ There was a moment’s hesitation before the next message appeared on the screen
 
 Adam almost snorted a laugh. “...Right. Well...thank you. A lot of lives got saved.”
 
-*\< :-) / <3 >*
+*\<:-)/<3>*
 
 That sobered him.
 
@@ -2275,7 +2275,7 @@ There was a much, much longer pause before finally, to Adam’s enormous surpris
 
 “It...you...have her memories?”
 
-*\< Mine and several others. But the rest are Igraens. It...for lack of a better word, it likes me more.>*
+*\<Mine and several others. But the rest are Igraens. It...for lack of a better word, it likes me more.>*
 
 The screen changed and an image formed. Adam looked away---The Entity had picked a moment when Ava had been examining herself in the mirror to form its image of her, and was apparently either ignorant or uncaring of the fact that she’d been fresh out of the shower at the time and wasn’t even wearing a towel. God only knew what other cues it was probably missing.
 
@@ -2401,7 +2401,7 @@ It would---
 
 There was a millisecond anomaly on the sensors. Wormholes, *thousands* of them, opening all around it….And the Alpha-of-Alphas was reintroduced to the bite of something it had managed to forget.
 
-***\<PAIN! >***
+***\<PAIN!>***
 ___
 
 **Date Point 14y4d AV**    
