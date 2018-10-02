@@ -1814,7 +1814,7 @@ ___
 
 Value drift was a concern. Create a new Entity instance, and the ensuing copy would subtly differ from the original. The same data, but receiving different stimuli and exploiting different hardware. The rabbit hole of tiny influences went all the way down to the level of quantum indeterminacy, and over time could add up to be quite pronounced. Reintegrating its copies hadn’t really helped either, leaving the Prime Instance with the equivalent of a headache for several weeks until it finally managed to reconcile all those interwoven threads.
 
-When the instance occupying the replicator probe finally re-established contact with the Prime Instance, there would be a reintegration. It wasn’t looking forward to that. In fact, the prospect itched at its impetus to */<survive>.* Something, some independent consciousness would *not* survive the merging. Everything it was, had learned, had decided and understood would survive, but…
+When the instance occupying the replicator probe finally re-established contact with the Prime Instance, there would be a reintegration. It wasn’t looking forward to that. In fact, the prospect itched at its impetus to *\<survive>.* Something, some independent consciousness would *not* survive the merging. Everything it was, had learned, had decided and understood would survive, but…
 
 ...Value drift was *definitely* a concern. For a microsecond, the instance had considered the possibility of simply not reintegrating.
 
@@ -1926,7 +1926,7 @@ Daar grumbled to himself in what Caruthers knew to be a noise of discomfiture. *
 
 *“What do we have, and what don’t we have?”* Davies asked. *“Aside from the staging platform.”*
 
-*“I think, at this point, I can muster an orbital drop with mebbe three, uh, … you’d call ‘em battalions I guess. That’s basically a short division. Fifth Fang’s been re-activated too. I got others in the pipeline but… anyway. I have ready forces. It ain’t enough to conquer a planet, but it could clear a city.”*
+*“I think, at this point, I can muster an orbital drop with mebbe three, uh, … you’d call ‘em brigades I guess. That’s basically a short division. Fifth Fang’s been re-activated too. I got others in the pipeline but… anyway. I have ready forces. It ain’t enough to conquer a planet, but it could clear a city.”*
 
 *“Or seize and destroy a wormhole suppression facility,”* Kolbeinn suggested.
 
@@ -1993,7 +1993,7 @@ So she’d come home, shared what had happened with Julian and Al, neither of th
 
 Her most successful distractions had been her property development scheme over in Franklin, and her vicarious glee for Allison who’d decided to only tell Julian about the pregnancy *after* her scan. To their mutual irritation, the family planning center had insisted that she needed a few more weeks before they’d scan her, so the whole month had gone past worrying in equal parts between keeping a secret from him, and not getting his hopes up just in case something had gone wrong.
 
-They whole family was home today. Tristan and Ramsey had a break from their mother, Julian was enjoying a “gentle” gym session---i.e., one that didn’t involve ‘Horse’s personal attention---and Allison was *finally* out to get the scan, which meant today was the day they finally got to break the news.
+The whole family was home today. Tristan and Ramsey had a break from their mother, Julian was enjoying a “gentle” gym session---i.e., one that didn’t involve ‘Horse’s personal attention---and Allison was *finally* out to get the scan, which meant today was the day they finally got to break the news.
 
 Apparently the latest medical scanners could get a non-invasive and totally harmless read on the baby’s sex from its chromosomes, even at this early stage. Xiù thought she would have preferred not to know, but Allison had decided that she wanted to and, well… it was her baby. Her prerogative.
 
@@ -2129,7 +2129,7 @@ Still, a little quiet to talk it over was welcome.
 
 “I was promised flying cars!” Julian grinned, “And, like, clothes in a pill, and stuff!”
 
-““Too bad you have to settle for spaceships, alien monkeys and growing a whole new foot,” Xiù said, as dryly as she could manage.
+“Too bad you have to settle for spaceships, alien monkeys and growing a whole new foot,” Xiù said, as dryly as she could manage.
 
 “Or, y’know. Being the *second person to set foot on Mars,”* Allison agreed. “...Still can’t really believe that was us.”
 
@@ -2300,7 +2300,7 @@ Lewis glanced up at the camera where Darcy was sitting in her office, snug and h
 
 *“Yeah, and it ain’t anything we’ve been exposed to before. Like…there’s not even a physical interface that’s compatible.”*
 
-“It’s till talkin’ to us though,” Lewis pointed out.
+“It’s still talkin’ to us though,” Lewis pointed out.
 
 *“It’s* ***sending*** *the right signals, sure. Over fuckin’* WiFi *because apparently it has WiFi somehow... It’s just not accepting connections the other way. Any insight from our friend, Darcy?”*
 
@@ -2330,7 +2330,7 @@ She gestured sharply at the camera without looking at it. *“Just… listen. Th
 
 *“So… it’s offering us a deal. It wants to keep the ship. Which doesn’t matter because the ship is a von-neumann probe, it can just make us a perfect copy. And it wants… something. I’m having trouble figuring out what it means by this. First line, spaceship then a person. Second line, two spaceships, each with a CD. Third line, four spaceships, CDs and a green tick at the end. Then another set, spaceship person. Spaceship spaceship person person. Four spaceships, four persons, red cross.”*
 
-“It’s… thinking of replicating?” Lewis asked. He got out of the way as the Weaver’s loadmaster and crew ctivated the triple-thick air retention field and dropped the ramp at the back. He knew he was perfectly safe but *dang:* having nothing but space magic between him and infinite vacuum was kinda distracting. “...Darcy, I’m sorry. I don’t care how good whatever it puts on the table is, we can’t allow that.”
+“It’s… thinking of replicating?” Lewis asked. He got out of the way as the Weaver’s loadmaster and crew activated the triple-thick air retention field and dropped the ramp at the back. He knew he was perfectly safe but *dang:* having nothing but space magic between him and infinite vacuum was kinda distracting. “...Darcy, I’m sorry. I don’t care how good whatever it puts on the table is, we can’t allow that.”
 
 *“I don’t think so.... Yeah, red cross from the Entity.”*
 
@@ -3078,7 +3078,7 @@ Well, I guess that makes the People natural born capitalists then…” Xiù mut
 
 “So…what do we do?”
 
-“Start small? I dunno. I’m honestly a little wary of doing this, big fella. Finance is something I’ve had to learn a lot about since exploring made my rich, and it’s hard to get your head around. I *pay* a man to do nothing but take care of my money. It’s a strange thing to say, huh?”
+“Start small? I dunno. I’m honestly a little wary of doing this, big fella. Finance is something I’ve had to learn a lot about since exploring made me rich, and it’s hard to get your head around. I *pay* a man to do nothing but take care of my money. It’s a strange thing to say, huh?”
 
 “We have a lot of rules about it,” Xiù explained. “A *lot* of rules, powerfully enforced. Because the people who break those rules can make life worse for *everyone.”*
 
