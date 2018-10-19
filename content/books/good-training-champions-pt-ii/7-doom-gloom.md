@@ -1351,7 +1351,7 @@ Daar chittered smugly and flexed his massive, ridiculous arm. “Ain’t it obvi
 
 “I can’t, ’cuz I’m the best there is and we can’t let this fail.”
 
-Mirai gave a pained look. “That’s awfully full of yourself, Champion.”
+Niral gave a pained look. “That’s awfully full of yourself, Champion.”
 
 Dara shrugged hugely. “It’s also true, and you gotta be honest with 'yerself in this game if ‘yer gonna play. And anyway…it’s good to leave guys like Tyal in charge while I’m gone. He’ll ‘prolly be the next Stud-Prime and maybe the next Champion, Brother's got good genes and good sense. And I’m gettin’ old. I’m forty-seven, Niral. I’ve got ten, maybe twenty years left unless I get really lucky. Who knows, maybe I will, but we Stonebacks tend to die young. So…before I grow old and start fallin’ apart, maybe I can do this.”
 
