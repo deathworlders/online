@@ -177,7 +177,7 @@ There was a general show of hands.
 
 ---
 
-**Three years and twelve days after the Vancouver Attack**    
+**Three years and twelve days after the Vancouver Attack**
 **San Diego, California**
 
 Terri's phone played the sound of a door opening just as she took the off-ramp down onto 17th Street, which was not encouraging. The noise came from a home security app she had purchased which told her if her apartment door was opened when her phone wasn't at home.
@@ -202,7 +202,7 @@ They were his last words.
 
 ---
 
-**Three years and two months after the Vancouver Attack**    
+**Three years and two months after the Vancouver Attack**
 **Earth-Luna L3 Point**
 
 "Mission Control, *Pandora*, checkpoint reached, over."
