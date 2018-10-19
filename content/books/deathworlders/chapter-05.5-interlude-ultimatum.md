@@ -71,7 +71,7 @@ The Alpha of Alphas checked that it had the rapt attention of its subordinates, 
 
 "Tell them that any place known to harbour a human will be raided, not by a pack-ship, nor even a brood-transport, but by the Swarm of Swarms." it said.
 
-"Tell them that any such place will be destroyed, any Prey that lived there devoured. If it is a world, it will be poisoned. If it is an orbit, it will be seeded with mines. Tell them that I shall lead  every such raid personally. Tell them that, once there are no humans left abroad in the galaxy, we shall begin the Hunt of Hunts, culling and consuming all that we find until such time as the barrier around Earth is removed."
+"Tell them that any such place will be destroyed, any Prey that lived there devoured. If it is a world, it will be poisoned. If it is an orbit, it will be seeded with mines. Tell them that I shall lead every such raid personally. Tell them that, once there are no humans left abroad in the galaxy, we shall begin the Hunt of Hunts, culling and consuming all that we find until such time as the barrier around Earth is removed."
 
 It paused. "And tell them that we shall only be satisfied to return to our quiescence once the humans are all devoured. Tell them that the Hunters WILL be feared above all others."
 
