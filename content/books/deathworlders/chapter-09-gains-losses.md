@@ -239,7 +239,7 @@ Nobody in the room needed to be told that. Every single one felt, rather than he
 
 Bartlett shut the jammer off and everybody in the room untensed just a little.
 
-"At less than ten meters, and that was a stable connection without any harmonic damping."  He announced. "We've cracked it: deploy one of these on any ship with a jump drive, and it'll be able to use that drive immune to detection by out-of-system scanners. If we stick it on a warp-capable minisat, we'll be able to completely block the detection of any FTL or wormhole activity inside the volume of effect, while the field itself will notify us of any that happens inside its ambit."
+"At less than ten meters, and that was a stable connection without any harmonic damping." He announced. "We've cracked it: deploy one of these on any ship with a jump drive, and it'll be able to use that drive immune to detection by out-of-system scanners. If we stick it on a warp-capable minisat, we'll be able to completely block the detection of any FTL or wormhole activity inside the volume of effect, while the field itself will notify us of any that happens inside its ambit."
 
 He shut down the wormhole generator and the abused spacetime inside the test chamber sprang back into shape.
 
@@ -287,7 +287,7 @@ Tremblay frowned "They can do that?"
 
 Doctor Anees Hussein was, in fact, actually quite pleased about the situation, though he affected an air of disappointment as he stepped into the ambassadorial debate chamber aboard E-172.
 
-The usual formalities were completed soon. The aliens were as keen to get  started as he was.
+The usual formalities were completed soon. The aliens were as keen to get started as he was.
 
 It was the Kwmbwrw ambassador who spoke first: "Ammbassador Hussein, This is grave news indeed for us. It would seem that your political blocs are not behaving obediently."
 
