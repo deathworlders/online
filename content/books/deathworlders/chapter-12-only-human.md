@@ -330,7 +330,7 @@ Kevin paused, shrugged, then complied. The space between the two doors contained
 
 "Run the wand over your scalp." Singh insisted.
 
-Kevin Jenkins found that the limits of his patience were being approached, but he sighed and did so,  completely bemused as to what he could be looking for.         
+Kevin Jenkins found that the limits of his patience were being approached, but he sighed and did so, completely bemused as to what he could be looking for.
 
 Singh wasn't satisfied until the wand had gone over his whole cranium twice, and over the bald patch where his translation implant had once been a good three times, before finally there was a beep from the magnetic lock and the inner door swung open.
 
