@@ -242,7 +242,7 @@ Niral allowed the human a few seconds of distant misty-eyed happiness. "I'm sure
 
 Jennifer Delaney, mid-twenties, space-babe with a mouthful of the first chocolate she'd tasted in *years*, regretfully swallowed it.
 
-"Not much." She confessed. "The alien news only covered the big things: the Hunters attacked Vancouver?"  when Powell nodded, she continued. "Then there's a fecking big force-field, we have warp travel now...That's about it. I know that our ambassador to the Dominion is called Doctor Anees Hussein because he wrote me a letter, and he hinted that we're maybe wanting to play both sides to our advantage, but other than that, I'm pretty well in the dark."
+"Not much." She confessed. "The alien news only covered the big things: the Hunters attacked Vancouver?" when Powell nodded, she continued. "Then there's a fecking big force-field, we have warp travel now...That's about it. I know that our ambassador to the Dominion is called Doctor Anees Hussein because he wrote me a letter, and he hinted that we're maybe wanting to play both sides to our advantage, but other than that, I'm pretty well in the dark."
 
 "Right. Well, it's mostly business as usual." Powell said. "The usual political gobshites, same sports, same celebrity gossip, same bullshit in the Middle East. The Russians are still fookin' crazy, the Chinese still have a stick up their arses, the Yanks are still fookin' reckless and there's still a Marvel movie three times a year like fookin' clockwork."
 
@@ -284,13 +284,13 @@ Powell smiled. "I take it you're not a military hardware geek?
 
 "Well, I am, and the Lockheed TS-101 gives me a hell of a chubby."
 
-"Charming." she deadpanned, trying to give the impression that there were more important matters on her mind than the state of his junk.  It seemed to work, because Powell cleared his throat and his smile faded.
+"Charming." she deadpanned, trying to give the impression that there were more important matters on her mind than the state of his junk. It seemed to work, because Powell cleared his throat and his smile faded.
 
 "Right. Sorry." He scratched his upper lip with his thumb, lips pursed in thought. "Anyway, back on topic. There's...a lot of legal questions about Cimbrean here."
 
 "Like what?" Jen asked, surprised. She had assumed that all of those questions would have been sorted out long before the soldiers came here.
 
-Powell ticked each question off on his fingers as he asked them. "Is this a colony of any one nation? And if so, which one? Or is it its own nation? in which case are you going to have a constitution, are you going to be a democracy? What's your immigration policy? What are you going to export and import? What's the customs policy on things like, say, seeds and foodstuffs, because from what I'm told our native Terran species would go through this lot -"  he waved an arm, expansively indicating the ecosystem of an entire planet "-like vindaloo through a short grandma."
+Powell ticked each question off on his fingers as he asked them. "Is this a colony of any one nation? And if so, which one? Or is it its own nation? in which case are you going to have a constitution, are you going to be a democracy? What's your immigration policy? What are you going to export and import? What's the customs policy on things like, say, seeds and foodstuffs, because from what I'm told our native Terran species would go through this lot -" he waved an arm, expansively indicating the ecosystem of an entire planet "-like vindaloo through a short grandma."
 
 "There are questions about you, too." he added, looking her in the eye. "You were given the job because you were here and because we heard you'd built something, but seeing as what you apparently built is a battlefield, do you even want it any more? Do you want to go home to Earth? Because the next time Kirk swings by here he'll be able to send you back, no problem. Do you want to stay on as governor, or hand the job off to somebody else?"
 
@@ -326,7 +326,7 @@ After a few more thumps, there was a buzz, and the door opened...revealing anoth
 
 "Step inside." Singh instructed, his voice muffled through the door.
 
-Kevin paused, shrugged, then complied. The space between the two doors contained nothing except an almost absonant magnetic lock with a keypad,  and a shelf on which a metal detector wand was charging.
+Kevin paused, shrugged, then complied. The space between the two doors contained nothing except an almost absonant magnetic lock with a keypad, and a shelf on which a metal detector wand was charging.
 
 "Run the wand over your scalp." Singh insisted.
 
@@ -366,7 +366,7 @@ He depressed the cafetiere's filter and poured a cup of steaming black Blue Moun
 
 "If that's how it works, then what about the patrol officer who kicked me off the *Churthuarg* station for vagrancy?" Jenkins asked. "Or the Corti who abducted me, or my ex-wife or my lawyer or...you know what, I didn't come here for this conversation."
 
-"No, you came here about the Hierarchy." Singh handed over the coffee in an elegant glass cup. The aroma was perfection itself.  "I told the last person who came knocking in no uncertain terms that her death was really only a matter of time once she started probing into this, but she said she accepted that." He sipped the coffee. "I hope she was truthful."
+"No, you came here about the Hierarchy." Singh handed over the coffee in an elegant glass cup. The aroma was perfection itself. "I told the last person who came knocking in no uncertain terms that her death was really only a matter of time once she started probing into this, but she said she accepted that." He sipped the coffee. "I hope she was truthful."
 
 "She was prepared for it. Terri left her notes for us to find."
 
@@ -380,7 +380,7 @@ He depressed the cafetiere's filter and poured a cup of steaming black Blue Moun
 
 "That information will kill you."
 
-"If they're what I suspect they are, then knocking on your door probably killed me." Kevin said.   "So how about you drop the guru half-speak and get on with the movie."
+"If they're what I suspect they are, then knocking on your door probably killed me." Kevin said. "So how about you drop the guru half-speak and get on with the movie."
 
 Singh smiled again, this time allowing his teeth to show---a genuine, human expression of delight. "Certainly." he said.
 
@@ -390,13 +390,13 @@ Singh smiled again, this time allowing his teeth to show---a genuine, human expr
 
 "That's a dangerous itinerary your ship has logged, cousin."
 
-Shipmaster  Kttrvk spun at being addressed so familiarly by a stranger.
+Shipmaster Kttrvk spun at being addressed so familiarly by a stranger.
 
 The stranger was a Rrrrtktktkp'ch, standing nonchalantly next to an advertising hoarding on the station's docking ring, which was helpfully mocking the shipmaster by advertising life insurance. There was something slightly familiar about the Cousin's facial structure, but the markings were totally unknown to him.
 
 "My itinerary? I don't have an itinerary. Excuse me." He turned to leave.
 
-"1047-6533-26972." the Cousin said, reeling off Kttrvk's assigned route and stopping the Shipmaster in his tracks. He looked faintly smug when  Kttrvk turned to give him a disbelieving stare.
+"1047-6533-26972." the Cousin said, reeling off Kttrvk's assigned route and stopping the Shipmaster in his tracks. He looked faintly smug when Kttrvk turned to give him a disbelieving stare.
 
 "How did you...?"
 
@@ -406,15 +406,15 @@ The stranger was a Rrrrtktktkp'ch, standing nonchalantly next to an advertising 
 
 "Long Stars Shipping seem to think you are."
 
-"Long Stars Shipping can choke on their feed!"  Kttrvk exclaimed, then moderated his tone when a few nearby beings glanced at him. "I will NOT orphan my children nor put them in harm's way just because the corporation is too greedy to listen to my pleas."
+"Long Stars Shipping can choke on their feed!" Kttrvk exclaimed, then moderated his tone when a few nearby beings glanced at him. "I will NOT orphan my children nor put them in harm's way just because the corporation is too greedy to listen to my pleas."
 
 "You'll go to debtor's prison..."
 
-"An acceptable price for the lives of my offspring, my mate and our unborn."  Kttrvk snapped.
+"An acceptable price for the lives of my offspring, my mate and our unborn." Kttrvk snapped.
 
 He was not expecting the expression of admiration and approval that spread across the Cousin's face. "Good for you!" he exclaimed. "But I am here to offer you a third way."
 
-"And what way would *that* be?"  Kttrvk challenged him.
+"And what way would *that* be?" Kttrvk challenged him.
 
 The stranger looked around and stepped in a little closer. "I represent an organisation that wants to trial some new military hardware." he said. "Simulations and training runs are all well and good, but there is no substitute for the real thing, and the Hunter problem in this area will only claim more lives unless *something* is done...but they're too canny to come out and fight just anything. We need...well, we need to entice them into attacking something."
 
@@ -422,11 +422,11 @@ The stranger looked around and stepped in a little closer. "I represent an organ
 
 "You're quick." the Cousin said. From a Rrrrrtktktkp'ch to a Vzk'tk like himself, that was a serious compliment.
 
-"My freighter with my family on board."  Kttrvk pointed out.
+"My freighter with my family on board." Kttrvk pointed out.
 
 "My organisation would not offer to use you this way unless we were completely certain of your safety under our care, I promise you that."
 
-"And your organisation is...?"  Kttrvk pressed.
+"And your organisation is...?" Kttrvk pressed.
 
 The Cousin paused. "Let's just say that this technology would impress and awe even the *humans.*" he said, and made a small conspiratorial gesture that only Kttrvk could see.
 
@@ -434,7 +434,7 @@ Enlightenment dawned. Of COURSE! Everybody knew that it was only a matter of tim
 
 And anything which could give the *humans* a pause would surely go through Hunters effortlessly.
 
-Still,  Kttrvk would not have become a merchant shipmaster without some guile and caution.
+Still, Kttrvk would not have become a merchant shipmaster without some guile and caution.
 
 "All of your assurances aside, I would still be risking everything dear to me." he said.
 
@@ -448,7 +448,7 @@ But a career merchant's instincts swung into place. *Never accept the first offe
 
 "A hundred." He counter-proposed. "We are risking a horrible death here."
 
-"Seventy. I understand your concerns, but you are in the safest possible hands. And yours is not the only ship that Long Stars  is ordering on this suicidal run. You will merely be the first to leave."
+"Seventy. I understand your concerns, but you are in the safest possible hands. And yours is not the only ship that Long Stars is ordering on this suicidal run. You will merely be the first to leave."
 
 "...Done."
 
@@ -458,7 +458,7 @@ But a career merchant's instincts swung into place. *Never accept the first offe
 
 "Well, even if you pass the baton first chance you get, you're still technically in charge of every civilian aspect of this colony for the time being." Powell said. He snatched a clipboard from where it was hanging on a tent post and consulted it.
 
-"Let's see...There's a list of stuff they'd like you to do. Nothing major: name the colonial capitol,  identify any existing human citizens, living or dead...we've  got real-time two-way communications with Earth but a pretty small data budget of what we can send and receive: more like telegraph than anything. To be honest, there's not much for you to do. Anything on this list you DO do will be taken under advisement by the civilian experts and contractors we bring in once this place is secure and the camp's up and running smoothly."
+"Let's see...There's a list of stuff they'd like you to do. Nothing major: name the colonial capitol, identify any existing human citizens, living or dead...we've got real-time two-way communications with Earth but a pretty small data budget of what we can send and receive: more like telegraph than anything. To be honest, there's not much for you to do. Anything on this list you DO do will be taken under advisement by the civilian experts and contractors we bring in once this place is secure and the camp's up and running smoothly."
 
 "That doesn't sound like it'll take a whole month." Jen said.
 
@@ -482,7 +482,7 @@ But a career merchant's instincts swung into place. *Never accept the first offe
 
 "Feck knows. The last I saw of him he was on his way back here, but I did some looking around while I was filling up my bath, and didn't find any sign of him."
 
-"Okay, he's an unknown then..." Powell stopped looking at the page he'd turned  to. "Any others?"
+"Okay, he's an unknown then..." Powell stopped looking at the page he'd turned to. "Any others?"
 
 "Is that a list of abductees?"
 
@@ -498,11 +498,11 @@ But a career merchant's instincts swung into place. *Never accept the first offe
 
 "I will." Jen promised.
 
-"Right." Powell ticked something on his list. "Here she is.  Deceased. At least we'll be able to let her family know. Any others?"
+"Right." Powell ticked something on his list. "Here she is. Deceased. At least we'll be able to let her family know. Any others?"
 
 "Cameron White. Very deceased and good fucking riddance."
 
-Powell blinked, then flicked through his list. "Oh. Shit.  Fookin' hell, what were they thinking stealing a crazy wanker like that?" he ticked.  "Good fookin' riddance, aye."
+Powell blinked, then flicked through his list. "Oh. Shit. Fookin' hell, what were they thinking stealing a crazy wanker like that?" he ticked. "Good fookin' riddance, aye."
 
 "And uh...Adrian Saunders. Australian Defence Force..." she forced herself not to give in to the temptation to look down, whisper and cry. "...Deceased."
 
@@ -515,7 +515,7 @@ Powell blinked, then flicked through his list. "Oh. Shit.  Fookin' hell, what we
 
 +<*contempt; disgust; snap*> Report!+
 
-The Omega did so, cowering appropriately as the Beta of the Brood-that-Flays  swaggered into the information node chamber.
+The Omega did so, cowering appropriately as the Beta of the Brood-that-Flays swaggered into the information node chamber.
 
 +<*Statement*> There have been no transports of the specified size along the prey-route within the last Diurnal, Beta.+
 
@@ -527,15 +527,15 @@ Any brood above a certain size soon developed a small population of Omegas: They
 
 It would have been a source of immense surprise to every other species in the galaxy that the concept of "creepy" was one that Hunters understood. But in fact, it was a central one to their mindset: the Hunters were the Predators, and everything else was the Prey. Predators behaved a certain way, and Prey behaved a certain way. Any deviation from this natural order was *creepy*.
 
-Hence the Great Hunt. The worm programs that the Hunters had long ago infiltrated into the Prey's data networks, that lurked invisible and silent, watching, collating and reconnoitering  everything that the Prey chattered about, had gathered a great wealth of their speculations on the motive behind the Great Hunt: Opinion was mostly split into two camps, the first being that the Hunters were *afraid* of the human race, and the other being  that the Hunters were *jealous*.
+Hence the Great Hunt. The worm programs that the Hunters had long ago infiltrated into the Prey's data networks, that lurked invisible and silent, watching, collating and reconnoitering everything that the Prey chattered about, had gathered a great wealth of their speculations on the motive behind the Great Hunt: Opinion was mostly split into two camps, the first being that the Hunters were *afraid* of the human race, and the other being that the Hunters were *jealous*.
 
-Both theories were equally amusing, by the peculiar standards of Hunter humour. The humans were a non-Hunter species that were Predators, and which was inspiring the Prey to behave in unPreylike ways. This was disruption of the natural order, a *creepy* intrusion into the Way Things Were Meant To Be. Their eradication was as obviously necessary as, for example, the correction of  a fatal structural flaw that would cause a building to collapse under its own weight.
+Both theories were equally amusing, by the peculiar standards of Hunter humour. The humans were a non-Hunter species that were Predators, and which was inspiring the Prey to behave in unPreylike ways. This was disruption of the natural order, a *creepy* intrusion into the Way Things Were Meant To Be. Their eradication was as obviously necessary as, for example, the correction of a fatal structural flaw that would cause a building to collapse under its own weight.
 
 This particular Omega was only one wrong step away from demanding such action, itself. Its existence was barely tolerated, barely tolerable; it lived forever on a delicate knife-edge where its meat might be harvested and fed to the breeding pools should it deviate further from acceptable Hunter normalcy.
 
 This was not because it behaved in an unHunterlike way. Quite the contrary, it did so very carefully, unfailingly and meticulously. What made it *creepy* was that it did not appear to do so naturally. Its thought-broadcasts were simple statements, queries, respectful requests. There was never any emotional content. When it joined the hunt-cry, it did so almost dutifully and by rote, rather than with real enthusiasm.
 
-Thus, even the other Omegas, which usually banded together out of bottom-of-the-heap solidarity, tended to view this particular one as an opportunity to claw back an anemic parody of the authority that other Hunters held over them. The fact that it didn't seem to *mind*---displayed no discernible emotions at all, whether resentment, resignation, complacency or contentment with its lot---only added to the bottom-feeder's abnormality. It simply followed instructions, diligently, swiftly,  competently, and to the full extent of their spirit and intent, often even going above and beyond.
+Thus, even the other Omegas, which usually banded together out of bottom-of-the-heap solidarity, tended to view this particular one as an opportunity to claw back an anemic parody of the authority that other Hunters held over them. The fact that it didn't seem to *mind*---displayed no discernible emotions at all, whether resentment, resignation, complacency or contentment with its lot---only added to the bottom-feeder's abnormality. It simply followed instructions, diligently, swiftly, competently, and to the full extent of their spirit and intent, often even going above and beyond.
 
 This hinted at the other aberration: The Strange One clearly had a sharp and calculating mind. It saw patterns with ease that other Hunters would overlook. On the few occasions where it had dared to venture an opinion, none of those opinions had yet been wrong. It grasped new tasks within moments, and performed them as well as an experienced expert after only a few days. For a creature so clearly talented to be apparently disinterested in its own stature or reputation was therefore wrong, strange, *creepy*.
 
@@ -551,7 +551,7 @@ The Beta became aware that the Strange One was inspecting something on its scree
 
 +<*impatience; tolerance; command*> Report, Omega+
 
-+<*Statement*>  Beta, a Prey-ship has passed through our sensor cordon at abnormally high speed. <*Observation*> A ship that fast can only be powered by the grey-skinned Prey's secret engines and a very large power source.+
++<*Statement*> Beta, a Prey-ship has passed through our sensor cordon at abnormally high speed. <*Observation*> A ship that fast can only be powered by the grey-skinned Prey's secret engines and a very large power source.+
 
 +<*Interest; Query*> Can it be intercepted?+
 
@@ -637,7 +637,7 @@ They watched as the array was powered up, with a snap as something sparked insid
 
 "Trust me, you won't hold them back. Besides, I'm not too worried that there's anything on this world that'd make you tagging along a bad idea. They'll only be gone a few hours, just long enough to scout the area."
 
-"That sounds...good, actually." Jen allowed. She had become so used to walking that it almost felt uncomfortable just sitting around.  Her body practically ached to be moving.
+"That sounds...good, actually." Jen allowed. She had become so used to walking that it almost felt uncomfortable just sitting around. Her body practically ached to be moving.
 
 "Thought it might." Powell shouted at one of the nearby soldiers. "Oi! Legsy! Get Jen here a rifle and a sidearm and teach her how to use them, she's on your patrol!"
 
@@ -647,7 +647,7 @@ He turned back to her. "You wait and see, by the time you're back, you won't rec
 
 **Freighter Nkvcqtz**
 
-For all the Cousin's reassurances, Shipmaster Kttrvk had not been so encouraged as to take the step of leaving station with his mate and children aboard.  They had been left behind, staying at a hotel paid for several (months) in advance through the expenditure of just *one* of the twenty DDCs that the Cousin had agreed to pay in advance, with the other fifty to be delivered upon completion of the mission.
+For all the Cousin's reassurances, Shipmaster Kttrvk had not been so encouraged as to take the step of leaving station with his mate and children aboard. They had been left behind, staying at a hotel paid for several (months) in advance through the expenditure of just *one* of the twenty DDCs that the Cousin had agreed to pay in advance, with the other fifty to be delivered upon completion of the mission.
 
 The ship felt empty without them, and he had never felt more alone and jittery. Neither had his crew, all of whom knew that staying on was an enormous risk, but the company's hazard bonuses---and threats---were sufficient to have persuaded most to remain, though all showed serious signs of stress and fear.
 
@@ -696,7 +696,7 @@ A storm of accurate firepower ablated the shielding around their sterns in secon
 
 +<*Panic; Command*> **Disengage!** Flee! Fl-+
 
-A  30mm depleted Uranium armor-piercing incendiary round penetrated through all of the ship's comparatively flimsy internal bulkheads, disintegrating as it went. It arrived in the command deck as a dense knot of incandescent heavy metal that reduced the Alpha to a smear of liquified matter when it passed directly through the command chair before embedding itself in the forward wall. The explosive force of its arrival crushed the other five Hunters on the deck almost simultaneously.
+A 30mm depleted Uranium armor-piercing incendiary round penetrated through all of the ship's comparatively flimsy internal bulkheads, disintegrating as it went. It arrived in the command deck as a dense knot of incandescent heavy metal that reduced the Alpha to a smear of liquified matter when it passed directly through the command chair before embedding itself in the forward wall. The explosive force of its arrival crushed the other five Hunters on the deck almost simultaneously.
 
 Perforated by hundreds of similar rounds, the rear third of the ship decompressed spectacularly, evaporating into an intricate dancing halo of flashing metallic and ceramic shards, mixed here and there with the odd disembodied piece of Hunter. The handful that were unfortunate enough to survive in the forward compartments did not do so for long---power failed instantly, and with it went the emergency air-retaining forcefields.
 
