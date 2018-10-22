@@ -133,7 +133,7 @@ ___
 
 "Good to know." Stephen replied. "So... I'm going to start this interview now. Could you please tell me your name?"
 
-"Mr. Johnson."  Six replied, promptly. That particular feature of the drone's cover was hardwired into the same implants that now hosted his personality.
+"Mr. Johnson." Six replied, promptly. That particular feature of the drone's cover was hardwired into the same implants that now hosted his personality.
 
 Stephen nodded. "I was hoping for your full name." he said softly, drumming his fingers on the table. The combination of the drumming and Stephen's mild tones did something very strange to Six---the sounds were actually *pleasant*, in a way that he had never encountered before. He shook it off and focused on the task at hand. This was still an interrogation, however alien it might be, and Six had five hundred thousand years of experience to draw on to help him. A human who wasn't even an infant relative to that lifetime wasn't going to get the better of him just by being nice.
 
@@ -283,7 +283,7 @@ ___
 
 **Classified Facility, Earth.**
 
-"Well, dropping the nonhuman bombshell early seems to have paid off.  Pay up."
+"Well, dropping the nonhuman bombshell early seems to have paid off. Pay up."
 
 One of the team---there were eight of them total in the room for today---rolled his eyes and dug out a fifty dollar note, which he handed over. The bet didn't really mean anything: that particular note had been changing hands from bet to bet for so long that nobody could remembers whose wallet (or wager) had originally produced it. "Interesting session." he commented, as 'Stephen' entered the room.
 
@@ -930,7 +930,7 @@ The B-B administrative module felt almost like any office complex back on Earth,
 
 Martin's office was, mercifully, not as Straya'd up as the man himself---in fact it was the purely professional space of somebody who took their job completely seriously. The walls were already thoroughly papered in charts, rotas, schedules, checklists and more---the paraphernalia of a mining director. His desk was a line of four monitors, all currently on a screensaver.
 
-"Good news is, we've found our first rock already." he declared. "One of the USVs caught a  nice first prospect, and it's in a stable Ceres orbit too, so no time limit either. Perfect first score."
+"Good news is, we've found our first rock already." he declared. "One of the USVs caught a nice first prospect, and it's in a stable Ceres orbit too, so no time limit either. Perfect first score."
 
 "How big?"
 
@@ -972,7 +972,7 @@ But something was stopping him and the thing that most frustrated him was that h
 
 He was being played like an instrument---little rewards were given when he surrendered, snatched away the second he fought back. The incredible boredom grated against his very essence as a thinking being, relieved only by interrogation sessions and---he had come to truly crave these---Morale and Welfare sessions.
 
-He felt like  he had been stuck in his hole for a YEAR. Time had lost meaning. He slept because there was little else to do. He rationed the meager entertainment he was allowed, mourned it whenever his noncompliance took it away from him.
+He felt like he had been stuck in his hole for a YEAR. Time had lost meaning. He slept because there was little else to do. He rationed the meager entertainment he was allowed, mourned it whenever his noncompliance took it away from him.
 
 And he knew---*knew*---that they weren't being cruel. Not really. The rules were clear, and were enforced without malice. If he complied, he was granted some perks. If he didn't, then he lost them. In that regard he might as well have been enduring the attention of a machine rather than of people, and he couldn't blame the system when it was plainly clear that the degree of stimulation and reward he received was a product of his own actions.
 
@@ -982,7 +982,7 @@ He couldn't win, and he knew it.
 
 And it was this thought that finally blossomed into an understanding of why he didn't just self-terminate.
 
-He was **_SIX_**. A single-digit, architect of the death of species. He knew himself to be among the very, very best that the Hierarchy had at its disposal.  Above his rank, they became administrators and planners, divorced from the reality of the fight. Below his rank, the other Numbers lacked his experience and competence.
+He was **_SIX_**. A single-digit, architect of the death of species. He knew himself to be among the very, very best that the Hierarchy had at its disposal. Above his rank, they became administrators and planners, divorced from the reality of the fight. Below his rank, the other Numbers lacked his experience and competence.
 
 And he couldn't win.
 
@@ -1098,7 +1098,7 @@ He shrugged. "For me, the idea of wiping out your civilization of trillions to s
 
 Six snorted. "You aren't authorized to speak for your whole species."
 
-"Nope." Carl agreed again. "But still: we don't. But don't get me wrong, I'm not saying we'll just sit back and invite you to wipe us out.  If it comes to it, if the only way to survive is to wipe out every living thing in the Milky Way? We *would*, if we have to."
+"Nope." Carl agreed again. "But still: we don't. But don't get me wrong, I'm not saying we'll just sit back and invite you to wipe us out. If it comes to it, if the only way to survive is to wipe out every living thing in the Milky Way? We *would*, if we have to."
 
 He locked eyes with Six. "**Do** we have to?"
 
