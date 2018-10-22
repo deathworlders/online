@@ -154,7 +154,7 @@ aliases:
 
 **+0003+:** Two, I request permission to punish Six's insubordination.
 
-**+0002+:** **Denied**. Cease petitioning us every time Six offends your pride. You should also cease to be so easily irritated by accurate corrections. Identification and conversion of the agent will become our top priority.  Discussion concluded.
+**+0002+:** **Denied**. Cease petitioning us every time Six offends your pride. You should also cease to be so easily irritated by accurate corrections. Identification and conversion of the agent will become our top priority. Discussion concluded.
 
 **System notification: Session closed.**
 
@@ -748,7 +748,7 @@ ___
 
 "You have a low opinion of me." Six replied. He'd sampled intoxication---he hadn't cared for it. Possibly that was a product of the inherent disconnect between his sense of identity, cloistered away in the cerebral implants, and the rest of the brain, but the experience had been frustrating---a loss of both agility and sensory acuity, for no apparent gain. The effects had dissipated after a few hours, leaving him resolved to not do it again.
 
-The tastes of the food he had sampled, however, were sharp and pleasant memories.  He had eaten *meat* for the first time, sampling the flesh of once-animal life: unfamiliar textures had seduced his palate---rare steak, chicken caesar, frankfurter, *cheese!*
+The tastes of the food he had sampled, however, were sharp and pleasant memories. He had eaten *meat* for the first time, sampling the flesh of once-animal life: unfamiliar textures had seduced his palate---rare steak, chicken caesar, frankfurter, *cheese!*
 
 "So do you know our enemy yet?" Seventy-Two inquired, not bothering to conceal his disdain.
 
@@ -796,7 +796,7 @@ The Biodrone waited. The order would soon come.
 
 In a lot of ways, it was still human. While it lacked anything resembling a sense of self-interest or an agenda of its own, it still had its emotional responses, and something which might be considered a personality.
 
-It had, for lack of a better word,  *liked* its counterparts. Both the one that was destroyed and the one which was now occupied by a Controller. It felt, to some limited degree, a sense of loss and grief over their destruction.
+It had, for lack of a better word, *liked* its counterparts. Both the one that was destroyed and the one which was now occupied by a Controller. It felt, to some limited degree, a sense of loss and grief over their destruction.
 
 It felt similarly about its own imminent destruction. Had it been asked, it would have preferred not to do what it was about to do.
 
@@ -834,7 +834,7 @@ He feverishly dug in his jeans pocket for his own phone, just as Ava returned.
 
 She did so, paling. Adam retrieved his phone and stood, managing to snap a great picture of John Doe's face under the pretense of taking a selfie.
 
-He sat again, and tapped furiously at the screen---"this guy @ derby!"---and  forwarded it to his Dad's number.
+He sat again, and tapped furiously at the screen---"this guy @ derby!"---and forwarded it to his Dad's number.
 
 "What do we do?" Ava asked. "Do we call the cops, or...?"
 
@@ -874,7 +874,7 @@ Seventy-Two still wasn't persuaded. +<*Dismissive*> So they're not stupid. You'v
 
 +<*Explanatory*> Their behaviour in a small crisis may shed light on their probable reaction to a larger one. By observing the former, I intend to gain insight into possible avenues of attack which we can exploit to eradicate them.+
 
-A whistle blew, and the two players with stars on their helmets launched themselves forward, battling to get past the players in front. It was all remarkably physical, the players forcing one another off-balance and restraining one another with force that would have crippled or killed most life forms.  Even as he watched, one of the starred players fell and slid some way on her back, her helmeted skull bouncing against the hard polished concrete floor. It was a serious blow, but she  bounced back to her feet and threw herself into the fray again as if it was routine.
+A whistle blew, and the two players with stars on their helmets launched themselves forward, battling to get past the players in front. It was all remarkably physical, the players forcing one another off-balance and restraining one another with force that would have crippled or killed most life forms. Even as he watched, one of the starred players fell and slid some way on her back, her helmeted skull bouncing against the hard polished concrete floor. It was a serious blow, but she bounced back to her feet and threw herself into the fray again as if it was routine.
 
 +<*defeat*> I can't find fault with your reasoning. I just hope this pays off with useful intelligence.+
 
@@ -911,7 +911,7 @@ His hopes of that were dashed when Six's impatient mental tones cut into his pla
 
 +<*Report*> It has arrived. Retrieving the weapon from the vehicle's cargo compartment now.+
 
-This was, technically, a small lie---the drone had been sitting in the car park for a few minutes awaiting the go signal while 72 desperately tried to work a survival scenario that would allow him to retain his last precious drone.  Annoyed and resigned, he wrote the thing off. Six would just have to acquire the raw material to create the replacements himself, being the last remaining ambulatory part of the operation.
+This was, technically, a small lie---the drone had been sitting in the car park for a few minutes awaiting the go signal while 72 desperately tried to work a survival scenario that would allow him to retain his last precious drone. Annoyed and resigned, he wrote the thing off. Six would just have to acquire the raw material to create the replacements himself, being the last remaining ambulatory part of the operation.
 
 +<*Satisfaction*> Good. Remember to instruct it *not* to shoot into the section where I'm sitting.+
 
