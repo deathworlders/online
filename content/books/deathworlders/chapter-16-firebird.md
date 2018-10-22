@@ -11,7 +11,7 @@ aliases:
 
 **CIA Interrogation Team Planning Session**
 
-"Two and a half million people dead. Another half-million expected to die worldwide from the mid-term repercussions, and nobody has even BEGUN to predict the long-term effects.  The largest and busiest container port in the United States damaged to the point where the repairs are going to take *years*. Major earthquake damage all along the San Andreas fault zone, eruptions as far north as Mount Rainier and thank *fuck* for the tsunami warning systems in Hawaii and along the Asian Pacific Rim because without them the death toll might have doubled."
+"Two and a half million people dead. Another half-million expected to die worldwide from the mid-term repercussions, and nobody has even BEGUN to predict the long-term effects. The largest and busiest container port in the United States damaged to the point where the repairs are going to take *years*. Major earthquake damage all along the San Andreas fault zone, eruptions as far north as Mount Rainier and thank *fuck* for the tsunami warning systems in Hawaii and along the Asian Pacific Rim because without them the death toll might have doubled."
 
 There was a grim and angry silence, during which the folder slapped down accusingly onto the table.
 
@@ -211,7 +211,7 @@ Six coughed, and thought. *"What they will see, is that I went silent, and that 
 
 *"Why's that?"*
 
-*"You mean besides the two and a half million deaths?"* Six snorted.  *"It means I'm now known to have failed to retain at least some secrets. They certainly won't suspect that I am now collaborating with you, but If I were my restored self, I would recommend an immediate full decompile and analysis before any merger went ahead. And on top of that, I would insist on the backup being the dominant personality. Releasing me back into the Hierarchy to work from the inside is no longer an option."*
+*"You mean besides the two and a half million deaths?"* Six snorted. *"It means I'm now known to have failed to retain at least some secrets. They certainly won't suspect that I am now collaborating with you, but If I were my restored self, I would recommend an immediate full decompile and analysis before any merger went ahead. And on top of that, I would insist on the backup being the dominant personality. Releasing me back into the Hierarchy to work from the inside is no longer an option."*
 
 *"I think we're drifting off topic here."*
 
@@ -287,7 +287,7 @@ He paused as the facility-wide tannoy chimed.
 
 The CHM's managers had wisely decided to install a clear tunnel to keep traffic separate from the experimental crops, rather than ban the use of one of the most convenient routes through the station, meaning that for a minute or so they walked surrounded on all sides by growing plants, greenery and botanical research. The accidental placement of the CHM at the heart of the facility rather than on its outskirts had proved to be a real morale-booster---everybody seemed to love it, and there were always a few off-duty workers just hanging out in the tunnel, enjoying the sight of life flourishing in the experimental conditions.
 
-From there, one of the many intersection modules, each of which played a vital role in damage control and life support. They hung a right through one of the three E·ON  Power Modules, another intersection module, and finally into the Facility Administration and Resources Module.
+From there, one of the many intersection modules, each of which played a vital role in damage control and life support. They hung a right through one of the three E·ON Power Modules, another intersection module, and finally into the Facility Administration and Resources Module.
 
 It was a running gag on base that the companies which comprised the Ceres LLC had jointly and equally paid for this particular module because none of them individually wanted to buy the FARM.
 
@@ -313,7 +313,7 @@ There was a general nodding, and so she stood aside for the BAE rep.
 
 "The contract is for three spaceborne destroyers. We were fortunate in that we've been adapting our existing blueprints and coming up with new ones pretty much since the Second Space Race began, so we've got the plans. We just need somewhere to build them." he indicated the BHP-B and Skanska reps. "That's where our friends in the mining and construction industries come in."
 
-"Ceres is an ideal location for a dry-dock. We have existing infrastructure, none of the debris that would threaten a shipyard built in orbit over Earth, it's a low-gravity environment and there's a ready supply of raw materials right here, rolling straight out of the ore processor.  We just need one built."
+"Ceres is an ideal location for a dry-dock. We have existing infrastructure, none of the debris that would threaten a shipyard built in orbit over Earth, it's a low-gravity environment and there's a ready supply of raw materials right here, rolling straight out of the ore processor. We just need one built."
 
 He handed over to the Billiton rep, who activated the wall screen, showing off what were, to Drew C's informed eye, clearly some pretty hasty plans.
 
@@ -467,7 +467,7 @@ The Corti reputation for intellect was not accidental, nor the product of bluff 
 
 "That's funny, because they've got all the signatures of having come the labs YOU worked in and administrate."
 
-"In which case," suggested one of the other humans, this one wearing insignia which  if Nmrb understood the logic correctly---indicated that he was the highest-ranking officer. "Allowing him to continue his analysis of their function may be worth our while."
+"In which case," suggested one of the other humans, this one wearing insignia which if Nmrb understood the logic correctly---indicated that he was the highest-ranking officer. "Allowing him to continue his analysis of their function may be worth our while."
 
 Nmrb decided that he liked this one, even as he recognised the strategy of using the voice of aggression and the voice of calm reason in opposition against one another to pressure him.
 
