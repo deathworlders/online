@@ -914,7 +914,7 @@ Still, it WAS cramped, full of narrow corridors lined with equipment, conduits, 
 
 The B-B administrative module felt almost like any office complex back on Earth, albeit one that was after-hours, or maybe open on a holiday. The only movement so far was a trio of IT techs getting the computers set up, and the Dyson robot vacuum cleaner that was methodically patrolling the carpet. He was just wondering which office was to be his and whose he should report to when a slick-haired skinny blond man with a chestnut tan and a few too many wrinkles for his age stuck his head out and shot him a very white smile. He was wearing a loud blue aloha shirt over his company overalls.
 
-"G'day! You Cavendish?" he asked. He couldn't have been more stereotypically Australian if he'd been wearing a hat with corks in it.   
+"G'day! You Cavendish?" he asked. He couldn't have been more stereotypically Australian if he'd been wearing a hat with corks in it.
 
 "That's me." Drew agreed.
 
