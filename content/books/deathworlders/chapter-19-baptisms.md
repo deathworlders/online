@@ -163,7 +163,7 @@ Sir Jeremy thought about it. The presumption on his time was a little irritating
 
 "Yes, sir Jeremy."
 
-Sir Jeremy cleared up a few letters and some of the shorter reports as he waited. Moses Byron was a self-made billionaire, a man who had stepped out of the  relative obscurity of the business sector within the last four years already with a few million to his name, and had put that money to work in spectacular fashion, capitalising on all the domestic, terrestrial opportunities afforded by the discoveries coming out of Scotch Creek and the universities as the secrets of alien technology were unpicked.
+Sir Jeremy cleared up a few letters and some of the shorter reports as he waited. Moses Byron was a self-made billionaire, a man who had stepped out of the relative obscurity of the business sector within the last four years already with a few million to his name, and had put that money to work in spectacular fashion, capitalising on all the domestic, terrestrial opportunities afforded by the discoveries coming out of Scotch Creek and the universities as the secrets of alien technology were unpicked.
 
 Byron owned the production of volumetric projectors, stasis fields generators, solar collection fields and at least two kinds of alien-derived power storage cells that promised to give the latest generation of smartphone a full month of life when charged. Thanks to him, the near future promised to contain true 3D cinema, the stasis "fridge", self-sufficient electric cars.
 
@@ -375,7 +375,7 @@ Sara was in awe. "Your dad is *amazing*!" she enthused. "He really told the guy 
 
 "Some guy called, uh...Moses...something."
 
-"Moses Byron? Mum and Dad talk about him a lot, like he's...like, they think that all businessmen should be like him, they say he's  really honest and he's one of those people who got money and *didn't* turn into an asshole, and he's making the world a better place and stuff. He's, like, the *only* person in a suit I've ever heard them say something nice about."
+"Moses Byron? Mum and Dad talk about him a lot, like he's...like, they think that all businessmen should be like him, they say he's really honest and he's one of those people who got money and *didn't* turn into an asshole, and he's making the world a better place and stuff. He's, like, the *only* person in a suit I've ever heard them say something nice about."
 
 Which wasn't exactly true. They'd also been fairly flattering about Sir Jeremy, and about Gabriel Arés, but she knew what she meant.
 
@@ -737,7 +737,7 @@ Kirk leaned in, as if by his taking a closer look the data might change.
 
 "The whole Swarm-of-Swarms, tracked by a Kwmbwrw listening post, hauling ass back towards Hunter space at ninety kilolights."
 
-As Kirk stood back up, Lewis looked up at  him. "What does that mean, dude?"
+As Kirk stood back up, Lewis looked up at him. "What does that mean, dude?"
 
 Kirk's four arms described a convoluted approximation of a human shrug. "I have no idea. But it worries me."
 
@@ -887,7 +887,7 @@ She ducked past a petty officer and his team, who stood aside en route to whatev
 
 ---
 
-**Date Point 4y 9m  1w AV**
+**Date Point 4y 9m 1w AV**
 
 **Free Trade Station 1090** **_Endless Possibility"_**
 
@@ -921,7 +921,7 @@ She laughed. "Man, we've got a lively one. What's he doing?"
 
 "What *is* he saying?" Kirk demanded.
 
-"Fuck if I know." Allison shrugged. "Here's hoping he can tone the Patois down."  
+"Fuck if I know." Allison shrugged. "Here's hoping he can tone the Patois down."
 
 "*Good luck.*" Julian muttered over the link.
 
@@ -1215,7 +1215,7 @@ It took an effort of will, but Julian wrestled his frustrated libido into the co
 
 "So...what *do* you want?"
 
-The question shut her down for a second as she thought about it.  "I guess...I...what about you?"
+The question shut her down for a second as she thought about it. "I guess...I...what about you?"
 
 "Are we just physical?"
 
