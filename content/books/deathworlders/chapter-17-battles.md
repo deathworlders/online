@@ -97,7 +97,7 @@ The Assassin spun. Twin plasma bolts, weapons that he could never have fired if 
 
 On their way, they had passed through a hologram of the target.
 
-"I apologise for my absence, but I would prefer not to be murdered today." the  apparition continued. "Nor on any other day, for that matter. I do apologise for killing you this way. I don't suppose it shall be very pleasant." earnest contrition described a glowing puce stripe down his flank.
+"I apologise for my absence, but I would prefer not to be murdered today." the apparition continued. "Nor on any other day, for that matter. I do apologise for killing you this way. I don't suppose it shall be very pleasant." earnest contrition described a glowing puce stripe down his flank.
 
 The Assassin looked wildly around, immediately on his guard. Was that the whine of hunter-killer drones? No, just the tree, keening its last. His chest felt tight, despite the absence of any apparent violence. No turrets unfolded from the floors, no armed Annebenellin shock troopers stormed him.
 
@@ -185,7 +185,7 @@ This was in response to Kirk making an amused noise.
 
 "Go ahead and say it."
 
-Kirk shook his mane. "No thanks, I've watched too much TV to fall into that cliched old trope. 'Alien comments on human romance and sexuality'?  Not I."
+Kirk shook his mane. "No thanks, I've watched too much TV to fall into that cliched old trope. 'Alien comments on human romance and sexuality'? Not I."
 
 He bared his teeth in a poor imitation of a smile. "I'm still allowed to find it funny though."
 
@@ -659,7 +659,7 @@ There was a flash of light, and a *thump*, felt through the soles of the feet, a
 
 "*I'm gonna throw up, fuck...*"
 
-Drew looked up. The impact had flung Wings high into, for lack of a better term, the air and he was tumbling wildly, suit bubbled inside the high-visibility yellow glow of his emergency forcefield.  "Don't you fucking dare, mate. Just like we practiced, focus on your heads-up display! You remember!"
+Drew looked up. The impact had flung Wings high into, for lack of a better term, the air and he was tumbling wildly, suit bubbled inside the high-visibility yellow glow of his emergency forcefield. "Don't you fucking dare, mate. Just like we practiced, focus on your heads-up display! You remember!"
 
 "*Yeah...yeah, focus on the HUD...deep breaths....*" With his mind snapped onto what he could do to help himself, Wings showed why he was on the team by rapidly getting himself under control, both mentally and physically. A few precisely-timed puffs of propellant from his SAFER and his spin was corrected.
 
@@ -785,7 +785,7 @@ They ducked through a swirl of dust and paused on the opposite side of the stree
 
 "What did you bring for yourself?"
 
-Julian just tugged his jacket aside---hanging from his belt was a knife as long as one of Kirk's hands, and a hatchet.  "Just the essentials." he said, almost apologetically, as if he wasn't carrying weaponry that could bring down a Vulza.
+Julian just tugged his jacket aside---hanging from his belt was a knife as long as one of Kirk's hands, and a hatchet. "Just the essentials." he said, almost apologetically, as if he wasn't carrying weaponry that could bring down a Vulza.
 
 Knocking on the door produced no effect at first, but then, just as Julian was about to ask if he was *sure* they had the right place, the door---sealed against the invasive dust---popped and freely swung inwards.
 
@@ -1077,7 +1077,7 @@ One thing Gyotin *had* got his head around with humans was the way their analogi
 
 He shivered the sensation out as he crossed the threshold. "What were you do in there?" he asked.
 
-"I was just praying, asking God for help." She said simply.  "And confessing."
+"I was just praying, asking God for help." She said simply. "And confessing."
 
 Gyotin sniffed. "I don't understand." he said. "Confessing what to?"
 
@@ -1253,7 +1253,7 @@ Not bad for a half-baked plan conceived in a rush. Even deploying the scavenged 
 
 Space was too dark and empty for much to be seen of the intense spacetime distortion as the gravity spike was deployed. Even when the hapless bulk freighter slammed into the distortion at several thousand times the speed of light, the most that showed for it on any visible spectrum was a slight moving of the stars, like rocks under a clear stream.
 
-On other spectra, the reaction was instant. Hunter comms chatter tripled in volume and intensity. Even set on passive detection only, the  Hierarchy sensors recorded all sorts of information of uncertain significance---neutrino bursts, ES field sweeps. Dozens of ships decloaked at once, among them a formation of dropships identical to the one Powell and his men were riding. A few tense seconds ticked by as the first major failure point was met and tested.
+On other spectra, the reaction was instant. Hunter comms chatter tripled in volume and intensity. Even set on passive detection only, the Hierarchy sensors recorded all sorts of information of uncertain significance---neutrino bursts, ES field sweeps. Dozens of ships decloaked at once, among them a formation of dropships identical to the one Powell and his men were riding. A few tense seconds ticked by as the first major failure point was met and tested.
 
 He got the call he was hoping for. "...No sign of any weapons fire between Hunter vessels, sir."
 
@@ -1299,7 +1299,7 @@ The nearest doctor turned out to be of Kirk's own species---she was taking a nap
 
 "What? Who are...? A human? A *wounded* human?"
 
-"We're  all patients, sister." Kirk told her. "But my friend here needs your attention first."
+"We're all patients, sister." Kirk told her. "But my friend here needs your attention first."
 
 She took a look at the mangled mess which was the end of Julian's leg, and focused. "Get him on the table."
 
@@ -1511,7 +1511,7 @@ He composed himself with a shiver, allowing his emotional hues to fade. "At firs
 
 "She was a hypochondriac."
 
-"Your language never ceases to amaze me with the way that it packs complicated concepts into terse and efficient little words.  Yes. Not to a crippling degree, but it was a rare week that passed without some visit to the medics and their scanners. Any sign of an impending bleed in her brain would surely have been flagged and corrected. She would not have stood for anything else."
+"Your language never ceases to amaze me with the way that it packs complicated concepts into terse and efficient little words. Yes. Not to a crippling degree, but it was a rare week that passed without some visit to the medics and their scanners. Any sign of an impending bleed in her brain would surely have been flagged and corrected. She would not have stood for anything else."
 
 "So there's your coincidence." Kirk said. "The enemy action?"
 
@@ -1699,7 +1699,7 @@ Manning grabbed a pistol from the weapons locker at the back of the bridge. "Red
 
 "Three minutes twenty, sir."
 
-He glanced the information available to him. "How long until that big one catches us?" While the little dropships weren't a problem for making good their escape, if  the huge ship now bearing down on them latched on then its tonnage would add hugely to the energy demands of the jump engine, effectively trapping them on the battlefield to be swamped and devoured. Evasive action would only serve to drain their remaining capacitors of much-needed energy.
+He glanced the information available to him. "How long until that big one catches us?" While the little dropships weren't a problem for making good their escape, if the huge ship now bearing down on them latched on then its tonnage would add hugely to the energy demands of the jump engine, effectively trapping them on the battlefield to be swamped and devoured. Evasive action would only serve to drain their remaining capacitors of much-needed energy.
 
 "About two minutes forty, sir."
 
