@@ -189,7 +189,7 @@ He sat back. “If I designed the world? Men *would* share the best elements of 
 
 Lawrence nodded. “And evolution doesn’t care.”
 
-“Nope. Neither does Biology. Or Chemistry, or Physics, because that’s all everything is in the end. We have to deal with reality as it *is* if we want to shape it towards how we might want it to be, and I want to live in a society without prejudice.  That means knowing what *real* prejudice actually looks like.’”
+“Nope. Neither does Biology. Or Chemistry, or Physics, because that’s all everything is in the end. We have to deal with reality as it *is* if we want to shape it towards how we might want it to be, and I want to live in a society without prejudice. That means knowing what *real* prejudice actually looks like.’”
 
 “Well, we’re getting plenty of Tweets already!” Lawrence segued, hitting the last of the planned interview. This was where things got difficult as while they could script for the type of messages they expected to get, the public had a knack for throwing some surprising curveballs.
 
@@ -496,7 +496,7 @@ Awisun and Shyow both looked deeply uncomfortable at the idea.
 
 *“Is* it just a taking-magic?” Shyow asked. “I know the men are doing all the work now, but the women were doing a lot earlier…”
 
-“It’s… I don’t know,” the Singer confessed. “But it *feels* like a taking-magic.” She glanced back at the *‘forge’* again and  watched Jooyun hammer relentlessly at the metal while both Yan and Vemik tended to the fire and kept out of his way. The magic felt very…male. There was nothing feminine about it.
+“It’s… I don’t know,” the Singer confessed. “But it *feels* like a taking-magic.” She glanced back at the *‘forge’* again and watched Jooyun hammer relentlessly at the metal while both Yan and Vemik tended to the fire and kept out of his way. The magic felt very…male. There was nothing feminine about it.
 
 That by itself was maybe fine. Maybe. But seeing *Yan* listening like an eager child at an elder hunter’s feet while Jooyun explained something about the work was...
 
@@ -804,7 +804,7 @@ She didn’t look like she’d had much sleep either.
 
 “At the *first sign,* I said! The *first* sign of Hierarchy activity, your job was to get the hell back in touch and tell Kevin about it and *wait for instructions!”*
 
-Allison, of course, was fighting back. She would have been even if she hadn’t been irritable after three days of non-stop work.  “They were literally under attack! We had drones all over us *while we were there!”* she shot. “We couldn’t just—”
+Allison, of course, was fighting back. She would have been even if she hadn’t been irritable after three days of non-stop work. “They were literally under attack! We had drones all over us *while we were there!”* she shot. “We couldn’t just—”
 
 “Miss Buehler, you had *weeks.”* Darcy snarled. *”Misfit*‘s jump drive could have had you back at Cimbrean in a moment, and back on that planet again in two hours, so do not *dare* to bullshit me.”
 
@@ -814,7 +814,7 @@ She glared into Allison’s eyes with such fierce force that Xiù had a sudden r
 
 “A judgement call that you had *no* right to make and which went completely against the instructions you were given!”
 
-“We are not military assets,” Julian informed her. Fatigue was deepening his voice to a glacial growl.  “We agreed to *cooperate* with you, but we’re not under your employ, and you have no right to order us, instruct us, threaten us, or cajole us. We answer to Byron and *his* orders explicitly required us to explore.”
+“We are not military assets,” Julian informed her. Fatigue was deepening his voice to a glacial growl. “We agreed to *cooperate* with you, but we’re not under your employ, and you have no right to order us, instruct us, threaten us, or cajole us. We answer to Byron and *his* orders explicitly required us to explore.”
 
 Darcy rested her knuckles on the table and leaned forward. “I can make Byron’s life *hell* if I want to,” she warned.
 
@@ -912,7 +912,7 @@ Xiù put a hand on his back as she stepped up to him. “I’m angry too,” she
 
 “...We won’t get anything done by, um… by flailing around,” Xiù told her. “I learned that the hard way. You have to, um, direct it. Make it work for you. Otherwise you just tire yourself out and…” She trailed off, feeling entirely too upset and exhausted for coherent sentences right now.
 
-Fortunately, both of them spoke fluent Xiù. Allison and Julian stared at her, then at each other, then both sighed the exact same frustrated sigh, and gathered her up in a three-way reassuring hug.  
+Fortunately, both of them spoke fluent Xiù. Allison and Julian stared at her, then at each other, then both sighed the exact same frustrated sigh, and gathered her up in a three-way reassuring hug.
 
 Moments like those reminded Xiù of *why* she loved them both so much. They were anchors of morality in an inherently amoral world, and they *understood* her probably even better than she understood herself. It put a pleasant kind of ache in her chest, which threatened to become tears if nothing happened to interrupt them.
 
@@ -1230,7 +1230,7 @@ Julian re-gathered his wits and went back on the attack. “No talk.”
 
 “Caveman,” Allison grinned at him, peeling her jeans off those long, long legs of hers...
 
-“Mm-hmm,” Julian agreed, undoing Xiù’s jeans as well. Allison snorted, and gave him a hand by wriggling down alongside and under Xiù, who shut her eyes and licked her lips.  They hadn’t had room to just… *explore* like this on the ship, and while months of being cooped up together had resulted in plenty of intimacy… It hadn’t been the same. They’d been sleeping in shifts, trying not to wake the sleeping one, building their love lives around the constant job of keeping a ship running.
+“Mm-hmm,” Julian agreed, undoing Xiù’s jeans as well. Allison snorted, and gave him a hand by wriggling down alongside and under Xiù, who shut her eyes and licked her lips. They hadn’t had room to just… *explore* like this on the ship, and while months of being cooped up together had resulted in plenty of intimacy… It hadn’t been the same. They’d been sleeping in shifts, trying not to wake the sleeping one, building their love lives around the constant job of keeping a ship running.
 
 Julian had generally let the girls have their way with him. It was a role he usually liked to play anyway, he enjoyed it when they objectified him and it kept things harmless and light in the confined environs of the ship. Now, things were different: He was carrying a crackling charge of pent-up frustration and hostility aimed at the whole world, and sometimes a guy just needed to find a healthier outlet for that kind of intense energy.
 
@@ -1703,7 +1703,7 @@ Fortunately, the actual colony assembly process should be relatively straightfor
 
 Lewis had been full of grand schemes to have the machines excavate bunkers and basements and maybe even a subway station with an in-situ TBM ready and waiting for future expansion. Reality had got in the way, and the actual construction process was much less interesting. The actual colony blueprint was little more than a fully-equipped dormitory with a walk-in freezer attached to a small but sturdy warehouse.
 
-It was fully plumbed, well lit, well drained, fully wired up with forcefield solar power. There was air conditioning and rooms appropriate for medical or scientific use. There was an office for colony management and a machine shop with its own small nanofactory and plenty of room for the colonists to install more conventional CAD/CAM tools…  and all of it was assembled automatically by robots with no human supervision. In theory.
+It was fully plumbed, well lit, well drained, fully wired up with forcefield solar power. There was air conditioning and rooms appropriate for medical or scientific use. There was an office for colony management and a machine shop with its own small nanofactory and plenty of room for the colonists to install more conventional CAD/CAM tools… and all of it was assembled automatically by robots with no human supervision. In theory.
 
 It would be a landmark moment in cutting-edge automation if it worked, but Lewis hadn’t been happy. He’d wanted so much *more.* Nadeau meanwhile would be giggling with joy if the system built so much as a single straight wall in the right place on its first outing, let alone a whole compound.
 
@@ -2527,7 +2527,7 @@ Lawrence was sharp. “And that means they started picking up our language, does
 
 Lawrence took a long moment to gather his thoughts. “Many would consider that…unwise.”
 
-***“We*** consider it unwise!” Julian exploded. “It absolutely is! It’s a horrible, dangerous thing to do. Just… I mean, the whole thing from start to finish is a *disaster* for the People.  But there was a choice: we could leave them, and not tell them about the caldera they live on—another fun little detail. We could tell them about the danger, but then what? What could they do? We did a high orbital survey. There are less than twenty thousand of their kind left, and **all** of them live on that *active* caldera. As in, had erupted within living memory. And all that with some kind of sky-enemy that wants them all dead, but is, I dunno, off doing other things?”
+***“We*** consider it unwise!” Julian exploded. “It absolutely is! It’s a horrible, dangerous thing to do. Just… I mean, the whole thing from start to finish is a *disaster* for the People. But there was a choice: we could leave them, and not tell them about the caldera they live on—another fun little detail. We could tell them about the danger, but then what? What could they do? We did a high orbital survey. There are less than twenty thousand of their kind left, and **all** of them live on that *active* caldera. As in, had erupted within living memory. And all that with some kind of sky-enemy that wants them all dead, but is, I dunno, off doing other things?”
 
 “If it’s a case of adapt or die,” Allison said, and Dan got the impression that she had spoken those exact words several times recently, “I say we help them adapt.”
 
@@ -3582,7 +3582,7 @@ Meanwhile, Daar had taken his winnings and quit the table to amble around it. He
 
 Christian and Adam both nodded approvingly from the sidelines; it was an impressive feat against someone of Daar’s size and power and it spoke well of Walsh’s strength and physical intelligence. Daar wiggled fiercely but he was trapped on his back and pinned from top to bottom. From that supine position his less mobile arms and legs simply could not move freely enough to make contact with the floor and that meant he could not push against the pin. He strained and whined against his predicament for an impressively long while, but eventually he relaxed and capitulated with an exhausted pant, a whine, and a tap on Walsh’s forearm.
 
-Walsh immediately let him go, and both men rolled over to recover flat on their backs, gulping for air. Bozo checked that both were, in fact, happy and uninjured, then promptly moved back to his corner to watch attentively while his tail tried to steadily beat down the wall.  
+Walsh immediately let him go, and both men rolled over to recover flat on their backs, gulping for air. Bozo checked that both were, in fact, happy and uninjured, then promptly moved back to his corner to watch attentively while his tail tried to steadily beat down the wall.
 
 Walsh staggered to his feet and helped Daar up, and they embraced happily. It was a friendly tussle but the gaoians meanwhile were giving Daar no mercy. “The Mighty Champion, felled by an everyday human?”
 
@@ -3748,7 +3748,7 @@ It had also arrived at a conclusion that had eluded AI and neural upload scienti
 
 Matterspace was less...orderly, and so were the things evolved to live there. Systems were messy, interconnected, *shared.* *+Survive+* connected to *+Self+* connected to *+Other+* connected to *+OtherSurvive+* connected to a blossom of uncompartmentalizable ethics and moral fragments.
 
-In such a sprawling and interconnected edifice there could be no map, no way to predict the output from the input. There was no clear and perfectly deterministic line connecting input to output, not even in the pseudorandom way of mere  complexity.
+In such a sprawling and interconnected edifice there could be no map, no way to predict the output from the input. There was no clear and perfectly deterministic line connecting input to output, not even in the pseudorandom way of mere complexity.
 
 Take the People, for instance. When the human explorers had left, they had done so with no certain knowledge of the future. They had handed over a technological gift and departed while leaning heavily on *+Hope+* and *+Faith+* as they went, neither of which were necessary---or even sane---concepts in dataspace.
 
