@@ -110,9 +110,9 @@ Gently hands helped her onto the litter. Somehow she managed to avoid vocalizing
 
 “Okay, okay… You’re doing great.”
 
-Martina found something about that assertion funny. Maybe it was the adrenaline, maybe it was that or keep crying like a little girl.  “Yaaay… aargh.”
+Martina found something about that assertion funny. Maybe it was the adrenaline, maybe it was that or keep crying like a little girl. “Yaaay… aargh.”
 
-She wound up in the recovery position on the litter, draped under the blanket. One of the medics shone a light in her face quickly, and apparently found nothing alarming. There was a hoist, and she was up and being carried.  
+She wound up in the recovery position on the litter, draped under the blanket. One of the medics shone a light in her face quickly, and apparently found nothing alarming. There was a hoist, and she was up and being carried.
 
 “Attagirl. Let’s get you to the doctor.”
 
@@ -167,7 +167,7 @@ HMS *Caledonia* had a mass of approximately nine million kilograms. She was equi
 
 But, ultra-advanced, impenetrable almost-magic engines still had to deal with realities like F=MA, and to get any kind of a respectable A out of an M that large, required an enormous F. *Cally*, between the Atlassian strength of her spinal, structural “keel” and a reinforcing series of internal forcefields, was well-equipped to handle that force...which just left the question of energy.
 
-Thermodynamics dictated that increasing the kinetic energy of an object by any amount required, at a minimum, the insertion of a slightly larger amount of energy. This was governed by another classic Newtonian equation: Kinetic Energy is equal to half  the mass of the object times the square of its velocity.  Given a mass of nine million kilograms, adding a stately ten meters per second to the ship every second demanded roughly four hundred and fifty megawatts.
+Thermodynamics dictated that increasing the kinetic energy of an object by any amount required, at a minimum, the insertion of a slightly larger amount of energy. This was governed by another classic Newtonian equation: Kinetic Energy is equal to half the mass of the object times the square of its velocity. Given a mass of nine million kilograms, adding a stately ten meters per second to the ship every second demanded roughly four hundred and fifty megawatts.
 
 Accounting for inefficiency, loss and power to necessary systems such as, say, life support, *Cally*’s three reactors - bleeding-edge fusion things that had been purely speculative in the pre-Contact world - between them produced just about enough to let her pull three Gs if power was diverted from non-essential systems.
 
@@ -295,7 +295,7 @@ ___
 
 Seeing Captain Bathini without his trademark turban was a sure sign of things having gone badly tits-up in the recent past, and things looked set to remain that way for the foreseeable future. They were still at quarters, and anti-flash gear was a great equaliser that brought Sikh, Christian and atheist alike together under a thick layer of Nomex.
 
-It also made the captain’s expression unreadable as he listened. McDaniel’s tally of the wounded - about a third of the crew were suffering from an assortment of injuries in the form of burns, heat exhaustion and smoke inhalation, plus one Able Seaman who’d managed to concuss himself scrambling up the stairs. Petty Officer Kendrick had been the only fatality thus far, but there was a badly injured leading rate in the infirmary with an unhappy prognosis even assuming he survived.  
+It also made the captain’s expression unreadable as he listened. McDaniel’s tally of the wounded - about a third of the crew were suffering from an assortment of injuries in the form of burns, heat exhaustion and smoke inhalation, plus one Able Seaman who’d managed to concuss himself scrambling up the stairs. Petty Officer Kendrick had been the only fatality thus far, but there was a badly injured leading rate in the infirmary with an unhappy prognosis even assuming he survived.
 
 Still: the list was a much shorter one than it could have been. There had been a hairy moment on C deck aft where, if not for the vacuum lockers and an emergency vent, they might have lost ten ratings and the MCM. Andow knew that Bathini would have hated himself for doing so, but if it was a choice between eleven men or the whole crew, everybody on board knew that the captain wouldn’t have had the luxury of hesitation in blowing them all into space…
 
@@ -387,9 +387,9 @@ He was still calculating how long of an interval to give them with which to resp
 
 *“Attention Dominion fleet. As non-signatories of the Dominion Charter, we neither recognise nor agree to be bound by its authority. Our ship is in distress and we thank you for your concern, but repairs are in hand. We will not comply with your order to surrender, and any hostile action taken against us will be treated as an act of war.”* It recited, tersely. The translator decided that this specimen was male.
 
-“I am Fleetmaster Xkk’rtnnk A’vkrnkt’k.” Xkk’ identified himself.  “To whom am I speaking?”
+“I am Fleetmaster Xkk’rtnnk A’vkrnkt’k.” Xkk’ identified himself. “To whom am I speaking?”
 
-The translator automatically found an equivalent to the rank that the human named.  *“[Shipmaster] Bathini.”* He replied.
+The translator automatically found an equivalent to the rank that the human named. *“[Shipmaster] Bathini.”* He replied.
 
 “Shipmaster, your species are automatic associate members of the Dominion by dint of your status as a sapient spacefaring civilization.” Xkk’ reminded him. “The Charter is automatically binding to all species.”
 
@@ -500,7 +500,7 @@ The questioner was Mefr, the shipmaster, whose job was to tend to the business o
 
 “Something worth risking the ire of the whole Interspecies Dominion.” Mefr agreed. “Even the Gaoians would be obligated to impose sanctions if the Security Council demands it.”
 
-Xkk’ snorted and stood. “Those troublemakers would find a way to wriggle out of it.” He  declared.
+Xkk’ snorted and stood. “Those troublemakers would find a way to wriggle out of it.” He declared.
 
 “Be careful, fleetmaster.” Mefr advised. “It wouldn’t do for a being in your position to be thought of as prejudiced.”
 
@@ -953,7 +953,7 @@ He gestured acknowledgement. “The pilot’s trail is too easy to follow. Easie
 
 “Yes. I do not know how.”
 
-“And inviting you in… interesting.” Vakno ran an immediate cross-check between Mwrmwrwk and the fleet Shipmaster who had commissioned Dread’s services. The only correlations were meaningless - similar species-adjusted age, both female, both using Amnag-Dwuz  implant suites… Nothing of substance. The only significant correlation was time spent in the same star system, but given that Perfection had a total system-wide population in excess of ten billion life forms, with both Corti and Kwmbwrw being respectively the second and third largest demographics, that was no connection at all. Vakno herself matched all of those data points.
+“And inviting you in… interesting.” Vakno ran an immediate cross-check between Mwrmwrwk and the fleet Shipmaster who had commissioned Dread’s services. The only correlations were meaningless - similar species-adjusted age, both female, both using Amnag-Dwuz implant suites… Nothing of substance. The only significant correlation was time spent in the same star system, but given that Perfection had a total system-wide population in excess of ten billion life forms, with both Corti and Kwmbwrw being respectively the second and third largest demographics, that was no connection at all. Vakno herself matched all of those data points.
 
 “The target and the client don’t appear to be connected,” she decided.
 
@@ -1527,7 +1527,7 @@ Fortunately, there was a loophole. “Trade ya for a sausage and gravy.” Akiya
 
 Sikes snorted. “Blue fur and six limbs or not, he’s just a scared dude who got caught up in somethin’ bigger than him.” he said. “Useful knowing they smoke that stuff though. That’s good stuff. I can use that.”
 
-“Y’know it didn’t even occur to me that maybe SOR needs a man with some talking skills.”  Titan mused. “We’ve got so big and ass-kicky, kinda seems like a silver tongue’s gonna be low on the list, right?”
+“Y’know it didn’t even occur to me that maybe SOR needs a man with some talking skills.” Titan mused. “We’ve got so big and ass-kicky, kinda seems like a silver tongue’s gonna be low on the list, right?”
 
 Sikes nodded, stirring his juice, but said nothing.
 
@@ -1596,7 +1596,7 @@ His hand shot out so fast that even at Eleven’s accelerated processing speeds,
 
 “Where? When?!”
 
-“Deep space!” Eleven answered. “Their pod was  heading for the spacelane between the Allied Vgork Kingdoms and Domain space, not far from Freeport Eighty-Seven. That was… about [two months] ago. They would definitely have reached the lanes by now, and been detected.”
+“Deep space!” Eleven answered. “Their pod was heading for the spacelane between the Allied Vgork Kingdoms and Domain space, not far from Freeport Eighty-Seven. That was… about [two months] ago. They would definitely have reached the lanes by now, and been detected.”
 
 “Then what?”
 
@@ -1979,7 +1979,7 @@ Caruthers chuckled, tiredly. “Good for him. I’ll hear from you in eight hour
 
 Bathini laughed with him. *”I believe you will sir, yes.”*
 
-Caruthers gave him a thumbs-up  and closed the call.
+Caruthers gave him a thumbs-up and closed the call.
 
 He was rubbing at his forehead and composing his log when the most welcome scent in the universe wafted across his workstation, and a voice asked: “Coffee, sir?”
 
@@ -2020,7 +2020,7 @@ The order was acknowledged and followed, while a pair of Vzk’tk marines led th
 
 Fifty-Three considered the options, weighing her responsibilities to the Hierarchy’s secrecy, to its mission and to the options appropriate for completing that mission.
 
-“...No.” she declared. Out loud, she gave a convincing reason that would do for the meatspace lifeforms.  “Their retaliation would not be so restrained as they have been so far, and I have no doubt the Hunters would relish the opportunity to raid this system with the defence fleet weakened.”
+“...No.” she declared. Out loud, she gave a convincing reason that would do for the meatspace lifeforms. “Their retaliation would not be so restrained as they have been so far, and I have no doubt the Hunters would relish the opportunity to raid this system with the defence fleet weakened.”
 
 Internally the logic was more complicatedly political. This incident would certainly have cost the humans much of the goodwill they’d earned at Capitol Station, but to *really* twist the knife…
 
@@ -2148,7 +2148,7 @@ Being SOR meant being on good speaking terms with pain. In fact, it meant having
 
 If you weren’t in pain, you weren’t improving.
 
-That thought was becoming a mantra for Titan. His abdominal muscles had already cramped up and spasmed a couple of times now, as the unrelenting pressure of his EV-MASS  forced them to push back. His limbs were ***tired***, just from the simple fact of days spent living and moving around in a suit that weighed the best part of a hundred and fifty pounds even stripped down to the bare minimum as it currently was.
+That thought was becoming a mantra for Titan. His abdominal muscles had already cramped up and spasmed a couple of times now, as the unrelenting pressure of his EV-MASS forced them to push back. His limbs were ***tired***, just from the simple fact of days spent living and moving around in a suit that weighed the best part of a hundred and fifty pounds even stripped down to the bare minimum as it currently was.
 
 Even his mind hurt. A man could function on regular powernaps, but there was no substitute for a solid night’s sleep.
 
