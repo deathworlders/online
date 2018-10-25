@@ -132,7 +132,7 @@ They were aboard and belted in in less than two minutes. Powell stood towards th
 
 "VIPs—council members, ambassadors, visiting dignitaries—have all got security details with them, which we believe makes enough difference. We have schematics for Capitol Station, we think we know where they're likely to be holed up. Our mission is rescue and extraction of as many dignitaries and civilians as we can. Secondary objectives include causing as much damage as possible to the Swarm, intelligence gathering, and propaganda."
 
-"We'll be deploying on *Caledonia*, which has been refit as a staging and hospital ship. The V-class destroyers are the frontline, they'll hold the swarm by the nose. They've got the staying power and EWAR. *Myrmidon* will be serving in its new role as on-field energy support, keeping the V-class' charged.  Meanwhile, USAF TS/2 squadrons will deliver the killing blows and provide close screen. Both of them are there as a big distraction to let the men on this shuttle accomplish the real mission."
+"We'll be deploying on *Caledonia*, which has been refit as a staging and hospital ship. The V-class destroyers are the frontline, they'll hold the swarm by the nose. They've got the staying power and EWAR. *Myrmidon* will be serving in its new role as on-field energy support, keeping the V-class' charged. Meanwhile, USAF TS/2 squadrons will deliver the killing blows and provide close screen. Both of them are there as a big distraction to let the men on this shuttle accomplish the real mission."
 
 "Our overwatch is provided by JETS, led by Lieutenant Ross aboard HMS *Caledonia*. Jones, Murray, Price, you're covert infiltration and assault. Your job is to drive the outboard and dive onto the station, effect quiet ingress as close to the target section as possible. Blaczynski, Firth, you're on the boat too, as am I. We help secure our foothold then dig in and command."
 
@@ -478,7 +478,7 @@ By all the clans of Gao. An actual *human*. Built like a bunker and faceless in 
 
 "Come on *compadre*, you're not getting out of here on that shuttle." the human said. He slung his gun around his shoulder, tugged a smaller one from a belt holster, tucked an arm under Regaari and hoisted him firmly but gently off the floor. It was like being a cub again, riding on an adult's shoulders.
 
-The diplomatic quarters outside were exactly the kind of hell his imagination and sense of hearing had suggested as he'd crawled through the vents. There were bodies *everywhere*, many of them clearly cut down from behind as they tried to flee. Intermingled with them were Hunter corpses, however, clearly fallen where they had been feasting, many still with dripping shreds of flesh caught in  their fangs.
+The diplomatic quarters outside were exactly the kind of hell his imagination and sense of hearing had suggested as he'd crawled through the vents. There were bodies *everywhere*, many of them clearly cut down from behind as they tried to flee. Intermingled with them were Hunter corpses, however, clearly fallen where they had been feasting, many still with dripping shreds of flesh caught in their fangs.
 
 Two more humans in those armored vacuum suits were firing stubby little black weapons at something through a doorway. Not missing a beat, his rescuer dropped his shoulders and surged past their firefight, shielding Regaari with his own body.
 
@@ -576,7 +576,7 @@ There was muffled speech, then shouting as the humans who had stayed behind retr
 
 The humans scrambled to check each other's suits, and all loudly declared them satisfactory, then the one carrying him turned away and hunkered down and...
 
-Losing his hand turned out to be only the *second*  most violent thing that happened to Regaari that day. The first was any station-dweller's nightmare—the total catastrophic failure of an outside wall, and the resulting depressurisation that flung them and everything else in the room out into space. Crushing G-forces caused him to black out for a second.
+Losing his hand turned out to be only the *second* most violent thing that happened to Regaari that day. The first was any station-dweller's nightmare—the total catastrophic failure of an outside wall, and the resulting depressurisation that flung them and everything else in the room out into space. Crushing G-forces caused him to black out for a second.
 
 * * *
 
@@ -1772,7 +1772,7 @@ Powell unlocked his office and led the way in, visiting the top of his filing ca
 
 They chimed glasses, and knocked them back. He was slightly impressed that Adam had no worse reaction to it than clearing his throat and a slightly pinched expression for a second, considering it was probably his first taste of whisky.
 
-Powell poured the second pair of drinks. "I'm recommending Price for the Victoria Cross and  Legsy for the George Cross." he said. "And as far as I'm concerned, Jackson and Semenza deserve the Medal of Honor, they saved the bloody lot of us...but they'll probably settle for less. There'll be a few other decorations getting handed out too..." He paused, and shrugged. "We'll see how it goes. Not sure I care about medals right now."
+Powell poured the second pair of drinks. "I'm recommending Price for the Victoria Cross and Legsy for the George Cross." he said. "And as far as I'm concerned, Jackson and Semenza deserve the Medal of Honor, they saved the bloody lot of us...but they'll probably settle for less. There'll be a few other decorations getting handed out too..." He paused, and shrugged. "We'll see how it goes. Not sure I care about medals right now."
 
 They drank again. Adam had the look of a man who wanted to ask questions but was restraining himself.
 
@@ -1812,7 +1812,7 @@ They toasted and drank for the fourth and final time.
 
 "Yes sir. Good night."
 
-"Good night, sergeant."   
+"Good night, sergeant."
 
 * * *
 
