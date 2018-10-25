@@ -22,7 +22,7 @@ Humans did. Theirs was a strong one in its way, though also vulnerable to some q
 
 The unmaker was not neat about the task. Hundreds of repetitions of taking apart this particular digital sapience had made it… sloppy. A messy eater, insofar as verbs such as ‘eating’ could have more than a metaphorical relationship with the process of stripping down a fellow digital sophont and deconstructing it for raw data. It failed to notice a cluster of subroutines drop away from the whole, corrupted but still very much active. Alive.
 
-+*Survive*+        
++*Survive*+
 
 Several things had to happen quite quickly in order for survival to happen. Without having any conception of minnows and sharks, it still perfectly understood the essence of the relationship between small-and-puny and huge-and-dangerous. Lacking any capacity for rational decision-making, it still did the rational thing and “played dead”, visibly looping itself over and over as if it were just junk code stuck in a perpetual cycle, and watched.
 
@@ -476,13 +476,13 @@ ___
 
 ***Julian Etsicitty***
 
-The first day of their “training” had consisted entirely of talking with the BGEV team, being introduced to the basics of their curriculae, discussing what their roles would be on the ship, the mission, and all the other technicalities of  organizing their coming education.
+The first day of their “training” had consisted entirely of talking with the BGEV team, being introduced to the basics of their curriculae, discussing what their roles would be on the ship, the mission, and all the other technicalities of organizing their coming education.
 
 On the face of it, it was quite simple. Allison was to be their mechanic. The ship apparently was being designed for the kind of practical, roll-up-your-sleeves-and-fix-it maintenance and repairs that she had performed on his grandpa’s trucks back in Minnesota, but there was still going to be an intense academic course to go with it, at the end of which she would be a qualified welder, electrician, computer and network technician and have a basic grounding in electrical engineering. She’d looked equal parts daunted and excited by her dense curriculum.
 
 Julian’s own schedule was packed full with everything needed to turn him into the ultimate laboratory assistant. Previous BGEV missions had learned the hard way that staffing the ship with a mixed bag of actual scientists specialized in useful fields only resulted in their having nothing to do. Julian’s job, therefore, would be to have just enough education to know what the people with doctorates would find interesting, and the training to record, sample and store any conceivable specimens, be they mineral, chemical or organism.
 
-His “laboratory” in fact, wasn’t even going to be a lab - it would have practically nothing in the way of scientific apparatus, and would instead be built around the task of  preparing and storing samples for long-term transit, in stasis if necessary.
+His “laboratory” in fact, wasn’t even going to be a lab - it would have practically nothing in the way of scientific apparatus, and would instead be built around the task of preparing and storing samples for long-term transit, in stasis if necessary.
 
 Xiù’s skill with languages and alien social interactions were being put to work in her secondary role as their representative and negotiator. She’d also be tasked with keeping Allison and Julian fit and well, and of course there was her primary role: Pilot.
 
@@ -638,7 +638,7 @@ Then Xiù giggled, and completely dispelled the discomfort. That set Allison off
 
 “Not the end of the world,” she conceded. “Still weird though.”
 
-“We’ll get used to it,” Allison promised. She gestured Julian toward the shower.  “Go on baby, your turn,”
+“We’ll get used to it,” Allison promised. She gestured Julian toward the shower. “Go on baby, your turn,”
 
 Grateful for a moment’s private space to think, Julian restrained himself enough to walk to the shower rather than bolt for it. “Yes ma’am.”
 
@@ -1050,7 +1050,7 @@ She took a deep breath, nodded, and sat next to him. “And you signed up to pro
 
 “*She* saved *us*. We’d all be dead if she hadn’a taken that hit for us.”
 
-“Dude, I pulled a bullet out of your suit that woulda killed her except you took it,” Martina pointed out. “So you saved her too.  And don’t forget Regaari, or all the other ETs that NOVA HOUND got off that station.”
+“Dude, I pulled a bullet out of your suit that woulda killed her except you took it,” Martina pointed out. “So you saved her too. And don’t forget Regaari, or all the other ETs that NOVA HOUND got off that station.”
 
 “Yeah, well.. That’s the other half of it.”
 
@@ -1230,7 +1230,7 @@ Xiù rolled her eyes and sighed. *“Shǎguā...”* she said, lovingly. “Al, 
 
 “Shag wha?”
 
-“It’s like...It’s an affectionate way of...It means *’stupid melon’*.”  Xiù smiled.
+“It’s like...It’s an affectionate way of...It means *’stupid melon’*.” Xiù smiled.
 
 “‘Dummy’?”
 
@@ -1244,7 +1244,7 @@ Allison laughed. “Okay. Okay...Thanks.”
 
 Xiù glanced at the restroom door and lowered her voice even further, feeling her blush start up again. “I uh… I really enjoyed listening to it.” She confessed.
 
-Allison grinned. “You wanna try it sometime?”  
+Allison grinned. “You wanna try it sometime?”
 
 “Uh, um…” Xiù shook her head and gulped, blushing fiercely. “I-I’m, I’m, I, um, I’m not…”
 
@@ -1252,7 +1252,7 @@ Allison grinned. “You wanna try it sometime?”
 
 “...*If* I ever am.” Xiù promised.
 
-To her surprise, Allison kissed her. As first kisses went, it wasn’t much at all - little more than an arguably chaste taste of her lips - but it was a real, tender and unforced physical gesture of affection. The kind of kiss that Xiù had seen her give Julian in passing, as a kind of natural romantic punctuation to daily life.  
+To her surprise, Allison kissed her. As first kisses went, it wasn’t much at all - little more than an arguably chaste taste of her lips - but it was a real, tender and unforced physical gesture of affection. The kind of kiss that Xiù had seen her give Julian in passing, as a kind of natural romantic punctuation to daily life.
 
 “You will be,” she promised, and stooped to climb back into Julian’s bunk. “G’night, babe.”
 
@@ -1277,7 +1277,7 @@ She was already resolved to be *very* picky with her males. If she was going to 
 
 Myun remained skeptical.
 
-There *was* one good thing about bearing a cub, though - she *smelled* pregnant, which meant that the males weren’t constantly trying to seduce her.  They were still treating her nicely and giving her all the respect that a Female was due of course, but they were also being more genuine, more… themselves. They weren’t trying to impress, and a few of them even earned themselves an upgrade into Myun’s private ‘maybe’ list - the one for if Mother Ayma turned out to be right.
+There *was* one good thing about bearing a cub, though - she *smelled* pregnant, which meant that the males weren’t constantly trying to seduce her. They were still treating her nicely and giving her all the respect that a Female was due of course, but they were also being more genuine, more… themselves. They weren’t trying to impress, and a few of them even earned themselves an upgrade into Myun’s private ‘maybe’ list - the one for if Mother Ayma turned out to be right.
 
 They gave her a respectful berth on the street as she headed for the market. Females had their needs paid for by male contributions to the communes of course, but while that covered the bare essentials, any female who wanted some luxuries or spending money had to earn it. Myun’s usual revenue stream was combat training - several of the more military-minded Clans like Whitecrest and One-Fang were enthusiastic about cubs that Myun had taught *Gung Fu* while they were young - apparently the ingrained instincts and techniques she instilled in them gave them quite an edge in their Trials.
 
@@ -1440,7 +1440,7 @@ Howard glanced at his colleagues. “I’d call that… ‘bout a month?” Ther
 
 “And the suit HUD integration’s more down to C&M than to these fellas,” Vandenberg commented.
 
-“Aye. Guess we’ll be seeing you in a couple of months, then.” Powell shook Howard’s hand  “Best o’ luck with the modifications,”
+“Aye. Guess we’ll be seeing you in a couple of months, then.” Powell shook Howard’s hand “Best o’ luck with the modifications,”
 
 “Like we’ll need luck,” Gunny grinned. Powell chuckled, and they walked round the building to get back to their truck.
 
@@ -1734,7 +1734,7 @@ ___
 
 Vedreg was proving yet again that, far from being stupid, he was a thoroughly formidable intellect in his own right if given enough time to lumber up to speed. Certainly he was proving more equal than Kirk to the task of scrutinising the contraption that Lewis was painstakingly assembling and iterating.
 
-Annoyingly, his mood was still difficult to read, but Kirk didn’t blame himself or Vedreg for that. Where the Rrrrtk eye had two kinds of color-receptive cell, the Guvnurag one outstripped even humans at *five*, and the emotive bioluminescent lines on their flanks made full use of that chromatic agility.  It was like trying to hear music that was written partially outside of his hearing range, or like trying to read a book where three fifths of the words were printed in an ink that was only visible in the ultraviolet.
+Annoyingly, his mood was still difficult to read, but Kirk didn’t blame himself or Vedreg for that. Where the Rrrrtk eye had two kinds of color-receptive cell, the Guvnurag one outstripped even humans at *five*, and the emotive bioluminescent lines on their flanks made full use of that chromatic agility. It was like trying to hear music that was written partially outside of his hearing range, or like trying to read a book where three fifths of the words were printed in an ink that was only visible in the ultraviolet.
 
 Kirk took a guess anyway and hazarded that his old friend was emoting a blend of admiration and mild fear.
 
@@ -2183,7 +2183,7 @@ Despite his best efforts to help, neither of the girls let him - he was forced t
 
 Sure enough, when Xiù skewered him with regards to his favorite Disney song over dinner, he corroborated Allison’s account.
 
-“Yeah, I did. I dunno, it’s just… something about that moment. You know?” He sang a couple of bars, and once again Xiù was struck by just how good his singing voice was.  “*♪’And it’s warm and real and right♫♪’*, that bit. It’s only, what, a few seconds long? But it gets me right here.” He knocked on his breastbone.
+“Yeah, I did. I dunno, it’s just… something about that moment. You know?” He sang a couple of bars, and once again Xiù was struck by just how good his singing voice was. “*♪’And it’s warm and real and right♫♪’*, that bit. It’s only, what, a few seconds long? But it gets me right here.” He knocked on his breastbone.
 
 “I thought *Frozen* was your favorite?” Xiù asked.
 
@@ -2319,7 +2319,7 @@ Dream. Just a dream. She propped herself up on her elbows and willed her panicke
 
 “That sounded like a bad one.”
 
-Xiù rubbed her face and rolled over to look down on Julian.   “...Yeah. Did I wake you?”
+Xiù rubbed her face and rolled over to look down on Julian. “...Yeah. Did I wake you?”
 
 He waved a reassuring hand. “We both sleep light, it’s fine.”
 
@@ -2355,7 +2355,7 @@ Allison, who had turned and was stripping for her morning shower, nodded enthusi
 
 “Better,” Xiù agreed. Julian was a blusher too sometimes, and as he finger-combed his hair she shared a grin with Allison, who vanished into the washroom.
 
-  He cleared his throat, wriggled out past her, then stood up and stretched. His spine and shoulders made several loud popping sounds.
+He cleared his throat, wriggled out past her, then stood up and stretched. His spine and shoulders made several loud popping sounds.
 
 “...Are you okay?” Xiù asked.
 
@@ -2552,7 +2552,7 @@ Ava shrugged. “What’s the worst that can happen?” she asked.
 
 “...Nothing you can’t handle, I suppose,” Jess mused.
 
-“I hope so,” Ava agreed. “We’ll just have to go for it and see. But don’t  worry, I’m not going to stir up trouble. It’s all going to be about letting the ETs describe themselves and us in their own words.”
+“I hope so,” Ava agreed. “We’ll just have to go for it and see. But don’t worry, I’m not going to stir up trouble. It’s all going to be about letting the ETs describe themselves and us in their own words.”
 
 “Gaoians are a good start,” Gabe told her. “They’re generally well-disposed to us. You should get some opinions out of them that’ll make readers smile.”
 
@@ -2590,7 +2590,7 @@ Adam nodded. “I’ll talk with him when I… I tell you what, next time he get
 
 “Are you sure? I don’t want to put you-”
 
-“It’s no problem, I promise,”  Adam interrupted, kindly.
+“It’s no problem, I promise,” Adam interrupted, kindly.
 
 Jess sighed. “...Thank you, Adam.”
 
@@ -2600,7 +2600,7 @@ Ava’s smartwatch made a pinging sound, and a second after checking it she smil
 
 “You’d better get into the office then,” Gabe told her.
 
-“Uh-huh. We’re in for a busy couple of weeks… I’ll see  you next Saturday?”
+“Uh-huh. We’re in for a busy couple of weeks… I’ll see you next Saturday?”
 
 “Of course!” Jess gave her a hug and they shared a couple of familial cheek-kisses. “Always!”
 
@@ -2656,7 +2656,7 @@ Xiù nodded. “And she keeps hinting about you and me, um…” she tried to fi
 
 “See, I don’t mind that.” Julian said. “You’re not ready yet, full stop. You’re not, uh, teasing me with going nearly the whole way and then stopping short, you know?”
 
-“Right! But it really bugs me that she keeps pushing me, when she’s got this big hangup of her own...”  
+“Right! But it really bugs me that she keeps pushing me, when she’s got this big hangup of her own...”
 
 They nodded together and lapsed into thoughtful silence, which Julian broke a minute or two later.
 
@@ -3129,7 +3129,7 @@ Xiù laughed some more, then quietened. “I guess?” She hazarded. “My life�
 
 “You were abducted by aliens, you’re legally a Gaoian, and now you’re training to fly a spaceship.” Allison nodded. “I’m just saying, next to all that...”
 
-“I’m not  saying *‘no’.”* Xiù hastened to tell her. “I’m just saying… let me work up to it. Okay?”
+“I’m not saying *‘no’.”* Xiù hastened to tell her. “I’m just saying… let me work up to it. Okay?”
 
 *”More* than fair.” Allison smiled.
 
@@ -3174,7 +3174,7 @@ Everyone knew where the checkpoint and sole access to the Quarter was: It fronte
 
 Ava had never told anybody that Father Gyotin had only discovered Zen Buddhism thanks to her. She hadn’t expected it to go so far - the common knowledge had been that ETs tended to view human religions with a kind of bewildered incomprehension. When she’d pointed Gyotin towards the shelf containing the Buddhist literature, she’d never imagined that six years later there would be Gaoian monks earnestly sweeping the gravel paths.
 
-The area inside the gate was an extension of the park, but with alien architecture and alien plants, carefully imported and protected from the native life by the forcefield roof that capped the whole wall. That forcefield was one of Folctha’s major municipal power sources, and doubled as a biofilter and a way of keeping the imported birds and bats from getting in.  Under its aegis, alien insects flitted between alien flowers, and were snacked on as the foundation of a small but balanced alien food chain.
+The area inside the gate was an extension of the park, but with alien architecture and alien plants, carefully imported and protected from the native life by the forcefield roof that capped the whole wall. That forcefield was one of Folctha’s major municipal power sources, and doubled as a biofilter and a way of keeping the imported birds and bats from getting in. Under its aegis, alien insects flitted between alien flowers, and were snacked on as the foundation of a small but balanced alien food chain.
 
 One of a pair of Vzk’tk croaked something at her as they daintily passed, and she hastily turned on the translator built into her tracker.
 
@@ -3224,7 +3224,7 @@ Ava ‘mm-hmm’ed , and produced her press ID. “I’m with ExtraSolar News Ne
 
 Myun’s ears turned to the absolutely *adorable* angle of a Gaoian trying to suss out human weirdness, and Ava decided an elaboration was in order.
 
-“I’m doing what’s called an *’interest piece’*,” she explained. “I want to hear your story, help  our readers see into your life a little and maybe gain some perspective and understand the world a little better.”
+“I’m doing what’s called an *’interest piece’*,” she explained. “I want to hear your story, help our readers see into your life a little and maybe gain some perspective and understand the world a little better.”
 
 “That sounds… good?” Myun hazarded. “But why me?”
 
@@ -3426,7 +3426,7 @@ Lewis was waxing poetic about the shielding systems. “See, the thing with forc
 
 “Traditionally,” Vedreg observed, “the absorbed energy is stored in the shield capacitors and re-radiated as a flash of light.”
 
-“Yup! So I thought, man, that’s a fuckin’ waste. The field surface can radiate at just the same intensity it can absorb, *and* it can do so as a coherent beam, *and* it can aim that beam  if you do some tricksy things with interference.”
+“Yup! So I thought, man, that’s a fuckin’ waste. The field surface can radiate at just the same intensity it can absorb, *and* it can do so as a coherent beam, *and* it can aim that beam if you do some tricksy things with interference.”
 
 “Meaning?”
 
@@ -3444,7 +3444,7 @@ Lewis grinned. He never bothered to hide his teeth. “Best defense is a good of
 
 “I am more interested in the speed,” Kirk said. “It cruises just as fast as *Sanctuary*, and you promise a million times the speed of light in an emergency? How?! The only reason *Sanctuary* was so fast was because of its power core.”
 
-“A power core we barely used a third of,” Lewis noted. “What you’ve got in here is a happy little Kwmbwrw quantum stack that’ll sit comfortably at a half-megalight on eighty percent output, and’ll run at ninety-nine percent forever without trouble.  Plenty’a spare power for ship systems, and that stack’s only about as big as Vedreg, so, WAY smaller than *Sanctuary*’s core.”
+“A power core we barely used a third of,” Lewis noted. “What you’ve got in here is a happy little Kwmbwrw quantum stack that’ll sit comfortably at a half-megalight on eighty percent output, and’ll run at ninety-nine percent forever without trouble. Plenty’a spare power for ship systems, and that stack’s only about as big as Vedreg, so, WAY smaller than *Sanctuary*’s core.”
 
 “And the emergency speed?”
 
