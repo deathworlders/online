@@ -10,7 +10,7 @@ aliases:
 
 ***Allison Buehler***
 
-A random visitor to the AAAF would have been forgiven for mistaking Doctor Clara Brown for some skinny geek who’d climbed the fence to get a look at the ship. Between her metal band T-shirts, torn jeans and huge buckle-encrusted black New Rock boots  she didn’t look anything like a senior team member of a multi-billion-dollar corporate project, even when she put on her lab coat. Her glasses, piercings and pigtails weren’t exactly part of the professional corporate engineer look either.
+A random visitor to the AAAF would have been forgiven for mistaking Doctor Clara Brown for some skinny geek who’d climbed the fence to get a look at the ship. Between her metal band T-shirts, torn jeans and huge buckle-encrusted black New Rock boots she didn’t look anything like a senior team member of a multi-billion-dollar corporate project, even when she put on her lab coat. Her glasses, piercings and pigtails weren’t exactly part of the professional corporate engineer look either.
 
 If the random visitor had cared to look for five minutes, however, they would have seen the way she was the nexus of several ant-trails of busy men and women who came and went to get her opinion before scurrying off on errands. They would have seen that she checked, tapped on, wrote on and worked through her tablet and smartwatch almost constantly and, if they were smart, would have revised their first impression.
 
@@ -28,7 +28,7 @@ Allison thoroughly liked her. She knew *Misfit*’s systems better than Allison 
 
 “Did I? Sorry.” Clara waggled her tablet. “Kinda distracted...Okay, that’s the last box of frozen kale...”
 
-“Check…” Allison did her best to keep the relief out of her voice. *Misfit*’s food supply had been carefully thought-out to fit as much nutrition as possible into the available space without sacrificing on variety and interest. It was heavy on salmon, kale, brown rice and potatoes.  There was also beef liver, garlic, plenty of onions, carrots and parsnips, celery, spinach, boxes of freeze-dried eggs, bouillon and milk powder, dried beans and lentils, dried apricots, cranberries and blueberries, *Li hing mui*, honey, black pepper, salt and sugar, tea and coffee, herbs and spices, one freezer full of the frozen cuts from a whole lamb, another full of a whole beef cow, half a dozen whole chickens and the cleverly-packaged ‘good bits’ of dozens more, bacon, chorizo and salumi, wheat flour, condensed soup, one enormous wheel of cheddar and another of parmesan… and the two stashes.
+“Check…” Allison did her best to keep the relief out of her voice. *Misfit*’s food supply had been carefully thought-out to fit as much nutrition as possible into the available space without sacrificing on variety and interest. It was heavy on salmon, kale, brown rice and potatoes. There was also beef liver, garlic, plenty of onions, carrots and parsnips, celery, spinach, boxes of freeze-dried eggs, bouillon and milk powder, dried beans and lentils, dried apricots, cranberries and blueberries, *Li hing mui*, honey, black pepper, salt and sugar, tea and coffee, herbs and spices, one freezer full of the frozen cuts from a whole lamb, another full of a whole beef cow, half a dozen whole chickens and the cleverly-packaged ‘good bits’ of dozens more, bacon, chorizo and salumi, wheat flour, condensed soup, one enormous wheel of cheddar and another of parmesan… and the two stashes.
 
 One stash was the emergency stash. It contained, in one crate, enough food to keep the three of them alive---not happy or thriving, but alive---for a year if they didn’t mind a diet composed mostly of baked insects supplemented by peanut butter, processed cheese and vitamin tablets with the occasional MRE thrown in for when they needed to actually do something active. The other was the luxury stash which was mostly just beer and chocolate.
 
@@ -229,7 +229,7 @@ She trailed off as Darcy raised her hand a reassuring inch off the tabletop. “
 
 “...Can you tell me what happened?”
 
-Darcy cleared her throat. To her knowledge, a situation like this was completely unheard-of, and it posed new and challenging questions about need-to-know, not to mention the security and soundness of every intel asset *ever*.  “I don’t know,” she replied truthfully. “We’ve not really decided what happened yet, nor how much you need to know about…”
+Darcy cleared her throat. To her knowledge, a situation like this was completely unheard-of, and it posed new and challenging questions about need-to-know, not to mention the security and soundness of every intel asset *ever*. “I don’t know,” she replied truthfully. “We’ve not really decided what happened yet, nor how much you need to know about…”
 
 Ava blinked slowly at her. “...I read the message, you know.”
 
@@ -297,7 +297,7 @@ Ava sighed. “...You’re everything I wish I could be,” she said. “You’r
 
 The honest answer was *’There but for the grace of God…’* but there was no way to say as much. It was too much, too intimate, too blunt. Saying so out loud could potentially ruin the rapport she’d worked hard to build with Ava, and that was far too valuable a thing to throw away on sentiment.
 
-She elected instead for a more roundabout answer.  “...When Six was captured years ago, the results of his interrogation came straight to me. Then as now, I was the one in charge of hunting down the Hierarchy on Earth. The assault on their safehouse in San Diego was… the president may have authorized it, but it was on my advice.”
+She elected instead for a more roundabout answer. “...When Six was captured years ago, the results of his interrogation came straight to me. Then as now, I was the one in charge of hunting down the Hierarchy on Earth. The assault on their safehouse in San Diego was… the president may have authorized it, but it was on my advice.”
 
 Ava blinked at her, and Darcy straightened her glasses before forcing herself to look the younger woman in the eye. “I made the call that got your parents, your friends, your entire city and millions more besides, killed. And I blame myself for every single one.”
 
@@ -384,7 +384,7 @@ She put her headset on. “Okay. Checklist?”
 
 *”Check.”*
 
-“Main power…” She ran a well-educated eye over the information in front of her. The GUI wasn’t exactly pretty, but it laid out all the information she needed so clearly that she could assess whether *Misfit* was good to go at a glance. Satisfied, she reached out to her right and slid up the cover on the fusion reactor controls. “Primed and pressurized, containment field online…  start.”
+“Main power…” She ran a well-educated eye over the information in front of her. The GUI wasn’t exactly pretty, but it laid out all the information she needed so clearly that she could assess whether *Misfit* was good to go at a glance. Satisfied, she reached out to her right and slid up the cover on the fusion reactor controls. “Primed and pressurized, containment field online… start.”
 
 Several bars shifted on her monitors as *Misfit* went from idling on her stored power to producing enough to run on her own. The inevitable power spike as the reaction stabilized was handily dealt with by dumping it back into the reactor’s own on-board capacitors as seed energy for the next time they turned it on.
 
@@ -438,7 +438,7 @@ The other operator nodded and offered a tight smile and an “Aye,” in a Scott
 
 “Don’t mind him, he’s always that quiet. Hell, the fact he spoke at all means he likes you,” Arés said with a grin, waggling his implant scanner at Xiù. “Hi, Miss Chang.”
 
-She tilted her head  for the inspection. “Hello sergeant. How are you? How’s Baseball?”
+She tilted her head for the inspection. “Hello sergeant. How are you? How’s Baseball?”
 
 “Pretty damn good, all told. We’ve been workin’ with Regaari some more. When he heard you were comin’ he told me to pass on a message.”
 
@@ -751,7 +751,7 @@ Part of her knew that she was being needlessly anxious, but there was no point i
 
 The Sister serving as the commune’s front gate guard was a small one, smaller even than Xiù herself, and welcomed her with her ears up and friendly. She was barely an adult, in fact, and her fur still had that cub-like downy softness to it.
 
-“Good evening!”  she called cheerily, in English.
+“Good evening!” she called cheerily, in English.
 
 “*Mi o!*” Xiù replied, causing the sister’s ears to flick in surprise. “*Ya si bäyo bì kan ushu na tò?*”
 
@@ -1225,7 +1225,7 @@ This one was usually cool enough that the adults didn’t mind for the children 
 
 Vemik had absolutely no idea how to reply to the accusation though. “That’s… I see. Hmm.”
 
-He got up and took his time in approaching it, alert for any grumblings or burps in the ground that might herald a repeat of what Yatak described.  He licked a finger and dabbed experimentally at the surface of the water, then winced and backed off. It was *much* hotter than usual, nearly hot enough to cook in.
+He got up and took his time in approaching it, alert for any grumblings or burps in the ground that might herald a repeat of what Yatak described. He licked a finger and dabbed experimentally at the surface of the water, then winced and backed off. It was *much* hotter than usual, nearly hot enough to cook in.
 
 “Do you believe him, Sky-Thinker?” Yan asked.
 
@@ -1479,7 +1479,7 @@ Adam---he’d point-blank refused to let them call him *’Sergeant Arés’*---
 
 They’d been invited on a kind of triple-date. It wasn’t anything formal, just dinner and drinks at a nice apartment south of the river, and already she was feeling overwhelmed by him and she wasn’t even his date. One of his buddies, a walking mountain called Christian who was pure charm and friendliness once you got past the aura of visceral threat he had no choice but to project, was taking him under his wing and teaching him some life skills.
 
-From the look of things, Adam was a tricky student. It wasn’t  just that he paid excruciating attention to every detail of the excursion, it was that he paid excruciating attention to the *wrong* details and managed to somehow miss some important ones like, say, his date.
+From the look of things, Adam was a tricky student. It wasn’t just that he paid excruciating attention to every detail of the excursion, it was that he paid excruciating attention to the *wrong* details and managed to somehow miss some important ones like, say, his date.
 
 Fortunately, Natalie---a bubbling British chick with what must have been about the thickest skin in the cosmos---was indulging his micromanagement with a wry smile, but she privately admitted while he was absent tending to some thoughtful detail that she considered Adam to be “lots of fun, in small doses.”
 
@@ -1505,7 +1505,7 @@ It was all *divine*, and the evening was generally pretty relaxed even if they *
 
 Sadly, they had to wrap it up early and relatively sober. *Misfit*’s itinerary called for a jump back to the Cimbrean-5 customs beacon to recover their impounded stuff in the morning but it was a pleasant way to round off what had effectively been a brief vacation.
 
-Naturally, the topic of choice in the cab back to the spaceport was their host’s  prospects.
+Naturally, the topic of choice in the cab back to the spaceport was their host’s prospects.
 
 “Poor guy,” was Allison’s opinion. “I kinda get the impression he’s new to dating.”
 
@@ -1801,7 +1801,7 @@ ___
 
 “You know, those fatigues aren’t really part of the costume…”
 
-Martina Kovač  folded her arms. “Oh, sure, just ‘cause Cammy hangs her ass and cameltoe out for everyone to stare at, that means I have to as well?”
+Martina Kovač folded her arms. “Oh, sure, just ‘cause Cammy hangs her ass and cameltoe out for everyone to stare at, that means I have to as well?”
 
 “Well… you *are* dressed as her.” Adam pointed out.
 
@@ -2038,7 +2038,7 @@ Xiù checked the sensor logs. “We were cruising about a quarter of a lightyear
 
 “...Hunters?” she asked.
 
-*“Or pirates. Or Alliance. Whatever the answer…”* Allison left the thought unfinished. They all knew that they were unarmed, and that their best bet for safety lay in silence first and speed second. Space was vaster than anybody could comprehend, and *Misfit* was very very tiny. Without power to her warp drive  there was no practical likelihood of discovery and even the infrared radiation they were putting out was so faint and so short-ranged that anybody placed to see it would already have effectively found them.
+*“Or pirates. Or Alliance. Whatever the answer…”* Allison left the thought unfinished. They all knew that they were unarmed, and that their best bet for safety lay in silence first and speed second. Space was vaster than anybody could comprehend, and *Misfit* was very very tiny. Without power to her warp drive there was no practical likelihood of discovery and even the infrared radiation they were putting out was so faint and so short-ranged that anybody placed to see it would already have effectively found them.
 
 *”Can’t we do anything?”* Julian asked. *”Jump back to Cimbrean, inform the Royal Navy?”*
 
@@ -2302,7 +2302,7 @@ Murray and Akiyama showed up just as he returned to the sitting room and poured 
 
 The housewarming present was a painting. Sikes had found an artist on the Internet who had produced an absolutely stunning watercolor of the Yorkshire dales at sunset that swept from autumnal peaches and purples in the sky to war golden grass and loose stone walls in the foreground, via a meandering river valley dotted with trees.
 
-It was easy to tell that Powell was moved by the gift---his face locked down completely, and he  took the first chance he got to take refuge in bringing up some work-related matters.
+It was easy to tell that Powell was moved by the gift---his face locked down completely, and he took the first chance he got to take refuge in bringing up some work-related matters.
 
 “So, seein’ as we’re all here, I thought I’d share two bits o’ news with you…” he said, leaning the painting against the wall on his end table with a fond look.
 
@@ -2336,7 +2336,7 @@ Powell half-shrugged. “Allied Extrasolar Command thinks there’s still a stra
 
 “Aye, that sounds right.”
 
-“So we’re gonna have a  fuckin’ German babysitter in the regiment now?” Sikes almost laughed.
+“So we’re gonna have a fuckin’ German babysitter in the regiment now?” Sikes almost laughed.
 
 “Don’t knock it,” Powell warned. “Counter-terrorism experience in Germany counts for a lot nowadays.”
 
@@ -2396,7 +2396,7 @@ Now came his *other* expression, which was much the same as might be worn by a s
 
 Scolded-puppy turned into kicked-puppy and he muttered something affirmative and went to check his mission gear again, leaving Martina to feel a touch guilty. Only a touch though---he really should know better than to distract her during the most critical phase of suit assembly.
 
-For fuck’s sake, he was an intelligent guy, too! In fact when he was in his element, he was a genius. She wouldn’t have looked at him twice if he’d been genuinely as dumb as he sometimes acted, but when he *was* being dumb, he was ***dumb***.  
+For fuck’s sake, he was an intelligent guy, too! In fact when he was in his element, he was a genius. She wouldn’t have looked at him twice if he’d been genuinely as dumb as he sometimes acted, but when he *was* being dumb, he was ***dumb***.
 
 It wasn’t just the literature thing. Honestly, she could forgive him for not knowing his Rudyard Kipling from his Hans Christian Andersen: Something about his life story suggested that bedtime stories had not featured in the daily routine of little Adam Arés, whereas Martina’s father had first read *’Rikki Tikki Tavi’* to her at the age of four.
 
@@ -2601,7 +2601,7 @@ Hunters could be shockingly fast. In the minutes since the freakshow had landed 
 
 To which the appropriate response was to flood back. You didn’t try and dam the tide or stand in front of it like a rock, because that just got you washed away. You applied firepower, and you *moved*.
 
-‘Horse’s armor had already stopped one hit. Some big fat heavy Hunter round had skipped off the concrete wall he’d been using for cover and struck his arm at a shallow angle. He had *some* ammo left, he had *some* grenades left. He knew exactly how many, but numbers didn’t enter into it. *Thought* didn’t enter into it:  the knowledge was just *there.*
+‘Horse’s armor had already stopped one hit. Some big fat heavy Hunter round had skipped off the concrete wall he’d been using for cover and struck his arm at a shallow angle. He had *some* ammo left, he had *some* grenades left. He knew exactly how many, but numbers didn’t enter into it. *Thought* didn’t enter into it: the knowledge was just *there.*
 
 Reality was simple: Aggression versus aggression. Move. Kill. Get target. Move. Find team. Leave. Warhorse was not a thinking man at that moment: He was a Brother, among Brothers, grappling with evil in the dark.
 
