@@ -104,7 +104,7 @@ I have reassured her that her Paroxetine will improve matters, and she understan
 I will see her again in two weeks or on an emergency basis.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 **Date Point 10y10m2w4d AV**    
@@ -120,7 +120,7 @@ ___
 “They call it a *’destroyer’*.”
 
 
-Garal forced herself not to shudder.  In the Loc’ language, the word for “destroyer” was a guttural, terse thing that neatly conveyed the brutality of the concept. It was somehow fitting that deathworlders would designate a ship class that way.
+Garal forced herself not to shudder. In the Loc’ language, the word for “destroyer” was a guttural, terse thing that neatly conveyed the brutality of the concept. It was somehow fitting that deathworlders would designate a ship class that way.
 
 
 It *looked* like a force of destruction, too, to a degree that offended her sense of aesthetics. This was not a ship built to look glorious: it wasn’t a flying monument to pride and wealth. It was a shovel-nosed black lump with a shuttle riding piggyback on the flat expanse of its back, next to a tower structure that was most likely its bridge.
@@ -278,7 +278,7 @@ ___
 ***Fleetmaster Garal***
 
 
-Garal didn’t need to be alerted that there were deathworlders outside her office. They shook the  deck just by walking, heavy, purposeful and strong.
+Garal didn’t need to be alerted that there were deathworlders outside her office. They shook the deck just by walking, heavy, purposeful and strong.
 
 
 She pre-empted the inevitable request and called her aide. “Send them through, please.”
@@ -542,7 +542,7 @@ Allison nodded and picked the fork back up. “...You know, I had to deal with s
 Xiù nodded and listened.
 
 
-“They were *so* fucking insecure. They’d get into fights over fucking nothing because their precious little princess egos couldn’t handle the least little disrespect… like, say, turning them down when they made a pass,” Allison scoffed. “...and they never wanted the *’little girl’* fixing their bike either.  And trust me, having a guy like that angry at you is… it’s scary. That’s why I started carrying.”
+“They were *so* fucking insecure. They’d get into fights over fucking nothing because their precious little princess egos couldn’t handle the least little disrespect… like, say, turning them down when they made a pass,” Allison scoffed. “...and they never wanted the *’little girl’* fixing their bike either. And trust me, having a guy like that angry at you is… it’s scary. That’s why I started carrying.”
 
 
 “*Āi ya…*”
@@ -566,7 +566,7 @@ Xiù nodded and listened.
 “*Allison-!*” Xiù was now crimson with fierce embarrassment.
 
 
-Allison laughed and waved a hand in an apologetic gesture that was anything but apologetic. “Well, you’ve told him. Maybe he’ll come around, maybe not. There’s some things you can’t force. See, the whole *’yes ma’am’* thing just… happened. Naturally.  We didn’t sit down and plan it, I never asked him to say that, that’s just how things played out. I like it, and… I guess I’d feel weird saying *’yes sir’* to him.”
+Allison laughed and waved a hand in an apologetic gesture that was anything but apologetic. “Well, you’ve told him. Maybe he’ll come around, maybe not. There’s some things you can’t force. See, the whole *’yes ma’am’* thing just… happened. Naturally. We didn’t sit down and plan it, I never asked him to say that, that’s just how things played out. I like it, and… I guess I’d feel weird saying *’yes sir’* to him.”
 
 
 “So I should wait and see, and be prepared for in case he doesn’t ever want to play that game with me,” Xiù summarized.
@@ -663,7 +663,7 @@ Objectively he is a taciturn man and his mood has always been difficult to read,
 I will see him again in three months.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 **Date Point: November 10y11m2w AV**    
@@ -1280,7 +1280,7 @@ Xiù had every reason to be nervous. Dropping out of warp wasn’t as simple as 
 All of that was handled by the computers, but the pilot still needed to be on the alert.
 
 
-Allison  chimed in. *Well, I’m ready when you are.”*
+Allison chimed in. *Well, I’m ready when you are.”*
 
 
 *”We’re waiting on Misfit, Shǎguā. Two minutes.”*
@@ -1352,7 +1352,7 @@ Julian could see why she was pessimistic as soon as he switched to the visual ca
 *”I like that.”*
 
 
-“Guess we’re throwing the list away then… Aphrodite it is.” Julian recorded it with a smile.  “Well hey, she may not be temperate, but she’s still our first planet!”
+“Guess we’re throwing the list away then… Aphrodite it is.” Julian recorded it with a smile. “Well hey, she may not be temperate, but she’s still our first planet!”
 
 
 *”That sounds like something we should celebrate,”* Allison suggested. *”I’ll bring round the candy bars.”*
@@ -1459,13 +1459,13 @@ Letter for notes:
 RE: TSgt Martina **Kovač**
 
 
-Sergeant Kovač  has made excellent progress in overcoming her pyrophobia, which she developed after being injured during a fire aboard HMS *Caledonia*. She reports that she recently helped Sergeants Arés and Vandenberg construct a barbecue pit and test-fire it and says that she felt only “mild” anxiety as it was being lit.
+Sergeant Kovač has made excellent progress in overcoming her pyrophobia, which she developed after being injured during a fire aboard HMS *Caledonia*. She reports that she recently helped Sergeants Arés and Vandenberg construct a barbecue pit and test-fire it and says that she felt only “mild” anxiety as it was being lit.
 
 
 She seems determined to confront her phobia head-on, and it seems to be working for her. I will see her in a year’s time for her annual assessment but made it clear to her that she is welcome at any time before then if she thinks it necessary.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 
@@ -1585,7 +1585,7 @@ He kept playing paddle-ball on his way up there. Why stop? A reputation for oddn
 “Talk to me.”
 
 
-“We just shared data with a Laru Group heavy bulk freighter out of Free Trade Station  Ninety-Four going the other way,” the comms officer said. He was one of the few crew members who wasn’t a Vzk’tk, a Rauwhyr by the name of Tlorcral and he didn’t like Dog at all. As far as Dog could tell, he only stayed on because Dog was by far the most profitable free captain he’d ever worked for.
+“We just shared data with a Laru Group heavy bulk freighter out of Free Trade Station Ninety-Four going the other way,” the comms officer said. He was one of the few crew members who wasn’t a Vzk’tk, a Rauwhyr by the name of Tlorcral and he didn’t like Dog at all. As far as Dog could tell, he only stayed on because Dog was by far the most profitable free captain he’d ever worked for.
 
 
 A lot of that was because Dog was a smuggler, but the crew didn’t need to know that. Because hey, if a man found himself alone in space with his own spaceship and a conveniently uninquisitive crew, what *else* was he gonna do?”
@@ -1671,7 +1671,7 @@ He is “bromantical [sic]” with Sergeant Arés by self description, which doe
 I will see him again in a year, but have made sure he knows my door is always open.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 
@@ -2044,7 +2044,7 @@ ___
 ***Lieutenant Kieran Mears***
 
 
-Letter for notes,    
+Letter for notes,
 RE: Miss Ava Magdalena **Ríos**
 
 
@@ -2060,11 +2060,11 @@ She was pleased to report that her flashbacks have reduced in both frequency and
 I highlighted the progress she has already made and encouraged her. She has become very attached to the idea of a therapy dog, and I hope to have one for her soon. I will see her again in a month, when I will hopefully have good news for her.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 **Date Point: January, 11y1m AV**    
-**Independent Light Freighter** ***’My Other Spaceship Is The Millennium Falcon’,*** **En route to Cimbrean  system, The Far Reaches**
+**Independent Light Freighter** ***’My Other Spaceship Is The Millennium Falcon’,*** **En route to Cimbrean system, The Far Reaches**
 
 
 ***Dog Wagner***
@@ -2314,7 +2314,7 @@ I advised him to try and focus on the unique skills and talents he brings to the
 He has promised that he will try to focus on skill set as well as raw talent and “try not to worry about it so much”. I informed him that he was always welcome to approach me at any time. Assuming I don’t hear from him before then, I will see him in one year.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 
@@ -2767,7 +2767,7 @@ Colour Sergeant Murray attended today for his annual assessment. He is a habitua
 I can see nothing to contradict his account, and so I will see him in a year’s time for his next annual assessment.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 **Date Point: March 11y3m3w AV**    
@@ -2783,7 +2783,7 @@ Housing was cheap on Cimbrean, and on Adam and Gabe’s advice Ava had bought tw
 She lived in the smaller one on Water Street. It was close to Charlotte and Ben’s place, easy for Gabe and Jess to get to, it wasn’t far from work and it had everything she wanted. One bedroom, a study, an open plan kitchen, dining room and living space and a cosy bathroom that was completely dominated by her huge bath with the shower in it.
 
 
-The shelves around that bath were groaning with scented soaps, bubble bath, soaks, salts, bath bombs, scrubs, salves, shampoos, conditioners, shampoo-conditioners… if it was designed to get  a girl clean, Ava had it. Their combined scent was an almost overpowering melange of flowers, citrus, chocolate, tea tree oil and so much more.
+The shelves around that bath were groaning with scented soaps, bubble bath, soaks, salts, bath bombs, scrubs, salves, shampoos, conditioners, shampoo-conditioners… if it was designed to get a girl clean, Ava had it. Their combined scent was an almost overpowering melange of flowers, citrus, chocolate, tea tree oil and so much more.
 
 
 It was one of her calming rituals. When she was soaking in that bath among whatever random assortment of scents she’d decided to drop in it on that occasion, everything was okay.
@@ -3279,7 +3279,7 @@ Her sleep has become somewhat more restless again, but she reports that her drea
 We agreed to continue unchanged for now, and I will see her again in two months or on a crisis basis.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 
@@ -3318,7 +3318,7 @@ Kirk looked down at him. “Based on what?”
 Kirk studied the command center’s enormous forward screen with interest as CIC-33 arced gently out onto a course that carried it toward the system’s asteroid belt. “I admit, I thought it would take longer.”
 
 
-“Well, I mean… it ain’t quite as simple as getting the dang thing to just nom an asteroid and then spit out copy of itself. It’s gotta survey, gather, refine, smelt… hell, we had to teach the fuckin’ thing how to enrich Uranium.”  Lewis shook his head. “Man, when I started this? I was just thinking it’d like AARGHM NAM NAM a big-ass rock, poop out a baby probe and there we go.”
+“Well, I mean… it ain’t quite as simple as getting the dang thing to just nom an asteroid and then spit out copy of itself. It’s gotta survey, gather, refine, smelt… hell, we had to teach the fuckin’ thing how to enrich Uranium.” Lewis shook his head. “Man, when I started this? I was just thinking it’d like AARGHM NAM NAM a big-ass rock, poop out a baby probe and there we go.”
 
 
 “Reality is more… detailed, I take it.”
@@ -3792,7 +3792,7 @@ I believe him to be a stable and reliable edge case personality. On paper his pe
 I shall see him again in six months, or very probably sooner; he is not comfortable sharing his most violent ideations with anyone but me.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 
@@ -3971,7 +3971,7 @@ Costello nodded. “I’ll never be the biggest monkey. That’s their job and t
 “...Yyyes, but that’s not the whole story.” Powell cleared his throat and tapped thoughtfully on the tabletop for a second as he ruminated.
 
 
-“...The knowledge is just… a flag. It’s your way of indicating that you’ve got what they’re *really* lookin’ for.  Which is, er… Like I said, the Lads to a man have the three of us beat,” he observed. “Right?”
+“...The knowledge is just… a flag. It’s your way of indicating that you’ve got what they’re *really* lookin’ for. Which is, er… Like I said, the Lads to a man have the three of us beat,” he observed. “Right?”
 
 
 Costello nodded agreement, and Knight nodded encouragingly.
@@ -4161,7 +4161,7 @@ We had a constructive conversation in which we explored the taboo nature of “u
 In the meantime I will add our Gaoian contingent to the rotation for annual reviews, and send for some psychology textbooks from Gao.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 **Date Point: June 11y6m2w AV**    
@@ -4291,7 +4291,7 @@ While Allison ducked under the hull to check off the last things on her engineer
 “I guess you could call these ‘nail trees’ or something,” she said for the camera. “They look like nails, with those long trunks and that wide flat canopy. I can’t see the sky at all and it’s getting dark under here really quickly, and… I… oh my God.”
 
 
-The *’oh my God’* was apropos of placing her hand on the trunk of one of the nail trees only for a thousand tiny flying motes of light to  detach from it and whirl around her like she was the ornament in the heart of a snow globe.
+The *’oh my God’* was apropos of placing her hand on the trunk of one of the nail trees only for a thousand tiny flying motes of light to detach from it and whirl around her like she was the ornament in the heart of a snow globe.
 
 
 Stunned, she could do nothing more than stand there and turn in spot as hundreds, thousands, *tens* of thousands of glittering specks lifted from every nearby tree and danced in her orbit. Each was just the tiniest bit different in hue from its neighbor and they drifted like a lazy shoal of fish or a flock of evening starlings, streaming like luminescent smoke in the darkness.
@@ -4332,7 +4332,7 @@ He does confess that he often measures prospective male partners against the res
 Overall there is nothing of concern, and I will see him next year.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 **Date Point: June 11y6m3w AV**    
@@ -4468,7 +4468,7 @@ Then there was pain in his arm which went *snap*.
 Then pain in his ribs, which went *crunch*.
 
 
-But the pain went away when the stone tiles rushed up to meet his head with a  ***crack!***
+But the pain went away when the stone tiles rushed up to meet his head with a ***crack!***
 ___
 **Date Point: June 11y6m3w AV**    
 **Dataspace coterminous with Messier 24 relay**
@@ -4510,7 +4510,7 @@ Academic knowledge was *interesting* to be sure, but on the subject of the Hiera
 Their records were oddly silent on the subject too, even among themselves. It was almost as if their origins simply didn’t interest them. Try as it might, the Entity had no clear route to the historical truth. Where had they evolved? Why was their behavior so unabashedly parasitic? When had they first made the decision to eradicate another species to save themselves, and for what reason? And even if it answered those questions, what useful insights might ensue?
 
 
-There *were* clues---they called the Hunters *’discarded’* for instance---but each tantalizing morsel of data seemed to be alone with aeons of silence for company. Had the Hunters and Igraens once been as intertwined as body and soul, or was the discarding more metaphorical?  *When* had they been discarded?
+There *were* clues---they called the Hunters *’discarded’* for instance---but each tantalizing morsel of data seemed to be alone with aeons of silence for company. Had the Hunters and Igraens once been as intertwined as body and soul, or was the discarding more metaphorical? *When* had they been discarded?
 
 
 This was a Problem: The AvaRíos-mindstate had recollections of an aphorism about “knowing thine enemy”, but the enemy scarcely seemed to know itself. How were the humans supposed to form a coherent strategy in the face of that? How was the *Entity*?
@@ -4633,7 +4633,7 @@ Adam nodded and his face shifted unhappily. “I’m familiar with the term.”
 “Medic.”
 
 
-“I see. Well, your father’s undergone a decompressive craniectomy to help with the cerebral edema.  But he’s a very tough man considering, and the surgery went well. We’re going to keep him under for a few days just to give him time for the swelling on his brain to go down.”
+“I see. Well, your father’s undergone a decompressive craniectomy to help with the cerebral edema. But he’s a very tough man considering, and the surgery went well. We’re going to keep him under for a few days just to give him time for the swelling on his brain to go down.”
 
 
 “Prognosis?” Adam asked, quietly.
@@ -4816,7 +4816,7 @@ One wonders what he will do when he’s finally tattooed every inch of skin that
 I shall see him in a year.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 **Date Point: 11y7m3w AV**    
@@ -5050,7 +5050,7 @@ Gupta’s face was full of sympathy. “If that’s so then… I’m sorry, but 
 “It’s quite alright,” Gupta promised. “I’d feel the same way in your position.”
 
 
-Gabe hung his head. “I…” For the first time ever, Ava saw a tear trickle down his nose. He wiped it off with his thumb.  “I wanna go home now,” he said at last.
+Gabe hung his head. “I…” For the first time ever, Ava saw a tear trickle down his nose. He wiped it off with his thumb. “I wanna go home now,” he said at last.
 
 
 “I agree, that’s probably best,” Gupta stood up. “I’ll discharge you as soon as I’m finished with my ward round, and I’ll see you back here for a follow-up chat in a month. You’ll need to see your practice nurse every day to get your dressings changed-” he indicated the bandages swaddling Gabe’s damaged, dismantled and reconstructed skull, “-and to have your stitches out in ten days.”
@@ -5226,7 +5226,7 @@ Xiù saw that much instantly. When they had left, the anchorage above Cimbrean-5
 *”Affirmative Misfit. Customs is now conducted aboard Allied Trade Station One ‘Armstrong’. Tune to wake comms channel three for their traffic control. And, uh...welcome back. Border Security out.”*
 
 
-Xiù took a moment to shake her head and let the reality of how quickly things could change sink in. She’d gone from watching her lovers get covered in alien bug slime, to shaking hands with a space station that hadn’t even existed  six months ago, all in less than an hour.
+Xiù took a moment to shake her head and let the reality of how quickly things could change sink in. She’d gone from watching her lovers get covered in alien bug slime, to shaking hands with a space station that hadn’t even existed six months ago, all in less than an hour.
 
 
 *Crazy.*
@@ -5295,7 +5295,7 @@ Moses raised his hands theatrically. “Fine! Fine! Point made! Maybe the Planet
 “It’s a *whole* planet, Boss,” Kevin pointed out. “And right now it belongs exclusively to the Group. The resources of a whole planet just as big as Earth. You gonna tell me that’s a failure?”
 
 
-Moses lowered his hands and nodded. “Okay, your point’s made. I’m being unreasonable.” He grumbled a little, but Kevin knew perfectly well that Moses was tough as an old boot in reality. Come the morning, once his ego had taken some time for its ears to stop  ringing, he’d almost certainly start sending out small tokens of his esteem. He was like that.
+Moses lowered his hands and nodded. “Okay, your point’s made. I’m being unreasonable.” He grumbled a little, but Kevin knew perfectly well that Moses was tough as an old boot in reality. Come the morning, once his ego had taken some time for its ears to stop ringing, he’d almost certainly start sending out small tokens of his esteem. He was like that.
 
 
 “So… we’re re-launching *Creature Of Habit*?” Clara asked, enthusiastically.
@@ -5331,7 +5331,7 @@ He continues to feel guilty over the death of Sergeant Brady Stevenson with whom
 Objectively and subjectively therefore his mood is appropriate and even positive. I will see him again in a year.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 **Date Point: August 11y8m AV**    
@@ -5791,7 +5791,7 @@ He denies feeling specific violent impulses toward individual people around him,
 We discussed whether he feels this is healthy, to which he replied that it is “probably not”, but he suggests that his most constructive course of action would be to continue much as he is, with the support of his team. I am inclined to agree, though I will of course keep a close eye on him and I have encouraged him to visit me as often as he likes, which he has assured me he shall.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 
@@ -6100,7 +6100,7 @@ She is happy to keep taking her paroxetine and states that she no longer feels a
 I will see her again in six months, but she understands that she is welcome to contact me sooner should the need arise.
 
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 
@@ -6166,7 +6166,7 @@ Powell made an exasperated noise. “That’s my fookin’ business, lad.”
 Sometimes, a little truth and consequence was the best possible threat. *Everyone* dreaded Adam’s sports massages, and with good reason; he was after results, not comfort or friendship. Fortunately the major was *always* honest with himself, if poked the right way.
 
 
-“...Aye.  You’re Prob’ly right. There just isn’t any fookin’ time!”
+“...Aye. You’re Prob’ly right. There just isn’t any fookin’ time!”
 
 
 Adam’s watch decided to interrupt his reply by beeping to signal that it was time to turn around and sprint back to the beginning, which got Bozo madly excited. He burst from the river completely soaked and drenched the trail in front of them, then promptly got bored when they turned around to jog again and went back to fishing for wild Cimbrean tennis balls. Nobody knew what he did with them: he’d be seen trotting proudly through the base with his tail up and something bright yellow in his mouth, and then, nothing. Either there was a nuclear arsenal of them buried in the yard, or he ate them.
