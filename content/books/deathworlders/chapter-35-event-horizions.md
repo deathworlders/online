@@ -1320,7 +1320,7 @@ The gentle reminder worked. Allison gawped at her for a second, then blinked and
 
 “It’s not that. You’ve been *scaring the shit outta me,* dummy.” Allison confessed. “I keep waiting for you to wake up puking blood or…something.”
 
-“Allison…”  Julian hugged her and ran a vigorous, reassuring hand firmly up and down her back. “We’ve got biofilters, antibiotics, antiparasitics and stasis. We *need* to befriend these people if we’re not gonna be Gods and break them completely. We’re tough and they’re smart. We…we need to take some risk here. If we don’t, we might be risking *them.* They need to see us as *people* and not avatars or we might get…hell, a cargo cult or something.”
+“Allison…” Julian hugged her and ran a vigorous, reassuring hand firmly up and down her back. “We’ve got biofilters, antibiotics, antiparasitics and stasis. We *need* to befriend these people if we’re not gonna be Gods and break them completely. We’re tough and they’re smart. We…we need to take some risk here. If we don’t, we might be risking *them.* They need to see us as *people* and not avatars or we might get…hell, a cargo cult or something.”
 
 “There’s gotta be a way to do that without risking your *own* health, though?”
 
@@ -1869,7 +1869,7 @@ She reached down and her fingers brushed through Hannah’s fur for reassurance 
 
 “Yeah,” Marty agreed, feeling foolish. She’d been so keen to assuage Adam’s concerns that she’d blundered into a basic error. “But, thanks.”
 
-*”De nada.* Uh… Oh!  Hayley said Jack’s doing well?”
+*”De nada.* Uh… Oh! Hayley said Jack’s doing well?”
 
 “I thought she didn’t really approve?” Adam asked. “Military ain’t exactly in line with their peace-and-love lifestyle.”
 
@@ -2003,7 +2003,7 @@ Ava snorted and tore into her burger like she’d been taking pointers from him 
 
 “Do what? That’s the question.” Marty pointed out.
 
-Ava grimaced. “I have some ideas. But it’s gonna be about the gesture at this point, rather than punishing the people who are, ‘yknow, *actually responsible...”*  
+Ava grimaced. “I have some ideas. But it’s gonna be about the gesture at this point, rather than punishing the people who are, ‘yknow, *actually responsible...”*
 
 “Ava… be careful what you say, alright?” Marty advised.
 
@@ -2127,15 +2127,15 @@ He shook his head. “No. This Assembly may have been content to let the litany 
 
 He paused, adjusted his cuff again and shot a glance at the Egyptian table to gauge their reaction. When he read nothing he could use in their expressions, he sighed wearily for effect. “Let me tell you a little of our Enemy. I can’t say much because even now, even here, they are listening and they will seek every advantage. So I shall cover only the basics.”
 
-He took a sip of water and raised a hand to punctuate his words with gestures.  “They are old. Vast and ancient beyond the reckoning of our civilization. They are cunning. Many others have fallen to them, and the peoples no longer here to enrich our Galaxy number in the hundreds—that we are aware of. The body count is in the trillions, the measure of loss, the suffering and the retardation of the sciences and the arts… incalculable. They are subtle. Their influence has shaped Galactic society and passed unnoticed. They are cynical, pitting team against team, nation against nation, Dominion against Alliance. ”
+He took a sip of water and raised a hand to punctuate his words with gestures. “They are old. Vast and ancient beyond the reckoning of our civilization. They are cunning. Many others have fallen to them, and the peoples no longer here to enrich our Galaxy number in the hundreds—that we are aware of. The body count is in the trillions, the measure of loss, the suffering and the retardation of the sciences and the arts… incalculable. They are subtle. Their influence has shaped Galactic society and passed unnoticed. They are cynical, pitting team against team, nation against nation, Dominion against Alliance. ”
 
 He paused again, partly for dramatic effect and partly to reel himself in. That last part had perhaps been a bit too revealing but he needed the emphasis.
 
 “And they are not afraid of overt action, either,” he added. “San Diego was their work. Egypt was a reaction to our rooting out the last of their Earthbound force. They are ruthless, willing to use even the Hunters as a weapon if it will suit their ends. But the worst, by far…”
 
-He took a deep, nasal breath and allowed his volume to dip again. Like good music, the loud and the soft needed to dance. “The  very worst part of our Enemy is that they are callous. Like our own Earthly terrorists but on a scale we have never seen, they hide among the innocent and hold those innocent lives in the most negligent contempt. For *our* defiance, billions of innocents have been slaughtered and *we* are made to take the blame. Our Ambassador, murdered, and as we all heard the last he asked of them was what we could do to make things right.”
+He took a deep, nasal breath and allowed his volume to dip again. Like good music, the loud and the soft needed to dance. “The very worst part of our Enemy is that they are callous. Like our own Earthly terrorists but on a scale we have never seen, they hide among the innocent and hold those innocent lives in the most negligent contempt. For *our* defiance, billions of innocents have been slaughtered and *we* are made to take the blame. Our Ambassador, murdered, and as we all heard the last he asked of them was what we could do to make things right.”
 
-He paused a third time and took another  sip of his water. The room was stone silent. “Why do I speak of this now?” Rhetorical oration was one of Sartori’s guilty pleasures. “Because it is now clear that there’s no sympathy to be had out there: we are *trapped.* We’re a small island in a vast cruel sea, valiantly fending off a numerically superior foe…” he glanced at the British table “...but there is no help from abroad coming this time. If we’re going to get out of this hole, then we need to dig our way out by ourselves. We need to get our eggs *out* of this single basket, as a matter of survival.”
+He paused a third time and took another sip of his water. The room was stone silent. “Why do I speak of this now?” Rhetorical oration was one of Sartori’s guilty pleasures. “Because it is now clear that there’s no sympathy to be had out there: we are *trapped.* We’re a small island in a vast cruel sea, valiantly fending off a numerically superior foe…” he glanced at the British table “...but there is no help from abroad coming this time. If we’re going to get out of this hole, then we need to dig our way out by ourselves. We need to get our eggs *out* of this single basket, as a matter of survival.”
 
 He glared around the room and repeated that last word. “Survival. *That* is how high the stakes are at this table. *That* is what we are playing for—the right for our children to see tomorrow. We can keep turning the other cheek, we can forgive those who trespass against us… But then what? Do we go quietly into the night? Do we join the hundreds before us and allow hundreds more to come after us?”
 
@@ -2283,7 +2283,7 @@ Myun consulted the list. “Grandfather Meyku, Clan Straightshield.”
 
 Myun was learning that when Yulna asked a question like that, she wasn’t actually requesting an answer, it was more a way of helping herself think. Rather than reply, therefore, she busied herself straightening the office so that it seemed as though the Mothers had not been there. She also alerted the staff discreetly, who prepared an agenda and a briefing in the few short minutes before Grandfather Meyku arrived.
 
-She hadn’t expected to be doing so much minute organisation for Yulna when she took the job, but she found that she quite enjoyed it. Just standing around with a sword would have been *boring* after all,  but the moment she started thinking of herself as the gatekeeper for the Mother-Supreme’s attention she had realized that guarding Yulna’s body and guarding her schedule amounted to almost the same thing.
+She hadn’t expected to be doing so much minute organisation for Yulna when she took the job, but she found that she quite enjoyed it. Just standing around with a sword would have been *boring* after all, but the moment she started thinking of herself as the gatekeeper for the Mother-Supreme’s attention she had realized that guarding Yulna’s body and guarding her schedule amounted to almost the same thing.
 
 She was getting to know the Grandfathers too, and they were all entertainingly different. Garl of the Stonebacks tended to *prowl* into a room and throw himself onto the furniture as though he wasn’t twenty years the wrong side of old, and he left white hairs on *everything.* Myun found herself oddly and powerfully attracted to him…maybe one day. Soon. Before he died of too much mating, the smug sexy *'asshole.’*
 

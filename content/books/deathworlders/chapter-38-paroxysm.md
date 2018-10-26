@@ -176,7 +176,7 @@ He couldn’t help himself. He reached up and brushed the hair from her face, an
 
 Marty nodded and sat up a little more. “...Yeah. I was dreaming about the Lads, and they were on a mission of some kind…” she shrugged. “Workaholic, I know.”
 
-Adam chuckled.  “Makes two of us...What do you think they’re doing right now?”
+Adam chuckled. “Makes two of us...What do you think they’re doing right now?”
 
 Marty smiled lazily. “Eh…eating, sleeping, training, shenanigans. What else?”
 
@@ -840,7 +840,7 @@ Yulna glanced up, duck-nodded, and stood. “I’m sorry. I wish I could give yo
 
 “You would have suffered?”
 
-“…Briefly, yes.” Ayma shook out her fur uncomfortably. “Apparently some Gaoians can have *particularly* severe reactions...and I’m in the most allergic group. Especially to the grass pollens and something called *’Ragweed’*.”  
+“…Briefly, yes.” Ayma shook out her fur uncomfortably. “Apparently some Gaoians can have *particularly* severe reactions...and I’m in the most allergic group. Especially to the grass pollens and something called *’Ragweed’*.”
 
 “That really was uncharacteristically foolish of you, Ayma.”
 
@@ -1099,7 +1099,7 @@ Julian glanced at the girls, who glanced at each other. He had a point: it wasn�
 
 “You’re saying, what?” Allison asked. “That the assholes have good reasons under it all?”
 
-“Nah. I’m saying they’re fuckin’ *assholes.”* Firth shook his head. “They’re *lazy,* they’re *useless,* they’re fuckin’ *losers.* That’s why they do what they do, ‘cuz they’re too fuckin’ *weak* to do things the right way.  But in the end they don’t matter ‘cuz they always lose. **Always.”**
+“Nah. I’m saying they’re fuckin’ *assholes.”* Firth shook his head. “They’re *lazy,* they’re *useless,* they’re fuckin’ *losers.* That’s why they do what they do, ‘cuz they’re too fuckin’ *weak* to do things the right way. But in the end they don’t matter ‘cuz they always lose. **Always.”**
 
 “How d’you figure?”
 
@@ -1307,7 +1307,7 @@ Nofl nodded approvingly. “Much better! This is as a human *should* be, don’t
 
 “Darling, you are a clever man but the explanation would be *so* far beyond you. If you were to make a serious study of regenerative medicine, then—”
 
-“No, never mind. I just…”  Gabe shook his head at himself. *”He sido un baboso.* I should have done this earlier!”
+“No, never mind. I just…” Gabe shook his head at himself. *”He sido un baboso.* I should have done this earlier!”
 
 “Deathworld skepticism. A useful survival mechanism! Also, annoying.” Nofl returned his used equipment to its proper place. “But, you got here in the end. All fixed! Unless you want---”
 
@@ -1955,7 +1955,7 @@ She turned and chittered bitterly. “I almost long for the days when I was just
 
 Xiù tilted her head. “After Gao and Gorai? ...No, don’t tell me. It’s Cimbrean, isn’t it?”
 
-“No. It’s Gorai. Cimbrean has an enclave of Females and is home to a male Clan. Politically alone, that makes it more important than Gorai. Then there are the Whitecrests and Daar’s relationship with the SOR, the trade, and the fact that the Gaoian diaspora here is double the population of the colony on Guen Ha.” Yulna indicated the window with her paw. “Cimbrean, a human colony, is of greater significance to Gao than either of our own colony worlds.  Culturally, militarily, politically and economically.”
+“No. It’s Gorai. Cimbrean has an enclave of Females and is home to a male Clan. Politically alone, that makes it more important than Gorai. Then there are the Whitecrests and Daar’s relationship with the SOR, the trade, and the fact that the Gaoian diaspora here is double the population of the colony on Guen Ha.” Yulna indicated the window with her paw. “Cimbrean, a human colony, is of greater significance to Gao than either of our own colony worlds. Culturally, militarily, politically and economically.”
 
 “So what must you do?” Xiù pressed.
 
@@ -2035,7 +2035,7 @@ Well. Daar checked his satchel, found his little stash of paper money the Americ
 
 But Daar just wanted to be friends, so he rose to his hind legs and yipped cheerily, “Hello!” The man eyed Daar warily, who kept a respectful distance. “I was gonna look at what ‘yer selling…”
 
-Both of the older humans looked at each other, did that weird telepathic thing humans swore they didn’t have, and decided to wave him in.  They both kept a wary distance though, which Daar really didn’t mind. Maybe it was a cultural thing but he was *always* nice to old people.
+Both of the older humans looked at each other, did that weird telepathic thing humans swore they didn’t have, and decided to wave him in. They both kept a wary distance though, which Daar really didn’t mind. Maybe it was a cultural thing but he was *always* nice to old people.
 
 There was a lot to pick over. They had several tables laden with random housewares and odd appliances that seemed to be for various cooking tasks, as well as three racks of clothing on the hook. That kind of weird human thing always amused Daar and he sniffed at the racks curiously. And promptly sneezed. He could tell with a sniff the man had been a heavy smoker some years back and had been quite sick at some point, too.
 
@@ -2085,7 +2085,7 @@ They shared a laugh, or a chitter in Daar’s case, and he extended his paw to s
 
 “I’m Bill, this here’s Margaret. Daar, you said?”
 
-“Yeah, nice to meet you both!” Handshaking was an art, Daar was learning, and Bill’s grip squeezed hard enough that a lesser gaoian might well have been left with a broken paw. It was funny how much strength old humans could retain.  Daar squeezed right back, and was rewarded with an approving smile.
+“Yeah, nice to meet you both!” Handshaking was an art, Daar was learning, and Bill’s grip squeezed hard enough that a lesser gaoian might well have been left with a broken paw. It was funny how much strength old humans could retain. Daar squeezed right back, and was rewarded with an approving smile.
 
 Margaret settled for a daintier, much more *civilized* squeeze. Daar could do civilized, too.
 
@@ -2196,7 +2196,7 @@ Chiune was the Group’s private demesne on Cimbrean, a place where Moses Byron 
 
 There was no way that Ceres was half so pretty, though. Chiune Station had won awards for the way the designers had played with concrete and sent it swooping elegantly through the air in Cimbrean’s low gravity. A delegation of Locayl architects had supposedly wept happy tears at the sight of it.
 
-Julian slowed them as the forward car in their little convoy reached the security checkpoint, then all three were  waved through.
+Julian slowed them as the forward car in their little convoy reached the security checkpoint, then all three were waved through.
 
 Daniel Hurt was waiting for them on the far side, accompanied by Mister Williams and a pudgy vision of fabulous fashion in a spotted silk shirt that Allison recognized from description as Chiune Station’s director, Levaughn Thomas.
 
@@ -2342,7 +2342,7 @@ Dan sat down and leaned back, resting one ankle on the other leg’s knee. “Th
 
 “You only get one shot in life,” Dan replied instantly. “You have to do it right first time. You have to do something *big* first time, something...something that matters. Something that maybe *only* you could do….and maybe I’m being egotistical here, but I honestly think I’m the only person who could do this. I can’t *not* step up.”
 
-He paused, and admitted  a bashful smile. “Also, if I’m honest? Hubris. Personal ambition. The novelty of it.” He shrugged apologetically. “Nobody’s perfectly noble, after all.”
+He paused, and admitted a bashful smile. “Also, if I’m honest? Hubris. Personal ambition. The novelty of it.” He shrugged apologetically. “Nobody’s perfectly noble, after all.”
 
 “Clara?”
 

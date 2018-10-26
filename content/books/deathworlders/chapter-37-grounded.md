@@ -145,7 +145,7 @@ Dan nodded, realizing they’d digressed enough. “Okay...At this point, the ev
 
 “We already recorded their language,” Xiù pointed out.
 
-“Good start. And you have plenty of video footage, but there are other things. Things they need to record in their own words, like what *’magic’* means and how they define the difference between Giving and Taking. Their coming-of-age ceremony and its symbolism. What, exactly, a Given Man is and what he does...and so on.  God-only-knows how many questions we don’t know we need to ask, yet.”
+“Good start. And you have plenty of video footage, but there are other things. Things they need to record in their own words, like what *’magic’* means and how they define the difference between Giving and Taking. Their coming-of-age ceremony and its symbolism. What, exactly, a Given Man is and what he does...and so on. God-only-knows how many questions we don’t know we need to ask, yet.”
 
 “There’s a lot that the Singer won’t want to share,” Julian fretted.
 
@@ -861,7 +861,7 @@ It was the resting and relaxing that were proving to be the impossible parts for
 
 Each day was another drop in his exercise regime and a sharp but not quite equal reduction of food intake, all carefully calculated and timed so he wouldn’t lose an ounce of his hard-earned mass nor any fraction of his strength. They’d even dared to whisper that maybe he could even build up some healthy fat for a change; the Lads in general and the Beef Trio in particular were impressively lean, possibly even *too* lean for their own good, and that lack of reserves could harm both endurance and recovery, and make them more susceptible to injury. For the purposes of fixing that potential problem, this vacation might be just what the doctor ordered.
 
-There was a question mark hanging over whether his nerves would survive though. The cost he was paying for winding down was an overabundance of unburned energy, and the non-stop *doing* of his career had entirely robbed Adam of the ability to relax.  
+There was a question mark hanging over whether his nerves would survive though. The cost he was paying for winding down was an overabundance of unburned energy, and the non-stop *doing* of his career had entirely robbed Adam of the ability to relax.
 
 Perhaps the most peculiar consequence was that he had suddenly become physically quite vulnerable. He was used to pushing himself literally past his breaking point and had a pain tolerance that verged on the masochistic, but of course part of the wind-down had involved scaling back his doses of Crue-D. For the first time in years, Adam Arés was in danger of doing himself lasting physical harm.
 
@@ -1418,7 +1418,7 @@ Kevin seemed to find him invigorating.
 
 “That’s one I wrestle with too,” Hurt agreed. He spoke slower than Kevin, used his hands less, and he had the disarming ability to actually *listen* to what somebody else was saying and to really think about it before he replied.
 
-“...Put it this way,” he decided. “I agree in principle that there’s no one single characteristic that belongs exclusively to one sex but not the other.  But by the same token, it’s clear that we expect certain characteristics more strongly in men and women based solely on their presumed gender roles. And you said yourself, you think of yourself as masculine, and...Miss Chang, do you think of yourself as feminine?”
+“...Put it this way,” he decided. “I agree in principle that there’s no one single characteristic that belongs exclusively to one sex but not the other. But by the same token, it’s clear that we expect certain characteristics more strongly in men and women based solely on their presumed gender roles. And you said yourself, you think of yourself as masculine, and...Miss Chang, do you think of yourself as feminine?”
 
 Xiù blinked, feeling suddenly put on the spot, and obeyed the first instinctive reply that came into her head: She duck-nodded like a Gaoian.
 
@@ -1564,7 +1564,7 @@ Allison nodded sympathetically. “Oh yeah. I remember that shit.”
 
 “Welcome to the Interspecies Dominion, man,” Kevin snorted.
 
-“Long story short, the Dominion are no help and the Alliance would exploit the hell out of the People if they could,” Allison summed up.  “We can turn to the Gaoians because they’ve helped out a pre-contact species before…”
+“Long story short, the Dominion are no help and the Alliance would exploit the hell out of the People if they could,” Allison summed up. “We can turn to the Gaoians because they’ve helped out a pre-contact species before…”
 
 “But that was before they signed up to the Dominion,” Xiù reminded them, with a sigh. “On my advice, too…”
 
@@ -2077,7 +2077,7 @@ ___
 
 ***The Singer***
 
-Sickness was always a danger whenever tribes met. There was always a new one, but now...now the tribes were so close. They had  united behind Yan and Vemik and the magic of steel, and they had followed high into the mountains where the air felt *weak* and cold, and where the wind bit like a yshek. The camps had been moved closer together as the People huddled together for warmth and comfort.
+Sickness was always a danger whenever tribes met. There was always a new one, but now...now the tribes were so close. They had united behind Yan and Vemik and the magic of steel, and they had followed high into the mountains where the air felt *weak* and cold, and where the wind bit like a yshek. The camps had been moved closer together as the People huddled together for warmth and comfort.
 
 That huddling had allowed sickness to sweep through them all like wind through the fallen leaves. Shivering-sickness, sweating-sickness. Sickness that a healthy man or woman could sweat through for a night or two, and be well on the third…
 
@@ -2085,7 +2085,7 @@ But some lives were frailer than others. And the smallest bodies were the heavie
 
 There was nothing she could have done. She’d sang every song she knew, danced every dance she’d ever been taught. She’d given the child root-milk and eased her pain with ketta sap...and in the end, the only thing she could do for her own daughter was to hold her as she shivered her last and went to sleep forever.
 
-Children died. It was a fact of life, she knew that. But she still felt like some cold and malicious god had reached into her chest with claws of bile  and torn out a piece of her heart.
+Children died. It was a fact of life, she knew that. But she still felt like some cold and malicious god had reached into her chest with claws of bile and torn out a piece of her heart.
 
 And the worst part was, that Vemik didn’t know. He was scouting ahead with his father, looking for a way through the mountain passes that the Tribes could all follow without having to abandon their equipment. They had precious little to spare anyway. He would come home to find his daughter dead, and still the tribes would rely on him to be their sky-thinker. She doubted if he would have the chance to properly grieve.
 
@@ -2483,7 +2483,7 @@ The worst the birds apparently suffered for it was wounded pride, usually. Nobod
 
 “They look at you with all three eyes at once.”
 
-“Hmm…”  Gabe was struck by a mischievous thought, and nudged Ava in her ribs. “Okay, so pups are on the cards, eh? What about you? Is there a Bozo in your life that you haven’t told me about?”
+“Hmm…” Gabe was struck by a mischievous thought, and nudged Ava in her ribs. “Okay, so pups are on the cards, eh? What about you? Is there a Bozo in your life that you haven’t told me about?”
 
 Ava pulled a face as she picked up the returned and slightly damper ball. Hannah had tired of keepaway and was keen to have it thrown again, and Bozo was keeping an eye on her while also wagging at a small pack of gaoian cubs that had entered the park along with a couple of their human friends under the fussing attention of a Mother.
 
@@ -2525,7 +2525,7 @@ Ava’s smile faltered, but after a thoughtful second she gave him a hug. “I d
 
 “I hope it does. I hope it helps *you,”* Ava said. “I just...I’m allowed to worry, Dad.”
 
-Gabe hugged her back. “Just don’t let the worry get in the way, yeah?” he pleaded.  “Worst that could happen is I’m stuck in my wheelchair. Best thing would be I get my mobility back. That’s gotta be worth a shot.”
+Gabe hugged her back. “Just don’t let the worry get in the way, yeah?” he pleaded. “Worst that could happen is I’m stuck in my wheelchair. Best thing would be I get my mobility back. That’s gotta be worth a shot.”
 
 “Okay, okay…” she sighed and let go. “But I’m still gonna worry.
 
@@ -2587,7 +2587,7 @@ She was in a low mood, therefore, when Dog called her ship with a worried expres
 
 “I wasn’t askin’ if it was legal. I was askin’ if it has guns.”
 
-“It...I don’t know,” Vakno conceded. “I know he didn’t order anything ship-grade but there were  a lot of pulse rifles---”
+“It...I don’t know,” Vakno conceded. “I know he didn’t order anything ship-grade but there were a lot of pulse rifles---”
 
 “It’s armed,” Dog decided. “Better get your skinny grey ass up here.”
 
@@ -2758,7 +2758,7 @@ Reality reasserted itself. It was not pleasant: There was smoke, and deep amber 
 
 *”Mayday, mayday, mayday, this is Hephaestus Lima Bravo Foxtrot One, at Cimbrean-Six-stellar Lagrange One. Sustained heavy damage and casualties. Emergency recall activated. We have nine aboard, two dead, six wounded. Over. Message repeats in ten seconds---”*
 
-Dog himself was covered in blood but to Corti eyes human blood was a kind of waxy dark green, so full of haemoglobin that it was almost black. The stuff smearing Dog’s face was too pale to be his own.  He gave Vakno a weak smile from behind the film of gore. “Shit, you’re tougher than you look. Thought fer sure you were fucked.”
+Dog himself was covered in blood but to Corti eyes human blood was a kind of waxy dark green, so full of haemoglobin that it was almost black. The stuff smearing Dog’s face was too pale to be his own. He gave Vakno a weak smile from behind the film of gore. “Shit, you’re tougher than you look. Thought fer sure you were fucked.”
 
 Vakno rolled over and tried to stand, gaining a new appreciation for the word *’fucked’.* It summarized what her body was telling her with an apt animalistic bluntness. The world became wobbly and she was forced to sit down again.
 
@@ -2832,7 +2832,7 @@ The larger one meanwhile had opened the equipment roll and was setting up a fram
 
 “Hey Rebar. Who’s your buddy?”
 
-*‘Rebar’* paused long enough to knock fists with him.  “He’s Irish.”
+*‘Rebar’* paused long enough to knock fists with him. “He’s Irish.”
 
 Dog snorted. “No shit? An’ here I thought he was a fuckin’ German.”
 

@@ -550,7 +550,7 @@ ___
 
 ***Remy Shekoni***
 
-Morning arrived with a creak and the sensation of an enormous warm human mass sitting down  beside her, but it wasn’t until three brutally strong fingers delicately brushed the blanket out of her face that Remy actually awoke.
+Morning arrived with a creak and the sensation of an enormous warm human mass sitting down beside her, but it wasn’t until three brutally strong fingers delicately brushed the blanket out of her face that Remy actually awoke.
 
 She blinked, frowned, then reached up to the dresser where she’d left her glasses, only to have them pressed into her hand.
 
@@ -703,7 +703,7 @@ Adam snorted, and melted a bit. “Heh. Fine. But I may as well be right now, br
 
 “Oh come on, *everybody’s* parents tell them to eat more…” Jack protested.
 
-Adam sighed and looked skywards. “*Me cago en Cristo*, was I literally the only fifteen-year-old in history who actually *listened* to his father?”  he asked rhetorically.
+Adam sighed and looked skywards. “*Me cago en Cristo*, was I literally the only fifteen-year-old in history who actually *listened* to his father?” he asked rhetorically.
 
 Jack laughed at that. “Probably.”
 
@@ -847,7 +847,7 @@ Lewis just shrugged, as best he could considering he was flat on his back and br
 
 The truth was, he decided, he *did* enjoy exercise… when he was being tutored by somebody like Lucy. Among other things, she didn’t seem to have any concrete target in mind for him, she just seemed to enjoy having an excuse to spend time around him.
 
-Teenage Lewis would have boggled at the thought. *She* wanted to spend time around *him*?  But teenage Lewis hadn’t been aware of certain facts about the power of laughter, nor indeed of the power that came from actually respecting people on the basis of their skills and knowledge first. There were a lot of facepalm moments in his memory there.
+Teenage Lewis would have boggled at the thought. *She* wanted to spend time around *him*? But teenage Lewis hadn’t been aware of certain facts about the power of laughter, nor indeed of the power that came from actually respecting people on the basis of their skills and knowledge first. There were a lot of facepalm moments in his memory there.
 
 Sometimes, he reflected that it was funny how being isolated from any human contact for so long had actually *sharpened* his social instincts. As if he’d mentally folded them carefully away in alphabetical order and now that they were actually needed again, he found them neatly organised, clean, oiled, sharpened and ready for use.
 
@@ -1014,9 +1014,9 @@ He’d learned from the loss of two drones at the hand of one of these particula
 
 The unit was frustratingly close to striking distance when the priority override signal came in, stopping his entire operation in its tracks.
 
-**++Incoming connection...Established++**    
-**++Joining session: Emergency Task Unit Op94325545++**    
-**++Joined as 0665++**    
+**++Incoming connection...Established++**
+**++Joining session: Emergency Task Unit Op94325545++**
+**++Joined as 0665++**
 
 **++0014++:** *Welcome,* ***0665.***
 
@@ -1154,7 +1154,7 @@ Too bad that there wasn’t a second ship out there to record her from the outsi
 
 Moses certainly seemed pleased with the result. “That girl’s just an incredible human being,” he enthused. “You familiar with her story, Mr. President?”
 
-Sartori nodded that he was. In fact in just a few short months Miss Chang had planted the seeds for a burgeoning alliance with the Gao, an alliance that was already bearing fruit in ways that Moses Byron didn’t suspect.  Several organisations had been waiting to approach her once she’d enjoyed a decent interval of peace back on Earth.
+Sartori nodded that he was. In fact in just a few short months Miss Chang had planted the seeds for a burgeoning alliance with the Gao, an alliance that was already bearing fruit in ways that Moses Byron didn’t suspect. Several organisations had been waiting to approach her once she’d enjoyed a decent interval of peace back on Earth.
 
 Byron, characteristically boorish, had pounced first. “The other two are pretty special as well,” he was saying. “We sure lucked out with them. Not many people have that kind of dedication and drive.”
 
@@ -1382,7 +1382,7 @@ He withdrew his attention from meatspace, trusting in the daemons he had injecte
 
 Local dataspace was a warzone in its own right. Swathes of it had gone dark thanks to the demise of every living thing aboard the Dominion fleet, and more nodes still were crashing and rebooting in response to the digital assault on the data confluence that was the Cabal traitors’ little cache, and those were just the devices he could ping. Dataspace could be claustrophobic in its way, something analogous to foggy. One was never *quite* certain exactly how many devices or nodes were two or three steps down the chain but not visible. Six-six-five had once imagined diving into a deathworld ocean and sinking far down into the translucent blue-blackness where monsters as big as starships might be lurking. The concept of deep water strangely terrified him, even though as a digital sapience he was by definition permanently beyond any harm it might do him.
 
-Dataspace, like physical space, had its warm and comforting shallows, where Igraens were “born” out  of the combined seed algorithms of their “parents”, where their personalities grew and developed and where, for the most part, the species was content to live in a near-perfectly post-scarcity society made possible by their entirely data-based nature.
+Dataspace, like physical space, had its warm and comforting shallows, where Igraens were “born” out of the combined seed algorithms of their “parents”, where their personalities grew and developed and where, for the most part, the species was content to live in a near-perfectly post-scarcity society made possible by their entirely data-based nature.
 
 They were *not* in the shallows. The dataspace around Six-six-five was deep, it was dark, it was enclosing and confusing, and he had a tradeoff to make between visibility and security.
 
@@ -1426,7 +1426,7 @@ There was a long, tense pause.
 
 **++0014++:** *We have broken through in physical space. You should see the siege rounds hit… Now.*
 
-The distant edifice of the Cabal device imploded, taking down  dozens of adjacent devices along with it---objects that were adjacent in the dataspace, adjacent in the network, but might be on opposite ends of the galaxy in physical terms. Everywhere across civilized space, important devices would be crashing, services were being disrupted, and contingencies were activating. Most likely, not a single living being would notice.
+The distant edifice of the Cabal device imploded, taking down dozens of adjacent devices along with it---objects that were adjacent in the dataspace, adjacent in the network, but might be on opposite ends of the galaxy in physical terms. Everywhere across civilized space, important devices would be crashing, services were being disrupted, and contingencies were activating. Most likely, not a single living being would notice.
 
 Seconds later, Fourteen transferred into the node. He swept the mangled data remnants with a battery of the most sophisticated analytical tools the Hierarchy owned.
 
@@ -1653,7 +1653,7 @@ They looked up. The home of the gods was coming down perfectly at the apex of th
 
 *“Light in a high place…”* Yan whispered. “By the gods. My words of manhood.”
 
-“Well. That’s a good omen if ever I saw one,”  the Singer said. “Well done, Given Man.”
+“Well. That’s a good omen if ever I saw one,” the Singer said. “Well done, Given Man.”
 
 Vemik took her hand. “Not far now.”
 
@@ -1746,7 +1746,7 @@ Ava swallowed. “Dad, it’s me! I need to talk to you *right now*.”
 
 *“Ava? What’s wrong, Mija?”*
 
-“Dad, uh…” Ava swallowed  again. “...I just got this really weird email…”
+“Dad, uh…” Ava swallowed again. “...I just got this really weird email…”
 ___
 ___
 **+++END CHAPTER 31+++**

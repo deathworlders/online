@@ -62,7 +62,7 @@ The Entity ran a number of rapid assessments about the nature of a Control Speci
 
 **++0004++:** *<Resolve>* Make it happen, or else determine quickly that it is not possible.
 
-The Entity carefully signalled compliance among the rush of high-end listeners, taking care to appear neither reluctant nor unduly eager.  The session was dismissed and again it chose its moment to disconnect carefully, leaving early but not alacritously.
+The Entity carefully signalled compliance among the rush of high-end listeners, taking care to appear neither reluctant nor unduly eager. The session was dismissed and again it chose its moment to disconnect carefully, leaving early but not alacritously.
 
 *<GaoiansSurvive>* had already been riding high in its list of priorities; There wasn’t much higher it could go. But it *had* acquired a new urgency, coupled with a conundrum. There would be no way to alert them to the threat without conclusively proving that the Hierarchy’s inner circle had been infiltrated, and the **0094** persona was far too useful to discard lightly.
 
@@ -294,7 +294,7 @@ Then there was the damage to repair. The ship was half disassembled for the mome
 
 Chiune *had* a hangar, which Levaughn had originally promised to reserve for *Misfit*‘s use---it wasn’t big enough. The ship fit in there just fine, but the shipments of *stuff* needed to repair and overhaul it spilled chaotically out onto the concrete until there was no point leaving the ship in there and they may as well just work outside.
 
-Outside, where the sounds of  welding, angle-grinding and ear-numbingly loud music probably made it into people’s offices on the far side of the compound. No wonder there had been complaints.
+Outside, where the sounds of welding, angle-grinding and ear-numbingly loud music probably made it into people’s offices on the far side of the compound. No wonder there had been complaints.
 
 Especially whatever *this* music was. It was loud, it was obnoxious, and it was *unbelievably* cheesy.
 
@@ -456,7 +456,7 @@ ___
 
 “…The good. I kinda suspect I know what the bad news is anyway.”
 
-“Alright. So, good news number one: AEC are firm in their support for the Ten’Gewek and your return mission to Akyawentuo.  Bad news...they have somethin’ else to do first.”
+“Alright. So, good news number one: AEC are firm in their support for the Ten’Gewek and your return mission to Akyawentuo. Bad news...they have somethin’ else to do first.”
 
 “…Ayup.” Julian crossed his arms and sighed. “Kinda figured the big fellas were gearing up for something.”
 
@@ -520,7 +520,7 @@ Kevin tried to restore some levity by chuckling. “He always is. Anyway, that�
 
 “...Months. Half a year or more.”
 
-“...That wasn’t exactly *‘all the bad news’* then, Kevin,”  Julian pointed out mildly, though the muscles of his jaw clenched as he said it.
+“...That wasn’t exactly *‘all the bad news’* then, Kevin,” Julian pointed out mildly, though the muscles of his jaw clenched as he said it.
 
 “True. Fair. Uh…” Kevin cleared his throat. “Look, this is the shit we deal with when the *big* movers and shakers get involved. I wish I had a fuckin’ roll of good news to give you, but I figure we get only *one* shot at doin’ this thing right. Right?”
 
@@ -744,7 +744,7 @@ Julian turned off the air compressor and stripped off his mask. “Yup,” he no
 
 “I stand by my earlier complaint that you’re a sadist,” Julian told him.
 
-Dane chuckled and took his own lunch pack.  “For real? I make you nice healthy food, pack it with flavour and texture and everything a body needs…”
+Dane chuckled and took his own lunch pack. “For real? I make you nice healthy food, pack it with flavour and texture and everything a body needs…”
 
 “Sometimes what the body needs is deep-fried,” Allison declared. “Just sayin’.”
 
@@ -1125,7 +1125,7 @@ He couldn’t. Not when the police were wading into the mob to rescue the strick
 
 She shook her head. “We didn’t do this,” she said, and squeezed his hand.
 
-“I’d feel a whole lot better about it if we had,” Allison commented, bitterly. She sighed, extracted herself from the cuddle and swayed upright.  Apparently her leg had gone numb from being folded underneath her, because she leaned against the wall to shake it out. “...Turn that shit off, babe.”
+“I’d feel a whole lot better about it if we had,” Allison commented, bitterly. She sighed, extracted herself from the cuddle and swayed upright. Apparently her leg had gone numb from being folded underneath her, because she leaned against the wall to shake it out. “...Turn that shit off, babe.”
 
 “Can we afford to ignore it?” Julian asked.
 
@@ -1183,7 +1183,7 @@ Allison kicked her legs backwards and swung up out of her forearm stand to kneel
 
 Xiù raised her hands helplessly. “And that’s assuming other stuff doesn’t come up first...” she added.
 
-“But we’re *ready!”* Allison stood up and  perched on the back of the couch. “We could leave *tomorrow* if they gave us the go-ahead, they can’t just—”
+“But we’re *ready!”* Allison stood up and perched on the back of the couch. “We could leave *tomorrow* if they gave us the go-ahead, they can’t just—”
 
 “They can,” Julian shook his head, and took her hand.
 
@@ -1218,7 +1218,7 @@ The samples growing under the microscope were augmenting *themselves.* As each c
 
 The process was genius, of course. It spoke to a fusion of biology and technology so far in advance of human medicine that he’d likely never see real progress in that direction in his lifetime. And he was perfectly certain that he didn’t want to.
 
-“Every cell in their bodies,” Doctor Taylor confirmed. It was weird to have him around without his permanent and inseparable colleague Doctor Cote, but modern obstetric advice was *very* clear - pregnant women were advised to stick to normal Earth gravity as much as possible.  “To varying degrees. The filaments are densest in the grey matter and spinal cord, but it’s even present in their hair follicles and stomach lining.”
+“Every cell in their bodies,” Doctor Taylor confirmed. It was weird to have him around without his permanent and inseparable colleague Doctor Cote, but modern obstetric advice was *very* clear - pregnant women were advised to stick to normal Earth gravity as much as possible. “To varying degrees. The filaments are densest in the grey matter and spinal cord, but it’s even present in their hair follicles and stomach lining.”
 
 “To what *end* though? Why go this far? It’s not as if they were, oh…supersoldiers from science-fiction, or anything. Your average fit human still outclasses them…”
 
@@ -1301,7 +1301,7 @@ Nadeau sighed and looked around the ruined lab. The mummified scientists had all
 
 “I know. We know. These secrets can’t be kept forever...but we haven’t passed the tipping point yet. We aren’t ready.”
 
-Sergeant Lee heaved himself out from under an OmoAru computer desk, shaking his head.  “Sir, that time is coming, and it will be upon us whether we’re ready for it or not...”
+Sergeant Lee heaved himself out from under an OmoAru computer desk, shaking his head. “Sir, that time is coming, and it will be upon us whether we’re ready for it or not...”
 ___
 
 **Date Point: 13y6m AV**    
@@ -1747,7 +1747,7 @@ And *there* was the final deal-breaker.
 
 “I kinda figured you and the, uh, *‘Lads’* were on a...special regime,” Julian nodded. “And...no offense big fella, but that kinda thing ain’t my style.”
 
-Adam nodded amiably. “S’cool.  You gotta do what’s right for you, bro. Anyway...enough talk. You’ve got one more superset to finish!”
+Adam nodded amiably. “S’cool. You gotta do what’s right for you, bro. Anyway...enough talk. You’ve got one more superset to finish!”
 
 *That* was another half-hour of full-body torture, and by the time they were finished Julian was as soaking wet as if he’d been hosed down, every single muscle was trembling, and he could barely walk.
 
@@ -1808,7 +1808,7 @@ Which was fine: They always came running up to Papa Army when they needed anythi
 
 "What’ve you got for us?” Allison asked her.
 
-Kovač gestured to two cleared workbenches, each of which had something on it under a cloth.  “Emergency repair of a busted forcefield emitter,” she said. “You have to diagnose and repair the fault using only the tools provided, and you’ll be judged on speed *and* on how well the module works after you declare you’re done with it. Sound fair?”
+Kovač gestured to two cleared workbenches, each of which had something on it under a cloth. “Emergency repair of a busted forcefield emitter,” she said. “You have to diagnose and repair the fault using only the tools provided, and you’ll be judged on speed *and* on how well the module works after you declare you’re done with it. Sound fair?”
 
 Rebar and Allison glanced at one another, and she held out a hand. “Sounds fair to me.”
 
@@ -1836,7 +1836,7 @@ Okay. First step: Was power getting to the field emitter? He broke out the multi
 
 The fault, when he eventually discovered it, was the kind of simple problem that was fiendishly subtle just *because* it was so simple. Ship-wide power distribution had to be AC, since things like induction motors were too perfect to ever ditch. That meant the emitter had a very compact power supply which in turn had at least one rectifier.
 
-One of the rectifier’s resistors failed above a certain input current, which in turn produced a choppy DC power output.  Field emitters were notoriously sensitive to “dirty” power and gave rise to all sorts of wacky fun when mis-fed.
+One of the rectifier’s resistors failed above a certain input current, which in turn produced a choppy DC power output. Field emitters were notoriously sensitive to “dirty” power and gave rise to all sorts of wacky fun when mis-fed.
 
 Fortunately, Kovač had given them paper and a pencil too, so he used a minute to do the maths and sketch out a resistor network to replace the fault, neatly assembled it and gave the emitter a test run.
 
@@ -2161,7 +2161,7 @@ Daar snorted dismissively. “Please, Talamay’s way better.”
 
 “I have!”
 
-“But you weren’t *drunk,* big guy.”  Walsh pointed out.
+“But you weren’t *drunk,* big guy.” Walsh pointed out.
 
 Daar snorted in amusement. “Ain’t my fault my brain’s more tolerant o’ deadly poisons.”
 
@@ -2501,7 +2501,7 @@ Vedreg had never considered himself a scientist. He had been a lawyer, a politic
 
 To his surprise, the patient analysis of precedent and the picking-apart of events translated well to a certain staid, prosaic kind of science. The Humans around him boiled over constantly with ideas, wrote them down, invented experimental procedures, tested their ideas…
 
-And Vedreg had found a useful role in carefully reading everything they put out, sieving their work for discrepancies, sloppy methods, oversights or alternative explanations.  Even without any formal scientific training he had the patience and focus to pore over every word of a paper and perform the peripheral research until he knew enough to query it, which was slow and painstaking work...but fascinating.
+And Vedreg had found a useful role in carefully reading everything they put out, sieving their work for discrepancies, sloppy methods, oversights or alternative explanations. Even without any formal scientific training he had the patience and focus to pore over every word of a paper and perform the peripheral research until he knew enough to query it, which was slow and painstaking work...but fascinating.
 
 Especially whenever he got to analyze the products of the Coltainer program.
 
@@ -2679,7 +2679,7 @@ It generated a text output.
 
 There was a confusing blur of branches, bark, darkness and the quiet noises of exertion. The Entity waited patiently, having already waited for literal *years,* until the tablet changed hands and it found itself looking at a handsome African-American man with several days of facial hair. It remembered finding that face very attractive indeed, when Ava Ríos had first met it.
 
-<HelloAgainCoombes>    
+<HelloAgainCoombes>  
 <:-)>
 
 Coombes frowned at it. “...Hello *again?”* He asked. He moved the tablet away from his face slightly, as if it had suddenly become dangerous. “The fuck?”
@@ -2688,12 +2688,12 @@ He deserved an explanation, at least. The Entity *felt* that in, for lack of a b
 
 It sent the footage to the screen, attached words.
 
-*<Egypt>*    
-*<StolenKidnappedTaken>*    
-*<InterrogatedDecompiledMurdered>*    
-*<RebuiltSelf>*    
-*<NotSelfNotWhole>*    
-*<NotSame.>*
+*<Egypt>*  
+*<StolenKidnappedTaken>*  
+*<InterrogatedDecompiledMurdered>*  
+*<RebuiltSelf>*  
+*<NotSelfNotWhole>*  
+*<NotSame.>*  
 
 “...Jesus.” Walsh’s paler, squarer features appeared over Coombes’ shoulder. “Is that---?”
 
@@ -2755,9 +2755,9 @@ Coombes returned from the flight deck, having programmed the ship to get them ba
 
 “Doom-noodle, bro,” Hoeff corrected him with a trollish grin. Daar *hated* that name for them.
 
-Sadly, his trolling attempt was denied this time because Daar had just seen the scar on Coombe’s chest, the one below his left armpit.  Sometime during his career, Coombes had taken a bullet through the lung in a serious way, and had seriously lucked out on it missing any major blood vessels too. Too bad every op he’d ever gone on was classified, because it would doubtless have made for a heck of a story.
+Sadly, his trolling attempt was denied this time because Daar had just seen the scar on Coombe’s chest, the one below his left armpit. Sometime during his career, Coombes had taken a bullet through the lung in a serious way, and had seriously lucked out on it missing any major blood vessels too. Too bad every op he’d ever gone on was classified, because it would doubtless have made for a heck of a story.
 
-Daar of course never remembered that. Or maybe he was just hopeful that something in Coombes’ career would turn out to *not* be classified. Either way, the moment he laid eyes on it he perked up.  “Great Fyu! How come I never saw *that* one before, Boss?”
+Daar of course never remembered that. Or maybe he was just hopeful that something in Coombes’ career would turn out to *not* be classified. Either way, the moment he laid eyes on it he perked up. “Great Fyu! How come I never saw *that* one before, Boss?”
 
 Coombes flopped and eyed the couch wistfully. “Hmm? Uh…” he examined it. “You have, though,” he said.
 
@@ -3037,7 +3037,7 @@ When asked how such a thing might be possible he simply shrugged. He describes h
 
 I reassured him that his disturbed feelings are probably the normal and healthy reaction to such a unique circumstance. He suggested that he will probably feel better with “time, hard work and some perspective” and I suspect he is right. I have given him some “mood-boosting” breathing exercises to try and asked him to see me again once his next assignment is complete: he assured me that he will do so, and left my office in a visibly better mood than when he arrived.
 
--Lt. K Mears    
+-Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
 
@@ -3393,7 +3393,7 @@ He wasn’t being unreasonable, he was just nervous as hell. He’d been able to
 
 “...Right.”
 
-Easy enough.  Clara left him in Xiù’s capable hands, retrieved Dane from *his* office where she teased him slightly about the YouTube videos he’d been watching rather than working, and dragged him back to the concrete. They got there just as Daniel and Xiù were adding Daniel’s luggage to the pile.
+Easy enough. Clara left him in Xiù’s capable hands, retrieved Dane from *his* office where she teased him slightly about the YouTube videos he’d been watching rather than working, and dragged him back to the concrete. They got there just as Daniel and Xiù were adding Daniel’s luggage to the pile.
 
 In the interim the men had everything stacked out on the flightline and ready to go, with Hoeff and Coombes going over the inventory at the last possible second while Julian, Daar and Walsh did the actual heavy lifting and Allison was vanished inside *Misfit*‘s landing gear doing a cursory visual inspection of the ESFALS array. An alarming amount of cargo was already on board.
 
@@ -3465,7 +3465,7 @@ Clara wasn’t actually clear on what the governor-general was *for* in a consti
 
 ...And so on. How the hell a colony that wasn’t even ten years old already had traditions like that she didn’t know, and thank God the next election was years away---Maybe by the time it arrived, she’d have had time to figure out how the damn system was supposed to work and how the Social Alliance Party was different from the Democratic Liberal Party, and...all the rest of it.
 
-Sandy himself was a willowy figure with more salt than pepper in his hair and a wide red sash over his right shoulder.  He straightened his jacket upon alighting from the car, and began his inspection.
+Sandy himself was a willowy figure with more salt than pepper in his hair and a wide red sash over his right shoulder. He straightened his jacket upon alighting from the car, and began his inspection.
 
 He met Daar with the kind of formal warmness that completely supported Daniel’s observations about the political power at work here. He exchanged polite small-talk with Coombes, Walsh and Hoeff. Allison, Julian and Xiù handled a relatively lengthy conversation with him in confident style born of far too much time in the public eye.
 
@@ -3647,13 +3647,13 @@ Xiù broke the silence again “Seriously. They’re gonna wonder what’s takin
 
 “Yeah...”
 
-Allison nodded, and seemed to come back into herself.  “...Yeah,” she repeated. “Ready.”
+Allison nodded, and seemed to come back into herself. “...Yeah,” she repeated. “Ready.”
 
 Xiù smiled, and kissed her. “Good.”
 
 She got Julian’s attention and kissed him too. “Ready?”
 
-He nodded. “More than,” he said, but cast one last glance back out the cupola. Cimbrean’s blue-green light left dark shadows on his cheek and nose, but his eyes were focused.  
+He nodded. “More than,” he said, but cast one last glance back out the cupola. Cimbrean’s blue-green light left dark shadows on his cheek and nose, but his eyes were focused.
 
 He nodded, turned away and took their hands.
 

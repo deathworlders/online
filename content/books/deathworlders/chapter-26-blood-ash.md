@@ -197,7 +197,7 @@ Kirk was nodding like a pumpjack. “Meaning that your superweapons cancel one a
 
 “E-fucking-xactly.” Lewis nodded. “And bear in mind dude, all of the above only applies if the other guy is *sane and competent.* What happens if we’re dealing with a complete fuckin’ Mr. Potato Head who reckons he’ll be welcomed as a warrior into the halls of Valhalla, or if he’s too stupid and gung-ho to double-check what’s really going on and launches his nukes when a bird shits on the radar dish?”
 
-He made an explosive gesture with his hands and punctuated it with an oral sound effect. “All I’ve done by creating that weapon in the first place is engineer the tool of my own demise. S’what humans call being *’hoist by thine own petard’* and, dude; if your survival plan hinges on all your enemies  being sane, competent and cautious then that is a *bad* plan because eventually one of your enemies won’t be.”
+He made an explosive gesture with his hands and punctuated it with an oral sound effect. “All I’ve done by creating that weapon in the first place is engineer the tool of my own demise. S’what humans call being *’hoist by thine own petard’* and, dude; if your survival plan hinges on all your enemies being sane, competent and cautious then that is a *bad* plan because eventually one of your enemies won’t be.”
 
 “But surely-” Vedreg began.
 
@@ -266,7 +266,7 @@ Ava nodded solemnly. “Thank you.” she said. “I just have one more question
 
 There was nothing overtly positive about Ava’s response. She didn’t smile, or sigh or nod. Only a microscopic change in the way she held herself suggested that a weight she’d been carrying unheeded for a long time suddenly wasn’t burdening her quite so much. “That… Thank you, Darcy.”
 
-She  stood up. “Are they ready for us yet?”
+She stood up. “Are they ready for us yet?”
 
 “Everything’s in place.” Darcy said. “Major Powell is in charge of this operation, but you’ll be taking your orders directly from Master Sergeant Vinther. Do *exactly* what he tells you. Okay?”
 
@@ -428,7 +428,7 @@ He grabbed his radio. “Put me through to Colonel Munroe, please… Colonel. Ma
 
 Munroe was USAFRICOM’s Air Liaison Officer to Egypt. To him fell the unenviable task of persuading the Egyptian authorities to acquiesce to whatever it was that the Combined Air Operations Center had decided. Given that the force of General Tremblay’s authority was fully behind this particular operation, Powell knew that Munroe’s job was probably much more entertainingly challenging than normal, today.
 
-The relationship was made slightly difficult by the fact that Munroe lacked need-to-know both on DEEP RELIC and on the documentation concerning the SOR’s exact abilities and responsibilities, coded  ‘SACRED STRANGER’. The man had literally no idea that he’d just been dragged into a war with aliens.
+The relationship was made slightly difficult by the fact that Munroe lacked need-to-know both on DEEP RELIC and on the documentation concerning the SOR’s exact abilities and responsibilities, coded ‘SACRED STRANGER’. The man had literally no idea that he’d just been dragged into a war with aliens.
 
 *”Major, what can I do for you?”*
 
@@ -704,7 +704,7 @@ He awarded himself a victory as the cars pulled up outside the foreman’s offic
 
 Behind them was a very large man, blond of hair and beard and wearing aviator shades. Big as he was, he was still smaller than the enormous man who got out of the car behind him, and even *that* one was dwarfed by the mountain who squeezed out of the rear car, draped in the most disgustingly colorful shirt that Six had ever even heard of.
 
-Next to the six males, the young woman who got out of the car last was almost unimpressive.  Where they were regarding him and their surroundings with neutral, calculating watchfulness that promised the immediate and skilful application of violence should things go wrong, she was more like the child: Wide-eyed and cautious, watching him to see what he might do next. She did, however, tap the greying leader on the arm and mutter *”That’s him.”*
+Next to the six males, the young woman who got out of the car last was almost unimpressive. Where they were regarding him and their surroundings with neutral, calculating watchfulness that promised the immediate and skilful application of violence should things go wrong, she was more like the child: Wide-eyed and cautious, watching him to see what he might do next. She did, however, tap the greying leader on the arm and mutter *”That’s him.”*
 
 Six spread his arms and played the part of a jovial host with a smile. “Welcome! Thank you for coming!” he announced.
 
@@ -732,7 +732,7 @@ Six played the part of the perfect gentleman and held the door for her.
 
 It wasn’t much of a door. It wasn’t much of an office. But, it had air conditioning which was a blessing both for warding off the grinding heat of the day and the surprising chill of night time.
 
-Uninvited, Ash sat down. Six’s Interrogation of his host body’s memories on human social etiquette yielded no useful information: as far as the man who had once owned Six’s body would have been concerned, the cultural differences were so pronounced that  Ash may as well be a different species of human altogether.
+Uninvited, Ash sat down. Six’s Interrogation of his host body’s memories on human social etiquette yielded no useful information: as far as the man who had once owned Six’s body would have been concerned, the cultural differences were so pronounced that Ash may as well be a different species of human altogether.
 
 He settled for sitting down at a cautious distance. “Would you like something to drink?” He offered. “I have water, coffee…”
 
@@ -772,7 +772,7 @@ Ash had a quirk of body language, he noted. She wasn’t looking directly at him
 
 “Oh come on-!” she began.
 
-“I am deadly serious. If events were transpiring that would inevitably lead to a fatal clash between  two cultures that could only end in the extinction of one and the mauling of another, the ethical thing to do is to minimize the bloodshed. Does that not seem reasonable?”
+“I am deadly serious. If events were transpiring that would inevitably lead to a fatal clash between two cultures that could only end in the extinction of one and the mauling of another, the ethical thing to do is to minimize the bloodshed. Does that not seem reasonable?”
 
 The defensive body language returned as Ash’s left hand crept halfway up her right forearm. A *’yes’* to which she would not admit, if Six was any judge.
 
@@ -895,7 +895,7 @@ Six couldn’t stop his body’s automatic reflex to frown. “...Vacation.”
 
 Ash just shrugged, still revealing nothing whatsoever. “How much?”
 
-“One in  several hundred billion.” Six told her. “And yet you seem frustratingly sincere! Which means that you are either the very best liar I have encountered in all my life, or else that you are unaware of some causal link between those events.”
+“One in several hundred billion.” Six told her. “And yet you seem frustratingly sincere! Which means that you are either the very best liar I have encountered in all my life, or else that you are unaware of some causal link between those events.”
 
 “And what might that link be?” Ash asked.
 
@@ -1028,7 +1028,7 @@ He turned back. “Our whole strategy this entire time has been fundamentally *w
 
 Six laughed, composed a scenario in his head, and detailed it. “Imagine: You are a thriving, proud civilization. Gleaming cities, global communications technology, art and culture and sports and a thriving economy. And one day, your oh-so-clever scientists discover the means by which a ship might have an apparent linear velocity greater than the speed of causality. You launch your first warp ship, your *Pandora*, and bask in your own accomplishments....until the aliens arrive.”
 
-“These aliens are monsters. True monsters, far worse than any fanged, acid-blooded animal your cinema industry ever devised. And they are monsters because what greets you, smiling politely  and eager to make your acquaintance, are your *superiors.* Faster, tougher, stronger. More cunning, more inventive, more intuitive and more logical. Their art and music redefines everything you thought culturally possible, their philosophy explores fields of thought of which you had never even conceived. They are all but impervious to your weapons, their very *breath* carries plagues that could eviscerate your population, and their military doctrine operates several levels above your own. In every conceivable way, they are *better* than you and you will never, *ever* become their equal in even one capacity, let alone in all regards.”
+“These aliens are monsters. True monsters, far worse than any fanged, acid-blooded animal your cinema industry ever devised. And they are monsters because what greets you, smiling politely and eager to make your acquaintance, are your *superiors.* Faster, tougher, stronger. More cunning, more inventive, more intuitive and more logical. Their art and music redefines everything you thought culturally possible, their philosophy explores fields of thought of which you had never even conceived. They are all but impervious to your weapons, their very *breath* carries plagues that could eviscerate your population, and their military doctrine operates several levels above your own. In every conceivable way, they are *better* than you and you will never, *ever* become their equal in even one capacity, let alone in all regards.”
 
 He sighed. “More galling still? Is that they are even your ethical superiors. They do not gloat, or exploit their superiority. They do not enslave you, but instead welcome you as the equals you are not. They give you a place at their table that you do not deserve, listen to your pathetic attempts at having opinions and treat them with a seriousness they do not warrant. Every time they smile at you and treat you as their friend, they demonstrate yet again just how hopelessly inadequate you really are....And the very, very worst part of all, will be that they are *completely sincere.”*
 
@@ -1400,7 +1400,7 @@ Concrete dust filled the air. The UFO’s high-pitched roar tracked futilely up 
 
 Ava was too busy shivering and trying not to throw up to really pay attention, but she did pay attention when panting, footfalls and swearing heralded the arrival of Coombes, who stumbled into her alleyway and seemed to nearly collapse with relief upon seeing her.
 
-“Christ. Jesus. Fuck.” he  suggested, eloquently.
+“Christ. Jesus. Fuck.” he suggested, eloquently.
 
  Ava could only nod. She wasn’t sure she could remember *how* to speak at that moment.
 
@@ -1408,7 +1408,7 @@ Coombes shook his head and raised a bloody hand to his communicator. “DRINKIN�
 
 Walsh’s reply was quiet. Unlike the rest of them, running from his position hadn’t been an option, and the best that Walsh could do was stay down, stay camouflaged, and watch. *”BOUNCER, we need to light that UFO up right now, ‘cause the cavalry ain’t coming ‘til it’s gone. Only thing I can think of would be hitting it with a firebomb or something.”*
 
-Coombes tried to haul himself upright, grimaced, and collapsed. Ava realised that his breathing sounded strange, like he was short on breath and wheezing.  “LIGHTWEIGHT and GUINNESS, you hear that?”
+Coombes tried to haul himself upright, grimaced, and collapsed. Ava realised that his breathing sounded strange, like he was short on breath and wheezing. “LIGHTWEIGHT and GUINNESS, you hear that?”
 
 All they heard from Murray was a clipped. *”Copy.”*
 
@@ -1420,7 +1420,7 @@ Coombes nodded. “Okay. Ava. I’m gonna need your help with this. Just do what
 
 Ava nodded, and he handed her a plastic syringe applicator covered in simple diagrams to demonstrate its proper use. “I’ve got a… wound, down here…” Coombes said, leaning forward with a pained groan and lifting his shirt. Ava’s stomach lurched. that was a lot of blood, and it was… bubbling…
 
-“Hold it together!” he snapped. “Now…” he coughed. “Step one, I need you to find the entry wound. It’s below my shoulder blade on the back. This is gonna hurt like a motherfucker, but I need you to shove that  applicator right in there and empty it. To hell with how I respond, okay?”
+“Hold it together!” he snapped. “Now…” he coughed. “Step one, I need you to find the entry wound. It’s below my shoulder blade on the back. This is gonna hurt like a motherfucker, but I need you to shove that applicator right in there and empty it. To hell with how I respond, okay?”
 
 “Okay. Okay.” It was a relief to say *anything*, even if it was just the same word over again, but finding her voice at least gave Ava the impetus she needed to do as she was told. She shifted around and found the wound site. Some detached, chilly part of her noted that under normal circumstances she would have balked at getting blood on her, but right now that did *not* seem like an important issue.
 
@@ -1672,7 +1672,7 @@ It worked.
 
 The UFO promptly abandoned its systematic destruction of the village near where Coombes and Ava were hiding. It gained altitude and spun towards the west of the village.
 
-Walsh counted under his breath. “Five mississippi, four mississippi…”  
+Walsh counted under his breath. “Five mississippi, four mississippi…”
 
 The UFO fired. Firth was somehow on the opposite side of the road from its aim point, and the blast smashed harmlessly into the ground.
 
@@ -1948,11 +1948,11 @@ ___
 
 Murray and Firth had been terrifying enough all by themselves. Murray in particular was an unpredictable and fickle force of nature: He would appear, kill, and disappear, only to reappear when and where he was least expected, and in the place the enemy would least want him to be.
 
-When Firth’s dwindling energy reserves had forced him out of the fight, the  double-act between Murray’s hit-and-fade marauding and Walsh’s marksmanship had kept the biodrones pinned and immobile, but little more than that. The fight had bogged down, and Walsh was starting to worry about his supply of ammo when the three men in EV-MASS landed.
+When Firth’s dwindling energy reserves had forced him out of the fight, the double-act between Murray’s hit-and-fade marauding and Walsh’s marksmanship had kept the biodrones pinned and immobile, but little more than that. The fight had bogged down, and Walsh was starting to worry about his supply of ammo when the three men in EV-MASS landed.
 
 He didn’t see what happened over by Charlie. But he had a clear view of Foxtrot and the violence that was unleashed there. BASEBALL hit the ground like an airstrike, and with about the same body count. Just when the drones had re-positioned for cover and could fire at him, up popped Murray to shoot them sideways in the ass. If they found a spot where they were covered against both, then either STAINLESS or Walsh had a clean shot.
 
-It was… dispassionate. Efficient. They were merely servicing their targets, like any soldier or  special operator would on any mission.
+It was… dispassionate. Efficient. They were merely servicing their targets, like any soldier or special operator would on any mission.
 
 The difference was how *good* they were at it. Walsh felt almost superfluous to the proceedings. His sniper’s viewpoint was undoubtedly well-appreciated but what was the point? Nothing the biodrones had could penetrate that incredible armor, none were quick enough to avoid Murray’s preternatural ability to catch them in enfilade, and when the last few tried to make a bid for escape, they did so straight into STAINLESS, who’d seen their move coming long before it began.
 
@@ -1985,7 +1985,7 @@ There was another crack-groan and this time a third noise - the unmistakable shr
 
 Firth and Adam shared a moment’s horrified mutual glance, before Coombes slapped Adam on the arm. “I’ll be fine.” He croaked. “Go.”
 
-The two of them were barely round the corner before Ava heard the tortured building at least partially give up the ghost.  Adam stood and put a despairing hand to the top of his helmet, watching it come down.
+The two of them were barely round the corner before Ava heard the tortured building at least partially give up the ghost. Adam stood and put a despairing hand to the top of his helmet, watching it come down.
 
 Ava cringed, but to her relief the cries weren’t suddenly silenced - in fact they got louder. Adam and Firth scrambled over to the sagging home.
 
@@ -2045,7 +2045,7 @@ There was a horrible groaning sound from the table and Adam snarled urgently thr
 
 Firth grabbed her by a boot and heaved, sliding her and the child painfully in the dirt. A second later she was picked up completely and carried away from the building as Adam gave the beam a final shove and backpedalled. Tonnes of concrete and wood came sliding down, filling the air with dust and the sound of demolition.
 
-They were bundled back into Coombes’ company, who gave a relieved sigh at seeing them all safe. The child - a little girl Ava guessed, though it was hard  to tell between the neglect and the dust - had clamped on to Ava and was hugging hard. She squirmed and protested as Firth pressed an implant scanner to her head, which pinged a happy green.
+They were bundled back into Coombes’ company, who gave a relieved sigh at seeing them all safe. The child - a little girl Ava guessed, though it was hard to tell between the neglect and the dust - had clamped on to Ava and was hugging hard. She squirmed and protested as Firth pressed an implant scanner to her head, which pinged a happy green.
 
 “Guess kids can’t be ‘droned.” Firth panted, and wiped some of the concrete dust off his sweating brow. “That was too close.”
 
@@ -2413,7 +2413,7 @@ Darcy handed her a set of printouts - plane tickets - and some cash in both Euro
 
 “Goodbye.”
 
-Darcy let herself out. She turned to the MP as she did so. “The young lady’s free to return home.” She said.  
+Darcy let herself out. She turned to the MP as she did so. “The young lady’s free to return home.” She said.
 
 “Yes ma’am.”
 
@@ -2445,7 +2445,7 @@ Powell watched the lads follow their equipment across the concrete with a real s
 
 “How bad?” Powell asked.
 
-“Bad enough. Perfection’s a long way from here though and communications are limited. My understanding is that Commodore Caruthers and six of the V-Class destroyers  are on station helping her, but there’s trouble with the locals.”
+“Bad enough. Perfection’s a long way from here though and communications are limited. My understanding is that Commodore Caruthers and six of the V-Class destroyers are on station helping her, but there’s trouble with the locals.”
 
 “If the lads weren’t caught up in it, they’ll be flying the captured ship back to Cimbrean.” Powell recalled.
 

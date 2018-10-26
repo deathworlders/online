@@ -835,7 +835,7 @@ Wood didn't comment as he climbed in, just put an arm on the back of the seat to
 
 "Thank you." Adam tried not to smile.
 
-"Well, hear me out..." Wood took a third right turn. Adam wasn't sure if he had a destination in mind—the route was such an inefficient one that he  suspected the sergeant was just driving for the sake of keeping them moving. Fortunately he didn't turn right again, but sat back and relaxed on a long straight.
+"Well, hear me out..." Wood took a third right turn. Adam wasn't sure if he had a destination in mind—the route was such an inefficient one that he suspected the sergeant was just driving for the sake of keeping them moving. Fortunately he didn't turn right again, but sat back and relaxed on a long straight.
 
 "...What if I could offer you something more?" he asked.
 
@@ -1425,7 +1425,7 @@ Medrà mimicked a thin-lipped, prim smile. "Doctor, if I have learned one thing 
 
 "As a medicine, though..." Hussein protested.
 
-"We are not satisfied that it would *remain* a simple medicine. You already know of the one nicknamed the "Human Disaster", which means in turn that you also how to synthesize Cruezzir in industrial quantities. All you need is a sample of the drug itself." Medrà gestured oddly: it took  Doctor Hussein a second to recall from his studies of alien body language that the gesture indicated concern. "We fear that Cruezzir injections and patches would become commonplace, even the norm, taking an already imposing species and making the pinnacle of your physical potential *trivial* to attain, rather than a lifelong pursuit which precludes the study of other, more...*cerebral* endeavors."
+"We are not satisfied that it would *remain* a simple medicine. You already know of the one nicknamed the "Human Disaster", which means in turn that you also how to synthesize Cruezzir in industrial quantities. All you need is a sample of the drug itself." Medrà gestured oddly: it took Doctor Hussein a second to recall from his studies of alien body language that the gesture indicated concern. "We fear that Cruezzir injections and patches would become commonplace, even the norm, taking an already imposing species and making the pinnacle of your physical potential *trivial* to attain, rather than a lifelong pursuit which precludes the study of other, more...*cerebral* endeavors."
 
 Hussein considered his Corti counterpart for a second. "You make it sound like you want us to remain below our potential."
 
