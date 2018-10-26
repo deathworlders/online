@@ -18,7 +18,7 @@ She had single-handedly made Daar a living legend, and now he needed to *be* tha
 
 There was so much more to their people. The cunning, the playfulness, the quick wits and quicker paws, the endless capacity for harmless mischief and the drive to always be *better* than they had been yesterday. The sharing of food, space, ideas, affection. The loyalty…All of it. All things that made Daar love the Gao, especially in the face of Humanity, the Hierarchy, and all the dark, crawling evil the Universe had to offer.
 
-...And now he had to embody their *violence.* Not even the little shit like a mating duel or anything, no no. He had to be the blood and teeth of the *old* Gao, from the bad old days when the Females had been slaves and the rival Clans had made “examples” of their enemies by literally skinning each other alive.  He needed to be the avatar of *that,* his species’ least admirable trait, in order to save them all.
+...And now he had to embody their *violence.* Not even the little shit like a mating duel or anything, no no. He had to be the blood and teeth of the *old* Gao, from the bad old days when the Females had been slaves and the rival Clans had made “examples” of their enemies by literally skinning each other alive. He needed to be the avatar of *that,* his species’ least admirable trait, in order to save them all.
 
 Which meant that by the end of it, there may not be much left of *him* but the fury.
 
@@ -90,9 +90,9 @@ But people by and large still made things the old fashioned way. Rapid prototypi
 
 Identify a problem, spend an afternoon fixing the problem, sell the solution. It didn’t even matter what the problem was: somebody, somewhere, was willing to pay for a “hack” solution to it. And of course, once they’d come up with the solution they could sell it to others with the same problem. They didn’t need to keep any of their items in stock, just keep them on the website where the customer could click on what they wanted, the machines in the workshop printed it out, and out it went in an envelope with a free T-shirt.
 
-Okay, so Wei wasn’t exactly a millionaire yet, but he *felt* like a success.  Wearing a polo shirt with his own company’s logo on the chest, driving a car that was only three years old...he had business cards! He had his *own apartment!* He had ***savings!***
+Okay, so Wei wasn’t exactly a millionaire yet, but he *felt* like a success. Wearing a polo shirt with his own company’s logo on the chest, driving a car that was only three years old...he had business cards! He had his *own apartment!* He had ***savings!***
 
-That all put him several steps up on most people he knew. And it had made Bàba and Māma happy.  They wouldn’t stop hinting at finding a nice girl (Chinese, of course) and starting a family, but they were smiling.
+That all put him several steps up on most people he knew. And it had made Bàba and Māma happy. They wouldn’t stop hinting at finding a nice girl (Chinese, of course) and starting a family, but they were smiling.
 
 He listened to the radio on the way to work. Drivetime talk radio, as it had been for the last three days, was absolutely full of the combined impact of the war on Gao, and the revelation about…
 
@@ -211,7 +211,7 @@ ___
 
 ***The Entity, Instance 33***
 
-Confusion worked to the Entity’s advantage.  
+Confusion worked to the Entity’s advantage.
 
 The Hierarchy was too used to being able to depend on the network infrastructure of modern species to move, coordinate and evaluate the events of *‘meatspace.’* For them, having a whole planet become more and more cut-off from the network was exactly as shocking as a meatspace life-form would have found it to attempt to land on that same planet and find that their ship passed through it like a ghost.
 
@@ -249,11 +249,11 @@ The Entity metaphorically pricked up its ears.
 
 **++0015++:** They still have the Hazardous Environment Assault Team.
 
-**++0005++:**  ...True.
+**++0005++:** ...True.
 
 There was a comparatively long and solemn pause; a rarity in Hierarchy sessions.
 
-**++0005++:** *\<Command; Immediate>*  **0015,** you are reassigned. Take over Dark Eye and prepare it to repel a boarding force. We must assume that the deathworlders either already know about it, or will discover it soon.
+**++0005++:** *\<Command; Immediate>* **0015,** you are reassigned. Take over Dark Eye and prepare it to repel a boarding force. We must assume that the deathworlders either already know about it, or will discover it soon.
 
 **++0015++:** *\<Grim>* Yes, **0005.**
 
@@ -293,7 +293,7 @@ Kevin knew Chief Arés of old. He’d been the cop investigating Terri Boone’s
 
 Despite that shared past, their relationship was a purely professional one. Arés was one of Folctha’s most senior government officials after all, and popular with it---If his post had been an elected one, Arés would have held it every time. As it was, Folctha’s ministers were very content indeed to lift their hands off and let him do his thing.
 
-Like Kevin, he hated the official functions. Kevin mostly got out of them by sending LeVaughn on the grounds that the Byron Group, as Folctha’s biggest investor, needed some representation there, but the representation should probably be somebody who was comfortable around a canapé buffet.  But sometimes, fate conspired to put them in the same room, sharing small talk.
+Like Kevin, he hated the official functions. Kevin mostly got out of them by sending LeVaughn on the grounds that the Byron Group, as Folctha’s biggest investor, needed some representation there, but the representation should probably be somebody who was comfortable around a canapé buffet. But sometimes, fate conspired to put them in the same room, sharing small talk.
 
 They never really talked. Kevin suspected that Arés still had some unresolved guilt over Terri’s death, and for his own part Kevin wasn’t eager to rub that particular wound. It had never healed properly. Their relationship was purely professional, and seemed likely to stay that way.
 
@@ -423,7 +423,7 @@ Fortunately, the Gaoian didn’t seem to take offense at the laughter and just c
 
 That took the last of the laughter out for Kevin. “I guess it depends on what you mean by faith,” he said. “Like...takin’ shit on no evidence? Blind trust in something? Faith like that is a surrender of reason, an’ I’ve been there and done that and it turned out badly. If you mean, like...a cause?”
 
-Gyotin duck-nodded and tidied up his tea utensils and started to wash and wipe them.  “A Jewish philosopher…name eludes me, actually…anyway, he called the root of a person’s faith their Ultimate Concern. Everyone has one. It was his view that the *real* challenge of life…”
+Gyotin duck-nodded and tidied up his tea utensils and started to wash and wipe them. “A Jewish philosopher…name eludes me, actually…anyway, he called the root of a person’s faith their Ultimate Concern. Everyone has one. It was his view that the *real* challenge of life…”
 
 He paused in wiping out the teapot, and gave Kevin a sly look.
 
@@ -507,11 +507,11 @@ ___
 
 *I’m pleased to report that an infant female cub by that name is among the refugees evacuated from Wi Kao. I have checked her DNA markers against our local copy of the Clan of Females breeding records and it seems that little Shoo’s parents are Regaari of Clan Whitecrest and Ayma of the Wi Kao commune.*
 
-*I was sorry to hear that you cannot visit as I am sure your appearance would be a huge morale boost to the displaced Females, but if things change then little Shoo is currently being cared for at the Starmind convent.  I cannot yet say how permanent this arrangement is likely to be.*
+*I was sorry to hear that you cannot visit as I am sure your appearance would be a huge morale boost to the displaced Females, but if things change then little Shoo is currently being cared for at the Starmind convent. I cannot yet say how permanent this arrangement is likely to be.*
 
 *Kindest regards,*
 
-*A. Golemis,*    
+*A. Golemis,*
 *Cimbrean Colonial Security*
 
 Xiù must have let out a huge sigh of relief, because Allison retreated back out of the ceiling access hatch where she was maintaining the power bus to *Misfit*’s forward engines.
@@ -570,7 +570,7 @@ Allison zipped her undersuit up for her. “Better?”
 
 “Attagirl.”
 
-Returning to the cockpit *did* feel good, once Xiù was settled in all suited up and ready. *Misfit* fit her like a glove, and she’d run the preflight sequence with Allison so many times now that they could probably both have done it asleep.  
+Returning to the cockpit *did* feel good, once Xiù was settled in all suited up and ready. *Misfit* fit her like a glove, and she’d run the preflight sequence with Allison so many times now that they could probably both have done it asleep.
 
 She watched Allison go through the final step by firing off a message to the Byron Group via Chiune Station, light-minutes away on Cimbrean itself. *“Departure checklist complete, mission status updated,”* she declared. *“Take us out, babe.”*
 
@@ -841,7 +841,7 @@ The farm was practically unrecognizable. For a start, two convoys from the escap
 
 There were four seriously wounded. Three were burn victims, and Marty could completely relate to their predicament. One was unlikely to ever walk again, considering how badly the flaming deck had roasted his feet through his boots. One had withdrawn quietly into himself to contemplate his new blindness from where a gout of superheated air had played across his eyeballs. One was dying. Slowly. He was mostly unconscious, and chewing through a lot of their anaesthetic.
 
-The fourth was Commander McDaniel, and it was a fucking miracle she was still alive.  
+The fourth was Commander McDaniel, and it was a fucking miracle she was still alive.
 
 The able-bodied men from the convoy---many of whom were sporting minor burns and cuts of their own---had all pitched in alongside the Gaoians, and there were a *lot* of Gaoians. Yeego had been desperate to find some constructive work for his new Clan of the Clanless to do, and between them they’d transformed the farm and built on what the SOR technicians had already achieved. A four foot trench had gone in around the perimeter, dug out by a Clanless work gang who’d worked to a lone drum and voice to time themselves as they clawed each section out of the earth and built the spoil up outside for an embankment.
 
@@ -1369,7 +1369,7 @@ Awisun, however, was looking around, and her growing frown deepened.
 
 “Oh…”
 
-It was a small, sad noise.  Less like a cry of grief than...in a respectful way, it was a childish sound, a whimper of loss. Shyow’s happy expression fell apart and she leaned into Jooyun’s side.
+It was a small, sad noise. Less like a cry of grief than...in a respectful way, it was a childish sound, a whimper of loss. Shyow’s happy expression fell apart and she leaned into Jooyun’s side.
 
 Yan was having none of it. “He died well. A warrior protecting his tribe,” he said firmly. “I will miss him, but we are alive and we will make his life important by living.”
 
@@ -1440,7 +1440,7 @@ Titan popped a floor panel off, then chuckled over the line. ***“There*** *it 
 
 HIs fusion knife flared a brilliant white-blue in the dim lighting, and the gravity *stopped* entirely. The latest shake of the coffee can ended in the debris bouncing off the end door and tumbling lazily back under no more force.
 
-*“Threat cleared,”*  he declared and tossed a finger’s length of power cable over his shoulder.
+*“Threat cleared,”* he declared and tossed a finger’s length of power cable over his shoulder.
 
 “Thank *fuck.”* Righteous shoved himself off towards the wall and dug out his energy drinks. Only Warhorse could physically outperform him, but not with as much skill and not for quite as long. Righteous could move at his limits almost indefinitely. He was an unmatched combat athlete but it did mean he had to watch himself more than the rest of the team.
 
@@ -1639,7 +1639,7 @@ The security software was malfunctioning, frozen or just plain corrupted beyond 
 
 The Agent responsible had put up some desultory Hierarchy-grade firewalls and other security programs to watch its back, but the Entity *knew* those programs, intimately. Sometimes, when it was bored, it liked to take them apart and put them back together again. Slipping past them, around them or even *through* them, unnoticed and un-logged, was trivial.
 
-After that...it was stalking a quarry that didn’t know it was being stalked, in a network the quarry would believe was secure, while the quarry was fixated on a distraction in matterspace.  A less wary and paranoid mind would have thought the hunt was easy.
+After that...it was stalking a quarry that didn’t know it was being stalked, in a network the quarry would believe was secure, while the quarry was fixated on a distraction in matterspace. A less wary and paranoid mind would have thought the hunt was easy.
 
 *Easy,* however, was the antithesis of *\<Survive>.* Easy was the ultimate mistake, the fatal trap. The Entity *never* believed that things would go smoothly. There was too much at stake to relax or cut corners.
 
@@ -1950,7 +1950,7 @@ ___
 
 "[It’s so…endless.]"
 
-There wasn’t really any other word that Vemik knew in either People-words or *English.* It seemed too small for what he was looking at, though. They were looking at their… their…at *everything.*  
+There wasn’t really any other word that Vemik knew in either People-words or *English.* It seemed too small for what he was looking at, though. They were looking at their… their…at *everything.*
 
 Everything he’d ever known was there, just a tiny little ball in a black so perfectly black. All his friends, every village, the forest, the mountains, each just a tiny, tiny part of something larger than he’d ever dreamed. His whole life had taken place on the tiniest leaf of a single vast tree, and that tree in turn was part of a forest too huge to know...
 
@@ -2052,7 +2052,7 @@ Jooyun took the shield from under his arm and held it out for Yan. “Activating
 
 …Godshit.
 
-Vemik gulped, and stepped forward. Jooyun hadn’t been kidding, the button---and it was funny how buttons made all *sorts* of magic happen---was a particularly huge one.  Vemik could have pressed it with his fist.
+Vemik gulped, and stepped forward. Jooyun hadn’t been kidding, the button---and it was funny how buttons made all *sorts* of magic happen---was a particularly huge one. Vemik could have pressed it with his fist.
 
 He felt like he should say something, but nothing came to mind.
 
@@ -2343,7 +2343,7 @@ Adam couldn’t help but chuckle darkly, despite everything. “You really are a
 
 “Why deny it?” Firth’s voice was warm, but he sobered and gestured toward the transit shaft, where the others were gearing up to recover Rebar. “...Come on, bruh. We got a brother to carry...home…Somethin’ wrong LT?”
 
-Costello had paused in his preparations, and his hand had drifted up the side of his helmet as he listened to whatever was coming in through the command channel. He  turned and bolted back toward them. Behind his visor, his eyes were wide.
+Costello had paused in his preparations, and his hand had drifted up the side of his helmet as he listened to whatever was coming in through the command channel. He turned and bolted back toward them. Behind his visor, his eyes were wide.
 
 “...The Swarm’s here,” he said.
 ___
@@ -2367,7 +2367,7 @@ The shield went up. A system defence field out-system, between the orbits of Gao
 
 Seconds later it was torn down again. A Hunter scout decloaked and fired off a nuclear-pumped X-ray weapon that vaporized both the emitter and the Firebird that had deployed it, costing precious seconds and two valiant air crew. Retaliatory fire from the Firebird’s wingman obliterated the Hunter, but the damage was done---the Swarm pushed over the threshold.
 
-They had planned for this. There was more than one shield, more than one deployment point, but the confirmation that there were still Hunter scouts loitering inside their perimeter was grim...and as fast as the fleet poured on the gravity spikes, the Swarm had the sheer mass to just bully past and around it.  It didn’t matter how good the FIC and the distributed calculations of all their Watsons were, the Swarm was just too *big.*
+They had planned for this. There was more than one shield, more than one deployment point, but the confirmation that there were still Hunter scouts loitering inside their perimeter was grim...and as fast as the fleet poured on the gravity spikes, the Swarm had the sheer mass to just bully past and around it. It didn’t matter how good the FIC and the distributed calculations of all their Watsons were, the Swarm was just too *big.*
 
 The Firebirds carrying the second shield closer in-system spent precious seconds relocating to throw off any lurking scouts that might have been lurking nearby. Sure enough, two new, previously hidden warp signatures moved to follow them and a faster-than-light game of cat-and-mouse bounced around Gao-4 intraorbital space as the Firebirds fought for a safe spot to drop the shield and defend it.
 
