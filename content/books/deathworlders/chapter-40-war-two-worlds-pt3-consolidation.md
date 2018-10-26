@@ -1111,22 +1111,22 @@ Xiù’s heart leapt into her mouth. She abandoned the eggs and dashed to Alliso
 
 “Read!” Allison thrust the tablet into her hands.
 
-	F 330142Z-CIM SEP    
-	FM DUCKTAPE/ducktape@sharman.mod.gov.uk.smil//    
-	TO MISFIT/bgev11@ships.byron.scom//    
-	INFO STAINLESS/stainless@sharman.mod.gov.uk.smil//    
+	F 330142Z-CIM SEP
+	FM DUCKTAPE/ducktape@sharman.mod.gov.uk.smil//
+	TO MISFIT/bgev11@ships.byron.scom//
+	INFO STAINLESS/stainless@sharman.mod.gov.uk.smil//
 
 	T O P   S E C R E T  SAR-BROKEN-STATUE DEEP-RELIC
-	SUBJ/(U) STATUS UPDATE-AKYAWENTUO//    
+	SUBJ/(U) STATUS UPDATE-AKYAWENTUO//
 
-	► (C//SAR-BS) Situation now resolved. BIG HOTEL presence nullified, planet now believed to be secure. PLAYBOY and others are well.    
-	►     
-	► (TS//SAR-BS-DR) To properly secure the system, we require a FOOTBALL be deployed to the Akyawentuo L2 stellar-planetary lagrange point. Your mission on return will be to effect this deployment under Ten’Gewek witness. Please record the moment for future posterity and make certain the People understand the ramifications. A combined briefing from the Department of State and the Foreign Office is included. As you are the extant experts on Ten’Gewek language and culture, you should translate as appropriate.    
-	►    
-	►(U//FOUO) As this is an opportunity for interspecies diplomacy, we are preparing a courtesy package with food, educational material, and other such amenities as suggested by Professor Hurt. See enclosed list and amend as appropriate.  
-	►    
+	► (C//SAR-BS) Situation now resolved. BIG HOTEL presence nullified, planet now believed to be secure. PLAYBOY and others are well.
+	► 
+	► (TS//SAR-BS-DR) To properly secure the system, we require a FOOTBALL be deployed to the Akyawentuo L2 stellar-planetary lagrange point. Your mission on return will be to effect this deployment under Ten’Gewek witness. Please record the moment for future posterity and make certain the People understand the ramifications. A combined briefing from the Department of State and the Foreign Office is included. As you are the extant experts on Ten’Gewek language and culture, you should translate as appropriate.
+	► 
+	►(U//FOUO) As this is an opportunity for interspecies diplomacy, we are preparing a courtesy package with food, educational material, and other such amenities as suggested by Professor Hurt. See enclosed list and amend as appropriate.
+	► 
 	► (U//FOUO) This mission has been coordinated with Byron Group and your services contracted in accordance with the FAR and the terms of our Agreement. See riders, attached.
-	►         
+	► 
 	► (U) Further questions can be directed to my office or to me directly, if the need is urgent. You are authorized prep time and funding for this mission immediately, to depart no more than 72-hours from the time of this message. Further instructions to follow shortly.
 
 Pure relief shot straight down Xiù’s back and knocked the knees out from under her just from reading the first paragraph. She didn’t really notice the way she sank to the ground as she read the rest, nor really absorbed anything else about the message on the first readthrough---All the *important* content was neatly contained in the five words of the third sentence.
