@@ -231,11 +231,11 @@ So why hadn’t the trap sprung?
 
 He keyed his throat mike. “Boss, this stinks on ice.”
 
-Coombes paused for a moment before responding; he had anticipated that there would have been an ‘earth-shattering kaboom.’ “What’s up, Walsh?”
+Coombes paused for a moment before responding; he had anticipated that there would have been an ‘earth-shattering kaboom.’  “What’s up, Walsh?”  
 
 “If there are Gaoians down here, they’re fuckin’ invisible.”
 
-“Well, that explains why there’s no kaboom.” Coombes smiled to himself, before continuing. “So, up for a thunder run?”
+“Well, that explains why there’s no kaboom.”  Coombes smiled to himself, before continuing. “So, up for a thunder run?”
 
 ---
 
