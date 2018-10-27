@@ -172,7 +172,7 @@ Firth grinned a bit aggressively, “But I reckon it’d be a fun fight!”
 
 Powell nodded agreeably but did not rise to the challenge. A thought occurred suddenly. “Wait. ‘Ow big *were* you when you were doin’ this?”
 
-“Eh, let’s just say that I was _way_ bigger than that Icelandic strongman guy too, ‘member him? Yeah. Basic and the CCT training pipeline pretty much starved me down to a beanpole, but even then I was _easily_ the biggest an’ strongest dude they’d ever had go through the program. Lightest I’d been since I was fifteen in fact. Once I could eat properly again I shot back up to a nicely comfortable fighting weight. Things were pretty good so I didn’t push the limits again until I heard about the SOR, but once I was really trying though…I grew like a goddamned weed even before I started the Crude! But I weren't surprised, not really. I’ve always been huge. Runs in the family!”
+“Eh, let’s just say that I was  _way_ bigger than that Icelandic strongman guy too, ‘member him? Yeah. Basic and the CCT training pipeline pretty much starved me down to a beanpole, but even then I was _easily_ the biggest an’ strongest dude they’d ever had go through the program. Lightest I’d been since I was fifteen in fact. Once I could eat properly again I shot back up to a nicely comfortable fighting weight. Things were pretty good so I didn’t push the limits again until I heard about the SOR, but once I was really trying though…I grew like a goddamned weed even before I started the Crude! But I weren't surprised, not really. I’ve always been huge. Runs in the family!”
 
 Powell boggled at the casual, drive-by description of Firth’s exceptional adolescent development. “Wait. You were that big at *fifteen?* Were you always such a prodigy?” Firth, for his part, seemed to enjoy the disbelief.
 
@@ -198,7 +198,7 @@ Everyone glanced at each other quickly. Firth smiled happily.
 
 “Right…And now you’re one of the biggest on the team?”
 
-“Yup! A little over twelve-fifty now, which is, like, four-fifty more than Rebar, who’s the biggest guy on the team outside us three.” He smiled, deeply pleased with himself. Then, in an almost disbelieving tone, “But fuck, these two? I’m _way_ behind! Fuck!” Firth chuckled while Arés grinned proudly and happily.
+“Yup! A little over twelve-fifty now, which is, like, four-fifty more than Rebar, who’s the biggest guy on the team outside us three.” He smiled, deeply pleased with himself. Then, in an almost disbelieving tone, “But fuck, these two? I’m _way_  behind! Fuck!” Firth chuckled while Arés grinned proudly and happily.
 
 “Dang,” commented Baseball, “You’re catching up fast.”
 
