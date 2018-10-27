@@ -436,7 +436,7 @@ She snorted. “I dunno, these things aren’t so bad. They make me feel like I 
 
 “Uh-huh. So was Adam, but he made apologies.”
 
-“Yeah, well. He has to buy a new suit every time,” Coombes observed and Ava grinned at him. She carefully steered him around a few of her less scrupulous journalistic counterparts—the last thing she wanted was for him to get in trouble. Coombes was a smart man who knew the value of keeping his mouth shut, but Ava ranked herself as only a talented amateur when it came to winkling little nuggets of unintended intelligence out of people.  Some of her counterparts could spin a whole narrative out of a few incautious sentences and the worst part would be that the words quoted in the article would be *exactly* what their victim had said.
+“Yeah, well. He has to buy a new suit every time,” Coombes observed and Ava grinned at him. She carefully steered him around a few of her less scrupulous journalistic counterparts—the last thing she wanted was for him to get in trouble. Coombes was a smart man who knew the value of keeping his mouth shut, but Ava ranked herself as only a talented amateur when it came to winkling little nuggets of unintended intelligence out of people. Some of her counterparts could spin a whole narrative out of a few incautious sentences and the worst part would be that the words quoted in the article would be *exactly* what their victim had said.
 
 “How’s Walsh?” she asked.
 
@@ -486,7 +486,7 @@ She nodded, but she seemed a little absent all of a sudden, as if there was some
 
 “Maybe. The big guests are late and Moses Byron looks *pissed.* They wouldn’t just… skip out on us, would they?”
 
-“Those three? Nah.” Coombes shook his head. “They’re not real public types but they wouldn’t run out on their own party.” He gave Byron a suspicious look. “...Something musta come up...”  
+“Those three? Nah.” Coombes shook his head. “They’re not real public types but they wouldn’t run out on their own party.” He gave Byron a suspicious look. “...Something musta come up...”
 ___
 
 **Date Point: 15y4m3w AV**    
@@ -661,7 +661,7 @@ Considering that it had taken *Misfit* a total of three years of mission time to
 
 “I’d now like to invite our guest of honor up here to officially launch the first Coltainer. He’s the last surviving Apollo astronaut and moonwalker—”
 
-Vedreg stopped paying attention as a very elderly man shuffled from the crowd wearing a broad smile. He didn’t mean to be rude, but speeches and ceremonial occasions were a reminder of an old life that he still felt sore for losing. Nobody loved long-winded speeches more than the Guvnuragnaguvendrugun, their language was built for it… but his people had become recluses in the aftermath of the assault on their homeworld. Their seats on the various Dominion councils were empty, their systems were hardened behind impenetrable forcefield shells many layers thick and nobody had heard from them in years. Vedreg’s own herd—especially his mates and children—as homeworld residents were all undoubtedly dead.  
+Vedreg stopped paying attention as a very elderly man shuffled from the crowd wearing a broad smile. He didn’t mean to be rude, but speeches and ceremonial occasions were a reminder of an old life that he still felt sore for losing. Nobody loved long-winded speeches more than the Guvnuragnaguvendrugun, their language was built for it… but his people had become recluses in the aftermath of the assault on their homeworld. Their seats on the various Dominion councils were empty, their systems were hardened behind impenetrable forcefield shells many layers thick and nobody had heard from them in years. Vedreg’s own herd—especially his mates and children—as homeworld residents were all undoubtedly dead.
 
 Anything that reminded him of home or his people was painful in a place he’d never be able to point to. For all he knew, Hierarchy biodrones had risen up and his people’s remaining planets were now the gravesites of billions, making him one of the last Guvnuragnaguvendrugun alive.
 
@@ -1434,7 +1434,7 @@ She woke up and blinked at the ceiling. Right. She wasn’t in Vancouver, she wa
 
 It kinda sucked that their first night in their new house had been spent without Julian. The timing had just come together wrong that way. He’d *wanted* to be there she knew, but when ambassadors and governors and Given-Men had big meetings…
 
-Akyawentuo and Cimbrean had very different diurnal periods, so if Julian was meant to be getting Yan and Vemik onto the jump pad for shortly after dawn local time, in Folctha the jump might be scheduled for nine in  the morning, and the preparations had to start twelve hours earlier…
+Akyawentuo and Cimbrean had very different diurnal periods, so if Julian was meant to be getting Yan and Vemik onto the jump pad for shortly after dawn local time, in Folctha the jump might be scheduled for nine in the morning, and the preparations had to start twelve hours earlier…
 
 He’d persuaded them to move in anyway, rather than wait another day in the hotel room. What was the point of paying for a suite in the Statler when their own house was less than two miles away? It made sense… but Xiù had missed him last night, and so had Allison.
 
@@ -1920,7 +1920,7 @@ Tiritya was hardly a small island, either. The word “island” conjured up a m
 
 Some of the Sisters had suffered *terribly* on Gao and while most preferred the bustling company of their own kind, a few needed quiet and isolation to heal. Which was why there was even a convent, built on a little neighboring island that was technically part of Tiritya thanks to the beaches that appeared at low tide.
 
-The concept of a nun had been an alien one when Yulna first learned it, and it only got stranger when she considered her Sisters taking up lives of celibacy and spiritual reflection. Especially now, when the Gao needed to breed like never before. She’d never understand them… but she didn’t  need to. They were Clan, and that was all that mattered. If their experiences had left them feeling unequipped to bear cubs then *nobody* had the right to force that responsibility on them.
+The concept of a nun had been an alien one when Yulna first learned it, and it only got stranger when she considered her Sisters taking up lives of celibacy and spiritual reflection. Especially now, when the Gao needed to breed like never before. She’d never understand them… but she didn’t need to. They were Clan, and that was all that mattered. If their experiences had left them feeling unequipped to bear cubs then *nobody* had the right to force that responsibility on them.
 
 Species certainly didn’t matter. Sister Shoo remained the only non-Gaoian member of the Clan, but in principle Yulna wasn’t opposed to the idea of taking in other Human women. After all, the one they already had was a treasure.
 
@@ -2200,7 +2200,7 @@ The set of her ears was soft and kindly. “This is a safe place to do that,” 
 
 She turned back to her pan. “Or don’t. Nothing is forced, here.”
 
-“...Thank you,” Naydra replied. She’d meant it to be polite, but it came out entirely heartfelt.  It seemed Yulna had zeroed in on something she herself didn’t know she needed.
+“...Thank you,” Naydra replied. She’d meant it to be polite, but it came out entirely heartfelt. It seemed Yulna had zeroed in on something she herself didn’t know she needed.
 
 The two Humans beamed at each other, and Allison picked up her *Talamay* again.
 
@@ -2354,7 +2354,7 @@ Shanl gave the data in front of her some pensive consideration.
 
 Shanl nodded. She blinked a couple of times—a display of intense emotion, by Silver banner standards—then turned to the Directors.
 
-“Alternatives?”  
+“Alternatives?” 
 
 One of the Fifth Directors—Atrish—raised her hand. “We may need to consider an Ark.”
 
