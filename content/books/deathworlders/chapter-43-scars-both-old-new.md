@@ -16,7 +16,7 @@ They were going home. Well, not *home* home—Jack still had a room at his paren
 
 Their progress was definitely impaired by Jack having to stop every now and then as his stomach tried to turn itself upside-down, or when a stab of pain shot through his head, but at least he wasn’t passed out in an oversized ambulance any longer.
 
-“Yyup. Right down your front. And that set you off, but you tried to cover your mouth with your hand like this so it kinda *sprayed* all over you both…” Jack grimaced, but Miller was relishing the recounting far too much to stop.  “....So you both decided you wanted to wash off in the river and then *you* decided you were really tired so you fell asleep on a park bench and she kinda passed out… and that’s when Moho carried both of you to the drunk tank. She woke up about an hour before you did and went home without her shoes or her purse.”
+“Yyup. Right down your front. And that set you off, but you tried to cover your mouth with your hand like this so it kinda *sprayed* all over you both…” Jack grimaced, but Miller was relishing the recounting far too much to stop. “....So you both decided you wanted to wash off in the river and then *you* decided you were really tired so you fell asleep on a park bench and she kinda passed out… and that’s when Moho carried both of you to the drunk tank. She woke up about an hour before you did and went home without her shoes or her purse.”
 
 “Our boy’s a smooooth player,” Moho said with a roll of his eyes.
 
@@ -119,7 +119,7 @@ Cytosis had tried rebelling a few times. He knew better nowadays. “Why did the
 
 “Elaborate,” Bill instructed him. Cytosis shrugged.
 
-“It’s a highly controllable environment. Their society, their culture, their natural instincts all make them easy to contain and manipulate. They also have large and intelligent brains, which means lots of spare...I suppose you could call it *‘capacity.’*  Each individual Guvnurag can serve as substrate for a proportionately large degree of the dataspace hegemony.”
+“It’s a highly controllable environment. Their society, their culture, their natural instincts all make them easy to contain and manipulate. They also have large and intelligent brains, which means lots of spare...I suppose you could call it *‘capacity.’* Each individual Guvnurag can serve as substrate for a proportionately large degree of the dataspace hegemony.”
 
 “So by attacking them you accomplished… what, exactly?”
 
@@ -1185,7 +1185,7 @@ Daar’s right ear swivelled in an intriguing way. “Oh?”
 
 “Two things, actually. The latter is a gift from the People of the United States of America. This one, however, is from me to you.”
 
-“Ooh!” Daar flowed back over and poked his muzzle towards the package Sartori’s aide was pulling out of leather portfolio. “I *love* presents!  What is it?”
+“Ooh!” Daar flowed back over and poked his muzzle towards the package Sartori’s aide was pulling out of leather portfolio. “I *love* presents! What is it?”
 
 “It’s a Karaoke microphone. You can download the app to any compatible phone, tablet… I’m sure your people can provide.” He met Daar’s eye and added, “I’ve heard your singing voice is *legendary…”*
 
@@ -1312,7 +1312,7 @@ Of course she’d caught it during a commercial break.
 
 She waited out an advert for the new Vauxhall whatever at she-wasn’t-paying-attention percent API finance and who-cared warranty, ignored some kind of insurance comparison service, nodded and made a mental note to check out a season pass for the Lakebeds national park as a maybe-gift for Julian, and half-paid attention to the news.
 
-*“—From ESNN’s newsroom for SKID radio this lunchtime, I’m Dale Parker.  Today’s headlines: New Whig Party leader Colin Chapman says that nonhumans serving on the Independent Electoral Oversight Committee should be given special concessions to help them cope with the stress but some former Committee members object, calling the proposal “unfair and unconstitutional”; Hephaestus announce plans to expand Armstrong Station and begin asteroid mining in the Cimbrean system; On Earth, five people are killed and dozens are hospitalized as Storm Alfred batters northern Europe; and in interstellar news US President Arthur Sartori begins the second day of his state visit to Gao by laying a wreath at the ruins of the Wi Kao commune.”*
+*“—From ESNN’s newsroom for SKID radio this lunchtime, I’m Dale Parker. Today’s headlines: New Whig Party leader Colin Chapman says that nonhumans serving on the Independent Electoral Oversight Committee should be given special concessions to help them cope with the stress but some former Committee members object, calling the proposal “unfair and unconstitutional”; Hephaestus announce plans to expand Armstrong Station and begin asteroid mining in the Cimbrean system; On Earth, five people are killed and dozens are hospitalized as Storm Alfred batters northern Europe; and in interstellar news US President Arthur Sartori begins the second day of his state visit to Gao by laying a wreath at the ruins of the Wi Kao commune.”*
 
 The political bullshit was… well, it was political bullshit. Allison had heard a thousand news reports like it, the usual corkscrew thinking where folks tried to argue that the rules shouldn’t apply the same to everyone and make it sound good. She tuned it out and spent a minute or two with pencil and paper figuring out the best way to store all her welding gear—glasses, bandana, jacket, apron, gloves and helmet—in one neat package.
 
@@ -1398,7 +1398,7 @@ Clara giggled into her phone. *“Wow. I wish* ***I*** *could talk like that to 
 
 Allison grinned. “Sure. What’s your favorite Disney movie?”
 
-*“Uh… ‘Beauty and the Beast’ I guess…”* Considering Clara’s status as a classic geeky brunette, that made an endless amount of sense.  *“But don’t you guys ever watch anything* ***other*** *than Disney?”*
+*“Uh… ‘Beauty and the Beast’ I guess…”* Considering Clara’s status as a classic geeky brunette, that made an endless amount of sense. *“But don’t you guys ever watch anything* ***other*** *than Disney?”*
 
 “Of course we do!”
 
@@ -1709,7 +1709,7 @@ Arés snorted. “Don’t push your luck.”
 
 “Oh, but I approve!” Nofl exclaimed. “It’s a system grounded in deep history, with deep roots, and that means *stability.* Not like the lone teetering, fragile pillar of your vaunted Constitution.”
 
-Arés  scowled. “Hey come *on*—!”
+Arés scowled. “Hey come *on*—!”
 
 Nofl barrelled on through his objection. “You don’t think things like the Castes, the Colleges and the Banners arose out of pure practicality, do you? But in a way they did! Tradition tells people who they are and where they came from. The wider the roots and the deeper they go, the stronger the edifice. The Banners once rallied armies, you know.”
 
@@ -2207,7 +2207,7 @@ Lucy looked at it. “Another probe? What’s this one for?”
 
 “Military use.”
 
-“Really?” She  sat down on the spare chair he kept for her. “I thought you didn’t like the idea of military V-N probes?”
+“Really?” She sat down on the spare chair he kept for her. “I thought you didn’t like the idea of military V-N probes?”
 
 “I don’t. But it… kinda got pointed out to me that somebody else’ll just build them anyway. So it may as well be me. At least that way…”
 
@@ -2546,7 +2546,7 @@ This was what she’d *known* would happen.
 
 The surprise was Chase. Holly Chase, who’d always eaten the bare minimum necessary to keep herself alive and no more than that. Holly Chase their tiny, quiet, mousy little mascot had turned into a goddamn lioness. She was forcing down as much Hot as her stomach could hold, hauling her sack truck with its heavy ammo cans over rough ground until she could haul no more, then resting just long enough to let her keep hauling.
 
-Cook had advised her (or rather snapped at her)  to lay off for forty-eight hours, and she’d glared at him but listened, and she was pretty obviously suffering now. Ray didn’t want to think how many of her muscles were pulled and what kind of aching agony she had endured, but she was reaching the end of her forty-eight hour break and looked eager to get back to her training.
+Cook had advised her (or rather snapped at her) to lay off for forty-eight hours, and she’d glared at him but listened, and she was pretty obviously suffering now. Ray didn’t want to think how many of her muscles were pulled and what kind of aching agony she had endured, but she was reaching the end of her forty-eight hour break and looked eager to get back to her training.
 
 She was bearing it in silence as Ray, Spears and Berry did a thorough check of their weaponry. The guns were now clean, oiled and ready, and the tedious job of loading ammo into the magazines was underway.
 
