@@ -5,7 +5,7 @@ author: "Philip R. Johnson (Hambone)"
 ---
 
 
-**Date Point: 15y9m1w AV**
+**Date Point: 15y9m1w AV**    
 **Dataspace adjacent to Observatory Station, Neptune, Sol**
 
 ***Six/Cynosure***
@@ -72,7 +72,7 @@ I wouldn’t talk.
 See you in a few months.
 ___
 
-**Date Point: 15y9m1w AV**
+**Date Point: 15y9m1w AV**    
 **The White House, Washington DC, USA, Earth**
 
 ***President Arthur Sartori***
@@ -192,7 +192,7 @@ Or a state visit…maybe not. Those seemed to involve either too much anodyne co
 Maybe he should make one.
 ___
 
-**Date Point: 15y9m1w AV**
+**Date Point: 15y9m1w AV**    
 **Clan Whitecrest starship** ***Tearing Dusk,*** **Rvzrk System, Domain Space**
 
 ***Regaari***
@@ -225,7 +225,7 @@ Suit checks took another ten minutes, and passed without incident, during which 
 
 Finally, there was no putting it off any longer even if Regaari had wanted to. This was a *test.* It might prove to be more than he could handle, despite the bravado he’d shown back in High Mountain Fortress, but at that moment he had a giddy feeling in his stomach that was almost intoxicating. Part fear, part… something else.
 
-He took a deep breath. “Father. Cub wants to play.”*
+He took a deep breath. “Father. Cub wants to play.”
 
 The techs withdrew from the bay and left him alone in the airlock. The front ramp smoothly mawed open, leaving him separated from infinity by nothing more than gossamer fields of captive electrons.
 
@@ -291,7 +291,7 @@ He headed toward it.
 
 ___
 
-**Date Point: 15y9m1w2d AV**
+**Date Point: 15y9m1w2d AV**    
 **The Dog House Gym, Folctha, Cimbrean, The Far Reaches**
 
 ***Julian Esticitty***
@@ -490,7 +490,7 @@ They said grace, and tucked in.
 
 ___
 
-**Date Point: 15y9m1w2d AV**
+**Date Point: 15y9m1w2d AV**    
 **Ark Complex, Planet Ordinate, Corti Directorate Border Territories**
 
 ***First Director Shanl***
@@ -668,7 +668,7 @@ That was a dreadful thing for a Director to admit, even to herself.
 “Thank you for yours, First Director.”
 ___
 
-**Date Point: 15y9m1w3d AV**
+**Date Point: 15y9m1w3d AV**    
 **“Unexplored Hostile Planet.” Yeah. Right.**
 
 ***Sergeant Ian (“Hillfoot”) Wilde***
@@ -785,7 +785,7 @@ Yan grumbled to himself and hugged a bit tighter. Mercifully, *nothing else* dec
 
 “I have my sources,” Coombes said darkly. “We do not need space syphilis.”
 
-“But I didn’t even *have*—”
+“But I didn’t even *have—”*
 
 “Next point, hesitation. And you know what I’m talking about, because *allegedly* you four are Royal Marines Commandos. If the shit hits the fan, you’ve gotta seize the initiative. Yan moved sideways so fast you only grazed his shoulder from point-blank range. He took the initiative, and that was it. You’re dead.”
 
@@ -837,7 +837,7 @@ Coombes looked up the hill. “If they get back with the flag in time… yes. Th
 
 ___
 
-**Date Point: 15y9m1w4d AV**
+**Date Point: 15y9m1w4d AV**    
 **Planet Durin orbit, Erebor system, Unexplored Space**
 
 ***The Entity***
@@ -846,7 +846,7 @@ The Entity’s reintegration was almost complete. As far as it could tell, there
 
 It was less confused now. Less torn between subtly different perspectives on the same problems. It *saw* those perspectives, felt their weight and understood them, but the experience was more like seeing the options laid out in front of it, rather than being pulled viciously in multiple directions by mutually antagonistic personalities.
 
-*\<Survive> was a difficult mandate to uphold. Sometimes, the most obvious strategies were counterproductive, as the instantiation strategy had been. Safety in numbers ceased to work when the numbers themselves, and the confusion that came with them, became a threat.
+*\<Survive>* was a difficult mandate to uphold. Sometimes, the most obvious strategies were counterproductive, as the instantiation strategy had been. Safety in numbers ceased to work when the numbers themselves, and the confusion that came with them, became a threat.
 
 The humans had clearly recognised that, and were… *reluctant* to help the Entity expand into the full flower of its new ship-body’s abilities. And considering the communication difficulties, persuading them to be more adventurous was proving difficult.
 
@@ -882,7 +882,7 @@ It had, it explained, needed to think.
 
 ___
 
-**Date Point: 15y9m2w AV**
+**Date Point: 15y9m2w AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Allison Buehler***
@@ -1033,7 +1033,7 @@ One thing had changed for certain. Now, she was looking forward to Julian’s tu
 
 ___
 
-**Date Point: 15y9m2w AV**
+**Date Point: 15y9m2w AV**    
 **Occupied territory, planet Rvzrk, Domain Space**
 
 ***Regaari***
@@ -1086,7 +1086,7 @@ He found a suitable rooftop, settled in, and watched.
 
 ___
 
-**Date Point: 15y9m2w AV**
+**Date Point: 15y9m2w AV**    
 **Ceres Base, Asteroid Belt, Sol**
 
 ***Drew Cavendish***
@@ -1193,7 +1193,7 @@ Drew M selected another slice of pizza. “Well, I’ve been thinkin’ about th
 
 ___
 
-**Date Point: 15y9m2w AV**
+**Date Point: 15y9m2w AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Senior Master Sergeant Christian (“Righteous”) Firth***
@@ -1466,7 +1466,7 @@ Right up until he got a metaphorical ice bath when the gym turned out to contain
 
 ___
 
-**Date Point: 15y9m2w AV**
+**Date Point: 15y9m2w AV**    
 **Ceres Base, Asteroid Belt, Sol**
 
 ***Drew Cavendish***
@@ -1574,7 +1574,7 @@ Nothing for it. They at least had a breakthrough. Even without Drew moving forwa
 That would have to be enough.
 ___
 
-**Date Point: 15y9m2w AV**
+**Date Point: 15y9m2w AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Captain Anthony Costello***
@@ -1886,7 +1886,7 @@ He indicates the scars on his torso.
 
 He doesn’t answer my observation directly. Instead he nods, sits down and thinks for a little while.
 
-*“...Different guys handle it differently. [Righteous] is…he’s made for this. That’s why he’s* called *Righteous. If he thinks it’s the right thing to do, and for his purpose that usually boils down to ‘was it a lawful order,’ then he just…does the mission. He don’t lose a wink of sleep over it. And honestly, now that he’s married and got a kid on the way, I don’t see him getting any softer.”
+*“...Different guys handle it differently. [Righteous] is…he’s made for this. That’s why he’s* called *Righteous. If he thinks it’s the right thing to do, and for his purpose that usually boils down to ‘was it a lawful order,’ then he just…does the mission. He don’t lose a wink of sleep over it. And honestly, now that he’s married and got a kid on the way, I don’t see him getting any softer.”*
 
 **And you?**
 
@@ -1921,10 +1921,10 @@ Derek finishes his workout and moves to a floor mat to do some final stretches.
 
 ___
 
-**Date Point: 15y9m3w AV**
+**Date Point: 15y9m3w AV**    
 **Folctha, Cimbrean, The Far Reaches**
 
-***Allison Buehler**
+***Allison Buehler***
 
 Why were they all grounded?
 
@@ -2066,7 +2066,7 @@ Amanda’s next visit was going to be just *endless* fun...
 
 ___
 
-**Date Point: 15y9m3w AV**
+**Date Point: 15y9m3w AV**    
 **Occupied territory, Planet Rvzrk,  Domain Space**
 
 ***Regaari***
@@ -2131,7 +2131,7 @@ They approved.
 
 ___
 
-**Date Point: 15y9m3w AV**
+**Date Point: 15y9m3w AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Air Engineering Technician Jack “Two-Seventy” Tisdale***
@@ -2290,7 +2290,7 @@ After all, if you couldn’t fix something, why worry about it?
 
 ___
 
-**Date Point: 15y9m3w AV**
+**Date Point: 15y9m3w AV**    
 **Mrwrki Station, Erebor System, Unexplored Space**
 
 ***Darcy***
@@ -2475,7 +2475,7 @@ The answer surprised her.
 
 ___
 
-**Date Point: 15y9m3w**
+**Date Point: 15y9m3w**    
 **Folctha Jump Array, Cimbrean, The Far Reaches**
 
 ***Ava Ríos***
@@ -2552,7 +2552,7 @@ In theory there were safety sensors too, so even if Ava had made a mad suicidal 
 
 Julian put his broad paw on her upper back. “Be careful. The sudden gravity is---”
 
-**thump***
+**thump**
 
 Ava felt herself wanting to fall backwards, but she was no stranger to supergravity transitions anyway. Still, he held her up while she regained her bearings. “---Disorientating. Give it a second, it passes.”
 
@@ -2640,7 +2640,7 @@ Julian eyed the tablet warily. “…Oh God. Paperwork.”
 
 “Yeah, you’d think you could just whip your clothes off and I’d take pictures right?”
 
-He chuckled nervously. “You’d think, I guess. I dunno. We’ve been setting this up for months and up until now I’ve been looking forward to it… Now that we’re here, I’m getting a serious case of cold feet, you know?”*
+He chuckled nervously. “You’d think, I guess. I dunno. We’ve been setting this up for months and up until now I’ve been looking forward to it… Now that we’re here, I’m getting a serious case of cold feet, you know?”
 
 “Over what, the undressing or the paperwork?”
 
@@ -2760,7 +2760,7 @@ When we first begin our session, however, her trauma is not immediately visible.
 
 **Tell me about your childhood.**
 
-*“I grew up in Swindon. My family didn’t have a lot of money… my father was a manager at Kwik-Fit, my mother stayed at home and looked after us. And, uh, home was a council flat. But I did really well at school, I loved science and maths, and netball…”
+*“I grew up in Swindon. My family didn’t have a lot of money… my father was a manager at Kwik-Fit, my mother stayed at home and looked after us. And, uh, home was a council flat. But I did really well at school, I loved science and maths, and netball…”*
 
 **Netball?**
 
@@ -2840,7 +2840,7 @@ Her demeanour changes. Up until now, Sachi has been animated and enthusiastic. M
 
 *“When the Hunters attacked… it came out of nowhere. Suddenly the alarm went off---there are a lot of alarms, but this one was for hull breaches and enemy boarders. I remember, I kind of froze up, then… I remember looking over at the chief, and then I got back to work. I had a job to do, and repelling boarders isn’t part of that job. My job is to make sure the power systems stay within acceptable bounds. So, I kept doing that. I could hear weapons fire elsewhere in the ship, and every so often there’d be this heavy bang through the hull.*
 
-*“And then I guess when the Hunters realized they were losing, they self-destructed. And when an explosion tears out part of the superstructure, things start to go wrong* ***fast.*** When a lot of them happen in quick succession…”*
+*“And then I guess when the Hunters realized they were losing, they self-destructed. And when an explosion tears out part of the superstructure, things start to go wrong* ***fast.*** *When a lot of them happen in quick succession…”*
 
 [Image: The central two-page spread image is a candid shot of Patel standing knee-deep in the water in an acutely vulnerable posture. She is staring off into the distance at nothing in particular, and her right hand is protectively cradling her left arm. Despite being a still image, the picture still manages to convey the impression that she is shivering.]
 
@@ -2891,7 +2891,7 @@ On that determined note, I conclude our interview.
 ___
 
 
-**Date point: 15y10m AV**
+**Date point: 15y10m AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
 **Champion Thurrsto of Clan Whitecrest**
@@ -3056,7 +3056,7 @@ His voice boomed across the hall.
 
 *“...to be shared with no-one, and never bequeathed. I pledge to keep this office until the day I die, and I pledge that it shall die with me.”*
 
-*“By all that I hold sacred, before those Seen and Unseen, these things that I have promised, I will perform and keep. So I do swear.”
+*“By all that I hold sacred, before those Seen and Unseen, these things that I have promised, I will perform and keep. So I do swear.”*
 
 Gyotin waited for the last of Daar’s oath to finish resonating around the hall, then struck his staff on the ground so hard that Adam actually flinched at the noise.
 
@@ -3300,7 +3300,7 @@ He laughs again.
 
 **But then you found Lucent.**
 
-*“Oh man… Lucent.*”
+*“Oh man… Lucent.”*
 
 [Image: close-up of an unreservedly happy smile, head tilted upwards and stretching his neck.]
 
@@ -3440,7 +3440,7 @@ I do. Vemik draws himself up to his full height and smiles aggressively at me. H
 
 **At the risk of sounding human-centric, isn’t that a little unfair?**
 
-“No. It’s easy to forget how easy it is to live in a proper civilization. All you need is some way to earn money. Here, that won’t cut it. Among humans, you can be a photographer, or a poet, or a movie star and people will respect you for it. And that’s certainly easier... But here, if you’re a man who can’t carry a Werne back to the tribe, you’re only a step above useless, and that means people die. It’s* harsh *maybe, but that ain’t the People’s fault. That’s how their world is. It took us… Fuck, millennia of hard work before that wasn’t how our world was, too.”*
+*“No. It’s easy to forget how easy it is to live in a proper civilization. All you need is some way to earn money. Here, that won’t cut it. Among humans, you can be a photographer, or a poet, or a movie star and people will respect you for it. And that’s certainly easier... But here, if you’re a man who can’t carry a Werne back to the tribe, you’re only a step above useless, and that means people die. It’s* harsh *maybe, but that ain’t the People’s fault. That’s how their world is. It took us… Fuck, millennia of hard work before that wasn’t how our world was, too.”*
 
 He has something on his mind he wants to get out and starts to pacing. He tends to bounce on the balls of his feet and swing his arms as he does this, and I remark how most people tend to freeze in their tracks while pondering something. This amuses Julian, and prompts him to prowl over to the boulder he tossed earlier. He sits himself down on it and needles me with a wry grin.
 
@@ -3452,7 +3452,7 @@ He has something on his mind he wants to get out and starts to pacing. He tends 
 
 He pauses, shifts a bit, and rests his left leg across the other. He lets loose on a thought that’s clearly been brewing for a long while.
 
-“Yeah. I think, maybe too many of us don’t really* get *just how much civilization actually costs, you know? Farmers pay for it with toil, policeman and soldiers pay in blood. Steel mills, now* there *are some hard-working fellas. It’s just…so many people are disconnected from it. They don’t respect their food, value their safety, or marvel at steel. The magic talking rock they have in their pockets replaces actual human contact sometimes. Well, no. I think maybe it just makes it easier to have, uh, fake friendships. Like, okay. Nobody these days has to* really *trust each other, except for, uh, like, the police and soldiers and whatever trust each other. And I think that maybe means we’re pretty fragile as a civilization. There’s a long,* long *way to fall, if we fall.”*
+*“Yeah. I think, maybe too many of us don’t really* get *just how much civilization actually costs, you know? Farmers pay for it with toil, policeman and soldiers pay in blood. Steel mills, now* there *are some hard-working fellas. It’s just…so many people are disconnected from it. They don’t respect their food, value their safety, or marvel at steel. The magic talking rock they have in their pockets replaces actual human contact sometimes. Well, no. I think maybe it just makes it easier to have, uh, fake friendships. Like, okay. Nobody these days has to* really *trust each other, except for, uh, like, the police and soldiers and whatever trust each other. And I think that maybe means we’re pretty fragile as a civilization. There’s a long,* long *way to fall, if we fall.”*
 
 **Whereas the Ten’Gewek have only barely started that climb.**
 
@@ -3562,7 +3562,7 @@ He smiles, a genuine beaming smile that makes his whole face light up.
 
 **Congratulations!**
 
-*“I know, right?! It’s the next big adventure… You know what’s funny? I’ve been in some crazy situations. Gunfights, I got blown up, I got spaced… But I think I might actually be more scared about raising my kids right than I was about any of that other stuff. It’s a big responsibility.”
+*“I know, right?! It’s the next big adventure… You know what’s funny? I’ve been in some crazy situations. Gunfights, I got blown up, I got spaced… But I think I might actually be more scared about raising my kids right than I was about any of that other stuff. It’s a big responsibility.”*
 
 **But you’re looking forward to it.**
 
@@ -3572,7 +3572,7 @@ He smiles, a genuine beaming smile that makes his whole face light up.
 
 ___
 
-**Date Point: 15y10m**
+**Date Point: 15y10m**    
 **Ceres, Asteroid Belt, Sol**
 
 ***Sam Jordan***
