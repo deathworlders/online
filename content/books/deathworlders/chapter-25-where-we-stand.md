@@ -45,7 +45,7 @@ Julian diplomatically ignored the unconsciously Gaoian way she’d phrased herse
 
 He swallowed and fidgeted into a more traditional cross-legged position, feeling suddenly vulnerable, and tried to turn it into a weak joke. “Kinda suck, wouldn’t it?”
 
-Xiù’s smile had faded a little, but she nodded understanding. She opened her mouth to say something, then a thought seemed to occur to her and  she darted forward to give him a stinging pinch on his forearm. He clutched at the spot reflexively and blinked at her.
+Xiù’s smile had faded a little, but she nodded understanding. She opened her mouth to say something, then a thought seemed to occur to her and she darted forward to give him a stinging pinch on his forearm. He clutched at the spot reflexively and blinked at her.
 
 “Still here?” she asked.
 
@@ -241,7 +241,7 @@ Whether or not its misadventures had robbed it of a sense of manners or whether 
 
 “It isn’t a person.”
 
-“A bounty on something that is not a person.”  It put the tablet it had been reading down and its vestigial wings buzzed briefly, signalling clear and naked derision. “Please, do regale me, o brave explorer. Which fabled lost planet have you uncovered? A deathworld full of sapient trees? A city built entirely of platinum? Mrwrki Station?”
+“A bounty on something that is not a person.” It put the tablet it had been reading down and its vestigial wings buzzed briefly, signalling clear and naked derision. “Please, do regale me, o brave explorer. Which fabled lost planet have you uncovered? A deathworld full of sapient trees? A city built entirely of platinum? Mrwrki Station?”
 
 “Yes.”
 
@@ -291,7 +291,7 @@ ___
 
 ***Xiù Chang***
 
-*The vendors on Itrian station are selling gluten-free tigers, buy two and get a third free.  It sounds like a healthy option, so Xiù buys three and wanders away to watch the spaceships docking.*
+*The vendors on Itrian station are selling gluten-free tigers, buy two and get a third free. It sounds like a healthy option, so Xiù buys three and wanders away to watch the spaceships docking.*
 
 Toss.
 
@@ -339,13 +339,13 @@ Grinning like a retriever with three ducks in his mouth, he nodded. “Yes ma’
 
 “Ooh, do I get to say *’good boy’?”*
 
-He chuckled, and rested his jaw on his fist.  “If you like.”
+He chuckled, and rested his jaw on his fist. “If you like.”
 
 “Then get some plates warmed up.”
 
 He stood and she was gratified to see that even he had to go on tip-toes to reach the cupboard that she’d had to jump slightly just to open. “Yes ma’am.”
 
-Xiù  giggled. “Good boy. Oh, and put some music on.”
+Xiù giggled. “Good boy. Oh, and put some music on.”
 
 “Yes ma’am.”
 
@@ -983,7 +983,7 @@ When the call had ended, Xiù had stood very still in the middle of the room for
 
 It was a showcase of startling speed. Allison blinked as she watched Xiù deliver three kicks to the sky in the space of a second, land on her heel and surge forward what looked like ten feet to deliver a straight-armed palm strike that Allison *knew* would have sent her flying with a broken sternum had she been on the receiving end.
 
-She gave Julian a warm sideways glance.  “You’re allowed to.” she said.
+She gave Julian a warm sideways glance. “You’re allowed to.” she said.
 
 “Just… jeez, I’m no slouch in a fight, but the most I ever had to fight was exo-critters and ETs.” Julian mused. “She’d kick both our asses.”
 
@@ -1005,7 +1005,7 @@ She shoved the screen door open and the harsh noise it made, in addition to sett
 
 “I am.” Xiù nodded. “I don’t blame Mama. She only just got her daughter back and here I am leaving again...”
 
-“Hey, don’t get all melancholy on me.” Allison gave her an affectionately tomboyish hair-tousle. It didn’t achieve much with Xiù’s hair up, but it *did* generate the desired blush and, once Xiù had gripped her scalp defensively, a laugh.  
+“Hey, don’t get all melancholy on me.” Allison gave her an affectionately tomboyish hair-tousle. It didn’t achieve much with Xiù’s hair up, but it *did* generate the desired blush and, once Xiù had gripped her scalp defensively, a laugh.
 
 “Sorry.”
 
@@ -1228,7 +1228,7 @@ The EV-MASS, meanwhile, had a sensor profile so small that if Perfection’s ant
 
 The bit in the middle where the shuttle pulsed across ten AUs of empty space took hardly any time at all. Even at a paltry one kilolight, the journey was over in only five seconds. It was the sublight approach vector that was the slow bit. That involved sitting around for twenty minutes, joking and fidgeting and *waiting.*
 
-When the pilot called that they were about to swing through the first drop zone, there was palpable relief. Blaczynski dropped the ramp and stood behind the atmosphere retaining forcefield, bouncing on the balls of his feet with  his music up, waiting for the green light.
+When the pilot called that they were about to swing through the first drop zone, there was palpable relief. Blaczynski dropped the ramp and stood behind the atmosphere retaining forcefield, bouncing on the balls of his feet with his music up, waiting for the green light.
 
 Titan called from the front “Whatcha listenin’ to, B?”
 
@@ -1464,7 +1464,7 @@ They were back on the Cairo Ring Road before she spoke again. “...How is he?�
 
 “Have you no’ seen the news?”
 
-“Yeah, yeah, the whole Beef Brothers thing.” She tried to wave  hand dismissively and only succeeded in twitching her shoulder awkwardly. “I mean… how’s he doing? Is he okay?”
+“Yeah, yeah, the whole Beef Brothers thing.” She tried to wave hand dismissively and only succeeded in twitching her shoulder awkwardly. “I mean… how’s he doing? Is he okay?”
 
 “He’s okay.”
 
@@ -1603,7 +1603,7 @@ Akiyama clanked up the deck and stuck his head through the door. “‘Sup?”
 
 B nodded, and hit the comms again. “HMS *Caledonia* I say again: Sierra Oscar Romeo One Zero Seven STARFALL flying November Charlie, operational objectives achieved, we are at the rendezvous point. Come back, over.”
 
-They strained to listen. A few trillion photons, some portion of which had been traversing the endless night since the cooling of the early universe, reached their journey’s end in *Negotiable Curiosity*’s communications sensor array as  an unregarded quiet hiss.
+They strained to listen. A few trillion photons, some portion of which had been traversing the endless night since the cooling of the early universe, reached their journey’s end in *Negotiable Curiosity*’s communications sensor array as an unregarded quiet hiss.
 
 “...What’s our contingency for *Caledonia* being a no-show?” Akiyama asked, quietly.
 
@@ -1688,7 +1688,7 @@ Darcy nodded to the human wall, who nodded and took Ava’s cuffs off entirely. 
 
 Darcy gave a sympathetic nod, and typed a quick note on her laptop. “I can definitely appreciate that sentiment.” she said. “Do you need a minute to think about what exactly you mean? *’Anything’* can mean… well, a lot.”
 
-“I don’t think another minute would help.” Ava shrugged. “I’ve tried… I guess  you know about me and Ada- uh, Staff Sergeant Arés, right?”
+“I don’t think another minute would help.” Ava shrugged. “I’ve tried… I guess you know about me and Ada- uh, Staff Sergeant Arés, right?”
 
 Darcy just nodded.
 
@@ -1800,7 +1800,7 @@ She left, and Ava found herself sitting alone except for the man-wall.
 
 Determined not to cry in front of a stranger - or at all, if she could help it - she settled for getting up and taking a tentative stroll around the room to work some of the stiffness out. Man-wall didn’t respond.
 
-“Anyone ever tell you you look kinda like  Dwayne Johnson?” she asked him. This elicited no response. “So… What happens now?” she pressed. “Am I being released, or…?”
+“Anyone ever tell you you look kinda like Dwayne Johnson?” she asked him. This elicited no response. “So… What happens now?” she pressed. “Am I being released, or…?”
 
 The door clicked open and one of the other man-walls stepped in. “This way please, Miss Rìos.” he requested.
 
@@ -1880,7 +1880,7 @@ General Tremblay waved Powell down and threw in his opinion. “Powell’s got g
 
  *”Which is nothing next to what they could do to us if they managed to get even* ***one*** *wormhole beacon on this side of the barrier.”* Darcy said. *”We think their play this whole time has been to try and find a buyer for those bombs who can pay them with a beacon: Several… violent parties have been fishing around in search of wormhole beacons since the* Zulfiqar *was hit.”*
 
-Tremblay rubbed his chin, and turned his chair. Admiral Sir Patrick Knight had been summoned from Cimbrean for this meeting, and was standing by the window running his index finger thoughtfully across his lips.  “You’ve been quiet so far, admiral.” he commented.
+Tremblay rubbed his chin, and turned his chair. Admiral Sir Patrick Knight had been summoned from Cimbrean for this meeting, and was standing by the window running his index finger thoughtfully across his lips. “You’ve been quiet so far, admiral.” he commented.
 
 Knight shot a sympathetic glance at Powell, but nodded to the screen. “Agent Darcy makes a compelling argument.” he said.
 
@@ -1956,7 +1956,7 @@ Sean ducked out from under his hand. “Why are we still here, anyway? She shoul
 
 “Yes, and by and large you can rely on the Yanks to honour them.” Simon told him. “Besides, nothing makes you look more suspicious than kicking up a stink when you don’t need to. Good advice for when you’re arrested, that.”
 
-“What, go limp and visit your happy place?  Fan-fucking-tastic advice, Simon.”
+“What, go limp and visit your happy place? Fan-fucking-tastic advice, Simon.”
 
 “Don’t be a twat. I’m telling you, the trick in these situations is to be calm, be honest, and let things happen. These people can make your life profoundly awkward, nephew mine, but it’s usually more hassle than they can be bothered with.” Simon about-faced and started patrolling the room anticlockwise instead. “Which means it’s a good idea *not* to give them a reason to bother. Be polite and cooperative, be nice and friendly if you can manage it, and they’ll give you a shove out the door sooner rather than later.”
 
@@ -1976,7 +1976,7 @@ Simon shrugged and knocked on the door. Immediately, one of the sapient security
 
 “Oh yes, thank you *awfully*, wot?” Sean parodied.
 
-“Ra*ther*.”  Simon chuckled, and resumed his stately lap of the room. “Now how do you think that would have gone if I’d been all *’I have rights! I demand you bring me a filet mignon this instant and I want to speak to the King bwah bwah bwah…’*?” he imitated a kind of pompous clucking.
+“Ra*ther*.” Simon chuckled, and resumed his stately lap of the room. “Now how do you think that would have gone if I’d been all *’I have rights! I demand you bring me a filet mignon this instant and I want to speak to the King bwah bwah bwah…’*?” he imitated a kind of pompous clucking.
 
 “Point made…” Sean waved a hand irritably. He sat back and tried to entertain himself by multiplying the ceiling tiles and searching for patterns in the carpet.
 
@@ -2010,7 +2010,7 @@ Ava folded her arms uncertainly, then frowned thoughtfully before shaking her he
 
 Neither man had a reply. Ava, on the other hand, was hitting her stride.
 
-“And then there’s the effort, right? D’you think they’d go to all the effort of keeping their secrets if they didn’t think they *have* to?”  she asked, unknowingly echoing Simon’s advice about hassling the security guards. “Governments aren’t this… this shady *machine* that just hangs over us like a kid with a magnifying glass. They’re made of *people*, people just like us, who’re trying to do the best they can with good intentions.”
+“And then there’s the effort, right? D’you think they’d go to all the effort of keeping their secrets if they didn’t think they *have* to?” she asked, unknowingly echoing Simon’s advice about hassling the security guards. “Governments aren’t this… this shady *machine* that just hangs over us like a kid with a magnifying glass. They’re made of *people*, people just like us, who’re trying to do the best they can with good intentions.”
 
 “So you’re perfectly fine with an opaque government.” Simon commented.
 

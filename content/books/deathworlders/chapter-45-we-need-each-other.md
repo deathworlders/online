@@ -441,7 +441,7 @@ Bored of such a pathetic excuse, the Alpha-of-Alphas casually ordered every othe
 
 With its irritation partly sated, the Alpha-of-Alphas turned to the older and more seasoned Alpha of the Reaping-Brood, whose ship had wounded another broodship during the pursuit.
 
-*<Demand>* +And how shall I answer your mis-step?+
+*\<Demand>* +And how shall I answer your mis-step?+
 
 Both the Reaping-Brood and their accidental victims the Gnawing-Brood were large, powerful and wily. Wily enough to have stayed away from the slaughter that had ensued when many of the other Alphas had tried to depose the Alpha-of-Alphas. Both were keys to power, and the Alpha-of-Alphas knew it: it would not be sensible to disgruntle either one.
 

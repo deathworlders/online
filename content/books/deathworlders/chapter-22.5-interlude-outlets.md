@@ -28,7 +28,7 @@ He'd had to deliver them slowly and deliberately, with lots of throat-clearing a
 
 Things had started off slowly, quietly and with no small amount of awkwardness. There had been tears and mostly the Wake had been an exercise in everyone sitting together in silence, and drinking.
 
-Then somebody had said something---Owen didn't even remember who---and there'd been a little laugh. Then there'd been a joke, a happy anecdote about how Stevenson had got his callsign. Murray had shared the story about Price being caught in a situation that had been truly innocent, but  had involved a young mechanic, some WD40 and an eye irrigation and had looked to the Lieutenant-Colonel like, well…
+Then somebody had said something---Owen didn't even remember who---and there'd been a little laugh. Then there'd been a joke, a happy anecdote about how Stevenson had got his callsign. Murray had shared the story about Price being caught in a situation that had been truly innocent, but had involved a young mechanic, some WD40 and an eye irrigation and had looked to the Lieutenant-Colonel like, well…
 
 Vigorous miming had ensued.
 

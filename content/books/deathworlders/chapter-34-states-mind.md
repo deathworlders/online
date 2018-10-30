@@ -265,7 +265,7 @@ That was… unusual. Very very welcome, but unusual.
 
 Months of intimacy had cured both of them of any lingering awkwardness they may have had about being into one another. A big part of that had been Allison’s habitual forthrightness—she wasn’t about to accept any half-assed excuses or doublethink about how three-ways didn’t really count. They’d *had* sex, several times: the fact that Julian was usually there as well didn’t change that basic fact.
 
-Xiù had taken a while to accept that logic, and longer still to come to really believe it… but those hangups were *clearly* long gone.  
+Xiù had taken a while to accept that logic, and longer still to come to really believe it… but those hangups were *clearly* long gone.
 
 “*Wow*, uh… mm…” Allison had to stop and gasp as fingernails stroked up her sides, under her shirt. “What brought this on?”
 
@@ -710,7 +710,7 @@ ___
 
 "Love you too, *Shǎguā*…”
 
-“Omigod, you did NOT just call me that! Only *she* gets to call me  that, you ass!”
+“Omigod, you did NOT just call me that! Only *she* gets to call me that, you ass!”
 
 “You’re the ass, you butt!”
 
@@ -1243,7 +1243,7 @@ He toasted the camera with his water bottle then turned off the feed.
 
 “You’re turning into a showman, you know,” Allison commented, swiping right on her tablet to ‘turn’ a page.
 
-“Been talking to Xiù about it.” Julian nodded toward the bunks, where Xiù was curled up asleep.  She mumbled something and turned over on hearing her name, but didn’t wake.
+“Been talking to Xiù about it.” Julian nodded toward the bunks, where Xiù was curled up asleep. She mumbled something and turned over on hearing her name, but didn’t wake.
 
 He was definitely looking forward to the next time they could make planetfall and synchronize their sleeping cycles for a while. The two-awake-one-asleep system they had to use during flight was nowhere near as much fun---they’d switched the clock to Cimbrean time and used the extra couple hours a day as “triple time” to do stuff together but he was starting to think longingly of Minnesota. He didn’t get enough time nowadays to just sit and watch the girls.
 
@@ -1342,7 +1342,7 @@ He found it in the form of a bibtaw burrow. The little furballs were perfect for
 
 He roasted it over his campfire directly below the nest and hung the skin in the smoke to get started on drying it out. Bibtaw skins were just the right size to make bags. Rubbed with a few herbs and eaten alongside a few tanew nuts and fresh young green leaves, the unfortunate critter made for a solid and delicious meal, especially when he cracked its thin skull and savored the nutty brains.
 
-He stayed awake and stared contemplatively into the fire, poking and fuelling it as the dark closed around him, then used the last of the sunset to scale back up to his nest and settled down in the hot air rising from the ashes.  
+He stayed awake and stared contemplatively into the fire, poking and fuelling it as the dark closed around him, then used the last of the sunset to scale back up to his nest and settled down in the hot air rising from the ashes.
 
 When he woke in the morning and looked back, High Forest mountain was pleasingly distant and small---he’d made good progress yesterday. His destination was toward the rising sun, so he ate the last of yesterday’s meat, packed his new bibtaw skin, and set out.
 
@@ -1484,7 +1484,7 @@ ___
 
 “Where in the *hell* did you get this?”
 
-Gabriel Arés shrugged painfully, and he seemed to need a kind  of mental run-up to launch into speech. The quiet precision was gone from his voice, replaced with a halting quality almost like he was drunk and dazed.  “I, uh, don’t know… uh. My partner got home, sh-she said, uh, said it was in our mailbox, and...as soon as I, uh, figured out what it is, uh…”
+Gabriel Arés shrugged painfully, and he seemed to need a kind of mental run-up to launch into speech. The quiet precision was gone from his voice, replaced with a halting quality almost like he was drunk and dazed. “I, uh, don’t know… uh. My partner got home, sh-she said, uh, said it was in our mailbox, and...as soon as I, uh, figured out what it is, uh…”
 
 He trailed off.
 
@@ -1502,7 +1502,7 @@ He put the phone down and picked up one of the vials as the call went out on the
 
 “Bloody easy, if Saunders and Delaney are any guide,” Powell grunted.
 
-Tremblay stroked his chin.  “I thought the whole project was scrapped. Where did this come from, and is it still good?”
+Tremblay stroked his chin. “I thought the whole project was scrapped. Where did this come from, and is it still good?”
 
 “That’s why I called for Kovač,” Powell explained. “Dunno about the where it came from bit, but she can tell us if it’s still good right quick.”
 
@@ -1578,7 +1578,7 @@ Gabe frowned at him. “…I didn’t even know you’re a father,” he confess
 
 “Powell?” Gabe asked.
 
-“Gabe, mate, I promise you this: I’d never let your son or anybody else near the stuff if I wasn’t perfectly happy wi’ it myself.  You’ve got a chance most blokes who suffered an injury like yours would fookin’ *beg* for, so for Chrissakes, bloody take it.”
+“Gabe, mate, I promise you this: I’d never let your son or anybody else near the stuff if I wasn’t perfectly happy wi’ it myself. You’ve got a chance most blokes who suffered an injury like yours would fookin’ *beg* for, so for Chrissakes, bloody take it.”
 
 “I… it feels like a cheap way out.”
 
@@ -1618,7 +1618,7 @@ The Cimbrean end of the military Array was manned by two Royal Navy technicians,
 
 Tremblay considered. The sensible thing, probably, would be to wait for the scheduled jump and not use power that wasn’t going to be used anyway.
 
-But in the immortal words of a historical peer of his: Nuts. They had *Cruezzir*, and he wasn’t going to breathe easily until it was safely in as many labs on as many planets as he could manage.  Some things were just so precious that the idea of dallying…
+But in the immortal words of a historical peer of his: Nuts. They had *Cruezzir*, and he wasn’t going to breathe easily until it was safely in as many labs on as many planets as he could manage. Some things were just so precious that the idea of dallying…
 
 “Right away, please.”
 
@@ -1641,7 +1641,7 @@ Shipfather Yefrig duck-nodded by way of replying in the affirmative, though the 
 
 “Yes, that’s right,” Yefrig agreed. “We’ll never be as stealthy as a human destroyer, not without that special surface material they use, but that trick alone has made us much quieter, and it’s just one of several we...” he cleared his throat “*’learned’* from them.”
 
-Regaari knew where the hesitation came from. Pride was one of the great traits of the One-Fangs, and Gaoians were a naturally proud people anyway. The unspoken subtext to the word *’learned’* there had been *’we could have thought it up, of course, but we were doing things differently’*.  
+Regaari knew where the hesitation came from. Pride was one of the great traits of the One-Fangs, and Gaoians were a naturally proud people anyway. The unspoken subtext to the word *’learned’* there had been *’we could have thought it up, of course, but we were doing things differently’*.
 
 He couldn’t quite resist the way his ears wanted to flick, just for a second and by millimeters, into a Gaori *’I-told-you-so’*. Fortunately, Yefrig either failed to notice or else showed impressive restraint and elected not to react. Whichever it might be, Regaari mentally chastised himself—while antagonizing the *Racing Thunder*’s shipfather was not completely out of the question if there was something to be gained from it, right now there was not. To the contrary, he needed to be in Yefrig’s good graces.
 
@@ -2167,7 +2167,7 @@ They did so promptly and attentively. The correct “stand easy” position wasn
 
 “Nearly, sir.”
 
-“A little more care with your throw next time, lad. You’ll be fine. Anyway, bloody good teamwork on those sticky patch takedowns.  Regaari, Thurrsto, you kept your heads well when that response squad was almost on top o’ you. Hmm… Ergaan. Could have saved a few seconds when you reported you’d found the objective. *’FOOTBALL, port cargo bay, five guards.’* See?”
+“A little more care with your throw next time, lad. You’ll be fine. Anyway, bloody good teamwork on those sticky patch takedowns. Regaari, Thurrsto, you kept your heads well when that response squad was almost on top o’ you. Hmm… Ergaan. Could have saved a few seconds when you reported you’d found the objective. *’FOOTBALL, port cargo bay, five guards.’* See?”
 
 Ergaan duck-nodded.
 
@@ -2183,7 +2183,7 @@ Daar hesitated, and chose his words very carefully. “Nothin’ merits mentioni
 
 Daar wobbled his head slightly. “No sir. We’ll see what we can do with the sim.”
 
-“Bloody lovely. I have nothing more either,  so you go let your techs do their jobs, get settled in for the ride home. AAR’ll come after you’ve got some food in yer. Dismissed.”
+“Bloody lovely. I have nothing more either, so you go let your techs do their jobs, get settled in for the ride home. AAR’ll come after you’ve got some food in yer. Dismissed.”
 
 Daar remained close to him as the other Gaoians left, and spoke softly once they were out of earshot.
 
@@ -2255,7 +2255,7 @@ Bullshit: It *was* self-harm. Very carefully controlled, constructive, worrying 
 
 Thoughts like that were among the many reasons why he visited the psychologist so often.
 
-“Hey, ‘Base.”  His words came out as a semi-distracted grunt.
+“Hey, ‘Base.” His words came out as a semi-distracted grunt.
 
 They were packing up at the end of a tough week. The Gaoians had excelled themselves on Operation GOLD BREES, and it had been a good field trip for the second string and the cherries, too. Not quite an all-hands-on-deck, but enough that the SOR was back in recovery mode for a day or two. That meant, among other things, unpacking, checking, and repacking all their gear.
 
@@ -2513,7 +2513,7 @@ ___
 
 ***Allison Buehler***
 
-“Jesus.” Allison gave the dirty brown ball they were orbiting a depressed glare.  Here and there she could see the startling turquoise patches of tiny,  slimy oceans absolutely choked with cyanobacteria and the first glimmerings of aerobic life. “We came all this way for a planet that’s not even finished yet?”
+“Jesus.” Allison gave the dirty brown ball they were orbiting a depressed glare. Here and there she could see the startling turquoise patches of tiny, slimy oceans absolutely choked with cyanobacteria and the first glimmerings of aerobic life. “We came all this way for a planet that’s not even finished yet?”
 
 “Hey, the scientists are going to *love* this thing!” Julian defended it. “I mean, this is probably our most important find yet!”
 
@@ -2537,7 +2537,7 @@ Xiù was redecorating the cupboards for entertainment, having spent weeks carefu
 
 “Well… yeah, me three,” Julian acknowledged. “...but this is still really cool!”
 
-“It is!” Allison agreed. “You’re right, the scientists are gonna *love* us for finding this thing. But the next place on the list had damn well  better have hot springs.”
+“It is!” Allison agreed. “You’re right, the scientists are gonna *love* us for finding this thing. But the next place on the list had damn well better have hot springs.”
 
 “Well, the next one’s the strongest positive we have…” Julian said, calling it up.
 
@@ -2634,7 +2634,7 @@ Thought-provoking curls…
 
 Yan sighed and relaxed as he took another deep breath from over the fire pit where the medicine roots were twisting and crackling as they writhed and smoked off among the coals.
 
-The smoke was the Given Men’s secret. He suspected that the root was probably the same one that the women used to make the magic powder, but if it was he had no idea how they made it… and no desire to know.  That was a woman’s magic, the magic of giving and life. Men were killers and takers, there was no room for either side to use the other’s magic. That was the way of things.
+The smoke was the Given Men’s secret. He suspected that the root was probably the same one that the women used to make the magic powder, but if it was he had no idea how they made it… and no desire to know. That was a woman’s magic, the magic of giving and life. Men were killers and takers, there was no room for either side to use the other’s magic. That was the way of things.
 
 Heh. Although, men could give good and hard too, in the right circumstances.
 
@@ -2646,7 +2646,7 @@ He became aware that he was trilling a soft laugh to himself. Even though they d
 
 “Good smoke,” Yan echoed, nodding sagely.
 
-He *should* have been feeling better. He *was* feeling better. But he should have been feeling **betterer**. More better. Whichever. There were nagging worries in the back of his head.  
+He *should* have been feeling better. He *was* feeling better. But he should have been feeling **betterer**. More better. Whichever. There were nagging worries in the back of his head.
 
 A lot of the Given Men had simply never shown up.
 
@@ -2726,11 +2726,11 @@ Which meant unlimited access to human tissue samples, which was fascinating *of 
 
 Cruezzir had made him and destroyed him, and equally quickly in both cases. He’d gone from being the researcher who developed an effectively *perfect* regenerative medicine to being indirectly responsible for unleashing the so-called “Human Disaster” on the galaxy in only two short years, and *nobody’s* reputation survived a history like that.
 
-Hence why he was counting antibodies in a tiny  and frankly primitive lab on a backwater in the Far Reaches, rather than holding his rightful place as Professor of Regenerative Medicine at the Grand Central Origin University.
+Hence why he was counting antibodies in a tiny and frankly primitive lab on a backwater in the Far Reaches, rather than holding his rightful place as Professor of Regenerative Medicine at the Grand Central Origin University.
 
 He really ought to have been more bitter, but Corti weren’t supposed to do bitter. They weren’t supposed to do *anything*, emotionally speaking and yet ego, bitterness and ambition were rife.
 
-Nofl’s concerns that this indicated the possibility that official Directorate thinking on the subject  might not be completely supported by the empirical evidence would have probably cost him all the prestige that Cruezzir earned him in the long run anyway. But at least he’d have been in a position to exert some *influence* about those concerns, for a while.
+Nofl’s concerns that this indicated the possibility that official Directorate thinking on the subject might not be completely supported by the empirical evidence would have probably cost him all the prestige that Cruezzir earned him in the long run anyway. But at least he’d have been in a position to exert some *influence* about those concerns, for a while.
 
 His train of thought was interrupted by his doorbell chime, and he buzzed the visitor in with a simple command through his implants.
 
@@ -2847,7 +2847,7 @@ The suits had undergone some overhauls after Lucent. The white and high-vis yell
 
 Grurple or not, the hydrophobic and acid-resistant coating was going to be welcome if they needed to hit the red decon button again. Then there were the GR-1d rifles. These were the latest version too, after the two they’d had before had been ruined by the decon shower. Allegedly the updated version corrected some of the original’s design flaws and offered improved performance.
 
-Things were maybe a little sharper, a little leaner. That seemed to be how the Byron Group operated, really---learn by doing---but it had Allison happy.  She’d geeked out *hard* over some detail of the updated weapons, and had left Xiù nodding and smiling uncomprehendingly as she waxed enthusiastic about something arcane involving...a bus scope on the piccadilly rail? Something like that.
+Things were maybe a little sharper, a little leaner. That seemed to be how the Byron Group operated, really---learn by doing---but it had Allison happy. She’d geeked out *hard* over some detail of the updated weapons, and had left Xiù nodding and smiling uncomprehendingly as she waxed enthusiastic about something arcane involving...a bus scope on the piccadilly rail? Something like that.
 
 The upshot of it was that the gun had a camera on it, she’d followed that much and had consoled herself with knowing that Allison got similarly unfocused whenever Xiù broke out the movie trivia, linguistics jargon or *Gung Fu* terminology.
 
@@ -2887,7 +2887,7 @@ Vemet saw it too. “He’s troubled…”
 
 “Badly troubled,” Vemik agreed. “Things must be bad out there…”
 
-Father and son shot each other a glance, then reached a mutual unspoken resolution to let Yan relax for a while before they broached the subject. He was usually so full of good cheer when coming back from his annual journey  that to see him looking so tense was… worrying. And definitely a matter for the respected men of the tribe to discuss in private, when the opportunity presented itself.
+Father and son shot each other a glance, then reached a mutual unspoken resolution to let Yan relax for a while before they broached the subject. He was usually so full of good cheer when coming back from his annual journey that to see him looking so tense was… worrying. And definitely a matter for the respected men of the tribe to discuss in private, when the opportunity presented itself.
 
 As always there was a feast and playing, with the added joy this time of Yan being reunited with his great-niece, who couldn’t seem to resist grabbing his new-and-improved hair crest.
 

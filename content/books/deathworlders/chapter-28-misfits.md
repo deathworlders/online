@@ -38,7 +38,7 @@ He cleared his throat. “Sorry… Seriously though, this ain’t all down to yo
 
 “Fitness and nutrition is my job, remember.” Arés reminded her. He started massaging her obliques. “If I was using the suit wrong, you’d correct me, right?”
 
-“Right, right…” for whatever reason, the pressure and stretching of her obliques was easier to handle. Then again, she probably hadn't spent most of the last week  with them permanently tensed, unlike most of the other muscles in her back. “I’m using my body wrong, huh?”
+“Right, right…” for whatever reason, the pressure and stretching of her obliques was easier to handle. Then again, she probably hadn't spent most of the last week with them permanently tensed, unlike most of the other muscles in her back. “I’m using my body wrong, huh?”
 
 “Lemme guess. You start off with your jog first and think, like, *’yeah, this’ll warm me up fine’* am I right?”
 
@@ -207,7 +207,7 @@ Caruthers betrayed only a moment of calculation. “Thank you. I gratefully acce
 
 “Aye aye, fleetmaster.”
 
-The human ships were already aligned and maneuvering. Tk’v had barely closed the line to *Violent* before they went to warp, displaying an alarming acceleration profile. Tk’v’s fastest scout ships could only barely have matched  them, and he very much doubted that Caruthers had shown their full capability.  
+The human ships were already aligned and maneuvering. Tk’v had barely closed the line to *Violent* before they went to warp, displaying an alarming acceleration profile. Tk’v’s fastest scout ships could only barely have matched them, and he very much doubted that Caruthers had shown their full capability.
 
 He turned his attention away from them for now, and toward the surface of Perfection. There was a lot to do.
 ___
@@ -354,11 +354,11 @@ Allison shuffled up next to Xiù. “I think he’s trying to ply us with drink,
 
 “Well alright! Ply away, Etsicitty.”
 
-“Yes ma’am!”                                
+“Yes ma’am!”
 
 Xiù smiled to herself as he selected two fresh cold bottles from the cooler and accepted the *’good boy’* this earned him with a quiet smile. Apparently happy that they were ready to cook, he also grabbed the tupperware with its garlic and lemon chicken breasts and flipped them onto the metal grill where they hissed and steamed beautifully.
 
-“...I’m going to miss this.” Xiù decided, looking around. Once upon a time, she would have thought that being in the woods after sundown surrounded by trees and animal noises would have been terrifying. Instead, the house and property that Julian had inherited from his grandfather felt *cozy*, in the little stain of firelight.  “I love it here.”
+“...I’m going to miss this.” Xiù decided, looking around. Once upon a time, she would have thought that being in the woods after sundown surrounded by trees and animal noises would have been terrifying. Instead, the house and property that Julian had inherited from his grandfather felt *cozy*, in the little stain of firelight. “I love it here.”
 
 “We’ve got another week before we have to leave, babe.” Allison told her.
 
@@ -448,7 +448,7 @@ Julian turned the chicken over, then clicked his tongue irritably. “Forgot the
 
 “I’ll get them.” Allison sprang to her feet and headed back indoors.
 
-“It’s ready?” Xiù asked. She crawled forward to get a closer look  “That was fast.”
+“It’s ready?” Xiù asked. She crawled forward to get a closer look “That was fast.”
 
 “Not yet.” Julian said. “It’s uh… gonna need a while longer yet…”
 
@@ -562,7 +562,7 @@ Corti had very little to speak of in the way of a sense of smell, so Bedu deferr
 
 Hkzzvk raised his head and his nostrils flared. “It smells of predators.” he decided. “and … urgh, I don’t know what most of these smells are, but I don’t like them.”
 
-That would be it. Weak as Corti nasal acuity was, the pheromones and scents on the air would still be present on a subconscious level, informing his mood.  He nodded, satisfied that the mystery was solved.
+That would be it. Weak as Corti nasal acuity was, the pheromones and scents on the air would still be present on a subconscious level, informing his mood. He nodded, satisfied that the mystery was solved.
 
 “Well,” he said. “All the more reason to be done with this interview and get on our way.”
 
@@ -602,7 +602,7 @@ She was grateful to find, once all the results were in and she’d evaluated the
 
 Warhorse had taken first shift in supervising his exhausted buddies, who were all fast asleep on cots along the dividing wall between the shop and the locker room. Out of their suits, they were an obvious mess - all four were sporting pinch marks, blood blisters, bruises, rash and the other trademark skin discolorations that came with wearing EV-MASS for any length of time.
 
-They had a form for recording those - a stylized human body from several angles with a simple emblem system - crosses, hashing, plus signs and stars - for  recording the location and size of different kinds of marks. He’d saved her a job there and begun filling them in himself, and they took a moment to double-check to her satisfaction that he hadn’t missed anything as best they could without actually moving or waking the sleepers.
+They had a form for recording those - a stylized human body from several angles with a simple emblem system - crosses, hashing, plus signs and stars - for recording the location and size of different kinds of marks. He’d saved her a job there and begun filling them in himself, and they took a moment to double-check to her satisfaction that he hadn’t missed anything as best they could without actually moving or waking the sleepers.
 
 “How’re their results?” he asked, once she’d satisfied herself and pocketed them.
 
@@ -658,7 +658,7 @@ ___
 
 “Come on, honey, you’ve got this! First roll!”
 
-Xiù was plainly having the time of her life.  A loud woman with a broad Louisiana accent was cheering her on, and she wasn’t the only one - the four other players at the table were all calling words of encouragement. Xiù meanwhile was smiling nervously as she picked up the dice.
+Xiù was plainly having the time of her life. A loud woman with a broad Louisiana accent was cheering her on, and she wasn’t the only one - the four other players at the table were all calling words of encouragement. Xiù meanwhile was smiling nervously as she picked up the dice.
 
 Allison laughed as she and Julian watched her imitate what others had done and blow on the dice in her hand, then cast them vigorously down the table. There were cheers, everybody collected some chips and Xiù pumped her fist, danced an excited circle on the spot, and eagerly accepted the dice to throw them again, drinking in the words of praise and encouragement from the eclectic mix of people at the table.
 
@@ -866,7 +866,7 @@ He raised his hand to squint against it. The weather was rolling in waves down t
 
 “Yeah.”
 
-He put his arm round her waist. He half expected her to stiffen or catch her breath, but she did the opposite - she sighed happily and leaned against him, resting her head  on his shoulder.
+He put his arm round her waist. He half expected her to stiffen or catch her breath, but she did the opposite - she sighed happily and leaned against him, resting her head on his shoulder.
 
 Rather than saying anything, Julian made a kind of wordless, gently interrogative sound. She nodded against his shoulder and replied in kind - not a word, but a kind of of happy chirrup or purr.
 
@@ -910,7 +910,7 @@ Aru, however...Aru was previously unknown to him, and was now in admiral Knight�
 
 The historic decline and fall of every sapient spacefaring power in the galaxy was well documented. Indeed, it was one of the topics of fascinated discussion that entranced amateur xenohistorians on the Internet (not that there were yet such things as *professional* xenohistorians), in the parlance of whom the phenomenon had been named the “Great Filter”, a term borrowed from one Robin Hanson who had coined it in an attempt to solve the so-called Fermi Paradox.
 
-The Fermi Paradox was a now-extinct problem that had distracted people who were inclined to worry about such things with the question of where all the aliens were and why they weren’t popping in for a cup of tea and a chat. Given that said question’s relevance had faded somewhat  in recent years, the Fermi Paradox was now only of interest to historically-minded students of science and enthusiasts of the burgeoning field of xenoarchaeology.
+The Fermi Paradox was a now-extinct problem that had distracted people who were inclined to worry about such things with the question of where all the aliens were and why they weren’t popping in for a cup of tea and a chat. Given that said question’s relevance had faded somewhat in recent years, the Fermi Paradox was now only of interest to historically-minded students of science and enthusiasts of the burgeoning field of xenoarchaeology.
 
 Aru, being the home planet of a species who were already in the late stages of their terminal decline and apparently disinterested in doing anything to stop it, was naturally a decent starting point for anybody who wished to understand the nature of the Great Filter and maybe do something about it.
 
@@ -930,7 +930,7 @@ It would have been a completely unremarkable system if not for the forcefield en
 
 From an intelligence perspective, however, by far the most important thing that Bedu was able to tell them was that at no point in its voyage from *Sanctuary*’s wreckage to this question mark of a system had Kirk’s lifeboat been intercepted.
 
-While Bedu himself was Orange - augmented, possibly a target of interest for Hierarchy use, but not yet actually suspected of having been possessed by a Hierarchy demon -  his story was corroborated by the *Negotiable Curiosity*’s sensor records, which in turn showed no signs of tampering.
+While Bedu himself was Orange - augmented, possibly a target of interest for Hierarchy use, but not yet actually suspected of having been possessed by a Hierarchy demon - his story was corroborated by the *Negotiable Curiosity*’s sensor records, which in turn showed no signs of tampering.
 
 Taken all together it was good news, and the report concluded with a recommendation that Kirk’s own status be downgraded from Orange to Yellow. He couldn’t be called Green until an implant scanner had pinged the inside of his skull, but Intel were at least happy enough to move him a step in that direction.
 
@@ -1060,7 +1060,7 @@ Allison squeezed her hand again. “I try not to judge.” she said. “But it�
 
 Guilt and uncertainty looked so out of place on Allison that Xiù had no option but to give her hand another reassuring squeeze. “But hey. We’re doing something,” she said.
 
-That raised a  smile. “We are, yeah. I just wish more people could.“
+That raised a smile. “We are, yeah. I just wish more people could.“
 
 “Could get abducted?” Xiù teased.
 
@@ -1217,7 +1217,7 @@ Rylee left Semenza to look after *Phoenix* and approached the two aliens, carefu
 
 “Is… something wrong, major?” one of the aliens asked. She internally kicked herself for not being able to tell Celzi apart on sight. Oh well, time to play it impersonal rather than friendly.
 
-“Call the ambassadors,” she ordered. “Something important has come up that needs their immediate  attention.”
+“Call the ambassadors,” she ordered. “Something important has come up that needs their immediate attention.”
 
 She wasn’t left waiting long. Stationwide announcements in a variety of alien languages rang through the decks, and within minutes she was being escorted, along with the marines, to the forum chamber on the station’s topmost deck.
 
@@ -1338,7 +1338,7 @@ ___
 
 *“But you’re an exec! Aren’t you a bit senior to be standing at the airport with a sign?”*
 
-Kevin shrugged, a pointless gesture in a phone call, but still a natural and unthinking one. “These kids are important,” he replied smoothly. “And no offense Walter, but I’m the only other Abductee  in the whole Byron Group. They’re gonna need to hear what I’ve got to say.”
+Kevin shrugged, a pointless gesture in a phone call, but still a natural and unthinking one. “These kids are important,” he replied smoothly. “And no offense Walter, but I’m the only other Abductee in the whole Byron Group. They’re gonna need to hear what I’ve got to say.”
 
 Walter Billings scoffed. That was why Kevin liked the man - he didn’t guard his manners among The Team.
 
@@ -1555,7 +1555,7 @@ Adam hugged him. “...Love you, Dad.”
 
 “Yeah, yeah…” Adam laughed, and launched himself easily to his feet before picking his way toward the fridge in that curiously agile and quiet way of his that belied how heavy he was. “Don’t overplay that disability card though.”
 
-Gabriel chuckled and settled into the couch, looking forward to a long and comfortable evening. “I’m sure my soul will survive a *small* abuse of power,”  he said.
+Gabriel chuckled and settled into the couch, looking forward to a long and comfortable evening. “I’m sure my soul will survive a *small* abuse of power,” he said.
 ___
 
 **Date Point 10y4m3w3d AV**    
@@ -1731,7 +1731,7 @@ They squeezed into the lock alongside him. It was actually surprisingly spacious
 
 He gestured to a touch-screen with green, yellow and red icons on it. “Green is basic. Just a filter field. Coupled with your Frontline implants it should suffice in almost every case. Yellow is for when you’ve been exposed to radioactive or chemical contaminants. If you select that one you’ll need to remove and discard your clothing into this chute.”
 
-Xiù wanted to ask a question, Allison knew, but held her peace. Keating either didn’t notice, or didn’t care. “Red,” he finished, “is the works, and is for use in cases where you think you’ve been contaminated with some kind of deadly agent  that could spell doom for the whole species if it got back to Earth. In this case, you’ll need to strip and shower, shave off all your hair, you’ll be powdered and bio-fielded, and kept in quarantine for a minimum of forty-eight hours. When in doubt, use the highest setting. Hair grows back, but death is forever.”
+Xiù wanted to ask a question, Allison knew, but held her peace. Keating either didn’t notice, or didn’t care. “Red,” he finished, “is the works, and is for use in cases where you think you’ve been contaminated with some kind of deadly agent that could spell doom for the whole species if it got back to Earth. In this case, you’ll need to strip and shower, shave off all your hair, you’ll be powdered and bio-fielded, and kept in quarantine for a minimum of forty-eight hours. When in doubt, use the highest setting. Hair grows back, but death is forever.”
 
 Allison felt Xiù huddle in a little closer to her. She knew Xiù was a bit vain about her hair, which meant that the prospect of having to shave it all off...!
 
@@ -1759,7 +1759,7 @@ Allison bit down hard on the urge to vent sarcastically. The room was barely as 
 
 She had to admire the effort that had gone into using such a tiny volume effectively, though. As she looked around she realized that everything was recessed into, or folded away to become part of, the walls and ceiling. So long as it was kept tidy and uncluttered, it would definitely provide every need they could have, including some shelf space for luxuries and personal items.
 
-“Forward wall, kitchen and storage.” Keating indicated it. “You’ve got a range, a microwave, the faucet can give you boiling water, and  if you need more counter space…” he hauled on part of the countertop, which unfolded, tripling the amount of work surface.
+“Forward wall, kitchen and storage.” Keating indicated it. “You’ve got a range, a microwave, the faucet can give you boiling water, and if you need more counter space…” he hauled on part of the countertop, which unfolded, tripling the amount of work surface.
 
 “Aft wall is fitness and leisure. There’s a treadmill, weights… everything you need to keep yourselves in shape, plus the couch, TV, bookshelf… Port wall-” he slapped the one beside the door they’d just come through “- is your wardrobe, laundry, more storage… Finally the starboard wall.”
 
@@ -1849,7 +1849,7 @@ All three of them stared at him like he'd personally reached out and slapped her
 
 "You can’t be serious?" Allison asked.
 
-"I’m *completely* serious." Keating's expression was stony. "You are asking the Group to entrust you with a multi-billion-dollar spaceship.  Now, I'll ask you again for the last time: Why didn't you finish high school?"
+"I’m *completely* serious." Keating's expression was stony. "You are asking the Group to entrust you with a multi-billion-dollar spaceship. Now, I'll ask you again for the last time: Why didn't you finish high school?"
 
 A large part of Allison wanted to believe he was playing chicken with her, or maybe some other kind of stupid dominance mindgame thing. Keating seemed to be the kind of guy who liked putting people *’in their place’*, and despite Kevin’s excellent advice, just for a second she was tempted to show him her middle finger and her back, in that order.
 

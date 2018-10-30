@@ -87,7 +87,7 @@ She walked away from the group a little way and answered.
 
 "It's...well, it's gotten a little out of hand, to be honest." Terri admitted.
 
-"I hoped  that it would." Johnson said. The confession was made perfectly level and calm. "In what way?"
+"I hoped that it would." Johnson said. The confession was made perfectly level and calm. "In what way?"
 
 "I think we've picked up every genuine Abductee east of the Rockies." she reported. "There's some kind of a pilgrimage going on here, and I don't quite know what its objective is. They all seem to be singing from the same hymnbook, but I don't know the words."
 

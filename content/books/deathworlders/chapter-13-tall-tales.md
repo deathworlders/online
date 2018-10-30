@@ -174,7 +174,7 @@ Powell spun and addressed the two men manning the Skymaster. "Gun team! Five rou
 
 "Fire!"
 
-The Skymaster thumped. Jen felt it in her chest as the weapon opened a force-field walled tube of vacuum in front of it, into which it fired a round which accelerated away on a warp pulse in a  line of exotic blue radiation. The warp field would collapse scant millimeters from the target's hull, delivering the round long before the Celzi cruiser could even register that it was under attack. In theory, if the cruiser's shields were still down while its warp field dissipated, the rounds would strike its hull unimpeded, smashing through the fragile ceramic armour tiles and delivering shaped explosive charges directly to the superstructure.
+The Skymaster thumped. Jen felt it in her chest as the weapon opened a force-field walled tube of vacuum in front of it, into which it fired a round which accelerated away on a warp pulse in a line of exotic blue radiation. The warp field would collapse scant millimeters from the target's hull, delivering the round long before the Celzi cruiser could even register that it was under attack. In theory, if the cruiser's shields were still down while its warp field dissipated, the rounds would strike its hull unimpeded, smashing through the fragile ceramic armour tiles and delivering shaped explosive charges directly to the superstructure.
 
 If its shields were up...in theory the gun could overwhelm them with sustained fire, but during that time the cruiser might lower its spike and flee, blowing Cimbrean's cover.
 
@@ -264,7 +264,7 @@ There was no response from the radio. The silence on the ground was, eventually,
 
 Baker scratched his head "She's aiming for...that big lake to the east."
 
-The captain glanced at the sensors screen, then grabbed his field binoculars and turned  to face westwards, raising them to his face.
+The captain glanced at the sensors screen, then grabbed his field binoculars and turned to face westwards, raising them to his face.
 
 Other heads turned to follow his aim. Some few seconds later, a cloud formation withered and died in the face of incredible heat as the Alliance cruiser wallowed through it.
 
@@ -330,7 +330,7 @@ Jen wondered where whichever government or governments were responsible for this
 
 "That makes sense." Jen considered.
 
-"Well, it probably won't *remain* British for so very long. The Chinese, Argentinians and Russians are all making uncomfortable noises about expansion and Imperialism.  Who knows? It *could* become the fifth member of the Union, or an overseas territory, but I think it more likely that Cimbrean will---quietly, respectfully and by common consent---go independent once on her feet, and become a Commonwealth member."
+"Well, it probably won't *remain* British for so very long. The Chinese, Argentinians and Russians are all making uncomfortable noises about expansion and Imperialism. Who knows? It *could* become the fifth member of the Union, or an overseas territory, but I think it more likely that Cimbrean will---quietly, respectfully and by common consent---go independent once on her feet, and become a Commonwealth member."
 
 "Assuming she survives." Jen pointed out. "If the Great Hunt finds this place..."
 
@@ -338,7 +338,7 @@ Jen wondered where whichever government or governments were responsible for this
 
 "Oh?"
 
-"Kirk will explain. Let's just say that the need for absolute secrecy is going to be resolved soon. Among other things,  a leak is inevitable, so we need to go public with the project sooner rather than later."
+"Kirk will explain. Let's just say that the need for absolute secrecy is going to be resolved soon. Among other things, a leak is inevitable, so we need to go public with the project sooner rather than later."
 
 "So it can have a positive spin put on it?"
 
@@ -360,7 +360,7 @@ Jen smiled. "There's a story behind that..." she began.
 
 ---
 
-The enormous human wasn't *quite* aiming his weapon at Saunders, but then again Gyotin doubted that he needed to. The squad of humans on the beach were quite plainly the most dangerous thing he had ever laid eyes on, each one of them comfortably wearing a harness of  thick armour plating covered in an drab blend of greens and soil tones that his eyes almost wanted to skip off and treat as part of the background, and a gun that the Gaoian doubted he would even be able to lift. All bar the big one with the biggest gun were intimidatingly anonymous, their faces covered in black masks, and with lenses of a brilliant orange over their eyes.
+The enormous human wasn't *quite* aiming his weapon at Saunders, but then again Gyotin doubted that he needed to. The squad of humans on the beach were quite plainly the most dangerous thing he had ever laid eyes on, each one of them comfortably wearing a harness of thick armour plating covered in an drab blend of greens and soil tones that his eyes almost wanted to skip off and treat as part of the background, and a gun that the Gaoian doubted he would even be able to lift. All bar the big one with the biggest gun were intimidatingly anonymous, their faces covered in black masks, and with lenses of a brilliant orange over their eyes.
 
 He flopped onto the beach, growling at the pain in what was almost certainly a fractured bone high in his chest, and was surprised when one of the humans lowered his weapon and dashed over to him, unslinging from his back a bag of what were clearly medical supplies.
 
@@ -374,7 +374,7 @@ Gyotin was about to raise his voice in protest and demand to know whether the hu
 
 *Triage*, Gyotin realised, as the medic dashed from crewman to crewman, assessing the injuries. Mostly he just repeated the action of labelling his patients, but here and there he administered an injection of some drug or another.
 
-The unconscious human---Markovitz---was loaded onto a small ground vehicle which roared  away in a spray of kicked-up sand. The mostly-sane one---Kaminski?---was likewise loaded onto a vehicle, but this one was also occupied by a human who had the body language of the one in charge. They were just close enough for Gyotin's translator to decide it could hear the "Rush-in"'s half of the conversation: the other didn't appear to have a translator of his own.
+The unconscious human---Markovitz---was loaded onto a small ground vehicle which roared away in a spray of kicked-up sand. The mostly-sane one---Kaminski?---was likewise loaded onto a vehicle, but this one was also occupied by a human who had the body language of the one in charge. They were just close enough for Gyotin's translator to decide it could hear the "Rush-in"'s half of the conversation: the other didn't appear to have a translator of his own.
 
 "Kaminski, Roman. Captain, Spetsnaz."
 
@@ -386,7 +386,7 @@ The other human spoke. The language was a staccato one, short clipped consonants
 
 "Of course. I surrender, captain."
 
-The two deathworlders gripped each other's hands firmly, and the captain nodded, looking relieved.  "<*Babble. Nonsense?*>"
+The two deathworlders gripped each other's hands firmly, and the captain nodded, looking relieved. "<*Babble. Nonsense?*>"
 
 "Thank you." Kaminski glanced around, and then leaned closer to the other human and spoke confidentially, too quietly for Gyotin to overhear.
 
@@ -578,7 +578,7 @@ Besides, whatever reasons the man felt he had for needing to keep his secret sup
 
 "...*Saunders*." he finished. "As for Miss Delaney, you just missed her. She shipped out when we detected your mob comin' in. "
 
-There was a long, bewildered pause, and then the Australian broke down and started laughing. It wasn't a happy laugh---it was a black cynical one, the laugh of a man who'd just figured out that he was the butt of a sadistic sense of humour.  "Of course...of course she did!" He exclaimed, somewhere between the laughing and the sobs. "Gone home I bet? No reason to wait for a dead man!"
+There was a long, bewildered pause, and then the Australian broke down and started laughing. It wasn't a happy laugh---it was a black cynical one, the laugh of a man who'd just figured out that he was the butt of a sadistic sense of humour. "Of course...of course she did!" He exclaimed, somewhere between the laughing and the sobs. "Gone home I bet? No reason to wait for a dead man!"
 
 "*Jesus fookin' Christ...*"
 
@@ -600,7 +600,7 @@ He looked the Australian up and down. "I can *smell* the kind of shit you're in,
 
 They stared at each other for a few moments, then Adrian unclenched his fists, sighed and nodded. "Looks like you've still got some broken down old ships. I can probably put a working one together given a bit of time, a week...two at most, and then I'll be out of your hair." he offered.
 
-"Good," said Powell. Anything to get the man away from the colony and back out in the wider galaxy where he could do less harm.  "We'll give you food, clothes and shelter...and a fookin' shave if you want it, but you need to get out of here before you become a problem. And for the moment, *Captain*," he added, stressing Saunders' former rank "you are going to give me a full debriefing."
+"Good," said Powell. Anything to get the man away from the colony and back out in the wider galaxy where he could do less harm. "We'll give you food, clothes and shelter...and a fookin' shave if you want it, but you need to get out of here before you become a problem. And for the moment, *Captain*," he added, stressing Saunders' former rank "you are going to give me a full debriefing."
 
 He listened as the disgrace seated opposite him relented and launched into a characteristically foul-mouthed summary of everything that had happened to him since his abduction.
 
@@ -710,7 +710,7 @@ Powell nodded upwards towards the door, dismissing the man. "Fook off."
 
 **Brick, New Jersey, Earth.**
 
-*Not that it was easy to tell: The concrete---it was made of hexagonal slabs of poured concrete, rather than asphalt--- had been breached by trees, and the forest that violated the hard-top was just as dense along the road's length as in the good soil to either side of it. It must have been... oh, a hundred years or more since it had been last maintained. Had we not stopped to examine the dying creature, we might  have just stepped over the concrete road surface, dismissing it as a rock formation.*
+*Not that it was easy to tell: The concrete---it was made of hexagonal slabs of poured concrete, rather than asphalt--- had been breached by trees, and the forest that violated the hard-top was just as dense along the road's length as in the good soil to either side of it. It must have been... oh, a hundred years or more since it had been last maintained. Had we not stopped to examine the dying creature, we might have just stepped over the concrete road surface, dismissing it as a rock formation.*
 
 *But once you saw the hard straight lines of the carriageway's edge, and saw the material for what it was, other details made themselves known. The way that little clump of tangled thorny vegetation over THERE had a suspicious hint of rusty metal chassis, and the way that the creepers and vines over THERE seemed to have grown down from some kind of scaffold. That sort of thing. Everything was so green and alive that it all but completely obscured those fingerprints of an industrial civilisation.*
 
@@ -936,7 +936,7 @@ That was less than reassuring, but what was Michael going to do? Saunders was da
 
 "Where else are we fookin' going?" Richard rightly objected. "We're not supposed to be your fookin' pack-mules, you know."
 
-The madman's grin widened. "Art of war, mate," he said. "It's time for me to get to know my enemy.  We're going over to the Hierarchy ship."
+The madman's grin widened. "Art of war, mate," he said. "It's time for me to get to know my enemy. We're going over to the Hierarchy ship."
 
 ---
 

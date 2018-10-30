@@ -53,7 +53,7 @@ A trophy was called for. Gingerly, he reached for the broken green eye.
 
 He made a startled sound of pain and sucked at his finger, sliced open as easily as would be done by even the best of the stone-former's spearheads. Even dead, this thing was clearly dangerous. But a dead eye that could cut like that would be the perfect trophy.
 
-It took some trial and error, but eventually he managed to smash out all of the strange, rock-like material of the eye to carry home in his back. A bit of force and grunting broke off one of the beast's lower legs, made of that strange wet-rock.  Any more would only tire him on the run home.
+It took some trial and error, but eventually he managed to smash out all of the strange, rock-like material of the eye to carry home in his back. A bit of force and grunting broke off one of the beast's lower legs, made of that strange wet-rock. Any more would only tire him on the run home.
 
 The old men would know about these things, he knew.
 
@@ -163,7 +163,7 @@ These particular data were full of tender mysteries, which it peeled apart, turn
 
 There was much that could not be determined. The feast of information was tainted, riddled with sour gaps in the logs brought on by exotic manipulations of the electromagnetic spectrum which had dazzled and confuse the swarm's sensors. The early records of the fight were meager fare indeed, barely an aperitif---it was only when the Swarm-craft began to arrive in earnest and overload the beleaguered human craft's resources that the information began to become coherent, and that state only lasted a few seconds before the wave of smaller Human ships had arrived, reversing the flow of not only the physical battle, but also the digital one.
 
-What *could* be gleaned, however, thoroughly impressed it. Chemical-propellant weaponry using warp fields to overcome the problem of their relatively glacial velocity across the huge distances involved in space combat.  The precision timing of bringing a Brood-Transport's ship down with a storm of weak firepower an instant before a hurtling kinetic missile ended the ship and the lives of every one of the two-hundred strong Ripping-Brood.
+What *could* be gleaned, however, thoroughly impressed it. Chemical-propellant weaponry using warp fields to overcome the problem of their relatively glacial velocity across the huge distances involved in space combat. The precision timing of bringing a Brood-Transport's ship down with a storm of weak firepower an instant before a hurtling kinetic missile ended the ship and the lives of every one of the two-hundred strong Ripping-Brood.
 
 The tactics were exceptional. These humans understood the Hunt in a way that even Hunters themselves sometimes failed to. Information was controlled, traps laid, escapes predicted and retaliations, evaded. The opening ambush was simply masterful, reminding the Alpha-of-Alphas of the overwhelming strike from hiding that had won the victory against the Vulza atop whose chemically treated and preserved skull the Alpha-of-Alphas now sat.
 
@@ -357,7 +357,7 @@ Kirk paced around the room, pausing by one of the small windows. "*My* baggage."
 
 "I...do not know if I am ready. I do not think I can put it into words, yet."
 
-"Oooh, dramatic." She winced at herself, as Kirk gave her what was unmistakably a tired glare.  "Sorry."
+"Oooh, dramatic." She winced at herself, as Kirk gave her what was unmistakably a tired glare. "Sorry."
 
 Kirk exhaled a sigh. "I will share. In time. I think you are right that I need to," he said. "But I need to sort it out for myself first."
 
@@ -445,9 +445,9 @@ The shortest route from the ET Quarter to the Faith Center passed along the road
 
 He retreated as the door slammed open and expelled one of the young colonists---the skinny female who always carried a camera---into the street. She narrowly missed barging him aside as she ran across the road and out of sight, face a bright red and water streaming from her eyes.
 
-Gyotin was still puzzling over this extraordinary sight when the door exploded open again and two young human males came spinning through, grappling with each other. They were doing more in the way of pulling at each others' clothing and shouting  than actually hurting each other, but the physicality of it was still alarming.
+Gyotin was still puzzling over this extraordinary sight when the door exploded open again and two young human males came spinning through, grappling with each other. They were doing more in the way of pulling at each others' clothing and shouting than actually hurting each other, but the physicality of it was still alarming.
 
-The larger one---and the darker, with a skin tone similar to that of the girl Ava he had spoken to  the day before---pulled back from the fight long enough to lash out with one fist, and Gyotin issued a frightened alarm-chirrup. The blow cracked into the other boy's face with all that trademark deathworlder force, leaving the Gaoian briefly convinced he had just witnessed a murder.
+The larger one---and the darker, with a skin tone similar to that of the girl Ava he had spoken to the day before---pulled back from the fight long enough to lash out with one fist, and Gyotin issued a frightened alarm-chirrup. The blow cracked into the other boy's face with all that trademark deathworlder force, leaving the Gaoian briefly convinced he had just witnessed a murder.
 
 But of course, humans were made of impossibly sturdy stuff, and the struck boy just got angrier, and charged into the larger boy's torso, shoulders-first, carrying him halfway across the street before they wound up clawing, wrestling and hair-pulling in the middle of the road.
 
@@ -503,7 +503,7 @@ She got no further.
 
 There was no warning. No hint that something might be amiss. Mid-sentence, pretty much everyone in the room was simultaneously floored by a bolt of the most terrible pain, right between the ears.
 
-Drew staggered, felt Drew M grab him and try to hold him upright. As if hearing it through the worst popped ears in history, he vaguely heard. "*Cavvo? Cavvo!  Aww, fuckin' hell what's going on?*"
+Drew staggered, felt Drew M grab him and try to hold him upright. As if hearing it through the worst popped ears in history, he vaguely heard. "*Cavvo? Cavvo! Aww, fuckin' hell what's going on?*"
 
 He staggered, gripped the table, felt the pain lurch in his stomach and threaten to dislodge his breakfast, gritting his teeth against the agony that was pushing at his vocal cords, that was ripping its way out of the others as screams and moans and prayers.
 
@@ -827,7 +827,7 @@ Captain Manning chimed in. "If I were in that situation the next step would be t
 
 Powell sighed. "Aye, you're right, but I was *really* hoping you wouldn't fookin' say that." he groused. "Alright, but I'd still like to have a proposal for the Admiral, even if he just chucks it in the shredder."
 
-"Of course.  What are you thinking?"
+"Of course. What are you thinking?"
 
 Powell chuckled. "Guile." he said.
 
@@ -1073,7 +1073,7 @@ Bathini and Powell shared a look, before the latter man shook his head and spoke
 
 "I can't go into the details for reasons of security." he said. "I'll only reassure you that we have very good reason to be confident that there are no Hunters at least within a few lightyears of here."
 
-"In any event, *Caledonia* will be primed and ready to jump back to Cimbrean at all times." Bathini added. "If it does turn out to be an ambush, we are entirely confident of being able to escape it. We shall not be taking unnecessary risks."   He paused to allow Gyotin to finish translating. "Any further questions?"
+"In any event, *Caledonia* will be primed and ready to jump back to Cimbrean at all times." Bathini added. "If it does turn out to be an ambush, we are entirely confident of being able to escape it. We shall not be taking unnecessary risks." He paused to allow Gyotin to finish translating. "Any further questions?"
 
 "Why?"
 
@@ -1095,7 +1095,7 @@ It was Captain Bathini who spoke, however, recapturing the quivering Xktnk's att
 
 It certainly wasn't for Gyotin.
 
-As for Xktnk---For the rest of his life, Gyotin never figured out whether it was Powell's withering gaze or Bathini's warm diplomacy that shut him up. All he knew was that there were no further questions.   
+As for Xktnk---For the rest of his life, Gyotin never figured out whether it was Powell's withering gaze or Bathini's warm diplomacy that shut him up. All he knew was that there were no further questions.
 
 They were going *home.*
 
@@ -1624,7 +1624,7 @@ Good husband that he was, Colin was on the same wavelength instantly. "And if th
 
 "But we don't need to replace it across the whole planet at first." Colin pointed out. "If the aliens are right about Deathworld species, and the evidence of this bacterial event suggests that they *are*..."
 
-Mary nodded "...then we only need to introduce the immigrant species along the length of the scar. They might  even help to contain the infection and slow it, if we introduced things in the right order."
+Mary nodded "...then we only need to introduce the immigrant species along the length of the scar. They might even help to contain the infection and slow it, if we introduced things in the right order."
 
 Colin nodded. "Of course, the Terran species would ultimately out-compete and supplant the natives, but if we're very lucky, a few mutant strains might make it through the mass extinction events and we'd still have a few Cimbrean natives for posterity."
 

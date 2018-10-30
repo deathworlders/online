@@ -60,7 +60,7 @@ They shook hands, gently. "Rylee, this is Sister Niral. Niral, Captain Rylee Jac
 
 Niral chittered a nervous laugh as Goruu wilted in embarrassment, turning heads from the other Gaoian group, who dropped their conversation and joined the new one around Rylee. The tallest and probably oldest male scratched the top of Goruu's head, further contributing to his embarrassment.
 
-"Ah, Rylee Jackson, this is Mother Yimyi."  Niral introduced her, then indicated the older male who had scratched Goruu's head. "Clan-Father Amren of Clan Firefang, Fathers Gu and Yemin, and Brother Roni."
+"Ah, Rylee Jackson, this is Mother Yimyi." Niral introduced her, then indicated the older male who had scratched Goruu's head. "Clan-Father Amren of Clan Firefang, Fathers Gu and Yemin, and Brother Roni."
 
 Rylee decided she was glad that Amren had been facing away from her when she first approached the group or else she might have mistaken him for Goruu. Aside from some extra grey fur, his markings were practically identical to the younger male's. Family resemblance?
 
@@ -287,7 +287,7 @@ Niral gave her a long, flat-eared stare. "It does?" she squeaked.
 
 "Absolutely!" Rylee exclaimed. "And if you're wondering how to take that, take it as a compliment. You're a beautiful person. But neither of you are interested and even if you were we couldn't possibly do it without you risking serious injury, so that's where it ends."
 
-She sighed. "I know I've said that the, uh, 'urge' is a powerful thing, but emotionally well-balanced people have no problem with their interest not being reciprocated, and I wouldn't even be up here if a lot of highly qualified people didn't agree that I'm emotionally well-balanced. So yes, I 'feel the urge' towards both of you, but it's under control and fading.  But if there was no physical danger involved and if you both consented to it, I'd jump at the chance. Does that sound fair?"
+She sighed. "I know I've said that the, uh, 'urge' is a powerful thing, but emotionally well-balanced people have no problem with their interest not being reciprocated, and I wouldn't even be up here if a lot of highly qualified people didn't agree that I'm emotionally well-balanced. So yes, I 'feel the urge' towards both of you, but it's under control and fading. But if there was no physical danger involved and if you both consented to it, I'd jump at the chance. Does that sound fair?"
 
 "It sounds very strange and alien, but...You're not Gaoian, I shouldn't be surprised that you don't behave exactly like Gaoians do. So, yes, that sounds fair."
 
@@ -414,7 +414,7 @@ That had been four valleys ago. It was remarkable just how hard it was to find t
 
 Oh well, it wouldn't be the last time she made camp anyway. And at least there were lots of the sort-of-tea bush around.
 
-She set up her camp with the practiced skill of somebody who had done it every night in a row for four months, boiled herself a cup of tea-ish and a healthy vegetable stew,  and fell asleep beside the fire.
+She set up her camp with the practiced skill of somebody who had done it every night in a row for four months, boiled herself a cup of tea-ish and a healthy vegetable stew, and fell asleep beside the fire.
 
 Morning brought warm sunshine and morning mist, which she set off through in the best mood she'd felt for some time, walking stick in hand. Something birdlike thrummed past her head and perched in a nearby tree, angled its multifaceted eyes at her and preened a shimmering wing, singing a warbling song that reminded her of a Nightingale. It was beautiful.
 

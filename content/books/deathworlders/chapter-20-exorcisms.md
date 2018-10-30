@@ -149,7 +149,7 @@ Still. Tisdale thought long and hard about it, and his reply when it came was qu
 
 It was good enough.
 
-"Sara's death is...related to other recent incidents. Recent *serious* events, in which a great many people have died." he said, glancing up at the Chargers scarf pinned to the wall above his desk to ram the point home.  "And to the recall of cybernetic implants issued last month."
+"Sara's death is...related to other recent incidents. Recent *serious* events, in which a great many people have died." he said, glancing up at the Chargers scarf pinned to the wall above his desk to ram the point home. "And to the recall of cybernetic implants issued last month."
 
 "...That's it? That's all you're giving me is a fucking *hint?*"
 
@@ -249,7 +249,7 @@ Manning nodded, solemnly. "It's been a huge blow to morale." he said. "When they
 
 "I couldn't tell you." Manning said. Some unspoken communication seemed to pass between the two men and not for the first time Gyotin wondered if humans weren't a little bit telepathic. Such a thing was supposed to be impossible but then again, so were sapient Deathworlders.
 
-"The cleanup project attracted the help of a billionaire from Earth, one Moses Byron."  Manning continued. "He's brought in a lot of his own contractors, invested a lot of his own money. It was one of those contractors who..." he tailed off.
+"The cleanup project attracted the help of a billionaire from Earth, one Moses Byron." Manning continued. "He's brought in a lot of his own contractors, invested a lot of his own money. It was one of those contractors who..." he tailed off.
 
 "So not one of the first wave, then."
 
@@ -351,7 +351,7 @@ It was for this reason that there even were books in the building, and every sin
 
 "Things are going well, it seems." Lesry commented, looking sidelong at her, allowing a subtle hint of amusement to show. Knadna stopped rubbing her hands together and returned them to a more professional posture at her side.
 
-"Yes. Quite well."  She agreed. She grabbed one of the newest books from the top and glanced at a page, taking in every feature of that page instantly. Her translation implant did the rest, decoding the OmoAru written language and converting it into useful concepts, remaining as faithful as possible to the linguistic subtleties it found.
+"Yes. Quite well." She agreed. She grabbed one of the newest books from the top and glanced at a page, taking in every feature of that page instantly. Her translation implant did the rest, decoding the OmoAru written language and converting it into useful concepts, remaining as faithful as possible to the linguistic subtleties it found.
 
 "Cookbook." she grunted, dismissively, and put the book back. "Thirty meals to help you keep a nice fat tail."
 
@@ -391,7 +391,7 @@ Julian smiled. "Oh yeah. Sidhe. He was this huge black dog. Like, part labrador,
 
 Allison gave him a little playful punch, as she had done every time so far he used a word like "cute" "sweet" or "adorable" to describe her, and he was about to ask his next question when they were interrupted by an exclamation of "fuck's sake, dude!".
 
-Lewis and Amir had taken over the common room couch to play a game of some kind. Superman and Green Arrow were beating the crap out of each other on the screen, with the surprising result that Green Arrow seemed to be winning, much to Amir's dismay.  That hadn't been the cause of the outburst, though. The cause of the outburst had been Zane, wandering right across the screen and interrupting Lewis' line of sight long enough for Amir to activate his special move and punch Green Arrow into orbit.
+Lewis and Amir had taken over the common room couch to play a game of some kind. Superman and Green Arrow were beating the crap out of each other on the screen, with the surprising result that Green Arrow seemed to be winning, much to Amir's dismay. That hadn't been the cause of the outburst, though. The cause of the outburst had been Zane, wandering right across the screen and interrupting Lewis' line of sight long enough for Amir to activate his special move and punch Green Arrow into orbit.
 
 Zane just made an unconvincing noise that sounded like in somebody who cared it might have been an apology, and vanished in the direction of the galley.
 
@@ -1069,7 +1069,7 @@ He tapped again. "Neither's Vedreg." he added.
 
 The Tisdale house was a mess. Ava couldn't blame them, in fact she knew exactly how they felt. After the bomb which killed her parents, it had taken *weeks* before she began to notice things like mess, rumpled clothing and the state of her hair again. The first night she had run a brush through it had been a painful one both physically and emotionally, extracting a tangle that had been well on its way to becoming a dreadlock.
 
-Doctor Hayley Tisdale at least was fortunate enough to have straight hair, which would help there. But she was still a mess when she opened the door, wearing food-stained pajamas  and red eyes.
+Doctor Hayley Tisdale at least was fortunate enough to have straight hair, which would help there. But she was still a mess when she opened the door, wearing food-stained pajamas and red eyes.
 
 "Ava?"
 
@@ -1327,7 +1327,7 @@ The sentence was barely out of her mouth when the OmoAru returned and handed Lew
 
 "*WemUei!*" the alien agreed.
 
-"Ming mang mong, dude."  Lewis told it.
+"Ming mang mong, dude." Lewis told it.
 
 Allison watched the alien return, apparently happily, to its domicile "...the fuck?"
 
@@ -1903,7 +1903,7 @@ Xiù got to him first.
 
 If Zane's casual backhand had hinted at the disparity between Deathworlder muscles and Corti bones, then what Xiù unleashed on the enraged Jamaican was an object lesson in just how physically far ahead of the rest of the galaxy humans truly were. Zane had time enough only to register her presence as she rose up in his path before she delivered four blows, any one of which would have exploded through Kirk's body like heavy pulse-gun fire.
 
-The first exploited his missing arm, driving into his chest, knocking him off-balance and driving the wind out of him. The second was laser-targeted on his jaw, stunning him.  As he staggered, the third blow was delivered to his left eye, and the fourth to his right.
+The first exploited his missing arm, driving into his chest, knocking him off-balance and driving the wind out of him. The second was laser-targeted on his jaw, stunning him. As he staggered, the third blow was delivered to his left eye, and the fourth to his right.
 
 Her precision flurry of violence took less than a second.
 

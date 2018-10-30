@@ -186,7 +186,7 @@ Adam sighed and turned where he was sitting slightly. "What you want me to say?"
 
 "Least you sorted fuckin’ Baseball out… OWW!!" This time it was Adam’s turn to give Blaczynski a blow upside the head, and this one wasn’t the half-hearted brotherly cuff that Blaczynski managed to attract at least twice a day: it was an open-palmed clout so hard that *everyone* flinched.
 
-"What the fuck is wrong with you?" Adam growled. The mood changed instantly -  nobody needed more than that to spot that a line had been crossed, and they all went tense.
+"What the fuck is wrong with you?" Adam growled. The mood changed instantly - nobody needed more than that to spot that a line had been crossed, and they all went tense.
 
 There was an awkward silence as Adam stared Blaczynski down. It wasn't much of a contest.
 
@@ -400,7 +400,7 @@ This earned bitter noise. "Right. Careers. I’ve got a heck of a resume. Vagran
 
 Allison considered her subdued response, then put a reassuring hand on Xiù’s forearm. "Give it time. You’ll think of something."
 
-Xiù nodded and reached over with her left hand to squeeze Allison’s hand, then stood up. She swayed as the abrupt motion and her void-damaged lungs combined to make her head spin, and leaned heavily against the wall for a second to recover.  "Let’s… go see Julian."
+Xiù nodded and reached over with her left hand to squeeze Allison’s hand, then stood up. She swayed as the abrupt motion and her void-damaged lungs combined to make her head spin, and leaned heavily against the wall for a second to recover. "Let’s… go see Julian."
 
 "...Okay."
 
@@ -415,7 +415,7 @@ ___
 
 There was an unfamiliar car outside Kevin’s new house when he got home. A black Toyota sedan - completely nondescript and unremarkable, which immediately gave Kevin a good idea of its driver.
 
-It was a nice house. A two-storey thing in suburbia with delicate brownish panelling, two garages and enough driveway for a couple of monster trucks.  The local housing association were proving to be a pain in the ass over the exact strain of grass seed he was allowed to use and how long it had to be and how well-watered, but the neighbors were nice. They had visited with a welcome cake on the day he moved in, but their timing had been awful - they’d shown up while he was wearing a short-sleeve polo shirt that put his tattoo on full display.
+It was a nice house. A two-storey thing in suburbia with delicate brownish panelling, two garages and enough driveway for a couple of monster trucks. The local housing association were proving to be a pain in the ass over the exact strain of grass seed he was allowed to use and how long it had to be and how well-watered, but the neighbors were nice. They had visited with a welcome cake on the day he moved in, but their timing had been awful - they’d shown up while he was wearing a short-sleeve polo shirt that put his tattoo on full display.
 
 It was not an ambiguous tattoo. While the original ink had just been a simple black cross, Kevin had spent quite a lot of money over the years modifying it, starting by covering it with a bisected circle and the word "Rehabilitated". Later touch-ups, additions and modifications meant that it was now well on its way to being a full sleeve of deliberately antagonistic antitheistic sentiment, a physical lashing-out at something he still felt a smouldering bitterness over.
 
@@ -447,7 +447,7 @@ Darcy raised an eyebrow at the commercial espresso machine on his counter. "You 
 
 "Comin’ right up."
 
-He watched Darcy out of the  corner of his eye as he gurgled and hissed his way through preparing her drink. She didn’t quite flop down onto his couch, but she did sit heavily, then rubbed her face and rolled her neck.
+He watched Darcy out of the corner of his eye as he gurgled and hissed his way through preparing her drink. She didn’t quite flop down onto his couch, but she did sit heavily, then rubbed her face and rolled her neck.
 
 Kevin gave her a double shot of espresso.
 
@@ -523,7 +523,7 @@ Darcy quirked an eyebrow at him. "Where did you get the impression that *that’
 
 "Please. The Company’s reason for being is the security of the USA, and by extension the whole human race." Kevin gave her a patient stare. “Your own words, right? Well Byron established pretty well with that emergency recall fiasco that he’s a potential liability there. And now you’ve got *‘company property’* working in his building...”
 
-"We’ve got… an ally." Darcy corrected him. “Somebody we trust to be just a little bit more sensible than Byron and who we *hope* will serve as a reminder of just how badly he fucked up.  That doesn’t mean you’d be entrusted with that kind of thing. You don’t have the training, even *if* we worked that way.”
+"We’ve got… an ally." Darcy corrected him. “Somebody we trust to be just a little bit more sensible than Byron and who we *hope* will serve as a reminder of just how badly he fucked up. That doesn’t mean you’d be entrusted with that kind of thing. You don’t have the training, even *if* we worked that way.”
 
 "You’re saying you don’t?"
 
@@ -712,7 +712,7 @@ Ayma's ears quirked and she grimaced. *"'Violent'?"* she asked. “***Just*** *'
 
 "Unsubtle, isn't it?" Regaari agreed, though privately he felt that the name was appropriately bellicose for a warship. Why mask its nature behind poetic imagery?
 
-A minute later, *Violent* hit sublight at a relative stop a few hundred kilometres away. His transport only registered its presence by the friendly identity signals it was broadcasting: Without those, it would have been all but invisible. No radar signature, with a shape and albedo that sent every sensor they had skipping off without trace and zero visible heat---Regaari knew that it would be radiating all of its heat in a coherent beam  back towards the nearest star. Only his experimental gravimetric sensors, designed to counter Hunter cloaking devices, told him that *something* was there, and they were still far too imprecise to narrow down the exact location of *Violent*'s mass to within a radius better than thirty kilometers.
+A minute later, *Violent* hit sublight at a relative stop a few hundred kilometres away. His transport only registered its presence by the friendly identity signals it was broadcasting: Without those, it would have been all but invisible. No radar signature, with a shape and albedo that sent every sensor they had skipping off without trace and zero visible heat---Regaari knew that it would be radiating all of its heat in a coherent beam back towards the nearest star. Only his experimental gravimetric sensors, designed to counter Hunter cloaking devices, told him that *something* was there, and they were still far too imprecise to narrow down the exact location of *Violent*'s mass to within a radius better than thirty kilometers.
 
 "*Springing Ember, please disable all electronic security and submit to a database scan.*"
 
@@ -1240,7 +1240,7 @@ Ava tucked her hands behind her head. "Sean, don’t you get it? Didn’t you pu
 
 Sean frowned at her and circled around to drop in the armchair. "Clearly I didn’t." he muttered.
 
-Ava sighed and sat up. "Someone or some*thing* wants us **_dead."_** she said. “You MUST have seen the Vancouver attack footage. And everybody knows about the, the quarantine field and come *on!* You think two million dead Californians  happened by *accident?* Adam and I could have been in that, it kind of rams the point home!”
+Ava sighed and sat up. "Someone or some*thing* wants us **_dead."_** she said. “You MUST have seen the Vancouver attack footage. And everybody knows about the, the quarantine field and come *on!* You think two million dead Californians happened by *accident?* Adam and I could have been in that, it kind of rams the point home!”
 
 "You really think-?"
 
@@ -1606,7 +1606,7 @@ Byron grunt-chuckled. "One liver’s enough for a lifetime." he said, echoing Ke
 
 He stood and headed out. "Try not to get in trouble while I’m gone, boss."
 
-Byron  toasted him with his empty glass. "Kevin, you’re on my speed dial." he said.
+Byron toasted him with his empty glass. "Kevin, you’re on my speed dial." he said.
 
 ___
 
@@ -1622,7 +1622,7 @@ The result was training that varied in intensity throughout the week on a pseudo
 
 Heavy day was designed for maximum effect at the expense of leaving the operator burned out and shaking, often barely able to move. Today was Adam’s heavy day, and he’d elected to go for a simulated suit run.
 
-These were pretty simple: Wearing the EV-MASS undersuit under a weighted replica of the midsuit with a full tactical load - an arrangement that was actually worse to wear than the suit itself because it was loose on him rather than hugging tight and supporting its own weight  - he set out for a dawn-to-dusk run. Pick a direction, go. Turn back at noon. And if you had any designs on saving your energies on the run out, you were just hurting yourself and everybody else you might need that little bit extra performance for.
+These were pretty simple: Wearing the EV-MASS undersuit under a weighted replica of the midsuit with a full tactical load - an arrangement that was actually worse to wear than the suit itself because it was loose on him rather than hugging tight and supporting its own weight - he set out for a dawn-to-dusk run. Pick a direction, go. Turn back at noon. And if you had any designs on saving your energies on the run out, you were just hurting yourself and everybody else you might need that little bit extra performance for.
 
 He’d settled on a road run today, and had set himself the challenge of making it out as far as the coastal outpost of New Penzance.
 
@@ -1882,7 +1882,7 @@ ___
 
 ***Xiù Chang***
 
-Just running was a relief. *Moving* was a relief, not being surrounded by people asking questions, so many questions… getting away from her fussing mother, from a  father who was constantly melancholy when he should have been delighted, from a big little brother she didn’t know how to talk with...
+Just running was a relief. *Moving* was a relief, not being surrounded by people asking questions, so many questions… getting away from her fussing mother, from a father who was constantly melancholy when he should have been delighted, from a big little brother she didn’t know how to talk with...
 
 Just the freedom to *run*, under open sky in correct gravity rather than on a treadmill, when every breath that rushed into and through and out of her was dense and rich and *right,* almost intoxicating.
 
@@ -2177,7 +2177,7 @@ They bade him goodnight, and Vedreg pulsed through a thoughtful rainbow of blues
 
 "I feel the call of my home planet also." Vedreg replied. “It is… stressful to be so far from my herd.”
 
-"The difference, old friend, is that herd species feel comforted by each others’ presence, but do not *care* for one another in quite the same way that humans do."  Kirk replied. “He is suffering… it makes me feel guilty.”
+"The difference, old friend, is that herd species feel comforted by each others’ presence, but do not *care* for one another in quite the same way that humans do." Kirk replied. “He is suffering… it makes me feel guilty.”
 
 "You *have* confined us all." Vedreg agreed. “Even if for good reasons.”
 
@@ -2229,7 +2229,7 @@ The result was that the rich green walls were almost totally obscured by photos,
 
 
 
-And that was just the big front room. The two bedrooms were equally cluttered, even the  bathroom hadn't escaped becoming a repository for decorative knick-knacks, and the utility room leading out to the back door was home to a drift of koozies, a stack of tackle boxes, and a gun locker layered in stickers and whatever magnets hadn't been able to find a home either on the fridge in the kitchen or the freezers in the garage.
+And that was just the big front room. The two bedrooms were equally cluttered, even the bathroom hadn't escaped becoming a repository for decorative knick-knacks, and the utility room leading out to the back door was home to a drift of koozies, a stack of tackle boxes, and a gun locker layered in stickers and whatever magnets hadn't been able to find a home either on the fridge in the kitchen or the freezers in the garage.
 
 
 
@@ -2437,7 +2437,7 @@ Clearbrook post office was pretty much unchanged from the last time he'd seen it
 
 
 
-He parked up, headed indoors, and found it thankfully empty. The postal worker was a rotund middle-aged woman with candy-red dyed hair in a tight ponytail and enormous spectacles, who gave him a welcoming smile.  Her name tag identified her as 'Caroline'
+He parked up, headed indoors, and found it thankfully empty. The postal worker was a rotund middle-aged woman with candy-red dyed hair in a tight ponytail and enormous spectacles, who gave him a welcoming smile. Her name tag identified her as 'Caroline'
 
 
 
@@ -2735,7 +2735,7 @@ Kevin scolded himself the second he said that. That exact same angle was what ha
 
 He led them both inside. "‘Scuse the mess."
 
-*‘Mess’* was both an understatement, and uncharitable. There was more mail than Kevin would have believed, and it was all over *everything*. The kitchen worksurfaces, the island, the coffee  table and three barstools had all been given over to it. Still, there was organization involved. The papers were neatly stacked and arranged and there was clearly some kind of filing system involved, an attempt to bring order to chaos.
+*‘Mess’* was both an understatement, and uncharitable. There was more mail than Kevin would have believed, and it was all over *everything*. The kitchen worksurfaces, the island, the coffee table and three barstools had all been given over to it. Still, there was organization involved. The papers were neatly stacked and arranged and there was clearly some kind of filing system involved, an attempt to bring order to chaos.
 
 "Jeez. That’s a lot of paper."
 
@@ -3843,7 +3843,7 @@ Baseball thought before replying. "Just in my head." he decided. “It’s your 
 
 "Heh. Women like Technical Sergeant Kovač, or Corporal Deacon, or Major Jackson I guess."
 
-"I don’t know them." Ayma said. “Well, unless you mean the Major Jackson who was  your species’ first FTL pilot?”
+"I don’t know them." Ayma said. “Well, unless you mean the Major Jackson who was your species’ first FTL pilot?”
 
 "Yeah, she’s working with Public Relations a lot these days, and she and Major Powell are a thing. Not sure how much of a thing, but a thing. She’s pretty cool. "
 
@@ -4203,7 +4203,7 @@ Sergeant Coombes was getting nervous. *"There’s that guy again… Orange Five.
 
 There was silence and a couple of clicks on the line - Thomson must have been walking past civilians and unable to speak. Some seconds later, he was able to reply. *"Looks a lot like.”*
 
-Vinther glanced over to where Staff Sergeant Walsh, their "intel weenie", was sat behind him in the nondescript van they’d parked a hundred yards or so from the suspicious site. The description was a joke and a farcical one: Walsh was a Combat Controller with  Duty and Secondary AFSCs in ops intel. He’d been forced out of the early SOR highway by an injury, making him by far the biggest guy on the operation. Not SOR-big, but still a large, strong dude, with an even larger, stronger brain.
+Vinther glanced over to where Staff Sergeant Walsh, their "intel weenie", was sat behind him in the nondescript van they’d parked a hundred yards or so from the suspicious site. The description was a joke and a farcical one: Walsh was a Combat Controller with Duty and Secondary AFSCs in ops intel. He’d been forced out of the early SOR highway by an injury, making him by far the biggest guy on the operation. Not SOR-big, but still a large, strong dude, with an even larger, stronger brain.
 
 Walsh got on the line himself. "BOUNCER, DRINKIN’ BUDDY. Scale of one to ten?"
 
@@ -4515,7 +4515,7 @@ The separator finished draining, and she slipped a hand deep into the engine to 
 
 "Where’d you learn how to do this?" Kevin asked her.
 
-"Not being a fucking little girl about getting my hands dirty?" She asked. “This isn’t rocket science. These things are made to be maintained...Here.” She popped a filthy air filter out of its housing and shoved it into Kevin’s chest.  “Replacement’s in the garage.”
+"Not being a fucking little girl about getting my hands dirty?" She asked. “This isn’t rocket science. These things are made to be maintained...Here.” She popped a filthy air filter out of its housing and shoved it into Kevin’s chest. “Replacement’s in the garage.”
 
 Brushing dirt out of his shirt, Kevin followed instructions and head for the garage. Etsicitty had vanished in there and was cleaning and sharpening his knife.
 
@@ -4605,7 +4605,7 @@ She gave him a flatly skeptical stare. "A guy like you believes in true love?"
 
 "Right." Kevin fetched a change of clothes from the trunk as she headed indoors. The screen door did its banshee impersonation behind him as Allison vanished into a bedroom.
 
-Things had tidied up nicely inside even in the two days since he’d last visited, and he took a quick tour. Kevin didn’t believe in *Feng Shui*, but rearranging the furniture had done a lot for opening the place up and making it feel brighter, now that the big glass doors out onto the deck weren’t half-blocked by the television and the antediluvian floral-print heavy curtains had been taken down.  There were dark patches on the walls where some of the infinite decorations had hung for decades, protecting the pigment. The incandescent bulbs were gone, replaced with modern smart LED bulbs. Already the place looked less… kitschy.
+Things had tidied up nicely inside even in the two days since he’d last visited, and he took a quick tour. Kevin didn’t believe in *Feng Shui*, but rearranging the furniture had done a lot for opening the place up and making it feel brighter, now that the big glass doors out onto the deck weren’t half-blocked by the television and the antediluvian floral-print heavy curtains had been taken down. There were dark patches on the walls where some of the infinite decorations had hung for decades, protecting the pigment. The incandescent bulbs were gone, replaced with modern smart LED bulbs. Already the place looked less… kitschy.
 
 "Hey, look, I said we’d win this thing for you…" he called out “But I wouldn’t get too premature on the decorating if I was y’all. You haven’t even signed up yet!”
 
@@ -4685,7 +4685,7 @@ Julian shrugged. "By and large? Earth is nastier."
 
 "Nightmare’s a thirteen, though. We’re ‘just’ a twelve."
 
-"Yeah, but the Corti created the planetary classification system, or at least they refined the algorithm, and I guess it inherited some of their prejudices." Julian said. “The big-headed little fucks don’t  like eccentric orbits or whatever, and they didn’t really see that when you’ve got a predictable deep freeze cycle with a short summer, that’s going to put limits on what kind of life forms you get.”
+"Yeah, but the Corti created the planetary classification system, or at least they refined the algorithm, and I guess it inherited some of their prejudices." Julian said. “The big-headed little fucks don’t like eccentric orbits or whatever, and they didn’t really see that when you’ve got a predictable deep freeze cycle with a short summer, that’s going to put limits on what kind of life forms you get.”
 
 "Sure, in the *summer…*" He patted his hatchet. “Mangrabber vines and bombfruit and murderpigs and minizillas and don’t even get me fucking started on the Go-to-hell tree. THAT thing was a nasty surprise.”
 
@@ -4697,7 +4697,7 @@ He grinned. "And if you think that sounds outlandish? We’ve got plants right h
 
 "Come on, a Venus Flytrap couldn’t even hurt a Corti." Kevin said.
 
-"Nope, and that’s what made the Corti decide Nightmare deserves a thirteen and Mother Earth only got a twelve. But what makes her *way* nastier is the *diseases*."  Julian nodded. “Cut yourself on Earth, and you’d better sterilize that wound in case you get a staph infection or something. Sometimes, you can sterilize it and get an infection anyway. You gotta boil the water, cook the meat, keep yourself wrapped up warm…”
+"Nope, and that’s what made the Corti decide Nightmare deserves a thirteen and Mother Earth only got a twelve. But what makes her *way* nastier is the *diseases*." Julian nodded. “Cut yourself on Earth, and you’d better sterilize that wound in case you get a staph infection or something. Sometimes, you can sterilize it and get an infection anyway. You gotta boil the water, cook the meat, keep yourself wrapped up warm…”
 
 He took another sip of water, and a thought seemed to occur to him as he was swallowing. "Hell, do you know how much disease avoidance and control is built into EVERYONE’s daily lives? Like, we don’t even notice it! Fuck, there’s a whole aisle in the supermarkets for soap, and another one for scrubbing the bacteria out of your mouth that’d eat your teeth otherwise. Then there’s the one for household cleaning products, bleach, mold killer, the fact that every single food item in that store has an expiry date, the soap and sinks for people to wash their hands in the bathroom, the tissues for covering your mouth and blowing your nose, bug spray and zappers because insects are a disease vector...Hell, there’s a whole industry and market sector in scented soaps because we have to scrub ourselves everyday or else stink of bacterial action in our skin, so we may as well put some perfume in there so we can wind up smelling pretty afterwards…"
 
@@ -4824,7 +4824,7 @@ Bedu mentally chastised himself. Like Hzzkvk, he had become over-excited at the 
 
 To have one such joke slip past his *own* critical faculties was vexsome. Mwrmwrwk was troublingly intelligent, and that was never a fact calculated to leave a Corti shipmaster feeling well at-ease.
 
-She was, however, an exceptional pilot, and thoroughly worth the irritation. Hzzkvk was… *less* worth the irritation, though he performed his tasks with a commendable diligence.  
+She was, however, an exceptional pilot, and thoroughly worth the irritation. Hzzkvk was… *less* worth the irritation, though he performed his tasks with a commendable diligence.
 
 "How soon until we land?" he asked.
 
@@ -4848,7 +4848,7 @@ There was a thump as Mwrmwrwk came down the ramp, then reared onto her hindfeet 
 
 Kwmbwrw were deceptively large. When they were on all fours (which was most of the time) they were only as high at the shoulder as a tall Gaoian, and that meant that sometimes their real size could be overlooked. They were long-limbed, covered in curly chocolate fur with a long tail that was usually held coiled between their legs and almost nothing in the way of a neck.
 
-Mwrmwrwk was, apparently, rather plain and masculine by her species’ standards, though Bedu would have been hard-pressed to know his pilot from a stunning exemplar of Kwmbwrw femininity. She had a single large, brown eye riding high above a  wide and flat mouth, with two more eyes further round the sides of her head for peripheral vision. This arrangement provided her with two zones of narrow binocular vision and as a result, when working on something that required her fine attention she had to turn her head away from it and squint.
+Mwrmwrwk was, apparently, rather plain and masculine by her species’ standards, though Bedu would have been hard-pressed to know his pilot from a stunning exemplar of Kwmbwrw femininity. She had a single large, brown eye riding high above a wide and flat mouth, with two more eyes further round the sides of her head for peripheral vision. This arrangement provided her with two zones of narrow binocular vision and as a result, when working on something that required her fine attention she had to turn her head away from it and squint.
 
 As she reared up, Mwrmwrwk’s tail unfolded to its full length, held rigid behind her for counterbalance. Standing upright like that, she was taller than even a Qinis or Rrrtktktkp’ch, but that height was all limbs. Next to their extraordinary length, her body was almost comically short and keg-shaped.
 
@@ -4885,7 +4885,7 @@ ___
 
 ***Kevin Jenkins***
 
-"So. The deal on the table as it stands is this: The Byron Group is offering the three of you employment as crew aboard our next extrasolar exploration vessel. You’d be looking at a two year contract - six months of training and then eighteen months of mission time, with a possibility of renewal or transfer to a different post inside the group after the ship’s mission is complete. Naturally, this all comes with sponsoring any work visas, citizenship applications, whatever. In addition to payment and employee benefits, the Group is offering to pay all expenses and provide legal expertise to help you through the dispute over this house and land, and, if that dispute is resolved in your favor, to install a caretaker who will tend to the property in your absence."  
+"So. The deal on the table as it stands is this: The Byron Group is offering the three of you employment as crew aboard our next extrasolar exploration vessel. You’d be looking at a two year contract - six months of training and then eighteen months of mission time, with a possibility of renewal or transfer to a different post inside the group after the ship’s mission is complete. Naturally, this all comes with sponsoring any work visas, citizenship applications, whatever. In addition to payment and employee benefits, the Group is offering to pay all expenses and provide legal expertise to help you through the dispute over this house and land, and, if that dispute is resolved in your favor, to install a caretaker who will tend to the property in your absence."
 
 Kevin pushed the two copies he’d prepared of the agreement across the table, along with his own copy for Xiù. He’d memorized it in any case.
 
@@ -4977,13 +4977,13 @@ For now, they shied away from Jenkins’ car and the cone of dust it left behind
 
 It was a peaceful moment, that he punctuated with a deep cleansing breath before turning toward the woodpile. The wood wasn’t quite ready yet, but it would burn if he built the fire properly. Building a fire with green wood was a skill that had kept him from freezing to death on Nightmare, especially after his first run-in with Go-to-hell tree firewood.
 
-The fire was about ready to light when he heard the screen door squeal - for the umpteenth time he reminded himself to oil that spring -  and Allison smiled at him as she padded barefoot down the concrete steps in short denim and one of his plaid shirts.
+The fire was about ready to light when he heard the screen door squeal - for the umpteenth time he reminded himself to oil that spring - and Allison smiled at him as she padded barefoot down the concrete steps in short denim and one of his plaid shirts.
 
 They greeted each other with a kiss. "How’re we doing?" Julian asked.
 
 "Pretty good." Allison smiled, and sat down on the log next to the firepit. “Though he’s right, I’d rather have said yes or no today, you know?”
 
-"Mm."  Julian agreed. He fished his firestriker out of a pocket and stooped. “I guess whatever Xiù wants to talk about, it must be kinda important.”
+"Mm." Julian agreed. He fished his firestriker out of a pocket and stooped. “I guess whatever Xiù wants to talk about, it must be kinda important.”
 
 Long years of practice meant that he had the tinder going first time, and he carefully caged it in thin kindling, then thick kindling, and finally a tent of split firewood. One well-aimed breath into the glowing heart later, and he had a lit fire.
 
@@ -5189,7 +5189,7 @@ She watched as they cooled down into smiles, pressing their noses and foreheads 
 
 "Uh… hey." Julian managed. “You found the bed okay?”
 
-"There’s only two, Julian." Xiù told him, smiling. She could *hear* her own heartbeat, in her chest, in her ears and in her throat, punctuating the anticipation in her stomach. She took a breath and committed.  “And, um… I love you guys too.”
+"There’s only two, Julian." Xiù told him, smiling. She could *hear* her own heartbeat, in her chest, in her ears and in her throat, punctuating the anticipation in her stomach. She took a breath and committed. “And, um… I love you guys too.”
 
 Allison and Julian looked at each other. Then back at her. Then back to each other again.
 

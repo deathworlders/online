@@ -339,7 +339,7 @@ There was a pause filled with the hiss of solar radiation and nothing more.
 
 "Copy 172, bay three."
 
-Rylee shook her head in bemusement as she rounded the station's bulk and lined up on her assigned bay. In fact, of all the manoeuvres she had rehearsed in the simulator before *Pandora* was even built, manually landing on an enclosed flight deck aboard a steadily-rotating space station had been one of the first and easiest, and that had been when they still thought she'd have thrusters that required fuel.  Nowadays, with an unlimited thrust budget, it was even simpler.
+Rylee shook her head in bemusement as she rounded the station's bulk and lined up on her assigned bay. In fact, of all the manoeuvres she had rehearsed in the simulator before *Pandora* was even built, manually landing on an enclosed flight deck aboard a steadily-rotating space station had been one of the first and easiest, and that had been when they still thought she'd have thrusters that required fuel. Nowadays, with an unlimited thrust budget, it was even simpler.
 
 Match rotation, nose forward, probe forward with ESFALS and haul herself forward and gently on to the deck. Frankly, she doubted that the computer could have done it any smoother.
 

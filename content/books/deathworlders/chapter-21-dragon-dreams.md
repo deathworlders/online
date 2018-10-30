@@ -37,7 +37,7 @@ Xiù frowned at her. "Are you *sure*?"
 
 Allison nodded. "This thing's really working. I was so woozy last night, and now I'm feeling sharp again."
 
-"Yeah but..." Xiù's smile was mischievous  as she indicated the medical contraption that was clamped around her head.  "You look like you're having your hair permed."
+"Yeah but..." Xiù's smile was mischievous as she indicated the medical contraption that was clamped around her head. "You look like you're having your hair permed."
 
 Allison pantomimed dismay. "Oh God, get me out of this thing! I don't want to look like my Mom!"
 
@@ -65,7 +65,7 @@ The deep therapy machine beeped in protest as Allison tried to lean forward and 
 
 "Yeah?"
 
-"Mmhmm. It'll be her special *Paigu bazaifan*, with *Doufuhua* for dessert."  She drifted off into a culinary haze. "She thinks they're my favorites..."
+"Mmhmm. It'll be her special *Paigu bazaifan*, with *Doufuhua* for dessert." She drifted off into a culinary haze. "She thinks they're my favorites..."
 
 Allison laughed. "She *thinks*?"
 
@@ -277,7 +277,7 @@ Lewis aimed a triumphant smirk at Kirk. "See?"
 
 Julian's expression was patient in a *'you're being kinda dumb*' way. "Well, I mean... we *are* investigating why ancient species go extinct..." he pointed out.
 
-Lewis paused "...Ah. Yeah. Right."  He frowned at the *Huh.* "Okay, yeah, maybe lock that thing up somewhere."
+Lewis paused "...Ah. Yeah. Right." He frowned at the *Huh.* "Okay, yeah, maybe lock that thing up somewhere."
 
 "Allison can look after it." Kirk decided.
 
@@ -595,7 +595,7 @@ Xiù ducked her head sheepishly, apparently failing to notice that the gesture w
 
 "Too true." Allison selected a shred of white fish-flesh from the plate and sampled it.
 
-A second later, half the fish was on her plate, prompting a chuckle from Amir.  "That was my reaction." he said.
+A second later, half the fish was on her plate, prompting a chuckle from Amir. "That was my reaction." he said.
 
 *"Damn* girl! *Mff*!"
 
@@ -1237,7 +1237,7 @@ Julian glanced back down the bridge access corridor to make sure Allison wasn't 
 
 "That's what it is, though. Infatuation, if you prefer. And Lewis is right, it's not fair on either of them."
 
-"It's not exactly fucking fair on me!" Julian objected.  "I'm not doing this deliberately!"
+"It's not exactly fucking fair on me!" Julian objected. "I'm not doing this deliberately!"
 
 "She stares at him too, Lewis." Amir pointed out.
 
@@ -1689,7 +1689,7 @@ Xiù giggled. "Good boy." She'd clearly already relaxed considerably after just 
 
 "So, what are your picks?" Allison urged him, pouring a glass each for herself and Xiù.
 
-He examined the stack of Disney movies. "Uh...  *Dumbo...*" He said, picking one they hadn't watched yet.
+He examined the stack of Disney movies. "Uh... *Dumbo...*" He said, picking one they hadn't watched yet.
 
 "Ugh, not *Dumbo*. I hate those pink elephants." Allison objected. Julian threw the disc back onto the stack.
 
@@ -1819,7 +1819,7 @@ He laughed, but extracted his arm from under her head. "Yes ma'am."
 
 ___
 
-*Xiù is sitting by a lake. Or by a river, maybe: the details are irrelevant. The sun is rising blue and cold over a landscape of  white-foliaged trees and swirling distant shapes that might be birds, or maybe eels. She is wearing long skirts of white cloth. The mist should be chilly but she feels quite warm, watching a green fish swirl and mouth lazily in circles by the shore.*
+*Xiù is sitting by a lake. Or by a river, maybe: the details are irrelevant. The sun is rising blue and cold over a landscape of white-foliaged trees and swirling distant shapes that might be birds, or maybe eels. She is wearing long skirts of white cloth. The mist should be chilly but she feels quite warm, watching a green fish swirl and mouth lazily in circles by the shore.*
 
 *She catches it, reaching into the stream and pulling it out. It flips and flails in her hands and, to calm it, she opens it to page fifty-six and tries to read what is printed there, but she can't make out the words.*
 
@@ -1833,7 +1833,7 @@ ___
 
 *She steps forward onto his fingertips, and he picks her up, and up, and up, past his knees, past a penis the size of a skyscraper, past square miles of muscular sculpture, to his face.*
 
-*She speaks to him, but can't remember the words, or even what she intends to say.  She turns around, thinking about what to tell him, how to communicate her feelings, and looks over the side of the boat she's on, double-checking that her reflection is still human.*
+*She speaks to him, but can't remember the words, or even what she intends to say. She turns around, thinking about what to tell him, how to communicate her feelings, and looks over the side of the boat she's on, double-checking that her reflection is still human.*
 
 *The stone man comes up beside her and takes her hand.*
 
@@ -2005,7 +2005,7 @@ Something smashed a hole straight through the ceiling and out the deck. Not a bi
 
 Without it the lighting, the gravity, and the atmospheric containment fields all failed, and that little hole got abruptly wider as all of their precious atmosphere tried to bully its way out.
 
-It wasn't a wind. Wind wasn't an adequate word.  Instead, the last sound those air molecules would ever carry was the rising howl of their own escape, and Xiù's mortal shriek as the maelstrom decompression tore her loose and threw her toward infinity.
+It wasn't a wind. Wind wasn't an adequate word. Instead, the last sound those air molecules would ever carry was the rising howl of their own escape, and Xiù's mortal shriek as the maelstrom decompression tore her loose and threw her toward infinity.
 
 Allison couldn't let go of the handrail without being dragged away as well, but she kicked out and with a frantic speed and precision that no snake had ever managed, Xiù snatched at and grabbed her ankle. From Allison's expression the rescue clearly cost her a wrenched knee, but that was the least of their trouble right now: The rescue was only a temporary one. As the last of the air fled, their lives were now measured in seconds, if that.
 
