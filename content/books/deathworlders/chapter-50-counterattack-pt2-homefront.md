@@ -50,10 +50,11 @@ I do have one question for you, though.
 
 <div style="text-align: right">By all means.</div>
 
-You have to know that AEC won’t be happy about this.    
-They’ll view it as an act of war.    
-Doesn’t that take peace off the table?    
-I thought lasting peace with humanity was your end goal?
+You have to know that AEC won’t be
+happy about this. They’ll view it    
+as an act of war. Doesn’t that take    
+peace off the table? I thought lasting    
+peace with humanity was your end goal?
 
 <div style="text-align: right">It is. I firmly believe that your species and</div>    
 <div style="text-align: right"> mine are capable of peaceful coexistence.</div>    
@@ -62,8 +63,10 @@ I thought lasting peace with humanity was your end goal?
 <div style="text-align: right">That changes things. We must act decisively.</div>
 
 God.    
-You’re right, that does change things. It changes everything!    
-They’re playing with forces that could doom us all    
+You’re right, that does change things.     
+It changes everything!    
+They’re playing with forces that could   
+doom us all    
 
 <div style="text-align: right">Exactly.</div>
 
@@ -79,8 +82,9 @@ I wouldn’t talk.
 <div style="text-align: right">Trust me. You’d talk. Much sooner than you think, too.</div>    
 <div style="text-align: right">Please: don’t worry about it. Trust me.</div>    
 
-...Fine. No further questions. I’ll do my best to    
-ensure we achieve the next window.    
+...Fine. No further questions.
+I’ll do my best to ensure we    
+achieve the next window.    
 
 <div style="text-align: right">I’ll adjust the timetable at my end. Thank you.</div>
 
