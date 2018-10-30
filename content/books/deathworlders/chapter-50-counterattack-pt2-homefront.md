@@ -55,7 +55,7 @@ They’ll view it as an act of war.
 Doesn’t that take peace off the table?    
 I thought lasting peace with humanity was your end goal?
 
-<div style="text-align: right">It is. I firmly believe thatyour species and</div>    
+<div style="text-align: right">It is. I firmly believe that your species and</div>    
 <div style="text-align: right"> mine are capable of peaceful coexistence.</div>    
 <div style="text-align: right">But AEC are developing von-neumann probes,</div>    
 <div style="text-align: right">and so are the Hunters</div>    
