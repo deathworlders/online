@@ -10,7 +10,8 @@ author: "Philip R. Johnson (Hambone)"
 
 ***Six/Cynosure***
 
-You were right. There were unexpected setbacks.
+You were right.     
+There were unexpected setbacks.
 
 <div style="text-align: right">Are you still on target?</div>
 
@@ -50,7 +51,7 @@ I do have one question for you, though.
 
 <div style="text-align: right">By all means.</div>
 
-You have to know that AEC won’t be
+You have to know that AEC won’t be    
 happy about this. They’ll view it    
 as an act of war. Doesn’t that take    
 peace off the table? I thought lasting    
