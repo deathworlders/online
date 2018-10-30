@@ -83,7 +83,7 @@ I wouldn’t talk.
 <div style="text-align: right">Trust me. You’d talk. Much sooner than you think, too.</div>    
 <div style="text-align: right">Please: don’t worry about it. Trust me.</div>    
 
-...Fine. No further questions.
+...Fine. No further questions.    
 I’ll do my best to ensure we    
 achieve the next window.    
 
