@@ -1468,7 +1468,7 @@ Adam scooted a bit closer. “…Firth?”
 
 Firth palmed the back of Adam’s head and pulled him tight. “I know.”
 
-They held for a long moment longer. The surprise came when ‘Horse stood up and hit the button that returned the gravity to Earth normal. *That* was a weight of Firth’s battered shoulders, and he groaned as normal Gs actually left him feeling nearly weightless.
+They held for a long moment longer. The surprise came when ‘Horse stood up and hit the button that returned the gravity to Earth normal. *That* was a weight off Firth’s battered shoulders, and he groaned as normal Gs actually left him feeling nearly weightless.
 
 “What...the fuck you turn it up to? Fuckin’ *Jupiter?!”*
 
