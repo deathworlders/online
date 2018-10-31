@@ -3361,4 +3361,4 @@ The author does not automatically share or endorse the opinions and behavior of 
 
 Thank you for reading!
 
-*The Deathworlders* Chapter 50 will continue in: "Counterattack pt2. - Consolidate"
+*The Deathworlders* Chapter 50 will continue in: "Counterattack pt2. - Homefront"
