@@ -718,8 +718,8 @@ A separate channel opened up. A private and heavily encrypted one.
 
 The Entity didn’t have to choose that response deliberately, it was entirely the consequential emotion which followed from that news. Hierarchy code phrases were simple enough to understand once an agent had been briefed on them, and *these* codes were almost as bad as it got.
 
-*Expose:* Render the planet vulnerable to attack.
-*Cleanse:* Invite a terminal catastrophe to befall the planet and effectively destroy it.
+*Expose:* Render the planet vulnerable to attack.  
+*Cleanse:* Invite a terminal catastrophe to befall the planet and effectively destroy it.  
 *Regenerate:* Regrow the species from its surviving diaspora along lines more agreeable to the Hierarchy’s agenda.
 
 Then there were Thirteen’s individual orders. He had been ordered to control the flow of information into the galactic archives about this incident and ensure that the history books---especially the Gaoian ones---would squarely lay the blame for Gao’s invasion and demise at the feet of the Hierarchy’s enemies.
@@ -2225,7 +2225,7 @@ Tick.
 
 “And these are...independent of the planetary communications network.”
 
-Tick.
+Tick.  
 Skull.
 
 “Is there any way to neutralize them?”
@@ -2240,8 +2240,8 @@ Tick.
 
 “How?”
 
-Radio mast.
-Wormhole.
+Radio mast.  
+Wormhole.  
 ...Bug spray?
 
 Knight gave up on that one. “...Any idea what that means?” he asked.
@@ -2262,19 +2262,19 @@ Question mark.
 
 “Our orbital assets need the ground defence stations offline.”
 
-Loading icon.
-Ellipsis.
+Loading icon.  
+Ellipsis.  
 Tick.
 
-Planet.
-Radio mast.
+Planet.  
+Radio mast.  
 Explosion.
 
 Plus sign.
 
-A word, now: *\<Lavmuy>.*
-Space shuttle.
-A wormhole and a test tube.
+A word, now: *\<Lavmuy>.*  
+Space shuttle.  
+A wormhole and a test tube.  
 A wormhole and bug spray.
 
 An equation. A long, complicated and impenetrable one that Knight simply wasn’t equipped to understand.
