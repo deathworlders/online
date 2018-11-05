@@ -557,7 +557,7 @@ Landry simply nodded. “Right.”
 
 Behind him, the Weaver’s ramp dropped and all the noise they’d been missing throughout the flight came pounding into fill their ears.
 
-It was a simple enough landing. The farm had a basic compacted-dirt helipad ready and waiting for them, but the Weavers set down in the field some distance away where huge round bales of the local version of hay gave them plenty of concealment.  They’d built a decent defensive wall, too. Banked earth ramparts, good fields of fire. Not bad at all for workin’ with just what they could scrounge up in the field.
+It was a simple enough landing. The farm had a basic compacted-dirt helipad ready and waiting for them, but the Weavers set down in the field some distance away where huge round bales of the local version of hay gave them plenty of concealment. They’d built a decent defensive wall, too. Banked earth ramparts, good fields of fire. Not bad at all for workin’ with just what they could scrounge up in the field.
 
 They were challenged correctly, responded appropriately, invited to enter. Michael was on the entry team along with his sergeant, Fiin, Daar, one of their Brothers, and the lieutenant. They found the camp’s occupants waiting for them in a posture of surrender---the Clanless Gaoians were all standing four-pawed, while the humans were lined up against the farmhouse with their hands pressed to the wall.
 
@@ -627,7 +627,7 @@ Behind him, the litters and their patients were loaded into the field jump array
 
 “‘Ey up, mate. Any chance I could bum a fag?”
 
-Michael eyed the Brit suspiciously. The man was a Royal Marines corporal with exhausted lines all over his face and a week of beard growth, who rolled his eyes and translated after a second. “Have you got any cigarettes?”  he asked. “ I’m fuckin’ gaspin’ for a smoke.”
+Michael eyed the Brit suspiciously. The man was a Royal Marines corporal with exhausted lines all over his face and a week of beard growth, who rolled his eyes and translated after a second. “Have you got any cigarettes?” he asked. “ I’m fuckin’ gaspin’ for a smoke.”
 
 “I got a dip…” Michael offered.
 
@@ -923,7 +923,7 @@ Everyone around the equipment pile laughed and nodded---Murray’s impression of
 
 More laughter, but there was a sad edge to it. Murray sighed and stared through the rifle he was cleaning. “...I’m gonny miss the big randy bastard…” he finished, quietly.
 
-Costello nodded.  He’d *relied* on Vandenberg in a big way, and learned a lot. Going forward without him was going to feel like taking the training wheels off.
+Costello nodded. He’d *relied* on Vandenberg in a big way, and learned a lot. Going forward without him was going to feel like taking the training wheels off.
 
 By common agreement, his remains were lying in state in the cold locker round the back of the facility where a few people were still waiting to go to their final rest. They wanted the techs to be there when they sent him home.
 
@@ -1223,7 +1223,7 @@ A borderline infinity of it, mostly irrelevant. The philosophy and culture of th
 
 But that was not **0001**’s purpose. **0001** had only one purpose: it was the ultimate referendum.
 
-Take all constituents. Amalgamate their knowledge, insight, experience and intelligence. Examine the data from all angles. *Know* the arguments, rather than simply hearing them. Democracy by gestalt. The republic without borders, even between self.  Not a hive mind, but a single mind built from trillions. One that could survey any problem, no matter how intricate, and act decisively.
+Take all constituents. Amalgamate their knowledge, insight, experience and intelligence. Examine the data from all angles. *Know* the arguments, rather than simply hearing them. Democracy by gestalt. The republic without borders, even between self. Not a hive mind, but a single mind built from trillions. One that could survey any problem, no matter how intricate, and act decisively.
 
 It looked at the state of matterspace operations and saw...a mess. A mess with no good solutions, either. The Hierarchy had utterly failed, and the meat-based sapients had through their wormhole suppression field locked the door on any kind of override which might halt this madness. Parlay was now impossible, freeing the biodrones was no longer an option.
 

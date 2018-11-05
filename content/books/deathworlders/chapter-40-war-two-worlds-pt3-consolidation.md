@@ -30,7 +30,7 @@ Marty turned away from the radio. Wilde gave her a nod. “…Ma’am,” he add
 
 “Well, we’re still just about on the right side of completely fucked. I was about to suggest we should send Williams and Hayes out to reccy the area.”
 
-Only a Brit could turn *‘just about on the right side of completely fucked’* into an optimistic sentiment. They *ought* to be dead, given that one of the Hunters had been latched onto the hull only meters away when they started self-destructing. Wilde and his Marines had kicked a legendary degree of ass in their  assault on the swarmship though, helped by how badly the Hunters had been burned by the SOR techs.
+Only a Brit could turn *‘just about on the right side of completely fucked’* into an optimistic sentiment. They *ought* to be dead, given that one of the Hunters had been latched onto the hull only meters away when they started self-destructing. Wilde and his Marines had kicked a legendary degree of ass in their assault on the swarmship though, helped by how badly the Hunters had been burned by the SOR techs.
 
 Marty was kinda proud of that. She’d had a hand in forging their own survival. It had made all the difference, and the swarmship latched to the hull meters away from her hadn’t, in fact, exploded.
 
@@ -68,7 +68,7 @@ Wilde grinned at that and nodded, clearly approving.
 
 Marty rubbed her hands together for a moment, partly because they were threatening to shake but mostly because they were cold. She’d known Gao was a cold planet, but allegedly it was late spring locally. She doubted it was even fifty degrees.
 
-She closed her tablet’s cover and hooked it back onto her gear, among everything else she was carrying.  She wished some of that load could be armor, right now she felt exposed and vulnerable. But there just hadn’t been *time.*
+She closed her tablet’s cover and hooked it back onto her gear, among everything else she was carrying. She wished some of that load could be armor, right now she felt exposed and vulnerable. But there just hadn’t been *time.*
 
 At least her techs were mostly handling it fine. Like a well-oiled machine they’d rolled the pill-shaped escape vehicle back into its “upright” position and formed a human chain to empty out its small but efficiently packed lockers and cargo spaces. They’d all taken some bruises and knocks---Marty herself had a scab crusting in her eyebrow and no idea how she’d earned it---but considering that they’d bailed out of a tumbling, burning, disintegrating wreck of a two hundred meter warship, they were in fine condition.
 
@@ -192,7 +192,7 @@ ___
 
 ***Champion Genshi of Whitecrest***
 
-Mayuy was---had been---a wealthy city. It was Clan Goldpaw’s jewel after all, their hub, their throne.  Any city that had been at the crossroads of so many different avenues for trade over the centuries couldn’t be anything less.
+Mayuy was---had been---a wealthy city. It was Clan Goldpaw’s jewel after all, their hub, their throne. Any city that had been at the crossroads of so many different avenues for trade over the centuries couldn’t be anything less.
 
 Three rivers and their associated canals flowed through it, into a bay that was just the most perfect natural harbor. To the north-west and south, the land was high enough above sea level to avoid even the fiercest weather, and firm enough for straight, wide roads that had stood there since before the great reformation.
 
@@ -374,7 +374,7 @@ Finally, Arés seemed satisfied. “…Seems okay,” he grunted, dubiously. “
 
 “Fine, fine. Are you gonna go find Dex now?”
 
-Arés smiled, “Yessir.” He nodded---there was no saluting “downrange,” especially not with known sniper activity in the area---grabbed a bag of his stomach-turning high-energy food ‘slurry,’  bounced off and left Costello alone with his thoughts.
+Arés smiled, “Yessir.” He nodded---there was no saluting “downrange,” especially not with known sniper activity in the area---grabbed a bag of his stomach-turning high-energy food ‘slurry,’ bounced off and left Costello alone with his thoughts.
 
 There was a thump felt through the soles of his feet rather than heard, and the sound of yet another Weaver firing up its thrusters to lift itself out of the jump array. They were up to four arrays now, each fed by a fusion plant that alone could have kept a small rural county powered back on Earth, and each one was bringing through trucks, men, planes, food, medicine, ammunition, beds, and latrines.
 
@@ -1111,22 +1111,22 @@ Xiù’s heart leapt into her mouth. She abandoned the eggs and dashed to Alliso
 
 “Read!” Allison thrust the tablet into her hands.
 
-	F 330142Z-CIM SEP    
-	FM DUCKTAPE/ducktape@sharman.mod.gov.uk.smil//    
-	TO MISFIT/bgev11@ships.byron.scom//    
-	INFO STAINLESS/stainless@sharman.mod.gov.uk.smil//    
+	F 330142Z-CIM SEP
+	FM DUCKTAPE/ducktape@sharman.mod.gov.uk.smil//
+	TO MISFIT/bgev11@ships.byron.scom//
+	INFO STAINLESS/stainless@sharman.mod.gov.uk.smil//
 
 	T O P   S E C R E T  SAR-BROKEN-STATUE DEEP-RELIC
-	SUBJ/(U) STATUS UPDATE-AKYAWENTUO//    
+	SUBJ/(U) STATUS UPDATE-AKYAWENTUO//
 
-	► (C//SAR-BS) Situation now resolved. BIG HOTEL presence nullified, planet now believed to be secure. PLAYBOY and others are well.    
-	►     
-	► (TS//SAR-BS-DR) To properly secure the system, we require a FOOTBALL be deployed to the Akyawentuo L2 stellar-planetary lagrange point. Your mission on return will be to effect this deployment under Ten’Gewek witness. Please record the moment for future posterity and make certain the People understand the ramifications. A combined briefing from the Department of State and the Foreign Office is included. As you are the extant experts on Ten’Gewek language and culture, you should translate as appropriate.    
-	►    
-	►(U//FOUO) As this is an opportunity for interspecies diplomacy, we are preparing a courtesy package with food, educational material, and other such amenities as suggested by Professor Hurt. See enclosed list and amend as appropriate.  
-	►    
+	► (C//SAR-BS) Situation now resolved. BIG HOTEL presence nullified, planet now believed to be secure. PLAYBOY and others are well.
+	► 
+	► (TS//SAR-BS-DR) To properly secure the system, we require a FOOTBALL be deployed to the Akyawentuo L2 stellar-planetary lagrange point. Your mission on return will be to effect this deployment under Ten’Gewek witness. Please record the moment for future posterity and make certain the People understand the ramifications. A combined briefing from the Department of State and the Foreign Office is included. As you are the extant experts on Ten’Gewek language and culture, you should translate as appropriate.
+	► 
+	► (U//FOUO) As this is an opportunity for interspecies diplomacy, we are preparing a courtesy package with food, educational material, and other such amenities as suggested by Professor Hurt. See enclosed list and amend as appropriate.
+	► 
 	► (U//FOUO) This mission has been coordinated with Byron Group and your services contracted in accordance with the FAR and the terms of our Agreement. See riders, attached.
-	►         
+	► 
 	► (U) Further questions can be directed to my office or to me directly, if the need is urgent. You are authorized prep time and funding for this mission immediately, to depart no more than 72-hours from the time of this message. Further instructions to follow shortly.
 
 Pure relief shot straight down Xiù’s back and knocked the knees out from under her just from reading the first paragraph. She didn’t really notice the way she sank to the ground as she read the rest, nor really absorbed anything else about the message on the first readthrough---All the *important* content was neatly contained in the five words of the third sentence.
@@ -1157,7 +1157,7 @@ For them, it was all about balance. Balance demanded a man Give the last of hims
 
 “You come,” Yan had said. “Vemet would want.”
 
-It was the Given-Man’s duty to transport the body up the mountain, on a litter bedded with young Ketta foliage. Vemet’s face had been painted with white and red clay, a wide leather strip had been tied over his eyes like a blindfold, and two more gently bound his ankles and wrists, arranging his body into a  dignified posture with his hands folded across his chest and his tail coiled between his feet.
+It was the Given-Man’s duty to transport the body up the mountain, on a litter bedded with young Ketta foliage. Vemet’s face had been painted with white and red clay, a wide leather strip had been tied over his eyes like a blindfold, and two more gently bound his ankles and wrists, arranging his body into a dignified posture with his hands folded across his chest and his tail coiled between his feet.
 
 It wasn’t a difficult hike, for Julian. The People were perfectly mobile on the ground, but they were far more comfortable in the trees and a human’s longer and straighter legs made easy work of terrain that they found exhausting.
 
@@ -1255,7 +1255,7 @@ He clapped Julian on the shoulder, leaving a powdery handprint, and left him to 
 
 Julian…hovered. He honestly had no idea *what* to think, or say. And as for a song…nothing came to mind. In the end he just closed his eyes and let the world soak in through his skin, his nose and his ears. The biggest presence was the wind: its fresh clean mountain scent, its rumble as it plucked at his tattered shorts, and its silky coolness down his arms and across his face.
 
-The last day or two dropped away like a bad dream, and when he opened his eyes he found himself thinking about the future again, rather than just living to see  the next minute. It felt like waking up.
+The last day or two dropped away like a bad dream, and when he opened his eyes he found himself thinking about the future again, rather than just living to see the next minute. It felt like waking up.
 
 He turned, and walked away. He wasn’t the first.
 ___
@@ -1335,7 +1335,7 @@ Daniel had spent enough time around rambling academics to recognize a man who li
 
 “Somebody who doesn’t really give a crap about your own ethnicity, perhaps?” Daniel suggested.
 
-Julian shook his head. “Nah. It’s…I don’t think of myself as indian. Never really did, ‘cuz firstly, which tribe? Ojibwe and Navajo aren’t *anything* alike.” He paced around a bit, slightly agitated.  “And secondly…we’re not supposed to talk about it. But a lot of the tribes are *broken.* Like, fundamentally. They’re basically under the BIA’s thumb and that…yeah. Sorry.”
+Julian shook his head. “Nah. It’s…I don’t think of myself as indian. Never really did, ‘cuz firstly, which tribe? Ojibwe and Navajo aren’t *anything* alike.” He paced around a bit, slightly agitated. “And secondly…we’re not supposed to talk about it. But a lot of the tribes are *broken.* Like, fundamentally. They’re basically under the BIA’s thumb and that…yeah. Sorry.”
 
 “Why?”
 
@@ -1353,7 +1353,7 @@ Julian looked at it, then shrugged again and sat down.“…This is gonna sound 
 
 “Ah. One of the *big* ones,” Daniel said sympathetically and sat down next to him.
 
-“Thing is, I’m pushin’ thirty.  Xiù an’ Al aren’t far behind me. And I’ve got this mission, and for the life of me I can’t see that I can do all the things I need to do all at once.”
+“Thing is, I’m pushin’ thirty. Xiù an’ Al aren’t far behind me. And I’ve got this mission, and for the life of me I can’t see that I can do all the things I need to do all at once.”
 
 “Oh?”
 
@@ -1407,7 +1407,7 @@ Julian rested his prosthetic foot on his opposite knee and thought about it for 
 
 “Nope, and this mission is why. But I’ll need to keep training as hard as I can so that I’ll eventually *compare* to their average man. That’s a lot of broscience…which hey, it’s fun! But…well. There’s more. They have rites. I know they involve drugs.”
 
-Daniel rubbed his palms together thoughtfully.  “So the metacontext here is that you’ve clearly thought *hard* about this and already made up your mind.”
+Daniel rubbed his palms together thoughtfully. “So the metacontext here is that you’ve clearly thought *hard* about this and already made up your mind.”
 
 “…Yeah. And what’s eating me is I don’t wanna do it. Or...I do, but I don’t wanna pay the price. After the last couple days, I…” Julian sighed. “I know what I *need* to do to keep their respect, and I know it’d basically involve throwing away…a lot. But if I *don’t* then I’m…I dunno. No better than the voyageurs. Or worse: They at least had no idea what they were doing.”
 
@@ -1417,7 +1417,7 @@ Daniel rubbed his palms together thoughtfully.  “So the metacontext here is th
 
 They sat thoughtfully for quite some time. Occasionally, one of the mourners from up the mountain would traipse past them, headed back toward the village and lost in their own thoughts. It was a thoughtful day. Judging from the big fire that had been lit down in the village, the drumming, singing and the generally pregnant air of potential debauchery building up among the People, however, the night was going to be far less cerebral.
 
-“So…” Daniel began, after turning his thoughts over in his head at some length. “The question is, what is our strategy for the People? Is the original plan dead? Do we have to be missionaries now?  Are we…guides to a strange new future? Or are we maybe the sages on the mountain that they have to go through many trials just to seek our wisdom?”
+“So…” Daniel began, after turning his thoughts over in his head at some length. “The question is, what is our strategy for the People? Is the original plan dead? Do we have to be missionaries now? Are we…guides to a strange new future? Or are we maybe the sages on the mountain that they have to go through many trials just to seek our wisdom?”
 
 Julian stared at him blankly for a moment, and then slowly a gentle, trollish grin spread across his face. “You…really do love the sound of your voice, don’t you?”
 
@@ -1547,7 +1547,7 @@ The reply floated back from the truck’s open rear window. “‘S’ a bit dra
 
 “Just cuddle up to Reesy for warmth, mate. Better yet, open the door: Let’s see what our friend out there does.”
 
-Hayes didn’t reply, but after some thumping and muffled cursing  the pickup’s door swung open.
+Hayes didn’t reply, but after some thumping and muffled cursing the pickup’s door swung open.
 
 Hayes waved a hand at Marty. “Now.”
 
@@ -1781,7 +1781,7 @@ An enterprising male like Yeego thrived in situations like that. While everyone 
 
 Life crystallized into simple facts. Facts like which courses of action were more likely to result in survival, both in the short term and the long term. Which was the foundation of all civilization, of course...and therein lay his course of action.
 
-If the civilization that had permitted his own livelihood was collapsing around their ears, then they needed a  *new* civilization. They needed stability, leadership, somebody who could fill them with confidence that tomorrow was going to have water, food, and willing females in it. Gaoians who didn’t have those things would swiftly abandon all pretense of civilized behavior until they were either dead, or had secured them.
+If the civilization that had permitted his own livelihood was collapsing around their ears, then they needed a *new* civilization. They needed stability, leadership, somebody who could fill them with confidence that tomorrow was going to have water, food, and willing females in it. Gaoians who didn’t have those things would swiftly abandon all pretense of civilized behavior until they were either dead, or had secured them.
 
 Problem the first: Yeego wasn’t exactly a fighter. He had his share of duelling scars, but he was a silverfur---distinguished and handsome to look at but not of much use in the mud and the rain. Solution: find some big tough lump and sweet-herb his way into friendship.
 
@@ -1815,7 +1815,7 @@ Concerns like the Clanless outside his fiefdom complaining of having lost some o
 
 “What do they mean by *‘unknown,’* exactly?”
 
-Yeego had acquired a seneschal of sorts, Tuygen. In fact Tuygen was a Goldpaw associate, a skinny wheaten toothpick of a property surveyor and a highly-educated expert in the value of land and the common laws of ownership. Passing on the reports from the walls and gate checkpoint was a jarring change from his previous work.  “The shots seemed to come from a great distance,” he explained. “Nobody saw or smelled the shooters, nobody is certain where the shots came from, and they’re all too scared to go out there and check.”
+Yeego had acquired a seneschal of sorts, Tuygen. In fact Tuygen was a Goldpaw associate, a skinny wheaten toothpick of a property surveyor and a highly-educated expert in the value of land and the common laws of ownership. Passing on the reports from the walls and gate checkpoint was a jarring change from his previous work. “The shots seemed to come from a great distance,” he explained. “Nobody saw or smelled the shooters, nobody is certain where the shots came from, and they’re all too scared to go out there and check.”
 
 “What about our people? Could we send somebody out to scent the area? This happened...when? This morning?”
 
@@ -1843,7 +1843,7 @@ He’d hired the most...enthusiastic datasphere-dwellers. The ones who’d had t
 
 “His message didn’t leave much room for interpretation,” Tuygen duck-nodded. “Humans are ransacking Yi-Jan Township.”
 
-“Ransacking,” Yeego repeated skeptically. It seemed an unlikely word---Yeego had got where he was in life on the back of a keen instinct for sniffing out people’s motives, and there simply wasn’t a compelling reason why a force of Humans might ransack *anything* on Gao, let alone a tiny farming township too insignificant to even have a permanent Clan presence.  Yi-Jan was little more than a couple of farmer’s workhouses and the handful of services the workhouses needed.
+“Ransacking,” Yeego repeated skeptically. It seemed an unlikely word---Yeego had got where he was in life on the back of a keen instinct for sniffing out people’s motives, and there simply wasn’t a compelling reason why a force of Humans might ransack *anything* on Gao, let alone a tiny farming township too insignificant to even have a permanent Clan presence. Yi-Jan was little more than a couple of farmer’s workhouses and the handful of services the workhouses needed.
 
 But if there *were* Humans in the area and a Human weapon really *had* been used to murder Clanless refugees outside his own gates...At the very least, the threat loomed that the desperate mob might do something foolish.
 
@@ -2145,7 +2145,7 @@ Titan was less than amused. He was a Japanese fireplug of a bro whose family had
 
 Watching Champion Reeko attempt to pry any bit of intel out of Adam was probably the most entertaining thing John was gonna see for a long time.
 
-Then there were the Firefangs. Champion Halti, and Grandfather Ruuli. Neither was in any mood to speak with a human at all, and ‘Base almost couldn’t blame them.  Their clan had been hit harder than any other by this war, first losing the great bulk of their Brother pilots to implants, and then watching as the fleet massacred those lost Brothers. By all accounts the brief high-speed knife fight between Firefang strike fighters and the 946th had been...ugly.
+Then there were the Firefangs. Champion Halti, and Grandfather Ruuli. Neither was in any mood to speak with a human at all, and ‘Base almost couldn’t blame them. Their clan had been hit harder than any other by this war, first losing the great bulk of their Brother pilots to implants, and then watching as the fleet massacred those lost Brothers. By all accounts the brief high-speed knife fight between Firefang strike fighters and the 946th had been...ugly.
 
 Human ships held a strong hand. The pilots were tougher, stronger, could handle G-forces that’d straight *break* a Gaoian. They had the edge in reaction speeds and the Firebird itself stacked up well against whatever it was that the Clan preferred to fly. When it came to straight-line acceleration the Firebird won by a wide margin, which meant they *ruled* the kinetic energy advantage.
 
@@ -2183,7 +2183,7 @@ He got what he was waiting for after about twenty minutes. Halti’s ears had fl
 
 Halti scoffed and looked away. “I wonder how easy you would find your job if this was *your* homeworld…” he mused, and went silent again.
 
-“Ain’t about findin’ my job easy, sir. It’s about doin’ it anyway,  *especially* when it’s hard.”
+“Ain’t about findin’ my job easy, sir. It’s about doin’ it anyway, *especially* when it’s hard.”
 
 Halti didn’t reply, and ‘Base gave up. Some people, you could extend the hand to them and they’d rather fall into the ravine than take it.
 
@@ -2257,7 +2257,7 @@ Yeego flicked some dirt out of his chest fur and straightened. “Yeego.”
 
 “Why are you here?”
 
-“I want answers, mostly. Some of our people were shot, using a weapon like that one.” Yeego indicated the Human’s rifle. “And your people have been scavenging from a township in the area.  I’d like to know what’s going on before anything…*unwise* happens.”
+“I want answers, mostly. Some of our people were shot, using a weapon like that one.” Yeego indicated the Human’s rifle. “And your people have been scavenging from a township in the area. I’d like to know what’s going on before anything…*unwise* happens.”
 
 “Is that a threat?”
 
@@ -2569,7 +2569,7 @@ He was astonished to be interrupted...By Yulna.
 
 She met Daar’s glare with a cool, level gaze of her own then took a moment to look around at all the other males. She was now the focus of their interest and attention, and she duck-nodded slowly and pulled her robes regally around her as she stood up.
 
-“We need something more, Champion Daar,” she said. “Gao needs more. This is a pivotal moment in our history, and we need something bigger than champions to stand at the front of it all.  You called this Conclave, pulled resources *none* of us have to arrange our transport, slaughtered incompetence the second it appeared and dictated our way forward as if we were young cubs at our teacher’s feet. None of us dare challenge your authority. Only one thing remains, and that is to ensure there are no repeats of what happened at Wi Kao.”
+“We need something more, Champion Daar,” she said. “Gao needs more. This is a pivotal moment in our history, and we need something bigger than champions to stand at the front of it all. You called this Conclave, pulled resources *none* of us have to arrange our transport, slaughtered incompetence the second it appeared and dictated our way forward as if we were young cubs at our teacher’s feet. None of us dare challenge your authority. Only one thing remains, and that is to ensure there are no repeats of what happened at Wi Kao.”
 
 She cleared her throat, and looked around, wearing a curiously mixed expression of shame, grief and determination.
 

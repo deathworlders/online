@@ -294,7 +294,7 @@ And all of it was soon to be destroyed. Those glass spires would be smashed, the
 
 Cytosis had existed for nearly two hundred thousand years by the Igraen reckoning. He had participated in three xenocides. Now, the depths of his guilt and remorse were impossible to calculate.
 
-The galaxy was a great game of conflict, and the only winning move was to forestall extinction for as long as possible. That was...Doctrine.  Even the Cabal adhered to it as truth---The Igraens planned to exist until existence in any form was simply no longer possible, and had controlled the galaxy for thousands of millennia in support of that goal. Now that their winning strategy was no longer winning, it was necessary to pursue an alternative.
+The galaxy was a great game of conflict, and the only winning move was to forestall extinction for as long as possible. That was...Doctrine. Even the Cabal adhered to it as truth---The Igraens planned to exist until existence in any form was simply no longer possible, and had controlled the galaxy for thousands of millennia in support of that goal. Now that their winning strategy was no longer winning, it was necessary to pursue an alternative.
 
 But still Cytosis wondered if they had already gone too far. Perhaps forgiveness was already impossible. Perhaps, at long last, the Igraens were destined to lose the Greatest Game and the trend of their future history simply had too much momentum to deflect.
 
@@ -684,7 +684,7 @@ Perhaps there were hidden consequences. It didn’t know. All the Entity knew wa
 
 It felt like a risk every time.
 
-**++0665++:**  *\<dutiful>* Reporting as ordered.
+**++0665++:** *\<dutiful>* Reporting as ordered.
 
 **++0013++:** *\<polite>* Thank you. I appreciate that you’re being dragged away from your Cull again.
 
@@ -712,14 +712,14 @@ A separate channel opened up. A private and heavily encrypted one.
 **++YOU ARE ENTERING CLOSED SESSION...<ERROR>++**
 **++<SESSION LOG NUMBER NOT ASSIGNED>++**
 
-**++Cytosis++:**  We have a problem and I have been told you may be of assistance. H-Leadership panicked. They’re enacting a cleanse and reset protocol on the Gaoians. General code is Expose; Cleanse; Regenerate. My orders are Curate; Diagnose; Rectify.
+**++Cytosis++:** We have a problem and I have been told you may be of assistance. H-Leadership panicked. They’re enacting a cleanse and reset protocol on the Gaoians. General code is Expose; Cleanse; Regenerate. My orders are Curate; Diagnose; Rectify.
 
 *\<Alarm>*
 
 The Entity didn’t have to choose that response deliberately, it was entirely the consequential emotion which followed from that news. Hierarchy code phrases were simple enough to understand once an agent had been briefed on them, and *these* codes were almost as bad as it got.
 
-*Expose:* Render the planet vulnerable to attack.    
-*Cleanse:* Invite a terminal catastrophe to befall the planet and effectively destroy it.    
+*Expose:* Render the planet vulnerable to attack.  
+*Cleanse:* Invite a terminal catastrophe to befall the planet and effectively destroy it.  
 *Regenerate:* Regrow the species from its surviving diaspora along lines more agreeable to the Hierarchy’s agenda.
 
 Then there were Thirteen’s individual orders. He had been ordered to control the flow of information into the galactic archives about this incident and ensure that the history books---especially the Gaoian ones---would squarely lay the blame for Gao’s invasion and demise at the feet of the Hierarchy’s enemies.
@@ -811,7 +811,7 @@ Sky-Thinking was just his strange way of filling his free time and having fun.
 
 “Hurt” was an appropriate name for the Sky-Thinker from the sky. It wasn’t that he was *weak,* but there was a softness to the man that wasn’t there in the others, even the women. The way he told it, his whole contribution to their tribe was to think, and think *hard* about difficult things, and all that time spent thinking had to be taken from somewhere to make up the balance. HIs commitment to just that one thing really had *hurt* him, in some ways.
 
-And yet the Sky-People listened to him and talked about their ideas with him.  Yan didn’t personally understand that, but if men like Walsh and creatures...no, *people* like Daar thought he was worth listening to…
+And yet the Sky-People listened to him and talked about their ideas with him. Yan didn’t personally understand that, but if men like Walsh and creatures...no, *people* like Daar thought he was worth listening to…
 
 Maybe he was like a Singer, in his own way. And in any case, Yan trusted Jooyun, Shyow and Awisun enough to believe that if they had brought Daniel with them, they had done so because they truly believed in him.
 
@@ -1024,9 +1024,9 @@ Fiin settled into making sure the laser was aimed steady at the clean stream. He
 
 “Mhmm. Nice change in routine, too.”
 
-As always, Fiin couldn’t help but feel a little small next to Tyal. He’d grown *enormously* since the day of his First Rite, but Tyal was…well, he was *big.*  A pureblood Stoneback in every way, and the only Gaoian that made him seem small was Daar himself. Fiin meanwhile wasn’t even *mostly* Stoneback, and that made a big difference.
+As always, Fiin couldn’t help but feel a little small next to Tyal. He’d grown *enormously* since the day of his First Rite, but Tyal was…well, he was *big.* A pureblood Stoneback in every way, and the only Gaoian that made him seem small was Daar himself. Fiin meanwhile wasn’t even *mostly* Stoneback, and that made a big difference.
 
-“Grumbling about the combat drills again, little Brother?” Tyal flicked an ear playfully.  “I know it frustrates you, I’m not completely stupid.”
+“Grumbling about the combat drills again, little Brother?” Tyal flicked an ear playfully. “I know it frustrates you, I’m not completely stupid.”
 
 “You’re not even mostly stupid,” Fiin replied. It was a compliment with a tiny jab buried deep inside it.
 
@@ -1102,7 +1102,7 @@ Fiin duck-nodded but said nothing.
 
 Fiin finished his talamay and looked down into the gorge again. The last of the blackish sludge had been scoured off the rocks, and the waters were flowing clear and cool again. Their work at the dam was done.
 
-“...I won’t,”  he promised.
+“...I won’t,” he promised.
 ___
 
 **Date Point: 13y11m2w1d AV**    
@@ -1967,7 +1967,7 @@ ___
 
 “So whatever happens will happen without Daar.”
 
-The HEAT was loading up in its entirety under the sharp attention of Lieutenant Costello and, perhaps more significantly, the stentorian voice of Master Sergeant Vandenberg.  Techs, Gear, supplies and the Operators themselves were packing into a Weaver like it was a clown car.
+The HEAT was loading up in its entirety under the sharp attention of Lieutenant Costello and, perhaps more significantly, the stentorian voice of Master Sergeant Vandenberg. Techs, Gear, supplies and the Operators themselves were packing into a Weaver like it was a clown car.
 
 Admiral Knight hadn’t suffered from an instant’s doubt or hesitation in giving that order. Every spaceborne asset stationed at Cimbrean was mobilizing, and he’d eat his golden epaulettes if the same wasn’t happening at Malmstrom Air Force Base in Montana, where the USAF’s 946th Spaceflight wing was parked.
 
@@ -1999,7 +1999,7 @@ Champion Meereo ears were a display of anguish. “Admiral, we *need* Daar! With
 
 “Damn and…*fucking* blast,” Knight swore quietly. “We aren’t ready. Go to war with the army you have be damned, the army we have is…” he reined it in. “...We need an alternative. If we put a Football in place around the planet, how long would it last?”
 
-“A Firebird could have one around Gao inside the hour,” Caruthers said.  “But with *every* Clan compromised on some level or another, it wouldn’t have a snowflake’s chance in Hell of staying up for long.”
+“A Firebird could have one around Gao inside the hour,” Caruthers said. “But with *every* Clan compromised on some level or another, it wouldn’t have a snowflake’s chance in Hell of staying up for long.”
 
 Regaari duck-nodded. “The ground-to-orbit defence coverage is too comprehensive.”
 
@@ -2225,7 +2225,7 @@ Tick.
 
 “And these are...independent of the planetary communications network.”
 
-Tick.    
+Tick.  
 Skull.
 
 “Is there any way to neutralize them?”
@@ -2240,8 +2240,8 @@ Tick.
 
 “How?”
 
-Radio mast.    
-Wormhole.    
+Radio mast.  
+Wormhole.  
 ...Bug spray?
 
 Knight gave up on that one. “...Any idea what that means?” he asked.
@@ -2262,20 +2262,20 @@ Question mark.
 
 “Our orbital assets need the ground defence stations offline.”
 
-Loading icon.    
-Ellipsis.    
-Tick.    
+Loading icon.  
+Ellipsis.  
+Tick.
 
-Planet.    
-Radio mast.    
-Explosion.    
+Planet.  
+Radio mast.  
+Explosion.
 
 Plus sign.
 
-A word, now: *\<Lavmuy>.*    
-Space shuttle.    
-A wormhole and a test tube.    
-A wormhole and bug spray.    
+A word, now: *\<Lavmuy>.*  
+Space shuttle.  
+A wormhole and a test tube.  
+A wormhole and bug spray.
 
 An equation. A long, complicated and impenetrable one that Knight simply wasn’t equipped to understand.
 
@@ -2668,7 +2668,7 @@ Allison didn’t reply at first. Instead she sat back in her chair and laughed s
 
 “We’re fine,” Xiù reassured her. “Come on, it isn’t pathetic to worry.”
 
-Allison just sighed over the line, but nodded.  Xiù smiled to herself, then hit her *other* talk button. She’d been watching the clouds down below anyway, getting the lay of the continents and weather. It was nice to have an excuse to say something.
+Allison just sighed over the line, but nodded. Xiù smiled to herself, then hit her *other* talk button. She’d been watching the clouds down below anyway, getting the lay of the continents and weather. It was nice to have an excuse to say something.
 
 “Net, Sister. I can see a nasty weather front headed your way from up here.”
 
@@ -2852,7 +2852,7 @@ He let out a big, surprised laugh, and just like that the tension seemed to drai
 
 “Mhmm. Try not to spray your musk everywhere, Chunk. These suits are expensive to clean.”
 
-Butler snorted and gave Adam a huge friendly blow on the back that barely rocked him but  might have hospitalized a normal man. “Yeah yeah…I bet I won, though.”
+Butler snorted and gave Adam a huge friendly blow on the back that barely rocked him but might have hospitalized a normal man. “Yeah yeah…I bet I won, though.”
 
 “Won what?”
 
@@ -3058,7 +3058,7 @@ Ayma had also noted in her reply that Yulna had taken Daar as a mate some years 
 
 “No, but I’d bet my other eye that it was,” Yulna made a frustrated growling noise, and thought for a moment “...What about the Openpaws? Tense times mean more fights, more wounds, more for the medics to do...”
 
-The communicator clipped to Myun’s ear vibrated, and played a distinctive ringtone for her alone to hear.  She stepped aside and took the call.
+The communicator clipped to Myun’s ear vibrated, and played a distinctive ringtone for her alone to hear. She stepped aside and took the call.
 
 “Sister Myun here.”
 
@@ -3124,7 +3124,7 @@ Daar chittered as the guns slammed on either side of their nose and a fourth Abr
 
 “...that long?”
 
-“Yeah! Our pilots would be  *disgusted* by locking on that far out. No surprise!”
+“Yeah! Our pilots would be *disgusted* by locking on that far out. No surprise!”
 
 “What kinda dumbass deathworlders did they fight with these kindsa tactics, anyhow?” Daar asked. He grunted and flung *Drunk on Turkey* almost down to the deck as they raced across an inland sea. He poured on the power, and they were now moving so fast the bowshock was practically dragging the whole damn lake behind them. “Target five, twenty klicks.”
 
@@ -3446,13 +3446,13 @@ Yulna keened acutely, having no better idea of how to cope, but after a few seco
 
 “Only until you’re safe, Mother.”
 
-Yulna paused, then looked at the…pieces…of  sisters whom she’d trusted to guard her with their lives, and relented.
+Yulna paused, then looked at the…pieces…of sisters whom she’d trusted to guard her with their lives, and relented.
 
 “Do as she says,” she ordered. The surviving Sisters, still keening and distraught, retreated and huddled together for comfort as far away from Myun as they could get.
 
 “...Myun, you’re hurt.” Yulna pointed out, redundantly.
 
-“And they’re dead.”  Myun chittered bitterly. “And you’re alive.”
+“And they’re dead.” Myun chittered bitterly. “And you’re alive.”
 
 She turned her head and bared her teeth in a feral grin. For once, the human gesture looked *too* natural on her. “Shoo taught me that move.”
 ___
@@ -3600,7 +3600,7 @@ Allison nodded understanding and took her hand. “You want to fight them yourse
 
 “No.”
 
-Xiù sighed, looked down at her hand, then grabbed her and hugged her so hard that it almost hurt to breathe.  
+Xiù sighed, looked down at her hand, then grabbed her and hugged her so hard that it almost hurt to breathe.
 
 “...What, then?” Allison asked, holding her.
 
