@@ -294,7 +294,7 @@ Adam decided to have some fun. He too had stripped down and endured the prelimin
 
 “Hey, I’m already buck naked and now you get to poke and prod me. You enjoy this, don’t you?”
 
-“Damn right I do. I always said left beef was best beef—Goddamnit, ‘Horse.” Her joke trailed off as Adam squeezed onto the scale, wrapping his oversized feet over all its edges simultaneously.  The poor scale squealed alarmingly as it took his weight; he was considerably heavier than Firth and everyone knew it. He grinned an evil grin, knowing full well it wouldn’t show anything useful. The scale’s `EEEE` stared accusingly at its tormentor, as if begging him to step off and show some mercy. He didn’t. Adam looked at the screen and grinned huge and smug, obviously proud of his achievement. Kovač sighed in annoyance.
+“Damn right I do. I always said left beef was best beef—Goddamnit, ‘Horse.” Her joke trailed off as Adam squeezed onto the scale, wrapping his oversized feet over all its edges simultaneously. The poor scale squealed alarmingly as it took his weight; he was considerably heavier than Firth and everyone knew it. He grinned an evil grin, knowing full well it wouldn’t show anything useful. The scale’s `EEEE` stared accusingly at its tormentor, as if begging him to step off and show some mercy. He didn’t. Adam looked at the screen and grinned huge and smug, obviously proud of his achievement. Kovač sighed in annoyance.
 
 She quickly recovered her wits, rolled her eyes, and chuckled in faint disbelief. “Good *God* man, it sounds like it’s gonna explode! I guess you’re still the biggest fucker around.”
 
