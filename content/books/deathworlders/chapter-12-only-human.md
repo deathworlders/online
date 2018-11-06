@@ -1,4 +1,3 @@
-<<<<<<< current
 ---
 title: "Chapter 12: Only Human"
 date: 2014-11-26
