@@ -1635,4 +1635,3 @@ He leaned forward. "Except for the deathworlders."
 Kevin's brow creased. "...But we're the only deathworlders, though. Aren't we?"
 
 "We are, yes, but we shouldn't be. Let me tell you my story..."
->>>>>>> before discard
