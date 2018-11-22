@@ -1134,7 +1134,7 @@ ___
 
 One of the first things President Sartori had done upon entering the Oval Office was to have a discreet holographic projector installed on the desk. One of the good ones that in the future might even allow him to have a conversation with somebody as if they were physically present in the room with him.
 
-So far it hadn’t really been used for anything more than a TV and for face-time with his daughter, but it was showing its value today, with so many of America’s most influential invited to watch the Mars landing alongside him. Among them was the man of the hour himself, Moses Byron.
+So far it hadn’t really been used for anything more than TV, but it was showing its value today with so many of America’s most influential invited to watch the Mars landing alongside him. Among them was the man of the hour himself, Moses Byron.
 
 Sartori had requested his presence on the grounds that nothing could possibly be lost by reminding the enterprising billionaire exactly where he stood in the pecking order of power.
 
