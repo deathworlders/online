@@ -1,5 +1,5 @@
 ---
-title: "Chapter 50: Counterattack, pt.2 - Homefront"
+title: "Chapter 50: Counterattack, pt.3 - Trigger"
 date: 2018-11-30T13:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
