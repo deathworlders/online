@@ -4,7 +4,7 @@ date: 2018-11-30T13:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
- **Date Point: 15y 10m**    
+ **Date Point: 15y 10m AV**    
 **Camp Tebbutt Biodrone Internment Facility, Yukon–Koyukuk, Alaska, USA, Earth**
 
 ***Hugh Johnson***
@@ -62,7 +62,7 @@ The gangly bastard had always been tougher than he looked, though. Whatever. It 
 Still. It did make him wonder what, exactly, Zane had planned for if he ever did make it over the fence...
 ___
 
-**Date Point: 15y 10m**    
+**Date Point: 15y 10m AV**    
 **High  Mountain Fortress, The Northern Plains, Gao**
 
 ***Captain Anthony (“Abbott”) Costello***
@@ -262,7 +262,7 @@ Costello nodded too, and went to grab the last of his equipment.
 Whatever else happened, today was going to be bloody.
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **Planet Rvzrk, Domain Space**
 
 ***Regaari***
@@ -373,7 +373,7 @@ Shit.
 
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **Wi Kao commune memorial, Planet Gao**
 
 ***Xiù Chang***
@@ -488,7 +488,7 @@ Xiù smiled at her, then leaned into her for a brief walking cuddle.
 ___
 
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **HMS** ***Violent,*** **Rvzrk System, Domain Space**
 
 ***Captain Anthony “Abbott” Costello***
@@ -551,7 +551,7 @@ Now all they were waiting on was Regaari.
 
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
 ***Daar, Great Father of the Gao***
@@ -648,7 +648,7 @@ He let his stress go for the moment, relaxed into a peaceful interlude, and was 
 
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **Planet Rvzrk, Domain Space**
 
 ***Regaari***
@@ -747,7 +747,7 @@ But he was nearly through this.
 
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **Hunter broodship, Rvzrk System, Domain Space**
 
 ***The Builder Alpha-of-Alphas***
@@ -782,7 +782,7 @@ All that remained now was to see if they could fight.
 
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **Planet Rvzrk, Domain Space**
 
 ***Captain Anthony “Abbott” Costello***
@@ -848,7 +848,7 @@ A Gaoian-shaped blur pounced past Costello’s shoulder with his left paw lit up
 The other two tore him apart.
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **The White House, Washington DC, USA, Earth**
 
 ***President Arthur Sartori***
@@ -943,7 +943,7 @@ It’d be good to get away for a while...
 
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **Planet Rvzrk, Domain Space**
 
 ***Captain Anthony “Abbott” Costello***
@@ -1013,7 +1013,7 @@ There was only one solution.
 “Let’s go to work,” he said.
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **Hunter broodship, Rvzrk System, Domain Space**
 
 ***The Builder Alpha-of-Alphas***
@@ -1207,7 +1207,7 @@ Taro turned his attention to the Grand Army’s deployment. His own job wasn’t
 They had plenty more payback to arrange, first.
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
 ***Naydra***
@@ -1262,7 +1262,7 @@ She sighed, stood up, and got back to work.
 
 ___
 
-**Date Point: 15y 10m 1d**    
+**Date Point: 15y 10m 1d AV**    
 **Lavmuy Spaceport, Gao**
 
 ***Regaari***
