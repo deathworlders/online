@@ -986,7 +986,7 @@ The Array thumped again, delivering more Stonebacks. One of them handed off anot
 
 Costello checked that the Hunter that Genshi had killed was really dead, then gave it a kick. “Base. Pack this up for Scotch Creek. ‘Horse, Moho, go catch up with Righteous and the others. We’re gonna kill ‘em all.” 
 
-‘Horse’s voice was a vengeful growl. *“Vamos a joderlos.”*
+‘Horse’s voice was a vengeful growl. *“Vamos a chingarlos.”*
 
 They took off toward the sound of gunfire, and Costello switched over to the command channel. “STAINLESS, ABBOTT. Target secured, but we have a casualty. PACINO has fallen.”
 
