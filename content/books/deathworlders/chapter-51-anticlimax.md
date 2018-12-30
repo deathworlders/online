@@ -125,7 +125,7 @@ ___
 
 **++Metastasis++:** Reasonable. Very well. But let’s start on rebuilding our trust that we are included in the decisions, shall we? What *exactly* is it that makes this biodrone of yours special to the point it can possibly survive freezing to death?
 
-**++Cynosure++:** *\<File attachment>
+**++Cynosure++:** *\<File attachment>*
 
 **++Asymptote++:** ...Oh.
 
@@ -906,7 +906,7 @@ The scale of it hit Sartori suddenly, the way a too-big thing didn’t always re
 
 Daar shook out his fur. It was short right now, as it always was in the weeks after he took to the field in armor. In a few more weeks it would be shaggy and impressively thick, but for now there wasn’t much of it to shake.
 
-*“You have to ask? I don’t wanna see Earth burn, and if Big Hotel really *are* back inside ‘yer shield, then…”*
+*“You have to ask? I don’t wanna see Earth burn, and if Big Hotel really* are *back inside ‘yer shield, then…”*
 
 “How much did this cost you?” Sartori pressed. “How can you possibly afford to build something like this? Build it so quickly? Stage it?!”
 
@@ -936,7 +936,7 @@ No doubt it would be more complicated than that, but for the sake of *not* seein
 
 “With interest.”
 
-*“Maybe. Anyhow, you look like you ain’t slept right in a while, not that I can blame ‘ya. I should stop wastin’ ‘yer precious time.”
+*“Maybe. Anyhow, you look like you ain’t slept right in a while, not that I can blame ‘ya. I should stop wastin’ ‘yer precious time.”*
 
 Sartori chuckled. “Thank you,” he repeated himself. “No doubt we’ll talk again soon.”
 
@@ -2160,7 +2160,7 @@ Julian rolled his eyes, though he was clearly trying not to laugh himself, and p
 
 *“Vemik’s apprentice Yetu has made a very fine knife. Daniel called it a “masterpiece.” He left the forge to go back to his home village and start teaching apprentices of his own, which I think Vemik is glad about. He says kind things about Yetu, and is always visiting the others to talk about new ideas and ways of working steel. I think he used a whole leaf of paper to talk about it. I am watching him now and it is hard not to laugh as he sticks his tongue out when he writes and makes the markings carefully. He looks very serious. Even more serious than Yan!*
 
-“I could say more, but the day is getting late and I must sing soon. It has been too long since we saw you. If you cannot come soon, please write to us. Either way, blessings and peace on you all.*
+*“I could say more, but the day is getting late and I must sing soon. It has been too long since we saw you. If you cannot come soon, please write to us. Either way, blessings and peace on you all.*
 
 *“--The Singer of Yan’s tribe.”*
 
