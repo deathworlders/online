@@ -507,7 +507,7 @@ Wilde nodded. “I checked. The worst of them’s about as bad as a nettle, from
 
 “So what, exactly, is our mission? I mean besides fetching boxes and avoiding Snake-Bears?”
 
-“I believe the rule is ‘pillage, *then* burn.’ Genshi’s huge, expressive ears flicked back in a classic Gaoian smug smirk.
+“I believe the rule is ‘pillage, *then* burn.’ Meereo’s huge, expressive ears flicked back in a classic Gaoian smug smirk.
 
 “Riiight. Easy to get that the wrong way ‘round.”
 
