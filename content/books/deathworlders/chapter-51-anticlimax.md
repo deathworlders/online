@@ -4,7 +4,7 @@ date: 2018-12-30T12:30:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
-**Date Point:16y AV**    
+**Date Point: 16y AV**    
 **Yukon–Koyukuk, Alaska, USA, Earth**
 
 ***Zane Reid***
@@ -19,7 +19,7 @@ But every time the shadow of that thought flicked its tail below the surface, it
 
 He’d escape, or he’d die. Both were better than the cage.
 
-And now he didn’t feel cold anymore. He felt warm. Hot, even. He wasn’t sweating, but suddenly it was almost like being back in Kingston, scratching odd jobs out here and there. Like the time he’d spent working in his uncle Dejuan’s garage, fixing the cars of richer men. That had been a sweltering hell: the door was always open, and Jevaun was too poor for air conditioning. There’d been a dusty old ceiling fan, spinning too slowly to do anything, and a battered desk fan from like the 1950s or something that needed a stick wedged under it in the right spot or it shorted out.
+And now he didn’t feel cold anymore. He felt warm. Hot, even. He wasn’t sweating, but suddenly it was almost like being back in Kingston, scratching odd jobs out here and there. Like the time he’d spent working in his uncle Dejuan’s garage, fixing the cars of richer men. That had been a sweltering hell: the door was always open, and Dejuan was too poor for air conditioning. There’d been a dusty old ceiling fan, spinning too slowly to do anything, and a battered desk fan from like the 1950s or something that needed a stick wedged under it in the right spot or it shorted out.
 
 Dejuan had been a lion. Never a man to raise his voice, or get angry. Polite, quiet… the kind of person Zane usually hated. He acted like one of the sheep. But when wolves came to his door looking for Zane’s help with something, he’d shown his real fire then. He’d chased them out, and to Zane’s surprise they’d never come back.
 
@@ -169,11 +169,11 @@ ___
 
 So much for taking a vacation.
 
-AEC had developed an extraplanetary version of the Defence Readiness Condition system to handle space-based military threats to the USA in particular and by extension the Earth as a whole. The SOLCON levels ran from the minimum alert status of SOLCON 6, in which the Sol system was believed to be completely secure and peaceful, up to SOLCON 1 - hostile presence in near-Earth orbits.
+AEC had developed an extraplanetary version of the defense Readiness Condition system to handle space-based military threats to the USA in particular and by extension the Earth as a whole. The SOLCON levels ran from the minimum alert status of SOLCON 6, in which the Sol system was believed to be completely secure and peaceful, up to SOLCON 1 - hostile presence in near-Earth orbits.
 
 Now, Sartori was facing the difficult decision of whether to step down from SOLCON 2. And he was reluctant to do so.
 
-Level 2 suspended all non-military jump traffic from, to, and across Earth, and raised the dozen or so inner-system defence shields that partitioned the solar system into a series of increasingly tight concentric zones around Earth.
+Level 2 suspended all non-military jump traffic from, to, and across Earth, and raised the dozen or so inner-system defense shields that partitioned the solar system into a series of increasingly tight concentric zones around Earth.
 
 The innermost of those shields was intended to protect the GPS satellites, and orbited only a few hundred kilometers above them. There were hundreds of satellites on highly elliptical orbits that were in danger of smashing into that shield once raised, and each one represented millions of dollars, never mind the disruption their loss would cause. Communications, weather monitoring, surveillance… Each one was valuable. Each one’s loss would do long-term damage.
 
@@ -187,7 +187,7 @@ A Weaver carrying astronauts and specialists from Scotch Creek had inspected the
 
 Nothing. Just background noise. All was quiet.
 
-Sartori didn’t like it one bit. Nor did Kolbeinn, nor did the Joint Chiefs, the Secretary of Defence, nor the Prime Ministers of Britain, Canada, Australia, New Zealand and Folctha.
+Sartori didn’t like it one bit. Nor did Kolbeinn, nor did the Joint Chiefs, the Secretary of defense, nor the Prime Ministers of Britain, Canada, Australia, New Zealand and Folctha.
 
 “I hate to break out the cliché, but it’s *too* quiet,” Kolbeinn observed. They were poring over the latest return from a Firebird squadron that had slow-dragged themselves all the way around the Earth/Mars orbital gap, pinging their warp drives like a kind of future-tech sonar. Such a sweep would have illuminated absolutely everything that was generating a spacetime distortion… and it had found nothing.
 
@@ -197,7 +197,7 @@ Sartori didn’t like it one bit. Nor did Kolbeinn, nor did the Joint Chiefs, th
 
 “...Anything from Scotch Creek?”
 
-Kolbeinn shook his head. “Brigadier Bartlett says they’ll need *weeks* of supercomputer time to properly simulate the attack, and even then he’s not convinced their model of how system shields work is accurate.”
+Kolbeinn shook his head. “Brigadier-General Bartlett says they’ll need *weeks* of supercomputer time to properly simulate the attack, and even then he’s not convinced their model of how system shields work is accurate.”
 
 “And even if it is, it might show that the attack failed and that all this was a waste of time and resources,” Margaret White added. “If it does… China and Russia won’t be happy.”
 
@@ -217,9 +217,9 @@ Kolbeinn made a *‘hmm’* noise and turned away to make a phone call. There wa
 
 It helped. It gave him a moment to stop focusing on the futile facts in front of him and instead turn his attention to what could be *done.*
 
-Doomsday scenarios. Sartori was just old enough that *‘doomsday’* had once meant the Soviets finally losing it and launching their ICBMs. The legacy of that standoff was still with them: even after several space battles and despite Sartori’s status as easily the most prolific launcher of wartime nukes *ever,* the USA’s reserve of nuclear weapons was still deep enough to hit every major city on the planet a few dozen times over. Still enough to reduce Humanity from nearly eight billion souls, to barely eight *million,* if not less.
+Doomsday scenarios. Sartori was just old enough that *‘doomsday’* had once meant the Soviets finally losing it and launching their ICBMs. The legacy of that standoff was still with them: even after several space battles and despite Sartori’s status as easily the most prolific launcher of wartime nukes *ever,* the USA’s reserve of nuclear weapons was still deep enough to hit every major city on the planet a few dozen times over. Still enough to reduce Humanity from substantially more than eight billion souls, to barely eight *million,* if not less.
 
-The full extent of the Hierarchy’s resources was unquestionably enough to make that arsenal look like the fireworks display at a highschool ball game. But at least he could plan for it.
+The full extent of the Hierarchy’s resources was unquestionably enough to make that arsenal look like the fireworks display at a high school ball game. But at least he could plan for it.
 
 Start with what he knew. The Gaoians had gigaton-scale weapons, and considering how deeply infiltrated *they* had been prior to the war on Gao it was a certainty that the Hierarchy had that technology as well.
 
@@ -322,7 +322,7 @@ Ava sighed. “Just… I had a bad night last night. It’s okay.”
 
 “Do you need to talk about it?”
 
-Ava shook her head. “No, no…. We got a bunch of footage from Rvzrk yesterday. It kinda reminded me of…” she cleared her throat and then smiled apologetically at Ray. “You’ve got your friend here anyway.”
+Ava shook her head. “No, no…. We got a bunch of footage from Rvzrk yesterday. It kinda reminded me of…” She cleared her throat and then smiled apologetically at Ray. “You’ve got your friend here anyway.”
 
 In addition to meat, Holly also eschewed swear words nowadays. That hadn’t stopped her from coming up with some remarkably virulent ways to use otherwise perfectly benign language when she was feeling annoyed with herself, however.
 
@@ -441,7 +441,7 @@ Daar grumbled low in his chest and moved a tablet around listlessly with a claw.
 
 “...What happens if they deploy a gigaton device on Luna?”
 
-“Earth gets a ring system instead of a moon. I couldn’t comment on what happens on the ground exactly, but It’d be… unpleasant, I imagine.”
+“Earth gets a ring system instead of a moon. I couldn’t comment on what happens on the ground exactly, but it’d be… unpleasant, I imagine.”
 
 Daar picked up the rock and hefted it between his paws, passing it back and forth as he spoke. “No shit. Prol’ly ought’a avoid that.”
 
@@ -465,7 +465,7 @@ Champion Meereo made a sound that was half a sigh and half a chitter. “...That
 
 Wilde had to nod to that. “Yeah, no shit.”
 
-Just the invasion of the Gaoian homeworld, the raid on the Ring Orbital, Rvzrk… *‘Bigger priorities’* was putting it more than a little bit mildly. And how, JETS Team Two was coming in to finish a job that JETS Team One---who didn’t even *exist* any more—had started literal years ago.
+Just the invasion of the Gaoian homeworld, the raid on the Ring Orbital, Rvzrk… *‘Bigger priorities’* was putting it more than a little bit mildly. And now, JETS Team Two was coming in to finish a job that JETS Team One---who didn’t even *exist* any more—had started literal years ago.
 
 He looked out the porthole window at the planet below them again. From what Coombes had told him, they were in for a few weeks of being constantly damp, and saturating in the smell of rotting meat. Apparently folks had lived down there once. A flourishing civilization had made it all the way to their version of the 1970s before finally the Hierarchy managed to trick or provoke them into a global nuclear war and then mopped up the remains.
 
@@ -491,7 +491,7 @@ This waystop seemed a bit odd.
 
 “Which Daar clawed through, I’m guessing.”
 
-“No. The planet remains broadly unknown *because* he ordered it. We Champions respect his will. In any case…” Meereo grabbed a tablet and tapped his claws against it, “Let’s get back to our review. Let’s see…yes, fauna. The previous mission noted a great many poisonous thorny plants.”
+“No. The planet remains broadly unknown *because* he ordered it. We Champions respect his will. In any case…” Meereo grabbed a tablet and tapped his claws against it. “Let’s get back to our review. Let’s see…yes, fauna. The previous mission noted a great many poisonous thorny plants.”
 
 Wilde nodded. “I checked. The worst of them’s about as bad as a nettle, from our perspective.”
 
@@ -507,7 +507,7 @@ Wilde nodded. “I checked. The worst of them’s about as bad as a nettle, from
 
 “So what, exactly, is our mission? I mean besides fetching boxes and avoiding Snake-Bears?”
 
-“I believe the rule is ‘pillage, *then* burn.’ Meereo’s huge, expressive ears flicked back in a classic Gaoian smug smirk.
+“I believe the rule is ‘pillage, *then* burn.’"" Meereo’s huge, expressive ears flicked back in a classic Gaoian smug smirk.
 
 “Riiight. Easy to get that the wrong way ‘round.”
 
@@ -581,13 +581,13 @@ Wilde blinked at him. “...The what?”
 
 Meereo sighed. “I admit, his sense of humor is…an acquired taste. But please be considerate. He’s poured a great personal sum into this vessel to improve its capability across every dimension. This is the fastest and most survivable manned surveillance craft ever fielded by Gaoian or Human.”
 
-“With a name like *that?”* Frasier asked. “When I think *‘fast and stealthy,’* Turkeys and bein’ drunk aren’t exactly the first things that spring to mind.”
+“With a name like *that?”* Frasier asked. “When I think *‘fast and stealthy,’* turkeys and bein’ drunk aren’t exactly the first things that spring to mind.”
 
- *“Anyway,”* Meereo insisted, sparing him a mildly irritated look, “We will be briefing on the ship, its capabilities, and all the rest when we land. Please try and maintain some decorum. This is a significant mission and the, ah, ‘brass’ may be visiting.”
+ *“Anyway,”* Meereo insisted, sparing him a mildly irritated look, “we will be briefing on the ship, its capabilities, and all the rest when we land. Please try and maintain some decorum. This is a significant mission and the, ah, ‘brass’ may be visiting.”
 
 “…When you say ‘brass,’ who do you mean?” Wilde asked.
 
-“Well... I’m the Champion of my Clan and yet here I sit, briefing you on this mission *personally.”* Meereo observed. “We all intend to hand off to subordinates but…not until we’re certain the gravity of what we’re doing has been *properly* conveyed. Does that paint an appropriate picture?”
+“Well... I’m the Champion of my Clan and yet here I sit, briefing you on this mission *personally,”* Meereo observed. “We all intend to hand off to subordinates but…not until we’re certain the gravity of what we’re doing has been *properly* conveyed. Does that paint an appropriate picture?”
 
 “...Decorum, right. Shiny hats on, lads.”
 
@@ -597,9 +597,9 @@ Meereo sighed. “I admit, his sense of humor is…an acquired taste. But please
 
 The rest of the landing, and Meereo’s fretting over the details, was pretty smooth, right up until they actually touched the ground with a heavy jolt and the Weaver’s on-board gravity was turned off. There was a brief moment of subtle vertigo as the planet’s native gravity took over, a little lighter than Earth’s, but only enough that you’d notice if you were paying attention.
 
-The “brass” turned out to be two Champions---Halti of One-Fang, and Goruu of Firefang. Wilde had a pretty comprehensive briefing on Gaoian clan politics, and he knew that the two Clans had traditionally been rivals with overlapping fields of competence. One was the equivalent of a navy, the other the equivalent of an air force.
+The “brass” turned out to be two Champions---Hiyel of One-Fang, and Goruu of Firefang. Wilde had a pretty comprehensive briefing on Gaoian clan politics, and he knew that the two Clans had traditionally been rivals with overlapping fields of competence. One was the equivalent of a navy, the other the equivalent of an air force.
 
-Daar had ended that centuries-long feud with two deaths, at the height of the war for Gao. Now, it was like the two had always been close allies and friends. Certainly Halti and Goruu were reputed to be as thick as brothers.
+Daar had ended that centuries-long feud with two deaths, at the height of the war for Gao. Now, it was like the two had always been close allies and friends. Certainly Hiyel and Goruu were reputed to be as thick as brothers.
 
 And behind them, glinting dully in the sunlight, was what could only be the *Drunker on Turkeyer.* It had nose art of a staggering, giddy Gaoian waving a pair of panicking birds around in one paw while tearing at a drumstick in the other.
 
@@ -607,9 +607,9 @@ Set that aside, though, and she looked fucking *lethal.* She was a knife… hell
 
 Wilde fell in love almost instantly, stupid name or not. The sentiment expressed itself as a long whistle.
 
-“I thought you’d like it,” Meereo said, sounding smug. He stepped forward and met his counterparts with that weird blend of playfulness and solemnity that was uniquely Gaoian. Introductions were made, and then Goruu gave them a tour of the ship while Meereo and Halti hung back and contributed little details here and there.
+“I thought you’d like it,” Meereo said, sounding smug. He stepped forward and met his counterparts with that weird blend of playfulness and solemnity that was uniquely Gaoian. Introductions were made, and then Goruu gave them a tour of the ship while Meereo and Hiyel hung back and contributed little details here and there.
 
-It wasn’t exactly spacious inside. In fact it reminded Wilde of his Nanna and Grandpa’s caravan, that he’d stayed in when visiting them for Christmas. It was built around Gaoian sensibilities about sleeping, so rather than bunks there was just a kind of nest, on top of most of their storage space. There was a small flameless kitchen with a table just big enough for five blokes who liked each other to squeeze in around. And then there was an armory and prep room at the top of the ramp that was bigger than the living space by a wide margin. Room enough to suit up, clean their weapons, all that stuff.
+It wasn’t exactly spacious inside. In fact, it reminded Wilde of his Nanna and Grandpa’s caravan that he’d stayed in when visiting them for Christmas. It was built around Gaoian sensibilities about sleeping, so rather than bunks there was just a kind of nest, on top of most of their storage space. There was a small flameless kitchen with a table just big enough for five blokes who liked each other to squeeze in around. And then there was an armory and prep room at the top of the ramp that was bigger than the living space by a wide margin. Room enough to suit up, clean their weapons, all that stuff.
 
 And then there was their pilot, Tooko. He was a Firefang himself, and maybe the smallest Gaoian adult that Wilde had ever met, counterbalanced by a particularly impressive fluffy tail and interesting curls of black fur at the tips of his ears. If most Gaoians looked rather like raccoons, then Tooko looked more like a grey fox.
 
@@ -629,7 +629,7 @@ Just like that Tooko was part of the team. He could take a joke, he gave back as
 
 “Right, then,” he declared. “So when’s our final briefing?”
 
-“Right now,” Halti said. “This way, gentlemen.”
+“Right now,” Hiyel said. “This way, gentlemen.”
 
 It was little more than a short recap of everything Coombes had given them back on Cimbrean and Meereo had gone over on the Weaver. Still, it settled the details in their minds and provided them with the last few puzzle pieces. There were no questions left to ask, nothing more to add… they packed up, settled in aboard their ship, and less than two hours after they’d first arrived, they buckled down for takeoff.
 
@@ -668,7 +668,7 @@ Mollifying the Chinese was just the freezing tip of a deep, cold monster of an i
 
 “How quickly can we ramp up off-world colonization?”
 
-He was flying alongside one of his special advisors. Chris Morgan had played a huge role in handling the relocation crisis in California after the San Diego bombing and the following earthquake. Hundreds of thousands of people had displaced northwards and westwards, and a lot of them unknowingly owed him for how (relatively) smoothly it had all gone. There had been a real danger that people would starve.
+He was flying alongside one of his special advisors. Chris Morgan had played a huge role in handling the relocation crisis in California after the San Diego bombing and the following earthquake. Hundreds of thousands of people had displaced northwards and eastwards, and a lot of them unknowingly owed him for how (relatively) smoothly it had all gone. There had been a real danger that people would starve.
 
 Who better to handle the question of how to get their eggs into as many baskets as they could, as quickly as they could?
 
@@ -676,11 +676,11 @@ Who better to handle the question of how to get their eggs into as many baskets 
 
 “Meaning we need more planets,” Sartori surmised.
 
-“Mrwrki said the coltainers haven’t been reporting back in the numbers they expected. They think something’s destroying them, probably the Hunters.”
+“Mrwrki said the Coltainers haven’t been reporting back in the numbers they expected. They think something’s destroying them, probably the Hunters.”
 
 “That’s not good.” Sartori pulled a face.
 
-“It’s a control software problem, they say. Even the very best AI just doesn’t hold a candle to real intelligence, which is why they’ve programmed the coltainers to self-destruct on a hair trigger. Better that than let the technology fall into the wrong hands.”
+“It’s a control software problem, they say. Even the very best AI just doesn’t hold a candle to real intelligence, which is why they’ve programmed the Coltainers to self-destruct on a hair trigger. Better that than let the technology fall into the wrong hands.”
 
 Sartori sighed. “Which means we need more survey ships. More *Misfits.”*
 
@@ -694,11 +694,11 @@ Sartori nodded and looked out the window. “Well, you know what they say about 
 
 “...Not sure I do actually,” Morgan replied.
 
-“Ah, it’s some old thing. Date trees take a generation to bear fruit, so when a young man saw an old man planting dates, he asked *‘grandfather, why are you planting trees whose fruit you will never eat?’”*
+“Ah, it’s some old thing. Date trees take a generation to bear fruit, so when a young man saw an old man planting dates, he asked *‘Grandfather, why are you planting trees whose fruit you will never eat?’”*
 
 “Oh, I see.”
 
-“To which the old man replied *‘buzz off kid, it’s my garden and I’ll plant whatever the hell I like,’”* Sartori added with a grin. Morgan issued a gratifying chuckle, and he sat back to think. “Still... Sooner or later, the repo man cometh. We can’t keep paying up front forever.”
+“To which the old man replied *‘Buzz off kid, it’s my garden and I’ll plant whatever the hell I like,’”* Sartori added with a grin. Morgan issued a gratifying chuckle, and he sat back to think. “Still... Sooner or later, the repo man cometh. We can’t keep paying up front forever.”
 
 “All due respect, but I’m not here to advise you about the national debt or the deficit or whatever.”
 
@@ -718,13 +718,13 @@ Time would tell.
 
 Morgan’s head dipped as he accepted that point. He spent a few minutes tapping on his tablet and occasionally muttering something to himself *sotto voce* as he thought.
 
-“MBG are working on their second *Misfit* -class ship,” he said at length. “And they have a crew lined up for it. I daresay the more they build, they better they’ll get at building them and the less they’ll cost.”
+“MBG are working on their second *Misfit*\-class ship,” he said at length. “And they have a crew lined up for it. I daresay the more they build, they better they’ll get at building them and the less they’ll cost.”
 
 “Byron’s safety record isn’t exactly great.”
 
 “On the other hand, they didn’t manage to lose a nuke.”
 
-Sartori snorted. “True. And they have the expertise and experience now… Fine. I’ll look into funding a more aggressive exploration program. If the coltainers aren’t working, we need to fall back on good old fashioned intrepid human spirit.”
+Sartori snorted. “True. And they have the expertise and experience now… Fine. I’ll look into funding a more aggressive exploration program. If the Coltainers aren’t working, we need to fall back on good old-fashioned intrepid human spirit.”
 
 He sighed to himself. “...And I’m sure we’ll find the money from somewhere,” he added.
 
@@ -806,9 +806,9 @@ Leemu finally gave up and decided to settle for honesty. “...Preed, I don’t 
 
 Preed gave him a long, cool look then deflated, turned, and ladled a healthy serving of soup into one of the *big* bowls for him. He made his own bowls, and this one was human-sized. He had an eating challenge on the wall: any nonhuman who could empty one of those bowls inside five minutes earned their meal for free and got their picture on the *‘wall of fame.’* In all the years, only a couple of dozen beings had ever managed it, most of them Locayl.
 
-Leemu suddenly felt *famished.* But something was off about the soup. He twitched his nose then frowned into the bowl as it was pressed into his hands. This was the wrong recipe. Preed rotated his menu on a seven-day cycle, and today was supposed to be *‘Tom Jabchai* but instead this smelled like the *‘Kua Chap.’*
+Leemu suddenly felt *famished.* But something was off about the soup. He twitched his nose then frowned into the bowl as it was pressed into his hands. This was the wrong recipe. Preed rotated his menu on a seven-day cycle, and today was supposed to be *‘Tom Jabchai'* but instead the bowl's contents smelled like the *‘Kua Chap.’*
 
-“...What day is it today?” he asked.
+“...What day is it today?” Leemu asked.
 
 “The eleventh. Why?”
 
@@ -1274,7 +1274,7 @@ That was… bloody surprising, in fact. “Me? I barely met him, mate.”
 
 “I know. The Great Father doesn’t lie.” There was definitely a look of hero worship in Tooko’s eye, there. And a heavy dose of acid.
 
-“Look, mate. I won’t claim like I’m an angel. All I can say is that it’s a game with us. LIke... When I was new to the Marines, my corporal told me to go get a tin of tartan paint from storage. And I was bloody stupid enough to go ask the quartermaster for one. I was embarrassed, we had a laugh…that was it. We all did that to each other…” he trailed off as he saw the bewildered way Tooko’s ears were moving. “...I suppose it sounds stupid.”
+“Look, mate. I won’t claim like I’m an angel. All I can say is that it’s a game with us. Like... When I was new to the Marines, my corporal told me to go get a tin of tartan paint from storage. And I was bloody stupid enough to go ask the quartermaster for one. I was embarrassed, we had a laugh…that was it. We all did that to each other…” he trailed off as he saw the bewildered way Tooko’s ears were moving. “...I suppose it sounds stupid.”
 
 “Yes.”
 
@@ -1290,7 +1290,7 @@ Tooko gave him a long, hard look. Diminutive or not, there was an intense person
 
 “But what does that prove? That you can be toyed with and you’ll just roll over?”
 
-“Or that I’m level-headed enough to only worry about the big shit, I guess,” Wilde said. “Like… You’re gonna be livin’ on top of these lads in a high stress environment. You need to know when to let the small irritations slide by. That’s how you get along and build a team.”
+“Or that I’m level-headed enough to only worry about the big shit, I guess,” Wilde said. “Like… You’re gonna be livin’ on top of these lads in a high-stress environment. You need to know when to let the small irritations slide by. That’s how you get along and build a team.”
 
 “So… it was a test.”
 
@@ -1348,7 +1348,7 @@ Fair enough. He *was* remarkably fluffy.
 
 Fluffy or not, he made de-orbiting look easy. Surgical, even. *Drunker* handled the insertion smoothly and quietly and in remarkably short order they were skimming low over the ocean. Then, too quickly for Wilde to really follow, a thin green line on the horizon became a shoreline, became a green blur of marshlands and swamps below.
 
-Up ahead, the terrain finally decided to stop being lazy and started to do interesting stuff with craggy rock hills that thrust up from the green like a line of badly worn molars. They looked densely-packed and tight, but that was just an illusion of distance: Up close, the canyons between them were more than wide enough for *Drunker* to flit through under Tooko’s skillful paws
+Up ahead, the terrain finally decided to stop being lazy and started to do interesting stuff with craggy rock hills that thrust up from the green like a line of badly worn molars. They looked densely-packed and tight, but that was just an illusion of distance: Up close, the canyons between them were more than wide enough for *Drunker* to flit through under Tooko’s skillful paws.
 
 Wilde could hear him muttering to himself up front. “...Right here… descend to two hundred… there.”
 
@@ -1386,9 +1386,9 @@ Rees vanished in that direction brandishing an entrenching tool, and returned af
 
 “Oh. Lovely.”
 
-They cracked open the cache and then decided to leave it with the ship. It was there for emergency backup after al. That pretty much concluded their business at the landing site. Tooko was going to have to fend for himself without them for a while.
+They cracked open the cache and then decided to leave it with the ship. It was there for emergency backup after all. That pretty much concluded their business at the landing site. Tooko was going to have to fend for himself without them for a while.
 
-...In a nice cozy bed, on a fresh, sweet-smelling hilltop, well hidden in a defensible spot. Lucky sod. Wilde almost envied him.
+...In a nice cozy bed, on a fresh, sweet-smelling hilltop, well-hidden in a defensible spot. Lucky sod. Wilde almost envied him.
 
 But of course… Tooko wasn’t doing anything useful now.
 
@@ -1415,7 +1415,7 @@ So, it researched. It accessed as many libraries as it could reach, and worked i
 
 Later, the memories refined that sentiment to: *‘sometimes’* contained truths in allegory format. That was after about six solid hours of nothing but erotica, which created more questions than it answered. Though in fact, the Entity felt it had learned a lot. Nevertheless, it moved on alphabetically into Fantasy.
 
-It began with the complete works of Tolkein, and read them ten times in the space of a single minute. It spent a further five minutes digesting what it had read and occasionally re-reading the series. Intriguing.
+It began with the complete works of Tolkien, and read them ten times in the space of a single minute. It spent a further five minutes digesting what it had read and occasionally re-reading the series. Intriguing.
 
 Next came Pratchett. *Very* intriguing.
 
@@ -1431,14 +1431,14 @@ After all: this particular node was intimately involved in the Entity’s very e
 
 ___
 
-**Date Point: 16y1m AV**
+**Date Point: 16y1m AV**    
 **Mrwrki Station, Erebor System, Deep Space**    
 
 ***Darcy***
 
 Darcy sighed as she read the Entity’s message. Although the strange life-form was definitely getting more fluent at communicating with her, the language they spoke was a deeply private one. There were flashes of English here and there, sometimes even whole sentences. Other times it relied on strings of emoticons. Very occasionally, it even attached sound files which sounded like somebody had mashed together a dolphin and R2-D2.
 
-Despite these limitations, it could be remarkably expressive. And she knew it was being determinedly Patient with them while it waited for the rest of Mrwrki’s crew to chew through their endless, circular geek-talk about its nature and the ethics of maybe giving it access to von-neumann tech.
+Despite these limitations, it could be remarkably expressive. And she knew it was being determinedly Patient with them while it waited for the rest of Mrwrki’s crew to chew through their endless, circular geek-talk about its nature and the ethics of maybe giving it access to Von-Neumann tech.
 
 It was hardly surprising it had decided to take a vacation, or maybe go run an errand. But it was still frustrating.
 
@@ -1454,11 +1454,11 @@ Of course, she’d bowled *him* over too. Maybe after a year or two more of marr
 
 There was a very good reason they were both right at the sharp point of the Von-Neumann question. And when they were out of the lab, discussing it with others, the conversation tended to snowball until half the station’s intellectual coterie were sprawled all over the common area, nucleating into smaller and more precise debates while decimating the station’s coffee reserves.
 
-Darcy lurked on the edges for a few minutes as she acquired a Moroccan Mint tea and got a feel for what the current sticking point might be. The Coltainer program’s continued underperformance was a source of mounting external pressure, especially in light of the Ceres Incident. AEC wanted more places to spread human life off of Earth, and the Coltainers just weren’t delivering. Too many of them were simply disappearing out in the black and never checking in. Maybe they were self-destructing too sensitively over false alarms. May the Hunters really were prodding at them so relentlessly.
+Darcy lurked on the edges for a few minutes as she acquired a Moroccan Mint tea and got a feel for what the current sticking point might be. The Coltainer program’s continued underperformance was a source of mounting external pressure, especially in light of the Ceres Incident. AEC wanted more places to spread human life off of Earth, and the Coltainers just weren’t delivering. Too many of them were simply disappearing out in the black and never checking in. Maybe they were self-destructing too sensitively over false alarms. Maybe the Hunters really were prodding at them so relentlessly.
 
 Maybe they were just really stupid and kept crashing into something. That was the problem: only a handful had returned to share any news at all, and only *one* had reported actual success.
 
-There was, in short, a serious problem with Von-Neumann technology, and iIt turned out to be just the same as last time.
+There was, in short, a serious problem with Von-Neumann technology, and it turned out to be just the same as last time.
 
 “---Neural networks aren’t a real-time solution to problems in the real world—”
 
@@ -1520,7 +1520,7 @@ Lewis and Lucy shared a complicated married-couple glance that was about five mi
 
 “...Guess you’ve got me there,” he admitted.
 
-“It’s not really our decision though,” Darcy reminded them. “Ultimately, something like that has to go through Colonel Nadeau, from there to Brigadier Bartlett and then… I don’t know. Probably all the way up to AEC and the Allied leaders.”
+“It’s not really our decision though,” Darcy reminded them. “Ultimately, something like that has to go through Colonel Nadeau, from there to Brigadier-General Bartlett and then… I don’t know. Probably all the way up to AEC and the Allied leaders.”
 
 “Our recommendation should still carry weight…” Lucy said.
 
@@ -1542,7 +1542,7 @@ Now, she felt like she had even more responsibility than before. There was a uni
 
 So… no pressure.
 
-She sighed and called up the Hunter V-N probe schematics again. She barely understood them, but apparently the tech in them was already being adopted into human designs. The next-generation starships, the Royal Navy’s *Hostile* -class frigate and the US Navy’s *Shughart* -class escort, both promised to revolutionize spaceborne warfare just like the *Violent* -class and the *San Diego* -class before them.
+She sighed and called up the Hunter V-N probe schematics again. She barely understood them, but apparently the tech in them was already being adopted into human designs. The next-generation starships, the Royal Navy’s *Hostile*\-class frigate and the US Navy’s *Shughart*\-class escort, both promised to revolutionize spaceborne warfare just like the *Violent*\-class and the *San Diego*\-class before them.
 
 That seemed like a recipe for an endless cycle of counter-adaptation to Darcy. After all, it was reverse-engineered Hunter tech that had led humanity to discover FTL travel. Then the Hunters had adapted to human warfare, humanity had adapted to the Hunters, the Hunters had adapted *again…*
 
@@ -1647,7 +1647,7 @@ He scowled at the chuckle that swept around the camp.
 
 “Yup. Angharad. Four years old,” Rees smiled fondly. “Shame her mum’s a cunt, but I get to see her whenever I go on leave.”
 
-“Her mother is a what?” Took tilted his head. “I don’t know that one.”
+“Her mother is a what?” Tooko tilted his head. “I don’t know that one.”
 
 “Humans are weird,” Wilde explained. He didn’t get a chance to elaborate, however: There was a ping from his tablet, which was… unexpected, to say the least.
 
@@ -1668,7 +1668,7 @@ ___
 
 Some things, a man just had to do himself. Like, say, inspecting a device that was to strategic relations with every other nation on the planet what a big phlegmy loogie was to even the most delicious burger.
 
-Daar would *love* that analogy, too. Sartori would have to share it him when they met up later on. After all, there was something obscene about doing something this monumental and then being coy about it. This was an event that demanded a full screaming eagle *‘America fuck yeah’* suck-my-nuts attitude, and to *Hell* with what Beijing and the Kremlin thought about it, never mind the others.
+Daar would *love* that analogy, too. Sartori would have to share it with him when they met up later on. After all, there was something obscene about doing something this monumental and then being coy about it. This was an event that demanded a full screaming eagle *‘America fuck yeah’* suck-my-nuts attitude, and to *Hell* with what Beijing and the Kremlin thought about it, never mind the others.
 
 He was slamming the doors on *all* wormhole traffic within the orbit of Earth’s moon. From now on, if it wasn’t authorized by the USA then it wasn’t allowed to happen. Full stop, no negotiation, no way around it. A Farthrow generator was an absolute solution that created a lot of small problems in solving the big one.
 
@@ -1696,9 +1696,9 @@ There were foreign dignitaries present for this. Ambassadors, senior government 
 
 “It is emphatically *not* our place to use this generator to interfere with the legitimate affairs of our neighbors,” he said. “Instead we pledge it to their protection, as by protecting them we can be certain of protecting ourselves. My nation has, in somewhat recent decades, given the world two paradigm-shifting technologies: the Navstar global positioning system, and the Internet. In the spirit of those advances, we commit to an open and transparent operational regime, and will seek input from all our partners.
 
-“Unlike those systems, there is no escaping the singular nature of its operation. A second one of these would not overrule the existence of the first, it would only lock the door ever tighter. We recognize the concerns this creates. Being honest it gave me pause, and nearly prompted me to decline the Great Father’s generous gift.”
+“Unlike those systems, there is no escaping the singular nature of its operation. A second one of these would not overrule the existence of the first, it would only lock the door ever tighter. We recognize the concerns this creates. Being honest, it gave me pause and nearly prompted me to decline the Great Father’s generous gift.”
 
-He paused to take a brief sip of water. “However. All of us know what the stakes actually are. We know what the recent events on Ceres signify. We know what we are up against. Considering that, and reviewing the state of our international relations...we shall retain sovereign control of the device, until such time as a secure, trustworthy international regime can be established to our satisfaction. That concludes my statement, thank you.”
+He paused to take a brief sip of water. “However. All of us know what the stakes actually are. We know what the recent events on Ceres signify. We know what we are up against. Considering that, and reviewing the state of our international relations...we shall retain sovereign control of the device, until such time as a secure, trustworthy international regime can be established to  our satisfaction. That concludes my statement, thank you.”
 
 Well. Sartori had just undone much of his predecessors’ work in untangling the United States from binding--and arguably, strangling--international commitments. Instead of gradually relinquishing the title of ‘world police,’ he had just (by international standards) somewhat *lustily* embraced the title of “defender of mankind.”
 
@@ -1706,7 +1706,7 @@ Fuck.
 
 ___
 
-**Date Point:16y1m2w AV**     
+**Date Point: 16y1m2w AV**     
 **Class 11 planet, Messier 24**
 
 ***Brother Traan, Warleader of Fourth Fang***
@@ -1755,7 +1755,7 @@ Tooko chittered quietly to himself but kept out of the conversation. Something a
 
 Traan shook the Human’s hand. “They certainly do,” he agreed proudly. “Brother Traan, warleader of Fourth Fang.”
 
-“Sergeant Wilde, JETS team Two. I understand you [chaps] plan to make a mess.”
+“Sergeant Wilde, JETS Team Two. I understand you [chaps] plan to make a mess.”
 
 “Not without purpose.”
 
@@ -1822,7 +1822,7 @@ A journey that would have taken a substantial portion of a *year* at warp was ov
 
 Preed gasped softly the second it was over. It took Leemu a second to realize why: the old man had just laid eyes on a member of his own species for the first time in *decades.* There were two of them, in fact: a male and a female, wearing identical dark blue uniforms over white shirts as they stood to either side of a standard biofilter field arch. Both were wearing the slim, closed-lip smiles of Humans who spent a lot of time interacting with aliens.
 
-The female spoke up, calling over the chatter of travellers in a clear voice: “Welcome to Cimbrean, ladies and gentlemen! Please have your travel documents ready and form an orderly line for decontamination and security…” she lowered her voice then approached Preed. “Sir? Do you speak English or have a translator?”
+The female spoke up, calling over the chatter of travellers in a clear voice: “Welcome to Cimbrean, ladies and gentlemen! Please have your travel documents ready and form an orderly line for decontamination and security…” She lowered her voice then approached Preed. “Sir? Do you speak English or have a translator?”
 
 It took Preed a while to answer for whatever reason. “…Oh! I… I have a translator. I do not have travel documents... I was abducted.”
 
@@ -1872,7 +1872,7 @@ Gorku threw himself onto the couch with a heavy thump and sighed pathetically. �
 
 “Eh… True. But I shouldn’t keep secrets from friends.” Gorku chittered darkly. “Worst part? My disability messes with my sense of smell. Figger I’m almost as nose-blind as a Human... An’ the implant don’t do *shit* ‘ta fix it. That part o’ my brain were…atrophied.”
 
-“Uh, I don’t wanna pry, but…what caused it?” Leemu added hastily,” You don’t need to answer.”
+“Uh, I don’t wanna pry, but…what caused it?” Leemu added hastily,  "You don’t need to answer.”
 
 “Caused? Nothin’. Developmental, ‘parently. It weren’t genetic though, thank *fuck.* S’why they let me in the Clan in the first place, ‘cuz Stoneback is *picky.* So, there’s still hopes ‘fer me to sire another cub or three someday. Maybe...” He sighed again and scratched his flank distractedly. “I’m kinda worried about what it’ll be like if I take the implant out.”
 
@@ -1900,7 +1900,7 @@ Whatever the gesture meant—“hello,” presumably---Preed returned a slightly
 
 *“Sà wàt dii kráp.”*
 
-There followed a long discussion, lots of paperwork… apparently Preed’s prediction that he’d been declared legally dead was half-true. That had originally been the case, but when his name showed up on a list of recorded abductees that the Corti Directorate had shared with the Humans at some point, he’d been legally restored to life and marked as a missing person instead. That small fact along apparently streamlined matters considerably.
+There followed a long discussion, lots of paperwork… apparently Preed’s prediction that he’d been declared legally dead was half-true. That had originally been the case, but when his name showed up on a list of recorded abductees that the Corti Directorate had shared with the Humans at some point, he’d been legally restored to life and marked as a missing person instead. That small fact alone apparently streamlined matters considerably.
 
 It took less than an hour for Preed’s travel documents to be arranged. There were other details to worry about: apparently interstellar banking and finance was a whole cluster of headaches all by itself, not the least of which was how easily Preed’s savings could be accessed in Human space… but in the end, they were informed that they were free to wander the station’s public areas, but would not be granted access to private areas or any jump terminal hosting an in-system jump to Cimbrean’s surface or to Earth until the Gaoians had either resolved their implant problem or agreed to stay behind.
 
@@ -2024,7 +2024,7 @@ They were interrupted by the doorbell. Marty left Diego to explore the rug for a
 
 “No stamp on this,” she said, handing it over. “Just… the signature of postmaster-general of Akyawentuo.”
 
-*‘This’* turned out to be a package of four letters, in a clean-edged manilla envelope. One of the letters was written on sharp white office stationery, but the rest of it had a slightly more… home-grown feel. Clearly somebody over there had invented paper. Copied. Discovered, whatever.
+*‘This’* turned out to be a package of four letters, in a clean-edged manila envelope. One of the letters was written on sharp white office stationery, but the rest of it had a slightly more… home-grown feel. Clearly somebody over there had invented paper. Copied. Discovered, whatever.
 
 Allison took it off her. “...Akyawentuo has a postmaster-general?” She turned the envelope over in her hands and snorted. “...This is Daniel Hurt’s signature.”
 
@@ -2088,7 +2088,7 @@ Julian chuckled, looked over at Christian and Adam, and grinned sheepishly. “W
 
 “It’s Daniel,” Allison confirmed. “But there’s some other letters with it and the paper looks like a big guy made it by beating some bark flat with a rock.”
 
-“Ha!” Julian grinned and rolled the two boys over shoulder to their giggling protest, “That’s probably exactly what Vemik did, too…. Anyway, you two play nice, okay? Don’t beat up Righteous!”
+“Ha!” Julian grinned and rolled the two boys over his shoulder to their giggling protest. “That’s probably exactly what Vemik did, too…. Anyway, you two play nice, okay? Don’t beat up Righteous!”
 
 “We promise,” Tristan said. The kid had a remarkably sophisticated sense of humor sometimes, including a precocious nose for irony. It got a snicker from Christian at least. That made Julian grin evilly, and with a quiet grunt, easily tossed the boys completely across the yard, right into Christian’s absurd arms.
 
@@ -2202,11 +2202,11 @@ Freya and Marty weren’t exactly prissy blushing prudes, though. Both of them f
 
 Sure enough, a surprisingly good drawing of a giant butterfly-like insect took up an entire page. Vemik hadn’t colored it completely, but he had used crayons to suggest what the colors should be, hinting at an iridescent purple-green like a hummingbird.
 
-“We should copy this and get it to doctor Tisdale.”
+“We should copy this and get it to Doctor Tisdale.”
 
 “Which one?”
 
-“Both of them. Anyway, this is…” Xiù leafed through the ‘letter’ with a look of mild disbelief, “A lot to handle. I’ll translate it for you and mail you a copy.”
+“Both of them. Anyway, this is…” Xiù leafed through the ‘letter’ with a look of mild disbelief, “...a lot to handle. I’ll translate it for you and mail you a copy.”
 
 “Sounds good. I bet xenobiology is *fascinating,”* Marty nodded.
 
@@ -2308,7 +2308,7 @@ Bozo reluctantly gave up his quarry to one of the Human handlers. He stepped awa
 
 That was a code phrase, and apparently a reference to some animated series that Narl had never watched. *Section Nine:* suspected Hierarchy infiltrator. As opposed to a *Laughing Man,* which was a confirmed infiltrator.
 
-Just mentioning those words got things moving fast. The Silverfur was promptly secured and moved out of the public space.
+Just mentioning those words got things moving fast. The silverfur was promptly secured and moved out of the public space.
 
 Bozo loyally returned to Narl’s side--the one that had the gouges around his eye. He didn’t fawn or fuss, sensing somehow that wouldn’t be the right thing at the moment, but Narl had no doubt Bozo would be Helpfully doting on him for the entirety of his recovery. Narl hauled himself to his hindpaws, using Bozo’s thick neck as a solid surface to steady himself on.
 
@@ -2360,7 +2360,7 @@ Narl looked up at the security officer who was chaperoning the old man, and saw 
 
 “Sick,” Slater offered helpfully. “Let’s go with that.”
 
-“Oh…” the news seemed to cause the elderly Human real grief. “...Will he be alright?”
+“Oh…” The news seemed to cause the elderly Human real grief. “...Will he be alright?”
 
 “That’s not for me to say, sir,” Narl replied. In fact he was worrying about his own condition, now. If those claws could give the infamous *Human* immune system that kind of trouble, then the wound to his own face was...
 
@@ -2376,7 +2376,7 @@ His reply was a slightly stronger wag and a quiet version of Bozo’s usual floo
 
 ___
 
-**Date Point:16y2m AV**    
+**Date Point: 16y2m AV**    
 **Yukon–Koyukuk, Alaska, USA, Earth**
 
 ***Zane Reid***
