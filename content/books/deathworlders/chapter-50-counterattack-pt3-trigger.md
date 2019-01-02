@@ -2,6 +2,8 @@
 title: "Chapter 50: Counterattack, pt.3 - Trigger"
 date: 2018-11-30T13:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
+aliases:
+  - /books/deathworlders/chapter_50_counterattack_pt3_trigger
 ---
 
  **Date Point: 15y 10m AV**    
