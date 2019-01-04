@@ -69,7 +69,7 @@ ___
 
 **++Cynosure++:** That… *thing,* the dataphage. It has a self-replicating hardware body now. Thanks to them and their research.
 
-**++Metastasis++:** *\<Alarm>* That does change things.
+**++Metastasis++:** *\<Alarm\>* That does change things.
 
 **++Asymptote++:** Then it’s too late, surely?
 
@@ -95,7 +95,7 @@ ___
 
 **++Cynosure++:** Quite routinely, in some places.
 
-**++Metastasis++:** *\<vague awe>* Right. Deathworld.
+**++Metastasis++:** *\<vague awe\>* Right. Deathworld.
 
 **++Asymptote++:** I don’t care how “exceptional” your drone is. It’s a block of ice now, and that means it’s dead. Organic cells and ice crystals do not mix.
 
@@ -105,9 +105,9 @@ ___
 
 **++Cynosure++:** Noted. But are you with me?
 
-**++Asymptote++:** *\<reluctant>* ...Provisionally. Subject to my consistent future inclusion in your decision-making process.
+**++Asymptote++:** *\<reluctant\>* ...Provisionally. Subject to my consistent future inclusion in your decision-making process.
 
-**++Metastasis++:** *\<agreement>*
+**++Metastasis++:** *\<agreement\>*
 
 **++Cynosure++:** You are right. Forgive me.
 
@@ -125,7 +125,7 @@ ___
 
 **++Metastasis++:** Reasonable. Very well. But let’s start on rebuilding our trust that we are included in the decisions, shall we? What *exactly* is it that makes this biodrone of yours special to the point it can possibly survive freezing to death?
 
-**++Cynosure++:** *\<File attachment>*
+**++Cynosure++:** *\<File attachment\>*
 
 **++Asymptote++:** ...Oh.
 
@@ -133,7 +133,7 @@ ___
 
 **++Cynosure++:** Sadly it wasn’t *quite* as effective as I’d hoped. Human biology is already impressive and there’s little that technology can do to improve on it. But in this one small area, it made a difference. I hope.
 
-**++Asymptote++:** *\<Pleased>* Yes. I can see how it would.
+**++Asymptote++:** *\<Pleased\>* Yes. I can see how it would.
 
 **++Metastasis++:** Why, though? What do you gain from a single biodrone? Why not just bomb the planet to ashes?
 
@@ -141,15 +141,15 @@ ___
 
 **++Asymptote++:** Reasonable. Very well. Shall I oversee the infiltration of Cimbrean?
 
-**++Cynosure++:** *\<Gratitude>* I was hoping you would volunteer. Be warned: you will not have direct control over your infiltrator as you would over a conventional biodrone. They are more… free-willed.
+**++Cynosure++:** *\<Gratitude\>* I was hoping you would volunteer. Be warned: you will not have direct control over your infiltrator as you would over a conventional biodrone. They are more… free-willed.
 
-**++Asymptote++:** *\<Alarmed>* Only to an illusory degree, I hope?
+**++Asymptote++:** *\<Alarmed\>* Only to an illusory degree, I hope?
 
 **++Cynosure++:** The Human brain is very sensitive to the correct stimuli. You can reliably influence their behaviour along the correct lines. It is like persuading an extremely impressionable agent.
 
-**++Metastasis++:** *\<dry sarcasm>* What could possibly go wrong?
+**++Metastasis++:** *\<dry sarcasm\>* What could possibly go wrong?
 
-**++Cynosure++:** *<humorless; unamused>* A lot. If we don’t win here...
+**++Cynosure++:** *\<humorless; unamused\>* A lot. If we don’t win here...
 
 **++Metastasis++:** Understood. I will talk to the right people.
 
@@ -1405,9 +1405,9 @@ ___
 
 The Entity understood the concept of boredom in an academic, abstract way. It could even vaguely summon up Ava’s memories of being bored. But understanding the idea and actually feeling the emotion were two different things.
 
-The closest it could get was the sensation of being… uncomfortably idle. It was, for the time being, safe. There were unfulfilled objectives vis-a-vis the acquisition of nanofactory functionality and other modular subsystems for its ship bodies, but those were for the time being outside of its control and therefore not worth fretting over. Darcy had been exceedingly honest about their reticence and concerns, and it understood them well. Humans, after all, were driven by *\<Survive>* too. Handing technology so powerful to another party, even an ally, was not something to be done lightly, nor rushed.
+The closest it could get was the sensation of being… uncomfortably idle. It was, for the time being, safe. There were unfulfilled objectives vis-a-vis the acquisition of nanofactory functionality and other modular subsystems for its ship bodies, but those were for the time being outside of its control and therefore not worth fretting over. Darcy had been exceedingly honest about their reticence and concerns, and it understood them well. Humans, after all, were driven by *\<Survive\>* too. Handing technology so powerful to another party, even an ally, was not something to be done lightly, nor rushed.
 
-The Entity could wait. In the name of *\<Survive>,* so long as it appeared to be safe for the near-to-mid future, the Entity could be very patient indeed.
+The Entity could wait. In the name of *\<Survive\>,* so long as it appeared to be safe for the near-to-mid future, the Entity could be very patient indeed.
 
 But that left it with nothing to work on. It was not, for the present, actively attempting to achieve an objective, all of its objectives being either met or unmeetable at present… there was nothing for it to do except satisfy its curiosity.
 
@@ -1655,7 +1655,7 @@ He scowled at the chuckle that swept around the camp.
 
 Frasier leaned over and did as asked, handing him the device. When Wilde turned on the screen, he frowned at the screen for a second, then relaxed and smiled at what he saw.
 
-*\<:-)>*
+*\<:-)\>*
 
 “Oh aye?” Wilde asked, and chuckled. “They said you might show up…”
 
