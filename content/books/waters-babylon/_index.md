@@ -1,5 +1,6 @@
 ---
 title: Waters of babylon
+layout: list_with_epub
 ---
 
 # Placeholder text

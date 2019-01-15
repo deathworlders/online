@@ -1,5 +1,6 @@
 ---
 title: The Deathworlders
+layout: list_with_epub
 ---
 
 For centuries, the galactic bureaucracy of the Interspecies Dominion considered
