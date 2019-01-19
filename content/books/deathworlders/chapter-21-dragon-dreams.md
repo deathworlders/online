@@ -21,11 +21,11 @@ aliases:
 
 *The stone giant bows with a hand over his heart, and selects the enormous bronze coin that she has chosen.*
 
-*He raises it above his head. She spreads her arms, tilts her head back and smiles, welcoming what he is about to do. He brings it down hard, and* she woke in the instant before it crushed her*.*
+*He raises it above his head. She spreads her arms, tilts her head back and smiles, welcoming what he is about to do. He brings it down hard, and she woke in the instant before it crushed her.*
 
 ___
 
-"And then I said - *"*_Walk_** *home asshole!"* and hit the button!"
+"And then I said---**_"Walk_** *home asshole!"* and hit the button!"
 
 "Oh *man*!" Allison giggled, then winced as the laughter sent a fresh stab of pain through her abused cranium. When she raised her hand to the pain, it met cold metal instead. She had endured an uncomfortable and boring night in the ship's infirmary wearing a large and dorky helmet that Kirk had printed which used some form of applied alien science magic to clear up the lingering effects of being beaten in the head with a *Huh*. It looked like something out of a 1960s SciFi serial.
 
@@ -935,7 +935,7 @@ The modifications he read off a standard tablet computer were the work of minute
 
 Back in the comfort of his quarters, he settled onto the bed, folding his legs underneath him, and bade the room load a text chat interface and connect via the newly established protocol under his name.
 
-**++Syst§m N♦tif>c■t?♦n: Us§r ???? h■s j♦in§d th§ <error: undefined exception>++**
+**++Syst§m N♦tif\\>c■t?♦n: Us§r ???? h■s j♦in§d th§ \<error: undefined exception\>++**
 
 **++Welcome User ????++**
 
@@ -947,11 +947,11 @@ Back in the comfort of his quarters, he settled onto the bed, folding his legs u
 
 **++0007++: 	By all means you are welcome to volunteer for debugging software that has existed longer than you have. For now, I'll just kick this spurious "user" again.**
 
-**++System Notif■■■■■■■ <Error>**
+**++System Notif■■■■■■■ \<Error\>**
 
-**<Error>**
+**\<Error\>**
 
-**<Redirecting: Subnet Mask ????????? Port ?????>**
+**\<Redirecting: Subnet Mask ????????? Port ?????\>**
 
 **++System Notification: Welcome to the Cabal.++**
 
@@ -1187,7 +1187,7 @@ Julian stood his ground. "I like Kirk, I respect him. I've followed him through 
 
 "Being asked out ***is*** normal!"
 
-*"**GUYS!***"
+***"GUYS!""***
 
 Lewis' arms paused mid-outraged flail, and both of them turned to Amir, who had turned in his chair to break up the argument.
 
@@ -1327,7 +1327,7 @@ He took a deep breath and released it as a complex sighing sound, full of noises
 
 "I-I was mad with him over... well, over Xiù."
 
-"Mad why? What are-" suspicion sniped her right in the forehead and her jaw dropped. "Julian, what...? Are you fucking *jealous?" *
+"Mad why? What are-" suspicion sniped her right in the forehead and her jaw dropped. "Julian, what...? Are you fucking *jealous?"*
 
 The way he flinched and turned in on himself a bit more confirmed it. "You **are?** What, you thought you'd buy one get one free? You... you *pig!"*
 
@@ -1335,11 +1335,11 @@ The way he flinched and turned in on himself a bit more confirmed it. "You **are
 
 "Oh, what IS it like, then?"
 
-"What it's *like* is that I'm down here beating the crap out of that thing-" he pointed at the bag "-because I'm super fucking angry at myself!" He finally made eye contact.
+"What it's *like* is that I'm down here beating the crap out of that thing--" he pointed at the bag "--because I'm super fucking angry at myself!" He finally made eye contact.
 
 "As well you fucking should be!" she retorted.
 
-"Well... I am!"
+"Well...I am!"
 
 "Good!"
 
@@ -1987,7 +1987,7 @@ Lewis nodded, grabbed the back of Amir's head, touched forehead to forehead and 
 
 "Goodbye, dude." He whispered.
 
-Amir made a sound that might have been amusement and might have been frustration. Either way, he was smiling. *"*_GO._**" he repeated.
+Amir made a sound that might have been amusement and might have been frustration. Either way, he was smiling. **"_GO._"** he repeated.
 
 Lewis finally obeyed him.
 
@@ -2046,9 +2046,9 @@ Time to say goodbye. He conjured what little strength was left in his aching rib
 *"There is only one God, and Mohammad is His proph-*"
 ___
 
-**++0042++:**	*"*_Signal Lost_**"? **Did we just lose an experimental dreadnought to an** **_unarmed yacht?_**
+**++0042++:**	**_"Signal Lost_?"** **Did we just lose an experimental dreadnought to an** **_unarmed yacht?_**
 
-**++0007++: 	It doesn't matter. Priority Target One has still been killed. That's worth the loss.**
+**++0007++:	It doesn't matter. Priority Target One has still been killed. That's worth the loss.**
 
 **++0042++:	Are you absolutely sure?**
 
@@ -2080,9 +2080,9 @@ ___
 
 **++0004++:	Ending session. Good work.**
 
-**<System Notification: Session Closed>**
+**\<System Notification: Session Closed\>**
 
-**<Redirecting: Subnet Mask ????????? Port ?????>**
+**\<Redirecting: Subnet Mask ????????? Port ?????\>**
 
 **++????++:		So, what exactly happened, Six?**
 
@@ -2104,7 +2104,7 @@ ___
 
 **++????++:		If he survived, we'll be hearing from him soon. I hope.**
 
-**<System Notification:	Channel Closed>**
+**\<System Notification:	Channel Closed\>**
 
 ___
 
@@ -2221,7 +2221,7 @@ Julian tapped their end of the comm. "No need, pal." he grunted, stress and fear
 
 *"Three humans? Jackpot! You all okay in there?"*
 
-**"Three cases of recent vacuum exposure." Julian put it straight out there. "We *really* need a doctor, fella."
+**"Three cases of recent vacuum exposure."** Julian put it straight out there. "We *really* need a doctor, fella."
 
 *"Copy that. Sit tight folks, we'll have you out of there in a minute."*
 

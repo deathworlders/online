@@ -305,7 +305,7 @@ Maybe it was the booze doing the thinking, but he had a few questions he'd been 
 
 "You're telling me that'd be less of a problem for you than, say, kissing Charlotte?"
 
-"Well..." Ava fidgeted. "I shouldn't have done that. I mean, I know it wasn't...*anything...*but I...I don't know." She rubbed her face and got some hair out of the way. "It's like...if you're swimming then really a swimsuit is just, like, this nasty lump of wet cloth you have to take home with you when you're done. And it turns out they're pretty nasty bacteria traps, too. And, you know, people take their clothes off for showers and baths all the time, or, or the doctor or something, so...You know?"
+"Well..." Ava fidgeted. "I shouldn't have done that. I mean, I know it wasn't... *anything...* but I...I don't know." She rubbed her face and got some hair out of the way. "It's like...if you're swimming then really a swimsuit is just, like, this nasty lump of wet cloth you have to take home with you when you're done. And it turns out they're pretty nasty bacteria traps, too. And, you know, people take their clothes off for showers and baths all the time, or, or the doctor or something, so...You know?"
 
 "Know what?"
 
@@ -541,7 +541,7 @@ Sean sipped his cup of tea. "Dude, if I asked her why she loves this Adam guy? I
 
 "What?"
 
-"She'd bang on about how he's '*doing something amazing*' and how they '*went through a lot together' and...*you know, all that stuff we've heard before, right?"
+"She'd bang on about how he's '*doing something amazing*' and how they '*went through a lot together' and...* you know, all that stuff we've heard before, right?"
 
 "Right...?"
 
@@ -597,7 +597,7 @@ She laughed a little, set her tablet aside and got up to let him in.
 
 "What’s the occasion?" Ava asked, smiling nervously as she took it. Things had been a little awkward between them for nearly a month now, made all the worse by the nagging part of her brain that really, really missed being able to feel relaxed around him being at war with the part of her brain that really, really got all distracted and excited in his company.
 
-"It’s called '*hanging out*’, duck, maybe you’ve heard of it?"
+"It’s called *'hanging out,’* duck, maybe you’ve heard of it?"
 
 "I’m used to hanging out involving at least two more people." She said, letting him into the kitchen and selecting a glass for her drink.
 
@@ -617,15 +617,15 @@ She laughed a little, set her tablet aside and got up to let him in.
 
 "So responsible." he teased.
 
-"Somebody has to be." she retorted. "Besides, '*responsible*’ is the easy way. I **like** the easy way."
+"Somebody has to be." she retorted. "Besides, *'responsible'* is the easy way. I **like** the easy way."
 
 "I suppose I can see why." Sean mused, after sipping his beer again. "You’ve had it quite hard, after all"
 
-Ava made an incredulous little laugh. "Only somebody as...as *English* as you could call it '*quite* hard’."
+Ava made an incredulous little laugh. "Only somebody as...as *English* as you could call it *'quite* hard.'"
 
 "...I’m sorry."
 
-"No, it’s fine. Yes, I’ve had it '*quite hard*.’ My home city was only blown up by aliens. My parents and school friends are only dead. I only witnessed my best friend’s murder. My boyfriend’s only gone away for years to become a space marine. I’ve definitely had it '*quite hard*’, thank you for noticing!"
+"No, it’s fine. Yes, I’ve had it *'quite hard.’* My home city was only blown up by aliens. My parents and school friends are only dead. I only witnessed my best friend’s murder. My boyfriend’s only gone away for years to become a space marine. I’ve definitely had it *'quite hard,’* thank you for noticing!"
 
 Sean was silent for a minute until she cooled off again, which took nearly a third of her glass. "And you’re still giving me advice on how to do my coursework properly." he added.
 
@@ -639,13 +639,13 @@ Sean toasted her with his beer again, then put it down abruptly and sat forward.
 
 Ava paused in the middle of sipping her own drink. "Okay...?"
 
-"So, a man goes to see the doctor, and he says '*Doctor, I really need your help. I’ve been feeling so bleak and depressed lately, I don’t know what to do!*’ The doctor smiles and says. '*I know just what you need. The Great Pagliacci is in town this week,* *the funniest clown who ever lived! Go see him, and you will see that everything is alright.*’"
+"So, a man goes to see the doctor, and he says *'Doctor, I really need your help. I’ve been feeling so bleak and depressed lately, I don’t know what to do!''* The doctor smiles and says. *'I know just what you need. The Great Pagliacci is in town this week, the funniest clown who ever lived! Go see him, and you will see that everything is alright.'"*
 
 "A funny clown? Impossible." Ava noted.
 
-"Ahahaha." Sean enunciated the dry laugh. "Anyway, the man just breaks down in tears right there in the office. '*But doctor!*’ he cries: '*I AM the Great Pagliacci!*’"
+"Ahahaha." Sean enunciated the dry laugh. "Anyway, the man just breaks down in tears right there in the office. *'But doctor!'* he cries: *'I AM the Great Pagliacci!'"*
 
-What Ava produced in reaction wasn’t really a *laugh*. It was too short, and the amusement behind it was the quiet humour of bitter recognition, but it seemed to please Sean nonetheless, who shuffled a little closer.
+What Ava produced in reaction wasn’t really a *laugh.* It was too short, and the amusement behind it was the quiet humour of bitter recognition, but it seemed to please Sean nonetheless, who shuffled a little closer.
 
 "That’s...not a great joke." she said, unconsciously tucking a curl of hair behind her ear to look at him.
 
@@ -697,45 +697,45 @@ It had taken a whale-sized gulp of fuel just to get them aloft. Hence the stopov
 
 The hell with the cost of international calls. He could afford it, and she needed him.
 
-"...*Hello?"*
+*..."Hello?"*
 
 He smiled. She sounded so cute when she was tired. "Ava? Did I wake you, babe?"
 
-"...*It's three in the morning baby."* she griped, just a little. "*I mean, I'm real glad to hear from you but why didn't you call sooner?"*
+*"...It's three in the morning baby."* she griped, just a little. *"I mean, I'm real glad to hear from you but why didn't you call sooner?"*
 
 "I'm on a plane." he explained. "We just landed in Illinois."
 
-"*Oh...what are you doing on a plane in Illinois?"*
+*"Oh...what are you doing on a plane in Illinois?"*
 
 "It's refuelling. We're on our way up to Scotch Creek."
 
-"*Why are you-?"* There was a sharp rustling of bedding on her end of the line. "*Are you going back to **Cimbrean**?!"*
+*"Why are you--?"* There was a sharp rustling of bedding on her end of the line. *"Are you going back to* **Cimbrean?!"**
 
 "Yeah! The SOR's going to be permanently posted there! Isn't that cool?"
 
-"*Adam, when the hell were you planning on telling me this?!"*
+*"Adam, when the hell were you planning on telling me this?!"*
 
 "First chance I got!" Adam said. "Which is now."
 
-"*What about- what about your contract? What's going on with that?"* She asked, Adam frowned, wondering what was getting her so worked up.
+*"What about- what about your contract? What's going on with that?"* She asked, Adam frowned, wondering what was getting her so worked up.
 
-"I re-enlisted. They offered us this amazing homesteading incentive seeing as Folctha’s going to be the SOR’s permanent home and, you know, it’s ***home***, so-"
+"I re-enlisted. They offered us this amazing homesteading incentive seeing as Folctha’s going to be the SOR’s permanent home and, you know, it’s ***home,*** so--"
 
-"*Homesteading incentive?"* Ava interrupted him.
+*"Homesteading incentive?"* Ava interrupted him.
 
 "Yeah! It’s this big grant and maybe a low-interest loan for...you know, building a life out there. Buying a house or whatever. All they need from me is a few more years."
 
-"...*How **many** years, Adam?"*
+*"...How* **many** *years, Adam?"*
 
 "Uh...for the full grant, they want a career enlistment."
 
-"*Which is...how long?"*
+*"Which is...how long?"*
 
-"Uh..." he said sheepishly, "Well, I mean it’s...twenty years total commitment. But that include-"
+"Uh..." he said sheepishly, "Well, I mean it’s...twenty years total commitment. But that includes--"
 
-"***TWENTY YEARS?!***" Adam jerked the phone away from his ear and winced. He could still hear her anyway. "You *re-enlisted for **twenty years** and you're on a plane going back to Cimbrean where I won't be able to call you or anything and you're only telling me **now?!**"*
+***"TWENTY YEARS?!"*** Adam jerked the phone away from his ear and winced. He could still hear her anyway. *"You re-enlisted for* **twenty years** *and you're on a plane going back to Cimbrean where I won't be able to call you or anything and you're only telling me* **now?!"**
 
-"Baby," he argued. "That includes what I’ve already done, so it’s only sixteen-"
+"Baby," he argued. "That includes what I’ve already done, so it’s only sixteen--"
 
 There was a sharp sound and the line went dead. "Ava? Baby? Hello?"
 
@@ -749,7 +749,7 @@ Re-dialling sent him straight to her answerphone. He tried twice more just in ca
 
 Adam paused. "Well, uh...I mean, I, um..."
 
-Every last one of his buddies pantomimed and voiced dismay. Legsy just pressed three fingers to his forehead and looked pained. "You fuckin' *tit*." he groaned.
+Every last one of his buddies pantomimed and voiced dismay. Legsy just pressed three fingers to his forehead and looked pained. "You fuckin' *tit."* he groaned.
 
 Adam looked around at their reactions, then down at his knees. "...I really suck at this, huh?"
 
@@ -773,7 +773,7 @@ To her utter astonishment, smashed screen or not, it turned on and booted up. Sh
 
 She stood, took a shower, brushed her teeth, put on her clothes, grabbed her keys and the damaged device, and left the room.
 
-* * *
+---
 
 **Sean Harvey**
 
@@ -781,15 +781,15 @@ Sean’s phone rang five times before he swiped the green control to answer. Thr
 
 He answered cautiously. "Hey."
 
-"...*Hey*."
+*"...Hey."*
 
 "I uh...I was worried I wouldn’t hear from you again. After..."
 
-"*That was..."* Ava sighed down the phone. "...*We need to talk about it."*
+*"That was..."* Ava sighed down the phone. *"...We need to talk about it."*
 
 "I’ll come over."
 
-"*Or you could just let me in. It’s...kinda cold out here."*
+*"Or you could just let me in. It’s...kinda cold out here."*
 
 He frowned, leaned over and twitched the curtain aside. Ava gave him a sheepish wave through the glass. She was hovering outside his front door, bobbing, fidgeting and pacing.
 
@@ -853,7 +853,7 @@ Ava hesitated "Sean, I-" she began.
 
 "Sean-"
 
-"Just stop being the Great Pagliacci for once and let somebody do something for *YOU*, okay?! Let yourself be *selfish* fo-!"
+"Just stop being the Great Pagliacci for once and let somebody do something for *YOU,* okay?! Let yourself be *selfish* fo-!"
 
 She kissed him.
 
@@ -865,7 +865,7 @@ He knew how she felt. He hadn’t slept much last night either.
 
 A few minutes after she fell asleep, he did as well.
 
-* * *
+---
 
 **Date point: 8y 4m AV**  
 
@@ -903,7 +903,7 @@ It wasn't until they were squared away and he got a chance to sign into the barr
 
 John read it over his shoulder, at Adam's invitation—practically a request to have somebody holding his hand in case of the worst.
 
-"*I'm sorry baby. If that was your first chance to tell me then yeah, I shouldn't have blown up like I did. I'm just really frustrated sometimes. I'll try and find some way to keep on top of it. Love you – Ava."* he read.
+*"I'm sorry baby. If that was your first chance to tell me then yeah, I shouldn't have blown up like I did. I'm just really frustrated sometimes. I'll try and find some way to keep on top of it. Love you – Ava."* he read.
 
 Adam was sighing with relief. "She's a saint, you're right."
 
@@ -977,13 +977,13 @@ He gave his friend a slap on the shoulder and carried on.
 
 Whatever was going on with Ava, Adam at least was okay. That was all they could ask for.
 
-* * *
+---
 
 **Date Point: 8y 5m AV**  
 
 **London, England, Earth**
 
-Sean Harvey**.**
+**Sean Harvey**
 
 Ava had once told Sean that she had learned early on in practicing her photography that rain didn't show up well on camera. It could be the wettest, most miserable day ever, but all you actually got in the picture was a general sense of grey dampness. Rain in movies and on TV had to be hugely exaggerated to even show up.
 
@@ -1055,17 +1055,17 @@ He put his arm around her. "You okay?"
 
 They sat in silence for a while, watching the news.
 
-"*-criticized by some civil activists in India, where eighty million people still lack access to clean drinking water. However India's minister of water resources, Suresh Gadkari,* *was supportive of the idea."*
+*"--criticized by some civil activists in India, where eighty million people still lack access to clean drinking water. However India's minister of water resources, Suresh Gadkari, was supportive of the idea."*
 
 *"The greatest obstacle still bedevilling our efforts at universal access to sanitation and safe drinking water continues to be population. The declining cost of energy has helped us reach more people and improve their access to basic hygiene, but the fact is that our population is still growing, putting ever more strain on our already-overworked natural resources. If however we can encourage people to emigrate to an alien world where the water resources can be properly managed from the start, then that will take off the pressure here on Earth and allow us, for the first time ever, to seriously talk about reaching one hundred percent access to clean water. I'm personally very excited."*
 
 *"India and China aren't the only nations interested in emulating the example set by Folctha, however. The USA and Russia have both also expressed interest in founding colonies of their own, and EU ministers in Brussels have also been considering proposals for a colony, despite some outspoken opposition."*
 
-*"Humanity has already spread to one world and **killed** it. Millions of unique alien species, extinct because of just one person. Now, this era of the Earth's geological history is already known as the "anthropocene" and it's defined by a mass extinction event. Wherever we go, we kill things! And until we get that basic problem sorted out, then I don't care HOW many new antibiotics or whatever we find on these alien worlds, we've got no business going out there!"*
+*"Humanity has already spread to one world and* **killed** *it. Millions of unique alien species, extinct because of just one person. Now, this era of the Earth's geological history is already known as the "anthropocene" and it's defined by a mass extinction event. Wherever we go, we kill things! And until we get that basic problem sorted out, then I don't care HOW many new antibiotics or whatever we find on these alien worlds, we've got no business going out there!"*
 
 *French EU minister Noémie Perrin said that although such concerns were well-founded, there were still grounds for optimism.*
 
-*"Bien sûr, nous devons être prudents, mais...<Of course we need to be cautious, but I don't think that we will learn anything if we remain stuck on one planet. Already, contact with alien life promises to end our dependence on fossil fuels and has>"*
+*"Bien sûr, nous devons être prudents, mais...<Of course we need to be cautious, but I don't think that we will learn anything if we remain stuck on one planet. Already, contact with alien life promises to end our dependence on fossil fuels and has--"*
 
 Ava shifted against him. "Hey, Sean?"
 
@@ -1137,11 +1137,11 @@ Powell nodded, and hit the kettle's switch.
 
 "Yyyep."
 
-"And I'm the one who flew FTL first, so of *course* I get to dick around in front of the cameras for a few months rather than do something *useful*. You know they want me to do a fucking *documentary*?"
+"And I'm the one who flew FTL first, so of *course* I get to dick around in front of the cameras for a few months rather than do something *useful.* You know they want me to do a fucking *documentary?"*
 
 "Dreadful." Powell deadpanned.
 
-"End of the world!" Rylee rolled her eyes skywards, though she smiled. "Anyway, I figured if I took on a unit that's currently all classified and stuff then by the time the footage is *de*classified I won't have to answer stupid questions about it."
+"End of the world!" Rylee rolled her eyes skywards, though she smiled. "Anyway, I figured if I took on a unit that's currently all classified and stuff then by the time the footage is *de-*\classified I won't have to answer stupid questions about it."
 
 "Hence why you've come to us."
 
@@ -1243,7 +1243,7 @@ He rolled his head back and frowned at the ceiling, searching his memory. "Thirt
 
 "You want me to stress that?"
 
-"We're only going to want people who can hack the idea of never being the same again. Go talk to WARHORSE sometime—Staff Sergeant Arés. I used to work closely with his old man, who's a slim, small, little guy. Not unfit or anything, just...small. Four years ago, the lad was just, like, a younger version of 'is dad, but now he's fookin' *huge*! *A*nd he'll still be huge when he's in his eighties."
+"We're only going to want people who can hack the idea of never being the same again. Go talk to WARHORSE sometime—Staff Sergeant Arés. I used to work closely with his old man, who's a slim, small, little guy. Not unfit or anything, just...small. Four years ago, the lad was just, like, a younger version of 'is dad, but now he's fookin' *huge!* And he'll still be huge when he's in his eighties."
 
 Rylee nodded, thoughtfully. "I mean...I'm just going to be narrating and interviewing on this thing, it's up to the director in the end." she said. "But I'll pass that along."
 
@@ -1865,7 +1865,7 @@ She was rewarded with a ripple of laughter that told her she'd kept her tone lig
 
 "I can see why!" Royce agreed. "You did a tour in the Middle East-"
 
-"I flew a handful of missions several thousand feet *above* the Middle East." Rylee corrected him. She’d spent that entire conflict living comfortably in Germany, and was eager for there to be no confusion. '*Did a tour*’ made it sound like she’d been checking her boots in the desert every morning, and she didn’t want to overshadow the people who really had been putting up with the conditions down there.
+"I flew a handful of missions several thousand feet *above* the Middle East." Rylee corrected him. She’d spent that entire conflict living comfortably in Germany, and was eager for there to be no confusion. *'Did a tour'* made it sound like she’d been checking her boots in the desert every morning, and she didn’t want to overshadow the people who really had been putting up with the conditions down there.
 
 Royce politely ignored the interruption. "-then you trained for and flew *Pandora* and now you're a permanent fixture of the air force's 946th Spaceflight wing. And I'm told you're unusually devoted to your plane."
 
@@ -1971,4 +1971,4 @@ Royce sat back. "So, do you have any idea when somebody will get it right?" he a
 
 "It's been great being here."
 
-"Well, I hope you'll stick around for our next guest, Daniel Mayhew is here to talk about *Sweet Dreams*, and we've got South African comedian Raymond Mahlangu, coming up after the break, stay with us, we'll be right back!" 
+"Well, I hope you'll stick around for our next guest, Daniel Mayhew is here to talk about *Sweet Dreams*, and we've got South African comedian Raymond Mahlangu, coming up after the break, stay with us, we'll be right back!"

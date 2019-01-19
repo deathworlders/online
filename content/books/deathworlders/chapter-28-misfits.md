@@ -139,7 +139,7 @@ The reply was a handful of *Ri’* in coming. When it did, and he laid eyes on h
 
 Most likely the latter, if this was the same *’Caruthers’* who had so badly confounded Xkk’. And he could hardly blame the deathworlder for physical and emotional fatigue. The man must be feeling a weight of responsibility for what the Hunters had done to Perfection.
 
-*“Fleetmaster William Caruthers aboard the destroyer* Violent.” he replied, confirming Tk’v’s suspicions. A few of the *Lifebringer*’s officers exchanged nervous looks, and Tk’v could hardly blame them. ‘Destroyer’? ‘Violent’? Neither the classification nor name were calculated to inspire confidence in the peacefulness of deathworlders.
+*“Fleetmaster William Caruthers aboard the destroyer* Violent.” he replied, confirming Tk’v’s suspicions. A few of the *Lifebringer’s* officers exchanged nervous looks, and Tk’v could hardly blame them. ‘Destroyer’? ‘Violent’? Neither the classification nor name were calculated to inspire confidence in the peacefulness of deathworlders.
 
 “Bellicose names, fleetmaster.” Tk’v observed. “I hope they are not a statement of intent.”
 
@@ -213,7 +213,7 @@ He turned his attention away from them for now, and toward the surface of Perfec
 ___
 
 **Date Point 10y4m2w3d AV**    
-**HMS ***Sharman*** **(HMNB Folctha), Folctha, Cimbrean, The Far Reaches**
+**HMS** ***Sharman*** **(HMNB Folctha), Folctha, Cimbrean, The Far Reaches**
 
 ***Major Owen Powell***
 
@@ -804,7 +804,7 @@ Julian took his time in following her. She wasn’t hard to follow - the fitness
 
 What she didn’t do was make much noise. Julian was the other way round - he stepped lightly and tried to leave no clear sign of his passing, but he *did* sing to himself, humming and whistling through the bits where he couldn’t remember the lyrics. It was maybe a little ridiculous, but if there was anything nearby that would prefer to avoid him, he should give it plenty of notice rather than startling it. Besides, he was so used to doing it by now that it would have felt strange to him *not* to sing as he walked.
 
-♪♫*”Heyyy, darling… I hope you’re good toni-i-ght… hmm hmmm hmm-mm hmm….. Tell me something sweet…”*♪♫
+*♪♫”Heyyy, darling… I hope you’re good toni-i-ght… hmm hmmm hmm-mm hmm...Tell me something sweet…”♪♫*
 
 He ambled along in Xiù’s wake, inspecting all of the things she’d paused to look at, and several other interesting things that she’d apparently missed. The sedate pace allowed him to satisfy himself that he’d picked the right spot for them to dally the day away - there was no sign of any potentially dangerous wildlife in the area, which was his biggest concern, but also no sign that the river ever got high enough to threaten them or their stuff.
 
@@ -862,7 +862,7 @@ They enjoyed the comfortable silence together, basking in the scent of conifers 
 
 He raised his hand to squint against it. The weather was rolling in waves down the valley, and the rain would be back soon enough, but just for a few moments the view was clear, open and unimpeded.
 
-“*Ai ya…*” Xiù breathed.
+*“Ai ya…”* Xiù breathed.
 
 “Yeah.”
 
@@ -914,13 +914,13 @@ The Fermi Paradox was a now-extinct problem that had distracted people who were 
 
 Aru, being the home planet of a species who were already in the late stages of their terminal decline and apparently disinterested in doing anything to stop it, was naturally a decent starting point for anybody who wished to understand the nature of the Great Filter and maybe do something about it.
 
-Kirk had lingered there after collecting his most recent rescue, and then when Bedu had been sent to investigate *Sanctuary*’s disappearance, the *Negotiable Curiosity* had not needed to search very long and hard to find a debris field thirty light years away.
+Kirk had lingered there after collecting his most recent rescue, and then when Bedu had been sent to investigate *Sanctuary’s* disappearance, the *Negotiable Curiosity* had not needed to search very long and hard to find a debris field thirty light years away.
 
 Bedu’s ship, its owner had proudly explained, was equipped with particle detectors sensitive enough to trace the FTL movement of objects as small as an escape pod up to ten years after the fact, assuming the trail wasn’t confused by the passage of other ships. Space, however, was so… well, spacious, that really that was a problem that only manifested along major spacelanes and near stations.
 
 *Sanctuary*, while not a large ship, had been built with such a convention-stretching power output that its trail was the easiest Bedu had ever been called on to follow, and it had led him right to the heart of a tumbling cloud of wreckage.
 
-Again, the next part matched with what Etsicitty, Buehler and Chang had reported - something with the power output of a dreadnought had intercepted them, and both ships had been destroyed when *Sanctuary*’s mortally wounded pilot, Amir Bahmani, had rammed the hostile while the rest of the crew abandoned ship.
+Again, the next part matched with what Etsicitty, Buehler and Chang had reported - something with the power output of a dreadnought had intercepted them, and both ships had been destroyed when *Sanctuary’s* mortally wounded pilot, Amir Bahmani, had rammed the hostile while the rest of the crew abandoned ship.
 
 Bedu had initially followed the escape pod carrying the three humans. Retracing his steps and picking up the trail of the other, faster, lifeboat had eventually led him to a system known only by its stellar coordinates - Knight glossed over the string of numbers involved, which described the star’s type, age, distance as a proportion of the galactic radius from Sagittarius A* and its deviation in radians from the straight line connecting that object to the heart of the Andromeda galaxy.
 
@@ -928,9 +928,9 @@ The star in question was a red giant, well past its main sequence and venerably 
 
 It would have been a completely unremarkable system if not for the forcefield enclosing it - identical to the ones that even now protected Cimbrean and Earth - and the crashed Kwmbwrw research station lodged in one of that gas giant’s moons, which was in the wrong place to the tune of thirty thousand lightyears and change.
 
-From an intelligence perspective, however, by far the most important thing that Bedu was able to tell them was that at no point in its voyage from *Sanctuary*’s wreckage to this question mark of a system had Kirk’s lifeboat been intercepted.
+From an intelligence perspective, however, by far the most important thing that Bedu was able to tell them was that at no point in its voyage from *Sanctuary’s* wreckage to this question mark of a system had Kirk’s lifeboat been intercepted.
 
-While Bedu himself was Orange - augmented, possibly a target of interest for Hierarchy use, but not yet actually suspected of having been possessed by a Hierarchy demon - his story was corroborated by the *Negotiable Curiosity*’s sensor records, which in turn showed no signs of tampering.
+While Bedu himself was Orange - augmented, possibly a target of interest for Hierarchy use, but not yet actually suspected of having been possessed by a Hierarchy demon - his story was corroborated by the *Negotiable Curiosity’s* sensor records, which in turn showed no signs of tampering.
 
 Taken all together it was good news, and the report concluded with a recommendation that Kirk’s own status be downgraded from Orange to Yellow. He couldn’t be called Green until an implant scanner had pinged the inside of his skull, but Intel were at least happy enough to move him a step in that direction.
 
@@ -966,7 +966,7 @@ Allison gave a delighted laugh, and beamed at the way Xiù was giggling with her
 
 “Your turn!” she declared, and hoisted Xiù toward the railing. Xiù tried not to imagine what her mother would think, picked another male dancer and cupped her hands.
 
-“*Yáo pìguuu!*”
+*“Yáo pìguuu!”*
 
 Presumably the dancer didn’t speak a word of Mandarin, but he seemed to get the gist of it and posed for her, flexing magnificently. Xiù applauded while Allison blew him a kiss.
 
@@ -1109,7 +1109,7 @@ It was, in short, everything that a fleet needed to go somewhere and do somethin
 
 The humans, he knew, would be impressed. Fleetmaster Caruthers’ transport was an unmodified Dominion standard shuttle, a flying matte-grey brick that made up for in rugged reliability what it pathetically lacked in grace and aesthetics.
 
-Next to the troop lander and the two heavy cargo lifters currently squatting in *Lifebringer*’s number one docking bay, it was tiny, and it was still big enough to comfortably carry three young Guvnurag. When the humans stepped out of it, it made them seem comically small.
+Next to the troop lander and the two heavy cargo lifters currently squatting in *Lifebringer’s* number one docking bay, it was tiny, and it was still big enough to comfortably carry three young Guvnurag. When the humans stepped out of it, it made them seem comically small.
 
 The heavy vibrations their feet sent ringing through the deck shattered that smallness.
 
@@ -1131,7 +1131,7 @@ His trust was rewarded. Caruthers’ handshake was firm, but no more than that. 
 
 “Lead on.”
 
-V’tk did so, gesturing for the human to walk by his side. “I had *Lifebringer*’s dimensions converted into your units.” he said. “She is slightly more than four hundred meters across her widest axis, and masses approximately sixty million kilograms.”
+V’tk did so, gesturing for the human to walk by his side. “I had *Lifebringer’s* dimensions converted into your units.” he said. “She is slightly more than four hundred meters across her widest axis, and masses approximately sixty million kilograms.”
 
 “That must be pushing the limits of what’s physically possible.” Caruthers observed.
 
@@ -1257,7 +1257,7 @@ He turned off the privacy field and gestured invitingly for Rylee and the marine
 
 Rylee lowered her visor again. The odd thing was that she probably cut the most threatening and alien figure among them. MOPP - Mission Oriented Protective Posture - made the marines faceless and scary, but the technology hadn’t changed much in twenty years meaning that the men wearing it looked huge and encumbered, but also embarrassingly low-tech. It was a good show of strength… but Rylee knew from experience that while aliens were often impressed by seeing humans carry heavy loads, there was something they found even more intimidating about the human body itself - the shape of it, the way they moved. For whatever reason, aliens saw the same thing in a walking human that humans saw in a stalking tiger.
 
-MOPP hid that. Rylee’s flight suit didn’t. It was built by C&M Spacesuit Systems using the technology they’d developed for EV-MASS, making it snug, sleek and technical. A far cry from the bulky thing she’d worn eight years ago in *Pandora*’s early flights, with its duct tape modifications and velcro patch inside the helmet for scratching her nose.
+MOPP hid that. Rylee’s flight suit didn’t. It was built by C&M Spacesuit Systems using the technology they’d developed for EV-MASS, making it snug, sleek and technical. A far cry from the bulky thing she’d worn eight years ago in *Pandora’s* early flights, with its duct tape modifications and velcro patch inside the helmet for scratching her nose.
 
 Rylee secretly geeked out about it all the time. It looked like it had been created by the better class of digital artist, the ones who managed to balance a high-tech aesthetic with actual military function and practicality.
 
@@ -1499,9 +1499,9 @@ Adam blinked at him. “What?”
 
 “Man, I just… I mean, I never would have guessed. I mean, I love you anyway *amigo*, but you really could have broken the news more gently-!”
 
-“...***Martina,*** Dad! Her name’s *Martina*!”
+***“...Martina,*** Dad! Her name’s *Martina!”*
 
-“OHHH!” Gabe relaxed and laughed at the ceiling, wiping his forehead. He was too relieved to feel embarrassed. “*Gracias a Dios!*”
+“OHHH!” Gabe relaxed and laughed at the ceiling, wiping his forehead. He was too relieved to feel embarrassed. *“Gracias a Dios!”*
 
 Adam’s enormous shoulders rocked as he wheezed out his best Muttley laugh, and he gave Gabe a huge, crushing hug. “Nah, nah, nah… You’ve got nothing to worry about there, I promise.”
 
@@ -1509,7 +1509,7 @@ Adam’s enormous shoulders rocked as he wheezed out his best Muttley laugh, and
 
 “Well I mean, we’re not even dating yet...” Adam cleared his throat. “So, you’re gonna have to wait a bit, yeah?”
 
-“Hmmm… Are you sure you’re ready to date her? It’s kind of early, *Amigo*. What’s it been, three months? Less than?”
+“Hmmm… Are you sure you’re ready to date her? It’s kind of early, *Amigo.* What’s it been, three months? Less than?”
 
 Adam turned the TV down as the news turned its attention to the sport. “She’s not like Ava. She’s SOR, she knows the deal.”
 

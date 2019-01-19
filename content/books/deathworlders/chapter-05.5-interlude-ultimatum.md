@@ -19,23 +19,23 @@ Ten brood-transports. A thousand hunters. All sent to kill a single human: all d
 
 Alpha of Alphas decided that the time had come to settle the Brood of Broods.
 
-It broadcast: *+< Impatience; anger; command >+* **"ENOUGH!"** The mental noise ceased. Lingering emotions hung on the air like brittle harmonics.
+It broadcast: *+\<Impatience; anger; command\>+* **"ENOUGH!"** The mental noise ceased. Lingering emotions hung on the air like brittle harmonics.
 
-It broadcast: *+< Resolve; statement >+* "These new things have stolen what is rightfully ours. They have stolen the fear of the Herd. They have slain five broods of our finest hunters." *+<Declaration; resignation>+* "I name them Predators, the first species we have known that is not prey."
+It broadcast: *+\<Resolve; statement\>+* "These new things have stolen what is rightfully ours. They have stolen the fear of the Herd. They have slain five broods of our finest hunters." *+<Declaration; resignation>+* "I name them Predators, the first species we have known that is not prey."
 
 Barely-suppressed shock rippled through the minds of the gathered Alphas, but Alpha of Alphas noted the undercurrent: lack of surprise. It was gratifying to know that at least some of the gathered Broods were led by hunters that could see the future pattern of things so acutely.
 
-It broadcast: *+< Statement >+* "There can be only one Predator."
+It broadcast: *+\<Statement\>+* "There can be only one Predator."
 
 Only one of the senior and most respected Alphas, leader of the Marrow-Gnaw brood, dared respond to that.
 
-It broadcast: *+< Agreement; frustration; Query >+*  "The Alpha of Alphas has the truth of it. Yet it has not offered an explanation for how the barrier around their world may be bypassed. The *humans* are beyond our grasp. Must our vengeance wait until that obstacle is destroyed?"
+It broadcast: *+\<Agreement; frustration; Query\>+*  "The Alpha of Alphas has the truth of it. Yet it has not offered an explanation for how the barrier around their world may be bypassed. The *humans* are beyond our grasp. Must our vengeance wait until that obstacle is destroyed?"
 
 The Alpha of Alphas acknowledged the point with a gracious tilt of its head, away from the Marrow-Gnaw---a gesture of respect.
 
-It broadcast: *+< Rebuttal >+* "The Herd erected that barrier, the Herd will be coerced into lowering it."
+It broadcast: *+\<Rebuttal\>+* "The Herd erected that barrier, the Herd will be coerced into lowering it."
 
-Several others broadcast at once: *+< query >+* "How?"
+Several others broadcast at once: *+< query\>+* "How?"
 
 The Alpha of Alphas did not answer them immediately. It instead turned to the meat-slave, which cowered at his attention, naked and wretched as was appropriate.
 

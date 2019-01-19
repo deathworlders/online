@@ -570,7 +570,7 @@ Gabriel relented. Despite his best efforts to persuade the boy towards a safer a
 
 Adam glanced at the picture again. "Looks about as average-white-guy as they come." he opined.
 
-"Yep. Average height, brown hair, brown eyes, no distinguishing features. A face that can disappear in the crowd." Gabriel agreed. <*And into thin air*> he added in the privacy of his own mind. The vanishing act Johnson had pulled mid-video was causing him more and more alarm the more he thought about it. Half his day had involved taking a crash course in spacetime distortion physics, and the possible applications of the same reality-folding technology that allowed *Pandora* and her sisters to fly to Jupiter and back. Some kind of reverse-stasis technology that massively accelerated the murderer's personal time, allowing him to move so fast as to disappear between frames seemed the most likely explanation, but if he had something like *that* at his disposal...
+"Yep. Average height, brown hair, brown eyes, no distinguishing features. A face that can disappear in the crowd." Gabriel agreed. \<*And into thin air*\> he added in the privacy of his own mind. The vanishing act Johnson had pulled mid-video was causing him more and more alarm the more he thought about it. Half his day had involved taking a crash course in spacetime distortion physics, and the possible applications of the same reality-folding technology that allowed *Pandora* and her sisters to fly to Jupiter and back. Some kind of reverse-stasis technology that massively accelerated the murderer's personal time, allowing him to move so fast as to disappear between frames seemed the most likely explanation, but if he had something like *that* at his disposal...
 
 Adam continued to stare at the picture, clearly committing it to memory. He had a good memory for faces alright, Gabriel had to give his son that. But Johnson's was so... *generic* that unless the kid was memorizing every wrinkle and fleck of white in the beard---and there was no reason to assume that Johnson had retained his beard after a flagrant public murder caught on film---it was a hopeless cause.
 
@@ -788,7 +788,7 @@ Adam laughed slightly. "My Dad told me that'd just be two hours of sitting in th
 
 After he'd said it, the fear struck him that the line was corny and over-the-top, but Ava seemed to take it very well---she blushed and bounced happily in her shoes, then took his hand and led him towards the entrance.
 
-Adam allowed himself to be led, secretly amazed at how well things were going. <*maybe this isn't so difficult after all...*>
+Adam allowed himself to be led, secretly amazed at how well things were going. \<*maybe this isn't so difficult after all...*\>
 ___
 **Date Point 3y 8m 2w 4d AV**
 
@@ -846,39 +846,39 @@ He knew he wasn't wrong.
 ___
 **Date Point 3y 8m 2w 4d AV**
 
-+<*Impatience; Derision*> I really don't see what this accomplishes.+
++\<*Impatience; Derision*\> I really don't see what this accomplishes.+
 
 Six was gaining increased control over his human body, and managed to avoid allowing a tic of irritation to cross his face. Not that he felt it would blow his cover, but ideally he would prefer to go completely unnoticed, rather than be remembered as the strange man in the crowd making faces for no apparent reason.
 
-+<*Weary tolerance*> Seventy-Two, I have been a single-digit Number since before you were compiled. I have played my part in the cleansing of five deathworlds before this one. The only reason I'm not ordering you to shut up and stop repeating your doubt is because I hate standing on rank. I just ask---please---that you trust that I know what I'm doing.+
++\<*Weary tolerance*\> Seventy-Two, I have been a single-digit Number since before you were compiled. I have played my part in the cleansing of five deathworlds before this one. The only reason I'm not ordering you to shut up and stop repeating your doubt is because I hate standing on rank. I just ask---please---that you trust that I know what I'm doing.+
 
 There was no reply for a few minutes, buying him the time to show his ticket, enter the venue, find his assigned seat and look around with interest at the gathered crowd, most of whom were holding up their phones and cameras, getting snapshots to bleat at each other about where they were and what they were doing.
 
-He sat down when 72 intruded on his thoughts again. +<*resignation; frustration*> Very well. I trust your judgment. I just ask that you please share some of your reasoning with me.+
+He sat down when 72 intruded on his thoughts again. +\<*resignation; frustration*\> Very well. I trust your judgment. I just ask that you please share some of your reasoning with me.+
 
-+<*Satisfaction*> You only had to ask.+
++\<*Satisfaction*\> You only had to ask.+
 
 He paused to gather his thoughts, thinking how best to explain it to the much junior Number.
 
-+<*Mentoring*> Despite our late alert to just how far along the humans were, we still established our presence on this planet sufficiently early that the usual strategy of engineering a large-scale exchange of nuclear armaments *should* have worked. There was no reason for it not to.+
++\<*Mentoring*\> Despite our late alert to just how far along the humans were, we still established our presence on this planet sufficiently early that the usual strategy of engineering a large-scale exchange of nuclear armaments *should* have worked. There was no reason for it not to.+
 
-+<*Skeptical*> If you say so.+
++\<*Skeptical*\> If you say so.+
 
 Six smiled. Two groups of human females had assembled on the open floor below, wearing coloured clothing to indicate their team, plus some light impact-resistant armour to protect their joints and head, and curious wheeled shoes. He wondered idly what the rules of the game were.
 
-+<*Assertive*> I do say so. The failure of the strategy implies that there is some self-correcting element in the human psyche which compensates for the usual aggression of the deathworlder mindset. They are capable of being presented with an existential threat and choosing NOT to attack it, out of longer-term self interest.+
++\<*Assertive*\> I do say so. The failure of the strategy implies that there is some self-correcting element in the human psyche which compensates for the usual aggression of the deathworlder mindset. They are capable of being presented with an existential threat and choosing NOT to attack it, out of longer-term self interest.+
 
 The teams set up---a huddle of eight players, four from each team, blocking the path of the two in the back wearing a starred cover on their helmets.
 
-Seventy-Two still wasn't persuaded. +<*Dismissive*> So they're not stupid. You've not explained what that has to do with wasting my last biodrone on this suicide mission.+
+Seventy-Two still wasn't persuaded. +\<*Dismissive*\> So they're not stupid. You've not explained what that has to do with wasting my last biodrone on this suicide mission.+
 
-+<*Explanatory*> Their behaviour in a small crisis may shed light on their probable reaction to a larger one. By observing the former, I intend to gain insight into possible avenues of attack which we can exploit to eradicate them.+
++\<*Explanatory*\> Their behaviour in a small crisis may shed light on their probable reaction to a larger one. By observing the former, I intend to gain insight into possible avenues of attack which we can exploit to eradicate them.+
 
 A whistle blew, and the two players with stars on their helmets launched themselves forward, battling to get past the players in front. It was all remarkably physical, the players forcing one another off-balance and restraining one another with force that would have crippled or killed most life forms. Even as he watched, one of the starred players fell and slid some way on her back, her helmeted skull bouncing against the hard polished concrete floor. It was a serious blow, but she bounced back to her feet and threw herself into the fray again as if it was routine.
 
-+<*defeat*> I can't find fault with your reasoning. I just hope this pays off with useful intelligence.+
++\<*defeat*\> I can't find fault with your reasoning. I just hope this pays off with useful intelligence.+
 
-+<*confidence*> It will.+
++\<*confidence*\> It will.+
 
 There was no reply. The crowd emitted a delighted noise as one of the starred players broke free and accelerated around the oval track before diving straight back into the scrum she had so recently escaped. This time, with speed on her side she skipped through the pack and out the far side, at one point teetering on one wheeled foot on the very precipice of the track. The other starred player broke loose and gave chase, prompting the first one to dodge three more of the other team before patting her flanks three times, prompting a whistle to sound.
 
@@ -905,17 +905,17 @@ ___
 
 Seventy-two would have truly preferred to keep his last drone intact, but Six's superior rank---even if the older Number preferred not to rely on it, carried all the weight it needed to.
 
-Still, it was good that the arrogant Hierarch had shut up for the time being. It allowed Seventy-Two time to think and prepare some contingencies that <em>might</em>---with luck---mean they got to keep the biodrone after all.
+Still, it was good that the arrogant Hierarch had shut up for the time being. It allowed Seventy-Two time to think and prepare some contingencies that \<em\>might\</em\>---with luck---mean they got to keep the biodrone after all.
 
-His hopes of that were dashed when Six's impatient mental tones cut into his planning. +<*query*> What is the biodrone's ETA?+
+His hopes of that were dashed when Six's impatient mental tones cut into his planning. +\<*query*\> What is the biodrone's ETA?+
 
-+<*Report*> It has arrived. Retrieving the weapon from the vehicle's cargo compartment now.+
++\<*Report*\> It has arrived. Retrieving the weapon from the vehicle's cargo compartment now.+
 
 This was, technically, a small lie---the drone had been sitting in the car park for a few minutes awaiting the go signal while 72 desperately tried to work a survival scenario that would allow him to retain his last precious drone. Annoyed and resigned, he wrote the thing off. Six would just have to acquire the raw material to create the replacements himself, being the last remaining ambulatory part of the operation.
 
-+<*Satisfaction*> Good. Remember to instruct it *not* to shoot into the section where I'm sitting.+
++\<*Satisfaction*\> Good. Remember to instruct it *not* to shoot into the section where I'm sitting.+
 
-72 couldn't resist ironically echoing Six's own words back at him. *<Patient request>* +I just ask---please---that you trust that I know what I'm doing.+
+72 couldn't resist ironically echoing Six's own words back at him. *\<Patient request\>* +I just ask---please---that you trust that I know what I'm doing.+
 
 This was met with silence.
 
@@ -941,17 +941,17 @@ In fact, now he thought about it, this was exactly the kind of response that Six
 
 For the first time since he had arrived on Earth, Seventy-Two understood the urge to swear, and spoke aloud: "Feces!"
 
-He followed that declaration with an urgent transmission to Six. +<*Alarm; disbelief*> Armed response units will be converging on your location imminently. Abort.+
+He followed that declaration with an urgent transmission to Six. +\<*Alarm; disbelief*\> Armed response units will be converging on your location imminently. Abort.+
 
-+<*Incredulity*> That's impossible, nothing's happened yet.+
++\<*Incredulity*\> That's impossible, nothing's happened yet.+
 
-+<*Firm assertion*> I'm listening to their communications. *Abort*.+
++\<*Firm assertion*\> I'm listening to their communications. *Abort*.+
 
-+<*Reluctant acknowledgment*> Aborting.+
++\<*Reluctant acknowledgment*\> Aborting.+
 
-+<*firm*> I've withdrawn the assault unit, too. I think we have all the information you need.+
++\<*firm*\> I've withdrawn the assault unit, too. I think we have all the information you need.+
 
-+<*Worried*> I think you're right...+
++\<*Worried*\> I think you're right...+
 ___
 
 **Date Point 3y 8m 2w 4d AV**
@@ -985,13 +985,13 @@ Six's escape had been planned down to the finest detail on the assumption that n
 
 He wasn't prepared to just... leave, to abort the mission. That wasn't a scenario that had been deemed possible.
 
-+<*Anxiety; stress*> HOW?! Can they predict the future or something?+ he demanded over the thought-link.
++\<*Anxiety; stress*\> HOW?! Can they predict the future or something?+ he demanded over the thought-link.
 
-+<*reassuring; tense*> Don't be ridiculous.+
++\<*reassuring; tense*\> Don't be ridiculous.+
 
-+<*Gnawing fear*> But they have a word for it! "*Clairvoyance*"! Why would they have a word for something like that if they couldn't do it?+
++\<*Gnawing fear*\> But they have a word for it! "*Clairvoyance*"! Why would they have a word for something like that if they couldn't do it?+
 
-+<*Firm command*> You are panicking. Just get out of there and we will determine how this is possible once you are safe.+
++\<*Firm command*\> You are panicking. Just get out of there and we will determine how this is possible once you are safe.+
 
 People were bustling this way and that: he flinched nervously away from them, kept his face bowed, tried to escape unseen. He brushed past a muscular male in a jacket and hat, ignoring off the man's "watch it, buddy" as he turned his face away and walked as fast as he dared towards the exit.
 
