@@ -1065,7 +1065,7 @@ They sat in silence for a while, watching the news.
 
 *French EU minister Noémie Perrin said that although such concerns were well-founded, there were still grounds for optimism.*
 
-*"Bien sûr, nous devons être prudents, mais...<Of course we need to be cautious, but I don't think that we will learn anything if we remain stuck on one planet. Already, contact with alien life promises to end our dependence on fossil fuels and has>"*
+*"Bien sûr, nous devons être prudents, mais...<Of course we need to be cautious, but I don't think that we will learn anything if we remain stuck on one planet. Already, contact with alien life promises to end our dependence on fossil fuels and has--"*
 
 Ava shifted against him. "Hey, Sean?"
 

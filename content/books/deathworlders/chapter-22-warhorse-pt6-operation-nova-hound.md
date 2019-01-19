@@ -402,7 +402,7 @@ The huge alien was in a bad way, bleeding horribly from where the Hunters had bi
 
 ***The Alpha of the Brood-that-Builds***
 
-**+<Interest>** *A human Alpha. The first we have seen.+*
+**+\<Interest\>** *A human Alpha. The first we have seen.+*
 
 The Builder Alpha examined the perspective of the little insect-sized spy drone as it settled on the ceiling above the Deathworlder.
 
@@ -412,11 +412,11 @@ This particular specimen was clearly in command, having started by thrusting its
 
 The Alpha-of-Alphas was clearly intrigued also. It had a much more complete view of the battlefield than the Builder Alpha did, ensconced as it was in a kind of command throne that was designed to interface with its neural augmentations and greatly expand its ability to track and consider the situation. It had proven itself in battle against these humans, receiving only minor wounds at worst. Now it was proving itself as a commander and leader.
 
-**+<Correction>** *Not just an Alpha.+* it mused. **+<Observation>** *Notice the markings on their armor. There are three different Deathworlder broods here. Each fulfills a different role. This is an Alpha-of-many-broods. It must be an individual of great importance.+*
+**+\<Correction\>** *Not just an Alpha.+* it mused. **+\<Observation\>** *Notice the markings on their armor. There are three different Deathworlder broods here. Each fulfills a different role. This is an Alpha-of-many-broods. It must be an individual of great importance.+*
 
-The Builder broadcast understanding and agreement. **+<Fascination>** *Interesting that their broods function together through division of duty.+* it commented. **+<Inspiration>** *And that displacement device! The possibilities!+*
+The Builder broadcast understanding and agreement. **+\<Fascination\>** *Interesting that their broods function together through division of duty.+* it commented. **+\<Inspiration\>** *And that displacement device! The possibilities!+*
 
-**+<Satisfaction>** *Observing that device in action alone has been worth this trap.+* the Alpha-of-Alphas agreed. **+<Thoughtfulness>** *And the specialised behaviour of their warriors can be translated to our own broods. This is valuable data.+*
+**+\<Satisfaction\>** *Observing that device in action alone has been worth this trap.+* the Alpha-of-Alphas agreed. **+\<Thoughtfulness\>** *And the specialised behaviour of their warriors can be translated to our own broods. This is valuable data.+*
 
 They watched the Deathworlders slaughter lesser Hunters by the dozen for some minutes. The violence was almost intimidating, even from a cloaked listening post far removed from the action. The lead team of three would enter a compartment, and every Hunter within that compartment would be dead almost too quickly to fathom, cut down by withering volleys of disciplined firepower.
 
@@ -430,15 +430,15 @@ For their part, the Hunters' responses to human weaponry just didn't seem to be 
 
 As they watched, a family of spindly blue Prey were herded into the territory the humans had seized and vanished through the displacement device. Just behind them was the wounded Large Prey, actually being *carried* by two of the Deathworlders. The Builder revised its estimates as to human maximum muscle strength upwards by several percentage points.
 
-**+<Curiosity>** *Those two seem to prioritise the repair and evacuation of wounded Prey.+* it noted.
+**+\<Curiosity\>** *Those two seem to prioritise the repair and evacuation of wounded Prey.+* it noted.
 
-**+<Contempt>** *Yes. While that is an obvious sign of weakness and wrong-thinking, it will also potentially undermine our intimidation of the prey.+* the Alpha-of-Alpha's thoughts were tinged with anger at this damage to their propaganda victory.
+**+\<Contempt\>** *Yes. While that is an obvious sign of weakness and wrong-thinking, it will also potentially undermine our intimidation of the prey.+* the Alpha-of-Alpha's thoughts were tinged with anger at this damage to their propaganda victory.
 
-**+<Suggestion>** *I submit that we have gathered enough data. Those humans should be eradicated, their displacement device salvaged and we should capture that Alpha-of-Many-Broods.+* the Builder proposed.
+**+\<Suggestion\>** *I submit that we have gathered enough data. Those humans should be eradicated, their displacement device salvaged and we should capture that Alpha-of-Many-Broods.+* the Builder proposed.
 
 It did not take the silence that greeted this idea for hesitation or contempt. The Alpha-of-Alphas had demonstrated its intelligence and cunning time and again. It was undoubtedly mulling the suggestion over, considering the merits and potential risks.
 
-**+<Resolve>** *Agreed.+* It sent, at last. *+I will deploy the Strongest Brood.+*
+**+\<Resolve\>** *Agreed.+* It sent, at last. *+I will deploy the Strongest Brood.+*
 
 * * *
 
@@ -1270,19 +1270,19 @@ Rylee lined up, while her wingmen swept out to clear the box of any lingering ho
 
 * * *
 
-**<Delight>** +*Fusion weapons deployed via wormhole, too close to evade! ExoAtmospheric deployment of individual ground units! And the communications cyphers! I salivate to sink my teeth into those!*+ The Alpha Builder was broadcasting joyous paroxysms like a messy eater spraying prey-blood all over its fellows.
+**\<Delight\>** +*Fusion weapons deployed via wormhole, too close to evade! ExoAtmospheric deployment of individual ground units! And the communications cyphers! I salivate to sink my teeth into those!*+ The Alpha Builder was broadcasting joyous paroxysms like a messy eater spraying prey-blood all over its fellows.
 
-The Alpha-of-Alphas radiated a good mood. It leaned forward slightly in its throne **<Amused rebuke>** +*Continue to pay attention, and you will be fed further morsels I am sure. These deathworlders are not stupid, they will have many secrets in reserve that they have not yet revealed.*+ it declared. **<Regret>** +*A shame that Alpha-of-Many-Broods is going to escape capture.*+
+The Alpha-of-Alphas radiated a good mood. It leaned forward slightly in its throne **\<Amused rebuke\>** +*Continue to pay attention, and you will be fed further morsels I am sure. These deathworlders are not stupid, they will have many secrets in reserve that they have not yet revealed.*+ it declared. **\<Regret\>** +*A shame that Alpha-of-Many-Broods is going to escape capture.*+
 
-**<Query>** +*You are certain?*+
+**\<Query\>** +*You are certain?*+
 
-**<Assertion>** +*It is the most likely outcome. They move with remarkable speed across terrain.*+
+**\<Assertion\>** +*It is the most likely outcome. They move with remarkable speed across terrain.*+
 
-**<Observation>** +*The Broods are closing in on their refuge...*+
+**\<Observation\>** +*The Broods are closing in on their refuge...*+
 
-The Alpha-of-Alphas gestured resignation. **<Dismissive>** +*But we lack air and orbital control. There will be more deathworlder surprises. I do not doubt that the capture will fail, but we will learn more from it.*+
+The Alpha-of-Alphas gestured resignation. **\<Dismissive\>** +*But we lack air and orbital control. There will be more deathworlder surprises. I do not doubt that the capture will fail, but we will learn more from it.*+
 
-It snarled, baring all of those vicious teeth. **<Anticipation>** +*Every such secret gets us one step closer to devouring them*.+
+It snarled, baring all of those vicious teeth. **\<Anticipation\>** +*Every such secret gets us one step closer to devouring them*.+
 
 * * *
 
@@ -1330,13 +1330,13 @@ He watched it expire, then put the binoculars down. His paw was shaking.
 
 ***Alpha of the Brood-That-Builds***
 
-**<Epiphany>** +*Of course! So simple, yet so effective! No need for dangerous and expensive antimatter, no need to mine and enrich fissionable elements! Just drop a steel pole from orbit! Beautiful!*+
+**\<Epiphany\>** +*Of course! So simple, yet so effective! No need for dangerous and expensive antimatter, no need to mine and enrich fissionable elements! Just drop a steel pole from orbit! Beautiful!*+
 
-The Alpha-of-Alphas stroked a claw down one of the cables that connected it to the swarm. **<Observation>** +*It seems...crude.*+
+The Alpha-of-Alphas stroked a claw down one of the cables that connected it to the swarm. **\<Observation\>** +*It seems...crude.*+
 
-**<Insistence>** +*Crude it may be, but Alpha-of-Alphas, greatest one: This is the weapon with which we shall destroy them. With the resources needed to build a single swarm-ship, I can assemble enough of these to destroy a hundred cities.*+
+**\<Insistence\>** +*Crude it may be, but Alpha-of-Alphas, greatest one: This is the weapon with which we shall destroy them. With the resources needed to build a single swarm-ship, I can assemble enough of these to destroy a hundred cities.*+
 
-**<Satisfaction>** +*Then this hunt has served its purpose: I tire of it. We will intercept that shuttle and kill them. Begin the dismantling of the prey-station. Meat to the* *maw!*+
+**\<Satisfaction\>** +*Then this hunt has served its purpose: I tire of it. We will intercept that shuttle and kill them. Begin the dismantling of the prey-station. Meat to the* *maw!*+
 
 * * *
 
@@ -1526,7 +1526,7 @@ The Hunters didn't get the satisfaction of killing him.
 
 * * *
 
-+**<Admiration>**+
++**\<Admiration\>**+
 
 The Alpha-of-Alphas generated a mental note of disapproval aimed at the Alpha Builder, but the lesser being was not paying attention. It had watched a lone Deathwolder fight a hundred of its muscle-grafted experimental "Strongest Brood" warriors, and arguably win.
 
@@ -1534,15 +1534,15 @@ Everything from the biology, to the weaponry, armour and tactics spoke of wealth
 
 If only that equipment had not been destroyed.
 
-+**<Deference>** If the Alpha-of-Alphas desires it, this one can begin work on the next generation of innovations immediately.+ it suggested.
++**\<Deference\>** If the Alpha-of-Alphas desires it, this one can begin work on the next generation of innovations immediately.+ it suggested.
 
-+**<Blunt disinterest>** Do so.+
++**\<Blunt disinterest\>** Do so.+
 
 The Alpha Builder pretended not to notice the emotional context. It simply stood, and departed, already mentally preparing the calculations and experiments.
 
 Left alone in the dark and silence, the Alpha-of-Alphas finally indulged in an unashamed broadcast of its emotional state only once it was sure that there truly were no Hunters within broadcast range..
 
-+**<Admiration>**+
++**\<Admiration\>**+
 
 * * *
 
