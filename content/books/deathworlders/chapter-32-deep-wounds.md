@@ -14,11 +14,11 @@ A random visitor to the AAAF would have been forgiven for mistaking Doctor Clara
 
 If the random visitor had cared to look for five minutes, however, they would have seen the way she was the nexus of several ant-trails of busy men and women who came and went to get her opinion before scurrying off on errands. They would have seen that she checked, tapped on, wrote on and worked through her tablet and smartwatch almost constantly and, if they were smart, would have revised their first impression.
 
-Allison thoroughly liked her. She knew *Misfit*’s systems better than Allison herself did which was hardly surprising considering that she had designed more than a few of them herself, and they had worked together closely with Clara’s father to fine-tune the control systems to the point where *Misfit* felt like a living boat rather than an inert apparatus. Their excursion around the solar system had felt oddly like sailing, despite the absence of surf and seagulls.
+Allison thoroughly liked her. She knew *Misfit's* systems better than Allison herself did which was hardly surprising considering that she had designed more than a few of them herself, and they had worked together closely with Clara’s father to fine-tune the control systems to the point where *Misfit* felt like a living boat rather than an inert apparatus. Their excursion around the solar system had felt oddly like sailing, despite the absence of surf and seagulls.
 
 “Getting those guys from that VR game company on board for the WiTChES haptic feedback was a great idea,” she said. “It was almost like I could *feel* the solar wind.”
 
-“Too bad we can’t have you hauling on ropes,” Clara smiled, tapping something thoughtfully as another crate was loaded onto the dumbwaiter and vanished up into *Misfit*’s body.
+“Too bad we can’t have you hauling on ropes,” Clara smiled, tapping something thoughtfully as another crate was loaded onto the dumbwaiter and vanished up into *Misfit's* body.
 
 “Nah, I’d tire out. Besides, I never actually went sailing.” Allison shrugged.
 
@@ -28,7 +28,7 @@ Allison thoroughly liked her. She knew *Misfit*’s systems better than Allison 
 
 “Did I? Sorry.” Clara waggled her tablet. “Kinda distracted...Okay, that’s the last box of frozen kale...”
 
-“Check…” Allison did her best to keep the relief out of her voice. *Misfit*’s food supply had been carefully thought-out to fit as much nutrition as possible into the available space without sacrificing on variety and interest. It was heavy on salmon, kale, brown rice and potatoes. There was also beef liver, garlic, plenty of onions, carrots and parsnips, celery, spinach, boxes of freeze-dried eggs, bouillon and milk powder, dried beans and lentils, dried apricots, cranberries and blueberries, *Li hing mui*, honey, black pepper, salt and sugar, tea and coffee, herbs and spices, one freezer full of the frozen cuts from a whole lamb, another full of a whole beef cow, half a dozen whole chickens and the cleverly-packaged ‘good bits’ of dozens more, bacon, chorizo and salumi, wheat flour, condensed soup, one enormous wheel of cheddar and another of parmesan… and the two stashes.
+“Check…” Allison did her best to keep the relief out of her voice. *Misfit's* food supply had been carefully thought-out to fit as much nutrition as possible into the available space without sacrificing on variety and interest. It was heavy on salmon, kale, brown rice and potatoes. There was also beef liver, garlic, plenty of onions, carrots and parsnips, celery, spinach, boxes of freeze-dried eggs, bouillon and milk powder, dried beans and lentils, dried apricots, cranberries and blueberries, *Li hing mui*, honey, black pepper, salt and sugar, tea and coffee, herbs and spices, one freezer full of the frozen cuts from a whole lamb, another full of a whole beef cow, half a dozen whole chickens and the cleverly-packaged ‘good bits’ of dozens more, bacon, chorizo and salumi, wheat flour, condensed soup, one enormous wheel of cheddar and another of parmesan… and the two stashes.
 
 One stash was the emergency stash. It contained, in one crate, enough food to keep the three of them alive---not happy or thriving, but alive---for a year if they didn’t mind a diet composed mostly of baked insects supplemented by peanut butter, processed cheese and vitamin tablets with the occasional MRE thrown in for when they needed to actually do something active. The other was the luxury stash which was mostly just beer and chocolate.
 
@@ -62,7 +62,7 @@ Clara put her tablet by her side and relaxed. “I guess that’s my job done,�
 
 “Long overdue!” Allison raised an eyebrow.
 
-“Hey, interstellar scout ships don’t build themselves…” Clara kicked the heel of her boot idly into the concrete floor, looking thoughtfully up at *Misfit*’s industrial lines. “...We did a good job though, right? I mean-”
+“Hey, interstellar scout ships don’t build themselves…” Clara kicked the heel of her boot idly into the concrete floor, looking thoughtfully up at *Misfit's* industrial lines. “...We did a good job though, right? I mean-”
 
 “Clara, she’s amazing. I love her.”
 
@@ -72,7 +72,7 @@ Allison shrugged. “*Sanctuary* was a hell of a ship and she could move like no
 
 Clara nodded. She seemed buoyed by the reassurance, but still not entirely at ease and it wasn’t hard to guess why.
 
-“We’ll be fine, I promise,” Allison told her. They glanced up as *Misfit*’s airlock cycled and disgorged the three men who had been helping load and pack the provisions, plus Julian. He gave them friendly shoulder-slaps and handshakes as they parted ways and trotted across the concrete wearing the happy perspiring smile he always wore after a session of good physical work.
+“We’ll be fine, I promise,” Allison told her. They glanced up as *Misfit's* airlock cycled and disgorged the three men who had been helping load and pack the provisions, plus Julian. He gave them friendly shoulder-slaps and handshakes as they parted ways and trotted across the concrete wearing the happy perspiring smile he always wore after a session of good physical work.
 
 “That’s the last of it, right?”
 
@@ -102,7 +102,7 @@ He was also the only guy in the whole Byron Group who was completely in on the r
 
 Kevin watched her go, all the way across the concrete until the door closed behind her, then pulled out an implant scanner and a data card, one of MBG’s forays into electronics that packed several terabytes of information onto something roughly the size and shape of a credit card and could communicate that data wirelessly with no battery of its own. “Heads.” he said.
 
-They obeyed the formality without complaint, letting him ping their brains for hardware that shouldn’t be there. There was none, of course, and he sent a text message then handed over the card. “Those are your codes for the Cimbrean-Five jump beacon,” he said. “Keep that card safe. It’s got all kindsa copy-protection and lockouts on it so you can’t transfer its content to any other device, and it’ll wipe itself if you try and use it with a computer that ain’t *Misfit*’s brain. You lose it or wipe it, and you have to walk home the slow way.”
+They obeyed the formality without complaint, letting him ping their brains for hardware that shouldn’t be there. There was none, of course, and he sent a text message then handed over the card. “Those are your codes for the Cimbrean-Five jump beacon,” he said. “Keep that card safe. It’s got all kindsa copy-protection and lockouts on it so you can’t transfer its content to any other device, and it’ll wipe itself if you try and use it with a computer that ain’t *Misfit's* brain. You lose it or wipe it, and you have to walk home the slow way.”
 
 He handed it to Xiù. “Y’all got any questions, now’s the time to ask ‘em I guess.”
 
@@ -130,7 +130,7 @@ Julian shook his hand, as did Allison. Xiù surprised them all by giving him a h
 
 “Reckon it needed breaking,” Kevin replied, though he was obviously touched. “Look, uh… Be careful. I wanna see you all back here safe and sound and full’a stories.”
 
-“Or at least bored and disappointed.” Allison had her private suspicion that she’d just listed the most likely outcome, despite Clara’s assurances that *Misfit*’s exoplanet telescope could reliably scan thousands of potential stars a second and would readily guide them toward planets with the right kind of oxygen-nitrogen atmosphere. She trusted Clara, but the whole group could err a little too heavily on the side of optimism, and Clara was no exception.
+“Or at least bored and disappointed.” Allison had her private suspicion that she’d just listed the most likely outcome, despite Clara’s assurances that *Misfit's* exoplanet telescope could reliably scan thousands of potential stars a second and would readily guide them toward planets with the right kind of oxygen-nitrogen atmosphere. She trusted Clara, but the whole group could err a little too heavily on the side of optimism, and Clara was no exception.
 
 “Nah,” Kevin predicted. “We learned too much from the earlier missions. You’re gonna come back with a hard drive full of useful planets, I know it.”
 
@@ -271,7 +271,7 @@ Ava said nothing: she watched, and listened.
 
 Darcy sighed and steepled her fingers together. She touched them to her nose as she drew a thoughtful breath, and rubbed her palms. “Professionally? Officially? We don’t know and we’re keeping an open mind. But… yes. If what you say about your memories is true then that seems plausible.”
 
-Ava deflated. Her hands came up and rubbed her brow as she shook her head. "*Joder todo sobre mi vida…*” she whispered.
+Ava deflated. Her hands came up and rubbed her brow as she shook her head. *"Joder todo sobre mi vida…”* she whispered.
 
 Darcy could hardly blame her. “Look…” she said. “If you need to talk to somebody about this, I can arrange-”
 
@@ -356,7 +356,7 @@ And then there was her chair. She loved that chair. It was *her* chair, a bespok
 
 But that was *Misfit* through-and-through. She’d been refined even as she was being built, and the little customizations that fit her to her crew were everywhere, right down to a drawer handle that was in easy reach from her chair that hadn’t been back in the Box’s mock-up. The attention to detail was humbling.
 
-“Okay baby girl, time to wake up…” she crooned as she sat down and buckled herself in. *Misfit*’s master power button was prominently placed in the middle at the back, right under her main monitor, which flickered through the usual wall of rapid-fire plain text as the ship booted up. *Misfit* yawned and stretched, bringing up her power from the most basic level subsistence to something more awake. She was still lazy and dozing but she was actually alert to commands now. Fans whirred up quietly, LEDs danced, relays and circuit breakers clicked and Allison watched all the important power bars on her left-hand monitor settle comfortably in their green zones.
+“Okay baby girl, time to wake up…” she crooned as she sat down and buckled herself in. *Misfit's* master power button was prominently placed in the middle at the back, right under her main monitor, which flickered through the usual wall of rapid-fire plain text as the ship booted up. *Misfit* yawned and stretched, bringing up her power from the most basic level subsistence to something more awake. She was still lazy and dozing but she was actually alert to commands now. Fans whirred up quietly, LEDs danced, relays and circuit breakers clicked and Allison watched all the important power bars on her left-hand monitor settle comfortably in their green zones.
 
 She adjusted their balance slightly. *Misfit* liked to provide gravity throughout the whole ship by default but Allison had quickly discovered that she could turn off the G in the hab, storage, central transit, the staging room and the airlock while they were at station and save herself a lot of watts that way. They didn’t have anything on board that would suffer from a little microgravity anyway and it was all strapped down or securely stowed.
 
@@ -426,7 +426,7 @@ They sat and talked and hung out in the hab’s cupola window as they waited for
 
 With no existing Cimbrean zodiac to draw on, the astronomers at Folctha’s observatory had drawn creatively from more modern sources to name the patterns in the Cimbrean sky, hence the presence of constellations like Isambard the Engineer (so named because it looked like a stick figure wearing a tall stovepipe hat), The Fourteen Valar, and everybody’s favorite: Bruce the Bat, which was an alarmingly good match for the Bat-Signal.
 
-It took three hours for the border patrol to finally get around to them in the form of a Dominion-made shuttle that rolled up on their port side. For some stupid reason the shuttles weren’t designed to dock with anything, so two men in familiar EVA suits space walked over, one of whom was built to a distinctive scale that made *Misfit*’s staging room seem much too small as the pair of them squeezed inside.
+It took three hours for the border patrol to finally get around to them in the form of a Dominion-made shuttle that rolled up on their port side. For some stupid reason the shuttles weren’t designed to dock with anything, so two men in familiar EVA suits space walked over, one of whom was built to a distinctive scale that made *Misfit's* staging room seem much too small as the pair of them squeezed inside.
 
 Sergeant Arés had a huge loveable smile as he took his helmet off. “Well, lookit you! Y’know, you guys are kinda my heroes?”
 
@@ -561,7 +561,7 @@ The only silver lining he could see was that if the Hierarchy *had* compromised 
 
 Really, there was nothing for it but to carry on as if they hadn’t. He just thanked his lucky stars that it was the brain of a well-compartmentalized girl that had been scanned, rather than somebody more informed like Darcy.
 
-“No,” he shook his head. “Not the same. It knows things she didn’t and couldn’t. It’s clearly gathering intel, wherever it is and, um, *what*ever it is.”
+“No,” he shook his head. “Not the same. It knows things she didn’t and couldn’t. It’s clearly gathering intel, wherever it is and, um, *what*-ever it is.”
 
 He glanced at the message again. He wasn’t quite sure why it made his skin crawl - it was methodically laid out, concise, thorough and enlightening. Its claims, if substantiated, laid to rest some long-standing questions about not just the Hierarchy but also about Igraen civilization as a whole and the civil war with Six’s *’Cabal’*, and it included detailed means by which those claims could be proven. It was, in short, as perfect an intel resource as a message could be.
 
@@ -638,11 +638,11 @@ He knelt---*not* an easy maneuver with his bad leg---to give her a fatherly kiss
 
 She nodded. “And… everything.”
 
-“*Pobrecita…*” Gabe sat down next to her. “But, I hear you’re off the hook.”
+*“Pobrecita…”* Gabe sat down next to her. “But, I hear you’re off the hook.”
 
 She nodded again, although she couldn’t possibly have looked less enthused.
 
-“*Entiendo,*” he said softly, and put a hand on her head. “*Tuviste una mala semana.*”
+*“Entiendo,”* he said softly, and put a hand on her head. *“Tuviste una mala semana.”*
 
 She nodded and curled up on herself some more, and they sat in silence for several minutes until she took a deep breath. “*Papá…* Promise you won’t… can you keep a secret?”
 
@@ -704,7 +704,7 @@ Gabe kissed her forehead. “There are four types of people in the world who wan
 
 “…Uh...I haven’t been to church in…” she paused, plainly drawing a blank. “...It’s been too long.”
 
-“It’s never too long, *mija.*” Gabe reassured her. “And it’ll help.”
+“It’s never too long, *mija.”* Gabe reassured her. “And it’ll help.”
 
 Ava sighed, but nodded. “I guess it can’t hurt.”
 
@@ -712,7 +712,7 @@ Ava sighed, but nodded. “I guess it can’t hurt.”
 
 She blinked at him. “...Now?”
 
-“*Now,*” Gabe nodded, gently but firmly. “Because while you’re gone, I’m gonna make this house safe for you. I’m gonna lock up the knives, the pills, everything. And you’re gonna stay here a little while, okay? Until you feel safe. I’m gonna have to tell Jess...” Ava nodded, “...and we’ll take it one day at a time, okay?”
+*“Now,”* Gabe nodded, gently but firmly. “Because while you’re gone, I’m gonna make this house safe for you. I’m gonna lock up the knives, the pills, everything. And you’re gonna stay here a little while, okay? Until you feel safe. I’m gonna have to tell Jess...” Ava nodded, “...and we’ll take it one day at a time, okay?”
 
 Ava nodded again, and hauled herself upright. “...I love you, Dad.”
 
@@ -753,7 +753,7 @@ The Sister serving as the commune’s front gate guard was a small one, smaller 
 
 “Good evening!” she called cheerily, in English.
 
-“*Mi o!*” Xiù replied, causing the sister’s ears to flick in surprise. “*Ya si bäyo bì kan ushu na tò?*”
+*“Mi o!”* Xiù replied, causing the sister’s ears to flick in surprise. *“Ya si bäyo bì kan ushu na tò?”*
 
 “[Your accent is very good!]” the Sister observed, in delighted Gaori.
 
@@ -796,7 +796,7 @@ Anybody who spent time around Gaoian cubs was used to being pounced on: it was t
 The result was painful. Xiù was knocked off her feet and tumbled in a dizzying tangle down the small slope of the landscaping engulfed in soft brown fur. She fetched up flat on her back and a touch winded, being hugged furiously and keened at by a Gaoian female who was at least as tall as Julian, and nearly as heavy.
 
 
-Since when did Gaoians get so *big*?!
+Since when did Gaoians get so *big?!*
 
 “Shoo! Shoo! [You came back!]”
 
@@ -804,14 +804,16 @@ The Sister backed away and sniffed her vigorously, keening delight: a human woul
 
 Xiù’s impact-addled brain finally managed to see the markings around the eyes and the muzzle, but even though she recognized them it took several stunned breaths before what they *meant* finally settled in and she realized who she was pinned under.
 
-“...Oh my God,” she half-laughed, incredulously. “*Myun?!*”
+“...Oh my God,” she half-laughed, incredulously. *“Myun?!”*
 
 Myun duck-nodded, still keening a little. “Surprised?” she asked in remarkably unaccented English.
 
 Xiù put her arms around her old friend and hugged her close. “...you got big!” she said.
 
 She couldn’t think of anything else to say.
-___
+
+---
+
 **Date Point 10y9m AV**    
 **Quarterside Park, Folctha, Cimbrean, the Far Reaches**
 
@@ -1124,7 +1126,7 @@ It was Julian’s turn to feel a little overwhelmed. “I, ah...uh, sorta. But-�
 
 “Oh, right. You told me about this. Humans just have sex without the babies, don’t you?”
 
-“Myun, for *fuck’s sake-!*” Xiù rarely swore, but Julian couldn’t blame her. A nearby diner had outright hidden his whole face behind a napkin and his shoulders were heaving. Fortunately, it got through Myun’s enthusiasm enough to make her look around and take stock.
+“Myun, for *fuck’s sake-!”* Xiù rarely swore, but Julian couldn’t blame her. A nearby diner had outright hidden his whole face behind a napkin and his shoulders were heaving. Fortunately, it got through Myun’s enthusiasm enough to make her look around and take stock.
 
 “...Did I say something wrong?”
 
@@ -1146,7 +1148,7 @@ Julian cleared his throat. “Maybe you two should go have this conversation in 
 
 “But-”
 
-“*Myun.*”
+*“Myun.”*
 
 The enormous Gaoian whimpered again and got up hang-headed. “Yes, Mother…”
 
@@ -1188,7 +1190,7 @@ Julian put his arm around her waist. “Y’okay?”
 
 “Magic…” Allison rested her head back and sighed happily. “...I really enjoyed that.”
 
-They drunkenly enthused about their night all the way back to the starport, all the way back into the hangar, up *Misfit*’s ladder and fell into a happy tipsy triple cuddle on the bed with an unsteady “wu-ah!” from Julian as the girls dragged him down.
+They drunkenly enthused about their night all the way back to the starport, all the way back into the hangar, up *Misfit's* ladder and fell into a happy tipsy triple cuddle on the bed with an unsteady “wu-ah!” from Julian as the girls dragged him down.
 
 “Whooah, we haven’ bin drunk in… ‘ow long?” he asked, wriggling comfortably into place between them.
 
@@ -1503,7 +1505,7 @@ This earned more laughter, and they made small talk like that for several minute
 
 It was all *divine*, and the evening was generally pretty relaxed even if they *were* treated to spectating some more of Adam’s attempts to be the most perfect date. He got better as the night went on and even managed to relax and get out of the mindset of making everything as super perfect as he possibly could.
 
-Sadly, they had to wrap it up early and relatively sober. *Misfit*’s itinerary called for a jump back to the Cimbrean-5 customs beacon to recover their impounded stuff in the morning but it was a pleasant way to round off what had effectively been a brief vacation.
+Sadly, they had to wrap it up early and relatively sober. *Misfit's* itinerary called for a jump back to the Cimbrean-5 customs beacon to recover their impounded stuff in the morning but it was a pleasant way to round off what had effectively been a brief vacation.
 
 Naturally, the topic of choice in the cab back to the spaceport was their host’s prospects.
 
@@ -1615,7 +1617,7 @@ Gabriel was waiting for Ava when she checked her bags with the HMS *Sharman* gat
 
 He was in his wheelchair. He *hated* using his wheelchair.
 
-She gave him a kiss on the cheek and a hug. “Hey! *¿Estás bien?*”
+She gave him a kiss on the cheek and a hug. “Hey! *¿Estás bien?”*
 
 Gabe grumbled unhappily. “My fucking leg’s not working at all today…” He groused. “Enough about me. How did it go?”
 
@@ -1625,7 +1627,7 @@ Gabe grumbled unhappily. “My fucking leg’s not working at all today…” He
 
 “I guess…”
 
-Gabe gestured back toward town and turned his chair. There was nothing wrong with his arms at least. “*¿Qué pasa?*” he asked, softly.
+Gabe gestured back toward town and turned his chair. There was nothing wrong with his arms at least. *“¿Qué pasa?”* he asked, softly.
 
 “I… this is gonna sound stupid...” Ava sighed, falling in alongside him.
 
@@ -1653,7 +1655,7 @@ Gabriel sighed as they stopped at the pedestrian crossing. “It’s human natur
 
  “And then you get obese diabetics complaining about how hard their life is when it’d have been way *less* harder if they just put in some effort,” Ava observed as he pressed the button..
 
-“You’re in a cynical mood today, *mija*…”
+“You’re in a cynical mood today, *mija…”*
 
 “Sorry.”
 
@@ -1661,7 +1663,7 @@ Gabriel sighed as they stopped at the pedestrian crossing. “It’s human natur
 
 “Charlotte’s promised to nag me if I don’t,” Ava told him, with a weak but genuine smile. Finally opening up to her best friend had been difficult and tearful, but had rewarded her with the kind of emotional and practical support that only a midwife could provide.
 
-“You’re lucky to have friends like- *¡Me cago en todo lo que se menea!*”
+“You’re lucky to have friends like- *¡Me cago en todo lo que se menea!”*
 
 Heads turned at that last virulent outburst as Gabe inexpertly turned his chair a little too soon after making it up onto the sidewalk and managed to get himself stuck straddling the kerb. He wrenched furiously at the wheels to try and get it back onto the sidewalk then went limp and defeated.
 
@@ -1675,7 +1677,7 @@ Ava hauled him back up safely onto the sidewalk. He sighed and rubbed at his tem
 
 “Sometimes I think *’fuck’* might just be the best word ever invented,” he confessed.
 
-She put a hand on his back. “*Entiendo.*”
+She put a hand on his back. *“Entiendo.”*
 
 He rubbed the wheel ruefully. “Let’s go for a walk. I need the practice and the doctor says I should use this thing more anyway…”
 
@@ -1685,7 +1687,7 @@ He rubbed the wheel ruefully. “Let’s go for a walk. I need the practice and 
 
 “I don’t *want* to, but I will,” Ava said firmly.
 
-Gabe paused, then nodded. “Right. *Es justo.*”
+Gabe paused, then nodded. “Right. *Es justo.”*
 
 “There’s that nice gelato place on Parkside and Peake…” Ava suggested.
 
@@ -1958,9 +1960,9 @@ Allison snorted and shook her head. “I was, huh?”
 
 “Yeah. Did I really sound creepy?”
 
-“You laughed like *’hurrr hurrr hurrr…’*” Allison imitated a slow, low and gormless laugh.
+“You laughed like *’hurrr hurrr hurrr…’”* Allison imitated a slow, low and gormless laugh.
 
-“Oh *God*…” Xiù buried her face in her pillow, feeling her cheeks burn red.
+“Oh *God…”* Xiù buried her face in her pillow, feeling her cheeks burn red.
 
 “Hey, at least your dreams are funny…” Allison beamed.
 
@@ -1976,11 +1978,11 @@ Of course, Allison was far too competitive to take defeat gracefully. She wriggl
 
 “Owowow...ow!”
 
-Xiù relented again. “Give,” she repeated slowly, lowering her face for emphasis “U-*Mm!*”
+Xiù relented again. “Give,” she repeated slowly, lowering her face for emphasis “U-*Mm!”*
 
 Allison had surged up and kissed her.
 
-Oh. Well. If *that* was the game she wanted to play…
+Oh. Well. If *that* was the game she wanted to play...
 
 Julian was treated to quite the show a few minutes later when he finished his shower. He paused in the doorway and watched until Xiù noticed him.
 
@@ -1994,7 +1996,7 @@ Julian was treated to quite the show a few minutes later when he finished his sh
 
 *“Yeff she iff!”* Allison managed to call, in a muffled voice. She was face-down in a pillow with her hands held inextricably behind her back and Xiù sitting astride her legs.
 
-“Hush, *Shǎguā*…” Xiù grinned down at her.
+“Hush, *Shǎguā…”* Xiù grinned down at her.
 
 At long last, Allison finally gave up and went limp. *“...Yeff m’m…”*
 
@@ -2008,7 +2010,7 @@ Julian muttered something to himself that sounded like *”Fuck, that’s hot…
 
 Xiù bent forward and nibbled her ear, which she’d found was a sure-fire way to get Allison flustered. “Mm-hmm…”
 
-Allison gasped and shivered. “*Fuck*…!”
+Allison gasped and shivered. “*Fuck…!”*
 
 “Relax, *Shǎguā.* You brought this on yoursel-”
 
@@ -2095,7 +2097,7 @@ She called the station’s communications center.
 
 *”Station comms… Ah, Fleetmaster. What can I do for you?”*
 
-The *Linchpin*’s commsmaster was a Ruibal by the name of Thlenth. Ruibal were fellow four-arms, but with knobbled orange skin and an odd number of legs---she’d read once that their fifth leg was actually an evolved tail, though she had no idea what kind of habitat or stimuli might have induced such an evolution---and unsettlingly large mouths. They were one of the rarer species in the wider galaxy, given their fondness for parochial bickering on their homeworld…
+The *Linchpin's* commsmaster was a Ruibal by the name of Thlenth. Ruibal were fellow four-arms, but with knobbled orange skin and an odd number of legs---she’d read once that their fifth leg was actually an evolved tail, though she had no idea what kind of habitat or stimuli might have induced such an evolution---and unsettlingly large mouths. They were one of the rarer species in the wider galaxy, given their fondness for parochial bickering on their homeworld…
 
 She folded the thought up and put it away. Different species had different priorities and she would respect that: unconscious bigotry had no place in the mind of a commander.
 
@@ -2137,7 +2139,7 @@ He stank, and was filthy with dried mud, but he was *back*.
 
 They both ignored the amused trills from the villagers as he ran his hand through her hair crest and sighed happily. “By the gods, I missed you…”
 
-“What happened?!” she asked. “It was only a hunt, you’ve been gone for...what’s *this?*”
+“What happened?!” she asked. “It was only a hunt, you’ve been gone for...what’s *this?”*
 
 She had seen the… object on their litter. It didn’t quite look real, somehow: its edges were too straight and clean and its surface was as flat as still water. It was made of the same strange material as the sharp death-bird wing that Sky-Thinker now used as a knife, apart from a tangle of four strange dark flexible tubes like thick black guts that sprouted from one end.
 
@@ -2254,7 +2256,7 @@ He must have been moving like a thundercloud this morning because a wave of peop
 
 Which led to the fourth sign. He got to Powell’s new house ready for the moving-in barbecue and party they were throwing for him, heard movement and voices on the deck ‘round the back and jogged round eager to be around his buddies. There were three steps up onto the deck and he was so distracted with waving and calling out greetings that he forgot to put his foot on one of the structural beams and it crunched right through the wood like the deck was made of saltine crackers.
 
-“*¡Coño!*”
+*“¡Coño!”*
 
 Vandenberg helped him extract himself with some affectionate smack-talk.
 
@@ -2264,7 +2266,7 @@ Vandenberg helped him extract himself with some affectionate smack-talk.
 
 “Yeah, my bad bro. Shoulda built it Warhorse-proof.”
 
-“Beginning to think there’s no such thing…” Adam grumbled, adding a muttered “*¡La madre que me parió…!*” as he examined the damage. “...Sorry, man.”
+“Beginning to think there’s no such thing…” Adam grumbled, adding a muttered *“¡La madre que me parió…!”* as he examined the damage. “...Sorry, man.”
 
 “Don’t even worry about it. ‘S a quick fix and I can make it stronger’n before.” Rebar smacked him on the shoulder. “Firth’s got the barbecue going, there’s iced tea and football indoors and maybe something for that leg. And, y’know, the floor is made’a concrete.”
 
@@ -2408,7 +2410,7 @@ Speaking of which…
 
 She forced him out of her thoughts and directed her attention fully onto what she was doing. Nine valuable lives were in her hands, this was no time to allow herself to be distracted. What they were going into could plausibly become dangerous enough anyway, they damn well weren’t going to get hurt because of her.
 
-The job was *not* being helped by the cramped confines of HMS *Valiant*’s tiny flight deck where the Techs were working butt-to-butt, elbow-to-elbow and by leaning around one another. If ‘Horse hadn’t needed to be present so Hargreaves and Doyle could sew him into his undersuit, in fact, she’d have told him to get the hell off the deck and make some room.
+The job was *not* being helped by the cramped confines of HMS *Valiant’s* tiny flight deck where the Techs were working butt-to-butt, elbow-to-elbow and by leaning around one another. If ‘Horse hadn’t needed to be present so Hargreaves and Doyle could sew him into his undersuit, in fact, she’d have told him to get the hell off the deck and make some room.
 
 The crowding problem got even more acute when Major Powell bustled in from the direction of the CIC.
 
@@ -2521,7 +2523,7 @@ The dust was clearing, and Stainless had a good view of the compound below. A lo
 
 “REBAR, HIGHLAND, STARFALL, TITAN and WARHORSE will land north east corner of the courtyard,” he declared. “RIGHTEOUS, SNAPFIRE, BASEBALL and STAINLESS will land south side. Remember, spare the conscripts if you can.”
 
-*”Angels Three, pop ‘em!*”
+*”Angels Three, pop ‘em!”*
 
 They hit their EAR field emitter controls and the protective cocoon of forcefields that had shielded them from the searing plasma of re-entry found a new shape. Wide invisible wings of nothing but electrostatic wizardry zipped out around them and arrested their fall until they were coming in no harder than an ordinary parachute descent and without the awkward flapping mass of a ‘chute to control and shed once they were on the ground.
 
