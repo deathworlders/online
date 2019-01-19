@@ -701,41 +701,41 @@ The hell with the cost of international calls. He could afford it, and she neede
 
 He smiled. She sounded so cute when she was tired. "Ava? Did I wake you, babe?"
 
-"...*It's three in the morning baby."* she griped, just a little. "*I mean, I'm real glad to hear from you but why didn't you call sooner?"*
+*"...It's three in the morning baby."* she griped, just a little. *"I mean, I'm real glad to hear from you but why didn't you call sooner?"*
 
 "I'm on a plane." he explained. "We just landed in Illinois."
 
-"*Oh...what are you doing on a plane in Illinois?"*
+*"Oh...what are you doing on a plane in Illinois?"*
 
 "It's refuelling. We're on our way up to Scotch Creek."
 
-"*Why are you-?"* There was a sharp rustling of bedding on her end of the line. "*Are you going back to **Cimbrean**?!"*
+*"Why are you-?"* There was a sharp rustling of bedding on her end of the line. *"Are you going back to **Cimbrean?!"**
 
 "Yeah! The SOR's going to be permanently posted there! Isn't that cool?"
 
-"*Adam, when the hell were you planning on telling me this?!"*
+*"Adam, when the hell were you planning on telling me this?!"*
 
 "First chance I got!" Adam said. "Which is now."
 
-"*What about- what about your contract? What's going on with that?"* She asked, Adam frowned, wondering what was getting her so worked up.
+*"What about- what about your contract? What's going on with that?"* She asked, Adam frowned, wondering what was getting her so worked up.
 
-"I re-enlisted. They offered us this amazing homesteading incentive seeing as Folctha’s going to be the SOR’s permanent home and, you know, it’s ***home***, so-"
+"I re-enlisted. They offered us this amazing homesteading incentive seeing as Folctha’s going to be the SOR’s permanent home and, you know, it’s ***home,*** so--"
 
-"*Homesteading incentive?"* Ava interrupted him.
+*"Homesteading incentive?"* Ava interrupted him.
 
 "Yeah! It’s this big grant and maybe a low-interest loan for...you know, building a life out there. Buying a house or whatever. All they need from me is a few more years."
 
-"...*How **many** years, Adam?"*
+*"...How* **many** *years, Adam?"*
 
 "Uh...for the full grant, they want a career enlistment."
 
-"*Which is...how long?"*
+*"Which is...how long?"*
 
-"Uh..." he said sheepishly, "Well, I mean it’s...twenty years total commitment. But that include-"
+"Uh..." he said sheepishly, "Well, I mean it’s...twenty years total commitment. But that includes--"
 
-"***TWENTY YEARS?!***" Adam jerked the phone away from his ear and winced. He could still hear her anyway. "You *re-enlisted for **twenty years** and you're on a plane going back to Cimbrean where I won't be able to call you or anything and you're only telling me **now?!**"*
+***"TWENTY YEARS?!"*** Adam jerked the phone away from his ear and winced. He could still hear her anyway. *"You re-enlisted for* **twenty years** *and you're on a plane going back to Cimbrean where I won't be able to call you or anything and you're only telling me* **now?!"**
 
-"Baby," he argued. "That includes what I’ve already done, so it’s only sixteen-"
+"Baby," he argued. "That includes what I’ve already done, so it’s only sixteen--"
 
 There was a sharp sound and the line went dead. "Ava? Baby? Hello?"
 
@@ -749,7 +749,7 @@ Re-dialling sent him straight to her answerphone. He tried twice more just in ca
 
 Adam paused. "Well, uh...I mean, I, um..."
 
-Every last one of his buddies pantomimed and voiced dismay. Legsy just pressed three fingers to his forehead and looked pained. "You fuckin' *tit*." he groaned.
+Every last one of his buddies pantomimed and voiced dismay. Legsy just pressed three fingers to his forehead and looked pained. "You fuckin' *tit."* he groaned.
 
 Adam looked around at their reactions, then down at his knees. "...I really suck at this, huh?"
 
@@ -773,7 +773,7 @@ To her utter astonishment, smashed screen or not, it turned on and booted up. Sh
 
 She stood, took a shower, brushed her teeth, put on her clothes, grabbed her keys and the damaged device, and left the room.
 
-* * *
+---
 
 **Sean Harvey**
 
@@ -781,15 +781,15 @@ Sean’s phone rang five times before he swiped the green control to answer. Thr
 
 He answered cautiously. "Hey."
 
-"...*Hey*."
+*"...Hey."*
 
 "I uh...I was worried I wouldn’t hear from you again. After..."
 
-"*That was..."* Ava sighed down the phone. "...*We need to talk about it."*
+*"That was..."* Ava sighed down the phone. *"...We need to talk about it."*
 
 "I’ll come over."
 
-"*Or you could just let me in. It’s...kinda cold out here."*
+*"Or you could just let me in. It’s...kinda cold out here."*
 
 He frowned, leaned over and twitched the curtain aside. Ava gave him a sheepish wave through the glass. She was hovering outside his front door, bobbing, fidgeting and pacing.
 
@@ -853,7 +853,7 @@ Ava hesitated "Sean, I-" she began.
 
 "Sean-"
 
-"Just stop being the Great Pagliacci for once and let somebody do something for *YOU*, okay?! Let yourself be *selfish* fo-!"
+"Just stop being the Great Pagliacci for once and let somebody do something for *YOU,* okay?! Let yourself be *selfish* fo-!"
 
 She kissed him.
 
@@ -865,7 +865,7 @@ He knew how she felt. He hadn’t slept much last night either.
 
 A few minutes after she fell asleep, he did as well.
 
-* * *
+---
 
 **Date point: 8y 4m AV**  
 
@@ -903,7 +903,7 @@ It wasn't until they were squared away and he got a chance to sign into the barr
 
 John read it over his shoulder, at Adam's invitation—practically a request to have somebody holding his hand in case of the worst.
 
-"*I'm sorry baby. If that was your first chance to tell me then yeah, I shouldn't have blown up like I did. I'm just really frustrated sometimes. I'll try and find some way to keep on top of it. Love you – Ava."* he read.
+*"I'm sorry baby. If that was your first chance to tell me then yeah, I shouldn't have blown up like I did. I'm just really frustrated sometimes. I'll try and find some way to keep on top of it. Love you – Ava."* he read.
 
 Adam was sighing with relief. "She's a saint, you're right."
 
@@ -977,13 +977,13 @@ He gave his friend a slap on the shoulder and carried on.
 
 Whatever was going on with Ava, Adam at least was okay. That was all they could ask for.
 
-* * *
+---
 
 **Date Point: 8y 5m AV**  
 
 **London, England, Earth**
 
-Sean Harvey**.**
+**Sean Harvey**
 
 Ava had once told Sean that she had learned early on in practicing her photography that rain didn't show up well on camera. It could be the wettest, most miserable day ever, but all you actually got in the picture was a general sense of grey dampness. Rain in movies and on TV had to be hugely exaggerated to even show up.
 
@@ -1055,13 +1055,13 @@ He put his arm around her. "You okay?"
 
 They sat in silence for a while, watching the news.
 
-"*-criticized by some civil activists in India, where eighty million people still lack access to clean drinking water. However India's minister of water resources, Suresh Gadkari,* *was supportive of the idea."*
+*"--criticized by some civil activists in India, where eighty million people still lack access to clean drinking water. However India's minister of water resources, Suresh Gadkari, was supportive of the idea."*
 
 *"The greatest obstacle still bedevilling our efforts at universal access to sanitation and safe drinking water continues to be population. The declining cost of energy has helped us reach more people and improve their access to basic hygiene, but the fact is that our population is still growing, putting ever more strain on our already-overworked natural resources. If however we can encourage people to emigrate to an alien world where the water resources can be properly managed from the start, then that will take off the pressure here on Earth and allow us, for the first time ever, to seriously talk about reaching one hundred percent access to clean water. I'm personally very excited."*
 
 *"India and China aren't the only nations interested in emulating the example set by Folctha, however. The USA and Russia have both also expressed interest in founding colonies of their own, and EU ministers in Brussels have also been considering proposals for a colony, despite some outspoken opposition."*
 
-*"Humanity has already spread to one world and **killed** it. Millions of unique alien species, extinct because of just one person. Now, this era of the Earth's geological history is already known as the "anthropocene" and it's defined by a mass extinction event. Wherever we go, we kill things! And until we get that basic problem sorted out, then I don't care HOW many new antibiotics or whatever we find on these alien worlds, we've got no business going out there!"*
+*"Humanity has already spread to one world and* **killed** *it. Millions of unique alien species, extinct because of just one person. Now, this era of the Earth's geological history is already known as the "anthropocene" and it's defined by a mass extinction event. Wherever we go, we kill things! And until we get that basic problem sorted out, then I don't care HOW many new antibiotics or whatever we find on these alien worlds, we've got no business going out there!"*
 
 *French EU minister Noémie Perrin said that although such concerns were well-founded, there were still grounds for optimism.*
 
