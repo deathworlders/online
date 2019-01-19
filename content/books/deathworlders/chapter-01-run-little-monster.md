@@ -25,7 +25,7 @@ She slid up into a bar stool as the patrons vacated it and was treated to a warm
 
 "You get that a lot?"
 
-"Got to be at least fifteen nutjobs in here a month asking me about it and telling me about the thing they built in their garage so they can get in touch with the mothership." Jenkins said, swapping her bills for change.
+"Got to be at least fifteen nutjobs in here a month asking me about it and telling me about the thing they built in their garage so they can get in touch with the mothership," Jenkins said, swapping her bills for change.
 
 "So you claim to be an alien abductee but think others who claim that are nutjobs?" she sipped her beer.
 
