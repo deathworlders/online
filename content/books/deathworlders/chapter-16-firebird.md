@@ -941,7 +941,7 @@ ___
 
 **Drew Cavendish**
 
-"*...Criticized the President's handling of the aftermath of the San Diego blast as the USA officially slipped into recession this week with the economy recording its second successive quarter of decline. The Dow Jones and FTSE 100 index fell sharply in response to the news, fuelling worldwide fears that the aftermath of San Diego's destruction will be a worldwide financial crisis, though China's SSE Index closed trading up three-...+*"
+"*...Criticized the President's handling of the aftermath of the San Diego blast as the USA officially slipped into recession this week with the economy recording its second successive quarter of decline. The Dow Jones and FTSE 100 index fell sharply in response to the news, fuelling worldwide fears that the aftermath of San Diego's destruction will be a worldwide financial crisis, though China's SSE Index closed trading up three-...*"
 
 "Hey, I was bloody watching that!" Drew M complained. It was uncharacteristic of Cavendish to just march into the office and shut off the news feed.
 

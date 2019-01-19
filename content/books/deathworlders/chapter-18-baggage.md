@@ -1206,6 +1206,7 @@ There was a blinking star out there, which was impossible in space, but she knew
 It was half a Hunter ship, tumbling in its orbit where she and Semenza had killed it.
 
 Smiling to herself, she gave the dead aliens the finger. Life, she reflected, was good.
+
 ---
 
 **Date Point: 4y 8m 2w 5d AV**
