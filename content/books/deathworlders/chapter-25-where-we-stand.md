@@ -739,7 +739,7 @@ Tremblay nodded. “Rationale?”
 
 Powell picked it up. What he read raised his eyebrows. “Kirk got back in touch?”
 
-“So we hope. Sadly, we have to treat him as Orange for now, but he *did* feed us some intelligence which should help clean up that question. The name of a spaceship that may be in the Hierarchy’s employ, the *’Negotiable Curiosity’*.”
+“So we hope. Sadly, we have to treat him as Orange for now, but he *did* feed us some intelligence which should help clean up that question. The name of a spaceship that may be in the Hierarchy’s employ, the *’Negotiable Curiosity’.”*
 
 “Cute name.”
 
@@ -1184,7 +1184,7 @@ ___
 
 The problem with the Dominion’s general-purpose shuttle was that it looked, and flew, like a lead brick minus the *actual* lead brick’s lustre and frisson of danger. It was just a silvery grey cuboid with a window at one end and a ramp at the other.
 
-It was also so large that it filled almost half *Caledonia*’s prep and flight deck. It was, after all, designed to be able to carry a Guvnurag or two. Humans could rattle around inside it like lottery balls.
+It was also so large that it filled almost half *Caledonia’s* prep and flight deck. It was, after all, designed to be able to carry a Guvnurag or two. Humans could rattle around inside it like lottery balls.
 
 Sikes in particular loathed it, and every time he laid eyes on it he did the same thing: He sighed and asked “When in the shit are we gonna get something human-built?”
 
@@ -1222,7 +1222,7 @@ Kovač smiled and gave him an affectionate slap on the helmet. “You’re good.
 
 Then it got boring.
 
-The idea was for the shuttle to look to Perfection traffic control like an in-system passenger transport. Absurdly, its sensor signature was an order of magnitude larger than *Caledonia*’s, so all it had to do was leave the bay, pulse-warp to low orbit and it would look just like one of the thousands that came and went through Perfection’s skies every day.
+The idea was for the shuttle to look to Perfection traffic control like an in-system passenger transport. Absurdly, its sensor signature was an order of magnitude larger than *Caledonia’s,* so all it had to do was leave the bay, pulse-warp to low orbit and it would look just like one of the thousands that came and went through Perfection’s skies every day.
 
 The EV-MASS, meanwhile, had a sensor profile so small that if Perfection’s anti-aircraft defenses detected anything, it’d look like a tiny chunk of space debris doomed to burn up on re-entry.
 
@@ -1254,7 +1254,7 @@ B checked it. “On.”
 
 “Charged.”
 
-*”EWR.*”
+*”EWR.”*
 
 “Ready.”
 
@@ -1569,7 +1569,7 @@ Rebar scooped up his abandoned gear on the way past, and they met at the bottom 
 
 “Would have… preferred…” Rebar panted. Sprinting in EV-MASS was a task to drain even the most conditioned athlete. “ To get ‘em… *this* time…”
 
-B nodded, turned, caught the drone as it glided down out of the sky, and hugged it to his chest before vanishing up the ramp and hanging a right onto the *Negotiable Curiosity*’s flight deck.
+B nodded, turned, caught the drone as it glided down out of the sky, and hugged it to his chest before vanishing up the ramp and hanging a right onto the *Negotiable Curiosity’s* flight deck.
 
 Rebar followed and settled himself into the command chair, sucking on the sippy straw inside his mask in a bid to restore some of the reserves he’d just incinerated during the pursuit. It creaked a little as several hundred pounds of man and armored space suit tested its engineering, but did little more than that.
 
@@ -1587,7 +1587,7 @@ Rebar fidgeted awkwardly nonetheless, fully expecting interceptors or a ground A
 
 The *Negotiable Curiosity* was much faster than the shuttle. What had been a five second trip in the shuttle was over before Blaczynski had even removed his hand from the control to activate the FTL.
 
-“Okay...HMS *Caledonia*, this is SOR one-oh-seven flying November Charlie, we’re at RP Alpha.” Blaczynski called.
+“Okay...HMS *Caledonia,* this is SOR one-oh-seven flying November Charlie, we’re at RP Alpha.” Blaczynski called.
 
 Rebar studied the holographic sphere that was the ship’s sensor display. “Where are they?”
 
@@ -1603,7 +1603,7 @@ Akiyama clanked up the deck and stuck his head through the door. “‘Sup?”
 
 B nodded, and hit the comms again. “HMS *Caledonia* I say again: Sierra Oscar Romeo One Zero Seven STARFALL flying November Charlie, operational objectives achieved, we are at the rendezvous point. Come back, over.”
 
-They strained to listen. A few trillion photons, some portion of which had been traversing the endless night since the cooling of the early universe, reached their journey’s end in *Negotiable Curiosity*’s communications sensor array as an unregarded quiet hiss.
+They strained to listen. A few trillion photons, some portion of which had been traversing the endless night since the cooling of the early universe, reached their journey’s end in *Negotiable Curiosity’s* communications sensor array as an unregarded quiet hiss.
 
 “...What’s our contingency for *Caledonia* being a no-show?” Akiyama asked, quietly.
 
@@ -1617,7 +1617,7 @@ They strained to listen. A few trillion photons, some portion of which had been 
 
 “Yeah, well...Whatever’s going on, eight hours gives them time to fix the problem and get in touch, or broadcast an SOS to the RP. ”
 
-Rebar took a look out the window as if that might achieve anything. Even if it was right next to them, *Caledonia*’s matte-black hull would have been invisible anyway. “Okay, well… Grab an MRE and settle in, guys.” He advised. “Guess it’s time to hurry up and wait.”
+Rebar took a look out the window as if that might achieve anything. Even if it was right next to them, *Caledonia’s* matte-black hull would have been invisible anyway. “Okay, well… Grab an MRE and settle in, guys.” He advised. “Guess it’s time to hurry up and wait.”
 ___
 **Date Point 10y4m1w3d AV**    
 **US Embassy, Cairo, Egypt, Earth**
