@@ -1020,15 +1020,15 @@ The unit was frustratingly close to striking distance when the priority override
 
 **++0014++:** *Welcome,* ***0665.***
 
-**++0665++:** *< Frustration > Now is not a good time.*
+**++0665++:** *\<Frustration\> Now is not a good time.*
 
-**++0014++.** *< Stern reprimand > This is an emergency reassignment. Whatever you were doing is less important.*
+**++0014++.** *\<Stern reprimand\> This is an emergency reassignment. Whatever you were doing is less important.*
 
-**++0665++:** *< Explanation > I will have to restart a whole cull from first principles.*
+**++0665++:** *\<Explanation\> I will have to restart a whole cull from first principles.*
 
 **++0014++:** *Unfortunate, but I repeat: This is more important.*
 
-**++0665++:** *< Resignation, mounting concern > Understood. I await instructions.*
+**++0665++:** *\<Resignation, mounting concern\> Understood. I await instructions.*
 
 **++0014++:** *We are waiting for three more.*
 
@@ -1036,9 +1036,9 @@ The unit was frustratingly close to striking distance when the priority override
 
 **++0014++:** *Welcome,* ***0282.***
 
-**++0282++:** *< Irritation > This had better be important.*
+**++0282++:** *\<Irritation\> This had better be important.*
 
-**++0665++:** *< grim humor > That was my sentiment.*
+**++0665++:** *\<grim humor\> That was my sentiment.*
 
 **++SYSTEM++:** *User* ***0098*** *Joined.*
 
@@ -1050,9 +1050,9 @@ The unit was frustratingly close to striking distance when the priority override
 
 **++SYSTEM++:** *User* ***0002*** *Joined.*
 
-**++0014++:** *< deference > ...welcome,* ***0002***.
+**++0014++:** *\<deference\> ...welcome,* ***0002***.
 
-**++0002++:** *< Terse briefing > We have identified a traitor physical hub. We don’t know what data they are archiving there, but we believe they intend to share it with the humans. We are probing its dataspace periphery as I speak, but successful intrusion seems unlikely. Therefore we are assigning you to destroy the hardware in meatspace. We anticipate that the traitors will assign their own meatspace assets to resist.*
+**++0002++:** *\<Terse briefing\> We have identified a traitor physical hub. We don’t know what data they are archiving there, but we believe they intend to share it with the humans. We are probing its dataspace periphery as I speak, but successful intrusion seems unlikely. Therefore we are assigning you to destroy the hardware in meatspace. We anticipate that the traitors will assign their own meatspace assets to resist.*
 
 **++SYSTEM++:** Datapackage Available for Access
 
@@ -1070,7 +1070,7 @@ He buried his resentment. Fourteen had been accurate: this was more important.
 
 Well. Instructions simply didn’t come more brute-force than that. In the grid of Hierarchy discretion codes, *'Overt Contain Amputate Escalate’* translated to: *'Do not be subtle. Take over as quickly as you can, kill all witnesses and silence all communications, destroy everything when you are done and let senior agents worry about damage control’*.
 
-**++0002++:** *< Impatience > Any other questions?*
+**++0002++:** *\<Impatience\> Any other questions?*
 
 **++0014++:** *None.*
 
