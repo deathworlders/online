@@ -54,7 +54,7 @@ Darcy touched her lip thoughtfully. “I’m lucky.” she said at last. “I wo
 
 Darcy acknowledged that she hadn’t with an amused motion of her head. “I… find it much easier once I understand *why* they’re secret.” she said. “I may not always agree with the rationale, but knowing there *is* a rationale - and there’s *always* a rationale - well, it makes it easier.”
 
-“Easi***er***? Not actually *easy.*”
+“Easi***er*?** Not actually *easy.”*
 
 “...I have friends and family and there are times when I might be having a conversation with them and they’ll say something or voice an opinion that treads on territory I know about.” Darcy told her. “Biting your tongue when you know that their whole argument is completely wrong, but you can’t give them the puzzle piece they need to really make sense of things… that’s not easy.”
 
@@ -1108,7 +1108,7 @@ She gave him a sickened look. *”Why?”*
 
 “So why do you need humans?” Ash asked, clearly getting tired of repeating herself.
 
-“Because the most important part of *One’*s protection is that no member of the Hierarchy knows where its physical layer is.” Six explained. “And doing what we intend to do will require us to access the physical medium that stores the seed algorithms from which it is compiled, and effect alterations.”
+“Because the most important part of *One’s* protection is that no member of the Hierarchy knows where its physical layer is.” Six explained. “And doing what we intend to do will require us to access the physical medium that stores the seed algorithms from which it is compiled, and effect alterations.”
 
 Ash’s lips parted in batant incredulity. “How in the - do you have *any* idea where it is?”
 

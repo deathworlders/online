@@ -10,7 +10,7 @@ aliases:
 
 ***Technical Sergeant Martina Kovač***
 
-The mad thought that was first and foremost in Martina’s mind was that *Caledonia*’s general alarm should have sounded more… serious. She was on a *starship* for crying out loud, and the fact that said starship was on fire in a major way really warranted more than an almost-quiet ‘da*da*da*da*da*da*’ warble.
+The mad thought that was first and foremost in Martina’s mind was that *Caledonia’s* general alarm should have sounded more… serious. She was on a *starship* for crying out loud, and the fact that said starship was on fire in a major way really warranted more than an almost-quiet *'da*\da*da*\da*da*\da' warble.
 
 This was not a situation for a cartoon cop-car noise. There were gouts of flame shooting out of the air vents, powered systems shutting off all around as their surge protectors cut in, and the hull was singing as the heat stretched and expanded it. *Caledonia* was groaning like a wounded whale. This was a situation demanding loud, harsh tones with a deep backbone, something that really advertised the importance of prompt action.
 
@@ -22,7 +22,7 @@ Maybe that was the point.
 
 Everybody on board was a firefighter. Nobody was allowed to serve in any capacity on *Caledonia* without that training. Martina was armed with a pair of “fireball” extinguishers, red balls that were to be thrown into the heart of any nearby flames, which would burn through their casing and allow the pressurized mix of inert gas and flame-retardant foam within to burst, smothering the flame instantly. They worked well, and between her and the teams with a hose and some more conventional extinguishers, they were battling the flames back out of their station.
 
-She tried very hard indeed not to think too hard about the fact that the ventilation duct in the ceiling was glowing like barbecue coals. It was part of a long list of things she was not thinking about, including the fact that *Caledonia*’s capacitors contained enough stored energy that if they discharged uncontrollably then everybody on board would be dead in an instant. Whether they died from gigavolts of energy arcing uncontrollably between the bulkheads like the ultimate bug-zapper, or from the whole cap array detonating with all the violence of a nuke… well, that would be academic.
+She tried very hard indeed not to think too hard about the fact that the ventilation duct in the ceiling was glowing like barbecue coals. It was part of a long list of things she was not thinking about, including the fact that *Caledonia's* capacitors contained enough stored energy that if they discharged uncontrollably then everybody on board would be dead in an instant. Whether they died from gigavolts of energy arcing uncontrollably between the bulkheads like the ultimate bug-zapper, or from the whole cap array detonating with all the violence of a nuke… well, that would be academic.
 
 Not thinking about *that* one was made very difficult every time the lights flickered. So instead she focused on the little things, like doing her job, or that *fucking* alarm.
 
@@ -169,7 +169,7 @@ But, ultra-advanced, impenetrable almost-magic engines still had to deal with re
 
 Thermodynamics dictated that increasing the kinetic energy of an object by any amount required, at a minimum, the insertion of a slightly larger amount of energy. This was governed by another classic Newtonian equation: Kinetic Energy is equal to half the mass of the object times the square of its velocity. Given a mass of nine million kilograms, adding a stately ten meters per second to the ship every second demanded roughly four hundred and fifty megawatts.
 
-Accounting for inefficiency, loss and power to necessary systems such as, say, life support, *Cally*’s three reactors - bleeding-edge fusion things that had been purely speculative in the pre-Contact world - between them produced just about enough to let her pull three Gs if power was diverted from non-essential systems.
+Accounting for inefficiency, loss and power to necessary systems such as, say, life support, *Cally's* three reactors - bleeding-edge fusion things that had been purely speculative in the pre-Contact world - between them produced just about enough to let her pull three Gs if power was diverted from non-essential systems.
 
 Allied strategic intelligence had surmised from what they could glean of Dominion, Alliance and Hunter vessels that this was perfectly adequate for a competitive warship, but of course what was really desired was an *edge*. Say, double or triple that rate of acceleration when needed.
 
@@ -317,9 +317,9 @@ Bathini listened to the report without interruption until Andow had finished.
 
 “It spread fast from there.” McDaniel observed. There was no accusation in her tone, but there was a query.
 
-“*Cally*’s built-in fire containment was dependent on that pixy dust foam.” Andow explained. He shuffled his feet awkwardly - he loved *Caledonia*, and saying anything negative about her just felt wrong, but he had a duty to the truth. “*Too* dependent on it. All of our refits and modifications helped - they’re probably the reason we only lost one man - but the alien structure and systems just weren’t sensibly designed in the first place.”
+“*Cally's* built-in fire containment was dependent on that pixy dust foam.” Andow explained. He shuffled his feet awkwardly - he loved *Caledonia*, and saying anything negative about her just felt wrong, but he had a duty to the truth. “*Too* dependent on it. All of our refits and modifications helped - they’re probably the reason we only lost one man - but the alien structure and systems just weren’t sensibly designed in the first place.”
 
-“You’d think interstellar civilisations would figure out basic fire safety...” Bathini mused. Andow felt he had to speak up in *Cally*’s defence now.
+“You’d think interstellar civilisations would figure out basic fire safety...” Bathini mused. Andow felt he had to speak up in *Cally's* defence now.
 
 “In fairness, sir, if we were using the alien-made fire suppression foam, the fire would have been under control in seconds.” He pointed out.
 
@@ -472,7 +472,7 @@ ___
 
 Xkk’ relaxed and nodded slowly.
 
-“We may consider ourselves victorious.” He observed. “Withdraw the on-field fleet element to a distance of one light-*ri’*”
+“We may consider ourselves victorious.” He observed. “Withdraw the on-field fleet element to a distance of one light-*ri’”*
 
 He watched, satisfied, as the ships obeyed.
 
@@ -769,15 +769,15 @@ The Hierarchy kinetic thrusters made all the difference: they were simply more a
 
 That extra efficiency allowed for bigger ships. Bigger ships meant more room for *Stuff*, and the stuff they carried was absolutely invaluable.
 
-In *Caledonia*’s case, the ‘stuff’ in question was a small field hospital in what had been her port landing bay, and the SOR staging area in her former starboard landing bay.
+In *Caledonia’s* case, the ‘stuff’ in question was a small field hospital in what had been her port landing bay, and the SOR staging area in her former starboard landing bay.
 
-*Myrmidon* meanwhile was a flying power plant, armed with more fusion generators, more ultracapacitor banks and more forcefield emitters than anything else in the fleet. Once *Caledonia*’s power systems were sufficiently intact to receive the aid, *Myrmidon* could provide enough for the both of them.
+*Myrmidon* meanwhile was a flying power plant, armed with more fusion generators, more ultracapacitor banks and more forcefield emitters than anything else in the fleet. Once *Caledonia’s* power systems were sufficiently intact to receive the aid, *Myrmidon* could provide enough for the both of them.
 
 Both of those ships, however, carried what Caruthers considered to be the fleet’s most potent tactical assets - the Watsons.
 
 IBM’s “Watson” systems were nothing new - they’d been around and gathering steam even before the Vancouver Incident. Ten years of innovation and development past that point meant that both ships were carrying banks of number-crunching supercomputers of staggering power, underpinned by a software framework that could calculate, correlate, extrapolate, simulate, educate and even innovate with discomforting speed and precision.
 
-Each of the V-types were carrying a smaller version, which linchpinned the fleet’s electronic warfare capabilities, but the ones on *Caledonia* coupled with the dedicated expertise of the men and women of the Fleet Intelligence Center aboard *Myrmidon*, they were the real nerve centers for the flotilla. Decrypting the Dominion fleet’s communications was a fraction of what they could achieve, and had *Caledonia*’s power systems been online to lend her own Watsons to the effort, Caruthers might almost have been able to eavesdrop in real time.
+Each of the V-types were carrying a smaller version, which linchpinned the fleet’s electronic warfare capabilities, but the ones on *Caledonia* coupled with the dedicated expertise of the men and women of the Fleet Intelligence Center aboard *Myrmidon*, they were the real nerve centers for the flotilla. Decrypting the Dominion fleet’s communications was a fraction of what they could achieve, and had *Caledonia’s* power systems been online to lend her own Watsons to the effort, Caruthers might almost have been able to eavesdrop in real time.
 
 When it was all up and running, everyone in every CIC in the fleet flirted with swearing that the ships were almost alive and capable of anticipation. They weren’t so much in charge of a ship’s sensors any more as they were having a conversation with a robust, distributed network of pattern-matching engines that effortlessly and dynamically switched between independent and synchronous operations thousands of times a second, sharing their datasets and dividing their workloads to comb the information they got from every ship, every Bulldog drone, every Firebird and - when they were present - drones, satellites and even the SOR’s EV-MASS sensors.
 
@@ -1376,7 +1376,7 @@ Again, Dread said nothing, but he did shift his weight from one foot to the othe
 
 “That shipmaster is a species traitor, working for the deathworlders. A former politician. His ship was destroyed [years] ago near the Aru system.”
 
-To her immense surprise, he spoke. His actual voice was nothing but coarse bass. “*Sanctuary.*”
+To her immense surprise, he spoke. His actual voice was nothing but coarse bass. “*Sanctuary.”*
 
 “...Yes. How do you know?”
 
@@ -1539,7 +1539,7 @@ Titan laughed. “Yeah, and *man* I bet Base is sore over that shit. You hear ab
 
 “No…?”
 
-“It went *’Left Beef Best Beef, or Right Beef Superior Slab?’*” Titan chuckled. “‘Horse took it three to one, man. Kicked Baseball’s *ass.”*
+“It went *’Left Beef Best Beef, or Right Beef Superior Slab?’”* Titan chuckled. “‘Horse took it three to one, man. Kicked Baseball’s *ass.”*
 
 Sikes laughed. “Ah, poor Base… Feels weird bein’ part of a unit with that kind of media profile though, don’t it?”
 
@@ -1715,7 +1715,7 @@ Caruthers confessed to being a Star Trek fan, but something that had always stru
 
 In reality, one of the great perks of being a senior officer was that you got a small cabin to yourself that was just about large enough to contain a bed, a sink and a desk. Caruthers’ was about half the size of Captain Picard’s ready room, let alone the opulent quarters in which that fictional officer had luxuriated. Meanwhile there were junior officers on *Violent* and elsewhere in the fleet who were sharing bunks.
 
-That was the nature of life in the navy, and if the officers were sharing bunks then the ratings had an even more cramped and intimate time of it. Indeed, the cots and camp beds that the SOR techs kept in *Caledonia*’s starboard bay were widely reckoned to be the most luxurious sleeping arrangement in the fleet, and were thus the source of some mildly envious friction.
+That was the nature of life in the navy, and if the officers were sharing bunks then the ratings had an even more cramped and intimate time of it. Indeed, the cots and camp beds that the SOR techs kept in *Caledonia’s* starboard bay were widely reckoned to be the most luxurious sleeping arrangement in the fleet, and were thus the source of some mildly envious friction.
 
 The cabin was important, though: it allowed him to sleep, and sleep he did at every opportunity. It might have been nice to unwind with a book first or something, but each time he had a chance to get his head down, he knew it was only going to be a handful of hours at most before his attention was once more required.
 
@@ -1743,7 +1743,7 @@ Well aware that he was a bit rumpled and unwashed from several solid days of bei
 
 As it was… well, he was far from the only one. The standoff and constant state of readiness was probably keeping everybody in the fleet in similar condition.
 
-Junior ranks got respectfully out of his way as he swarmed up the stairs to A deck and the bridge, where *Violent*’s CO, Commander Vaughan, was in the middle of taking the call from the Fleet Intel Center.
+Junior ranks got respectfully out of his way as he swarmed up the stairs to A deck and the bridge, where *Violent’s* CO, Commander Vaughan, was in the middle of taking the call from the Fleet Intel Center.
 
 Caruthers double-checked the volume chart, double-checking that everything was still where it should be.
 
@@ -1889,7 +1889,7 @@ The Watson systems and the decade of GUI research and development that had begun
 
 The system had therefore been purpose-built, and it worked beautifully. The computers listened, interpreted, shared, transmitted, prepared. All a human needed to do was confirm their analysis and not only did Caruthers’ orders immediately reach their intended recipients, but the computers on those ships had already prepared firing solutions and plotted accelerations.
 
-They also kept Caruthers appraised of the progress of his commands. He had ordered for Myrmidon to fire gravity spikes and so now as each step in the process of reloading and firing that specialist ammunition filtered through *Myrmidon*’s own chain of command, Caruthers could watch it. The order was received, acknowledged, carried out. There was an agonising wait of some few seconds as her gun crews swapped ammo feeds.
+They also kept Caruthers appraised of the progress of his commands. He had ordered for Myrmidon to fire gravity spikes and so now as each step in the process of reloading and firing that specialist ammunition filtered through *Myrmidon’s* own chain of command, Caruthers could watch it. The order was received, acknowledged, carried out. There was an agonising wait of some few seconds as her gun crews swapped ammo feeds.
 
 No sooner was that step completed than Myrmidon fired. On the commodore’s screen, overlapping red bubbles filled the predicted incoming fleet’s approach vector, saturating several thousand cubic kilometers with no-warp zones. Caruthers watched the icon representing that fleet hawkishly, expecting them to detect the impediment in their way and abort their approach in favor of a different angle.
 
@@ -2098,7 +2098,7 @@ Andow flashed a one-sided grin at the younger man and called the bridge. “Capt
 
 “Aye aye, sir.”
 
-Andow patted *Cally*’s hull affectionately. “Alright girl. Let’s get you home, eh?”
+Andow patted *Cally's* hull affectionately. “Alright girl. Let’s get you home, eh?”
 
 “Amen.” somebody muttered
 
