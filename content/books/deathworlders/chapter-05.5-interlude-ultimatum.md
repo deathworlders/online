@@ -1,4 +1,4 @@
-\<---
+---
 title: "Chapter 5.5: Interlude/Ultimatum"
 date: 2014-10-16
 aliases:
