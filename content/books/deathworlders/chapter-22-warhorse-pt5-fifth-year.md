@@ -349,7 +349,7 @@ Sean took her hand, and for the last time she led him up the stairs.
 
 ***Jessica Olmstead***
 
-"THREE! *TWO! **ONE!***"
+"THREE! *TWO!* ***ONE!"***
 
 Cheers erupted as gravity settled on everybody like a comfortable warm coat.
 
@@ -471,7 +471,7 @@ To his credit, Sean apparently had genuinely not noticed them, and to his even g
 
 "Dude, you're Ava's best friend, that means you're automatically, like, one of my favourite people."
 
-Ava hid a smile behind her hand and mouthed the words '*he is **such** a puppy*' at Sean.
+Ava hid a smile behind her hand and mouthed the words *'he is* **such** *a puppy'* at Sean.
 
 Sean laughed, and genuinely relaxed for the first time in weeks. "A drink it is, then."
 
@@ -701,9 +701,9 @@ That done, she let go and slid down to the floor in tears. He'd looked so *broke
 
 * * *
 
-"*GONE!! It's all gone! All of it's gone bye-bye WOOWOO seeya!"*
+*"GONE!! It's all gone! All of it's gone bye-bye WOOWOO seeya!"*
 
-*"What **happened** to you?"*
+*"What* **happened** *to you?"*
 
 *"One minute you're defending the whole galaxy, and suddenly you find yourself suckin' down darjeeling with Marie Antoinette and her little sister..."*
 
@@ -1003,4 +1003,4 @@ Ava relaxed. "I knew you'd think of how to phrase it." she said.
 
 "I can do that." Ava promised. "I'll talk to him, when I know what to say."
 
-"Probably sensible." Jess agreed. "Like you said—you never know what's going to happen." 
+"Probably sensible." Jess agreed. "Like you said—you never know what's going to happen."
