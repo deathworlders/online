@@ -457,13 +457,13 @@ Ten minutes later, after using an ancient technique to purge the mental image of
 
 **Moses Byron**
 
-"...*It was hard for me to reconcile the knowledge that the men and women who ran those businesses could be so intelligent, and yet so stupid at the same time. I looked at years of...factories dumping their waste into rivers and lakes because it was cheaper to pay the pollution fines than to properly dispose of their byproduct. Minimum wages that could only support ONE person if they worked a fifteen hour day, let alone a young family. Thereby laying the burden of looking after that family on the state. I would always look at such businesses and ask myself---'can't they see that they're making less profit by keeping their own employees poor?'*"
+*"...It was hard for me to reconcile the knowledge that the men and women who ran those businesses could be so intelligent, and yet so stupid at the same time. I looked at years of...factories dumping their waste into rivers and lakes because it was cheaper to pay the pollution fines than to properly dispose of their byproduct. Minimum wages that could only support ONE person if they worked a fifteen hour day, let alone a young family. Thereby laying the burden of looking after that family on the state. I would always look at such businesses and ask myself---'can't they see that they're making less profit by keeping their own employees poor?'"*
 
-*"That was the foundation of my business dream. The idea that a company did not have to be, uh, selfish in order...to...*ah dammit, how's that go again?"
+*"That was the foundation of my business dream. The idea that a company did not have to be, uh, selfish in order...to...* ah dammit, how's that go again?"
 
 "Cruel."
 
-"*That a company did not have to be cruel in order to be self-interested. That a successful business could*..." Moses paused and sighed. "Dang it all, I need a break."
+*"That a company did not have to be cruel in order to be self-interested. That a successful business could..."* Moses paused and sighed. "Dang it all, I need a break."
 
 His secretary stood up. "Coffee?"
 
@@ -1027,7 +1027,7 @@ She gestured to her camera, placed safely at the far end of the room from the sh
 
 Sean nodded uncertainly. "But why do you have to put yourself through this?" he asked.
 
-"Because I'm *Adam'*s angel. Because I really believe he couldn't do this without me. H-he takes me for granted because he knows I've got his back come what may."
+"Because I'm *Adam's* angel. Because I really believe he couldn't do this without me. H-he takes me for granted because he knows I've got his back come what may."
 
 "Even if it makes you miserable."
 
@@ -1043,4 +1043,4 @@ Ava smiled weakly at him and managed to croak out a reply. "Sure."
 
 He left her to her thoughts, retreating from the room without further comment.
 
-Five minutes later she went downstairs wearing her favourite of Adam's old t-shirts, which was now far too small for him...but she sat next to Sean, set aside the questions he'd raised, and tried to enjoy herself. 
+Five minutes later she went downstairs wearing her favourite of Adam's old t-shirts, which was now far too small for him...but she sat next to Sean, set aside the questions he'd raised, and tried to enjoy herself.

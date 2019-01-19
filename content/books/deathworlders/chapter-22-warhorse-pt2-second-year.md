@@ -535,9 +535,9 @@ BASEBALL set to work, examining the enormous bruise that was already spreading a
 
 Adam had already prepared an injector, which he duly handed over. BASEBALL had a soft and efficient touch with needles. He also handed Powell an anaesthetic lolly. "stick that under your tongue for thirty seconds, sir." he ordered.
 
-Powell did as instructed, popping the little white painkiller wand into his mouth and then began to count aloud, though the stick under his tongue hindered the attempt slightly. "*One michichippi , two michichi*—"
+Powell did as instructed, popping the little white painkiller wand into his mouth and then began to count aloud, though the stick under his tongue hindered the attempt slightly. *"One michichippi, two michichi—"*
 
-"We're in Alabama, sir." Legsy joked. This earned some chuckles from the men, and the kind of feigned unimpressed look from Powell that the major reserved for bad jokes, but after a second he made an amused harrumph and started to count again, the crow's feet wrinkles at his eyes deepening just a little. "*One awagama, two awagama, free awagama...*"
+"We're in Alabama, sir." Legsy joked. This earned some chuckles from the men, and the kind of feigned unimpressed look from Powell that the major reserved for bad jokes, but after a second he made an amused harrumph and started to count again, the crow's feet wrinkles at his eyes deepening just a little. *"One awagama, two awagama, free awagama..."*
 
 The chuckles became a ripple of laughter. Adam let him reach a twenty count before taking the stick back.
 
@@ -763,7 +763,7 @@ He snatched the ball easily out of the air when Vandenberg threw it to him. "If 
 
 He tossed the ball over the edge of the yellow zone. It described a perfect parabola just like before, right up until the moment it crossed the threshold, and was suddenly moving slowly in a perfectly straight line, spinning eerily. They watched it bounce forlornly off the ceiling at the far end of the room.
 
-"As sergeant...Arés explained," Cavendish said, peering at Adam's name tag "the first law means that an object's speed, and the direction it's moving in—collectively known as its *velocity*—remains unchanged, *unless* a force such as gravity acts upon it. The third law's simple enough to not need an explanation—when you push on something, it pushes back. Simple enough, but that's why that whole cartoon thing of going boating by blowing into the sail doesn't work. You're pushing that air forward, and yes it'll push on the sail, but by blowing you're also pushing yourself backwards just as strong, and pushing back on the boat through your boots. Follow?"
+"As sergeant...Arés explained," Cavendish said, peering at Adam's name tag "the first law means that an object's speed, and the direction it's moving in---collectively known as its *velocity*\---remains unchanged, *unless* a force such as gravity acts upon it. The third law's simple enough to not need an explanation—when you push on something, it pushes back. Simple enough, but that's why that whole cartoon thing of going boating by blowing into the sail doesn't work. You're pushing that air forward, and yes it'll push on the sail, but by blowing you're also pushing yourself backwards just as strong, and pushing back on the boat through your boots. Follow?"
 
 There was nodding.
 
@@ -1249,11 +1249,11 @@ A fitful night's sleep full of that question was answered when, to her astonishm
 
 "Hey..." she replied, as two distant parts of her brain embroiled themselves in a tug of war over whether to voice her discontent now, or wait until after she'd screwed him senseless, *then* voice her discontent.
 
-He kissed her, ending that argument. He was so *strong*, she could feel it even though his touch was light, and they didn't need long before she was straddling his hips, grinding and gasping and eagerly working towards the moment when she'd be ready to get around him properly.
+He kissed her, ending that argument. He was so *strong,* she could feel it even though his touch was light, and they didn't need long before she was straddling his hips, grinding and gasping and eagerly working towards the moment when she'd be ready to get around him properly.
 
-"Oh *god...*So, what's so special about today?"
+"Oh *god...* So, what's so special about today?"
 
-He was too busy sucking on her nipple to reply properly, so just made an inquisitive "*hmm?"* noise.
+He was too busy sucking on her nipple to reply properly, so just made an inquisitive *"hmm?"* noise.
 
 "You didn't sneak out this morning..."
 
@@ -1265,9 +1265,9 @@ Adam frowned, confused. "Yeah. Weekends are rest days."
 
 "...You-?" Her mood evaporated, and she scooted down his thighs a bit, sitting on his knees. "You *scheduled* this?"
 
-Adam's expression had gone from confident lover to confused boyfriend to kicked puppy in a matter of seconds. "Well...not *this*, but, like, the *day*..."
+Adam's expression had gone from confident lover to confused boyfriend to kicked puppy in a matter of seconds. "Well...not *this,* but, like, the *day..."*
 
-"Jeez!" She seethed, and surged to her feet. "Well, I'm glad you could fit me into your *busy goddamn schedule*!"
+"Jeez!" She seethed, and surged to her feet. "Well, I'm glad you could fit me into your *busy goddamn schedule!"*
 
 "Ava...!" The exclamation was a hurt and confused one.
 
@@ -1279,7 +1279,7 @@ Adam's expression had gone from confident lover to confused boyfriend to kicked 
 
 "I figured...I mean, it's a nice hotel, there's a spa, there's like-"
 
-She interrupted him, practically spitting lightning bolts. "*No he venido aquí para admirar el paisaje, perrita!"*
+She interrupted him, practically spitting lightning bolts. *"No he venido aquí para admirar el paisaje, perrita!"*
 
 Adam's jaw went slack. "What did you just-?"
 
@@ -1325,4 +1325,4 @@ He hesitated, and her heart sank. "I...Baby, I wish I could promise that." he sa
 
 After a silent second, he got the hint and finally, *finally* put his arms around her and nuzzled up close.
 
-After a while, it even started to feel natural and safe again. 
+After a while, it even started to feel natural and safe again.

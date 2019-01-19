@@ -305,7 +305,7 @@ Maybe it was the booze doing the thinking, but he had a few questions he'd been 
 
 "You're telling me that'd be less of a problem for you than, say, kissing Charlotte?"
 
-"Well..." Ava fidgeted. "I shouldn't have done that. I mean, I know it wasn't...*anything...*but I...I don't know." She rubbed her face and got some hair out of the way. "It's like...if you're swimming then really a swimsuit is just, like, this nasty lump of wet cloth you have to take home with you when you're done. And it turns out they're pretty nasty bacteria traps, too. And, you know, people take their clothes off for showers and baths all the time, or, or the doctor or something, so...You know?"
+"Well..." Ava fidgeted. "I shouldn't have done that. I mean, I know it wasn't... *anything...* but I...I don't know." She rubbed her face and got some hair out of the way. "It's like...if you're swimming then really a swimsuit is just, like, this nasty lump of wet cloth you have to take home with you when you're done. And it turns out they're pretty nasty bacteria traps, too. And, you know, people take their clothes off for showers and baths all the time, or, or the doctor or something, so...You know?"
 
 "Know what?"
 
@@ -541,7 +541,7 @@ Sean sipped his cup of tea. "Dude, if I asked her why she loves this Adam guy? I
 
 "What?"
 
-"She'd bang on about how he's '*doing something amazing*' and how they '*went through a lot together' and...*you know, all that stuff we've heard before, right?"
+"She'd bang on about how he's '*doing something amazing*' and how they '*went through a lot together' and...* you know, all that stuff we've heard before, right?"
 
 "Right...?"
 
@@ -597,7 +597,7 @@ She laughed a little, set her tablet aside and got up to let him in.
 
 "What’s the occasion?" Ava asked, smiling nervously as she took it. Things had been a little awkward between them for nearly a month now, made all the worse by the nagging part of her brain that really, really missed being able to feel relaxed around him being at war with the part of her brain that really, really got all distracted and excited in his company.
 
-"It’s called '*hanging out*’, duck, maybe you’ve heard of it?"
+"It’s called *'hanging out,’* duck, maybe you’ve heard of it?"
 
 "I’m used to hanging out involving at least two more people." She said, letting him into the kitchen and selecting a glass for her drink.
 
@@ -617,15 +617,15 @@ She laughed a little, set her tablet aside and got up to let him in.
 
 "So responsible." he teased.
 
-"Somebody has to be." she retorted. "Besides, '*responsible*’ is the easy way. I **like** the easy way."
+"Somebody has to be." she retorted. "Besides, *'responsible'* is the easy way. I **like** the easy way."
 
 "I suppose I can see why." Sean mused, after sipping his beer again. "You’ve had it quite hard, after all"
 
-Ava made an incredulous little laugh. "Only somebody as...as *English* as you could call it '*quite* hard’."
+Ava made an incredulous little laugh. "Only somebody as...as *English* as you could call it *'quite* hard.'"
 
 "...I’m sorry."
 
-"No, it’s fine. Yes, I’ve had it '*quite hard*.’ My home city was only blown up by aliens. My parents and school friends are only dead. I only witnessed my best friend’s murder. My boyfriend’s only gone away for years to become a space marine. I’ve definitely had it '*quite hard*’, thank you for noticing!"
+"No, it’s fine. Yes, I’ve had it *'quite hard.’* My home city was only blown up by aliens. My parents and school friends are only dead. I only witnessed my best friend’s murder. My boyfriend’s only gone away for years to become a space marine. I’ve definitely had it *'quite hard,’* thank you for noticing!"
 
 Sean was silent for a minute until she cooled off again, which took nearly a third of her glass. "And you’re still giving me advice on how to do my coursework properly." he added.
 
@@ -639,13 +639,13 @@ Sean toasted her with his beer again, then put it down abruptly and sat forward.
 
 Ava paused in the middle of sipping her own drink. "Okay...?"
 
-"So, a man goes to see the doctor, and he says '*Doctor, I really need your help. I’ve been feeling so bleak and depressed lately, I don’t know what to do!*’ The doctor smiles and says. '*I know just what you need. The Great Pagliacci is in town this week,* *the funniest clown who ever lived! Go see him, and you will see that everything is alright.*’"
+"So, a man goes to see the doctor, and he says *'Doctor, I really need your help. I’ve been feeling so bleak and depressed lately, I don’t know what to do!''* The doctor smiles and says. *'I know just what you need. The Great Pagliacci is in town this week, the funniest clown who ever lived! Go see him, and you will see that everything is alright.'"*
 
 "A funny clown? Impossible." Ava noted.
 
-"Ahahaha." Sean enunciated the dry laugh. "Anyway, the man just breaks down in tears right there in the office. '*But doctor!*’ he cries: '*I AM the Great Pagliacci!*’"
+"Ahahaha." Sean enunciated the dry laugh. "Anyway, the man just breaks down in tears right there in the office. *'But doctor!'* he cries: *'I AM the Great Pagliacci!'"*
 
-What Ava produced in reaction wasn’t really a *laugh*. It was too short, and the amusement behind it was the quiet humour of bitter recognition, but it seemed to please Sean nonetheless, who shuffled a little closer.
+What Ava produced in reaction wasn’t really a *laugh.* It was too short, and the amusement behind it was the quiet humour of bitter recognition, but it seemed to please Sean nonetheless, who shuffled a little closer.
 
 "That’s...not a great joke." she said, unconsciously tucking a curl of hair behind her ear to look at him.
 
@@ -697,7 +697,7 @@ It had taken a whale-sized gulp of fuel just to get them aloft. Hence the stopov
 
 The hell with the cost of international calls. He could afford it, and she needed him.
 
-"...*Hello?"*
+*..."Hello?"*
 
 He smiled. She sounded so cute when she was tired. "Ava? Did I wake you, babe?"
 
@@ -1971,4 +1971,4 @@ Royce sat back. "So, do you have any idea when somebody will get it right?" he a
 
 "It's been great being here."
 
-"Well, I hope you'll stick around for our next guest, Daniel Mayhew is here to talk about *Sweet Dreams*, and we've got South African comedian Raymond Mahlangu, coming up after the break, stay with us, we'll be right back!" 
+"Well, I hope you'll stick around for our next guest, Daniel Mayhew is here to talk about *Sweet Dreams*, and we've got South African comedian Raymond Mahlangu, coming up after the break, stay with us, we'll be right back!"
