@@ -935,7 +935,7 @@ The modifications he read off a standard tablet computer were the work of minute
 
 Back in the comfort of his quarters, he settled onto the bed, folding his legs underneath him, and bade the room load a text chat interface and connect via the newly established protocol under his name.
 
-**++Syst§m N♦tif>c■t?♦n: Us§r ???? h■s j♦in§d th§ <error: undefined exception>++**
+**++Syst§m N♦tif\\>c■t?♦n: Us§r ???? h■s j♦in§d th§ \<error: undefined exception\>++**
 
 **++Welcome User ????++**
 
@@ -947,11 +947,11 @@ Back in the comfort of his quarters, he settled onto the bed, folding his legs u
 
 **++0007++: 	By all means you are welcome to volunteer for debugging software that has existed longer than you have. For now, I'll just kick this spurious "user" again.**
 
-**++System Notif■■■■■■■ <Error>**
+**++System Notif■■■■■■■ \<Error\>**
 
-**<Error>**
+**\<Error\>**
 
-**<Redirecting: Subnet Mask ????????? Port ?????>**
+**\<Redirecting: Subnet Mask ????????? Port ?????\>**
 
 **++System Notification: Welcome to the Cabal.++**
 
@@ -2080,9 +2080,9 @@ ___
 
 **++0004++:	Ending session. Good work.**
 
-**<System Notification: Session Closed>**
+**\<System Notification: Session Closed\>**
 
-**<Redirecting: Subnet Mask ????????? Port ?????>**
+**\<Redirecting: Subnet Mask ????????? Port ?????\>**
 
 **++????++:		So, what exactly happened, Six?**
 
@@ -2104,7 +2104,7 @@ ___
 
 **++????++:		If he survived, we'll be hearing from him soon. I hope.**
 
-**<System Notification:	Channel Closed>**
+**\<System Notification:	Channel Closed\>**
 
 ___
 

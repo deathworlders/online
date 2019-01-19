@@ -153,7 +153,7 @@ A minute later, when his men crashed into the flank of the Hunters laying siege 
 
 **The Alpha of Alphas**
 
-<Due respect> +*The sensor records as requested, Greatest.*+
+\<Due respect\> +*The sensor records as requested, Greatest.*+
 
 From the perspective of the Alpha-of-Alphas, assimilating the data and analysing it was a sensation not dissimilar to popping a morsel of flesh into its mouth and investigating the unique flavours. That sensation was no accident, having been deliberately engineered into the firmware of its own personal and highly customized suite of cybernetics.
 
@@ -181,13 +181,13 @@ One mystery above all, however, was truly fascinating. The human vessels had dan
 
 The Alpha-of-Alphas was undoubtedly among the most intelligent beings in the galaxy, but it was a very *focused* intelligence---within its own intellectual demesnes, nothing in the galaxy was its equal. Outside of them, however...
 
-<resignation; distaste> +*Bring me the Alpha of the Brood-That-Builds*+ it commanded.
+\<resignation; distaste\> +*Bring me the Alpha of the Brood-That-Builds*+ it commanded.
 
-<Information> +*that one is far away, greatest. I will send for it at once, but it will not arrive for some (days).*+ one of the subordinates sent.
+\<Information\> +*that one is far away, greatest. I will send for it at once, but it will not arrive for some (days).*+ one of the subordinates sent.
 
-<impatient tolerance> +*stress upon it that I desire its presence as soon as possible. If I am kept waiting, the Brood-That-Builds will need to find a new Alpha.*+
+\<impatient tolerance\> +*stress upon it that I desire its presence as soon as possible. If I am kept waiting, the Brood-That-Builds will need to find a new Alpha.*+
 
-<Obedience> +*It shall be as the Alpha-of-Alphas commands*.+
+\<Obedience\> +*It shall be as the Alpha-of-Alphas commands*.+
 
 ---
 
@@ -1491,29 +1491,29 @@ And now, this! The prey of a lifetime, actual sensor records of a Human starship
 
 The Alpha knew that if it succeeded at this task, it would have to spawn afterwards. The urge would be far too powerful, the pheromones and hormones of its deadly birthing would produce ***strong*** Hunters, the finest minds ever seen by the Brood-That-Builds. It relished and anticipated the thought.
 
-The Alpha-of-Alphas was in an indulgent mood, but there were limits. <Impatience; demand> +*Can you learn their secrets?*+ it demanded.
+The Alpha-of-Alphas was in an indulgent mood, but there were limits. \<Impatience; demand\> +*Can you learn their secrets?*+ it demanded.
 
-<Confidence; gratitude> +*The Alpha-of-Alphas has given me a fine prey to chase. But whatever solution the primitive deathworld beasts can invent, I can invent also. These secrets will be yours.*+ The Alpha Builder replied.
+\<Confidence; gratitude\> +*The Alpha-of-Alphas has given me a fine prey to chase. But whatever solution the primitive deathworld beasts can invent, I can invent also. These secrets will be yours.*+ The Alpha Builder replied.
 
-<Query> +*And how long would it take to introduce this technology to our brood-vessels?+*
+\<Query\> +*And how long would it take to introduce this technology to our brood-vessels?+*
 
-<Thoughtful estimation> +*That would depend on the nature of the technology, and how much of the Swarm would be thus outfitted*+
+\<Thoughtful estimation\> +*That would depend on the nature of the technology, and how much of the Swarm would be thus outfitted*+
 
-<Clarification> +*The entire Swarm-of-Swarms. Every last ship. This technology allows the Deathworlders to slip their cage and turn it into a wall against us. We will now devote all of our efforts into penetrating their fortress and butchering every last one.+*
+\<Clarification\> +*The entire Swarm-of-Swarms. Every last ship. This technology allows the Deathworlders to slip their cage and turn it into a wall against us. We will now devote all of our efforts into penetrating their fortress and butchering every last one.+*
 
-<Surprise; timid objection> +*Greatest One, even if the secret turns out to be trivial, that will take (years)*.+
+\<Surprise; timid objection\> +*Greatest One, even if the secret turns out to be trivial, that will take (years)*.+
 
-<Anger> +*Your place is not to object! Your place is to OBEY!*+
+\<Anger\> +*Your place is not to object! Your place is to OBEY!*+
 
 The Alpha Builder cowered as the Alpha-of-Alphas rose from its Vulza-skull throne and spread its cybernetic claws.
 
-<Placation; Obedience> +*It shall be as the Alpha-of-Alpha commands.*+ It mentally squeaked.
+\<Placation; Obedience\> +*It shall be as the Alpha-of-Alpha commands.*+ It mentally squeaked.
 
-<Satisfaction> +*Good. Get to work.*+
+\<Satisfaction\> +*Good. Get to work.*+
 
-The Alpha-of-Alphas paused as the Alpha Builder scurried away. <Threat> +*Understand something, Alpha of the Brood-That-Builds.*+ It fixed the lesser Alpha with a stern glare from all seven of its eyes. +*If you reproduce before every last human has been devoured, then I shall personally filter your spawn from their pool and have them fed to the spawn of another.*+
+The Alpha-of-Alphas paused as the Alpha Builder scurried away. \<Threat\> +*Understand something, Alpha of the Brood-That-Builds.*+ It fixed the lesser Alpha with a stern glare from all seven of its eyes. +*If you reproduce before every last human has been devoured, then I shall personally filter your spawn from their pool and have them fed to the spawn of another.*+
 
-The Alpha Builder swallowed, a subconscious gesture that, unbeknownst to either species, exactly mirrored its meaning in humans. <Fearful Understanding> it sent, and scurried away.
+The Alpha Builder swallowed, a subconscious gesture that, unbeknownst to either species, exactly mirrored its meaning in humans. \<Fearful Understanding\> it sent, and scurried away.
 
 Suddenly, this new prey seemed so much less exciting to it.
 

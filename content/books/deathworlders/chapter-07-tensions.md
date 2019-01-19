@@ -17,7 +17,7 @@ thup, thup...thup, thup...thup, thup...
 
 *♪ might as well face it...might as well face it you're addicted to lo-ove...might as well face it...might as well face it...might as well face it...♫*
 
-*The five o' clock freeride, classic rock, 92.9...* ***KISM*** 
+*The five o' clock freeride, classic rock, 92.9...* ***KISM***
 
 *♫ See me ride out of the sunset, on your color TV screen. Out for all that I can get, If you know what I mean...♪♫*
 
@@ -347,7 +347,7 @@ Compared to landing on an aircraft carrier in the Persian Gulf, landing on Embas
 
 By the time post-flight checks, power-down and securing her ship had finished, the bay had become host to a welcoming party of weirdness. She tried not to stare at them as she swung her boots over and dropped down to the deck, easily and buoyant in the light gravity.
 
-*<+Oh my God that one looks just like Rocket Raccoon, don't stare, don't stare...+>*
+*\<+Oh my God that one looks just like Rocket Raccoon, don't stare, don't stare...+\>*
 
 A short creature with the uncomfortably familiar face beloved by the UFO community the world over approached, trailed by an archway of some kind that moved on a hovering pad, which settled in front of Rylee.
 
@@ -367,7 +367,7 @@ The little grey alien stepped forward sharply. "Are you in pain?" he asked, tone
 
 Rylee did so, pleased to be out of it, and took the opportunity to scratch an itch above her ear.
 
-*<+I knew that stylus would be useful...+>*
+*\<+I knew that stylus would be useful...+\>*
 
 "Excellent. If you intend on staying longer than eight hours, we will need to give you a longer-lasting injection or even, if you are willing, a permanent implant. Until then, I shall leave you in the capable hands of the rest of the crew."
 
@@ -395,7 +395,7 @@ She looked around, taking in the blue and white giraffe-people, the bat-person, 
 
 "A pleasure. Be gentle, right? You could probably crush my hand if you squeeze too hard." he extended a hand---and it was, to her relief, definitely a *hand*, an honest tool-user's fingers, rather than an animal's paw---so she disengaged the pressure seal on her gauntlets, removed them and shook the offered extremity as delicately as she could, intrigued at how warm and silky the short fur of his hands was.
 
-*<+I'm shaking hands with an intelligent alien raccoon. Holy. Shit.+>* "Want to see *Pandora* up close?" She offered. "I still have a few post-flight checks to run through."
+*\<+I'm shaking hands with an intelligent alien raccoon. Holy. Shit.+\>* "Want to see *Pandora* up close?" She offered. "I still have a few post-flight checks to run through."
 
 "It'd be my pleasure." Goruu said. He started to enthuse more and more as they got closer to the sled's hull. "She's so aerodynamic! By the time my kind developed warp technology, we'd long since abandoned these kinds of curves in favour of shaped fields."
 

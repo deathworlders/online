@@ -513,15 +513,15 @@ Powell blinked, then flicked through his list. "Oh. Shit. Fookin' hell, what wer
 **Planet 16 Cyg B b, 16 Cygni trinary system.**     
 **Hunter supply station**
 
-+<*contempt; disgust; snap*> Report!+
++\<*contempt; disgust; snap*\> Report!+
 
 The Omega did so, cowering appropriately as the Beta of the Brood-that-Flays swaggered into the information node chamber.
 
-+<*Statement*> There have been no transports of the specified size along the prey-route within the last Diurnal, Beta.+
++\<*Statement*\> There have been no transports of the specified size along the prey-route within the last Diurnal, Beta.+
 
-+<*Disdain; command*> Continue to monitor the traffic. The prey are stupid and stubborn, there will be a few more before their patrols arrive. And they are yet to send our tribute.+
++\<*Disdain; command*\> Continue to monitor the traffic. The prey are stupid and stubborn, there will be a few more before their patrols arrive. And they are yet to send our tribute.+
 
-+<*Statement*> I comply, Beta.+
++\<*Statement*\> I comply, Beta.+
 
 Any brood above a certain size soon developed a small population of Omegas: They were an unfortunate necessity, as some tasks were too menial to insult the Deltas with, but too important to be entrusted to a meat-slave. This one, however, was especially vile in the eyes of its Brood.
 
@@ -549,25 +549,25 @@ The planet known to humans as 16 Cyg B b was a particularly spectacular example 
 
 The Beta became aware that the Strange One was inspecting something on its screen with greater than usual scrutiny.
 
-+<*impatience; tolerance; command*> Report, Omega+
++\<*impatience; tolerance; command*\> Report, Omega+
 
-+<*Statement*> Beta, a Prey-ship has passed through our sensor cordon at abnormally high speed. <*Observation*> A ship that fast can only be powered by the grey-skinned Prey's secret engines and a very large power source.+
++\<*Statement*\> Beta, a Prey-ship has passed through our sensor cordon at abnormally high speed. \<*Observation*\> A ship that fast can only be powered by the grey-skinned Prey's secret engines and a very large power source.+
 
-+<*Interest; Query*> Can it be intercepted?+
++\<*Interest; Query*\> Can it be intercepted?+
 
-+<*Statement*> It cannot, Beta. It simply attracted my attention: I apologise for intruding upon your time.+
++\<*Statement*\> It cannot, Beta. It simply attracted my attention: I apologise for intruding upon your time.+
 
 The Beta grudgingly accepted the benighted creature's apology. The day was just beginning to seem as if it would be a slow one without quarry, when the Strange One expressed the one emotion it had ever been known to show.
 
-+<*Satisfaction; statement*> Beta, a message from the Prey. The Herd of the Long Stars have honoured their arrangement and are sacrificing a vessel as we stipulated. A bulk freighter, High One. Of a configuration likely to contain many long-necks and their young.+
++\<*Satisfaction; statement*\> Beta, a message from the Prey. The Herd of the Long Stars have honoured their arrangement and are sacrificing a vessel as we stipulated. A bulk freighter, High One. Of a configuration likely to contain many long-necks and their young.+
 
 The Beta allowed itself the luxury of a wide-mawed smile. While actually deigning to *communicate* with the prey was a task so wretched that even the Omegas were only required to stoop to it it because the meat-slaves could not be entrusted with the task, little "arrangements" with the so-called "corporations" that made the greatest use of the shipping lanes was a mutually beneficial arrangement: The Brood had neglected a rich hunting ground over the arrangement with the Long Stars herd, allowing the Prey to grow rich and fat off the easy pickings there.
 
 The growth and prosperity of the Herd only served to fatten the meal and make the hunting that much better in the long-run. Proper cultivation of the meat was important, hence the willingness of the Broods to accept what might be alternatively interpreted as demeaning bribery, as if the Predators should be *bought* by the prey. Naturally, a high price was only appropriate. The meat itself was an excellent start, of course, but a bulk freighter was a large vessel that could be recycled into many Swarm-ships, and would hold younglings, ripe to become meat-slave breeding stock. The tribute was entirely acceptable.
 
-+<*Jubilation; Command*> A fine quarry! Alert the Alpha: we hunt. *Meat to the Maw!*+
++\<*Jubilation; Command*\> A fine quarry! Alert the Alpha: we hunt. *Meat to the Maw!*+
 
-+<*Statement*> I comply, Beta. Meat to the Maw.+
++\<*Statement*\> I comply, Beta. Meat to the Maw.+
 
 The Beta snarled as it departed for its ship, mood somewhat spoiled by the Omega's muted, unenthusiastic echo of a response. The Omega would receive only scraps from this prize for its lack of vigor.
 
@@ -669,7 +669,7 @@ He was beginning to fear just how terrible his mistake had been when the local s
 
 ---
 
-+<*Alarm; Alert*> Beta! Unknown warships have appeared via displacement!+
++\<*Alarm; Alert*\> Beta! Unknown warships have appeared via displacement!+
 
 The alert came at the worst possible time. The Alpha's ship had just lined up and was extending its boarding proboscis to pierce the Prey's hull. It was at its most vulnerable, its slowest, its shields lowered to get close to the prey.
 
@@ -679,13 +679,13 @@ The Beta---now the new Alpha---hooked its neural implants directly into its ship
 
 They were also alarmingly difficult to get a target lock on. Active sensors seemed to slide off their hulls like water off a greasy metal plate, and the ships themselves were small and agile, a combination which made securing a solid fix on their exact location at any given time as much a matter of luck and guesswork as of letting the sensors work. All were clearly being flown by experienced and exceptional pilots---their transversal velocity was high and their movements were coordinated so that if one of the remaining Hunter ships maneuvered to minimise its vulnerability to one attacker, another would be perfectly placed to rake it as it turned.
 
-+<*Statement; concern*> These are not the tactics of Prey...+
++\<*Statement; concern*\> These are not the tactics of Prey...+
 
 As if to confirm that sentiment, three of the craft converged on another of the remaining swarm-ships as it executed an ill-advised turn in response to a feint. The new Alpha paid close attention to the weaponry they used, probing the space around the attacking craft for signs of what manner of violence was being unleashed. It detected only the burnt by-products of explosive compounds, and a hail of high-speed flechettes.
 
 With its shields up, the second Swarm-ship survived the assault, but was badly mauled, losing a thruster and the coilguns along its larboard flank before the aggressors had swept past, banking and accelerating, keeping their transversal high. The sustained G-forces involved in that maneuver must have been ferocious, and yet the ships showed no sign that their pilots were in distress. A dreadful suspicion started to settle in the Alpha's mind.
 
-+<*Command; urgency*> Meet aggression with aggression! We are not Prey! Form up and fight as Predators!+
++\<*Command; urgency*\> Meet aggression with aggression! We are not Prey! Form up and fight as Predators!+
 
 The Swarm-craft fell in around their wounded comrade, and as one the pack turned, seeking a target. One of the attackers was isolated from its wing, its evasive options whittled down by shepherding volleys of coilgun fire, and there was a stab of triumph from the Alpha's gunner as it fired a perfect solution that would surely obliterate the offending vessel, turning the tide.
 
@@ -695,7 +695,7 @@ Then the entire hostile wing imitated the move. Suddenly, all of the Swarm-ships
 
 A storm of accurate firepower ablated the shielding around their sterns in seconds.
 
-+<*Panic; Command*> **Disengage!** Flee! Fl-+
++\<*Panic; Command*\> **Disengage!** Flee! Fl-+
 
 A 30mm depleted Uranium armor-piercing incendiary round penetrated through all of the ship's comparatively flimsy internal bulkheads, disintegrating as it went. It arrived in the command deck as a dense knot of incandescent heavy metal that reduced the Alpha to a smear of liquified matter when it passed directly through the command chair before embedding itself in the forward wall. The explosive force of its arrival crushed the other five Hunters on the deck almost simultaneously.
 

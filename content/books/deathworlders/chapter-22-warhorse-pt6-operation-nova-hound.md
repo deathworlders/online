@@ -1272,7 +1272,9 @@ Rylee lined up, while her wingmen swept out to clear the box of any lingering ho
 
 **\<Delight\>** +*Fusion weapons deployed via wormhole, too close to evade! ExoAtmospheric deployment of individual ground units! And the communications cyphers! I salivate to sink my teeth into those!*+ The Alpha Builder was broadcasting joyous paroxysms like a messy eater spraying prey-blood all over its fellows.
 
-The Alpha-of-Alphas radiated a good mood. It leaned forward slightly in its throne **\<Amused rebuke\>** +*Continue to pay attention, and you will be fed further morsels I am sure. These deathworlders are not stupid, they will have many secrets in reserve that they have not yet revealed.*+ it declared. **\<Regret\>** +*A shame that Alpha-of-Many-Broods is going to escape capture.*+
+The Alpha-of-Alphas radiated a good mood. It leaned forward slightly in its throne **\<Amused rebuke\>** +*Continue to pay attention, and you will be fed further morsels I am sure. These deathworlders are not stupid, they will have many secrets in reserve that they have not yet revealed.*+ it declared.
+
+ **\<Regret\>** +*A shame that Alpha-of-Many-Broods is going to escape capture.*+
 
 **\<Query\>** +*You are certain?*+
 
