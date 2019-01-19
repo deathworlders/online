@@ -3909,7 +3909,7 @@ They boys were so excited that they completely missed (thankfully) the contemptu
 
 “Boys, go clean up for dinner,” Jacob told them.
 
-“Wha-? But *Dad!”()
+“Wha-? But *Dad!”*
 
 “***Now***, Ramsey.”
 
