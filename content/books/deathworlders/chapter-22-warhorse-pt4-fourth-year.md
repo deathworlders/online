@@ -709,7 +709,7 @@ He smiled. She sounded so cute when she was tired. "Ava? Did I wake you, babe?"
 
 "It's refuelling. We're on our way up to Scotch Creek."
 
-*"Why are you-?"* There was a sharp rustling of bedding on her end of the line. *"Are you going back to **Cimbrean?!"**
+*"Why are you--?"* There was a sharp rustling of bedding on her end of the line. *"Are you going back to* **Cimbrean?!"**
 
 "Yeah! The SOR's going to be permanently posted there! Isn't that cool?"
 
@@ -1137,11 +1137,11 @@ Powell nodded, and hit the kettle's switch.
 
 "Yyyep."
 
-"And I'm the one who flew FTL first, so of *course* I get to dick around in front of the cameras for a few months rather than do something *useful*. You know they want me to do a fucking *documentary*?"
+"And I'm the one who flew FTL first, so of *course* I get to dick around in front of the cameras for a few months rather than do something *useful.* You know they want me to do a fucking *documentary?"*
 
 "Dreadful." Powell deadpanned.
 
-"End of the world!" Rylee rolled her eyes skywards, though she smiled. "Anyway, I figured if I took on a unit that's currently all classified and stuff then by the time the footage is *de*classified I won't have to answer stupid questions about it."
+"End of the world!" Rylee rolled her eyes skywards, though she smiled. "Anyway, I figured if I took on a unit that's currently all classified and stuff then by the time the footage is *de-*\classified I won't have to answer stupid questions about it."
 
 "Hence why you've come to us."
 
@@ -1243,7 +1243,7 @@ He rolled his head back and frowned at the ceiling, searching his memory. "Thirt
 
 "You want me to stress that?"
 
-"We're only going to want people who can hack the idea of never being the same again. Go talk to WARHORSE sometime—Staff Sergeant Arés. I used to work closely with his old man, who's a slim, small, little guy. Not unfit or anything, just...small. Four years ago, the lad was just, like, a younger version of 'is dad, but now he's fookin' *huge*! *A*nd he'll still be huge when he's in his eighties."
+"We're only going to want people who can hack the idea of never being the same again. Go talk to WARHORSE sometime—Staff Sergeant Arés. I used to work closely with his old man, who's a slim, small, little guy. Not unfit or anything, just...small. Four years ago, the lad was just, like, a younger version of 'is dad, but now he's fookin' *huge!* And he'll still be huge when he's in his eighties."
 
 Rylee nodded, thoughtfully. "I mean...I'm just going to be narrating and interviewing on this thing, it's up to the director in the end." she said. "But I'll pass that along."
 
@@ -1865,7 +1865,7 @@ She was rewarded with a ripple of laughter that told her she'd kept her tone lig
 
 "I can see why!" Royce agreed. "You did a tour in the Middle East-"
 
-"I flew a handful of missions several thousand feet *above* the Middle East." Rylee corrected him. She’d spent that entire conflict living comfortably in Germany, and was eager for there to be no confusion. '*Did a tour*’ made it sound like she’d been checking her boots in the desert every morning, and she didn’t want to overshadow the people who really had been putting up with the conditions down there.
+"I flew a handful of missions several thousand feet *above* the Middle East." Rylee corrected him. She’d spent that entire conflict living comfortably in Germany, and was eager for there to be no confusion. *'Did a tour'* made it sound like she’d been checking her boots in the desert every morning, and she didn’t want to overshadow the people who really had been putting up with the conditions down there.
 
 Royce politely ignored the interruption. "-then you trained for and flew *Pandora* and now you're a permanent fixture of the air force's 946th Spaceflight wing. And I'm told you're unusually devoted to your plane."
 
