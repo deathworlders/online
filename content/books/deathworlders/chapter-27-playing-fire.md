@@ -10,7 +10,7 @@ aliases:
 
 ***Technical Sergeant Martina Kovač***
 
-The mad thought that was first and foremost in Martina’s mind was that *Caledonia’s* general alarm should have sounded more… serious. She was on a *starship* for crying out loud, and the fact that said starship was on fire in a major way really warranted more than an almost-quiet *'da*\da*da*\da*da*\da' warble.
+The mad thought that was first and foremost in Martina’s mind was that *Caledonia’s* general alarm should have sounded more… serious. She was on a *starship* for crying out loud, and the fact that said starship was on fire in a major way really warranted more than an almost-quiet *'da*-da-*da*-da-*da*-da' warble.
 
 This was not a situation for a cartoon cop-car noise. There were gouts of flame shooting out of the air vents, powered systems shutting off all around as their surge protectors cut in, and the hull was singing as the heat stretched and expanded it. *Caledonia* was groaning like a wounded whale. This was a situation demanding loud, harsh tones with a deep backbone, something that really advertised the importance of prompt action.
 
