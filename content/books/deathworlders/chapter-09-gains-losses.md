@@ -344,7 +344,7 @@ Mr. Johnson stepped around the corner. It WAS him, there could be no doubt, righ
 
 "Boone! Where are you!" Ares yelled, loud enough to hear despite the phone being on the ground next to her. She shouted the address at it as she dug through her handbag for her m1911, cowering against the engine block as Johnson emptied the magazine.
 
-<+*How? How the FUCK?! I KILLED him!*+>
+\<+*How? How the FUCK?! I KILLED him!*+\>
 
 He stopped firing, and she hauled herself up and around to shoot back, only to be confronted with an awful truth.
 
@@ -356,6 +356,6 @@ Terri was thrown halfway across the lot. She tried to get up, to keep fighting, 
 
 There was so much less of her than there should be. There was so much *more* of her than there should be, pieces that God had never intended to see the light of day.
 
-<+*No...*+>
+\<+*No...*+\>
 
 It was a sad, desperate thought, and it was her last one. When Johnson walked up and calmly fired a round through her skull for certainty's sake, Terri Boone's corpse didn't even twitch.
