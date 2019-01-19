@@ -382,23 +382,23 @@ The other human spoke. The language was a staccato one, short clipped consonants
 
 "I understand. Our missions are at cross purposes: I had no idea the West had forces offworld."
 
-"<*Gibberish?*>" There was a questioning note at the end of that sentence.
+"\<*Gibberish?*\>" There was a questioning note at the end of that sentence.
 
 "Of course. I surrender, captain."
 
-The two deathworlders gripped each other's hands firmly, and the captain nodded, looking relieved. "<*Babble. Nonsense?*>"
+The two deathworlders gripped each other's hands firmly, and the captain nodded, looking relieved. "\<*Babble. Nonsense?*\>"
 
 "Thank you." Kaminski glanced around, and then leaned closer to the other human and spoke confidentially, too quietly for Gyotin to overhear.
 
-The captain frowned, then turned to the enormous human with the giant gun. "Leg-zee! <*Jabber! Gobbledygook.*>
+The captain frowned, then turned to the enormous human with the giant gun. "Leg-zee! \<*Jabber! Gobbledygook.*\>
 
-The big one nodded sharply, and then marched forward, stuck the vast weapon into the small of Adrian's back, and ordered something. "<*Yammer*> fucking <*prattle*>."
+The big one nodded sharply, and then marched forward, stuck the vast weapon into the small of Adrian's back, and ordered something. "\<*Yammer*\> fucking \<*prattle*\>."
 
 "Sure, mate. Whatever." Saunders agreed, and started walking, placing his hands gently atop his head. Gyotin wasn't sure if the easy relaxed swagger in his movements was a symptom of bravado or honest insanity.
 
 He stopped paying attention when the human medic returned and extended a hand. Gyotin took it with his good hand and was hauled---gently and respectfully but with the inexorable force of a human's incredible strength---to his feet, offering words which, while Gyotin couldn't understand them, promised medical attention and a future which didn't include imminent death.
 
-<+*maybe they AREN'T all completely crazy...*+>
+\<+*maybe they AREN'T all completely crazy...*+\>
 
 ---
 
@@ -592,7 +592,7 @@ True enough. "Kaminski's recovered. We have no idea what's wrong with Markovic o
 
 "Apparently it sends you totally fucking mental before you go catatonic. At least that's what I've gathered from it." Saunders revealed. "I'd stay away from that shit if I were you."
 
-<*+No shit.+*> Powell thought, feeling that his intelligence was being insulted. Who did this idiot think he was dealing with? There wasn't a soldier on Cimbrean who wasn't veteran special forces, they didn't need advice from a crazed resurrectee, they needed the facts, unbiased and plain. Shit like "Don't breath in the toxic foam" went without saying.
+\<*+No shit.+*\> Powell thought, feeling that his intelligence was being insulted. Who did this idiot think he was dealing with? There wasn't a soldier on Cimbrean who wasn't veteran special forces, they didn't need advice from a crazed resurrectee, they needed the facts, unbiased and plain. Shit like "Don't breath in the toxic foam" went without saying.
 
 He kept his cool by changing the subject. "You're a wanted man on Earth, you know," He told him, keeping his tone light and companionable. "By rights, we're supposed to imprison you and keep you until we can send you back... but."
 
@@ -634,7 +634,7 @@ Saunders had the good grace to look embarrassed. "Long and short of it? They're 
 
 "Not like I can do owt with it." Powell grumbled as he sat down again. Nobody on his team was even remotely qualified to handle, salvage or work with nonhuman technology. A critical mission oversight, in retrospect.
 
-<+*And here I thought this debriefing was going to make my job LESS fookin' difficult.*+> he mused.
+\<+*And here I thought this debriefing was going to make my job LESS fookin' difficult.*+\> he mused.
 
 Adrian shrugged. "*You* can't." he said.
 
