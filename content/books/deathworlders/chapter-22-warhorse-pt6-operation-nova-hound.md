@@ -576,9 +576,9 @@ There was muffled speech, then shouting as the humans who had stayed behind retr
 
 The humans scrambled to check each other's suits, and all loudly declared them satisfactory, then the one carrying him turned away and hunkered down and...
 
-Losing his hand turned out to be only the *second* most violent thing that happened to Regaari that day. The first was any station-dweller's nightmare—the total catastrophic failure of an outside wall, and the resulting depressurisation that flung them and everything else in the room out into space. Crushing G-forces caused him to black out for a second.
+Losing his hand turned out to be only the *second* most violent thing that happened to Regaari that day. The first was any station-dweller's nightmare—the total catastrophic failure of an outside wall, and the resulting depressurisation that flung them and everything else in the room out into space. Crushing G-forces caused him to black out for a second.
 
-* * *
+---
 
 *"Hey. Hey, you still with me in there?"*
 
@@ -1290,13 +1290,13 @@ It snarled, baring all of those vicious teeth. **<Anticipation>** +*Every such s
 
 Regaari set down the binos and gripped the communicator's button for all he was worth. "RIGHTEOUS, DEXTER. They're crossing the bridge."
 
-"*DEXTER, RIGHTEOUS. Copy **that**, y'all watch this shit and tell me how much it hurts them."*
+*"DEXTER, RIGHTEOUS. Copy* **that,** *y'all watch this shit and tell me how much it hurts them."*
 
-Regaari's fur rose a bit. The human '*Combat Controller*''s voice had been full of a kind of malicious anticipation which was equal parts infectious and worrying. "RIGHTEOUS, DEXTER...watch *what*, exactly?"
+Regaari's fur rose a bit. The human *'Combat Controller's* voice had been full of a kind of malicious anticipation which was equal parts infectious and worrying. "RIGHTEOUS, DEXTER...watch *what,* exactly?"
 
 There was a pause. RIGHTEOUS was presumably busy. A few seconds later, he got back on the line.
 
-"*DEXTER, you sir are lucky enough to have a front row seat for the first ever deployment of a Rod From God. Enjoy the show. RIGHTEOUS out."*
+*"DEXTER, you sir are lucky enough to have a front row seat for the first ever deployment of a Rod From God. Enjoy the show. RIGHTEOUS out."*
 
 * * *
 
@@ -1512,7 +1512,7 @@ Just buy them time.
 
 He'd taken BASEBALL's SAW and fired it until the box was empty and the barrel glowing. That alone was enough. He saw the shuttle take off and streak into the sky. Mission accomplished.
 
-Then he fought with his SMG until he ran out of magazines. The last of the TS/2 fighters jumped out with *thump*s of inrushing air, recalled once the shuttle was no longer in danger of being intercepted.
+Then he fought with his SMG until he ran out of magazines. The last of the TS/2 fighters jumped out with *thumps* of inrushing air, recalled once the shuttle was no longer in danger of being intercepted.
 
 Then he fought with his pistol until there were no more rounds to fire. For honour.
 
@@ -1520,7 +1520,7 @@ Then he fought with his knife.
 
 Then his fists.
 
-He held out long enough to still be standing when the second Rod From God hit, sent to destroy the wreck of *Firebird*, and his suit.
+He held out long enough to still be standing when the second Rod From God hit, sent to destroy the wreck of *Firebird,* and his suit.
 
 The Hunters didn't get the satisfaction of killing him.
 
