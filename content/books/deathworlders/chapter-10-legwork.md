@@ -100,7 +100,7 @@ Everyone in the office gathered round as he clicked it into a reader and opened 
 
 "Open it."
 
-Inside were a handful of snapshots of beautiful Canadian rural terrain, and one of the technicians confirmed that they were of the area around Scotch Creek with a quick Google Street Maps search. Alongside them was a folder marked "Kevin".
+Inside were a handful of snapshots of beautiful Canadian rural terrain, and one of the technicians confirmed that they were of the area around Scotch Creek with a quick Google Street Maps search. Alongside them was a folder marked "Kevin."
 
 There was a general exclamation of surprise at that second folder's contents. Gabriel rounded angrily on an officer who emitted a lecherous two-toned whistle. "This isn't fucking porn! You're going to fucking whistle at a dead woman's selfies? *Mostrar respeto!"*
 
