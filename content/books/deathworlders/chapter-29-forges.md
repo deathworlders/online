@@ -676,7 +676,7 @@ They shook hands and exchanged a “Hi” and a “Hello”
 
 “...Jack, and Hope.”
 
-Simon shook the teenage Jack’s hand, and aimed a smile at the little one, who was treating him with wary-eyed uncertainty but who managed a little “*H’lo*”
+Simon shook the teenage Jack’s hand, and aimed a smile at the little one, who was treating him with wary-eyed uncertainty but who managed a little *“H’lo”*
 
 “You really lent her the money to come back?” Hayley asked.
 
@@ -892,7 +892,7 @@ Adam had *almost* managed it. One treacherous glass of port had been his downfal
 
 Now it was well into the darkest hours of the night. The party had ended, the nightly rains had faded and she had been walking alongside him as they sobered up with a stroll through the cool, clean-smelling streets when a thought had apparently crashed into his brain and set him enthusiastically plotting to walk, in his words: “Somewhere. You’ll see where. It’s important.”
 
-“Yeah, but *where?*”
+“Yeah, but *where?”*
 
 “You’ll see,” he repeated. “I just wanna change first.”
 
@@ -950,7 +950,7 @@ After all, there was no *way* the whole “Beef Brothers” thing was going to j
 
 In public image Staff Sergeant Arés was a hero, a poster boy, the picture of Exosolar military perfection. In private Adam himself was a very different creature, as evidenced by the fact that he emerged from the bedroom wearing long baggy gym shorts, a muscle T that Martina could have turned into two dresses, and his bare feet. He grabbed his light hiking bag from where it lived by the door and didn’t even bother with his sandals.
 
-“So *where are we going?*” Martina insisted.
+“So *where are we going?”* Martina insisted.
 
 “Up Memorial Hill,” he replied, throwing the light bag easily around one shoulder.
 
@@ -1092,7 +1092,7 @@ ___
 
  ***Xiù Chang***
 
-“*HAPPY BIRTHDAY!!*”
+*“HAPPY BIRTHDAY!!”*
 
 Xiù couldn’t resist beaming to herself at the awkward but delighted look on Julian’s face. Considering how short-notice the party planning had been, the BGEV team had really pulled through on throwing him something pretty special.
 
@@ -1618,11 +1618,11 @@ Xiù was home before her, and nearly dropped the vegetable steamer when she saw 
 
 “Long hair and MIG welding don’t mix so good.” Allison ruefully flopped the burnt ponytail over her shoulder and inspected it. She couldn’t even see how high the black bit in the middle went. “Maybe I should just cut it off.”
 
-“Oh, *Al!*” Xiù complained. “Your hair’s lovely!”
+“Oh, *Al!”* Xiù complained. “Your hair’s lovely!”
 
 “Bullshit,” Allison smiled fondly and snatched a carrot stick from the steamer, gave her a kiss on the cheek and dragged out the couch to sit on. “I’ve never looked after it properly.”
 
-“And it’s still… well, it *was* nice…” Xiù corrected herself. She sighed, put her cooking aside for the moment and took up position behind Allison to assess the damage herself. “Oh, it’s burnt right up to *here*….”
+“And it’s still… well, it *was* nice…” Xiù corrected herself. She sighed, put her cooking aside for the moment and took up position behind Allison to assess the damage herself. “Oh, it’s burnt right up to *here...”*
 
 “Baby, it’s just hair.” Allison rolled her eyes.
 
@@ -1968,7 +1968,7 @@ She’d agreed to move, and where a pregnant Sister went, other Sisters would fo
 
 Relocating to a new colony and installing herself as one of the founding Sisters of the commune there would be excellent for her prestige, and she hadn’t needed much advice from Regaari to see that.
 
-As for the *Racing Thunder*’s crew, they had a safe, legitimate haven, the Dominion got their “justice”, the Clan kept their Brothers alive and still doing good work, Gao got effectively another colony via the power of migration, and Regaari got both a victory over Father Mavil and an opportunity to talk some more with Admiral Knight and Major Powell.
+As for the *Racing Thunder’s* crew, they had a safe, legitimate haven, the Dominion got their “justice”, the Clan kept their Brothers alive and still doing good work, Gao got effectively another colony via the power of migration, and Regaari got both a victory over Father Mavil and an opportunity to talk some more with Admiral Knight and Major Powell.
 
 He excused himself from the bridge as the One-Fang crew made the final preparations for departure. Not being Clan, he didn’t have a nest-bed among the crew quarters, and had to settle for curling up alone in a corner of one of the cargo holds, surrounded by the provisions, technology and barter goods that the *Racing Thunder* had taken on to lubricate their negotiations with the humans… or else to keep them supplied and comfortable in case the deathworlders turned out to be less hospitable than Regaari had assured.
 
@@ -1990,7 +1990,7 @@ Regaari was halfway to the bridge when the ship jolted slightly and there was a 
 
 “What was that?” he asked.
 
-The One-Fang brother escorting him flicked an ear, amused. “A shuttle landing,” he said, and indicated a line on the ceiling which pointed the way to the *Racing Thunder*’s small craft bay. Regaari duck-nodded and detoured that way.
+The One-Fang brother escorting him flicked an ear, amused. “A shuttle landing,” he said, and indicated a line on the ceiling which pointed the way to the *Racing Thunder’s* small craft bay. Regaari duck-nodded and detoured that way.
 
 He wasn’t disappointed. The detail of One-Fang security officers who were welcoming the humans on board were shooting nervous glances at each other at the sight of four SOR men disembarking from their shuttle in full EV-MASS, among them the unmistakably hulking silhouette of Warhorse.
 
@@ -2075,11 +2075,11 @@ ___
 
 “I’m telling you, *Tangled* has the best songs!”
 
-Xiù giggled and scraped her mixture of crushed garlic and chopped onions into a pan to start frying. “It so doesn’t! Yeah, they’re good but they’re not like… Everybody can remember *The Lion King*’s songs, but nobody remembers the ones from *Tangled*.”
+Xiù giggled and scraped her mixture of crushed garlic and chopped onions into a pan to start frying. “It so doesn’t! Yeah, they’re good but they’re not like… Everybody can remember *The Lion King’s* songs, but nobody remembers the ones from *Tangled*.”
 
-“Well they should!” Allison insisted, “‘*When will my life begin’*? *‘I’ve got a dream’*? They’re amazing!” She glanced conspiratorially around the room even though they both knew they were alone. “...Julian tears up during *’I see the light.’*”
+“Well they should!” Allison insisted, “‘*When will my life begin’*? *‘I’ve got a dream’*? They’re amazing!” She glanced conspiratorially around the room even though they both knew they were alone. “...Julian tears up during *’I see the light.’”*
 
-Xiù put her knife down just in case she cut herself laughing “He *doesn’t!?*”
+Xiù put her knife down just in case she cut herself laughing “He *doesn’t!?”*
 
 Allison nodded with an impish smile as she finished putting the last of the laundry away. “My right hand to God! He gets all misty-eyed when they’re singing in harmony.”
 
@@ -2111,7 +2111,7 @@ Allison made a performance of inspecting Xiù’s hair, which on the rare occasi
 
 “Yeah. Blue isn’t your color, babe.”
 
-Xiù *snrrk*ed and swept the celery into the pan to fry.
+Xiù *snrrk*-ed and swept the celery into the pan to fry.
 
 “Mulan and Merida,” she mused. “Guess I like the warrior princesses, huh?”
 
@@ -2171,11 +2171,11 @@ Julian groaned and covered his eyes. “How bad is it?”
 
 “...*What?”*
 
-“Ninety-one percent!” Allison brandished the printout. “Surprise equipment malfunction test. Examiner’s notes: *’Showed exceptional focus under pressure and was able to recover three samples. Exemplary performance marred only by slight hesitation at the moment the equipment failed, and by frustration over factors outside of his control’.*” She lowered it again, beaming. “You aced it!”
+“Ninety-one percent!” Allison brandished the printout. “Surprise equipment malfunction test. Examiner’s notes: *’Showed exceptional focus under pressure and was able to recover three samples. Exemplary performance marred only by slight hesitation at the moment the equipment failed, and by frustration over factors outside of his control’.”* She lowered it again, beaming. “You aced it!”
 
 Julian made the exact same ‘huh’ noise that she had, then looked at his beer. “...Damn. Now I feel bad for wasting one of these.”
 
-“*Fèihuà!*” Xiù told him, then corrected herself. “Nonsense. That’s your celebration beer now, you hear?”
+*“Fèihuà!”* Xiù told him, then corrected herself. “Nonsense. That’s your celebration beer now, you hear?”
 
 He went still for an instant, then shrugged and smiled. “Yes ma’am.”
 
@@ -2215,7 +2215,7 @@ Once Regaari and Shipfather Yefrig were both furnished with a civilized beverage
 
 “You appreciate that I can’t just take a nonhuman ship and integrate it into the fleet,” he said. “You have different doctrine, different weapons and tactics, there are - forgive me - *rafts* of security concerns involved… Frankly you haven’t delivered an exciting new addition to the fleet, you’ve brought me a flying headache.”
 
-“The *Racing Thunder*” is technological generations ahead of your ships,” Father Yefrig observed, clearly a touch offended. The translator certainly thought so, giving him a tooth-grinding edge to his simulated English voice.
+“The *Racing Thunder”* is technological generations ahead of your ships,” Father Yefrig observed, clearly a touch offended. The translator certainly thought so, giving him a tooth-grinding edge to his simulated English voice.
 
 “My dear chap, I don’t doubt that for a second,” Knight placated him. “But if… hmm…” he sipped his tea then hit on a useful analogy and put the cup down to deliver it. “If what we need is a spear, then you have brought me an excellent sword. For which I’m of course grateful, but...”
 
