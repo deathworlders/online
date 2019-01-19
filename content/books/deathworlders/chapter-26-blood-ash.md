@@ -54,7 +54,7 @@ Darcy touched her lip thoughtfully. “I’m lucky.” she said at last. “I wo
 
 Darcy acknowledged that she hadn’t with an amused motion of her head. “I… find it much easier once I understand *why* they’re secret.” she said. “I may not always agree with the rationale, but knowing there *is* a rationale - and there’s *always* a rationale - well, it makes it easier.”
 
-“Easi***er*?** Not actually *easy.”*
+“Easi-***er?*** Not actually *easy.”*
 
 “...I have friends and family and there are times when I might be having a conversation with them and they’ll say something or voice an opinion that treads on territory I know about.” Darcy told her. “Biting your tongue when you know that their whole argument is completely wrong, but you can’t give them the puzzle piece they need to really make sense of things… that’s not easy.”
 
