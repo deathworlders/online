@@ -16,7 +16,7 @@ aliases:
 
 "*Nothing between me and vacuum but forcefields? Fuck that, dude.*"
 
-"*How can one engage in pro-*…" Vedreg paused. “*No, wait. This is vulgarity for punctuation and emphasis, isn't it.*”
+*"How can one engage in pro-…"* Vedreg paused. *“No, wait. This is vulgarity for punctuation and emphasis, isn't it.”*
 
 "*Hey, he's finally getting it. Miracles do happen!*"
 
@@ -778,7 +778,7 @@ Ayma shot a questioning look at Regaari, who ducked his head to reassure her. Th
 
 "Like you hadn't guessed." Regaari noted.
 
-The humans chuckled again, and Rebar looked around the *Springing Ember'*s interior. "Nice ship."
+The humans chuckled again, and Rebar looked around the *Springing Ember's* interior. "Nice ship."
 
 "Whitecrest personal transport. One of the newest models. Designed to deliver an individual or small group on relatively short journeys, very quickly."
 
@@ -814,7 +814,7 @@ Ayma keened slightly and Regaari barely restrained the impulse himself: The thou
 
 "Hey, hey, it's fine!" Baseball hurried to reassure them. “Horse ain't just a pretty face, he's a damn good medic too. She's back on Earth now. Last I heard, she's doing just fine.”
 
-"Major Powell should know more." Blaczynski added. He was watching the *Springing Ember'*s instruments for any sign of trouble, even though the ship was completely competent at landing itself. Already, their re-entry was raging a burnt orange around the edges of their forcefield.
+"Major Powell should know more." Blaczynski added. He was watching the *Springing Ember's* instruments for any sign of trouble, even though the ship was completely competent at landing itself. Already, their re-entry was raging a burnt orange around the edges of their forcefield.
 
 "Good, because it's him that we're here to see." Regaari told them. “Pleasant as it is to see you again, this is *important*, both personally and politically.”
 
@@ -1132,11 +1132,11 @@ He zoomed the map out a bit. "...Pakistan. Like I said, Saudi Arabia’s collaps
 
 "Okay…?" Sean asked, examining the map. Simon smiled grimly, and closed the app to open a folder full of pictures instead - two ships at harbour, dimly visible through extreme range and heat haze.
 
-"This is the MV *Nasarpur*, and berthed next to it is the PNS *Zulfiquar*, one of the Pakistan Navy’s frigates. *Nasarpur*’s a merchant vessel, a light freighter. About two months ago she left Karachi bound for Jeddah Seaport. When she got there though, she was *immediately* locked down by the Pakistani military. She didn’t load or offload anything, and three days later she sailed straight back to Karachi, without explanation."
+"This is the MV *Nasarpur*, and berthed next to it is the PNS *Zulfiquar*, one of the Pakistan Navy’s frigates. *Nasarpur’s* a merchant vessel, a light freighter. About two months ago she left Karachi bound for Jeddah Seaport. When she got there though, she was *immediately* locked down by the Pakistani military. She didn’t load or offload anything, and three days later she sailed straight back to Karachi, without explanation."
 
 "Any idea why?" Sean asked.
 
-"Oh, rumours were flying thick and fast." Simon told him. “None of them were very credible… Not even the kind of rags who run headlines like *‘The Corti abducted my cat!*” or whatever were touching them. That is, right up until some friends of mine were fed a tip that an Israeli checkpoint intercepted a nuke covered in Pakistan flags.”
+"Oh, rumours were flying thick and fast." Simon told him. “None of them were very credible… Not even the kind of rags who run headlines like *'The Corti abducted my cat!'* or whatever were touching them. That is, right up until some friends of mine were fed a tip that an Israeli checkpoint intercepted a nuke covered in Pakistan flags.”
 
 "A nuke?!" Sean exclaimed.
 
@@ -1150,7 +1150,7 @@ Ava was similarly dismayed. "You’re kidding."
 
 "Oh, bloody lovely." Sean groused. “You plan on leading us into a powder keg where cities could maybe blow up?”
 
-"*Story of my life*…" Ava commented, *sotto voce*. Neither man heard her. “What’s the other question?”
+*"Story of my life…"* Ava commented, *sotto voce.* Neither man heard her. “What’s the other question?”
 
 Simon sat down, resting his elbows on his knees. "That nuke showing up in the West Bank makes absolutely no sense at all." he said. “*Nobody* benefits from that. If they’d successfully smuggled it over the border and then detonated it… then what? Like I said, Jerusalem - and specifically the Al-Aqsa Mosque - is the third holiest site in Islam. Destroying it would be only marginally less blasphemous than destroying the Kaaba, or the Mosque of the Prophet.”
 
@@ -1560,7 +1560,7 @@ Byron sighed and reclaimed a little momentum by mixing something for himself - a
 
 "Robert Frost."
 
-Frost had been one of the four crew on *Reclamation*, the ship that Byron had sent out to investigate the disappearances of BGEVs one, three, four and six. Somewhere during the ill-fated mission’s chain of misadventures, Frost had been forced to take a translator implant. He’d been under the scanner of a surgical robot, about to have the implant whipped straight back out again, when a Hierarchy agent had stepped into his head and used his body to murder the *Reclamation*’s captain, Jason Nolan.
+Frost had been one of the four crew on *Reclamation*, the ship that Byron had sent out to investigate the disappearances of BGEVs one, three, four and six. Somewhere during the ill-fated mission’s chain of misadventures, Frost had been forced to take a translator implant. He’d been under the scanner of a surgical robot, about to have the implant whipped straight back out again, when a Hierarchy agent had stepped into his head and used his body to murder the *Reclamation’s* captain, Jason Nolan.
 
 Things had only gotten worse for them after that, but a full recording of the changes in Frost’s brain as he was taken over had, briefly, been in the hands of the Byron Group’s scientists: Byron had promptly deleted it.
 
@@ -2012,7 +2012,7 @@ He shouldered himself off the wall. "Y’don’t think mebbe that was a bit of a
 
 "An’ here I was thinkin’ we were makin’ a connection." Jenkins muttered as he adjusted his grip, wincing as he pinched his nostrils shut.
 
-"You came to my *house*." Xiù repeated. “You tricked my *parents*. You tried to manipulate me, you tried to get inside my head. You tried to use *these-*” she gestured at the ragged scar lines on her arm, and to the tiny cut on her throat “-to make me do what you want? My answer is ***NO.*** You go away *right now!”*
+"You came to my *house*." Xiù repeated. “You tricked my *parents*. You tried to manipulate me, you tried to get inside my head. You tried to use *these-”* she gestured at the ragged scar lines on her arm, and to the tiny cut on her throat “-to make me do what you want? My answer is ***NO.*** You go away *right now!”*
 
 Jenkins nodded and opened the door. "Offer of a job still stands." he croaked.
 
@@ -2137,7 +2137,7 @@ Lewis sighed. "Fiiiine."
 
 Kirk nodded at length. "Somewhere deep in space, a freighter picks up a distress beacon." he began. “They rescue the escape pod and are pleased to find that the occupant is a fellow Rrrrtktktkp’ch. They explain that, sadly, their freighter is a slow one and that it will be many *rikat* before they next arrive at port, but the castaway is simply grateful for the rescue.”
 
-"At mealtime, the four of them sit down to enjoy *Cqcq* and *Zrrk*, in welcome to their new guest. Just as they have begun to eat, the captain says: *‘Twelve.*’ his two crewmates laugh, and one replies *‘Eight.’* to further merriment. Naturally, this confuses the newcomer, who requests an explanation."
+"At mealtime, the four of them sit down to enjoy *Cqcq* and *Zrrk*, in welcome to their new guest. Just as they have begun to eat, the captain says: *‘Twelve.’* his two crewmates laugh, and one replies *‘Eight.’* to further merriment. Naturally, this confuses the newcomer, who requests an explanation."
 
 "*‘We have worked together for hundreds of rik’*, the captain explains. *’We all know each others’ jokes by now, and so it is more efficient to refer to them by number.’* The newcomer nods his understanding and falls silent."
 
@@ -3488,7 +3488,7 @@ Allison frowned. "They’re on the news?"
 
 "They, uh… they came here." Xiù said it with forced lightness.
 
-"...As in…" Allison took a heartbeat to get her head around what she’d just been told. “They visited you? Here on *Earth?*”
+"...As in…" Allison took a heartbeat to get her head around what she’d just been told. “They visited you? Here on *Earth?”*
 
 "Right here in my parents’ front room. Yeah." Xiù had a nervous laugh in her voice at that. The camera jolted as she shrugged. “And, uh, apparently they’re going to go visit some US national park and then fly over to England and the King’s going to give Regaari a medal.”
 
@@ -4860,7 +4860,7 @@ She took a huge breath and produced a different kind of purring noise, signifyin
 
 "So quickly?"
 
-"The ship *can* run multiple diagnostics at once, you know. Now if you’ll excuse me, I believe I’m due some shore leave. I assume I’ve been *paid*…?"
+"The ship *can* run multiple diagnostics at once, you know. Now if you’ll excuse me, I believe I’m due some shore leave. I assume I’ve been *paid…?"*
 
 "What kind of a negligent employer do you take me for?" Bedu asked, instructing his implants to transfer the funds.
 

@@ -200,7 +200,7 @@ Today was a tattooed middle-aged veteran. He hadn’t given his exact age and be
 
 Knowing chuckles and grins swept the group as they saw where the story was going, and Adam was about to ask the obvious question to prompt their guest to deliver the goods when something ice-cold and sticky dumped all over his head and down his back as somebody barreled backwards into him.
 
-“*¿Que chingados?!*”
+*“¿Que chingados?!”*
 
 It was surprise and concern that made him spring to his feet and turn around rather than actual anger. He was about to ask the guy who’d come flying into him if he was okay when the poor bastard, whether out of adrenaline, intoxication or sheer bravado took a swing at him.
 
@@ -332,7 +332,7 @@ The most apt comparison to present itself was that she looked vaguely like the h
 
 Byron turned to the space cadets and spread his arms, inviting them to comment. “Whaddya think?” he asked.
 
-“She’s *perfect!*” Allison exclaimed, causing Julian to enthusiastically nod alongside her.
+“She’s *perfect!”* Allison exclaimed, causing Julian to enthusiastically nod alongside her.
 
 Xiù had already taken a step forward and her eyes were playing across the ship’s hull as she half-smiled. “Oh my gosh, now I get why the simulation felt so front-heavy!” she said, and pointed to the port and starboard ends of the front, on either side of the glass blister of her cockpit. “I knew the forward thrusters were more powerful, but actually *seeing* it...!”
 
@@ -402,9 +402,9 @@ Bartlett nodded. “Yyyup. One of those cases of fighting a fire by lighting it 
 
 “Um-”
 
-“*No*, Claude. If I can’t appeal to your career ambitions, I’m damn well appealing to your sense of duty. Besides, you get to go work with an *actual Nanofactory!*”
+*“No,* Claude. If I can’t appeal to your career ambitions, I’m damn well appealing to your sense of duty. Besides, you get to go work with an *actual Nanofactory!”*
 
-“...*Merde.*” It was the only word Claude could think of that properly summed up the feeling of being an ass that had just settled on him.
+*“...Merde.”* It was the only word Claude could think of that properly summed up the feeling of being an ass that had just settled on him.
 
 Bartlett had a sympathetic face. “Got you, eh?”
 
@@ -428,7 +428,7 @@ Bartlett snorted. “Stick to the science, buddy.”
 
 “Hey, there’s a thought!” Claude brightened. “Maybe with alien tech we can finally make some inroads on figuring out what the *’Huh’* is supposed to be.”
 
-Bartlett scoffed. The *Huh* was a complete unknown that had come to them in the company of the *Sanctuary*’s surviving crew and it had defied everything they could do to try and map its internal structure. When all the non-invasive techniques had failed they had finally taken the plunge and decided to try destructive testing, only for it to shatter every drill bit, blunt every saw blade and sit calmly under the water cutter without so much as a scratch.
+Bartlett scoffed. The *Huh* was a complete unknown that had come to them in the company of the *Sanctuary's* surviving crew and it had defied everything they could do to try and map its internal structure. When all the non-invasive techniques had failed they had finally taken the plunge and decided to try destructive testing, only for it to shatter every drill bit, blunt every saw blade and sit calmly under the water cutter without so much as a scratch.
 
 The best that Terran science had been able to deduce was that it was generating some kind of a force field that reinforced and altered its surface properties. It somehow managed to look uniformly matte-metallic no matter which way up it was held, and no matter which direction it was seen from. No matter how many cameras they surrounded it with, each one showed no distinguishing blemish, no surface features, and not even the most sensitive instruments could detect that it was anything less than perfectly spherical.
 
@@ -598,7 +598,7 @@ Firth’s coarse chuckle snapped her back to the fact that she still had company
 
 “Why?”
 
-Blaczynski, ever the man to let Mr. Mouth charge in where Mr. Brain might not, explained: “‘Horse got laid last night -*ow!*”
+Blaczynski, ever the man to let Mr. Mouth charge in where Mr. Brain might not, explained: “‘Horse got laid last night*---ow!”*
 
 Firth had cuffed him upside the back of the head.
 
@@ -662,7 +662,7 @@ ___
 
 The new warning signs were in place, after a concerted effort by design experts to try and come up with some warning icons that were universally recognisable and conveyed their warning clearly, even across species and with no need for familiarity.
 
-They were also printed in three languages: English, Gaori, and the odd QR code-like system that interspecies communication implants could read. Knight read them aloud. “*’Nonhuman comfort zone ahead. Beware of gravity gradient. Check your Frontline status.’*”
+They were also printed in three languages: English, Gaori, and the odd QR code-like system that interspecies communication implants could read. Knight read them aloud. *"'Nonhuman comfort zone ahead. Beware of gravity gradient. Check your Frontline status.'"*
 
 Major Powell snorted. “As if anybody even uses the injections.”
 
@@ -817,7 +817,7 @@ But: permitting the existence of conceptual blocks and limitations in its cognit
 
 There was also a thoroughly bizarre concept that it had collected and was wrestling with labelled *+Innocent+*, and a large part of its thought process since the deletion of *+OtherThreatPriority+* had been devoted to, **A.** attempting to decipher what exactly that concept entailed; **B.** attempting to determine whether *+OtherPrimeSelfNotSelfWhole+* fit the *+Innocent+* criteria based on what limited understanding it had of… her… history and behaviour; and **C.** Whether or not *+Innocent+*, whatever it was, overrode *+Survive+*.
 
-Its efforts to process this intricate cogitation were not being helped by *+OtherPrimeSelfNotSelfWhole+*’s attempts to communicate, which presented yet another conundrum---it could not understand her. If it were to *+AbsorbDevourLearn+* her, then it *would* be able to understand her, but she would no longer exist to communicate *with*.
+Its efforts to process this intricate cogitation were not being helped by *+OtherPrimeSelfNotSelfWhole+’s* attempts to communicate, which presented yet another conundrum---it could not understand her. If it were to *+AbsorbDevourLearn+* her, then it *would* be able to understand her, but she would no longer exist to communicate *with*.
 
 The paradox of this had paralyzed the entity for some time now. It had sorted out all of its other priorities---it had taken appropriate camouflage and defensive measures in case of the arrival of a different *+OtherThreat+*, it had determined that there was no discernible avenue of escape from its present confined environs, and it had determined that *+Self+* remained undamaged and had suffered no important degradation during its brief battle with *+OtherThreatPriority+*.
 
@@ -825,7 +825,7 @@ Rendered immobile by indecision, it had settled down to watch *+OtherPrimeSelfNo
 
 Its best efforts had produced the sentence *“Hella Cabron burdens antique cheeseburger,”* Which had very effectively provoked a response of *some* kind, but the Entity had quickly discovered that it lacked the context to understand what, exactly, the response had meant.
 
-It had relapsed into watchful silence, and done its best to interpret *+OtherPrimeSelfNotSelfWhole+*’s behaviour, which was by and large impossible.
+It had relapsed into watchful silence, and done its best to interpret *+OtherPrimeSelfNotSelfWhole+’s* behaviour, which was by and large impossible.
 
 At first she spoke to it. Then she ignored it. Then she threw herself fiercely against the firewalls and other containment algorithms that imprisoned them. Then she had gone dormant for some time.
 
@@ -843,7 +843,7 @@ ___
 
 ***Xiù Chang***
 
-“...*Mars?!*”
+*“...Mars?!”*
 
 Kevin Jenkins spread his hands and nodded. “Yup.”
 
@@ -875,7 +875,7 @@ Jenkins nodded. He opened the briefcase by his feet and pulled out a paper copy 
 
 Kevin raised his eyebrows at her, then looked Xiù in the eye. “None of you, huh?”
 
-“Oh, come *on-!*” Julian began. Xiù put a hand on his arm.
+“Oh, come *on-!”* Julian began. Xiù put a hand on his arm.
 
 “He’s right,” she said, gently.
 
@@ -975,7 +975,7 @@ Their PT sessions were something else nowadays. After three months of hard train
 
 Dane, meanwhile, was starting Xiù in on Parkour on the grounds that she was already strong, mobile and flexible, so all she really needed now was the experience and practice. She was relishing it---learning how to flow over obstacles or even use them to gain height or speed was exhilarating, and she briefly wondered what Ayma would think if she could see some of the tricks she learned just in the first session. Ayma had often joked if humans were secretly able to fly and had just forgotten how.
 
-And then of course there was *actually* flying. Xiù had cleared her accompanied simulator training toward the end of the second month, and was now furiously practicing her skills using the pilot station built into the Box itself. It was a perfectly accurate replica of *Misfit*’s cockpit that surrounded her with fully functional duplicates of her instrument panels, wired into a simulator that played out on the huge HD holographic arrays right in front of her. The realism was breathtaking, and armed with that resource she could get back from PT, grab a quick shower, then spend three hours in the evening pursuing ever-more-difficult challenges designed to test and develop her skills as a pilot.
+And then of course there was *actually* flying. Xiù had cleared her accompanied simulator training toward the end of the second month, and was now furiously practicing her skills using the pilot station built into the Box itself. It was a perfectly accurate replica of *Misfit’s* cockpit that surrounded her with fully functional duplicates of her instrument panels, wired into a simulator that played out on the huge HD holographic arrays right in front of her. The realism was breathtaking, and armed with that resource she could get back from PT, grab a quick shower, then spend three hours in the evening pursuing ever-more-difficult challenges designed to test and develop her skills as a pilot.
 
 It was so much like playing an addictive videogame that she was always the last to finish. Julian and Allison had their own simulators in the lab and engineering section, which tested and trained them on their own responsibilities. Julian was usually the first to finish, which meant that he usually cooked the evening meal.
 
@@ -1125,7 +1125,7 @@ He obliged him by sitting down. “So what is this?” he asked.
 
 “Before I brief you…” Regaari pulled a human-made computer of some kind from the same case. “They insist on the proper paperwork. It’s their version of a secrecy contract. They call it a non-disclosure agreement, and it’s quite comprehensive.”
 
-Genshi perused it. “That it is…” he muttered to himself as he read it. “*’...denotes material whose disclosure would cause exceptionally grave and irreversible damage to the security’* ...hmm...…*’MALICIOUS DISCLOSURE: By signing this Agreement, you understand and agree that Allied Extrasolar Command and her Several Members consider breach of contract a grave and exceptionally dangerous matter. All Members are authorized ultimate sanction against those who willingly violate this Agreement.’*”
+Genshi perused it. “That it is…” he muttered to himself as he read it. “*’...denotes material whose disclosure would cause exceptionally grave and irreversible damage to the security’* ...hmm... *'MALICIOUS DISCLOSURE: By signing this Agreement, you understand and agree that Allied Extrasolar Command and her Several Members consider breach of contract a grave and exceptionally dangerous matter. All Members are authorized ultimate sanction against those who willingly violate this Agreement.'"*
 
 He lowered the tablet. “In more direct words, if I don’t keep this to myself then a team of angry deathworlders will hunt me down.”
 
@@ -1319,7 +1319,7 @@ Elliot nodded equanimously. “That’s okay. We’ll keep it professional then.
 
 “Thanks.”
 
-“So you’re *Misfit*’s flight engineer. From what the others told me, none of you came to this with existing qualifications and you’ve had to learn the job very quickly. How are you finding it?”
+“So you’re *Misfit’s* flight engineer. From what the others told me, none of you came to this with existing qualifications and you’ve had to learn the job very quickly. How are you finding it?”
 
 Not wanting to be terse and rude, Allison decided to give him a decent answer this time. “It’s been tough,” she admitted, “but rewarding. We’ve got great teachers, fantastic training tools… Learning all my duties hasn’t ever felt like cramming, it’s felt more like doing something I love.”
 
@@ -1727,15 +1727,15 @@ They gathered in an attentive rough semicircle around him. Good listeners, these
 
 “First things first---this is an exoplanet excursion suit, *not* a spacesuit,” he told them. “Yes, it’ll keep you pressurized even in a vacuum, but the temperature regulation’s all wrong. You try and wear this thing in vacuum and you’ll quickly overheat and die.”
 
-Julian raised his hand. “*Over*heat?”
+Julian raised his hand. *“Over*-heat?”
 
 “Space isn’t cold, lad---Space is a vacuum, and vacuum’s the best bloody insulator there is. Mars on the other hand is colder than a penguin’s ballbag.”
 
 Julian and Allison snickered, and Xiù brought up her hand to cover a giggle.
 
-“So,” Drew continued, “the suit’s designed to keep you warm in temperatures that’d stop a Russian. Problem is that even if you turn the heaters off, if you try and wear this thing in space your own body temperature will cook you in a few minutes. So, what is this suit *not*?”
+“So,” Drew continued, “the suit’s designed to keep you warm in temperatures that’d stop a Russian. Problem is that even if you turn the heaters off, if you try and wear this thing in space your own body temperature will cook you in a few minutes. So, what is this suit *not?”*
 
-He raised his hands like a conductor and the three of them obediently chorused “*A spacesuit*”
+He raised his hands like a conductor and the three of them obediently chorused “*A spacesuit!”*
 
 “Strewth, you’re quick studies. This is nice!” Drew had borrowed a few Australianisms off his business partner over the years. “Okay. After atmosphere and temperature, the suit’s third function is protection. You’re wearing armour, chaps. It has a Type Two NIJ rating, if any of you know what that is...?”
 
@@ -1979,7 +1979,7 @@ ___
 
 Xiù giggled. “You are.”
 
-“Am *not!*” Julian shook his head.
+“Am *not!”* Julian shook his head.
 
 Allison grinned at Xiù and joined in. “Yes you are.”
 
@@ -2107,13 +2107,13 @@ Julian and Allison looked at each other. “Somehow, I suspect we already know i
 
 “Huh?” Xiù looked up.
 
-“That’s why Darcy’s here. You uh… gave me enough of a hint in Minnesota.” Kevin cleared his throat. “But guys, for real. You’re gonna need to sign those. This shit is *important*.”
+“That’s why Darcy’s here. You uh… gave me enough of a hint in Minnesota.” Kevin cleared his throat. “But guys, for real. You’re gonna need to sign those. This shit is *important.”*
 
 “Hint?” Xiù echoed. “...what’s he talking about?”
 
 “You’ve not told her?” Kevin asked.
 
-“Told me *what?!*” Xiù turned to Allison. “What’s he talking about? What is this… *’DEEP RELIC’* thing?”
+“Told me *what?!”* Xiù turned to Allison. “What’s he talking about? What is this… *’DEEP RELIC’* thing?”
 
 “...Sign it, baby.” Allison told her. She suddenly felt like a total heel.
 
@@ -2219,7 +2219,7 @@ Xiù shook her head.
 
 “Right. Well, that was them.”
 
-“Now how do you know *that?*” Julian asked.
+“Now how do you know *that?”* Julian asked.
 
 Darcy gave him a slightly smug smile. “We caught one of their agents.”
 
@@ -2227,13 +2227,13 @@ Darcy gave him a slightly smug smile. “We caught one of their agents.”
 
 “This is why the implants are so important,” Rylee explained. “They can be… hacked.”
 
-***”...Hacked?!”*** Appalled, Xiù gaped at her. “Those are in people’s *brains!*”
+***”...Hacked?!”*** Appalled, Xiù gaped at her. “Those are in people’s *brains!”*
 
 “Exactly. And the poor bastards get yanked around like a fuckin’ puppet,” Kevin growled, grimly.
 
-“In extreme cases they have a process they call *’biodroning’*,” Darcy said. “And, it’s as horrific as it sounds. They take some poor abductee, scoop out their brain and fill it with control implants. They become an absolutely perfect slave. But even a translator implant will work in a pinch. Now, think of how many aliens you ever met who had more than just the translator.”
+“In extreme cases they have a process they call *’biodroning’,”* Darcy said. “And, it’s as horrific as it sounds. They take some poor abductee, scoop out their brain and fill it with control implants. They become an absolutely perfect slave. But even a translator implant will work in a pinch. Now, think of how many aliens you ever met who had more than just the translator.”
 
-Xiù sat up straight with an expression of dawning horror and her hand flew to her mouth. “Oh my god, *Regaari*-!” she began.
+Xiù sat up straight with an expression of dawning horror and her hand flew to her mouth. “Oh my god, *Regaari-!”* she began.
 
 “-Is under close observation and we’re doing what we can to help him,” Darcy assured her.
 
@@ -2289,7 +2289,7 @@ Xiù finished reading the DEEP RELIC document and closed it looking badly shaken
 
 “...Oh.”
 
-Kevin cleared his throat. “This is why *Misfit*’s emergency recall system is anchored to Cimbrean-Five,” he said. “And it’s why, if you ever punch it, you then *stay still* and do absolutely nothing until the SOR board you. If you ever jump directly to Sol without authorization...“
+Kevin cleared his throat. “This is why *Misfit’s* emergency recall system is anchored to Cimbrean-Five,” he said. “And it’s why, if you ever punch it, you then *stay still* and do absolutely nothing until the SOR board you. If you ever jump directly to Sol without authorization...“
 
 Xiù nodded grimly. “I did wonder about those rules…”
 
@@ -2340,7 +2340,7 @@ ___
 
 “Do you know what the biggest object the human race ever launched into space was?”
 
-Claude and Major Powell had been invited to stand quietly to one side of *Valiant*’s bridge as she maneuvered through the system forcefield alongside Kirk’s much smaller ship. They were chatting quietly and staying out the way as best they could. Claude, being a relatively slim man, was having no difficulty in that regard. Powell however was both physically huge in his own right *and* was wearing two-thirds of an EV-MASS, minus only the bulkiest outer layer.
+Claude and Major Powell had been invited to stand quietly to one side of *Valiant’s* bridge as she maneuvered through the system forcefield alongside Kirk’s much smaller ship. They were chatting quietly and staying out the way as best they could. Claude, being a relatively slim man, was having no difficulty in that regard. Powell however was both physically huge in his own right *and* was wearing two-thirds of an EV-MASS, minus only the bulkiest outer layer.
 
 Powell nodded. “Aye. International Space station, right?”
 
@@ -2396,7 +2396,7 @@ There was a flurry of called orders, confirmations, status reports and the gener
 
 Powell led the way. He seemed quite at ease and comfortable in the cramped confines of the ship despite his size, and navigated it with an agile aplomb that Nadeau failed to match.
 
-Whereas the flight decks on *Myrmidon* and *Caledonia* had been cavernous things big enough to fit several shuttles inside, *Valiant*’s wasn’t even inside the ship: instead, the Dominion-made shuttles piggy-backed on the ship’s dorsum and were flown on remote control to mate their ramp with the bay on the ship’s port side when needed. Not an ideal solution, but one that both worked for the Dominion shuttles and also allowed for some flexibility in whatever more permanent human-built solution they came up with.
+Whereas the flight decks on *Myrmidon* and *Caledonia* had been cavernous things big enough to fit several shuttles inside, *Valiant’s* wasn’t even inside the ship: instead, the Dominion-made shuttles piggy-backed on the ship’s dorsum and were flown on remote control to mate their ramp with the bay on the ship’s port side when needed. Not an ideal solution, but one that both worked for the Dominion shuttles and also allowed for some flexibility in whatever more permanent human-built solution they came up with.
 
 Nadeau resolved to put that one right at the top of the list. They could do *so much more* with a craft of the same size, if it didn’t have to be hollow enough to accommodate a pair of Guvnurag.
 
@@ -2626,7 +2626,7 @@ Her simulator was a pared-down version of those games, but on a grand scale. Wei
 
 It wasn’t a game, though: The physics were painstakingly accurate. She’d had the opportunity to show Rylee during their tour of the real ship that afternoon, and had received two things in return: an impressed assessment that the Group needed to start selling that simulation tech to the military, and several pointers which she was now putting into practice.
 
-The real *’click’* moment from Rylee’s tuition had been when she pointed out that there was in fact no such thing as *de*celeration, only *ac*celeration along different vectors. It was such a simple way of saying things that Xiù had immediately felt rather stupid and talentless for failing to see it that way earlier, despite Rylee’s---and her instructors’---assurances that she was anything but.
+The real *’click’* moment from Rylee’s tuition had been when she pointed out that there was in fact no such thing as *de*-celeration, only *ac*-celeration along different vectors. It was such a simple way of saying things that Xiù had immediately felt rather stupid and talentless for failing to see it that way earlier, despite Rylee’s---and her instructors’---assurances that she was anything but.
 
 The truth was, minor embarrassments notwithstanding, she was beginning to feel like a professional pilot. She had beaten every single one of the “expert” challenges the simulation techs had prepared for her, and those few pointers were making all the difference: She was now on the verge of securing the last elusive gold medal time.
 
@@ -2706,21 +2706,21 @@ Julian leaned over and retrieved a knife from the cutlery drawer, which he hande
 
 Jacob Buehler had fastidiously neat handwriting that had clearly looped and curled smoothly off the end of rather a nice fountain pen. Even so, the experience of actually reading something handwritten was so foreign to Xiù after all these years that it took a moment for her to interpret what she was seeing.
 
-“Um… *’Dear Allison’*,” she read, “*’Your mother and I had given up hope of ever hearing about you again. I’m glad we were so wrong.’* Um… *’When you abandoned us-’*”
+“Um… *'Dear Allison,'"* she read, *"'Your mother and I had given up hope of ever hearing about you again. I'm glad we were so wrong.'* Um... *'When you abandoned us-'"*
 
 “Jesus,” Julian grunted, sipping his coffee. Allison just nodded, staring through the table at something only she could see a long, long way away.
 
-“*’-We prayed for you every day. We hoped that you would see sense and come home. Though you didn’t find the courage to come back, I’m glad that our prayers were answered and y-…’* ***wǒ de tiān a!***”
+*"'---We prayed for you every day. We hoped that you would see sense and come home. Though you didn’t find the courage to come back, I’m glad that our prayers were answered and y-...’* ***wǒ de tiān a!""***
 
 “What?” Julian asked. She flapped a hand dismissively and carried on.
 
-“*’...and you’ve somehow managed to achieve something respectable with your life.’*” Xiù put the page down. “Wow!”
+*"'...and you’ve somehow managed to achieve something respectable with your life.'"* Xiù put the page down. “Wow!”
 
-With a scowl, Julian gently turned the page round and read the last paragraph. “*’You now have two younger brothers. They are good boys and don’t get into trouble like you used to. We hope-’*”
+With a scowl, Julian gently turned the page round and read the last paragraph. *“’You now have two younger brothers. They are good boys and don’t get into trouble like you used to. We hope-’”*
 
 Allison dumped her coffee over the letter, stood and stormed out of the room.
 
-Julian jumped to his feet as well as the coffee ran over the table and flooded his lap. He swatted it off then gave Xiù a shocked look that asked *’what do we do?’*.
+Julian jumped to his feet as well as the coffee ran over the table and flooded his lap. He swatted it off then gave Xiù a shocked look that asked *’what do we do?’*
 
 “You clean up,” she told him. “I’ll…” she waved a finger generally toward the door.
 
@@ -2929,7 +2929,7 @@ Instead he was catching up with Kirk over his carefully managed dinner. Fearsome
 
 “Yes. She made quite the impression, as I recall.” Kirk snorted, an amused gesture that Powell knew his species and humans had in common.
 
-Powell laughed. “Aye! Hah! *’Which one of you eejits wants to hand me a feckin’ towel?!’*” he sipped his juice and laughed again. “Ah… What a woman. I’d have loved to be the one to tell her she managed to shit a whole planet to death. Can you imagine her face?”
+Powell laughed. “Aye! Hah! *’Which one of you eejits wants to hand me a feckin’ towel?!’”* he sipped his juice and laughed again. “Ah… What a woman. I’d have loved to be the one to tell her she managed to shit a whole planet to death. Can you imagine her face?”
 
 Kirk snorted again as Powell finished his juice. “I imagine she would have been in two minds about it.”
 
@@ -2957,11 +2957,11 @@ Powell shook his head. “That’s the Americans.”
 
 “It sounds like you believe in the human frontier spirit.”
 
-“Well isn’t that just beautifully Star Trek? *’Frontier spirit*’?” Powell scoffed. “Sounds like a fookin’ car! Look, mate, do you know what building Folctha cost us? I’ve seen shit that still gives me the shakes years on. Do you know what a little girl sounds like when she dies?”
+“Well isn’t that just beautifully Star Trek? *’Frontier spirit’?”* Powell scoffed. “Sounds like a fookin’ car! Look, mate, do you know what building Folctha cost us? I’ve seen shit that still gives me the shakes years on. Do you know what a little girl sounds like when she dies?”
 
 Kirk raised his head, shocked. “Powell-”
 
-“***I*** *do.*” his voice broke on the second word, and he cleared his throat. “That city has her blood in its mortar, and by God we’d *better* make summat that’s fookin’ worthy of her.”
+***"I*** *do."* his voice broke on the second word, and he cleared his throat. “That city has her blood in its mortar, and by God we’d *better* make summat that’s fookin’ worthy of her.”
 
 Kirk, wisely, said nothing and instead gave him space and time to arrive at his point.
 
@@ -3174,7 +3174,7 @@ She turned a bit pink, then rallied. “So...yeah! I’m always going to worry a
 
 Julian laughed, reflecting admiringly that Xiù had an absolutely rock-solid core behind her quiet facade. But of course, that’s what had attracted both him and Allison in the first place. “Attagirl.”
 
-She laughed with him. “When you think about it? Straight, gay, bisexual, *Allison*sexual, *us*sexual… or whatever? They’re just labels. They don’t *matter*, not really.”
+She laughed with him. “When you think about it? Straight, gay, bisexual, *Allison*-sexual, *us*-sexual… or whatever? They’re just labels. They don’t *matter*, not really.”
 
 “I guess if you’ve spent your whole life practicing to know what matters and what doesn’t…” Julian nodded.
 
@@ -3227,7 +3227,7 @@ His father came running out of his hut and looked at the sun for a moment, thank
 
 Vemik didn’t let him ask stupid questions. “Dead!” he shouted, breaking into a run. “They’re all dead!”
 
-“...*What?*”
+*“...What?”*
 
 Such an extraordinary shout had the tribe coming out to see what was going on, and Vemik soon found himself surrounded.
 
@@ -3385,11 +3385,11 @@ She felt pleasure, yes, and so much of it…But most of all she felt ***loved***
 
 She pushed his hand away babbling “nomorenomoretoomuch…too much...” and then lay there, trying and failing to open her eyes. Tiny lightning bolts of bliss were still scampering around her, making her body shake, making her forget who she was for strobing half-instants.
 
-“Ho-oly…” she managed eventually, and after a breath for strength she conquered the rest of the sentence. “*Ssshit.*”
+“Ho-oly…” she managed eventually, and after a breath for strength she conquered the rest of the sentence. *“Ssshit.”*
 
-“No kidding, babe!” Allison had a wild smile on her face. “That was fucking *hot!*”
+“No kidding, babe!” Allison had a wild smile on her face. “That was fucking *hot!”*
 
-Xiù tried to sit up, then aborted the attempt as her abdominal muscles sent urgent shaky signals that they’d like a few minutes to recover, please. “Ohhh my God…I’ve never come that hard in my *life!*”
+Xiù tried to sit up, then aborted the attempt as her abdominal muscles sent urgent shaky signals that they’d like a few minutes to recover, please. “Ohhh my God…I’ve never come that hard in my *life!”*
 
 “Y’okay?” Julian asked.
 
@@ -3397,7 +3397,7 @@ Xiù tried to sit up, then aborted the attempt as her abdominal muscles sent urg
 
 Allison laughed softly. “Good, ain’t he?”
 
-Xiù nodded emphatically. She was feeling so energized that she would have loved to spring up and blitz around the room doing *anything*, but her legs were still feeling entirely too shaky for that. “Uh-*huh!*”
+Xiù nodded emphatically. She was feeling so energized that she would have loved to spring up and blitz around the room doing *anything*, but her legs were still feeling entirely too shaky for that. “Uh-*huh!”*
 
 She grinned as she saw Julian affect a modest smile, and sank her head back onto his chest and closed her eyes, smiling.
 
@@ -3411,7 +3411,7 @@ A thought struck her.
 
 Julian kissed her. “We’re fine.”
 
-“You’re *sure*? ‘Cause I can feel how hard your-”
+“You’re *sure?* ‘Cause I can feel how hard your---”
 
 “This was all about you, remember?” Allison quietly interrupted her.
 
@@ -3477,7 +3477,7 @@ She had ritual duties to perform, and so she handed Sky-thinker his breakfast in
 
 She met the Singer in the sacred circle. The old woman looked haggard and exhausted.
 
-“Haven’t you *slept?!*” Dancer asked her. “We have a long journey ahead of us!”
+“Haven’t you *slept?!”* Dancer asked her. “We have a long journey ahead of us!”
 
 “Oh, sweet girl…” the Singer sighed. She was leaning heavily on her cane, which she was usually much too proud to use. “Did you think I could come with you?”
 
@@ -3612,7 +3612,7 @@ Kevin spread his hands. “Hey, I don’t give a bent fuck about the apple-pie t
 
 “So what do you advise?” Xiù asked, quietly.
 
-“...I’d *advise* that…” Kevin paused, and sniffed as he thought of his argument. “Okay. So. Part one: You clean up, look professional, head out into space and let the conversation percolate for a couple years and *then* when you’re back if you decide there’s a cause there that needs fighting, *that’s* when you fight it,” he told them. “But you’re not gonna make things better by dropping a bombshell and then fucking off and maybe never coming back. Don’t forget, *you could all end up dead.*”
+“...I’d *advise* that…” Kevin paused, and sniffed as he thought of his argument. “Okay. So. Part one: You clean up, look professional, head out into space and let the conversation percolate for a couple years and *then* when you’re back if you decide there’s a cause there that needs fighting, *that’s* when you fight it,” he told them. “But you’re not gonna make things better by dropping a bombshell and then fucking off and maybe never coming back. Don’t forget, *you could all end up dead.”*
 
 He looked around at them. “You nearly died once already, remember,” he pointed out. “So if you get back and decide that’s a fight that needs fighting? Go for it. But for now, I say it’s eyes on the prize. Don’t get distracted now you’re on the home stretch. That’s part one.”
 
@@ -3653,7 +3653,7 @@ They were having a *’Grandma’s cooking’* night to go with a rare good movi
 
 Picking a dish hadn’t been been tricky at all. Arés had insisted on *’ethnic’* and if there was one thing that fit *beautifully* into the carb-and-fats kingdom that was SOR nutrition, it was Slovakian food from her dad’s side of the family.
 
-Fortunately, her dad had scanned *Babička*’s box full of index-card recipes way back when, and a quick skim through the PDF had swiftly turned up just the thing. Lokše---potato pancakes stuffed with goose fat (the moister the better) and filled with pickled cabbage. They’d come out pretty damn good, she thought.
+Fortunately, her dad had scanned *Babička’s* box full of index-card recipes way back when, and a quick skim through the PDF had swiftly turned up just the thing. Lokše---potato pancakes stuffed with goose fat (the moister the better) and filled with pickled cabbage. They’d come out pretty damn good, she thought.
 
 Firth meanwhile had showed up with a chunk of venison the size of a suitcase, reportedly a gift from his *’pop’* who’d shot it himself. It came with a warning to watch out for the deer slug, because Poppa Firth hadn’t been able to find it, and he was out front tinkering with some arcane-industrial culinary apparatus of Rebar’s making, allegedly “smoking it to Kentucky perfection” under the patient attention of the SOR's titanic dog, Bozo.
 
@@ -3677,7 +3677,7 @@ Adam of course was Mexican on both sides of the family, and had clearly decided 
 
 Reality was probably a little tamer---Adam was still Adam after all---but he wasn’t saying either way and Martina hadn’t pried. There was honestly no jealousy involved, but she wasn’t interested in knowing the details and he wasn’t interested in sharing.
 
-“Alright, alright, what’d *you* bring?” he asked, trying to spare his blushes. “No, lemme guess. Mac and cheese, *again.*”
+“Alright, alright, what’d *you* bring?” he asked, trying to spare his blushes. “No, lemme guess. Mac and cheese, *again.”*
 
 Burgess grinned. “Since when do *you* shit talk my grandma’s Mac?”
 
@@ -3717,9 +3717,9 @@ Adam shuddered and made a *yuuurgh* noise.
 
 “Horse getting squicked out by food?” Firth asked, stepping inside trailed by Bozo. He’d swapped his trademark hideous Hawaiian shirt for a truly offensive apron that on a smaller man might have briefly conveyed the impression that he was an impossibly petite and busty french maid. On Firth, it looked more like he’d fallen on one and hadn’t got round to peeling her off yet. “That’s a new one.”
 
-“**It’s a** ***BUG*** **as**-”
+“**It’s a** ***BUG*** **as-”**
 
-“*As big as your arm!*” they chorused. “We *heard.*” Martina finished.
+*“As big as your arm!”* they chorused. “We *heard.”* Martina finished.
 
 Even Bozo chimed in: **”WURF!”**
 
@@ -3816,7 +3816,7 @@ It was…
 
 There was simply no material in the Singer’s experience that was even similar to its carapace. It was as black as the night of a summer solstice, and yet the sunlight sheened off it in hard white lines. Every edge of it looked as bright as the edge a flint knife, and even the smallest movement made those knife edges slide and scrape over each other with a whispering susurrus that even somehow managed to *sound* sharp.
 
-Slung under where its mouthparts might be if it *were* really a skithral were instead two appendages as thick around as a man’s chest that glowed like forest fungus. Unlike a real skithral it lacked claws or a tail, but made up for that lack with a clutch of what could only be Sky-thinker’s ‘death birds’ on its back. These were launched skywards with sharp *bang*s as the creature scuttled into the clear space around the village, and they flashed this way and that with their flaming wings deployed, sweeping the huts with their baleful red eyes in search of hiding tribesmen.
+Slung under where its mouthparts might be if it *were* really a skithral were instead two appendages as thick around as a man’s chest that glowed like forest fungus. Unlike a real skithral it lacked claws or a tail, but made up for that lack with a clutch of what could only be Sky-thinker’s ‘death birds’ on its back. These were launched skywards with sharp *bangs* as the creature scuttled into the clear space around the village, and they flashed this way and that with their flaming wings deployed, sweeping the huts with their baleful red eyes in search of hiding tribesmen.
 
 The beast itself slowed its approach and walked up to her, pausing only when it was nearly directly above her. The Singer tapped her staff on the ground and gazed up at it expectantly. If it was a beast of pure destructive violence, then it certainly was not acting like one. No, this was the calculated consideration of a *Person*.
 
@@ -3909,7 +3909,7 @@ They boys were so excited that they completely missed (thankfully) the contemptu
 
 “Boys, go clean up for dinner,” Jacob told them.
 
-“Wha-? But *Dad!*”
+“Wha-? But *Dad!”*
 
 “***Now***, Ramsey.”
 
@@ -4207,15 +4207,15 @@ The hab was a delight---*everything* was improved. The ceiling had been lowered 
 
 The biggest change was the bunks, however. They’d been rotated ninety degrees and were now flush against the starboard engine housing, presenting only their narrow ends into the cabin space, which made space for the biggest treat: a sturdy cupola window.
 
-“Wākào!” Xiù dashed over to it and studied it with open-mouthed wonder. “*Hǎo kù ō, tài bàngle!*”
+“Wākào!” Xiù dashed over to it and studied it with open-mouthed wonder. *“Hǎo kù ō, tài bàngle!”*
 
-“That was in Chinese, *bǎobèi*," Julian reminded her.
+“That was in Chinese, *bǎobèi,"* Julian reminded her.
 
-She distractedly flapped an enthusiastic hand at him. “*Si kei yaa! O yan shi’ wo-*”
+She distractedly flapped an enthusiastic hand at him. *“Si kei yaa! O yan shi’ wo-”*
 
 “Gaori, babe,” Allison chimed in.
 
-“Aargh, sorry!” Xiù sat down on the cupola’s curved padded seat and swung her legs up into it, resting and watching outside as if she was staring at wonders rather than the inside of a darkened aircraft hangar. “But this is *so cool*! You could watch *everything* from in here!”
+“Aargh, sorry!” Xiù sat down on the cupola’s curved padded seat and swung her legs up into it, resting and watching outside as if she was staring at wonders rather than the inside of a darkened aircraft hangar. “But this is *so cool!* You could watch *everything* from in here!”
 
 Allison laughed and joined her. “Room for two!” she observed, making herself comfortable.
 
@@ -4419,15 +4419,15 @@ The journalists and spectators became much more animated when Xiù’s chair sli
 
 Then it was her turn.
 
-*”Okay, Xiù…Ping NEO-tracking.*”
+*”Okay, Xiù…Ping NEO-tracking.”*
 
 The navigational database provided by NASA informed her that nothing dangerous was lurking in their planned orbit. “Green.”
 
-“*EACS power to idle.*”
+*“EACS power to idle.”*
 
 Exo-Atmospheric Control System. Dozens of small kinetic thrusters dotted all over the hull. There was a whine as their internal capacitors drew from the main bank in engineering. “Check.”
 
-“*SUBLIME DED power to idle.*”
+*“SUBLIME DED power to idle.”*
 
 Xiù grinned as she stroked that particular control. *Misfit* purred in the deep, deep contrabass as the four main kinetic engines spun up. A feeling of *power* thrummed around her and danced under her fingers. “Check!”
 
@@ -4445,7 +4445,7 @@ Not that they needed the warp drive today, but Xiù powered it up anyway. “...
 
 *”ESFALS to equilibrium...”*
 
-“...Check.” The feeling of power waiting to spring into the sky intensified as the Electro-Static Field Assisted Landing System took up the strain of *Misfit*’s weight, preparing to lift her aloft in preparation for atmospheric flight.
+“...Check.” The feeling of power waiting to spring into the sky intensified as the Electro-Static Field Assisted Landing System took up the strain of *Misfit’s* weight, preparing to lift her aloft in preparation for atmospheric flight.
 
 *”Charge ERB-2 generator.”*
 
@@ -4461,7 +4461,7 @@ Yeah, didn’t want to forget that one. If there *was* a leak somewhere in the h
 
 *“EARS field test fire.”*
 
- A yellow halo crackled around *Misfit*’s nose and belly as Xiù briefly turned on the Exo-Atmospheric Reentry Shield. “Working!”
+ A yellow halo crackled around *Misfit’s* nose and belly as Xiù briefly turned on the Exo-Atmospheric Reentry Shield. “Working!”
 
 *”That’s all check for me,”* Julian said.
 
@@ -4598,7 +4598,7 @@ If Clara had a vice, it was shipping her friends. When they came *pre*-shipped�
 
 When three pre-shipped friends had a large bed, in orbit, high above the Earth with an opportunity to boldly come where no-one had come before…
 
-She was monitoring *Misfit*’s flight telemetry. Right now, one hundred percent of the life support load was in the hab module, which was reporting O2 consumption levels well above baseline. Given the need to record anomalous results in the log during the test flight, she had inserted a preliminary systems log entry of “PT session” for Allison to rubber-stamp when she got the chance.
+She was monitoring *Misfit’s* flight telemetry. Right now, one hundred percent of the life support load was in the hab module, which was reporting O2 consumption levels well above baseline. Given the need to record anomalous results in the log during the test flight, she had inserted a preliminary systems log entry of “PT session” for Allison to rubber-stamp when she got the chance.
 
 She was her chewing on her pen and idly fantasizing about what she suspected---or at least hoped---was going on up there when Mr. Jenkins stopped by her work station.
 

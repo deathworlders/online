@@ -729,7 +729,7 @@ Adam's brow creased as he really started to feel his muscles working. The weight
 
 "You think you can work that hard?"
 
-"I *know*—" the exertion finally started to choke off Adam's words. "—Yeah. I can." he finished, between pulls.
+"I *know—"* the exertion finally started to choke off Adam's words. "—Yeah. I can." he finished, between pulls.
 
 Foster nodded again and watched him for a few more before finally raising a hand. "Alright. Rest up."
 
@@ -1413,7 +1413,7 @@ The Corti ambassador raised a hand. "Not...quite." he revealed. "The Directorate
 
 "What pitfalls?"
 
-Medrà inclined his head in a strange way, as if reading something only he could see. "Used correctly—as a topical or therapeutic target injection, rather than permanently marinating the patient's system in it—Cruezzir has no side effects whatsoever. *Non*e." he revealed. "It is, I dare say, a masterpiece creation of the Directorate's biolabs. That factor alone was sufficient for our anthropological researchers to take exception to giving you access to it."
+Medrà inclined his head in a strange way, as if reading something only he could see. "Used correctly—as a topical or therapeutic target injection, rather than permanently marinating the patient's system in it—Cruezzir has no side effects whatsoever. *None."* he revealed. "It is, I dare say, a masterpiece creation of the Directorate's biolabs. That factor alone was sufficient for our anthropological researchers to take exception to giving you access to it."
 
 Hussein frowned. "I don't follow you." he said. "Where is the problem with a medicine that has no side-effects?"
 
@@ -1711,7 +1711,7 @@ Jess just held her until finally Ava managed to pull herself together and straig
 
 "I was *fine* with him doing two years of pararescue training and some deployments, and...I don't know! All that, we'd got it sorted out and I was fine with it! But now he's talking about *four* years of training and maybe not being able to see each other *at all* in those extra couple of years! And who *knows* how long after that!" Ava threw her hands up and engaged anger circuits that Jess had never seen in her before.
 
-"*Que se supone que haga? Él no me preguntó, él no me habla de ello ...el hijo de puta me acaba de enviar una CARTA DE MIERDA y espera que yo sea bien! Eso **pendejo** desconsiderado!* Eh?"
+*"Que se supone que haga? Él no me preguntó, él no me habla de ello ...el hijo de puta me acaba de enviar una CARTA DE MIERDA y espera que yo sea bien! Eso* **pendejo** *desconsiderado!* Eh?"
 
 Jess sat on a desk. "I don't speak Spanish, Ava." she pointed out, gently. "But watch your language, the kids'll be here soon."
 
@@ -2249,7 +2249,7 @@ After that, while they made plenty of other noises, the only talking they did wa
 
 When he woke in the morning, she was still there. It hadn't been a dream.
 
-* * *
+---
 
 Most of the morning was spent fielding birthday well-wishes for Ava. Her presents were both more numerous and more impressive than Adam's, but he didn't mind—she could take them with her, after all.
 
@@ -2271,6 +2271,8 @@ Her shirt flew out of the door. "So let's practice!" she called.
 
 "Oh! Right!" He tripped over his own socks in his rush to pull them off and join her.
 
-They practiced. ___
+They practiced.
 
-((Don't move on to chapter 23 yet! This has been just the first part of Chapter 22: you can find the link to the rest of this chapter below)) ___ 
+---
+
+((Don't move on to chapter 23 yet! This has been just the first part of Chapter 22: you can find the link to the rest of this chapter below))

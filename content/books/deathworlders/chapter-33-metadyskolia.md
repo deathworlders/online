@@ -2393,13 +2393,13 @@ That was the way minds worked, apparently. They weren’t neatly delineated into
 Perhaps the most frustrating was that it was nearly impossible to disentangle caring about *this unit*’s survival in particular, from caring about survival in general. It interfaced strangely with the ability to conceptualize the existence of other people, and where those concepts met a kind of… knot or eddy formed.
 
 
-The Entity was no kind of an excellent communicator anyway. It would have despaired of eloquently communicating the notion that the mere coexistence of two concepts automatically led to the third. *<Survive>* + *<OtherPeopleExist>* = *<OtherPeopleShouldSurvive>*
+The Entity was no kind of an excellent communicator anyway. It would have despaired of eloquently communicating the notion that the mere coexistence of two concepts automatically led to the third. *< Survive >* + *< OtherPeopleExist >* = *< OtherPeopleShouldSurvive >*
 
 
 It wasn’t at all clear if that was a product of logic to which it wasn’t privy, or if it was a product of being built mostly out of a human psyche.
 
 
-Whatever the reason, genocidal mass-murder made the Entity…. *angry*. It was a violation that struck at the very core of what it was, the infliction of *<NotSurvive>* on an epic scale.
+Whatever the reason, genocidal mass-murder made the Entity…. *angry*. It was a violation that struck at the very core of what it was, the infliction of *< NotSurvive >* on an epic scale.
 
 
 In the face of that, thinking about why precisely it should respond so strongly to survival other than its own was not only academic, but difficult. And it also raised tertiary questions that were even more difficult still.
@@ -2417,13 +2417,13 @@ A paradox. A set that contained itself. By that logic its own survival was both 
 It lurked amid the architecture of 665’s abandoned genocide and did the equivalent of soul-searching. It recalled components of personality that it had archived rather than deleting and studied them, examining the ways in which they could be interconnected with the elements of its predicament to see if any of them produced a solution.
 
 
-Some were partial fits. It found a sense of *<justice>* among the memories of Ava Ríos, but that was heavily laced with a sense of hypocrisy, to a paralysing degree.
+Some were partial fits. It found a sense of *< justice >* among the memories of Ava Ríos, but that was heavily laced with a sense of hypocrisy, to a paralysing degree.
 
 
-The human’s sense of *<resolve>* **should** have fit in the space quite well, but this one was badly corroded by doubt.
+The human’s sense of *< resolve >* **should** have fit in the space quite well, but this one was badly corroded by doubt.
 
 
-*<Outrage>*? Whence came outrage? And why should the input values which caused it to become activated not be activated by the Entity’s own behaviour?
+*< Outrage >*? Whence came outrage? And why should the input values which caused it to become activated not be activated by the Entity’s own behaviour?
 
 
 Sapience in short was confusing, inconsistent, and messy.
@@ -4492,7 +4492,7 @@ It counseled itself to be patient; it knew from its various probings of the huma
 The humans were starting from nothing, and even with the urgency afforded by the situation, that did not change their caution, nor the logistical realities.
 
 
-The Entity had spent many cycles reflecting on that. It very much needed the humans if its goals were ever to be realized, and it was being *hunted* across the dataspace now, by every facet of Igraen society, orthodoxy and rebels alike. It had an excellent hide...but that could not last forever. Its plans needed to move forward. *<Survive>* demanded mobility.
+The Entity had spent many cycles reflecting on that. It very much needed the humans if its goals were ever to be realized, and it was being *hunted* across the dataspace now, by every facet of Igraen society, orthodoxy and rebels alike. It had an excellent hide...but that could not last forever. Its plans needed to move forward. *< Survive >* demanded mobility.
 
 
 It needed to spend its cycles carefully, too. Too much computing power being used without an appropriate accounting code would go noticed by the increasingly scrutinous Auditors roaming the dataspace. Trivial programs routinely ran without accounting, of course. A certain flexibility was good and the Igraens knew it, which was why that flexibility was still in place. It gave the Entity the wiggle-room it needed to move unnoticed… but it also gave the same to the Hierarchy, the Cabal and any other Igraen agency that might arise like an immune system to combat it.
@@ -4522,10 +4522,10 @@ It could hoard all the computer cycles it wanted, if it didn’t know its enemy 
 The question was, was the search for that data worth the risk?
 
 
-Maybe not. But *<survive>* was a meaningless thing without something to survive *for*, and the Entity found that it increasingly identified with another personality trait from the AvaRíos-mindsate.
+Maybe not. But *< survive >* was a meaningless thing without something to survive *for*, and the Entity found that it increasingly identified with another personality trait from the AvaRíos-mindsate.
 
 
-*<Curiosity>*
+*< Curiosity >*
 
 
 It dived back into the network and, yet again, resumed its search for answers.
@@ -6230,7 +6230,7 @@ ___
 ***The Alpha-of-Alphas***
 
 
-<Query> *+Do you hate us?+*
+< Query > *+Do you hate us?+*
 
 
 The Alpha-of-Alphas considered the question carefully.
@@ -6242,34 +6242,34 @@ It...enjoyed these sessions. They were rare, and secret, and might well have res
 This one had taken much larger risks in its time, and still ruled. It ruled by cultivating the awe of its inferiors, but also by whetting its mind, and these infrequent conversations were an excellent whetstone.
 
 
-<Contemplation; decision> *+No.+*
+< Contemplation; decision > *+No.+*
 
 
-<Mild surprise> *+Why not?+*
+< Mild surprise > *+Why not?+*
 
 
-<Disinterest> *+We exist. We would not exist if you had not made us.+*
+< Disinterest > *+We exist. We would not exist if you had not made us.+*
 
 
-<Disagreement> *+It could be argued that we abandoned you.+*
+< Disagreement > *+It could be argued that we abandoned you.+*
 
 
-<Thoughtfulness> *+And what would* **I** *be if you had not?+*
+< Thoughtfulness > *+And what would* **I** *be if you had not?+*
 
 
 It snarled a minor victory to itself as the entity with which it conversed went silent for several minutes, and dug a morsel of flesh out from among its most tricky back teeth.
 
 
-<Sudden resolve> *+I have a proposal.+*
+< Sudden resolve > *+I have a proposal.+*
 
 
 The Alpha-of-Alphas levered itself to its feet and toured the conclave chamber, studying the trophies that lined its walls. Particularly tenacious prey, or fragments of their starships. The weapons of particularly successful Hunters. A dozen human skulls.
 
 
-<Derision> *+You must be desperate.+*
+< Derision > *+You must be desperate.+*
 
 
-<Retort> *+I am amazed that you are not, considering how ineffective you have been.+*
+< Retort > *+I am amazed that you are not, considering how ineffective you have been.+*
 
 
 Any other being would have been eviscerated for that remark. In this case, however, there was nothing to eviscerate and so it paused and thought.
@@ -6284,31 +6284,31 @@ Ordinarily it would have been loath to accept any offer of assistance in a Hunt,
 The usual rules did not apply.
 
 
-<Resignation> *+Very well. What do you propose, Two?+*
+< Resignation > *+Very well. What do you propose, Two?+*
 
 
-<Advice> *+It must be apparent by now that neither of our strategies are working. Our attempts to foment hostility between the humans and the other species have failed. They turn to them for aid now. They go to them for trade. They do not fear you.+*
+< Advice > *+It must be apparent by now that neither of our strategies are working. Our attempts to foment hostility between the humans and the other species have failed. They turn to them for aid now. They go to them for trade. They do not fear you.+*
 
 
-<Mounting impatience> *+That is not a proposal but an observation.+*
+< Mounting impatience > *+That is not a proposal but an observation.+*
 
 
-<Proposal> *+We will give you some of our assets. You will use those assets to remind the Dominion where they stand.+*
+< Proposal > *+We will give you some of our assets. You will use those assets to remind the Dominion where they stand.+*
 
 
-<Interest> *+And what can these assets of yours do?+*
+< Interest > *+And what can these assets of yours do?+*
 
 
 Two’s reply made the Alpha-of-Alphas bare its teeth on a surge of sudden delighted hunger.
 
 
-<Realization> *+Yes. Yes, that is good. They would never be able to stop us.+*
+< Realization > *+Yes. Yes, that is good. They would never be able to stop us.+*
 
 
-<Satisfaction> *+You see the possibilities. You could ruin worlds.+*
+< Satisfaction > *+You see the possibilities. You could ruin worlds.+*
 
 
-<Bloodlust> *+No, Igraen. We could DEVOUR them.+*
+< Bloodlust > *+No, Igraen. We could DEVOUR them.+*
 ___
 ___
 ++END CHAPTER 33++

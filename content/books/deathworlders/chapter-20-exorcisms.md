@@ -51,7 +51,7 @@ aliases:
 
 **++0007++:** Precisely.
 
-**++System Notif>cat?on: User ???? h■s j!!ined the <error: undefined exception>++**
+**++System Notif\>cat?on: User ???? h■s j!!ined the \<error: undefined exception\>++**
 
 **++0025++:** Again?
 
@@ -69,11 +69,11 @@ aliases:
 
 **++0004++:** Terminating session
 
-**++System Notif■■■■■■■ <Error>**
+**++System Notif■■■■■■■ \<Error\>**
 
-**<Error>**
+**\<Error\>**
 
-**<Redirecting: Subnet Mask ????????? Port ?????>**
+**\<Redirecting: Subnet Mask ????????? Port ?????\>**
 
 **++System Notification: Welcome to the Cabal.++**
 
@@ -85,7 +85,7 @@ aliases:
 
 **++System Notification: Vote now.++**
 
-**<...>**
+**\<...\>**
 
 **++System Notification: All votes have been cast. The Ayes have it.++**
 
