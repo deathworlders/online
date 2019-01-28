@@ -2231,11 +2231,7 @@ They must have dozed off at some point, because she woke sometime after sunrise,
 
 *Naydi*
 
-<<<<<<< HEAD
 *Sarry I gotta get up too <span style="text-decoration: line-through;">fuck</span> damn early these days if I <span style="text-decoration: line-through;">wanna</span> want to get any kind o serious exercise in. I’ll be downstairs until <span style="text-decoration: line-through;">eight</span> ten-hour actually. You’re right, I can take time fer myself now that Gao <span style="text-decoration: line-through;">ain’t</span> isn’t on fire.*
-=======
-*Sarry I gotta get up too <span style="text-decoration: line-through;">fuck</del> damn early these days if I <span style="text-decoration: line-through;">wanna</del> want to get any kind o serious exercise in. I’ll be downstairs until <span style="text-decoration: line-through;">eight</del> ten-hour actually. You’re right, I can take time fer myself now that Gao <span style="text-decoration: line-through;">ain’t</del> isn’t on fire.*
->>>>>>> 8690faaa17e61bb1855b5f80b94c074caf985929
 
 *If you join me I’ll teach you some of what Myun knows! If you manage to land a swipe I’ll even cook for you!!*
 
