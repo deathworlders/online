@@ -169,7 +169,7 @@ An awkward several seconds unfolded as they stood there and stared at their ship
 “Mm-hmm.”
 
 This time, they climbed the ladder.
-___
+---
 **Date Point 10y9m AV**     
 **Aldrin Avenue, Folctha, Cimbrean, The Far Reaches**
 
@@ -340,7 +340,7 @@ Ava for her part got up and padded through barefoot into the kitchen. “Coffee?
 Darcy nodded and let herself out. Finding herself alone in the hallway outside she took a moment to express her emotions where nobody could see them, then pulled herself together.
 
 She still had a lot of important work to do.
-___
+---
 **Date Point 10y9m AV**    
 **BGEV-11** ***’Misfit’,*** **Byron Group AAAF, Omaha, Nebraska, USA, Earth.**
 
@@ -543,7 +543,7 @@ Xiù opened a private channel as soon as she was settled. *”Julian seems to re
 *”So this could be good for him.”*
 
 “I hope so.” She gave the EARS field and inertial compensation as much juice as she could spare. “Let’s get down there and find out.”
-___
+---
 **Date Point 10y9m AV**    
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada**
 
@@ -623,7 +623,7 @@ Mayfair nodded. “Sure. It’s a fine balancing act, but we *need* JETS, this n
 “Can do,” Miller nodded.
 
 “Alright.” Tremblay ticked that one off on his mental checklist. “On to the next thing, then… Let’s talk about this transport ship that Hephaestus want to show us...”
-___
+---
 
 **Date Point 10y9m AV**    
 **Folctha, Cimbrean, The Far Reaches**
@@ -719,7 +719,7 @@ Ava nodded again, and hauled herself upright. “...I love you, Dad.”
 “I love you too. Don’t you ever forget it.”
 
 “I won’t,” she promised. “Ever.”
-___
+---
 **Date Point 10y9m AV**    
 **The Alien Quarter, Folctha, Cimbrean, The Far Reaches**
 
@@ -992,7 +992,7 @@ Ava smiled for him and examined the warm little glow that the gesture had lit in
 Maybe Gyotin was right.
 
 “First step,” she agreed.
-___
+---
 **Date Point 10y9m AV**     
 **Folctha, Cimbrean, the Far Reaches**
 
@@ -1201,7 +1201,7 @@ They drunkenly enthused about their night all the way back to the starport, all 
 Xiù woke up enough to mumble something affirmative and nod, then fell asleep again, burrowing a little more into his chest. He chuckled softly and turned his head to point her out to Allison, but Allison too had put her head down and looked to be already out of contact with the waking world.
 
 He chuckled to himself, kissed them both fondly and then put his head back and joined them in closing his eyes on a very good day.
-___
+---
 **Date Point 10y9m AV**    
 **Uncharted Class 12 Deathworld, Near 3Kpc Arm**
 
@@ -1402,7 +1402,7 @@ Vemet trilled softly, knocked back his medicine in a single eager slurp and went
 He fidgeted with one of the pouches on his belt as he turned away. He had all the beads he needed, the only thing he was missing was two matched trophies to hang with them and once he had those he’d have a finished pair of pledge necklaces.
 
 He could hardly wait.
-___
+---
 **Date Point 10y9m1d AV**     
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
@@ -1471,7 +1471,7 @@ Once he was gone, Powell sat back down and ran his palm down his face. He liked 
 He fired off a quick email to Mears, who was on Earth for the week attending some kind of certification course, then checked his diary. He had PT with Warhorse in an hour, a meeting with Lt. Col. Miller after that, and then a fitting and measuring session with Kovač and the suit techs.
 
 Time to catch up on his messages. And if some of those messages were accurate, his job was soon to become much more complicated...
-___
+---
 **Date Point 10y9m1d AV**     
 **Folctha, Cimbrean, The Far Reaches**
 
@@ -1542,7 +1542,7 @@ The conversation ended there as they arrived at the spaceport, and they lingered
 They stood in silence then shook themselves, headed indoors, and went to bed.
 
 They had a long job ahead of them.
-___
+---
 **Date Point 10y9m1d AV**     
 **Celzi Alliance command facility, Crzlrfek System, The Freedom Stars**
 
@@ -1609,7 +1609,7 @@ Ethrak had had this conversation or some variant of it many times before, and he
 “...Yes, Warmaster.” Thal bowed stiffly, and made himself scarce.
 
 Ethrak made a satisfied gesture to himself, and planned how best to terrorize the Dominion into defending the wrong things...
-___
+---
 **Date Point 10y9m2w AV**     
 ***Ava Ríos***
 
@@ -1694,7 +1694,7 @@ Gabe paused, then nodded. “Right. *Es justo.”*
 “Sounds good.” He turned his chair in the right direction and headed out with a determined expression. Ava watched after him for a second feeling a complicated mix of emotions that she couldn’t quite pick apart, then adjusted her handbag and followed.
 
 It was nice not to feel completely alone.
-___
+---
 **Date Point 10y9m3w AV**     
 **Fort Bragg, North Carolina, USA, Earth**
 
@@ -1795,7 +1795,7 @@ He trailed off thoughtfully, and his lips moved silently as he did some mental a
 “We really do,” Miller said. "Though, none of this means you can't still take a swing at HEAT if you want to. But you’ll be blazing new trails, developing tactics and doctrine, you'll be collaborating with people from all across the special operations communities of the world, finding what makes sense, what doesn't… You might just find it rewarding, if you’ve got the chops for it.”
 
 He sat back and gave them both a daring stare. “*Do* you?”
-___
+---
 **Date Point: Halloween, 10y10m AV**    
 **Folctha, Cimbrean, The Far Reaches**
 
@@ -1938,7 +1938,7 @@ He checked they were out of earshot---*really* out of earshot---before he said a
 “You’re welcome.”
 
 That seemed to be all that needed saying.
-___
+---
 **Date Point 10y10m2w AV**     
 **BGEV-11** ***Misfit,*** **Cruising on spacelane CSR-orangepentagon-92034-L, The Border Stars.**
 
@@ -2055,7 +2055,7 @@ And the day had started out so well, too…
 She sat, and she meditated, and she watched until the spike was taken down. Even then they waited a further two hours before they finally decided to brave the road ahead again.
 
 None of them left their posts until the incident was six hours and twenty lightyears behind them.
-___
+---
 **Date Point 10y10m2w AV**     
 **Command Station 1053** ***’Linchpin Of Infinity’,*** **The Orin Line**
 
@@ -2106,7 +2106,7 @@ She folded the thought up and put it away. Different species had different prior
 *”A direct line? Well… yes, Fleetmaster. You have the authority to directly contact their ambassador in fact…”*
 
 “Good. I think it’s time for them to start living up to their promises…”
-___
+---
 
 **Date Point 10y10m2w AV**     
 **Uncharted Class 12 deathworld, Near 3Kpc Arm**
@@ -2147,7 +2147,7 @@ Sky-Thinker and his father exchanged the proud looks of men who had brought back
 
 “...This is the heart of the beast that destroyed our village.”
 
-___
+---
 **Date Point 10y10m2w2d AV**    
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada**
 
@@ -2220,7 +2220,7 @@ Knight chuckled. “I wouldn’t be surprised. Interstellar war has to be refres
 “Perish the thought. I’ll go tell Powell to expect Hell and give it back twice as hard.”
 
 “Yeah. Let’s show them what war *really* looks like.”
-___
+---
 **Date Point 10y10m2w2d AV**     
 **Folctha, Cimbrean, The Far Reaches**
 
@@ -2366,7 +2366,7 @@ Beaming the fearsome grin of a man who *knew* he’d outdone himself, Firth reve
 
 “Okay lads, party’s over! We’ve got a fookin’ mission...”
 
-___
+---
 **Date Point 10y10m2w3d AV**     
 **HMS** ***Valiant,*** **En route to Crzlrfek System, The Freedom Stars**
 
@@ -2434,7 +2434,7 @@ She was used to seeing them this way… but when The Lads, whom she cared for bo
 
 And hard not to feel sorry for the ETs they were about to unleash themselves on.
 
-___
+---
 **Date Point 10y10m2w3d AV**     
 **Hyperbolic trajectory, Crzlrfek System, The Freedom Stars**
 
@@ -2471,7 +2471,7 @@ Three…
 Two..
 
 One.
-___
+---
 **Date Point 10y10m2w3d AV**     
 **Crzlrfek System, The Freedom Stars**
 
@@ -2479,7 +2479,7 @@ ___
 
 The Alpha was forced to replay the sensor data in extreme slow motion to make sense of what it had witnessed, and on doing so it utterly forgot to guard its thoughts.
 
-<*Stunned awe; disbelief*>
+*\<Stunned awe; disbelief\>*
 
 It rewound the data and played it again, even slower. There was the knot of defensive batteries that had frustrated it for several days. Four space stations spread out in a line, placed so that when the prize they guarded was not beneath them, it was beneath some other bodyguard of orbital batteries. Any ship that decloaked near them was inviting immediate obliteration.
 
@@ -2495,14 +2495,16 @@ For any Hunter, witnessing violence on such an overwhelming scale was practicall
 
 And what ships! Small, dark, so sleek that the probing radiation of the ground batteries as they tried to get a lock just slid off like water on oiled steel. The tormented and rippling fabric of space twisted some more and disgorged metal rods that were already falling on precise re-entry trajectories that would drill them hard into the reinforced fabric of the ground facility that the Alpha had pondered for so long. Anything unfortunate enough to be caught beneath that tungsten rain was doomed.
 
-It spun around and began to issue commands with all the fervour it had. <*Exultation; Glee*> +Humans! The humans are here! This is our chance! Ready the brood for battle!+
+It spun around and began to issue commands with all the fervour it had. *\<Exultation; Glee\>* +Humans! The humans are here! This is our chance! Ready the brood for battle!+
 
 The Brood Of A Million Fangs did not fear defeat, nor death. They existed for violence, and violence had come to them and exposed its throat.
 
 They would bite, they would fight, and even if they all died, they would *live*.
 
 +***MEAT TO THE MAW!!!***+
-___
+
+---
+
 **Date Point 10y10m2w3d AV**     
 **Falling towards the ground, planet Crzlrfek, Crzlrfek System, The Freedom Stars**
 
@@ -2533,7 +2535,8 @@ Righteous led the way through the southern breach into the complex’s basements
 
 If the target thought he’d seen overwhelming force already, he was sorely mistaken.
 
-___
+---
+
 **Date Point 10y10m2w3d AV**     
 **Celzi Alliance command facility, Crzlrfek System, The Freedom Stars**
 
@@ -2552,7 +2555,9 @@ Ekrat had to look away. It was sickening to know that something was coming for h
 He spared a last despairing once-over for his instruments and froze.
 
 If what his instruments were telling him was accurate, then the humans suddenly didn’t seem so bad.
-___
+
+---
+
 **Date Point 10y10m2w3d AV**     
 **HMS** ***Violent,*** **orbiting planet Crzlrfek, Crzlrfek System, The Freedom Stars**
 
@@ -2593,7 +2598,9 @@ In any case, it was a sensible call. The fleet had orbital superiority but that 
 And that was that. A tense and humming kind of quiet suffused the CIC, broken only by precise updates and the susurrus that fell on any ship during a calm interlude in the fighting.
 
 They had done all they could: everything was out of their hands now.
-___
+
+---
+
 **Date Point 10y10m2w3d AV**     
 **Celzi Alliance command facility, Crzlrfek System, The Freedom Stars**
 
@@ -2628,9 +2635,10 @@ Warhorse took over again.
 Grab brother.
 
 ***MOVE.***
-___
-___
+
+---
+---
 
 **++END CHAPTER 32++**
-___
-___
+---
+---
