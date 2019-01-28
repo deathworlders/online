@@ -2024,7 +2024,7 @@ Fifty-Three considered the options, weighing her responsibilities to the Hierarc
 
 Internally the logic was more complicatedly political. This incident would certainly have cost the humans much of the goodwill they’d earned at Capitol Station, but to *really* twist the knife…
 
-**++0053++:** **<Message for 0020>** *I have a request.*
+**++0053++:** **\<Message for 0020\>** *I have a request.*
 
 As for the humans, even if they *did* have a nanofactory now, that would almost certainly work out in the Hierarchy’s favor. Every previous occasion where a species got their hands on that technology prematurely had resulted in massive recession and strife.
 

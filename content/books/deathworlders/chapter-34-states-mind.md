@@ -959,7 +959,7 @@ Rylee shrugged, and looked back out at the USS *San Diego*.
 “Yeah,” she nodded, and finished her champagne. “Call me a pessimist, but… I can’t help but wonder when the other shoe’s gonna drop.”
 ___
 
-**++0022++:** *<Satisfaction>*
+**++0022++:** *\<Satisfaction\>*
 
 **++0014++:** Good news?
 
@@ -969,13 +969,13 @@ ___
 
 **++0022++:** Their ‘swarm-of-swarms’ will number a million ships before long.
 
-**++0014++:** *<Troubled>* I am still worried by this. Our objective in suppressing deathworld species has always been to *minimize* galactic instability…
+**++0014++:** *\<Troubled\>* I am still worried by this. Our objective in suppressing deathworld species has always been to *minimize* galactic instability…
 
 **++0019++:** There was a consensus.
 
 **++0014++:** But not a unanimous one.
 
-**++0008++:** *<Rebuke>* Enough. You cast your vote and were in the minority. Respect that.
+**++0008++:** *\<Rebuke\>* Enough. You cast your vote and were in the minority. Respect that.
 
 **++0014++:** Yes, Eight.
 ___

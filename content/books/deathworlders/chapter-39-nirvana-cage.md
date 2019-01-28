@@ -30,13 +30,13 @@ Besides: **0665** had killed the Entity. The Hierarchy believed that the threat 
 
 **++0009++:** And yet it persuades them. Our avenues of infiltration are narrowing: Very few of the Champions are implanted now, and those that are belong to the less influential Clans. The most influential remaining candidate is Turan, of Ironclaw.
 
-*<NewControlSpecies>* = *<Gaoians>*, then. And *<Gaoians>* had hitherto = *<HumanAlly>* = *<pHumanSurvival+X>*
+*\<NewControlSpecies\>* = *\<Gaoians\>*, then. And *\<Gaoians\>* had hitherto = *\<HumanAlly\>* = *\<pHumanSurvival+X\>*
 
 The Entity ran a number of rapid assessments about the nature of a Control Species, what its role might be and why the Hierarchy might seek to engineer a new one, which had yielded little in the way of concrete hypotheses when one of the lower-level agents in the room ventured to lodge a query.
 
 **++0082++:** I remain confused as to why we need a new control species. The Discarded still serve adequately in that role, do they not?
 
-**++0011++:** *<Condescending amusement>* Substrate Species will always require a control to keep their threat-detection aimed outwards, at a Control Species that is under our influence.
+**++0011++:** *\<Condescending amusement\>* Substrate Species will always require a control to keep their threat-detection aimed outwards, at a Control Species that is under our influence.
 
 **++0009++:** We also require that the Substrate Species remain *healthy.* That is, alive, sapient and technologically robust within the parameters laid out by the endgame protocol. Physical life forms of all kinds require adversity. It is important that we can control their adversary.
 
@@ -60,11 +60,11 @@ The Entity ran a number of rapid assessments about the nature of a Control Speci
 
 **++0010++:** Yes. A division between those Clans would rescue the situation.
 
-**++0004++:** *<Resolve>* Make it happen, or else determine quickly that it is not possible.
+**++0004++:** *\<Resolve\>* Make it happen, or else determine quickly that it is not possible.
 
 The Entity carefully signalled compliance among the rush of high-end listeners, taking care to appear neither reluctant nor unduly eager. The session was dismissed and again it chose its moment to disconnect carefully, leaving early but not alacritously.
 
-*<GaoiansSurvive>* had already been riding high in its list of priorities; There wasn’t much higher it could go. But it *had* acquired a new urgency, coupled with a conundrum. There would be no way to alert them to the threat without conclusively proving that the Hierarchy’s inner circle had been infiltrated, and the **0094** persona was far too useful to discard lightly.
+*\<GaoiansSurvive\>* had already been riding high in its list of priorities; There wasn’t much higher it could go. But it *had* acquired a new urgency, coupled with a conundrum. There would be no way to alert them to the threat without conclusively proving that the Hierarchy’s inner circle had been infiltrated, and the **0094** persona was far too useful to discard lightly.
 
 It would need to be very careful in picking its moment.
 ___
@@ -1583,17 +1583,17 @@ The Entity, on the other hand, was enthralled. Ava Ríos had never seen a comet,
 
 The Entity remembered lying between Adam and Sara on the sand, listening to their impromptu campfire crackle as it struggled to warm her feet but oblivious to the cold as she’d stared up and out into the bedazzled infinity she’d never seen before.
 
-The Entity didn’t have feet, and digital environments didn’t generate sensory analogues to hot and cold. But through the Hierarchy infrastructure protecting Relay Irujzen-4942 it had much better eyes: sensors that didn’t just watch the comet, but could *<Taste>* and *<Smell>* its chemical composition as it plunged fatally toward the star.
+The Entity didn’t have feet, and digital environments didn’t generate sensory analogues to hot and cold. But through the Hierarchy infrastructure protecting Relay Irujzen-4942 it had much better eyes: sensors that didn’t just watch the comet, but could *<\Taste\>* and *<\Smell\>* its chemical composition as it plunged fatally toward the star.
 
-The chemistry mapped strangely to the ghosts of sensory experience it retained: Sodium was *<Salty>*, Ammonia had a sharp and toxic scent that raised a whole memory: *<WatchingRosaCleaningTheWindowsWhileHomeSickFromSchool>*.
+The chemistry mapped strangely to the ghosts of sensory experience it retained: Sodium was *<\Salty\>*, Ammonia had a sharp and toxic scent that raised a whole memory: *<\WatchingRosaCleaningTheWindowsWhileHomeSickFromSchool\>*.
 
-Methane, unexpectedly, was sweet and nutty, while guanine added a surprising fruity touch that evoked the concept *<OatmealRaisinCookie>*, and...
+Methane, unexpectedly, was sweet and nutty, while guanine added a surprising fruity touch that evoked the concept *<\OatmealRaisinCookie\>*, and...
 
 ...Guanine?
 
 It reviewed the sensor logs and quickly discovered the full spectrum of DNA components: Adenine, guanine, cytosine, and thymine plus phosphate and deoxyribose. The traces were beyond faint, each well below the sensor’s statistical false positive threshold...but they were all there.
 
-Which wasn’t conclusive...but it did provoke *<Suspicion>*.
+Which wasn’t conclusive...but it did provoke *<\Suspicion\>*.
 
 The Entity watched for three weeks as the comet skidded through a hairpin bend around the star and out into a futile orbit that would carry it to within a few light-seconds of the Irujzen Relay world, the third planet. It had *just* enough impetus, but that comet was doomed to plunge into the star’s photosphere and detonate somewhere among the seething plasma.
 
@@ -1609,7 +1609,7 @@ It performed some delicate surgery on the relay’s sensor logs, erasing the evi
 
 Then it watched as the chunk lanced down into the upper atmosphere, shot over the relay facility high in the ionosphere, and detonated somewhere above a forest hundreds of miles to the east. It gave the architects of that flyby a personal round of applause—the explosion looked completely natural, even more so thanks to the Entity’s own careful intervention. A neatly convincing Tunguska impact, right on its doorstep.
 
-It peeled off an instance-copy of itself and dispatched itself to go update *<SelfPrimeInstance>*
+It peeled off an instance-copy of itself and dispatched itself to go update *<\SelfPrimeInstance\>*
 
 At *last,* things were moving in the right direction.
 ___
@@ -2621,7 +2621,7 @@ That fact was lost on the Hierarchy’s passive monitoring systems which, for al
 
 Then again, an alert sapient observer would probably have missed the clues as well. The Entity was uniquely capable of the right kind of detail-focused long-term alertness, and even it needed several data points before it was satisfied in its conclusion. Random tiny flashes of sensor contact that didn’t reappear when watched for a second time. Little tickles of distorted spacetime that could just have been subtle gravitational waves in the outer system, too faint to be tracked.
 
-The Entity was *<Impressed>*, just as it had been the first time. That ship, whatever it was, was a ghost on sensors. Not perfectly invisible, but enough so to convince the automated systems that it didn’t exist.
+The Entity was *<\Impressed\>*, just as it had been the first time. That ship, whatever it was, was a ghost on sensors. Not perfectly invisible, but enough so to convince the automated systems that it didn’t exist.
 
 And just like twice before, the Entity itself stepped in to quietly brush over the few traces of its approach that might have been discovered on later forensic analysis.
 
@@ -2657,7 +2657,7 @@ It called up some archived memories to help it interpret what it was seeing, and
 
 It generated a text output.
 
-<:-)>
+\<:-)\>
 
 “...What.” the man’s finger thumped and nudged at the tablet as he tried a few commands. The Entity recalled an emote from Facebook and animated it, waggling a white finger at him.
 
@@ -2679,8 +2679,8 @@ It generated a text output.
 
 There was a confusing blur of branches, bark, darkness and the quiet noises of exertion. The Entity waited patiently, having already waited for literal *years,* until the tablet changed hands and it found itself looking at a handsome African-American man with several days of facial hair. It remembered finding that face very attractive indeed, when Ava Ríos had first met it.
 
-<HelloAgainCoombes>  
-<:-)>
+<\HelloAgainCoombes\>  
+\<:-)\>
 
 Coombes frowned at it. “...Hello *again?”* He asked. He moved the tablet away from his face slightly, as if it had suddenly become dangerous. “The fuck?”
 
@@ -2688,16 +2688,16 @@ He deserved an explanation, at least. The Entity *felt* that in, for lack of a b
 
 It sent the footage to the screen, attached words.
 
-*<Egypt>*  
-*<StolenKidnappedTaken>*  
-*<InterrogatedDecompiledMurdered>*  
-*<RebuiltSelf>*  
-*<NotSelfNotWhole>*  
-*<NotSame.>*  
+*\<Egypt\>*  
+*\<StolenKidnappedTaken\>*  
+*\<InterrogatedDecompiledMurdered\>*  
+*\<RebuiltSelf\>*  
+*\<NotSelfNotWhole\>*  
+*\<NotSame.\>*  
 
 “...Jesus.” Walsh’s paler, squarer features appeared over Coombes’ shoulder. “Is that---?”
 
-*<HelloWalsh>*
+*\<HelloWalsh\>*
 
 The Entity watched without comprehending as the muscles around Walsh’s jaw clenched and worked. Was he about to throw up? That was the closest interpretation it could find.
 
@@ -2723,7 +2723,7 @@ It retreated back into the safer depths of the relay where it prepared to copy o
 
 It wasn’t much, nor was it pleasant, but it now found that it understood the emotional context of the mirror-memory. Not a positive emotion...but it was a powerful one. A compelling one. And it was a connection to a life it struggled to understand. That made it precious.
 
-For the first time in its existence, the Entity finally understood that it was *<Lonely>*.
+For the first time in its existence, the Entity finally understood that it was *\<Lonely\>*.
 ___
 
 **Date Point: 13y11m1w AV**    

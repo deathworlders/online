@@ -1515,7 +1515,7 @@ ___
 **Date Point: 12y6m AV**    
 **Diplomatic Starship** ***Rich Plains,*** **Orbiting Cimbrean-5, The Far Reaches**
 
-**++????++:** *<Alarm;Priority>* [broadcast;observer_10142059; Meme_Sequence17974645]
+**++????++:** *\<Alarm;Priority\>* [broadcast;observer_10142059; Meme_Sequence17974645]
 
 Every Igraen agent in the Hierarchy had spent time as an Observer before being selected to undergo their evaluation period as a Zero ahead of *finally* being inducted into the Hierarchy itself. The work was tedious and demeaning, but it supposedly instilled patience and winnowed out those too fickle to properly serve the needs of the species.
 
@@ -2645,7 +2645,7 @@ ___
 
 ***The Entity***
 
-*<Relief>*
+*\<Relief\>*
 
 Humans. Humans who, quite clearly, had known what the Hierarchy was and had *immediately* opened fire. The Entity could not possibly have wished for a more positive find from its scouting expeditions.
 
