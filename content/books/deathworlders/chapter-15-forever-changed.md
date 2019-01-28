@@ -1062,7 +1062,7 @@ There was a long silence after the last secret spilled from him.
 
 Six looked up, and the sight of tears in Carl's own eyes shook him deeply. He'd known that he had built something of a relationship---even a warped *friendship*---with his interrogators over his long incarceration. But he had always persuaded himself that it was a distant one, with a thick professional barrier in place.
 
-*\<They hurt themselves to break me\>* He thought. But he wouldn't have been Six if he hadn't tried to fight back, to claim *something* here and now, in Carl's moment of weakness. To hurt him, on an emotional level.
+\<*They hurt themselves to break me*\> He thought. But he wouldn't have been Six if he hadn't tried to fight back, to claim *something* here and now, in Carl's moment of weakness. To hurt him, on an emotional level.
 
 "*Fuck* you. You've beaten me. I've betrayed everything I ever lived or cared for. I've DESTROYED the Hierarchy. And now you're fucking *sorry?!"* he exclaimed.
 

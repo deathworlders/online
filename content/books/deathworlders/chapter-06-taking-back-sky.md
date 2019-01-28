@@ -11,7 +11,7 @@ One broadcast: *+\<awe; respect; statement\>+* "The Alpha-of-Alphas is here."
 
 Another broadcast: *+\<anticipation; glee; eagerness\>+* "The first human meat to the Alpha-of-Alpha's maw!"
 
-The Alpha-of-Alphas broadcast: *+<rebuke>+* "The quarry is dangerous. Remain focused."
+The Alpha-of-Alphas broadcast: *+\<rebuke\>+* "The quarry is dangerous. Remain focused."
 
 Chastened, the Brood-Guard fell into line respectfully around and behind the Alpha-of-Alphas as it emerged from its vessel. It stood nearly a head taller than even the largest of the lesser Alphas, and had undergone yet more extensive cybernetic upgrades, bonding all manner of arcane technology---reputedly of its own design---into its own flesh. The result was a mountain of metal and seething power, with seven blinking eyes gazing balefully out at the world of prey around it, covering all the angles, never resting.
 
