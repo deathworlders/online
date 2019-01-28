@@ -77,7 +77,7 @@ It paused. "And tell them that we shall only be satisfied to return to our quies
 
 The prey-slave could not hear it, but in its mind, the combined shout of ten thousand Alphas was deafening, despite containing no words. It was just a simple emotion.
 
-**+<APPROVAL>+**
+**+\<APPROVAL\>+**
 
 ---
 
