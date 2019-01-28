@@ -915,7 +915,7 @@ This was, technically, a small lie---the drone had been sitting in the car park 
 
 +\<*Satisfaction*\> Good. Remember to instruct it *not* to shoot into the section where I'm sitting.+
 
-72 couldn't resist ironically echoing Six's own words back at him. *\<Patient request\>* +I just ask---please---that you trust that I know what I'm doing.+
+72 couldn't resist ironically echoing Six's own words back at him. \<*Patient request*\> +I just ask---please---that you trust that I know what I'm doing.+
 
 This was met with silence.
 

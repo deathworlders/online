@@ -1364,19 +1364,19 @@ Six-six-five’s command ship was at the core of the formation, behind layer aft
 
 Everything was on course for a decisive victory. The enemy fleet hadn’t even started out with enough firepower to ablate the Hierarchy fleet quickly enough to prevent the objective’s destruction, and they were suffering from significant attrition of their own. The target’s survival was measured in minutes, at most.
 
-**++0014++:** <Concern> *Curious…*
+**++0014++:** \<\> *Curious…*
 
 Alone on the ship he’d depopulated, Six-six-five paced anxiously. Their victory wasn’t so completely assured that nothing could conceivably go wrong...
 
-**++0665++:** <Query> *A problem?”*
+**++0665++:** \<Query\> *A problem?”*
 
-**++0014++:** <Explanation> *Some strange local dataspace activity. Be on your guard---the traitors may attempt something.*
+**++0014++:** \<Explanation\> *Some strange local dataspace activity. Be on your guard---the traitors may attempt something.*
 
-**++0665++:** <Wary curiosity> *Could you define ‘strange’?*
+**++0665++:** \<Wary curiosity\> *Could you define ‘strange’?*
 
 **++0014++:** *Some traffic that shouldn’t be present. It seems to have slipped into your subnet. Can you verify?”*
 
-**++0665++:** <Compliance>
+**++0665++:** \<Compliance\>
 
 He withdrew his attention from meatspace, trusting in the daemons he had injected into the fleet’s command systems to handle the business of the battle while he hunted down the anomaly.
 
@@ -1392,11 +1392,11 @@ Hierarchy doctrine in such situations was *usually* the “four-twelfths rule”
 
 He lit up, pulsing a search routine through nearby nodes and sure enough something changed in response. It was subtle---a few kilobytes out of place, a handful of reassigned floating point operations. The digital equivalent of a broken twig, or an unlatched window that should have been closed---barely anything, but there for a wary tracker to see.
 
-**++0665++:** <Confirmation> *Proximal dataspace is infiltrated.*
+**++0665++:** \<Confirmation\> *Proximal dataspace is infiltrated.*
 
-**++0014++:** <Urgent command> *Purge. Use overwhelming force.*
+**++0014++:** \<Urgent command\> *Purge. Use overwhelming force.*
 
-**++0665++:** <Compliance>
+**++0665++:** \<Compliance\>
 
 Six-six-five lit up all his most powerful tools and began smashing nearby nodes. A blizzard of corrupted data kicked up around him, overloading and crashing physical-space and savaging whatever information they contained.
 
@@ -1404,25 +1404,25 @@ Through that blizzard, however, something moved. Something shockingly fast that 
 
 He almost didn’t notice the *other* presence at all. Not until it was almost too late.
 
-**++0665++:** <!>
+**++0665++:** \<!\>
 
-**++0014++:** <Alarm> *Report!*
+**++0014++:** \<Alarm\> *Report!*
 
-**++0665++:** <Relief> *...Hostile neutralized.*
+**++0665++:** \<Relief\> *...Hostile neutralized.*
 
-**++0014++:** <Suspicion> *What hostile?*
+**++0014++:** \<Suspicion\> *What hostile?*
 
 **++0665++:** *Unclear. It’s… hideous, whatever it is. Like it was patched together out of dozens of mind-states.*
 
 There was a long, tense pause.
 
-**++0014++:** <Disbelief> *Are you telling me you killed that thing?*
+**++0014++:** \<Disbelief\> *Are you telling me you killed that thing?*
 
-**++0665++:** <Confusion> *I killed* ***something...***
+**++0665++:** \<Confusion\> *I killed* ***something...***
 
-**++0014++:** <Order> *Do nothing. This supersedes all other concerns. Guard whatever is left of that* ***abomination*** *until I can verify its destruction.*
+**++0014++:** \<Order\> *Do nothing. This supersedes all other concerns. Guard whatever is left of that* ***abomination*** *until I can verify its destruction.*
 
-**++0665++:** <Compliance>
+**++0665++:** \<Compliance\>
 
 **++0014++:** *We have broken through in physical space. You should see the siege rounds hit… Now.*
 
@@ -1430,9 +1430,9 @@ The distant edifice of the Cabal device imploded, taking down dozens of adjacent
 
 Seconds later, Fourteen transferred into the node. He swept the mangled data remnants with a battery of the most sophisticated analytical tools the Hierarchy owned.
 
-**++0014++:** <Awe; Relief> *Amazing… You did it.*
+**++0014++:** \<Awe; Relief\> *Amazing… You did it.*
 
-**++0665++:** <Confusion> *What was it?*
+**++0665++:** \<Confusion\> *What was it?*
 
 **++0014++:** *Something that should never have been. You may just have saved us from a powerful scourge. What happened?*
 
@@ -1440,16 +1440,18 @@ Seconds later, Fourteen transferred into the node. He swept the mangled data rem
 
 **++0014++:** *You got lucky… but I will commend you to the single-digits anyway. Well done.*
 
-**++0665++:** <Pride; request> *I should get back to purging my deathworld. The natives are tenacious and crafty. The longer I’m away…*
+**++0665++:** \<Pride; request\> *I should get back to purging my deathworld. The natives are tenacious and crafty. The longer I’m away…*
 
-**++0014++:** <Agreement> *Yes, you’re free to go. We shall see if your number drops after you return…*
+**++0014++:** \<Agreement\> *Yes, you’re free to go. We shall see if your number drops after you return…*
 
-**++0665++:** <Gratitude>
+**++0665++:** \<Gratitude\>
 
 Fourteen signed out.
 
 Behind the borrowed facade of Six-six-five’s identity codes, the Entity finally permitted itself to feel relief.
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 

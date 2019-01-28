@@ -21,7 +21,7 @@ Alpha of Alphas decided that the time had come to settle the Brood of Broods.
 
 It broadcast: *+\<Impatience; anger; command\>+* **"ENOUGH!"** The mental noise ceased. Lingering emotions hung on the air like brittle harmonics.
 
-It broadcast: *+\<Resolve; statement\>+* "These new things have stolen what is rightfully ours. They have stolen the fear of the Herd. They have slain five broods of our finest hunters." *+<Declaration; resignation>+* "I name them Predators, the first species we have known that is not prey."
+It broadcast: *+\<Resolve; statement\>+* "These new things have stolen what is rightfully ours. They have stolen the fear of the Herd. They have slain five broods of our finest hunters." *+\<Declaration; resignation\>+* "I name them Predators, the first species we have known that is not prey."
 
 Barely-suppressed shock rippled through the minds of the gathered Alphas, but Alpha of Alphas noted the undercurrent: lack of surprise. It was gratifying to know that at least some of the gathered Broods were led by hunters that could see the future pattern of things so acutely.
 
@@ -77,7 +77,7 @@ It paused. "And tell them that we shall only be satisfied to return to our quies
 
 The prey-slave could not hear it, but in its mind, the combined shout of ten thousand Alphas was deafening, despite containing no words. It was just a simple emotion.
 
-**+<APPROVAL>+**
+**+\<APPROVAL\>+**
 
 ---
 

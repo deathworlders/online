@@ -675,7 +675,7 @@ But they weren’t humans any longer. They could, in an academic sense, interrog
 
 To an Igraen’s senses therefore (insofar as the term *’sense’* could be applied to the perception of purely digital data formats) the report that reached Six’s ‘ears’ was not like being told “they’re coming” or being called for by name.
 
-It was more like a cold, mechanical status report - ***<+Priority2:PerimeterAlert:bExpected=true:refIndividualOfInterest=47,probable94%+>***
+It was more like a cold, mechanical status report - ***\<+Priority2:PerimeterAlert:bExpected=true:refIndividualOfInterest=47,probable94%+\>***
 
 There was a human gesture that Six had picked up and rather enjoyed - dusting his hands off. He did it now as he stepped out of the foreman’s office and took stock.
 
@@ -1173,7 +1173,7 @@ A cascade of data points connected themselves, and Six relaxed with a happy sigh
 
 She stood. “Are we done here?”
 
-***<+Priority1:PerimeterAlert:bExpected=False:refIndividualOfInterest=InsufficientData+>***
+***\<+Priority1:PerimeterAlert:bExpected=False:refIndividualOfInterest=InsufficientData+\>***
 
 Six hesitated, then nodded. “You know, I believe we are.”
 
@@ -1726,11 +1726,11 @@ ___
 
 ***Six***
 
-*+<Scorn> So who are you really, ‘Seven’?+*
+*+\<Scorn\> So who are you really, ‘Seven’?+*
 
-*+<Hatred> Traitor?+*
+*+\<Hatred\> Traitor?+*
 
-*+<Anger> Coward?+*
+*+\<Anger\> Coward?+*
 
 That last stab brought a grim chuckle unbidden up out of Six’s host biodrone’s deepest reflexes. He just couldn’t resist the urge to comment quietly to himself. “Five on one, and they call *me* the coward…”
 
@@ -1742,19 +1742,19 @@ They had to. If they couldn’t, then the movement would already have been expos
 
 Three-on-three would be a much more even fight, one where his experience might well carry the day, but why fight at all when there were less risky alternatives?
 
-*+<Serene> I see the future+* He sent. Their emotions were running high enough that prodding and goading them with hints and doublespeak should keep them irrational and force a mistake
+*+\<Serene\> I see the future+* He sent. Their emotions were running high enough that prodding and goading them with hints and doublespeak should keep them irrational and force a mistake
 
 There was a lengthy delay. Gunfire somewhere nearby in the dense tangle of cheap housing gave him a clue as to the cause. *That* was solid support for his reasoning, if nothing else - Despite being outnumbered something like six to one, the humans had inflicted a heavy toll on the Hierarchy biodrones even before Six’s own forces had been ordered into the fight. The Abductor really had been the only effective weapon against them, and now that it was gone - a fact that would harm his own plans for Earth as well as the Hierarchy’s operations - despite being depleted by half, the human team were clearly giving the drones a war.
 
-*+<Mounting anger> Hide behind cryptic nonsense all you like. You will be captured, you will be compiled, and you will be deleted.+*
+*+\<Mounting anger\> Hide behind cryptic nonsense all you like. You will be captured, you will be compiled, and you will be deleted.+*
 
-Six shook his head. *+<Patient prediction> If you have your way, our species will fall. We have already lost.+*
+Six shook his head. *+\<Patient prediction\> If you have your way, our species will fall. We have already lost.+*
 
 He glanced left and right down the gap between buildings and scurried to a doorway. There was no such thing as a locked door, now that all of the miners and their families had been biodroned. He ducked inside, then cursed. Somewhere in the confusing tangle of the unfolding battle, he’d got turned around and was now pinned against one of the village’s main roads, where there was no cover and nowhere to hide.
 
-*+<Elaboration> The humans have already escaped us. No matter what we do, we cannot defeat them now.+*
+*+\<Elaboration\> The humans have already escaped us. No matter what we do, we cannot defeat them now.+*
 
-*+<Vigorous disagreement> We only need one jump beacon to bring the Discarded down on them.+*
+*+\<Vigorous disagreement\> We only need one jump beacon to bring the Discarded down on them.+*
 
 Six scoffed and checked outside again. He couldn’t go back the way he’d come, they were too close behind him. His only option was to slip through the window and make a break across the road to safety. Hopefully he could double back around them.
 
@@ -1766,11 +1766,11 @@ Six hauled himself through the window. He didn’t, at first, feel the bullet wo
 
 He turned it off. It was no longer a necessary datum. Instead he got up and ran, thinking desperately.
 
-*+<Frantic> Have you not been paying attention? Do you really think that we will be able to secure such a thing, now that our source of biodrones has been destroyed and the nuclear weapons it carried will be recovered?+* He sent. After all, trying to talk them round was no worse a plan than any other he had right now.
+*+\<Frantic\> Have you not been paying attention? Do you really think that we will be able to secure such a thing, now that our source of biodrones has been destroyed and the nuclear weapons it carried will be recovered?+* He sent. After all, trying to talk them round was no worse a plan than any other he had right now.
 
-*+<Dismissive> They are less than children.+*
+*+\<Dismissive\> They are less than children.+*
 
-So much for reason. *+<Resolve> They are tenacious, they are intelligent, and they are motivated to survive above all else. We. Have. Failed.+* he broadcast, turning down a gap between buildings. He nearly ran into a wall of four guns.
+So much for reason. *+\<Resolve\> They are tenacious, they are intelligent, and they are motivated to survive above all else. We. Have. Failed.+* he broadcast, turning down a gap between buildings. He nearly ran into a wall of four guns.
 
 “Enough. You’re trapped.”
 
@@ -1856,7 +1856,7 @@ Despite this apparent praise, he took several additional steps, none of which Si
 
 With the attention off him for a second, Six turned his mind to thoughts of escape.
 
-**<Connecting: Subnet Mask ????????? Port ?????>**    
+**\<Connecting: Subnet Mask ????????? Port ?????\>**    
 **++System Notification: Welcome to the Cabal.++**    
 
 **++????++:** Six. What is happening?
@@ -1882,7 +1882,7 @@ With the attention off him for a second, Six turned his mind to thoughts of esca
 **++????++:** Vote.
 
 **++System Notification: Vote now.++**    
-**<…>**    
+**\<…\>**    
 **++System Notification: All votes have been cast. The Ayes have it.++**
 
 **++????++:** The first order of business is getting you off that planet. A secure link can be opened in… [forty seconds].
@@ -2567,23 +2567,23 @@ ___
 
 “Hello Ash. Or, should I call you Ava?”
 
-*+<Alarm;Confusion> What? What’s going on? What the fuck where am I?+*
+*+\<Alarm;Confusion\> What? What’s going on? What the fuck where am I?+*
 
 ”Ava Rìos is safely at home on Earth having survived a rather fierce battle that you won’t remember”
 
-*+<Denial;Horror;Hysteria> Wake up Ava wake up this is just a dream just a bad dream wake up wake up wake up+*
+*+\<Denial;Horror;Hysteria\> Wake up Ava wake up this is just a dream just a bad dream wake up wake up wake up+*
 
 *”You* are… well, a copy. A scan, to be precise, of every neuron in her head, every spark of electrical activity, every chemical and every ganglion, converted into the same digital format as an Igraen. You may have noticed the scan as a mild headache.”
 
-*+<Fright;Disbelief> A copy? What do you want with me?+*
+*+\<Fright;Disbelief\> A copy? What do you want with me?+*
 
 “Only to apologise. You are after all every bit as sapient as Ava herself is, and every bit as sapient as I am. I just want you to know… I’m sorry.”
 
-*+<Mounting fear;Trepidation> What are you going to do?+*
+*+\<Mounting fear;Trepidation\> What are you going to do?+*
 
 “You kept secrets from me, Ava. You withheld information. Fortunately, that doesn’t matter, because now that you and I are alone here… I can take everything I want. I’m afraid the process won’t be pleasant and - really, I am very sorry about this - you will not survive it.”
 
-*+<Panic;Terror;Pleading> No! Please no I don’t want to die no please I’ll tell you everything please don’t kill me no no no+*
+*+\<Panic;Terror;Pleading\> No! Please no I don’t want to die no please I’ll tell you everything please don’t kill me no no no+*
 
 “Pleading will not help you, Ava. You are the twentieth copy I have dismantled thus far, and every time I do I learn something new.”
 

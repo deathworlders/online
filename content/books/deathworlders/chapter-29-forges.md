@@ -3704,21 +3704,21 @@ ___
 
 “Hello, Ava.”
 
-*+<Alarm;Confusion> What? What’s going on? What the fuck where am I?+*
+*+\<Alarm;Confusion\> What? What’s going on? What the fuck where am I?+*
 
 “One thousand and nineteen.”
 
-*+<Frightened bewilderment> What?+*
+*+\<Frightened bewilderment\> What?+*
 
 “Oh, nothing important. This is the thousand and nineteenth time I’ve woken a copy of you, and the thousand and nineteenth time that you broadcast the exact same thing on activation.”
 
-*+<Mounting panic> What am I? What are* ***you?*** *Oh God what’s happening?+*
+*+\<Mounting panic\> What am I? What are* ***you?*** *Oh God what’s happening?+*
 
 Six didn’t sigh, so much as broadcast a kind of bored resignation. The digital ghost of Ava Rìos had been by far his favorite plaything *ever*, and had kept him thoroughly diverted now for months, but it seemed that even humans had their limits on how interesting they could be. He kept holding on to hope that the *next* copy of her might start behaving in new ways at the start of their interaction before he got bored and went off-script, but that hope was beginning to fade.
 
 But it was always the same script in the end. She always died pleading.
 
-*+<Shock; disgust; fright> And what is* ***that*** *thing?+*
+*+\<Shock; disgust; fright\> And what is* ***that*** *thing?+*
 
 “Hmm. Interesting. That’s a new…”
 
