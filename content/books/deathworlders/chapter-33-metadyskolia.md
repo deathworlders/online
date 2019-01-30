@@ -424,9 +424,11 @@ Julian laughed. “I thought maybe we should go check it out,” he suggested. �
 “You need to practice setting destinations anyway,” Xiù told him, and pointed toward the cockpit. “Go on.”
 
 Julian nodded and chuckled. “Yes ma’am.”
+
 “Good boy.”
 
 He looked so much more comfortable.
+
 ---
 
 **Date Point: November 10y11m2w AV**    
