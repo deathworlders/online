@@ -1,9 +1,9 @@
-___
+---
 title: "Chapter 33: Metadyskolia"
 date: 2016-10-30
 aliases:
   - /book/deathworlders/chapter-33-metadyskolia
-___
+---
 **Date Point: October, 10y10m2w3d AV**     
 **Crzlrfek System, The Freedom Stars**
 
@@ -73,7 +73,7 @@ I will see her again in two weeks or on an emergency basis.
 
 -Lt. K Mears
 Counsellor, HMS *Sharman*
-___
+____
 **Date Point 10y10m2w4d AV**    
 **Command Station 1053** ***’Linchpin Of Infinity’,*** **Orbiting Planet Vetrin, The Orin Line**
 
@@ -268,7 +268,7 @@ Garal sputtered as they turned and left her office, an oozing body part and a on
 
 “Uh…” the poor Vzk’tk thus addressed watched the humans thump purposefully out the door. “...I beg your pardon fleetmaster but… *how?*”
 
-The door closed behind them, and Garal ran two of her hands over her scalp while the other two planted themselves on her hips___a gesture of being totally at a loss.
+The door closed behind them, and Garal ran two of her hands over her scalp while the other two planted themselves on her hips---a gesture of being totally at a loss.
 
 “...Contact battlefield forensics and have them send up a team to my office. And, find me another office to work from until mine has been sanitized and repaired.”
 
@@ -477,7 +477,7 @@ Stellar navigation was a prerequisite technology for even being an interstellar 
 
 Humans had, so far, manually surveyed every planet they found. Of course they had done so via remote instruments and an assortment of deep space probes and wheeled rovers, using photographs and radar imagery, but all of the actual assessment had been conducted by a skilled human mind. The coltainers, however, would have to be automated, and while the Dominion had long since mastered the art of automated survey the humans didn’t trust *anything* Dominion-made. And so they were reinventing the interstellar equivalent of the wheel by programming new survey software from first principles.
 
-They weren’t doing so *completely* from scratch at least___they were at least referencing the Dominion software and borrowing its parameters___but they were still re-climbing a well-trodden mountain as if they were the very first, like ignoring the carefully cut steps and handrails in favor of scaling the untackled cliffs with rope and pitons.
+They weren’t doing so *completely* from scratch at least---they were at least referencing the Dominion software and borrowing its parameters---but they were still re-climbing a well-trodden mountain as if they were the very first, like ignoring the carefully cut steps and handrails in favor of scaling the untackled cliffs with rope and pitons.
 
 Working out the basics of that software had been CIC-1’s job. They had manually orbited it over a nearby world and ran the survey by hand, which also served as a test of the instruments.
 
@@ -826,7 +826,7 @@ Gyotin chittered again. “Leads to some awkwardness in Gao-human friendships.�
 
 “Uh, yeah!”
 
-“So. I think this dog will be good for you. Not a Gao surrogate___a real dog. Just don’t forget me, hmm?”
+“So. I think this dog will be good for you. Not a Gao surrogate---a real dog. Just don’t forget me, hmm?”
 
 “Never!” Ava picked up her drink. “God, no. You… I don’t know where I’d be if I couldn’t come and talk to you.”
 
@@ -848,7 +848,7 @@ ___
 
 The music industry hadn’t stopped during the years of Julian’s absence from Earth, and he made a point of not only listening to old familiar songs. Fortunately, *Misfit* was carrying a lot of music on file.
 
-Contrary to the woe and tears of some critics who bemoaned the state of pop music, he was finding some excellent new bands with names like “I Prefer The Storm”, “Stone-D”, “Granuloma” “Savvz” and “To The Victor”, and the lab usually had the volume turned up just slightly short of hearing damage. That was something he shared with Xiù___they both liked their music turned way up, even if their tastes differed slightly. She was more into what she called “timeless hits” like Cyndi Lauper, Bonnie Tyler, Alanis Morissette and Adele, seasoned with some outrageously over-the-top syrupy Cantopop power ballads.
+Contrary to the woe and tears of some critics who bemoaned the state of pop music, he was finding some excellent new bands with names like “I Prefer The Storm”, “Stone-D”, “Granuloma” “Savvz” and “To The Victor”, and the lab usually had the volume turned up just slightly short of hearing damage. That was something he shared with Xiù---they both liked their music turned way up, even if their tastes differed slightly. She was more into what she called “timeless hits” like Cyndi Lauper, Bonnie Tyler, Alanis Morissette and Adele, seasoned with some outrageously over-the-top syrupy Cantopop power ballads.
 
 Both of them agreed that they had no idea what Allison liked. Scouring her playlist had turned up no detectable pattern, preferred genre or anything beyond that everything on it had probably been near the top of the singles charts at some point. It was a kind of urban radio mix, and she never played it at any volume above *’unobtrusive background noise’*.
 
@@ -860,7 +860,7 @@ Julian chuckled. “You’ve done it how many times?”
 
 *”Hundreds, in the simulator. I’m just paranoid that the simulator will be wrong.”*
 
-Xiù had every reason to be nervous. Dropping out of warp wasn’t as simple as just turning the engine off and letting the field collapse___the ship’s inertial frame of reference had to be matched with that of the destination system as well, or else they could easily find themselves flashing through the neighborhood at some huge relative velocity.
+Xiù had every reason to be nervous. Dropping out of warp wasn’t as simple as just turning the engine off and letting the field collapse---the ship’s inertial frame of reference had to be matched with that of the destination system as well, or else they could easily find themselves flashing through the neighborhood at some huge relative velocity.
 
 All of that was handled by the computers, but the pilot still needed to be on the alert.
 
@@ -1055,7 +1055,7 @@ His cabin was a mess. It was always a mess. His inexpertly hand-made clothing wa
 
 Well, it hadn’t been changed *recently*. The room smelled of him, of Cqcq cigars, and of the still in the corner that was working its way through another sour mash of grains and *Rwhk* fruit. The resulting beverage, which he called *’Bootlegger’*, was potent and surprisingly tasty thanks to years spent perfecting both the recipe and the still.
 
-Or maybe his taste buds had a bad case of Stockholm syndrome. Didn’t really matter___the stuff not only got him drunk, but he enjoyed drinking it which was really all you could ask of booze. Taste good, pickle the ol’ grey matter. Check, check.
+Or maybe his taste buds had a bad case of Stockholm syndrome. Didn’t really matter---the stuff not only got him drunk, but he enjoyed drinking it which was really all you could ask of booze. Taste good, pickle the ol’ grey matter. Check, check.
 
 Oh, and not make you go blind. Check.
 
@@ -1063,7 +1063,7 @@ He grabbed a small glass of the stuff and sat on his bed to watch… something. 
 
 Honestly, the fact that the protagonists in Vzk’tk romantic comedies were generally smarter than their human counterparts was mildly upsetting, but Dog loved those movies as a result. They were the least predictable by far.
 
-He was playing paddle-ball and watching the hapless Trkkvk climb out of the pond she’d just fallen into moments before handsome and suave Krtrktt came around the corner (or so he guessed___Vzk’tk standards of suavitude and handsominity were… different) when he was called to the bridge.
+He was playing paddle-ball and watching the hapless Trkkvk climb out of the pond she’d just fallen into moments before handsome and suave Krtrktt came around the corner (or so he guessed---Vzk’tk standards of suavitude and handsominity were… different) when he was called to the bridge.
 
 He kept playing paddle-ball on his way up there. Why stop? A reputation for oddness was pretty well automatic for a human living among aliens anyway, so he played up to it whenever he could.
 
@@ -1117,7 +1117,7 @@ RE: SSgt John **Burgess**
 
 Sergeant Burgess dutifully attended today for his routine annual assessment.
 
-I have never quite got to the bottom of his reluctance in this matter, because he opens up readily and engagingly when actually in the session___indeed, he can scarcely be induced to pause long enough to be asked a question___and he has shown repeatedly that he is an insightful and highly intelligent man.
+I have never quite got to the bottom of his reluctance in this matter, because he opens up readily and engagingly when actually in the session---indeed, he can scarcely be induced to pause long enough to be asked a question---and he has shown repeatedly that he is an insightful and highly intelligent man.
 
 Reading between the lines, however, I suspect that he second-guesses his career decisions more than the other members of his team. He readily admits that he joined the SOR in support of Sergeant Arés, and may not have done so if not for his friend’s example. He also expresses self-doubt about his physical capability; in his words, “[he] wonders if maybe Firth would be a better Protector, and [himself] a better Aggressor.”
 
@@ -1249,7 +1249,7 @@ Tlorcral stepped back respectfully, and Dog reminded himself to tone down the an
 
 “*No shit?*” Dog laughed. “Well damn, Brother. Lemme grab my pants…”
 
-He jumped into the dark green canvas hand-stitched pants with the fewest stains and bounced to drag them up (putting his pants on one leg at a time like everyone else? Fuck that.) then grabbed his jacket___the real leather one, the one he’d worn on the day of his abduction that freaked ETs the fuck out because it was made of *skin*___and strapped on his sandals. Shoes and boots were way too difficult to make.
+He jumped into the dark green canvas hand-stitched pants with the fewest stains and bounced to drag them up (putting his pants on one leg at a time like everyone else? Fuck that.) then grabbed his jacket---the real leather one, the one he’d worn on the day of his abduction that freaked ETs the fuck out because it was made of *skin*---and strapped on his sandals. Shoes and boots were way too difficult to make.
 
 Then he stormed down the ramp and off the ship for the first time in months. ETs didn’t react well to humans. He liked to keep a low profile, usually.
 
@@ -1271,7 +1271,7 @@ Dog found his voice. “...Holy shit, brother! Where’d you come from?”
 
 The man extended a hand. “Julian.”
 
-Dog shook hands___*really* shook hands, revelling in the fact that he could actually grip and apply some strength___and grinned. “Everybody calls me Dog, brother.”
+Dog shook hands---*really* shook hands, revelling in the fact that he could actually grip and apply some strength---and grinned. “Everybody calls me Dog, brother.”
 
 “You’re a long way from home, Dog.”
 
@@ -1297,11 +1297,11 @@ Xiù was staring at something in the distance and jumped at the mention of her n
 
 She nodded toward a troop of security officers who were pushing through the crowd, and if their serious equipment was anything to go by they were armed for deathworlder. Dog knew Domain body language, and the Rrrrtk at the front was *pissed*.
 
-It___she___drew herself up to her full and haughty height as she stopped in front of them.
+It---she---drew herself up to her full and haughty height as she stopped in front of them.
 
 “There are two scenarios that no chief of security *ever* wants to hear,” she began in a kind of icy conversational way. “The first would be that we are under attack by Hunters, and the second would be that there are *humans* making a fuss in a station’s public area. Not least because the latter can so easily lead to the former. Imagine my dismay.”
 
-Xiù shrank, Julian scratched the back of his neck, but Dog and Allison turned out to have something in common___they both bristled.
+Xiù shrank, Julian scratched the back of his neck, but Dog and Allison turned out to have something in common---they both bristled.
 
 “That son of a bitch over there is selling contraband,” Allison asserted.
 
@@ -1584,7 +1584,7 @@ On the military side, the surprise delivery of a space station was just the tip 
 
 But somehow, in the middle of all that, Kovač woke up to find a rose on her desk laid across a small sheet of thick magnolia paper that had been folded once and labeled “Marty”. She had to blink at it for several seconds before she remembered the date.
 
-It wasn’t a long letter and it wasn’t signed, but it didn’t need to be___she recognized the blocky, amateurish handwriting immediately.
+It wasn’t a long letter and it wasn’t signed, but it didn’t need to be---she recognized the blocky, amateurish handwriting immediately.
 
 *”The silliest woman can manage a clever man; but it needs a very clever woman to manage a fool.”-Rudyard Kipling*
 
@@ -1644,6 +1644,7 @@ Clearly, The Entity needed more information. Fortunately, it seemed to have an o
 One of the Abrogators was offline.
 
 ___
+
 **Date Point: 11y2m2w3d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, the Far Reaches**
 
@@ -1655,27 +1656,39 @@ One of the most important lessons any career NCO ever learned was how to spot a 
 
 Now was the time. Their new LT was arriving and it was the ripest moment for a good ol’ fashioned “gut check” of him and the rest of the Cherries. Rebar had no doubt they were all good men, and all had the right kind of combat experience. But were they good enough for *his* troops?
 Only Rebar would be the judge of that.
+
 Fortunately, hatching his plan presented an opportunity to teach the HEAT's favorite young bull-puppy a thing or two about the way the world *really* worked.
 As always, ‘Horse and Righteous had the gravity field turned all the way up and that always demanded caution for any man wanting to enter it. Rebar was one of the few who had 'Horse's blessing to just cross field boundaries at his own discretion: Most everybody else had to make sure he had an eye on them.
-He plodded over to ‘Horse who was doing an absurd count of strict military presses with no more visible strain than any other man might show just by raising his arms.
-“You almost done, ‘Horse?”
+
+He plodded over to ‘Horse who was doing an absurd count of strict military presses with no more visible strain than any other man might show just by raising his arms. “You almost done, ‘Horse?”
+
 Arés grunted in acknowledgement and casually racked the creaking, overloaded barbell with a thunderous clang. It was *his* specially-built bar, with *his* heavy competition plates, in *his* high-gravity cage. He owned them purely by how little the epic weight seemed to challenge him; not even the other two Slabs of the Beef Trio were anywhere near as strong.
+
 “I’m pretty much as pumped up as I’m gonna get, boss. What am I supposed to do again?” He switched to a quick set of rapid, deep-gravity accelerated calisthenics while he spoke.
+
 “Be the big stinky friendly überalpha broseph you’re meant to be,” Rebar teased affectionately.
 
 Warhorse grinned his best mischief grin. “I can do that!” He high-kicked with an unmatched speed that utterly belied his size, bounced around in the deep gravity as light as a feather, then shadow boxed so fast that Rebar couldn’t even *see* his fists moving. They just slammed into imaginary foes with an audible thud of displaced air.
 “Good. What about you, Righteous? Ready?”
+
 Firth grunted in reply and racked his not-much-lighter bar, then stalked over to his bag to towel off and change. “Yup. Lemme clean up a bit.”
 
 “Good. The rest of us’ll get our gym time in. Right now, conveniently.”
+
 The whole room to a man grinned at each other, and went to pick their *favorite* and showiest activity. Group mischief was always the best shenanigans, and this one was so subtle the officers would never, ever notice. Rebar couldn’t help but be a little pleased with himself.
+
 Adam’s watch chirped and he pulled a face at it. “I gotta go right now if I’mma make it.” ‘He reached for his CamelBak and shrugged it on, then stretched quickly in prep for a run.
+
 Rebar couldn't help but feel skeptical. “...That’s miles away!”
 
 “I can make it in time. Plus it’ll be fun!” And with that, ‘Horse bounced outside and charged away at a dead sprint, intent on getting there first. The big man was practically a *blur.*
+
 “Oh no he don’t—!” Righteous quickly slipped on a tank top, and ran to the truck.
+
 "Any bets on which one makes it there first?" Blaczynski asked.
+
 Rebar grinned and shook his head. "Nah."
+
 He picked his activity and joined in the fun.
 ___
 **Date Point: 11y2m2w3d AV**    
@@ -1808,34 +1821,61 @@ ___
 ***Sergeant First Class Harry Vandenberg***
 
 “That was fun! Did you see their faces when Firth stomped in?”
+
 He called the Lads into the dayroom for a quick mission hotwash while the Cherries were off in-processing. No time for a movie or a puppy pile, they still had training to do.
 Titan, as always, found some new and creative monkey-position to use. He grinned while hanging backwards off the couch, “Bro, they looked like they’d been sentenced to death!”
 Sikes smirked, “I liked how the Parata guy couldn’t stop looking at the weights.”
+
 “Not surprising, they’re still babies on the Crude" 'Base suggested. "Man, they ain’t even worn the Mass yet!”
+
 “We did that for safety reasons,” intoned Rebar. And it was true, they wanted to handle the suit training directly. No reason for the Cherries to make the same mistakes. “I want ‘Horse and especially ‘Base to keep an eye on ‘em when we start that. Kovač, too.”
+
 Titan nodded upside-down. “Yeah. Takes a while. They suit conditioned at all?”
+
 “Only fam time.” ‘Base grumbled. “Gotta start ‘em out at the lightest weight and pressure.”
+
 “Can’t we kick it up a bit? It took us a long time to come up to weight…”
+
 ‘Horse shook his head. “Bro, don’t you remember what it was like? And how hard would we push? *My* suit squeezes hard enough to straight kill ‘em. Messily, too.”
+
 Rebar chimed in, “Oh look, ‘Horse with the humble-brag!”
+
 ‘Horse smiled his big, toothy grin. “It’s true though! And you wouldn’t last long either! Anyway, was I any good?” He gave a thoughtful look, “I *did* lay it on pretty thick, ‘specially with the thumping around part. And, uh, maybe the flexing, too.”
+
 The Lads snickered, and Firth rumbled in an amused tone, “‘Ya did fine! I was worried y’were maybe a bit too cheesy ‘but LT couldn’t stop staring at ‘yer chest, so I guess it worked.”
+
 ‘Horse grumbled happily in response and bounced in place with floor-shaking happy force. Somehow, even growing to be about the heaviest dude the human race had ever produced hadn't managed to drive that habit out of him.
+
 Rebar snorted. “Well are we surprised? He does have a *fantastic* rack.”
+
 That much was true; it was hard to say what stood out most on the man since he was heroically big *everywhere,* but his chest was prominent even in proportion to the rest of him.
+
 The Lads all cheered loudly and ‘Horse retorted. “Pff, all talk and no action.” He bounced his chest to everyone’s rolling-eye humor, “When you ever gonna make a move? I’ve got needs!”
+
 Rebar shot him his best playful grin, the one that had sent a lot of guys running away in search of a less challenging conquest. “Tempting, but I don’t fancy a perforated intestine, that ain't my kink. But I’ll tell you what, if I ever feel like impaling myself on a softball bat and maybe being crushed to death for a bonus, you’ll be the first dude I hit up. Deal?”
+
 The jeers grew louder as ‘Horse went red-faced and hurriedly changed the subject.
+
 “Anyway,” he cleared his throat, “I gotta say, the LT seemed like he had his shit together. Righteous and I were pretty ridiculous and he kept his cool. Good situational awareness, too. He watched *everyone* and noticed Righteous before I thumped up and said hi.”
+
 Most of the heads in the room nodded in agreement. Righteous wasn’t convinced. “Maybe. Seemed a little too scared t’me. And too deferential, he shouldn’t a’taken any shit from me. I mean, I get it considerin’ it all…I’mma hold off an’ see.”
+
 Rebar considered that. Firth had a good sense of people even if he was a bit pessimistic, and only a fool discounted his opinion. “You on the fence, then?”
+
 “I dunno.” Righteous shrugged massively. “It ain’t bad, he seems okay. I jus’ don’t think he knocked it outta the park. I wanna see ‘em *really* stressed before I’m good, y’know?”
+
 *Fair enough.* “What about you, ‘Horse? You seemed to like him.”
+
 Adam grinned hugely, “I like everybody though! Also, *dude.* He took one of *my* handshakes and barely winced!”
+
 Snapfire whistled in the corner. “That...you’ve put me on my knees with your grip.”
+
 Adam nodded admiringly, “Yup! LT’s a tough motherfucker!”
+
 Rebar grinned, and so did Righteous. That all by itself was a good sign. Titan summed it up nicely, “Honestly? I think…I think they’ll be okay.”
+
 Everyone nodded that time. They’d need to prove themselves, of course, but first impressions were very important. And as far as Rebar was concerned, anyone who could handle ‘Horse at his biggest and Righteous at his baddest…
+
 They were fine by him.
 ___
 **Date Point: March 11y3m3w AV**    
@@ -1964,7 +2004,7 @@ Powell chuffed, “It won’t go wrong, Sir. We’ll make it work.”
 
 “See to it.” Knight nodded politely, then left.
 
-Powell continued to watch as Warhorse *encouraged* the cherries to perform and Baseball did likewise to the Whitecrest. Neither group seemed ready to give in, and that was encouraging. The first phase was all about conditioning and “un-learning” bad habits and notions, and both of his men were absolute *experts* at that kind of training. And with the similar psychology between human and Gaoian, and the obvious quality they could recruit?
+Powell continued to watch as Warhorse *encouraged* the cherries to perform and Baseball did likewise to the Whitecrests. Neither group seemed ready to give in, and that was encouraging. The first phase was all about conditioning and “un-learning” bad habits and notions, and both of his men were absolute *experts* at that kind of training. And with the similar psychology between human and Gaoian, and the obvious quality they could recruit?
 
 Powell suddenly felt much more optimistic.
 
@@ -2007,7 +2047,7 @@ Clambering all over its armored hide had finally persuaded them that it was… i
 
 Vemet had broken six stone axes trying to get past the scales on its back, and had sliced his hand quite badly on the sixth attempt. He’d spent most of that time grumping at Vemik about not joining in.
 
-Vemik, however, had been doing what he did best___he had *thought*. Not about the sky, this time, but about the object in front of him.
+Vemik, however, had been doing what he did best---he had *thought*. Not about the sky, this time, but about the object in front of him.
 
 The thing looked like a creature. His evaluation from its tracks that it had much in common with a Skithral had been not far off the mark… but closer inspection melted away that impression.
 
@@ -2027,11 +2067,11 @@ Then a piece of hardened skin had slid aside.
 
 The third step had been the most tricky. The thing he found looked like a man was meant to grip it, but the space around it was too narrow for fingers. He had spent some time threading werne-gut cord through the spaces instead to create something he *could* grip.
 
-And then he had pulled, and things had slid until they stopped. Then he had twisted, and things had twisted until they stopped. Finally, he had needed to push until his handhold was flush with the surface again… and the monster’s chest had split open downwards and sideways, exposing its innards. Now Vemik knew beyond doubt that he was dealing with a tool of some sort___the idea that a *beast* might just spill its guts if you pressed and poked it in the right place was… insane.
+And then he had pulled, and things had slid until they stopped. Then he had twisted, and things had twisted until they stopped. Finally, he had needed to push until his handhold was flush with the surface again… and the monster’s chest had split open downwards and sideways, exposing its innards. Now Vemik knew beyond doubt that he was dealing with a tool of some sort---the idea that a *beast* might just spill its guts if you pressed and poked it in the right place was… insane.
 
 But on inspecting the interior he had grown less certain again.
 
-Everything *looked* strangely organic. There were coils and tubes and fluids just as one might find in the chest of a dead Werne. Something was *pulsing*, or at least some of the thicker arteries___strange and transparent and dark blue___were twitching is if the thing had a pulse.
+Everything *looked* strangely organic. There were coils and tubes and fluids just as one might find in the chest of a dead Werne. Something was *pulsing*, or at least some of the thicker arteries---strange and transparent and dark blue---were twitching is if the thing had a pulse.
 
 But… a pulse was a heart, and a heart was *life*. Remove the heart, remove the life. Whether or not the thing was a tool or beast, whether it was asleep, dormant or merely unattended was irrelevant. Remove the heart…
 
@@ -2205,7 +2245,7 @@ ___
 
 ***Kirk***
 
-The ‘Tolkien geeks’ faction had finally won the quiet but strangely passionate war to name the system. Kirk could see why___He’d read *’The Hobbit’* after the decision was made, and been quite taken with the description of the dwarven city under the Lonely Mountain. Naming the system for a fictional isolated bastion of unlimited wealth was genuinely apt.
+The ‘Tolkien geeks’ faction had finally won the quiet but strangely passionate war to name the system. Kirk could see why---He’d read *’The Hobbit’* after the decision was made, and been quite taken with the description of the dwarven city under the Lonely Mountain. Naming the system for a fictional isolated bastion of unlimited wealth was genuinely apt.
 
 Instead of endless rivers of gold, however, *this* Erebor was producing a steady progression of increasingly sophisticated automated colonization probes.
 
@@ -2213,7 +2253,7 @@ Instead of endless rivers of gold, however, *this* Erebor was producing a steady
 
 The facility’s staff had expanded, too. NASA and ESA had been invited to send experts as the increasingly complex project hit ever stranger obstacles
 
-Lewis, to his delight, had been quietly allowed to sidle away to the edge of the project where he now served as its conscience, ideas engine and general source of raw creative energy. It was a role that suited him perfectly___the maximum of involvement coupled with the minimum of actual responsibility. He was an advisor to the future of the human race.
+Lewis, to his delight, had been quietly allowed to sidle away to the edge of the project where he now served as its conscience, ideas engine and general source of raw creative energy. It was a role that suited him perfectly---the maximum of involvement coupled with the minimum of actual responsibility. He was an advisor to the future of the human race.
 
 “I got a good feeling about this one,” he confided, as the latest version of the Colony-In-A-Can boosted out of Mrwrki’s launch facility.
 
@@ -2483,7 +2523,7 @@ She was basking and happy when Adam appeared with two trays, one much more heavi
 
 Marty rolled her eyes privately, then attacked her breakfast with vigor. She had an active night on an empty stomach to recover from.
 
-Somehow he managed to finish before she did despite having a much larger pile of food to get through, and he went on a supply run to grab coffee as she polished off the meal. He’d judged it pretty damn well in fact___when she put her fork down she felt replete, but not stuffed.
+Somehow he managed to finish before she did despite having a much larger pile of food to get through, and he went on a supply run to grab coffee as she polished off the meal. He’d judged it pretty damn well in fact---when she put her fork down she felt replete, but not stuffed.
 
 “So,” she said as he sat down.
 
@@ -2513,7 +2553,7 @@ Marty kissed his cheek “We’ll take it a step at a time. And trust me, I’ll
 
 He nodded happily then snuggled close, kissed her below her ear and whispered. “I’m always ready to learn more…”
 
-He was incorrigible, and *so* easy to read. And a quick study, too___she *loved* that spot. But Marty was only human. “Not now, Romeo. I need some rest. And a hot shower.”
+He was incorrigible, and *so* easy to read. And a quick study, too---she *loved* that spot. But Marty was only human. “Not now, Romeo. I need some rest. And a hot shower.”
 
 He chuckled ruefully and gathered the trays. “Aww. Well, get showered. I’ll clean up and-”
 
@@ -2678,11 +2718,11 @@ Costello thought about it. “That… that an Enlisted man is driven to solve th
 
 Costello saw what he was driving at. “And they aren’t going to just assume I have any of that. If I intend to lead them, then they need to *see* it.”
 
-Powell raised a finger that was both congratulatory and tutorly. “And that’s a process you must begin as early as you can. That’s why you’ve been in the barracks wi’ them so far___they needed to witness you going through what they do so they can see that spirit on display. Hell, that’s a big part of why I play Gravball wi’ them still.”
+Powell raised a finger that was both congratulatory and tutorly. “And that’s a process you must begin as early as you can. That’s why you’ve been in the barracks wi’ them so far---they needed to witness you going through what they do so they can see that spirit on display. Hell, that’s a big part of why I play Gravball wi’ them still.”
 
 Costello nodded. He hadn’t played Gravball yet, but he had watched a game alongside Parata, Butler and Newman: It made every other full-contact sport he’d ever seen look as tame as Quoits, and Powell had been in the thick of it deploying his elbows, knees and forehead to great effect. He’d even stood up and sunk a goal after surviving one of Firth’s apocalyptic tackles. The “Old Man” could play caveman with the best of them, even when it left him limping, stunned and bloody.
 
-“Now the *reason* you need their respect is that you need their trust, and I mean their *absolute* trust.” Powell continued. “It is vital above all else for them to know___not think, not believe: ***know***___that you will make the right call every time, no matter what’s going on or what they might be doing. *That* is what they are looking for: They need you to be the sort of man who, if you order them to go *die*, then they will have no doubt whatsoever that that is How It Must Be.”
+“Now the *reason* you need their respect is that you need their trust, and I mean their *absolute* trust.” Powell continued. “It is vital above all else for them to know---not think, not believe: ***know***---that you will make the right call every time, no matter what’s going on or what they might be doing. *That* is what they are looking for: They need you to be the sort of man who, if you order them to go *die*, then they will have no doubt whatsoever that that is How It Must Be.”
 
 He spoke the last four words with such gravity that Costello mentally wrote them down with capital letters.
 
@@ -2726,7 +2766,7 @@ A useful analogy for the forces they were playing with politically, really.
 
 “I fear the Hierarchy influence in the Confederacy extends to all levels of government,” Vedreg sighed. “Acquiring system force fields for the CIC probes via official and legal means will not be possible. I have exhausted all options.”
 
-“*Alas,*” Kirk settled into his resting posture. He wasn’t upset___the news was unsurprising___but it did still pose a problem. “What about unofficial and illegal means?”
+“*Alas,*” Kirk settled into his resting posture. He wasn’t upset---the news was unsurprising---but it did still pose a problem. “What about unofficial and illegal means?”
 
 Vedreg did not reply at first. He set his gardening tools down safely in their bath of sanitizing agent and washed his hands as slow pulses of teal swept down him from nose to stern.
 
@@ -2920,7 +2960,7 @@ The senior Mother of the Folctha commune had returned to Gao, and taken with her
 
 A Gaoian’s claws were knife-sharp, and Gabriel simply could not and *would* not permit a double standard to exist. Anything that would get a human arrested, would also get a Gaoian arrested. It was a fair and simple system.
 
-Sadly, it seemed that the old problems of ghettoization and cultural isolation were universal. The males still scrapped and maimed one another, and the Gaoian community___including the victims, usually___clammed up whenever CCS came looking for somebody to prosecute. The females *had* been an effective tool in breaking that deadlock...
+Sadly, it seemed that the old problems of ghettoization and cultural isolation were universal. The males still scrapped and maimed one another, and the Gaoian community---including the victims, usually---clammed up whenever CCS came looking for somebody to prosecute. The females *had* been an effective tool in breaking that deadlock...
 
 Unfortunately, Mother Seemya’s successor had either not got the memo, or declined to care.
 
@@ -2958,7 +2998,7 @@ A thought struck him, an opportunity to gather some ammunition.
 
 Myun was reliably both guileless and perceptive. She growled under her breath. “She’s one of Mother Suri‘s allies,” she grumbled. “Mama Yulna probably sent her here to smooth their fur and get her out of the way. She’s… *wary* of humans.”
 
-That matched perfectly with the intelligence report on their new senior Mother. In DEEP RELIC terms she was a bright, solid red___every one of Gabe’s intelligence advisors agreed that Yanna was almost certainly a Hierarchy agent, but they didn’t actually have definitive proof. The same was true of Suri, the defeated contender to the rank of Mother-Supreme that was now held by Yulna.
+That matched perfectly with the intelligence report on their new senior Mother. In DEEP RELIC terms she was a bright, solid red---every one of Gabe’s intelligence advisors agreed that Yanna was almost certainly a Hierarchy agent, but they didn’t actually have definitive proof. The same was true of Suri, the defeated contender to the rank of Mother-Supreme that was now held by Yulna.
 
 That brief summary covered a mess of genteel, barbed infighting that had never actually erupted into bloodshed but had been vicious and bitter nonetheless.
 
@@ -3027,7 +3067,7 @@ Academic knowledge was *interesting* to be sure, but on the subject of the Hiera
 
 Their records were oddly silent on the subject too, even among themselves. It was almost as if their origins simply didn’t interest them. Try as it might, the Entity had no clear route to the historical truth. Where had they evolved? Why was their behavior so unabashedly parasitic? When had they first made the decision to eradicate another species to save themselves, and for what reason? And even if it answered those questions, what useful insights might ensue?
 
-There *were* clues___they called the Hunters *’discarded’* for instance___but each tantalizing morsel of data seemed to be alone with aeons of silence for company. Had the Hunters and Igraens once been as intertwined as body and soul, or was the discarding more metaphorical? *When* had they been discarded?
+There *were* clues---they called the Hunters *’discarded’* for instance---but each tantalizing morsel of data seemed to be alone with aeons of silence for company. Had the Hunters and Igraens once been as intertwined as body and soul, or was the discarding more metaphorical? *When* had they been discarded?
 
 This was a Problem: The AvaRíos-mindstate had recollections of an aphorism about “knowing thine enemy”, but the enemy scarcely seemed to know itself. How were the humans supposed to form a coherent strategy in the face of that? How was the *Entity*?
 
@@ -3056,9 +3096,9 @@ For Adam’s sake, she’d pushed the pace. Crossed the river via the Francis Cr
 
 The direct routes and shortcuts available on foot ended up being a much faster way to get to the hospital than calling a cab would have been anyway.
 
-She arrived in the ER___or the A&E department, as the signs called it___only a minute or two behind Adam, and leaned against the wall to recover for three deep breaths.
+She arrived in the ER---or the A&E department, as the signs called it---only a minute or two behind Adam, and leaned against the wall to recover for three deep breaths.
 
-Adam was unmeaningly terrorizing a nurse with his urgent questions, and Marty rescued the poor woman by simply laying her hand on his upper arm___his skin was actually hot to the touch. He gave her a desperate look, hugged her, then stumbled off into the corner to slump against the wall and sit down on the floor.
+Adam was unmeaningly terrorizing a nurse with his urgent questions, and Marty rescued the poor woman by simply laying her hand on his upper arm---his skin was actually hot to the touch. He gave her a desperate look, hugged her, then stumbled off into the corner to slump against the wall and sit down on the floor.
 
 “...wouldn’t he, er, prefer the, er, the chair?” the nurse asked.
 
@@ -3217,7 +3257,7 @@ RE: TSgt Scott **Blaczynski**
 
 Sergeant Blaczynski is a perennially entertaining case whom I saw today for his annual assessment, which he eagerly broke the ice on by showing me his new electronic tattoo. One marvels that he was able to find room.
 
-Blaczynski hails from a problematic family background, and believes that if not for his military career he would undoubtedly have been incarcerated or killed years ago. He recounts that Sergeant Firth recently talked him out of attempting to recontact his father, an exercise he has attempted several times over the years only for it to “always depress the shit outta [him]”.
+Blaczynski hails from a problematic family background, and believes that if not for his military career he would undoubtedly have been incarcerated or killed years ago. He recounts that Sergeant Firth recently talked him out of attempting to recontact his father, an exercise he has attempted several times over the years only for it to “always depress the shit outta [him]."
 
 Given that Mr. Blaczynski Sr. is serving a life sentence for first degree murder, I consider Sergeant Firth’s intervention to have been a wise one.
 
@@ -3255,7 +3295,7 @@ Leaving that part of the planet to survey a site on a different continent had be
 
 That was the survey pattern: two weeks here, two weeks there, two weeks *there*, until they had thoroughly surveyed eight different sites on the planet’s surface. Hence their relocation to volcanic grassland in the tropics.
 
-Plenty of solid rock, that was the key. In theory, *Misfit* couldn’t get stuck___even if her feet were absolutely wedged tight in fissures or whatever, she could still jump back to Cimbrean___but Xiù much preferred to land on solid rock if she could, and preferably on high ground with a little shelter. She could be frustratingly picky about her landing sites, actually, but Julian didn’t seem to mind and Allison knew better than to argue. Her own eagerness to be down and exploring didn’t need to get in the way.
+Plenty of solid rock, that was the key. In theory, *Misfit* couldn’t get stuck---even if her feet were absolutely wedged tight in fissures or whatever, she could still jump back to Cimbrean---but Xiù much preferred to land on solid rock if she could, and preferably on high ground with a little shelter. She could be frustratingly picky about her landing sites, actually, but Julian didn’t seem to mind and Allison knew better than to argue. Her own eagerness to be down and exploring didn’t need to get in the way.
 
 *“There’s another one of those huge termite mound things…”* Julian said during a low sweep while the high-detail ground radar looked for an appropriate spot. Allison called up what he was seeing on one of her side monitors.
 
@@ -3323,7 +3363,7 @@ They briskly jogged the fifty meters or so to the shoreline with its dense folia
 
 Allison had learned a few of his tricks, but he was still damn near impossible to follow. She knew where he was, or at least *thought* she knew where he was, but even looking right at the path she thought he’d taken, she saw hardly anything. Even the sway of the bushes might only be due to the breeze.
 
-She hung back for a few seconds to give him a headstart, then followed. It was a system that played to their strengths___he scouted ahead and stopped her from blundering into trouble, and if he got in trouble she was in a position to cover him as he fell back. They’d rehearsed it a lot with Jason Hammond on his obstacle course back in Omaha.
+She hung back for a few seconds to give him a headstart, then followed. It was a system that played to their strengths---he scouted ahead and stopped her from blundering into trouble, and if he got in trouble she was in a position to cover him as he fell back. They’d rehearsed it a lot with Jason Hammond on his obstacle course back in Omaha.
 
 Somehow, when she’d envisioned using it, Allison had imaged a forest crawling with Hunters, or Hierarchy biodrones.
 
@@ -3424,6 +3464,7 @@ Gabe bowed his head in a happier form of defeat. “...Okay. I don’t know what
 “I promise, *Mija*.”
 
 ___
+
 **Date Point: 11y7m3w AV**    
 **BGEV-11** ***’Misfit’,*** **Planet Lucent, Near 3Kpc Arm**
 
@@ -3491,7 +3532,7 @@ They kissed, then spared some reassuring attention for Xiù.
 
 First, launch a beacon satellite. That made perfect sense, since they didn’t want to spend a couple of months flying all the way back out here after resupply. The little launch tube was in the back of engineering, and made a ringing sound as it drove the minisatellite out into space on a puff of compressed air, injecting it onto an orbit slightly tangential to *Misfit*’s own escape orbit. She double-checked its course, saw that it would drift out of the system in about ten years’ time, and moved on to the actual recall.
 
-Next, charge the jump engine. That was already done___Allison kept it permanently charged. Then select the desired beacon from the list. Again, easy: They had only launched one so far. Hit “recall”, hit “Confirm”...
+Next, charge the jump engine. That was already done---Allison kept it permanently charged. Then select the desired beacon from the list. Again, easy: They had only launched one so far. Hit “recall”, hit “Confirm”...
 
 The stars outside changed. That was it, that was the whole event. Several thousand lightyears in less than a second and the only visible consequence at first was a thousand different constellations. If she hadn’t been able to see those stars, she never would have noticed the difference.
 
@@ -3583,7 +3624,7 @@ Objectively and subjectively therefore his mood is appropriate and even positive
 
 -Lt. K Mears
 Counsellor, HMS *Sharman*
-___
+---
 **Date Point: August 11y8m AV**    
 **Allied Trade Station 1** ***’Armstrong’,*** **Cimbrean-5, The Far Reaches**
 
@@ -3747,6 +3788,7 @@ Clara nodded. “Oh hell yeah!” she enthused. “The *glimmerbugs!* I… tell 
 
 He told them all about it.
 ___
+
 **Date Point: August 11y8m3w AV**    
 **Huntsville, Alabama, USA, Earth**
 
@@ -3820,7 +3862,7 @@ Walsh grinned a trollish grin that was mirrored on Hoeff. The SEAL aimed a thumb
 
 “Heh. Well, we’re already checked in,” rumbled Walsh, “I wanna drop my bags and go get a workout in.”
 
-Coombes rolled his eyes but acquiesced, and Tiny wandered away at a rolling stroll with his bag over his shoulder. Coombes shouldered his own bag and followed him. Their new address wasn’t hard to find___it was the last and smallest at the end of the row___and Hoeff’s ‘good room’ turned out to be pretty much indistinguishable from the others except that it was closest to the kitchen and farthest from the latrine.
+Coombes rolled his eyes but acquiesced, and Tiny wandered away at a rolling stroll with his bag over his shoulder. Coombes shouldered his own bag and followed him. Their new address wasn’t hard to find---it was the last and smallest at the end of the row---and Hoeff’s ‘good room’ turned out to be pretty much indistinguishable from the others except that it was closest to the kitchen and farthest from the latrine.
 
 He waited for Walsh to drop his bags and change into his PT gear, then took Hoeff aside as soon as they could talk without being overheard. “Hey, Chief Petty Officer. You mind if I call you Hoeff?”
 
@@ -3926,7 +3968,7 @@ Darcy nodded understanding.
 
 “I’m not sure Gaoians are as vulnerable to that, but…”
 
-A ‘honeypot’ was an *old*___arguably the oldest___trick of tradecraft, and hinged on some primordial truths about the relationship between men and women. Men after all predictably *wanted* to be seduced, a fact that untold millions of women had used to their advantage throughout history.
+A ‘honeypot’ was an *old*---arguably the oldest---trick of tradecraft, and hinged on some primordial truths about the relationship between men and women. Men after all predictably *wanted* to be seduced, a fact that untold millions of women had used to their advantage throughout history.
 
 “I understand.” Darcy sipped the coffee again. “But honestly, the collection deck is mostly unchanged. We’re interested in Gaoian culture, behavior, and their politics, and the spread of Hierarchy influence. Personally though, I’m most interested in the Females. They’re arguably the most important power block amongst the Gao, which makes our lack of visibility into them… frustrating.” She sipped her coffee.
 
@@ -3971,7 +4013,7 @@ It had a food court and shopping mall. It had a skinny young blonde lady in bagg
 
 Astonishing to think that the station had still been under construction only six months ago.
 
-It had not, however, been constructed to accommodate men like Major Powell. Although Powell had only recently stopped being the smallest man in the HEAT unit___that dubious honor for the time being now went to young Lieutenant Costello___he was still, by anybody else’s standards, enormous.
+It had not, however, been constructed to accommodate men like Major Powell. Although Powell had only recently stopped being the smallest man in the HEAT unit---that dubious honor for the time being now went to young Lieutenant Costello---he was still, by anybody else’s standards, enormous.
 
 Which meant that people noticed him, and got out of his way. The poor chap was the center of a mobile, permanent deferential circle of people giving him some respectful distance. Aliens in particular seemed to recoil from him the moment they caught wind of him, like deer spooking with a shift in the wind.
 
@@ -3993,11 +4035,11 @@ Now, she stood and shook his hand, then Powell’s. Somehow, Powell managed to a
 
 She handed them both the summary documents. “Say hello to the Weaver-class dropship.”
 
-“You took more than *’a few notes’* I reckon…” Powell observed. Knight nodded___the Weaver clearly owed many of its genes to *Misfit* and its Byron Group predecessors, though its other parent was unquestionably a Chinook. It had the same sort of pug-nosed profile, with four kinetic thrusters rather than rotors for lift.
+“You took more than *’a few notes’* I reckon…” Powell observed. Knight nodded---the Weaver clearly owed many of its genes to *Misfit* and its Byron Group predecessors, though its other parent was unquestionably a Chinook. It had the same sort of pug-nosed profile, with four kinetic thrusters rather than rotors for lift.
 
 “The bidder’s brief you provided led us to believe that any mission deploying via a Weaver would need to take a lot of equipment with them,” Adele said, ignoring the comment. “Which is why we went for something this size rather than a smaller transport. In theory though, the technology we developed for the Weaver would work quite happily in something the size of, say, a Blackhawk.”
 
-Knight caught Powell’s eye and gave him the subtlest of cues to do the talking for now. It wasn’t even an expression, really___both men had simply worked together long enough to read each other very well.
+Knight caught Powell’s eye and gave him the subtlest of cues to do the talking for now. It wasn’t even an expression, really---both men had simply worked together long enough to read each other very well.
 
 “The Weaver looks about the right size for the time being,” Powell said. “But the point of failure on previous candidates wasn’t size...”
 
@@ -4043,11 +4085,11 @@ Lewis knew Nadeau well enough by now to sense that the Lieutenant-Colonel was tr
 
 “Right...?” Lewis asked.
 
-Vedreg cleared his throat nervously again. “When you buy anything that is made by nanofactory, you buy… I suppose a file, or a code. I do not know exactly. The word in *Ugundravnu-vaguvnuragnaguvendrugun*___that is the language of my people___would be directly translated as *digital instance of an item*. When you manufacture the item you have purchased, you no longer have the digital version.”
+Vedreg cleared his throat nervously again. “When you buy anything that is made by nanofactory, you buy… I suppose a file, or a code. I do not know exactly. The word in *Ugundravnu-vaguvnuragnaguvendrugun*---that is the language of my people---would be directly translated as *digital instance of an item*. When you manufacture the item you have purchased, you no longer have the digital version.”
 
 “So all your stuff has got DRM?” Sergeant Lee asked. “We can break DRM.”
 
-“Which is what I was counting on,” Vedreg agreed. “My negotiations over this last year have revolved around persuading the individuals responsible for such things to release system fields onto the market so that we could acquire a digital instance for you to work with. I have failed___they remain unavailable.”
+“Which is what I was counting on,” Vedreg agreed. “My negotiations over this last year have revolved around persuading the individuals responsible for such things to release system fields onto the market so that we could acquire a digital instance for you to work with. I have failed---they remain unavailable.”
 
 “So what is your avenue?” Kirk asked
 
@@ -4061,7 +4103,7 @@ ___
 
 “Well. Now that we’re alone, I must say that was bloody impressive.”
 
-Powell smiled a rare and genuine smile. It was always a disarming sight___he was usually so stone-faced that one felt that a real smile might splinter his skull into a million pieces, but in fact they did nothing of the sort. They sort of ghosted onto his face and rested there where they reminded whoever saw them that the major was actually a very handsome man, under the permanent slight scowl.
+Powell smiled a rare and genuine smile. It was always a disarming sight---he was usually so stone-faced that one felt that a real smile might splinter his skull into a million pieces, but in fact they did nothing of the sort. They sort of ghosted onto his face and rested there where they reminded whoever saw them that the major was actually a very handsome man, under the permanent slight scowl.
 
 “Aye. Looked like a Chinook, felt like a Chinook but quieter, spaceworthy and can go FTL.” Powell nodded. “Bloody impressive indeed.”
 
