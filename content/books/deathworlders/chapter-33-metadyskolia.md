@@ -428,8 +428,7 @@ Julian nodded and chuckled. “Yes ma’am.”
 “Good boy.”
 
 He looked so much more comfortable.
-
----
+___
 
 **Date Point: November 10y11m2w AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
