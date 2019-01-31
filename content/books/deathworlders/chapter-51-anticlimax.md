@@ -2620,4 +2620,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* will continue in the next chapter.
+*The Deathworlders* will continue in chapter 52: "Autoimmune"
