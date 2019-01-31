@@ -83,7 +83,7 @@ Powell and Arés shared a lengthy eye contact with each other that seemed to enc
 
 “Oh lovely!” Nofl chirped. “My favourite customer! One of them, anyway… Where is he?”
 
-This time o’ the day?” Powell thought about it. “...the Doghouse, I expect.”
+"This time o’ the day?” Powell thought about it. “...the Doghouse, I expect.”
 
 “…Oh. Well. I shall have to mount an expedition, then! Before my colleagues arrive.”
 
@@ -1071,9 +1071,9 @@ ___
 
 ***Proximal***
 
-*<\despair>*
+*\<despair\>*
 
-Reviewing a life\—*honestly* reviewing a life---was not an easy task. Especially not when honesty compelled one to take a rough estimate of the body count.
+Reviewing a life—*honestly* reviewing a life---was not an easy task. Especially not when honesty compelled one to take a rough estimate of the body count.
 
 Proximal had never personally overseen a cleansing. He’d been *involved* ind dozens, always in support roles, administrative oversight, intelligence-gathering. He’d chosen his Cabal name quite deliberately: He was always *close* to the action. It had suited him well, over the millennia.
 
