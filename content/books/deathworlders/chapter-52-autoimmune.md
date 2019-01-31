@@ -1,6 +1,6 @@
 ---
 title: "Chapter 52: Autoimmune"
-date: 2018-12-30T12:30:00+00:00
+date: 2019-01-31T16:30:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
