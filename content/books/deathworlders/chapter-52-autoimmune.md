@@ -3002,7 +3002,7 @@ If you have enjoyed the story so far and want to support the author, you can do 
 
 * Buying some merchandise at http://teepublic.com/HamboneHFY
 
-* Dropping a one-off payment in the tip jar at http://paypal.me/HamboneHFY
+* Dropping a one-off payment in the tip jar at http://paypal.me/HamboneHFY or buy me a coffee at http://ko-fi.com/hambonehfy
 
 * Following me on social media via http://facebook.com/HamboneHFY/ or http://twitter.com/HamboneHFY
 
@@ -3040,6 +3040,8 @@ Anthony Youhas
 
 Chris Dye
 
+Chris Earl
+
 Daniel Morris
 
 Greg Tebbutt
@@ -3063,8 +3065,6 @@ Karthik Mohanarangan
 Katja
 
 Krit Barb
-
-mudkip201
 
 Nathaniel Phillips
 
@@ -3090,11 +3090,12 @@ Zachary Galicki
 
 ---
 
-**Fifty-six** ***Deathworlders:***
+As well as **Sixty** ***Deathworlders...***
 
 Austin Deschner
 Brian Berland
 Aaron Hescox
+aaron thomas
 Adam Beeman
 Adam Shields
 Alex Hargott
@@ -3114,6 +3115,7 @@ Daniel R.
 Dar
 Darryl Knight
 David Jamison
+Derek Price
 Devin Rousso
 Elizabeth Schartok
 ELLIOTT S RIDDLE
@@ -3134,6 +3136,7 @@ Matthew Cook
 Mel B.
 mihkel miks
 Mikee Elliott
+mudkip201
 Myke Harryson
 Nick Annunziata
 NightKhaos
@@ -3143,13 +3146,14 @@ Richard A Anstett
 Ryan Cadiz
 Saph
 Sintanan
+Starky Farrell
 Stephane Girardin
 theWorst
 Tyler Kelloway
 Woodsie13
 Zachary M Lunstrum
 
-As well as **Sixty-one** ***Friendly ETs,*** **75** ***Squishy Xenos,*** and **259** outstanding ***Dizi Rats.***
+**...Sixty-six** ***Friendly ETs,*** and **262** tasty little ***Dizi Rats.***
 ---
 
 “The Deathworlders” is © Philip Richard Johnson, AKA Hambone, Hambone3110 and HamboneHFY. Some rights are reserved: The copyright holder reserves all commercial rights and ownership of this intellectual property. Permission is given for other parties to share, redistribute and copy this work under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0International License.
