@@ -2176,7 +2176,7 @@ Tooko was eyeing the Grandfather with an expression Wilde couldn’t read.
 
 “Wildey, c’mon mate. Don’t keep us in the dark…”
 
-Wilde sat on the bed. He’d catch an earful from Tooko later for stinking it up, but right now the pilot was too busy running pre-flights.
+Wilde sighed and bent to undo his boots and change his socks. If he couldn't be clean, he could at least let his feet breathe.
 
 “Okay…” he said. “Let me explain.”
 
