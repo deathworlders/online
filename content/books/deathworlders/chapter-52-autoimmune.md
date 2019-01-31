@@ -737,9 +737,7 @@ Garl chittered again. “...I ever tell you how I like the way you think, My Cha
 
 Fiin flicked an ear, looking pleased. “I thought you’d approve. How quickly can you muster?”
 
-“Two days.”
-
-“Aright. I’m thinkin’ I should leave this ‘ta Matso.  And…uh, I have a request, My Champion.”
+“Two days. I’m thinkin’ I should leave this ‘ta Matso.  And…uh, I have a request, My Champion.”
 
 Fiin caught the sudden change in tone immediately. He cocked his head, “Name it.”
 
@@ -1385,7 +1383,7 @@ Adele had a feeling like it was going to be a long wait.
 ___
 
 **Date Point: 16y2m AV**    
-**Corti Directorate shipl** ***Empirical Razor,*** **Folctha, Cimbrean, the Far Reaches**
+**Corti Directorate ship** ***Empirical Razor,*** **Folctha, Cimbrean, the Far Reaches**
 
 ***Third Director Tran***
 
@@ -1575,7 +1573,7 @@ Tran decided that his dignity, and indeed that of his whole species, demanded a 
 
 “I’ll take ‘yer word of honor on all o’ that,” Daar rumbled neutrally. “As ‘fer what we’re gonna do...well, we’ll see. An’ on that note,” He looked toward his aide, and seemingly communicated with him solely through ear-flicking. “I think I better get goin.’”
 
-“We’ll keep you informed!” Nofly promised chirpily, and ushered him and his aide toward the door. Daar gave him a decidedly less cool nod of acknowledgement, and padded his way out.
+“We’ll keep you informed!” Nofl promised chirpily, and ushered him and his aide toward the door. Daar gave him a decidedly less cool nod of acknowledgement, and padded his way out.
 
 Nofl returned a minute or so later and rather than rejoining Tran in his work, he instead poured himself a steaming cup of some kind of beverage. The smell was potent enough that even Tran noticed it from across the room.
 
@@ -1982,7 +1980,7 @@ Julian was about to suggest they jog over to the jump terminal when he remembere
 
 The Johnny Cab arrived and Julian had to insist Xiù sit down so he could load their luggage himself. He wasn’t really *ready* to let go of the protective father role completely, and she didn’t object too much to sitting back and letting him do all the work. It didn’t take long and they were underway after only a couple of minutes.
 
-He called ahead to the Array terminal. This was, technically, government business now and he had the authority to arrange an urgent jumpto Akyawentuo at any time. He’d need to send a report to the Ambassador explaining why and all that stuff, but right now all that mattered was that the Special Envoy to the Ten’Gewek was on the wrong planet. It was a little disruptive to regular traffic, but the terminal could handle it. Most travellers wouldn’t even notice anything had happened.
+He called ahead to the Array terminal. This was, technically, government business now and he had the authority to arrange an urgent jump to Akyawentuo at any time. He’d need to send a report to the Ambassador explaining why and all that stuff, but right now all that mattered was that the Special Envoy to the Ten’Gewek was on the wrong planet. It was a little disruptive to regular traffic, but the terminal could handle it. Most travellers wouldn’t even notice anything had happened.
 
 It’d still come out of the budget, though. Always there was a budget.
 
