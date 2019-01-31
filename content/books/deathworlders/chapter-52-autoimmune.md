@@ -141,7 +141,7 @@ None that he could think of.
 ___
 
 **Date Point: 16y2m AV**    
-**The Life-Mate’s private yacht, Cimbrean system, The Far Reaches*
+**The Life-Mate’s private yacht, Cimbrean system, The Far Reaches**
 
 ***Daar, Great Father of the Gao***
 
@@ -253,7 +253,7 @@ Naydra descended the steps first, and Daar followed her reluctantly. He hated th
 
 He could still steal another great big hug, though. And maybe a nip on her ear.
 
-“I love you, Naydi. More’n *anythin’.*”
+“I love you, Naydi. More’n *anythin’.”*
 
 “I know.” She sniffed his nose. “I’ll miss you too.”
 
@@ -339,15 +339,15 @@ ___
 
 ***Hierarchy/Cabal Joint Communications session #1535***
 
-**++0007++:** *\<Aghast>\* You infected them with *unrestricted nanites?!*
+**++0007++:** *\<Aghast\>* You infected them with *unrestricted nanites?!*
 
 **++Cynosure++:** No, of course not. The technology’s capacity to replicate is tightly constrained. It literally can’t grow in the absence of compatible tissue.
 
 **++0011++:** Is this how you infiltrated Sol?
 
-**++Cynosure++:** *\<Pleased>\* Indeed! I infected the crew of *‘My Other Spaceship Is The Millennium Falcon’* at Origin, and had the pilot transfer to their new mining ship when the opportunity arose. The droud function came in very useful indeed when I needed to terminate the biodrone. It sat quite peacefully and watched the stars until it suffocated.
+**++Cynosure++:** *\<Pleased\>* Indeed! I infected the crew of *‘My Other Spaceship Is The Millennium Falcon’* at Origin, and had the pilot transfer to their new mining ship when the opportunity arose. The droud function came in very useful indeed when I needed to terminate the biodrone. It sat quite peacefully and watched the stars until it suffocated.
 
-**++Proximal++:** *\<Uneasy>\* I have to admit, constrained or not… I don’t much like the idea of this technology. We Declined the OmoAru specifically because of it, after all.
+**++Proximal++:** *\<Uneasy\>* I have to admit, constrained or not… I don’t much like the idea of this technology. We Declined the OmoAru specifically because of it, after all.
 
 **++0007++:** I’m more concerned by your sudden reverse-course on this, **Cynosure.** You fomented a conspiracy within the Hierarchy, established the Cabal, somehow found a way to avoid being incorporated into a **0001** instantiation and all along your objective allegedly was to ensure long-term cooperation with the Humans.
 
@@ -363,7 +363,7 @@ ___
 
 **++0007++:** Perhaps that makes them better qualified to develop it.
 
-**++Cynosure++:** *\<Anger>\* That is *snivelling* apologetics! And in their case, it’s hubris!
+**++Cynosure++:** *\<Anger\>* That is *snivelling* apologetics! And in their case, it’s hubris!
 
 **++0011++:** You’ve held them to be reasonable before.
 
@@ -373,7 +373,7 @@ ___
 
 **SYSTEM NOTIFICATION: USER** ***Proximal*** **HAS QUIT**
 
-**++Cynosure++:** *<strained contrition>* ...Apologies. It is… we all know how difficult it is to admit to having been grievously wrong. I thought the Humans were one thing, and they have now proven themselves to be quite another.
+**++Cynosure++:** *\<strained contrition\>* ...Apologies. It is… we all know how difficult it is to admit to having been grievously wrong. I thought the Humans were one thing, and they have now proven themselves to be quite another.
 
 **++0007++:** ***Proximal*** had a good point, however. Arutech is a self-replicating machine. Even though its ability to replicate may be tightly limited, any replicant can mutate given sufficient time.
 
@@ -381,7 +381,7 @@ ___
 
 **++Cynosure++:** I have my own misgivings. But the alternative was to not penetrate the Human defences at all. Their security measures are too effective and reliable in their simplicity.
 
-**++0007++:** *\<resigned>\* So long as it works, then…
+**++0007++:** *\<resigned\>* So long as it works, then…
 
 **++Cynosure++:** It already has. We have a force of Injunctors on Earth, one compliant biodrone recovered from an internment facility, and two infiltrators en route to Cimbrean. They should be arriving about now, in fact.
 
@@ -413,7 +413,7 @@ ___
 
 **++Cynosure++:** Let us wait and see how well the infiltration of Cimbrean goes. It will be the first real test of the Arutech drones. After that… well, *then* we can plan.
 
-**Emote channel: 137 instances of** ***\<agreement>\***    
+**Emote channel: 137 instances of** ***\<agreement\>***    
 **Consensus reached.**
 
 **++0004++:** Very well, then. Let us watch Cimbrean closely…
@@ -1073,7 +1073,7 @@ ___
 
 *<\despair>*
 
-Reviewing a life—\*honestly* reviewing a life---was not an easy task. Especially not when honesty compelled one to take a rough estimate of the body count.
+Reviewing a life\—*honestly* reviewing a life---was not an easy task. Especially not when honesty compelled one to take a rough estimate of the body count.
 
 Proximal had never personally overseen a cleansing. He’d been *involved* ind dozens, always in support roles, administrative oversight, intelligence-gathering. He’d chosen his Cabal name quite deliberately: He was always *close* to the action. It had suited him well, over the millennia.
 
@@ -1255,7 +1255,7 @@ ___
 
 **++Asymptote++:** I have bad news. It would seem our new drones are detectable.
 
-**++0004++:** *\<Dismay>\* you’re certain?
+**++0004++:** *\<Dismay\>* you’re certain?
 
 **++Asymptote++:** The force I sent to Cimbrean was captured immediately upon arrival.
 
@@ -1267,7 +1267,7 @@ ___
 
 **++Asymptote++:** Again, unclear. The drone sent a confused impression of something enormously heavy and strong, with sharp teeth.
 
-**++Cynosure++:** *<\Grim\>* Bozo.
+**++Cynosure++:** *\<Grim\>* Bozo.
 
 **++Asymptote++:** ...What is a *‘Bozo’?*
 
@@ -1287,13 +1287,13 @@ ___
 
 **++Asymptote++:** The other Gaoian has a developmental brain flaw affecting both his language processing and his sense of smell. He is, by his species’ standards, almost completely anosmic.
 
-**++Cynosure++:** *<\Frustration\>* But the instant the drone strayed within range of a *healthy* Gaoian…
+**++Cynosure++:** *\<Frustration\>* But the instant the drone strayed within range of a *healthy* Gaoian…
 
 **++Asymptote++:** Yes. Now the Corti known as Nofl is picking at it. I’ve initiated the Droud function to ensure the drone can’t give away any vital information, but I’m afraid our infiltration has not only failed, but now the Humans know what to look for.
 
 **++0004++:** A setback, yes, but not an insurmountable one if we can modify or reprogram the Arutech in some way.
 
-**++0007++:** *<\Pessimistic>\* To smell like a living being, they’d need to be much close to biological in function, and at that point…
+**++0007++:** *\<Pessimistic\>* To smell like a living being, they’d need to be much close to biological in function, and at that point…
 
 **++Asymptote++:** There’s another wrinkle to consider. The Human I infected is resisting the Arutech.
 
