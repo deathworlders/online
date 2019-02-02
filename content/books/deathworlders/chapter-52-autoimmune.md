@@ -83,7 +83,7 @@ Powell and Arés shared a lengthy eye contact with each other that seemed to enc
 
 “Oh lovely!” Nofl chirped. “My favourite customer! One of them, anyway… Where is he?”
 
-"This time o’ the day?” Powell thought about it. “...the Doghouse, I expect.”
+"This time o’ the day?” Powell thought about it. “...The Dog House, I expect.”
 
 “…Oh. Well. I shall have to mount an expedition, then! Before my colleagues arrive.”
 
@@ -119,7 +119,7 @@ That just left Gorku.
 
 “Well, dear!” he said cheerily, and approached the sullen Gaoian. “It’s your turn at last! Let’s see if we can’t figure out a way to straighten out your language centers *without* cybernetics, hmm?”
 
-Gorku sighed and heaved himself up onto four-paws. “...Long time?”
+Gorku sighed and heaved himself up onto four paws. “...Long time?”
 
 “Who knows? We’re only reinventing a field of medicine from first principles!” Nofl fluttered a hand vaguely at the diagnostic equipment. “Chop chop! The sooner we scan your brain, the sooner we figure out what it needs.”
 
@@ -349,7 +349,7 @@ ___
 
 **++Proximal++:** *\<Uneasy\>* I have to admit, constrained or not… I don’t much like the idea of this technology. We Declined the OmoAru specifically because of it, after all.
 
-**++0007++:** I’m more concerned by your sudden reverse-course on this, **Cynosure.** You fomented a conspiracy within the Hierarchy, established the Cabal, somehow found a way to avoid being incorporated into a **0001** instantiation and all along your objective allegedly was to ensure long-term cooperation with the Humans.
+**++0007++:** I’m more concerned by your sudden reverse-course on this, **Cynosure.** You fomented a conspiracy within the Hierarchy, established the Cabal, somehow found a way to avoid being incorporated into a **0001** instance and all along your objective allegedly was to ensure long-term cooperation with the Humans.
 
 **++Cynosure++:** ...How much Human literature have you read, **0007?**
 
@@ -485,9 +485,9 @@ Relentlessly, but not recklessly. Hence Nofl’s personal gravity harness.
 
 He rarely used it nowadays, not even when visiting those parts of the city that were kept at Earth gravity: Stunted and deprived though it was, the Corti body *could* still gain strength and endurance, at least to the point where spending time in Human gravity environments was tolerable. Not comfortable or easy, but tolerable.
 
-The harness, however, just made things certain. A lot of the gyms in Folctha experimented with supergravity training, but none more so than the Doghouse. It was the hardest of the hardcore gyms, and had become a bit of a destination for adventurous, like-minded athletes from Earth (and increasingly, Gao) who wanted to test themselves against the very best to ever live.
+The harness, however, just made things certain. A lot of the gyms in Folctha experimented with supergravity training, but none more so than the Dog House. It was the hardest of the hardcore gyms, and had become a bit of a destination for adventurous, like-minded athletes from Earth (and increasingly, Gao) who wanted to test themselves against the very best to ever live.
 
-On that thought, Nofl satisfied himself that it would be difficult indeed to deride ***him*** as “unadventurous” as he rented a car across town to venture into the Doghouse’s infamous basement “dungeon.”
+On that thought, Nofl satisfied himself that it would be difficult indeed to deride ***him*** as “unadventurous” as he rented a car across town to venture into the Dog House’s infamous basement “dungeon.”
 
 He checked his personal gravity harness one last time before braving the stairs. Some of the most terrifyingly strong examples of Deathworlder physiology alive would be busy straining their bodies down there, pushing themselves against limits so far beyond any Corti that it was difficult to imagine.
 
@@ -530,13 +530,13 @@ Julian’s expression was one of pure savagery, though when he eventually caught
 
 Curiously, Julian laughed at that compliment. “Ha! I hear how you qualified that shit!”
 
-“Well,” Adam grinned sheepishly, “Didn’t wanna embarrass ‘ya *too* hard, y’know.”
+“Well,” Adam grinned sheepishly. “Didn’t wanna embarrass ‘ya *too* hard, y’know.”
 
 “Yeah, yeah...” Julian grinned and reached down to the floor beside him and mopped the copious moisture off his face with a towel. He also took an enormous swig of water from a bottle as big as Nofl’s torso. “Don’t worry big fella, I know my place.”
 
 “Bah, don’t let ‘em git away with it, Playboy! Ain’t *nobody* outside o’ HEAT could beat you! Balls, a buncha’ *them* couldn’t, neither!”
 
-“Well…” Julian grinned again and took another swig of water, “Gotta admit that feels pretty good! Too bad huge muscles don’t make me much good at TIG welding. Al’s been teaching me!”
+“Well…” Julian grinned again and took another swig of water. “Gotta admit that feels pretty good! Too bad huge muscles don’t make me much good at TIG welding. Al’s been teaching me!”
 
 “Yeah? How ‘ya doin’ at it?”
 
@@ -550,7 +550,7 @@ The Great Father of the Gao was also soaked from head to toe, his huge tongue lo
 
 Nofl hadn’t foreseen *his* presence at all. Oh dear.
 
-“Fuck, I’ve needed ‘ta lift like this ‘fer a coupl’a weeks! Our turn now!” the Great Father roared, “Let’s show our *little* guy here what a *real* lift looks like!”
+“Fuck, I’ve needed ‘ta lift like this ‘fer a coupl’a weeks! Our turn now!” the Great Father roared. “Let’s show our *little* guy here what a *real* lift looks like!”
 
 The two much larger males set up their lift at a nearby station, and those weights *utterly* dwarfed the incredible feat Julian had just accomplished. The equipment was clearly custom: a longer, much thicker and heavier bar, bigger and (according to the numbers) *vastly* more massive plates. The entire aggressive ritual was repeated, first by Daar and then by Adam, Julian cheering along just as violently as the other two had for him. Nofl watched with no small sense of intimidation. It took considerably longer for both males to finish their task as there were many more plates and many more repetitions at each step. The *ground* shook underfoot as each plate hit the floor, which Julian helped tidy up behind them with a subtle grimace of effort.
 
@@ -566,7 +566,7 @@ He straightened his own posture and knocked. The two combatants paused and looke
 
 Predatory…yet, friendly. Daar in particular yipped happily, “Nofl! ‘Ya plannin’ on joinin’ us?”
 
-Nofl had met Daar before, of course. Before, that was, he’d been raised to a peerless degree of both authority and responsibility. Back, in fact, when he’d still merely been *Champion* Daar, as opposed to the most powerful individual in the galaxy.
+Nofl had met Daar before, of course. Before he’d been raised to a peerless degree of both authority and responsibility. Back, in fact, when he’d still merely been *Champion* Daar, as opposed to the most powerful individual in the galaxy.
 
 That grin was a sight he’d never expected to see again. And Nofl could think very, very quickly indeed sometimes. Especially when it came to speaking to people who were a long way up the ladder from his perspective.
 
@@ -586,7 +586,7 @@ Plumping for flippant sass might have been a risky move if he’d been dealing w
 
 “Is this how Deathworlders train?” Nofl asked as he ventured over the threshold.
 
-“Naw,” boomed Daar, who was thrashing back and forth against the floor, presumably to reach some frustrating itch. “‘Least not all of us! ‘Ya gotta be a special kind o’ insane t’train like we do. *Don’t’cha fellas?!”* There was a lusty chorous of acclaim from the other two. “Ain’t no Corti can handle this, that’s for sure.”
+“Naw,” boomed Daar, who was thrashing back and forth against the floor, presumably to reach some frustrating itch. “‘Least not all of us! ‘Ya gotta be a special kind o’ insane t’train like we do. *Don’t’cha fellas?!”* There was a lusty chorus of acclaim from the other two. “Ain’t no Corti can handle this, that’s for sure.”
 
 “Not yet, at least,” Nofl said. “Who knows, in a few generations…”
 
@@ -642,13 +642,13 @@ Julian, who by rare fortune was easily the *smallest* Deathworlder in the room, 
 
 “You two are ridiculous,” Julian commented, then began performing a series of calisthenics.
 
-“But…” Daar growled low to himself, “While I ‘preciate ‘yer esteem, let’s be honest. I still ain’t conditioned quite as good as you, and ‘yer always a bit over-optimistic ‘bout these things, too.”
+“But…” Daar growled low to himself, “while I ‘preciate ‘yer esteem, let’s be honest. I still ain’t conditioned quite as good as you, and ‘yer always a bit over-optimistic ‘bout these things, too.”
 
 “Eh…I think my friends maybe tend to underestimate themselves and their limits too easily…”
 
-“Mebbe,” Daar chittered, “But I don’t wanna delude m’self. I *may* be ‘yer match ‘fer strength, ‘specially on a *fantastic* day like today, but I’ll *never* match up wit’ your endurance, neither. An’ anyways, I think we better get movin’ ‘cuz ‘yer gonna git recalled any minute, I bet.”
+“Mebbe,” Daar chittered. “But I don’t wanna delude m’self. I *may* be ‘yer match ‘fer strength, ‘specially on a *fantastic* day like today, but I’ll *never* match up wit’ your endurance, neither. An’ anyways, I think we better get movin’ ‘cuz ‘yer gonna git recalled any minute, I bet.”
 
-“Well,” Adam again grinned sheepishly, “Okay yeah, I get a bit over-enthusiastic sometimes. But don’t underestimate yourself, man! You’re awfully damn---Goddamnit.”
+“Well,” Adam again grinned sheepishly. “Okay yeah, I get a bit over-enthusiastic sometimes. But don’t underestimate yourself, man! You’re awfully damn---Goddamnit.”
 
 Sometimes, coincidences were enough to make even the most rational Corti wonder. No sooner had Daar uttered those words than Adam’s phone sprang into life with what Nofl recognized as the theme song from a cartoon he’d briefly studied out of anthropological fascination. The plot had been paper-thin and had mostly consisted of extremely large and muscular men screaming a lot while their hair inexplicably changed color…
 
@@ -664,7 +664,7 @@ Julian chuckled low to himself and ran a hand through the mop of his hair. “So
 
 Adam looked at Julian and grinned. “He didn’t wanna be outlifted by you again, I bet.”
 
-Another quiet chuckle. “Well…he keeps dodging us, he’ll be living up to that nickname soon enough. Anyway,” He gave Adam a meaningful look. “Get going, I’ll take care of this.”
+Another quiet chuckle. “Well…he keeps dodging us, he’ll be living up to that nickname soon enough. Anyway...” He gave Adam a meaningful look. “Get going, I’ll take care of this.”
 
 “Right. See ‘ya.”
 
@@ -733,13 +733,13 @@ Fiin chittered. “Me too...I think we’ll have time.”
 
 “Uh-huh. They’ve done their recon and emplacement. Now we need to burn the Hierarchy’s shit to the ground.”
 
-Garl chittered again. “...I ever tell you how I like the way you think, My Champion?”
+Garl chittered again. “...I ever tell you how I like the way you think, my Champion?”
 
 Fiin flicked an ear, looking pleased. “I thought you’d approve. How quickly can you muster?”
 
-“Two days. I’m thinkin’ I should leave this ‘ta Matso.  And…uh, I have a request, My Champion.”
+“Two days. I’m thinkin’ I should leave this ‘ta Matso.  And…uh, I have a request, my Champion.”
 
-Fiin caught the sudden change in tone immediately. He cocked his head, “Name it.”
+Fiin caught the sudden change in tone immediately and cocked his head. “Name it.”
 
 “...There’s a, uh… well, a reason I wanna see that valley flood. It’s gonna be one’a the last things I *can* see clearly.”
 
@@ -753,7 +753,7 @@ Fiin paused, sniffed at him for a second, then keened softly. “…I see.”
 
 “No, I ‘spose not. Uh...is Matso ready?”
 
-Garl chittered. “Balls no! But neither was I... An’ neither were you, My Champion. He’s got what it takes, though… You know who he is?”
+Garl chittered. “Balls no! But neither was I... An’ neither were you, my Champion. He’s got what it takes, though… You know who he is?”
 
 “I’ve heard the name. Story a lot like mine, too.”
 
@@ -761,7 +761,7 @@ Garl chittered. “Balls no! But neither was I... An’ neither were you, My Cha
 
 “Right, well…stay, then. Get this handed over. I’d still like you to pay a visit to Stinkworld, though. This is gonna need the touch of experience.”
 
-“Aright, My Champion. Now git, I got work ‘ta do.”
+“Aright, my Champion. Now git, I got work ‘ta do.”
 
 Fiin nodded and sniffed noses with him, rested a brotherly paw on his shoulder, then turned back to his business. A Champion never rested.
 
@@ -822,7 +822,7 @@ Right now, she was frowning at Nofl’s brief dictated summary of what exactly w
 
 “And Adele Park?”
 
-“As soon as we’re done here, I’ll be takin’ the HEAT over to Ceres to secure her,” Powell said. Gabe decided not to comment on the eager note that crept into the colonel’s voice: Certainly he himself would have preferred to be out on the streets alongside a K9 unit or a Gaoian officer, but instead there he was sipping coffee in the lavish halls of government. Some part of him always rebelled at that.
+“As soon as we’re done here, I’ll be takin’ the HEAT over to Ceres to secure her,” Powell said. Gabe decided not to comment on the eager note that crept into the colonel’s voice. Certainly he himself would have preferred to be out on the streets alongside a K9 unit or a Gaoian officer, but instead there he was sipping coffee in the lavish halls of government. Some part of him always rebelled at that.
 
 “You’re going yourself?” Winton asked.
 
@@ -856,7 +856,7 @@ There was a knock at the door, and a human voice from outside: “The Great Fath
 
 “Thank you, Cerys. Show him in.”
 
-The door opened, and Daar trundled into the room on four-paw as the three of them stood to greet him. Or rather, Gabe and Powell stood---Winton was already on her feet, and deployed a stately smile and a well-rehearsed handshake.
+The door opened, and Daar trundled into the room on fourpaw as the three of them stood to greet him. Or rather, Gabe and Powell stood---Winton was already on her feet, and deployed a stately smile and a well-rehearsed handshake.
 
 “I’d expected more warning before our first meeting,” she said. “Welcome.”
 
@@ -874,7 +874,7 @@ Daar duck-nodded with a slightly apologetic set to his ears. “I’d normally g
 
 “Thanks, but I’d better not risk it. Looks nice and ‘spensive. Also my fur’s still wet.” Daar instead rose to his full height and rested his brutish, thigh-sized forearms across the chair’s back. “So what happened?”
 
-The PM retreated to her desk and typed a brief letter while Gabe brought Daar up to speed. At one point she looked up, apologized with a “please excuse me one moment, gentlemen,” and vanished behind the fuzzy white-noise cuboid of a privacy field.
+The PM retreated to her desk and typed a brief letter while Gabe brought Daar up to speed. At one point she looked up, apologized with a *'Please excuse me one moment, gentlemen,'* and vanished behind the fuzzy white-noise cuboid of a privacy field.
 
 She dropped the field just as Powell finished explaining the details of his imminent mission to Ceres.
 
@@ -932,7 +932,7 @@ Winton nodded, and picked up a small hand-bell that had been sitting next to her
 
 Daar shook his pelt out, gave Winton a grateful duck-nod and shook her hand. “It was a pleasure ‘ta meet you at last,” he said. “We shoulda met sooner.”
 
-“Better now than never,” Winton replied, and stepped aside for him. Daar gave Gabe and Powell a nod apiece, and then dropped to four-paw and followed Cerys out of the room.
+“Better now than never,” Winton replied, and stepped aside for him. Daar gave Gabe and Powell a nod apiece, and then dropped to fourpaw and followed Cerys out of the room.
 
 “...Well, then.” Winton shut the door and returned to her desk. “I should probably discuss this with the other territories and the Mother-Supreme.”
 
@@ -950,7 +950,7 @@ Powell held the door for Gabe, who stepped aside to let him through once they we
 
 “Well... however it smells, I didn’t smell anything wrong with the PM, the Great Father, or anyone else in this building,” Eeno replied. Gabe nodded. Eeno’s was reckoned to be the sharpest nose on the force: He’d once made a drug bust from three blocks away, upwind. His sense of smell was worth trusting.
 
-“Something tells me we’re in for a few sleepless nights,” he remarked to Powell.
+“Something tells me we’re in for a few sleepless nights,” Gabe remarked to Powell.
 
 “Only a few?” Powell snorted. “I’ll take it. Any road, I’d better catch up wi’ the Lads. They should’ve suited up by now.”
 
@@ -958,7 +958,7 @@ Powell held the door for Gabe, who stepped aside to let him through once they we
 
 “Aye, same. As much as I can.”
 
-They bade each other *‘good luck’* and were escorted out to their vehicles. Powell’s SUV was first out through the gate, and it took the north road toward the military base: Gabe’s took the south road toward the Police and Security Administration in Southbank.
+They bade each other *‘good luck’* and were escorted out to their vehicles. Powell’s SUV was first out through the gate, and it took the north road toward the military base. Gabe’s took the south road toward the Police and Security Administration in Southbank.
 
 “...Not him either, chief,” Eeno said, once they were away. “I know you’re thinking it.”
 
@@ -1008,7 +1008,7 @@ As far as damage to equipment...his footprints were in every deck plate he’d s
 
 He’d banged up some walls, too. And swatted a hatch so hard it had bent. Yeah. He wasn’t packing on weight like a weed anymore, but that didn’t mean he wasn’t still slowly growing, especially in strength and speed, and that let him wear his armor so well it almost felt like it wasn’t there. That might have made him a bit too careless, so maybe he needed to work on his agility with Righteous; other than footprints, the big bastard hadn’t left any trail of broken obstacles at all.
 
-Regaari was getting a good sniff of the civilians. So far, nobody had failed the nose test but there were a lot of people on Ceres. So many that the HEAT was running in three-man teams, pairing an experienced operator with a Whitecrest and one of the cherries… though that was hardly a fair word to describe Walsh, who was the third corner of Adam’s trio.
+Regaari was getting a good sniff of the civilians. So far, nobody had failed the nose test but there were a lot of people on Ceres. So many that the HEAT was running in three-man teams, pairing an experienced operator with a Whitecrest and one of the Cherries… though that was hardly a fair word to describe Walsh, who was the third corner of Adam’s trio.
 
 He ran an eye ‘round the room, satisfied himself that there was nobody who posed an immediate danger, then keyed his radio. As he did so, he found the face he was searching for kneeling in the middle of the civilian huddle and trembling.
 
@@ -1073,7 +1073,7 @@ ___
 
 Reviewing a life—*honestly* reviewing a life---was not an easy task. Especially not when honesty compelled one to take a rough estimate of the body count.
 
-Proximal had never personally overseen a cleansing. He’d been *involved* ind dozens, always in support roles, administrative oversight, intelligence-gathering. He’d chosen his Cabal name quite deliberately: He was always *close* to the action. It had suited him well, over the millennia.
+Proximal had never personally overseen a cleansing. He’d been *involved* in dozens, always in support roles, administrative oversight, intelligence-gathering. He’d chosen his Cabal name quite deliberately: He was always *close* to the action. It had suited him well, over the millennia.
 
 Millennia. There wasn’t an oath or concept in the Igraen equivalent of language to really capture the sense of… *something* that settled on him as he considered that. *Millennia.*
 
@@ -1083,7 +1083,7 @@ With a perspective like that, it became easy to not think of meatspace life form
 
 And yet the last twenty years or so had been increasingly full of individuals. The lone Human who foiled a Hunter raid and woke the substrate species to the existence of deathworld life. The Rrrtk politician who had made a stand for them. The young woman who had personally forged a friendship between Humanity and the Gao through her own selflessness.
 
-The war on Gao had been won by *one man.* In the right place, at the right moment, one HEAT operator had pushed through where nobody else could, and secured the Dark Eye facility. Thanks to him there was still Gao. Thanks to that, there was the Great Father.
+The war on Gao had been won by *one man.* In the right place, at the right moment, one HEAT operator had pushed through where nobody else could, and secured the Dark Eye facility. Thanks to him, there was still Gao. Thanks to that, there was the Great Father.
 
 Thanks to the Great Father, there was a singularity of unpredictable causality in their future. Thanks to the Humans, there would be no stopping it.
 
@@ -1127,13 +1127,13 @@ To his surprise, that seemed to be the case. There was another shift and then, e
 
 *\<QueryCuriosityWhatWho\>*
 
-Well.. there was something there to work with at least. He tried replying in kind.
+Well... there was something there to work with at least. He tried replying in kind.
 
 *\<Harmless; Small; Non-threatening; Weak; Irrelevant\>*
 
 *\<SuspicionThreatEnemyMurderAnger\>*
 
-Proximal settled for honesty. It seemed like the only possible recourse. *<\Tiny; Alone; Terrified\>*
+Proximal settled for honesty. It seemed like the only possible recourse. *\<Tiny; Alone; Terrified\>*
 
 *\<AccusationMurderGenocide; DestroyKill; JusticeKarma\>*
 
@@ -1163,7 +1163,7 @@ Still. It was a line of communication. So he fought off the creeping sense that 
 
 A lifetime of Human memories hit him in the face. It was a sadly short lifetime, brutally truncated and riddled with negative emotions, but it was enough of a foundation to build a kind of translation matrix on. He could stimulate it to provide him with information, and presumably the dataphage could do the same.
 
-It was morbid, creepy and *wrong,* not to mention the inherent “bleed” involved when datasophonts interacted on such an intimate level. Such interactions were inherently dangerous, as one could forget where one’s own memories and personality ended and the other’s began but Proximal had no alternative.
+It was morbid, creepy and *wrong,* not to mention the inherent “bleed” involved when datasophonts interacted on such an intimate level. Such interactions were inherently dangerous, as one could forget where one’s own memories and personality ended and the other’s began, but Proximal had no alternative.
 
 “...Hello?”
 
@@ -1403,7 +1403,7 @@ The official greeting party, such as it was, had been hastily assembled. A digni
 
 It was enough to welcome a foreign dignitary without seeming obsequious. The Great Father’s presence was a surprise, however, and Tran watched him carefully as he descended his ship’s steps and glided across the concrete to meet them.
 
-“Third Director,” the Human with the sash smiled gently and extended a hand. “I’m Sir Jeremy Sandy, His Majesty the King’s appointed Governor-General of Folctha and the Commonwealth Colonies of Cimbrean. And I’m sure of course you recognise Daar of Clan Stoneback, Great Father of the Gao.”
+“Third Director.” The Human with the sash smiled gently and extended a hand. “I’m Sir Jeremy Sandy, His Majesty the King’s appointed Governor-General of Folctha and the Commonwealth Colonies of Cimbrean. And I’m sure of course you recognise Daar of Clan Stoneback, Great Father of the Gao.”
 
 Tran shook hands with them both, noting that he could feel in their grips the *potential* to grind his hands into a slurry of broken bone and meat but that they had merely been firm and confident.
 
@@ -1431,7 +1431,7 @@ Daar duck-nodded, gave the governor-general a warm and almost fraternal farewell
 
 Tran felt mild surprise at the compliment. He’d been under the impression that the Gao in general, and the Great Father in particular, were not overly well-disposed to Corti.
 
-Then again, it was politically stupid to be rude to other members of one’s own faction. And for better or worse, the Directorate *did* now stand alongside the Humans, the Gaoians and the Rauwrhyr in the Dominion’s newly-fledged *‘Reformers’* bloc.
+Then again, it was politically stupid to be rude to other members of one’s own faction. And for better or worse, the Directorate *did* now stand alongside the Humans, the Gaoians and the Rauwryhr in the Dominion’s newly-fledged *‘Reformers’* bloc.
 
 In fact, throughout their brief journey to Nofl’s establishment, he found the Great Father to be unfailingly polite. Traveling with him was…uncomfortable, as he occupied nearly the entire usable volume of the transport vehicle, but even then he was courteous.
 
@@ -1451,7 +1451,7 @@ Daar sighed and duck-nodded knowingly. “It’s a particular weakness of us ‘
 
 “Alas, it’s trivially easy to fix with cybernetics,” Nofl said. “If those are no longer an option, however…”
 
-Tran nodded, but reluctantly tore himself away from the data. That kind of project was exactly the sort of thing he’d spent his Professorial years on, and there were times when he missed the simplicity of College-tier work. His promotion to the Directorate proper had been prestigious and welcome of course, but it did sometimes prevent him from practicing science.
+Tran nodded, but reluctantly tore himself away from the data. That kind of project was exactly the sort of thing he’d spent his Professorial years on, and there were times when he missed the simplicity of College-tier work. His promotion to the Directorate proper had been prestigious and welcome, of course, but it did sometimes prevent him from practicing science.
 
 “...And your *main* patient?” he asked.
 
@@ -1469,7 +1469,7 @@ Tran blinked, and turned to Nofl who nodded.
 
 “A Gaoian’s sense of smell is many orders of magnitude more sensitive than ours,” he explained. “And I gather the Great Father’s nose is legendarily sensitive.”
 
-“Exactly.” Daar again flicked an ear and snorted air out of his nose as though trying to dislodge whatever scent had so assaulted him. “Trust me, I can smell it. It’s...uh, redolent of sour oil, and byproducts of semiconductor manufacture. It’s, uh…a litlte bit *metallic.* Yeah. Ain’t no living thing should stink that way.”
+“Exactly.” Daar again flicked an ear and snorted air out of his nose as though trying to dislodge whatever scent had so assaulted him. “Trust me, I can smell it. It’s...uh, redolent of sour oil, and byproducts of semiconductor manufacture. It’s, uh…a little bit *metallic.* Yeah. Ain’t no living thing should stink that way.”
 
 “It won’t be a *powerful* scent,” Nofl elaborated. “His body is releasing the actual odorants in negligible amounts, but I daresay there don’t need to be many of them.”
 
@@ -1571,7 +1571,7 @@ Tran decided that his dignity, and indeed that of his whole species, demanded a 
 
 “...Our species’ shared history is neither here nor there,” he said levelly, looking the enormous furry brute unflinchingly in the eye. “We are not prejudiced, Great Father Daar, nor do we hold grudges. We simply act in our own best interests. Right now, we have a patient whose successful treatment to your satisfaction would benefit the Corti. It is therefore in our best interests to be good partners to you, no matter what the past may hold.”
 
-“I’ll take ‘yer word of honor on all o’ that,” Daar rumbled neutrally. “As ‘fer what we’re gonna do...well, we’ll see. An’ on that note,” He looked toward his aide, and seemingly communicated with him solely through ear-flicking. “I think I better get goin.’”
+“I’ll take ‘yer word of honor on all o’ that,” Daar rumbled neutrally. “As ‘fer what we’re gonna do...well, we’ll see. An’ on that note...” He looked toward his aide, and seemingly communicated with him solely through ear-flicking. “I think I better get goin.’”
 
 “We’ll keep you informed!” Nofl promised chirpily, and ushered him and his aide toward the door. Daar gave him a decidedly less cool nod of acknowledgement, and padded his way out.
 
@@ -1604,13 +1604,13 @@ He ignored the slight smirk on Nofl’s face as the junior and lower-caste Corti
 ___
 
 **Date Point: 16y2m AV**    
-**HCS** ***My Other Spaceship Is The Millennium Falcon,*** **Wrhyuor System, The Rauwrhyr Federation**
+**HCS** ***My Other Spaceship Is The Millennium Falcon,*** **Wryhuor System, The Rauwryhr Federation**
 
 ***Dog Wagner***
 
 “...You have got to be fuckin’ *kidding* me.”
 
-Dog looked up and out of the ship at the distant speck of their tractor tug, bringing them in on final approach to Wrhyuor Gate. They were less than ten minutes from mooring and offloading their cargo, and Ceres had just pinged them with a top-priority recall order. There was no ignoring that.
+Dog looked up and out of the ship at the distant speck of their tractor tug, bringing them in on final approach to Wryhuor Gate. They were less than ten minutes from mooring and offloading their cargo, and Ceres had just pinged them with a top-priority recall order. There was no ignoring that.
 
 “Problem, Dog?”
 
@@ -1660,7 +1660,7 @@ Mason’s eyes went wide and he sprang up from his chair, shoving Dog firmly asi
 
 “What th’---?!”
 
-He didn’t have time for more than that exclamation as Cathy launched herself at him like a berserk thing, biting kicking and scratching furiously.  She was a hell of a lot stronger than Dog had thought, too.
+He didn’t have time for more than that exclamation as Cathy launched herself at him like a berserk thing, biting, kicking, and scratching furiously.  She was a hell of a lot stronger than Dog had thought, too.
 
 They rolled and scrambled furiously across the deck. She had youth on her side and Dog was an old man, but he was taller and heavier. Cathy had something else on her side, though: the look in her eyes was *psychotic* and she fought like a fucking demon, heedless of pain or her own limits. When Dog got a good punch in that made her head bounce off the deck, she didn’t even seem to notice.
 
@@ -1674,7 +1674,7 @@ She collapsed unconscious, with blood dribbling profusely from her nose and mout
 
 Mason was in a bad way. One of his eyes was already swelling up, his knuckles were cut and bleeding and it looked like Mitch had nearly succeeded in biting one of his ears off. He stood breathing heavily for a second and gave Dog a disbelieving stare.
 
-“...You gonna go crazy too, Brother?” Dog asked him.
+“...You gonna go crazy too, brother?” Dog asked him.
 
 “The *fuck* was that?” Mason asked, rhetorically. He reached down and helped Dog up.
 
@@ -1688,7 +1688,7 @@ It occurred to Dog that he was nearly as badly beat-up as Mason. Between the dee
 
 The voice that came over was grim. *“Aye. We were expecting that. Prepare to be boarded. We’re going to be forceful about it. Advise your crew to surrender immediately, or suffer the consequences.”*
 
-“Will do.” Dog’s fingers left a smear of blood on the controls as he opened the shipwide intercom. “This is Dog. For the love of God you fucking idiots, stand down before somebody shoots you!”
+“Will do.” Dog’s fingers left a smear of blood on the controls as he opened the shipwide intercom. “This is Dog. For the love of God, you fucking idiots, stand down before somebody shoots you!”
 
 His reply was another, heavier blow to the door. Mason gulped and backed away from it, hefting his fire extinguisher.
 
@@ -1720,7 +1720,7 @@ The last arrival was the smallest, being only marginally larger than the Gaoian.
 
 Once the two largest humans were gone, the flight deck felt a little more roomy again. The officer produced a pair of clippers to cut the cable ties, and helped Dog and Mason to stand.
 
-“...You’re captain Wagner?” he asked. He had an earthy British accent, and the eyes behind his visor were intense and piercing.
+“...You’re Captain Wagner?” he asked. He had an earthy British accent, and the eyes behind his visor were intense and piercing.
 
 “Y-yeah,” Dog agreed, rubbing his bandaged arm. He surveyed the damaged room and the remarkably large blood smears all over the deck. “...The fuck just happened? We got a recall, jumped back, then my whole fucking crew went nuts, man!”
 
@@ -1754,7 +1754,7 @@ The officer paused and looked away slightly, as though reading something only he
 
 “Call it ninety-nine percent. It’d help if this was a, uh… *cleaner* environment.”
 
-The officer nodded slowly, stared at Dog for a moment longer, then nodded again more firmly. “...Right. Gentlemen, we’re going to stasis you up and evacuate you off the ship, You’ll be unbagged at a medical facility in Folctha and evaluated there. Got that?”
+The officer nodded slowly, stared at Dog for a moment longer, then nodded again more firmly. “...Right. Gentlemen, we’re going to stasis you up and evacuate you off the ship. You’ll be unbagged at a medical facility in Folctha and evaluated there. Got that?”
 
 “I got it.” Dog groaned and stood up. “This fuckin’ ship’s cursed, brother. I’m ready to get the hell off it.”
 
@@ -1780,7 +1780,7 @@ He followed the sounds of music and dialog into the living room, where he found 
 
 “...Rough day?” he asked, gently. She still flinched, having clearly been too engrossed in the movie to hear him come in, then smiled, paused the movie, and shifted over for him to sit down.
 
-“My head’s all over the place,” she explained, looking a little embarrassed. “Meditating didn’t work, Yoga didn’t work so… screw it. I’m having a hormonal afternoon.”
+“My head’s all over the place,” she explained, looking a little embarrassed. “Meditating didn’t work, yoga didn’t work so… screw it. I’m having a hormonal afternoon.”
 
 Julian chuckled and cuddled up to her.
 
@@ -1870,11 +1870,11 @@ She rolled her eyes and smacked him on the arm as she brushed past him toward th
 
 She gave him an amused look. “Shower. Now. You still stink.”
 
-Oh, okay. So that was her game. “Yes Ma’am.”
+Oh, okay. So that was her game. “Yes ma’am.”
 
 She beamed and turned to sorting out the minor mess she’d left in the kitchen. “Good boy.”
 
-Jluian *loved* showers. He’d gone six years without any proper access to hygiene and that meant he’d been more than willing to spend big money on the best damn shower he could get. He stepped in, turned the water up to just shy of painful, and set the full-body spray on its most powerful setting. There was something almost therapeutic about letting it beat the aches out of his muscles and the sweat off his skin until he felt completely and satisfyingly *clean.*
+Julian *loved* showers. He’d gone six years without any proper access to hygiene and that meant he’d been more than willing to spend big money on the best damn shower he could get. He stepped in, turned the water up to just shy of painful, and set the full-body spray on its most powerful setting. There was something almost therapeutic about letting it beat the aches out of his muscles and the sweat off his skin until he felt completely and satisfyingly *clean.*
 
 He’d also made a point of making the shower big enough for three. Though they’d given up on shower sex as awkward, slippery and difficult, it was still fun to get clean together so he was more than happy to make room when Xiù joined him a few minutes later. She turned the pressure down a little, but left the heat as it was.
 
@@ -1934,11 +1934,11 @@ Also, less to carry.
 
 Xiù had no such qualms. Her boots practically had a goddamn supercomputer in the soles.
 
-“I still can’t get over these damn things,” He commented ruefully as he dug them out of the wardrobe. “Don’t let Vemik get a hold of ‘em!”
+“I still can’t get over these damn things,” he commented ruefully as he dug them out of the wardrobe. “Don’t let Vemik get a hold of ‘em!”
 
 She ducked under his arm and plucked them out of his hand. “I know how to handle Vemik, bǎobèi,” she chided him. “And you’re insulting him, too. He’s not *that* wild he’d just take apart my boots without asking.”
 
-“I know, I just…” he caught himself and scowled. “...I’m doing the overprotective father thing, aren’t I?”
+“I know, I just…” He caught himself and scowled. “...I’m doing the overprotective father thing, aren’t I?”
 
 “Just a little tiny lot.” She bounced up on tip-toe to kiss him. “It’s sweet, but stop.”
 
@@ -1968,7 +1968,7 @@ Julian was about to suggest they jog over to the jump terminal when he remembere
 
 “We’ll see. Honestly, I’m just glad to get out of the house!”
 
-“Fair enough. I’m looking forward to eating werne again, I’ll be honest.”
+“Fair enough. I’m looking forward to eating Werne again, I’ll be honest.”
 
 “Mm. Yeah. Especially Werne jerky… I’ve been craving that stuff *hard.”*
 
@@ -2048,7 +2048,7 @@ Wilde decided to get the big surprise out of the way first. “First up, we’ve
 
 “Any other surprises?”
 
-“No surprises. We’ve mapped out where the local critters live, update the relay facility’s drone patrol routes, all that stuff... It’s on the map over here.”
+“No surprises. We’ve mapped out where the local critters live, updated the relay facility’s drone patrol routes, all that stuff... It’s on the map over here.”
 
 “We got what we needed from that thing?” Garl gestured in the vague direction of the relay.
 
@@ -2058,7 +2058,7 @@ Wilde decided to get the big surprise out of the way first. “First up, we’ve
 
 “They’ll have help.”
 
-“Right. This Entity.” Garl shook his coat out at the neck and growled. “...not lookin’ forward to meetin’ that thing. Seems kinda… Iunno. Morbid.”
+“Right. This Entity.” Garl shook his coat out at the neck and growled. “...Not lookin’ forward to meetin’ that thing. Seems kinda… Iunno. Morbid.”
 
 “Funny thing is, I thought it would’ve showed up by now…” Wilde began. He smirked when the tablet lying on his map pinged and lit up. Somehow, he just *knew* that the gods of comic timing had decided to smile on him.
 
@@ -2148,7 +2148,7 @@ Briefing him didn’t take long. He’d come well-equipped and ready, knew the j
 
 “Is there anything further you need from us?”
 
-“Nah,” the polar bear waved an enormous paw distractedly, “I gotta study. Y’all get back’ta Cimbrean. I betcha have plans ‘fer R-and-R…”
+“Nah,” the polar bear waved an enormous paw distractedly. “I gotta study. Y’all get back’ta Cimbrean. I betcha have plans ‘fer R-and-R…”
 
 “Assuming our friend hasn’t scuppered them…” Wilde said. “Have fun!”
 
@@ -2183,13 +2183,13 @@ He was still going over the details when Tooko jumped them home.
 ___
 
 **Date Point: 16y2m AV**    
-**Ceres facilit, Asteroid Belt, Sol**
+**Ceres facility, Asteroid Belt, Sol**
 
 ***Adam “Warhorse” Arés***
 
 “...Damn.”
 
-Titan peered into the little smuggler’s hole they’d found in the suit maintenance room one last time, angled his fibreoptic camera back and forth just to make sure there really were no further nooks or crannies in there that he’d missed, and reluctantly closed it up again.
+Titan peered into the little smuggler’s hole they’d found in the suit maintenance room one last time, angled his fiber-optic camera back and forth just to make sure there really were no further nooks or crannies in there that he’d missed, and reluctantly closed it up again.
 
 Shim had found it. Apparently it had the Arudrone scent all over it from where Sam Jordan had repeatedly accessed it, but its innards were totally bare.
 
@@ -2221,7 +2221,7 @@ He’d gone around and helped mend fences with the civilians as best he could. B
 
 Which was fuckin’ *great* for putting the fear of God into the actual bad guys, but kinda backfired in this situation.
 
-“...I hear you,” Titan said instead. “I know why we’re here, but *fuck* I’d rather be up against Hunters right now.
+“...I hear you,” Titan said instead. “I know why we’re here, but *fuck* I’d rather be up against Hunters right now."
 
 “I just wish we could take the fuckin’ mask off. It’s hard to be nice when you’re a damn Space Marine.”
 
@@ -2334,7 +2334,7 @@ From Dog’s other side came the officer’s voice, and when Dog looked to his r
 
 “Why, though? He was on the ship at Origin, why the fook didn’t they infect him when they got the rest of the crew?”
 
-“Beats the fuck outta me…” the gargantuan Gaoian shrugged.
+“Beats the fuck outta me…” The gargantuan Gaoian shrugged.
 
 “...Aren’t you the Great Father of the Gao?” Dog asked him. It was about the only thing his brain could latch onto.
 
@@ -2368,7 +2368,7 @@ Nofl pressed a hot mug into his hands. “Coffee,” he explained jovially.
 
 Dog shrugged. “Not really. Just my arthritis.”
 
-“Rheumatoid arthritis? Not Osteoarthritis?”
+“Rheumatoid arthritis? Not osteoarthritis?”
 
 “Yeah.”
 
@@ -2380,7 +2380,7 @@ Dog shrugged. “Not really. Just my arthritis.”
 
 “You got a theory there, Nofl?” Stainless asked.
 
-“I believe I do, yes. Mister Chadesakan also suffers from Rheumatoid Arthritis… Do you know if Director Park does, Mister Wagner?”
+“I believe I do, yes. Mister Chadesakan also suffers from rheumatoid arthritis… Do you know if Director Park does, Mister Wagner?”
 
 “Uh, yeah. Worse’n mine.”
 
@@ -2388,7 +2388,7 @@ Nofl beamed and snapped his fingers, which was a wimpy-ass sound from a Corti bu
 
 “Nofl, what….?” the Great Father asked, tiredly. Dog was no expert in Gaoian body language, but he looked like he hadn’t slept in a while.
 
-“Rheumatoid Arthritis is an autoimmune condition unique to Humans. Their immune system can sometimes begin to attack perfectly healthy and normal tissue… Oh my.”
+“Rheumatoid arthritis is an autoimmune condition unique to Humans. Their immune system can sometimes begin to attack perfectly healthy and normal tissue… Oh my.”
 
 He hopped down from his perch by the table and darted across the lab. “This implies a possible cure! I need to contact Tran.”
 
@@ -2420,7 +2420,7 @@ Stainless shook his head. “Not an option mate, sorry. They’re all in stasis.
 
 “...Oh.” Dog didn’t know what to say to that. “Uh… Good.”
 
-Stainless looked at somebody near the door, a brown-haired young man in a navy blue uniform with a gold anchor on the rank slide in the middle of his chest. “Tisdale. Escort mister Wagner to the hospital, would you?”
+Stainless looked at somebody near the door, a brown-haired young man in a navy blue uniform with a gold anchor on the rank slide in the middle of his chest. “Tisdale. Escort Mister Wagner to the hospital, would you?”
 
 “Yessir.” The lad offered Dog a shoulder to lean on and turned out to be a fair bit stronger than he looked, which was very welcome when Dog stood up and found that his knee really didn’t want to cooperate. He could vaguely remember Cathy kicking him in it.
 
@@ -2539,9 +2539,9 @@ Gyotin scratched at his whiskers as he thought. “...This Leemu,” he said. �
 
 “...I need to sit down.”
 
-“Don’t blame yer,” Powell said, and stood up to make room for him. Gyotin took his vacated spot gratefully and hastily: He looked and smelled queasy. Powell handed the Champion a cup of water and leaned against the countertop with his arms folded.
+“Don’t blame yer,” Powell said, and stood up to make room for him. Gyotin took his vacated spot gratefully and hastily: he looked and smelled queasy. Powell handed the Champion a cup of water and leaned against the countertop with his arms folded.
 
-Gyotin recovered quickly for a few sips of water, and combed a few spilled drops out of his whiskers. “...Forgive me. I just…”
+Gyotin recovered quickly after sipping some water, and combed a few spilled drops out of his whiskers. “...Forgive me. I just…”
 
 “Like Powell said. I don’t blame ‘ya,” Daar assured him.
 
@@ -2595,7 +2595,7 @@ Powell shook his head, pulling a kind of brief grimace of disagreement. “You c
 
 “Aye. At great an’ terrible cost.” Powell sniffed. “And yet here we are, discussin’ it.”
 
-“So the genuine question is this: do we push that snowball down the hill, My Father? The moment we do it will gather everything in its path and become unstoppable. Meanwhile, the Directorate is in a unique position of authoritarian control of its people.”
+“So the genuine question is this: do we push that snowball down the hill, My Father? The moment we do, it will gather everything in its path and become unstoppable. Meanwhile, the Directorate is in a unique position of authoritarian control of its people.”
 
 *“If.”*
 
@@ -2637,7 +2637,7 @@ There was a moment of impressed silence. Gyotin broke it with a quiet, tactful q
 
 “Then… then... I don’t know.” Nofl sighed dramatically and flapped his hands. “I just want you to *respect* us.”
 
-Daar glanced sideways at Powell and Gyotin, then pushed himself forward off the table and dropped to four-paw. There was simply no way for him to physically come down to Nofl’s level, but he did his best.
+Daar glanced sideways at Powell and Gyotin, then pushed himself forward off the table and dropped to fourpaw. There was simply no way for him to physically come down to Nofl’s level, but he did his best.
 
 “...I respect passion and honesty,” he said. “And you’ve got both.”
 
@@ -2651,7 +2651,7 @@ Daar stood back up and hung his head in thought. But there was only one honest a
 
 “...I don’t know,” he said.
 
-For the first time in a long, long while, The Great Father had no idea what to do.
+For the first time in a long, long while, the Great Father had no idea what to do.
 
 ___
 
@@ -2698,13 +2698,13 @@ A minute later the coals were bright orange again and everything was lined up fo
 
 “But still! How can you stand it?!”
 
-“God,” sighed Julian, “You’re not gonna let it go, are you?”
+“God,” Julian sighed. “You’re not gonna let it go, are you?”
 
 Vemik ignored that. “I’d feel, like maybe itchy? Couldn’t sleep, couldn’t stop thinking… Is there word in English?”
 
 “Restless? I know you would, buddy. That’s just how your people are. Nothing wrong with it.”
 
-*“Rest-*\less. Restless! Yes, I’d feel restless. When Singer was heavy with our girl, she kicked me out of the hut one night and said I should go fuck---”
+*“Rest*-less. Restless! Yes, I’d feel restless. When Singer was heavy with our girl, she kicked me out of the hut one night and said I should go fuck---”
 
 “That’s not how we work, bud!” Julian just barely managed to keep a straight face. Ten’Gewek were so *matter-of-fact* about these sorts of things. “Well, not how *we* work. Al and Xiù, I mean. And me. We stick together, like you do with Singer.”
 
@@ -2836,7 +2836,7 @@ Julian could hardly refuse. He gave Xiù a peck on the cheek and picked up one o
 
 The load got a *lot* heavier when one of the other men, Nobo, lifted the front end.
 
-[“Think you can make it to the forge, Jooyun?”] he joked, [“Or maybe you fall down before then!”]
+[“Think you can make it to the forge, Jooyun?”] he joked. [“Or maybe you fall down before then!”]
 
 [“I just might.”] Julian growled and paused to catch his breath. “God-*damn* man…!” he muttered under his breath, before switching back to People-speak. [“Maybe Xiù can take over when *you* fall down.”]
 
@@ -2930,7 +2930,7 @@ Xiù and Julian looked at each other.
 
 “She has responsibilities.”
 
-Yan nodded. “We see her again soon, yes? Is strange, seeing you two but not her. Seems…” his brow furrowed for a moment. *“...Incomplete.”*
+Yan nodded. “We see her again soon, yes? Is strange, seeing you two but not her. Seems…” His brow furrowed for a moment. *“...Incomplete.”*
 
 Julian chuckled to himself. Yan was like a lot of the true slabs of muscle he knew: breathtakingly intelligent, and determined to act dumber than he really was. His English vocabulary was actually pretty huge, but he stuck to the simple language so as to *seem* simple.
 
@@ -2950,15 +2950,15 @@ Xiù’s face went crimson. “Yan!”
 
 “Pssh. You Humans, so strange about these things.”
 
-“Other species think we’re weirdly *over*\-sexed.” Xiù grumbled, still blushing pink from eartip to collarbone.
+“Other species think we’re weirdly *over*\-sexed,” Xiù grumbled, still blushing pink from eartip to collarbone.
 
-“Well…” Yan ducked his head and grinned sheepishly, “Maybe, Given-Men…what is words? ‘Ham it up?’ Why ham is word, I do not know…”
+“Well…” Yan ducked his head and grinned sheepishly. “Maybe, Given-Men…what is words? ‘Ham it up?’ Why ham is word, I do not know…”
 
 “And you’re just about the biggest ham there is.”
 
 That earned a hoot of approval, and Yan tore off the Werne’s front leg and shoulder with very little apparent effort.
 
-“Here.” He handed it to Xiù, who grimaced a little at suddenly finding herself holding a whole leg of freshly-butchered bloody meat. “Take home, for you and for Awisun. Eating for four now! Werne meat will make the babies strong!”
+“Here.” He handed it to Xiù, who grimaced a little at suddenly finding herself holding a whole leg of freshly butchered bloody meat. “Take home, for you and for Awisun. Eating for four now! Werne meat will make the babies strong!”
 
 “...Thank you, Yan.”  She even managed to accept the gruesome gift gracefully. “I’ll… go pack it, I guess.”
 
@@ -2968,7 +2968,7 @@ Yan trilled as she carried it away. Julian briefly wondered what she intended to
 
 Julian hesitated. He’d been about to demur on the grounds that he needed to get back to the Ambassador and Allison, but snubbing Yan was… not necessarily the wisest idea. Especially when the big brute obviously had some jolly surprise in mind.
 
-“I.. guess I could have Hoeff take your reply back to the Corti…”
+“I... guess I could have Hoeff take your reply back to the Corti…”
 
 “Good! But make sure he come back, yes? We need him.”
 
