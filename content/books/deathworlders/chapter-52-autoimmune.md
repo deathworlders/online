@@ -1563,7 +1563,7 @@ Daar growled, but it seemed to be directed at himself rather than at either of t
 
 “...Not ‘til I’ve consulted my Champions,” he said.
 
-“As you wish,” Tran agreed reasonably. “In the meantime, I think it would be sensible to transfer Leemu to to *Empirical Razor.* The facilities there are better-equipped to handle him, however you decide to proceed.”
+“As you wish,” Tran agreed reasonably. “In the meantime, I think it would be sensible to transfer Leemu to the *Empirical Razor.* The facilities there are better-equipped to handle him, however you decide to proceed.”
 
 “...Yeah. Third Director, I ‘spose I don’t need ‘ta re-hash our history on this point...so, I’m sure none o’ that is gonna be an issue, is it?”
 
