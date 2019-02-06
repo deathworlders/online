@@ -1795,11 +1795,7 @@ He tapped out right as his strength failed, and Jooyun *still* gave him one last
 
 “For what? Playing to win? So did I. And…I’m sorry, too, Vemik. Think I got carried away.”
 
-<<<<<<< HEAD
 All insults were forgiven as far as Vemik concerned. Even through his bruised pride it was good to have his friend back and to see that he’d grown stronger and better. He raised his hand, Jooyun’s palm slapped into it and the two men dragged each other into a fond hug.
-=======
-All insults were forgiven as far as Vemik concerned. Even trhough his bruised pride it was good to have his friend back and to see that he’d grown stronger and better. He raised his hand, Jooyun’s palm slapped into it and the two men dragged each other into a fond hug.
->>>>>>> 79936393caedf6b1c6992393652f9b066d43a834
 
 They were interrupted by footsteps: Shyow, who squatted down next to them and smiled gently.
 
