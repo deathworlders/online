@@ -745,7 +745,7 @@ Fiin caught the sudden change in tone immediately and cocked his head. “Name i
 
 Fiin paused, sniffed at him for a second, then keened softly. “…I see.”
 
-“Oh, don’t go keenin’ at me like a weaning cub,” Garl grumbled. “I’m eighty-two, it was gonna happen sooner or later. An’ I’m too old an’ horrible for the Crue-G ‘ta work.”
+“Oh, don’t go keenin’ at me like a weaning cub,” Garl grumbled. “I’m eighty-eight, it was gonna happen sooner or later. An’ I’m too old an’ horrible for the Crue-G ‘ta work.”
 
 “Does the Great Father know?”
 
