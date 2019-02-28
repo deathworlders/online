@@ -2683,7 +2683,7 @@ Astonishingly considering the family drama unfolding back in Folctha, Allison ar
 
 Clara greeted her with a hug. “You’re looking chipper!”
 
-Allison snorted. “Are you kidding? I got a whole forty minutes away from my fucking mother on the drive over here! I feel great!”
+Allison snorted. “Are you kidding? I got a whole eighty minutes away from my fucking mother on the drive over here! I feel great!”
 
 If there was some brittle humor in the way she said it, Clara decided not to comment. Instead, she pointed over to the fitting hangar, where BGEV-12’s chassis had just been installed. The AAAF had been repurposed to churn out the ships in bare-bones format as fast as it could, and Chiune’s role going forward was outfitting, mission-specific equipment installation and final tests.
 
