@@ -2135,3 +2135,167 @@ ___
 **++END CHAPTER 53++**
 ___
 ___
+
+If you have enjoyed the story so far and want to support the author, you can do so by:
+
+* Subscribing at http://patreon.com/HamboneHFY or https://subscribestar.com/HamboneHFY
+
+* Buying some merchandise at http://teepublic.com/HamboneHFY
+
+* Dropping a one-off payment in the tip jar at http://paypal.me/HamboneHFY or buy me a coffee at http://ko-fi.com/hambonehfy
+
+* Following me on social media via http://facebook.com/HamboneHFY/ or http://twitter.com/HamboneHFY
+
+* Voting for *The Deathworlders* at http://topwebfiction.com
+
+This chapter was brought to you with the help of...
+
+---
+
+***The SOR***
+
+*Those special individuals whose contributions to this story go above and beyond mere money*
+
+Ctwelve,
+
+BitterBusiness,
+
+Sally and Stephen Johnson
+
+Ellen Houston
+
+---
+
+**Twenty-seven** ***Humans***
+
+TTTA
+
+SirNeonPancake
+
+Anthony Landry
+
+Anthony Youhas
+
+Chris Dye
+
+Greg Tebbutt
+
+His Dread Monarch
+
+HungryWerewolf
+
+JLB58
+
+Joseph Szuma
+
+Joshua Mountain Taylor
+
+Joshua Scott
+
+Karthik Mohanarangan
+
+Katja
+
+Krit Barb
+
+Nathaniel Phillips
+
+Nicolas Gruenbeck
+
+Rob Rollins
+
+Savvz
+
+Shane Wegner
+
+Sun Rendered
+
+Theningaraf
+
+tsanth
+
+Volka Creed
+
+Xultanis
+
+Zachary Galicki
+
+
+---
+
+As well as **Fifty-eight** ***Deathworlders...***
+
+Austin Deschner
+Aaron Hescox
+Adam Beeman
+Adam Shields
+Alex Hargott
+Andrew Ford
+Andrew Robinson
+Arnor
+atp
+Ben Thrussell
+Bruce Ludington
+Buck Caldwell
+C'tri Goudie
+Chris Bausch
+Chris Candreva
+damnusername
+Daniel R.
+Dar
+Darryl Knight
+David Jamison
+Derek Price
+Devin Rousso
+Elizabeth Schartok
+ELLIOTT S RIDDLE
+Eric Johansson
+Fiona Dunlop
+galrock0
+Gavin Smart
+Ignate Flare
+Jim Hamrick
+John Eisenberg
+Jon
+Kristoffer Skarra
+Laga Mahesa
+lovot
+Martin Ã˜stervang
+Matt
+Matt Demm
+Matthew Cook
+Mel B.
+mihkel miks
+Mikee Elliott
+mudkip201
+Myke Harryson
+Nick Annunziata
+NightKhaos
+Oliver Mernagh
+Patrick Huizinga
+Richard A Anstett
+Ryan Cadiz
+Saph
+Sintanan
+Stephane Girardin
+theWorst
+Tyler Kelloway
+Woodsie13
+Zachary M Lunstrum
+
+**...Sixty-four** ***Friendly ETs,*** **84** ***Squishy Xenos*** and **257** tasty little ***Dizi Rats.***
+---
+
+“The Deathworlders” is © Philip Richard Johnson, AKA Hambone, Hambone3110 and HamboneHFY. Some rights are reserved: The copyright holder reserves all commercial rights and ownership of this intellectual property. Permission is given for other parties to share, redistribute and copy this work under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0International License.
+
+This work contains deliberate mentions of real persons, places and trademarks, which are made purely for reasons of verisimilitude under nominative fair use. These mentions have not been endorsed or sponsored by those persons or by the owners or governing bodies of those trademarks or places. All song lyrics, movie titles or other copyrighted material and trademarks that are referenced in this work under fair use are the property of their respective owners.
+
+The events and characters portrayed in this story are fictional and any resemblance to actual persons or events is accidental.
+
+The author does not automatically share or endorse the opinions and behaviour of the characters.
+
+---
+
+Thank you for reading!
+
+*The Deathworlders* will continue in chapter 54.
