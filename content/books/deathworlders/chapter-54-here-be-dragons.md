@@ -4,7 +4,7 @@ date: 2019-03-31T09:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point: 16y2m5d AV**     
-**Planet Akyawentuo, Ten’gewek Protectorate, Near 3KPc Arm**
+**Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
 
 ***Xiù Chang***
 
@@ -16,7 +16,7 @@ But they’d come out to fight it anyway, because it *needed* hunting. Their qua
 
 His answer was ably helped by Hoeff, who had been more than glad to demonstrate what .50 BMG did to an unsuspecting neyma on the way home. They’d wound up carrying the hapless animal back in halves, grumbling about all the wasted meat that the bullet had pulped too thoroughly to be of use. It looked horrific, but Xiù didn’t feel sorry for the creature: it had been dead before it even finished dropping to the ground. Compared to all the other ways a neyma could be slain in a hunt, Hoeff’s demonstration had been humane.
 
-The sight of an animal basically torn in two by a weapon that the smallest man present handled with ease had done a lot to provoke discussion among the Given-Men and Singers. And the Singers, according to Ten’gewek tradition, were men too in a robust all-but-cock way. So some of those squabbles had gotten physical... and the Given-Men hadn’t *always* won.
+The sight of an animal basically torn in two by a weapon that the smallest man present handled with ease had done a lot to provoke discussion among the Given-Men and Singers. And the Singers, according to Ten’Gewek tradition, were men too in a robust all-but-cock way. So some of those squabbles had gotten physical... and the Given-Men hadn’t *always* won.
 
 The thrust of the disagreement was this: the women wanted their sons, brothers and lovers to come home safely. The men didn’t want to weaken themselves before the Gods by relying on cheap sky-magic tricks. Vemik had, in an adorably dorkish way, tried to point out that there was nothing *cheap* about the rifle and that a lot of hard work by a lot of people had gone into making it…
 
@@ -24,15 +24,15 @@ The thrust of the disagreement was this: the women wanted their sons, brothers a
 
 Vemik had eventually given up and gone to sit with Julian, who was whittling a small toy out of Forestfather bark and listening at the edge of the conversation while diplomatically *not* taking part. After a while, he’d got out his sketchbook and extra-large chunky pencil, and taken to sketching.
 
-The discussion went on until sometime after sunset, when the sky was shading to purple and dark blue. It was fairly peaceful but *very* serious with hardly any grab-ass and aggressive flirting at all, which made it practically Parliamentary by Ten’gewek standards.
+The discussion went on until sometime after sunset, when the sky was shading to purple and dark blue. It was fairly peaceful but *very* serious with hardly any grab-ass and aggressive flirting at all, which made it practically Parliamentary by Ten’Gewek standards.
 
-Xiù wasn’t invited. She attended anyway, watching from high above via the drone and listening through its highly directional microphone. It had *instantly* become her favorite toy, and she’d resolved that the second she was forced to give it back, she’d buy one of her own when they go back to Folctha.
+Xiù wasn’t invited. She attended anyway, watching from high above via the drone and listening through its highly directional microphone. It had *instantly* become her favorite toy, and she’d resolved that the second she was forced to give it back, she’d buy one of her own when they got back to Folctha.
 
 Dan Hurt sat next to her, watching and listening via a tablet.
 
 “...You really have to admire their stubbornness, don’t you?” he asked after the third time the conversation looped back around to the problem of needing to kill that Brown One.
 
-“Mm-hm.” Xiù nodded sadly. If that Brown One attacked again, there’d be grieving families who might justifiably wonder *why* they hadn’t used the Sky-magic. She had to admire how seriously the Ten’gewek took their independence, but that was going to be hard if people got killed.
+“Mm-hm.” Xiù nodded sadly. If that Brown One attacked again, there’d be grieving families who might justifiably wonder *why* they hadn’t used the Sky-magic. She had to admire how seriously the Ten’Gewek took their independence, but that was going to be hard if people got killed.
 
 She glanced over to the other end of the research camp. Hoeff and Claire were working things out over there, sitting side-by-side in camp chairs by the fire and making s’mores. It seemed to be going well, or at least Hoeff seemed to be much more relaxed than usual… and to judge by the way Claire touched his arm and smiled and laughed at one of his jokes, *she* thought it was going well too.
 
@@ -42,7 +42,7 @@ It was breaking up.
 
 “...Tribal life,” Dan sighed. “They need to learn how to start taking minutes of these things. I guarantee half of them won’t even remember what was discussed or what they agreed on next time.”
 
-Xiù picked up her cup of coffee. She’d been keeping it hot in its steel mug next to the fire, and it steamed delightfully as she sipped it. “Mm. Yes. The true mark of civilization: *Minutes.”*
+Xiù picked up her cup of coffee. She’d been keeping it hot in its steel mug next to the fire, and it steamed delightfully as she sipped it. “Mm. Yes. The true mark of civilization: *minutes.”*
 
 Dan snorted. “Since when were you so sarcastic?”
 
@@ -140,7 +140,7 @@ He put his arm around her and conceded the point with a chuckle. “Guess not.�
 ___
 
 **Date Point: 16y2m5d AV**     
-**Planet Akyawentuo, Ten’gewek Protectorate, Near 3KPc Arm**
+**Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
 
 ***Vemik Sky-Thinker***
 
@@ -252,7 +252,7 @@ More emojis. It was clear the Entity had made up its mind. And it was *breathtak
 
 "...I know. I can’t stop you, just… don’t get yourself killed, okay? Be careful.”
 
-It took her a few moments to decipher the Entity’s parting statement: *<Clock; infinity symbol>* By the time she had, it had signed off and departed. She smiled to herself and sipped her tea again.
+It took her a few moments to decipher the Entity’s parting statement: *\<Clock; infinity symbol\>* By the time she had, it had signed off and departed. She smiled to herself and sipped her tea again.
 
 *“Always.”*
 
@@ -289,7 +289,7 @@ Actually, they were pretty good about that. Some light-hearted cheeky teasing, m
 
  “Bit dull-looking, isn’t it?” Taylor mused as they passed the tablet around. “It looks like a beer keg.”
 
-“An eight hundred meter beer keg,” Dye agreed.
+“An eight-hundred-meter beer keg,” Dye agreed.
 
 “How does something that big accelerate without crushing itself?”
 
@@ -299,7 +299,7 @@ Actually, they were pretty good about that. Some light-hearted cheeky teasing, m
 
 “Well, she’s a diplomatic vessel not a warship,” Sachi shrugged. “I guess she’s more like a space station than a ship.”
 
-“She’s a sitting duck.” Phillips grumbled.
+“She’s a sitting duck,” Phillips grumbled.
 
 “Hospital ships and diplomatic ships always are,” Scott reminded him. He was the most seasoned sailor among the new guys, with a few years of service aboard HMS *Agamemnon* under his belt before he’d transferred to the Royal Navy Space Service.
 
@@ -333,7 +333,7 @@ Patel gave him a stern look. “Maybe you should save the bitching about them fo
 
 “I’d feel better if there were some Gaoians in the formation…” Dye muttered.
 
-“Yeah, well, the Kwmbwrw asked them to stay out except in emergencies.” Taylor explained.
+“Yeah, well, the Kwmbwrw asked them to stay out except in emergencies,” Taylor explained.
 
 “Not us?”
 
@@ -365,7 +365,7 @@ Come what may.
 ___
 
 **Date Point: 16y2m1w2d AV**    
-**Folctha, Cimbrean, The Far Reaches**
+**Folctha, Cimbrean, the Far Reaches**
 
 ***Allison Buehler***
 
@@ -399,7 +399,7 @@ Julian’s troll-grin got a little bit wider. “Well, I’m sure if you butter 
 
 “Ugh, you are a *double* butt today!” Allison griped at him, drawing a giggle from the boys. No doubt they’d be using that one later.
 
-“Ooh! Him and Claire are a thing, now.” Xiù said.
+“Ooh! Him and Claire are a thing, now,” Xiù said.
 
 “About time! What finally gave?”
 
@@ -411,7 +411,7 @@ Julian’s troll-grin got a little bit wider. “Well, I’m sure if you butter 
 
 Xiù and Al shared an amused look they’d often shared before. The one that said, in the universal language of women everywhere: *“Boys.”*
 
-Julian cleared his throat and changed the subject. “So... Misfit’s back? I feel kinda bad I never met the new crew.”
+Julian cleared his throat and changed the subject. “So... *Misfit’s* back? I feel kinda bad I never met the new crew.”
 
 “They’re great!” Al enthused. “The old girl’s just as healthy and happy as we left her. Thompson’s… not *quite* as soft on the controls as Xiù, but they’re taking great care of her. They found a heck of a planet too.”
 
@@ -421,11 +421,11 @@ Julian cleared his throat and changed the subject. “So... Misfit’s back? I f
 
 “That sounds nice,” Xiù smiled. “Maybe we’ll get to visit someday.”
 
-“Yeah… You know what struck me as weird?
+“Yeah… You know what struck me as weird?""
 
 “What?”
 
-“We spent *years* living on that ship, and I’ve been up to my elbows building more like her ever since, and I was *still* shocked by how tiny she is inside. Like… my memory says we had plenty of room, but in reality…” she waved around their living room. “We spent that whole time living in a room half this size. Funny how memory plays tricks on you, you know?”
+“We spent *years* living on that ship, and I’ve been up to my elbows building more like her ever since, and I was *still* shocked by how tiny she is inside. Like… my memory says we had plenty of room, but in reality…” She waved around their living room. “We spent that whole time living in a room half this size. Funny how memory plays tricks on you, you know?”
 
 Julian shrugged. “Well I gotta admit, I don’t mind the extra space.”
 
@@ -513,7 +513,7 @@ Maybe ‘cuz he wanted to take the long way there.
 
 He arrived, and scratched on the door. There was a distracted “Yes yes, come in!” from somewhere inside the lab, so Daar grumbled a bit, wedged himself through the door, and prowled over to Nofl’s workspace.
 
-Nofl shot a glance over his shoulder and *beamed* at him, as merrily and as gayly as ever, which just seemed fuckin’ disrespectful of Leemu.
+Nofl shot a glance over his shoulder and *beamed* at him, as merrily and as gaily as ever, which just seemed fuckin’ disrespectful of Leemu.
 
 On th’other hand… Corti didn’t smell of much except fungi and science so it was hard ‘ta get a read on them sometimes, but Daar’s nose did more than sniff stuff. He’d always been a little superstitious about it, an’ right now it was tellin’ him that Nofl’s good cheer might be more’n just his usual camp act.
 
@@ -529,7 +529,7 @@ The tiny flickering ember of hope that Daar had managed to nurse even as far as 
 
 “I like to live dangerously,” Daar remarked drily. “Brief me.”
 
-“Well, the cure is arguably even worse than the sickness, but… I’m going to give him Crohn’s Disease. Or maybe Lupus, I’m not sure yet!”
+“Well, the cure is arguably even worse than the sickness, but… I’m going to give him Crohn’s disease. Or maybe lupus, I’m not sure yet!”
 
 Daar blanked at that. “Uhh…. Ain’t that one’o them cripplin’ *Human* diseases? Where, uh, their own immune system goes bonkers?”
 
@@ -545,7 +545,7 @@ Nofl summoned a summary screen about the disease. “Now!” he continued. “I�
 
 Nofl flapped a hand. “Ninety-nine percent.”
 
-“That’s… nice for ‘em,” Daar said. “But how does it help a Gaoian? I know first hand our immune system ain’t *shit* next to a Human’s.” There was still a fine pale scar on his paw from where a fungal infection from digging in the dirt on Earth had spread *scarily* fast.
+“That’s… nice for ‘em,” Daar said. “But how does it help a Gaoian? I know firsthand our immune system ain’t *shit* next to a Human’s.” There was still a fine pale scar on his paw from where a fungal infection from digging in the dirt on Earth had spread *scarily* fast.
 
 “More precisely, you have effectively zero defense against their particular fungal forms. The rest of your system is perfectly serviceable...though clearly engineered. And ***that*** is the key! That is part of our opportunity!”
 
@@ -561,11 +561,11 @@ Daar sighed. “Yeah. It’s really fuckin’ depressin’ to know who ‘yer go
 
 “Oh yes!” Nofl nodded enthusiastically. “Though, uhhmmm… it won’t be painless for him. Or entirely safe! We *are* talking about giving him a crippling chronic illness after all.”
 
-“Well,” Daar commented ambivalently, “Still better’n bein’ worm mulch.”
+“Well,” Daar commented ambivalently, “still better’n bein’ worm mulch.”
 
 “I hope!” Nofl agreed. “It won’t be remotely easy. But I’m quite sure that it’s possible.”
 
-“...I’m hearin’ a lotta words like *‘somehow’* an’ *‘could’* an *‘hope’* here, Nofl.”
+“...I’m hearin’ a lotta words like *‘somehow’* an’ *‘could’* an' *‘hope’* here, Nofl.”
 
 “That’s the nature of experimental medicine, I’m afraid.” Nofl shut off the holo-emitter. “But… well, the alternative is euthanasia. And I’m *afraid* that’s not legal here. You’d have to take him back to Gao first.”
 
@@ -599,7 +599,7 @@ Of course. Daar used to *revel* in the idea that he was the most finest thread f
 
 How much to the whims of sapient malware?
 
-*Gods,* his next lil’ chat with Gyotin was gonna be painful like a naxas kick to the chest.
+*Gods,* his next lil’ chat with Gyotin was gonna be painful like a Naxas kick to the chest.
 
 “Dont’cha already have samples? Don’t lie ‘ta me, now.”
 
@@ -674,7 +674,7 @@ To judge by the expression on the tailor’s face, she was thoroughly enjoying t
 
 “No no, you need the *long* ones. You’re tall and your neck’s super thick.”
 
-Julian felt like had to tread furiously to keep his head above water. “I mean, it goes around…”
+Julian felt like he had to tread furiously to keep his head above water. “I mean, it goes around…”
 
 “Not far enough! It needs to *just* reach your belt buckle. No longer, no shorter.”
 
@@ -688,13 +688,13 @@ When their backs were turned to dash off across the shop in search of the right 
 
 “We should have everything completed in two days. Maybe three in your case, but outsized athletic cuts have become a specialty of ours. Jeff and Mindy should get you done in no time.”
 
-“Right.” Julian sighed, “I suppose we should, uh, settle up. Once the little fellas are done dressing me I guess…”
+“Right,” Julian sighed. “I suppose we should, uh, settle up. Once the little fellas are done dressing me I guess…”
 
 “Handkerchiefs, cufflinks, and a few other accessories yet to go. Oh, and do you have any appropriate briefs? Athletes like yourself can be challenging to properly fit, and you don’t want any lines showing through.”
 
 “…I need special underwear for this?”
 
-And so on. *Those* at least were big and stretchy enough that he could get away with off-the-shelf, even if they were so thin and showy that Julian had to wonder if this was some private abuse of power on the tailor's part, or maybe part of Al’s revenge. He didn’t want to think about what would have happened if they didn’t fit...anyway. Julian nodded numbly while the boys piled on an incomprehensible selection of… things... and he eventually managed to escape back into the free air.
+And so on. *Those* at least were big and stretchy enough that he could get away with off-the-shelf, even if they were so thin and showy that Julian had to wonder if this was some private abuse of power on the tailor's part, or maybe part of Al’s revenge. He didn’t want to think about what would have happened if they didn’t fit... Anyway. Julian nodded numbly while the boys piled on an incomprehensible selection of… things... and he eventually managed to escape back into the free air.
 
 At least Al paid for it all.
 
@@ -746,7 +746,7 @@ He took a deep breath and composed himself.
 
 “I suppose it was inevitable, really...” She glanced over her shoulder to check they weren’t in earshot, then drew a little closer on the pretense of adjusting his collar and lowered her voice. “They really love you, you know.”
 
-“It’s not… weird or anything? I mean, you’re their sister not their mom, and…”
+“It’s not… weird or anything? I mean, you’re their sister, not their mom, and…”
 
 Al dismissed that suggestion with a shrug. “So we’re weird. Stop giving a fuck about it and let them be your sons. Please? It’s what they need.”
 
@@ -778,17 +778,17 @@ And some witchcraft happened.
 ___
 
 **Date Point: 16y2m1w5d AV**    
-**Starship** ***Rich Plains,*** **Kwmbwrw Great Houses**
+**Diplomatic Starship** ***Rich Plains,*** **Kwmbwrw Great Houses**
 
 ***Ambassador Sir Patrick Knight***
 
 There were times when Knight tried to figure out which of the various alien species who made up the Dominion were the *most* alien, in terms of their life outlook, general species philosophy, foibles…
 
-There were a few candidates. The Corti were really quite understandable once one got to know them, and the Gao were extremely relatable in an intense, canine-adjacent sort of way. Those two were the easiest to interact with. The Rauwryhr, Chehnash and Rrrrtktktkp’ch were pretty familiar too, being respectively idealistic and curious, jaded, and cerebral.
+There were a few candidates. The Corti were really quite understandable once one got to know them, and the Gao were extremely relatable in an intense, canine-adjacent sort of way. Those two were the easiest to interact with. The Rauwryhr, Chehnash, and Rrrrtktktkp’ch were pretty familiar too, being respectively idealistic and curious, jaded, and cerebral.
 
 All of that was in the broadest possible strokes, of course. It was dangerous to try and sum up a species of billions of souls using just one word, but at the same time…
 
-The most *alien* were probably the Annebenelin, the Versa Volc and the Robalin. The former two grappled with knowing that their species were only sapient because of scientific meddling by the OmoAru tens of thousands of years ago, and had a certain degree of resentment toward species who’d achieved sapience under their own power. At least the Versa Volc were personable enough in a distant way.
+The most *alien* were probably the Allebenellin, the Versa Volc and the Robalin. The former two grappled with knowing that their species were only sapient because of scientific meddling by the OmoAru tens of thousands of years ago, and had a certain degree of resentment toward species who’d achieved sapience under their own power. At least the Versa Volc were personable enough in a distant way.
 
 The Robalin meanwhile were just impenetrable. Those big, dark green, pupil-less eyes were unreadable, their motives remained inscrutable and they rarely deigned to explain their reasons for anything they did.
 
@@ -838,7 +838,7 @@ He matched the alien’s inscrutable blank gaze with a fiercely principled one o
 
 “...As many as one in three of those infected.”
 
-Knight didn’t let his reaction to that show. He’d been briefed, in fact, on the Robalin’s domestic bioweapon problems, and that mortality rate put the Spanish Flu to shame. Hell, in recent years the human race had managed to claw the *Ebola* mortality rate down below that threshold.
+Knight didn’t let his reaction to that show. He’d been briefed, in fact, on the Robalin’s domestic bioweapon problems, and that mortality rate put the Spanish flu to shame. Hell, in recent years the human race had managed to claw the *Ebola* mortality rate down below that threshold.
 
 He didn’t like the Robalin government, not at all. It was censorious, tyrannical, pathologically hostile to citizens who didn’t conform to its ideals… it offended his sensibilities as a classic liberal thinker in every way.
 
@@ -895,7 +895,7 @@ He needed a bath.
 ___
 
 **Date Point: 16y2m1w5d AV**    
-**Camp Tebbutt Biodrone Internment Facility, Yukon-Koyukuk province, Alaska, USA, Earth**
+**Camp Tebbutt Biodrone Internment Facility, Yukon-Koyukuk, Alaska, USA, Earth**
 
 ***Ava Ríos***
 
@@ -921,11 +921,11 @@ Thank *goodness* but the BBC hadn’t sent Sean Harvey. God willing, she’d nev
 
 "You were *shot at?"*
 
-"I was shot." Ava recalled, remembering the moment a bullet had shoved her *hard* in the back while she ran for her life. "I was wearing body armor but, uh... I don't recommend it."
+"I was shot," Ava recalled, remembering the moment a bullet had shoved her *hard* in the back while she ran for her life. "I was wearing body armor but, uh... I don't recommend it."
 
 “I didn’t know you did embedded reporting!” Francesca looked both impressed and unnerved.
 
-Ava shrugged. “It wound up being classified anyway.” Which was true: The Hierarchy’s existence had been declassified years ago, but Operation EMPTY BELL was still top secret. “I can’t really talk about the details. Non-disclosure.”
+Ava shrugged. “It wound up being classified anyway.” Which was true: the Hierarchy’s existence had been declassified years ago, but Operation EMPTY BELL was still top secret. “I can’t really talk about the details. Non-disclosure.”
 
 “Sorry.”
 
@@ -947,9 +947,9 @@ Sure enough, the pilot called over his shoulder just a few seconds later. Once u
 
 Ava smiled at the joke. Their flight wasn’t exactly the height of luxury, she was in a bucket seat with a four-point harness on rather than some comfortable commercial thing. Still, she made sure nothing was loose around her and then grabbed her camera to record the landing.
 
-Around her, the other three turned on their Go-Pros and Francesca gave her a curious look as she produced a camera drone from her bag. “...You like to do things the old-fashioned way, don’t you?”
+Around her, the other three turned on their GoPros and Francesca gave her a curious look as she produced a camera drone from her bag. “...You like to do things the old-fashioned way, don’t you?”
 
-“It’s part of my brand,” Ava gave her a shrug. She’d heard that comment before, and she knew better than to say that she felt her way was more authentic. Anyone could just wander around with a camera drone and a body-cam and a head-cam and then pick out some decent shots and clips from among the hours of footage back in the comfort of their office.
+“It’s part of my brand.” Ava gave her a shrug. She’d heard that comment before, and she knew better than to say that she felt her way was more authentic. Anyone could just wander around with a camera drone and a body-cam and a head-cam and then pick out some decent shots and clips from among the hours of footage back in the comfort of their office.
 
 She also knew better than to mention all the awards on her shelf. There was an *art* to photojournalism, and it sprang from the art of photography. She controlled the framing, the color balance, the depth of field, shutter speed... She could do things with her camera that turned the news into *life.* Bare facts became poetry when attached to the right image.
 
@@ -990,7 +990,7 @@ ___
 
 “Julian! Good of you to drop by! I see my secret elves have done their magic…”
 
-Julian managed a nervous smile and sat down when Ambassador Chris Rockefeller gestured invitingly toward a seat. He was the US Ambassador to Folctha first and foremost, but the umbrella of his duties also covered New Botany, Abeltown, Nouveau Acadia, and the Ten’gewek… the latter of which made him Julian’s boss.
+Julian managed a nervous smile and sat down when Ambassador Chris Rockefeller gestured invitingly toward a seat. He was the US Ambassador to Folctha first and foremost, but the umbrella of his duties also covered New Botany, Abeltown, Nouveau Acadia, and the Ten’Gewek… the latter of which made him Julian’s boss.
 
 He was impossible to dislike. Charming, easy, relaxed, jocular… Julian had never put much thought into what ambassadors in general were like, but some unconscious part of his brain had prejudiced itself toward thinking they’d be universally stuffy, formal and straight-laced.
 
@@ -1006,7 +1006,7 @@ Well, *that* was a new one. Julian cleared his throat. “...I should point out,
 
 “Learn how to use the right cutlery, that kinda thing?”
 
-Rockefeller waved a hand like he was shooing a fly, dismissively. “Cutlery’s easy. Just start from the outside and work your way in.” He flashed that smile again, then sat back and folded his hands comfortably across his belly. “So. How are we doing with setting up that meeting between the Corti and the Ten’gewek?”
+Rockefeller waved a hand like he was shooing a fly, dismissively. “Cutlery’s easy. Just start from the outside and work your way in.” He flashed that smile again, then sat back and folded his hands comfortably across his belly. “So. How are we doing with setting up that meeting between the Corti and the Ten’Gewek?”
 
 Julian nodded, feeling a little more on solid ground now that he was just reporting what had happened. “It… got a little sidetracked. The Ten’Gewek have had a marauding Brown One to deal with.”
 
@@ -1022,7 +1022,7 @@ The ambassador looked impressed. “...Is everything okay?”
 
 “He’ll hear them out, but he wants the Corti to come to him. It’s, uh…well, they’re entering rut, to put it bluntly. It’s very important for the tribes, they have boys at trial, new Dancers, Rites of Womanhood too…”
 
-“And a cheetah-bear-t-rex monster to kill. Hmm…” Rockefeller jotted a note down. “...He won’t budge? They have to go to him?”
+“And a cheetah-bear-T-rex monster to kill. Hmm…” Rockefeller jotted a note down. “...He won’t budge? They have to go to him?”
 
 “He’ll budge a little. I told him if the Corti visit the planet itself they’ll get what they’re after anyway, so he agreed to meet them on a ship in orbit on the condition that it has to be one of ours, or Gaoian.”
 
@@ -1034,7 +1034,7 @@ Rockefeller tilted his head. “Body-words?”
 
 “That’s about as good as I can get for *‘genetic information’* in their language.”
 
-That got a laugh. “Right. That makes sense… Still, good work. The Corti might be on our side of the chamber at the Dominion Council these days, but that doesn’t mean they won’t exploit the crap out of the Ten’gewek if they get the chance.”
+That got a laugh. “Right. That makes sense… Still, good work. The Corti might be on our side of the chamber at the Dominion Council these days, but that doesn’t mean they won’t exploit the crap out of the Ten’Gewek if they get the chance.”
 
 Julian accepted the praise with a smile and a nod. “Thanks.”
 
@@ -1050,7 +1050,7 @@ Somehow, Julian believed him. “Sounds simple enough…” he admitted.
 
 Julian laughed. “That other five percent will get you… What if I forget names?”
 
-“You’ll be *fine.”* Rockefeller assured him. “These people are human too. Most of ‘em.”
+“You’ll be *fine,”* Rockefeller assured him. “These people are human too. Most of ‘em.”
 
 “There’ll be ET guests?”
 
@@ -1068,7 +1068,7 @@ Julian smiled faintly. “Honestly? Tristan and Ramsey might be better guests th
 
 Rockefeller laughed. “Really? Interesting… It’s good if they can come. A few of my colleagues back on Earth who’ve never met you wonder about you. Your history, your unique family circumstances, your, ah, rather *uninhibited* modelling career… All of it rubs some of them the wrong way. It goes against the grain of what they think a special envoy should be.”
 
-“Even to a stone age tribal species? Actually, no, that’s… I dunno where they’re at now, actually. We’re well out of the stone age and coming up on I guess early Roman in just a few years.”
+“Even to a stone-age tribal species? Actually, no, that’s… I dunno where they’re at now, actually. We’re well out of the Stone Age and coming up on I guess early Roman in just a few years.”
 
 “Even so.”
 
@@ -1157,13 +1157,13 @@ Still, it had not been able to delete knowledge, memories and experience. The Bu
 
 All that remained was to test it.
 
-And testing such as this, for a builder, was just as salivatory as fresh Prey to the Eaters.
+And testing such as this, for a Builder, was just as salivatory as fresh Prey to the Eaters.
 
-***\<Meat to the maw.\>****
+***\<Meat to the maw.\>***
 ___
 
 **Date Point: 16y2m2w AV**    
-**Diplomatic Starship** ***Rich Plains,*** **Interstellar space, the Kwmbwrw Great Houses**
+**Diplomatic Starship** ***Rich Plains,*** **the Kwmbwrw Great Houses**
 
 ***Ambassador Sir Patrick Knight***
 
@@ -1183,9 +1183,9 @@ It was such a shame that Kwmbwrw prejudice remained upsettingly impenetrable. Af
 
 Knight wasn’t inclined to worry about it. He wasn’t about to waste his time trying to impress the Grandmatriarchs, not when devastating the Hunter population, saving the Gao, defending a Domain homeworld and all the rest had failed to work.
 
-He focused his attention on more receptive audiences, like the Rauwryhr and Chehnash.
+He focused his attention on more receptive audiences, like the Rauwryhr and Chehnash, whose representatives on the station he was currently taking a stroll through the aquarium with, for the purposes of an unofficial sort of discussion.
 
-The Chehnash were interesting. Their history of internecine warfare was just as long, storied and intense as humanity’s, and they had unarguably been the most militarily savvy of the Dominion’s associate species prior to the arrival of the Gao and *Homo Sapiens.* Their problem, strategically speaking, was a lack of coordination and mass. That was an internal political problem, nothing they could fix by following human strategic advice, though they’d shown great interest in Knight’s proposed defence symposium.
+The Chehnash were interesting. Their history of internecine warfare was just as long, storied and intense as humanity’s, and they had unarguably been the most militarily savvy of the Dominion’s associate species prior to the arrival of the Gao and *Homo sapiens.* Their problem, strategically speaking, was a lack of coordination and mass. That was an internal political problem, nothing they could fix by following human strategic advice, though they’d shown great interest in Knight’s proposed defence symposium.
 
 As for the Rauwryhr...
 
@@ -1193,7 +1193,7 @@ It pained him to admit it, but the herbivorous species just didn’t have a prop
 
 For the herbivores, war seemed to be...more a show of strength. It was a display ritual. In the fructivorous Rauwryhr’s case, their natural cultural unit was a tightly knit large family group, which had historically done little more than skirmish harmlessly with each other to establish territories among the huge low-gravity forests of their homeworld. They hadn’t seriously gone to war in generations, though being naturally good gliders and quite capable of flying on their home planet, they apparently made pretty good fighter pilots.
 
-Too bad their bodies just couldn’t handle serious acceleration. Their reflexes were up to snuff, but the kind of G-forces a well-conditioned human or gaoian pilot could endure would literally crush a Rauwryhr’s ribs.
+Too bad their bodies just couldn’t handle serious acceleration. Their reflexes were up to snuff, but the kind of G-forces a well-conditioned human or Gaoian pilot could endure would literally crush a Rauwryhr’s ribs.
 
 “Still…” he mused as they paused to watch a white-tipped shark meander lazily by under the floor.  “That’s a surmountable problem, I’m sure. Small craft aren’t really my field of expertise, but as I understand it it’s kinetic energy that wins fights. With the right training and equipment…”
 
@@ -1211,7 +1211,7 @@ He sighed and reluctantly put his anxieties aside. Doing so felt like mentally n
 
 There was a brilliant, dazzling flash from somewhere further up the formation, maybe a hundred kilometers or more ahead of the *Rich Plains.* It was followed only an instant later by the rising mournful warble that was the ship’s emergency alarm.
 
-Knight’s personal protection agent appeared as though from nowhere. His name was Spencer, a teak-hard man in his mid forties, weatherbeaten and as tough as steel cable, and formerly of the SRR.
+Knight’s personal protection agent appeared as though from nowhere. His name was Spencer, a teak-hard man in his mid-forties, weatherbeaten and as tough as steel cable, and formerly of the SRR.
 
 “Sir—!”
 
@@ -1285,7 +1285,7 @@ William’s level voice pulled her attention away from the screen. “Eleven, ay
 
 Non-Essential Gravity was almost tapped. Inertial Compensation could give another few megajoules before things *really* started to get bumpy, and she’d already brought one of the step-up reactors online. It had a lot more to give, but an extra reactor meant extra waste heat, and getting rid of that heat was the *opposite* of easy. Bad idea to build up a thermal debt too early in the engagement.
 
-They were going to build up a big enough one anyway. Remote warding meant extending *Caledonia’s* shields around the vulnerable *Rich Plains* and protecting it literally as though they were taking the hits themselves. While *Cally’s* shields had been upgraded and were now on par with a *San Diego* class cruiser’s, taking the brunt of seven ships-worth of incoming fire was…
+They were going to build up a big enough one anyway. Remote warding meant extending *Caledonia’s* shields around the vulnerable *Rich Plains* and protecting it literally as though they were taking the hits themselves. While *Cally’s* shields had been upgraded and were now on par with a *San Diego*-class cruiser’s, taking the brunt of seven ships' worth of incoming fire was…
 
 Patel was just glad the capacitor was at 100%. They had a deep reserve to work with… and they were going to need it.
 
@@ -1301,7 +1301,7 @@ The Hunters tried two more close passes, targeting first *Cally* then the *Rich 
 
 Maybe they could see just how hard *Cally* was working, because they pressed the advantage a third time despite the ravaging gamma radiation. Both the step-up reactors were now online, and the coolant pump on the other side of the bulkhead was producing a powerful thundering howl that Patel could feel in her bones. Even through her hearing protection, it was terrifyingly loud.
 
-*“Fuck me, can’t these bastards take a hint?* Williams groaned as they struck a fourth time and came around for a fifth pass even though they’d left one of their number tumbling and disintegrating as the backlash finally broke through and slagged the hull.
+“Fuck me, can’t these bastards take a hint?" Williams groaned as they struck a fourth time and came around for a fifth pass even though they’d left one of their number tumbling and disintegrating as the backlash finally broke through and slagged the hull.
 
 “TEMPSIT condition two!” Patel called, managing to announce it loud and clear even through gritted teeth. Condition One was when things started melting and catching fire. Sweat was pickling her face inside her flash hood.
 
@@ -1374,7 +1374,7 @@ First Fang had borrowed some of that tech too as part of their expanding combine
 
 Red light. The moment came. Final gear checks, skull-shattering slaps on each other’s helmets. His wingman from First Fang was practically vibrating in anticipation. Hell, they all were.
 
-The assault was blink-and-you-missed-it fast. The were on target. There was a colossal crash, the auto-breach went about its business. It didn’t take more than a few seconds, which was critical; they had to get on-board and start fucking shit up before the Hunters understood what was happening.
+The assault was blink-and-you-missed-it fast. They were on target, there was a colossal crash, the auto-breach went about its business. It didn’t take more than a few seconds, which was critical; they had to get on-board and start fucking shit up before the Hunters understood what was happening.
 
 Warhorse and Righteous were at the front, with two gigantic bear-guys from First Fang right on their tail. Months of joint training meant everyone knew exactly what to do, and it all started with the pair of massive ballistic shields the Beef Brothers were hefting.
 
@@ -1402,7 +1402,7 @@ Up ahead was where they were supposed to reunite with the other half of the team
 
 No machine was perfect, of course. There was a ship-shakingly loud explosion, followed by some truly beautiful Kentucky cursing over the comms channel.
 
-*“RIGHTEOUS, ABBOT. Report!”*
+*“RIGHTEOUS, ABBOTT. Report!”*
 
 *“Watch out ‘fer the big cyborg-lookin’ ones, they got bombs in their chests!”*
 
@@ -1451,7 +1451,7 @@ Titan turned to look at him. Behind his visor, his eyes were deeply worried. “
 ___
 
 **Date Point: 16y2m2w1d AV**    
-**Starship** ***Rich Plains,*** **Kwmbwrw Great Houses**
+**Diplomatic Starship** ***Rich Plains,*** **Kwmbwrw Great Houses**
 
 ***Grandmatriarch Henenwgwyr, Kwmbwrw delegate to the  Dominion Security Council***
 
@@ -1465,9 +1465,9 @@ No. Henenwgwyr decided the single most humiliating part of it all was when the G
 
 ...He’d come across as a disappointed teacher.
 
-He had, however, singled out one non-Deathworlder ship for praise. The Rauwryhr heavy escort *Fearless* had lived up to its name and held the line alongside the *Caledonia,* even supporting the human ship with an injection of surplus power via some kind of shield-based transfer.
+He had, however, singled out one non-Deathworlder ship for praise. The Rauwryhr heavy escort *Fearless* had lived up to its name and held the line alongside the *Caledonia,* even supporting the Human ship with an injection of surplus power via some kind of shield-based transfer.
 
-The *Fearless’* shipmaster visibly swelled with pride as the galaxy’s most fearsome military leader commended his leadership and the courage of his crew. In the end, however, Henenwgwyr couldn’t help but suspect that flattering the Rauwryhr was part of the plan. Daar had a reputation for impeccable honesty, of course…
+The *Fearless’s* shipmaster visibly swelled with pride as the galaxy’s most fearsome military leader commended his leadership and the courage of his crew. In the end, however, Henenwgwyr couldn’t help but suspect that flattering the Rauwryhr was part of the plan. Daar had a reputation for impeccable honesty, of course…
 
 …Which made the following attempt at interrogating his motives the capstone of an already ignominious day.
 
@@ -1487,7 +1487,7 @@ The Great Father prowled about on all fours like a predatory beast, and shook ou
 
 The Great Father reared up on two paws and glared across the chamber floor at Henenwgwyr.
 
-“You think I’m doin’ this for ***you?*** Givin’ how the Dominion jus’ left us to our fate, I don’t particularly *care* what y’all think or ask for. It’d be a whole bunch easier to get this done, though, if y’all wouldn’t stop gettin’ in the way in the worstest possible ways. I’d *imagine* you’d be okay with that, seein’ as we’ve had actual success, an’ you ain’t hadta pay ‘fer it.”
+“You think I’m doin’ this for ***you?*** Given how the Dominion jus’ left us to our fate, I don’t particularly *care* what y’all think or ask for. It’d be a whole bunch easier to get this done, though, if y’all wouldn’t stop gettin’ in the way in the worstest possible ways. I’d *imagine* you’d be okay with that, seein’ as we’ve had actual success, an’ you ain’t hadta pay ‘fer it.”
 
 “Success.” Henenwgwyr consulted her briefing documents. “...In the aftermath of your destruction of the Hunter orbital, Hunter raids into our territory increased by two hundred and twenty percent, with a commensurate increase in lives lost, captives taken, property destroyed and outposts abandoned.”
 
@@ -1495,7 +1495,7 @@ The Great Father reared up on two paws and glared across the chamber floor at He
 
 “You’ve destabilized the situation.”
 
-“Yeah. I did. ‘Cuz the *stable situation* wuz’ bein’ complicit in an ongoin’ orgy o’ *cannibalism.* No civilized being is okay with *eatin’ sapient meat.*
+“Yeah. I did. ‘Cuz the *stable situation* wuz’ bein’ complicit in an ongoin’ orgy o’ *cannibalism.* No civilized being is okay with *eatin’ sapient meat."*
 
 He chose those words specifically to needle her, Henenwgwyr could tell. Before she could come up with a retort, however, the council’s Rrrtk chairman sounded his chime for attention.
 
@@ -1507,7 +1507,7 @@ Daar chose to answer. “Ah! The first intelligent observation of the day!”
 
 “Great Father, I cannot have you insulting the members of this council,” the chairman warned him.
 
-“I been here bein’ insulted on behalf o’ my own species ‘fer the last ten Ri’. I don’t blame ‘em, though. Sometimes ‘ya gotta get a lil’ fiesty if ‘ya wanna get to the truth. Still don’t change the insult…but I note, *yet again,* the Council has not tabled any motion ‘ta discuss reparations under the governing Charter of this body. ‘Ya wanna talk about insults? How ‘bout *that?”*
+“I been here bein’ insulted on behalf o’ my own species ‘fer the last ten Ri’. I don’t blame ‘em, though. Sometimes ‘ya gotta get a lil’ feisty if ‘ya wanna get to the truth. Still don’t change the insult…but I note, *yet again,* the Council has not tabled any motion ‘ta discuss reparations under the governing Charter of this body. ‘Ya wanna talk about insults? How ‘bout *that?”*
 
 “Masterfully dodged,” Henenwgwyr said, drily. “For one who professes to dislike this body and how it operates, you play our game very well indeed.”
 
@@ -1531,7 +1531,7 @@ The other Council members were clearly cowed by him, but not Henenwgwyr. She had
 
 The same could not be said for the fruits of their barbaric recklessness, however. This Great Father was a dismayingly primal personality and about as subtle as a boulder tumbling down a cliff. His leadership relied on his personal charisma, which in turn stemmed largely from his preposterous brawn. Worse, his obvious intelligence rarely mattered. Daar got through life by thinking with his muscles and his gonads, vices that no great leader of any Great House could afford.
 
-None of that bode well for safety or stability in the coming decades.
+None of that boded well for safety or stability in the coming decades.
 
 Ideally, in time, she would like to find a wedge to put between him and the Humans. For now, though… his reputation, indeed the reputation of his whole species, was of undying loyalty toward his friends. There was nobility in that, she was forced to admit. And the Humans had, it was true, been the only species to come to their aid when the Hunters attacked the planet Gao.
 
@@ -1568,7 +1568,7 @@ Meeyuk would, ideally, have wished for his first visit to Cimbrean to be for ple
 
 He’d found his meeting with the two Corti working on this case very interesting. Third Director Tran was a model Corti in every way, and about as approachable and warm as a spiky iceberg. But Nofl...
 
-Nofl was...unique. That seemed the best way to describe it. He’d picked up a number of deliberate affectations that toyed with Human prejudices about males with high-pitched voices, and played the role to the hilt. Underneath the deliberately scandalous veneer, however, lurked a biologist of unmatched talent. It was he who had first developed the Cruezzir, along with the Gaoian and Human-specific derivatives. It was he who had first made the connection between the Gao’s genetic oddities and their revealed ancient history.
+Nofl was...unique. That seemed the best way to describe it. He’d picked up a number of deliberate affectations that toyed with Human prejudices about males with high-pitched voices, and played the role to the hilt. Underneath the deliberately scandalous veneer, however, lurked a biologist of unmatched talent. It was he who had first developed the Cruezzir, along with the - and Human-specific derivatives. It was he who had first made the connection between the Gao’s genetic oddities and their revealed ancient history.
 
 Now, he was bringing those oddities to the surface in an audacious way.
 
@@ -1620,7 +1620,7 @@ Meeyuk could only boggle. He’d known that the Corti were the only species to h
 
 “...Why would you do this for us?” he asked.
 
-“Two reasons. The first is direct self interest. You are our customers and we want you satisfied with our service. The second…” Tran shifted subtly, a sure and intense sign of slight discomfort which was a rare thing for any Corti to display. “...Problems like this do not come along often. Mysteries this subtle and this *consequential* are the things we *aspire* to unlock. Leemu is the test case for something profound, and it is a thing that will benefit both our species immensely. How could we *not* invest in this possibility?”
+“Two reasons. The first is direct self-interest. You are our customers and we want you satisfied with our service. The second…” Tran shifted subtly, a sure and intense sign of slight discomfort which was a rare thing for any Corti to display. “...Problems like this do not come along often. Mysteries this subtle and this *consequential* are the things we *aspire* to unlock. Leemu is the test case for something profound, and it is a thing that will benefit both our species immensely. How could we *not* invest in this possibility?”
 
 “The upside,” Nofl added, “is that we’re *reasonably* sure your species was engineered to tolerate introduction of this protein even as adults. The *downside* is we don’t know the second-order effects...but we are reasonably certain the first-order consequences will be manageable.”
 
@@ -1638,7 +1638,7 @@ Tran nodded. “There is one more thing you should consider. Most of your major 
 
 Tran glanced at the patient with a blank expression. “...As you say.”
 
-“Right.” Meeyuk shook his pelt out. “In summary, you would introduce a potent antagonist to flush his reward centers while simultaneously holding him unconscious, filtering his blood, introducing a powerful retrovirus, and activating this ‘key’ protein. The consequences of that will be many-fold and profound, but will certainly cause a powerful autoimmune response.”
+“Right.” Meeyuk shook his pelt out. “In summary, you would introduce a potent antagonist to flush his reward centers while simultaneously holding him unconscious, filtering his blood, introducing a powerful retrovirus, and activating this ‘key’ protein. The consequences of that will be manifold and profound, but will certainly cause a powerful autoimmune response.”
 
 “Which we will then convince to react aggressively to the Arutech.”
 
@@ -1648,7 +1648,7 @@ Tran glanced at the patient with a blank expression. “...As you say.”
 
 “As for prognosis, you’re confident?”
 
-“He stands a better than even chance of surviving, and a reasonable shot at full recovery. We do not make any claims about what the full activation of his genome will mean for him.” Nofl said, carefully.
+“He stands a better than even chance of surviving, and a reasonable shot at full recovery. We do not make any claims about what the full activation of his genome will mean for him,” Nofl said, carefully.
 
 “We can and do, however, pledge to provide our full support to him,” Tran said.
 
@@ -1744,7 +1744,7 @@ Meeyuk found himself duck-nodding along in total agreement. Which meant, he refl
 
 [Cover image: two men seated on a bench in front of a chain-link fence, with a stunning Alaskan vista behind them. On the left is a scruffy bearded white man with shaggy salt-and-pepper hair, and next to him is a bald Middle-Eastern man with a neatly groomed mustache. Each is holding up his name on a small piece of card: “Hugh” and “Mustafa” respectively]
 
-In other circumstances, Hugh Johnson and Mustafa Nazif would make for an unlikely pair of friends. Mustafa is a well-groomed, dapper and highly educated former dentist, whose clinic in Cairo made him a very wealthy man, while Hugh on the other hand is rougher, scruffier, less conservative, and openly acknowledges that he used to be a so-called “Coyote,” a people-trafficker who made his money smuggling undocumented migrants across the USA’s border with Mexico.
+In other circumstances, Hugh Johnson and Mustafa Nazif would make for an unlikely pair of friends. Mustafa is a well-groomed, dapper and highly educated former dentist, whose clinic in Cairo made him a very wealthy man, while Hugh on the other hand is rougher, scruffier, less conservative, and openly acknowledges that he used to be a so-called “Coyote,” a human trafficker who made his money smuggling undocumented migrants across the USA’s border with Mexico.
 
 Both are permanent residents the Camp Tebbutt Biodrone Internment Facility, a remote CIA outpost deep in the heart of the Yukon-Koyukuk Census Area. It is from this camp, earlier this year, that the man at the top of the FBI’s most wanted list, Zane Reid, was able to escape.
 
@@ -1802,7 +1802,7 @@ He trails off. I can tell this is a deeply painful subject for him. I don’t pr
 
 **And after that?**
 
-HUGH: *“Six wanted to… ‘poke the hornet’s nest.’ The Hierarchy still didn’t know much about mankind at that point, he didn’t know how we’d react to danger. So he decided to prod us and see what happened. He… tried to orchestrate a mass shooting.”
+HUGH: *“Six wanted to… ‘poke the hornet’s nest.’ The Hierarchy still didn’t know much about mankind at that point, he didn’t know how we’d react to danger. So he decided to prod us and see what happened. He… tried to orchestrate a mass shooting.”*
 
 **Tried to?**
 
@@ -1828,7 +1828,7 @@ MUSTAFA: *“Not here. My daughter, Civene, she stays with a foster family in Fa
 
 HUGH: *“The camp’s only permanent residents are implanted. Everyone else is either staff or a guest.”*
 
-**Stil, that has to be difficult.**
+**Still, that has to be difficult.**
 
 MUSTAFA: *“I would like nothing more than to live outside these walls as a free man, with my daughter. But I can’t. There are seven evil little devices in my head, the size of bees. I have seen the X-rays.* ***Those*** are my prison. This camp? In the winter, I wish I could be back in Egypt, but in the summer it is a pleasant place to live.”*
 
@@ -2061,7 +2061,7 @@ One way or another, the future of his species was going to change once again in 
 ___
 
 **Date Point: 16y2m2w1d AV**    
-**Planet Akyawentuo, Ten’gewek Protectorate, Near 3Kpc Arm**
+**Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
 
 ***Vemik Sky-Thinker***
 
@@ -2157,7 +2157,7 @@ Vemik hooted, trilled and decided to be honest. “Both!”
 
 Vemik earned some rolled eyes and a grin she tried very hard not to show. “You certainly think highly of yourself! But...” She looked him over quick while pretending *not* to, and blushed slightly. “Well, it would be a brave gal who took *you* on, that’s for sure.”
 
-Vemik gave her his friendliest fang-filled sideways snarl. “I can be very careful, *Till-*\ly! Also! Is very brave woman who visit other worlds! And let *cave-*\monkey take her, uh...hundred *meter* up into Ketta?”
+Vemik gave her his friendliest fang-filled sideways snarl. “I can be very careful, *Till*-ly! Also! Is very brave woman who visit other worlds! And let *cave*-monkey take her, uh...hundred *meter* up into Ketta?”
 
 She laughed. “Flattery will get you nowhere…” she said, but the wink she gave him said otherwise.
 
@@ -2421,7 +2421,7 @@ She wouldn’t change that for all the worlds.
 ___
 
 **Date Point: 16y2m2w1d AV**    
-**Directorate Starship** ***Empirical Razor,*** **Folctha, Cimbrean, The Far Reaches**
+**Directorate Starship** ***Empirical Razor,*** **Folctha, Cimbrean, the Far Reaches**
 
 ***Daar, Great Father of the Gao***
 
@@ -2515,7 +2515,7 @@ From Daar’s perspective though… Leemu still smelled *wrong.* But not *as* wr
 
 “...Well?” he asked, after waiting what he felt was long enough.
 
-Nofl didn’t turn away from the microscope at first, just flapped a hand to request patient. When he did turn around, though, his expression was as controlled and unreadable as any top-tier Directorate member’s.
+Nofl didn’t turn away from the microscope at first, just flapped a hand to request patience. When he did turn around, though, his expression was as controlled and unreadable as any top-tier Directorate member’s.
 
 Then he blinked slowly and smiled softly, an expression of deep satisfaction for a Corti.
 
