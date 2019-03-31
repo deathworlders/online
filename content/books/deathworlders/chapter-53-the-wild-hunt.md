@@ -2298,4 +2298,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 54.
+*The Deathworlders* will continue in chapter 54, "Here Be Dragons."
