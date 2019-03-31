@@ -1596,7 +1596,7 @@ Leemu was *heavily* sedated, almost to the point of a dangerous overdose. Even t
 
 “What is your proposed treatment plan?”
 
-“We must first preserve his mind. I propose a strong agonist be introduced to flush his reward chemistry as aggressively as possible. We will filter his blood of course, but we can’t do that for long before his liver is compromised. Simultaneous to this, we deploy a retrovirus to *properly* activate his immune system. We’ve discovered through our genetic modeling systems that this will require modifications to a gland located here, in the lower thorax…”
+“We must first preserve his mind. I propose a strong antagonist be introduced to flush his reward chemistry as aggressively as possible. We will filter his blood of course, but we can’t do that for long before his liver is compromised. Simultaneous to this, we deploy a retrovirus to *properly* activate his immune system. We’ve discovered through our genetic modeling systems that this will require modifications to a gland located here, in the lower thorax…”
 
 “Morko’s organ? Interesting. It’s involved in developmental signaling of course...”
 
@@ -1638,7 +1638,7 @@ Tran nodded. “There is one more thing you should consider. Most of your major 
 
 Tran glanced at the patient with a blank expression. “...As you say.”
 
-“Right.” Meeyuk shook his pelt out. “In summary, you would introduce a potent agonist to flush his reward centers while simultaneously holding him unconscious, filtering his blood, introducing a powerful retrovirus, and activating this ‘key’ protein. The consequences of that will be many-fold and profound, but will certainly cause a powerful autoimmune response.”
+“Right.” Meeyuk shook his pelt out. “In summary, you would introduce a potent antagonist to flush his reward centers while simultaneously holding him unconscious, filtering his blood, introducing a powerful retrovirus, and activating this ‘key’ protein. The consequences of that will be many-fold and profound, but will certainly cause a powerful autoimmune response.”
 
 “Which we will then convince to react aggressively to the Arutech.”
 
