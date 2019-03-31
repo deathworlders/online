@@ -34,9 +34,9 @@ Dan Hurt sat next to her, watching and listening via a tablet.
 
 “Mm-hm.” Xiù nodded sadly. If that Brown One attacked again, there’d be grieving families who might justifiably wonder *why* they hadn’t used the Sky-magic. She had to admire how seriously the Ten’gewek took their independence, but that was going to be hard if people got killed.
 
-She glanced over to the other end of the research camp. Hoeff and Claire were working things out over there, sitting side-by-side in camp chairs by the fire and making s’mores. It seemed to be going well, or at least Hoeff seemed to be relaxing slowly as he unburdened himself of his concerns… and to judge by the way Claire touched his arm and said something soft, those concerns didn’t bother *her* at all.
+She glanced over to the other end of the research camp. Hoeff and Claire were working things out over there, sitting side-by-side in camp chairs by the fire and making s’mores. It seemed to be going well, or at least Hoeff seemed to be much more relaxed than usual… and to judge by the way Claire touched his arm and smiled and laughed at one of his jokes, *she* thought it was going well too.
 
-Still. Xiù would *never* eavesdrop on a conversation like that. She watched just long enough to see him make a joke and see her laugh at it, smiled to herself and returned her attention to the tribal meet.
+Still. Xiù would *never* eavesdrop on a conversation like that. She watched just long enough to see them clank their coffee cups together in some kind of toast to each other, smiled to herself, and returned her attention to the tribal meet.
 
 It was breaking up.
 
