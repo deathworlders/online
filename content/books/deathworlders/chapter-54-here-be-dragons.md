@@ -1828,7 +1828,7 @@ HUGH: *“The camp’s only permanent residents are implanted. Everyone else is 
 
 **Still, that has to be difficult.**
 
-MUSTAFA: *“I would like nothing more than to live outside these walls as a free man, with my daughter. But I can’t. There are seven evil little devices in my head, the size of bees. I have seen the X-rays.* ***Those*** are my prison. This camp? In the winter, I wish I could be back in Egypt, but in the summer it is a pleasant place to live.”*
+MUSTAFA: *“I would like nothing more than to live outside these walls as a free man, with my daughter. But I can’t. There are seven evil little devices in my head, the size of bees. I have seen the X-rays.* ***Those*** *are my prison. This camp? In the winter, I wish I could be back in Egypt, but in the summer it is a pleasant place to live.”*
 
 **A recent Gallup poll suggested that one in four Americans don’t believe the Hierarchy is real. What do you say to them?**
 
