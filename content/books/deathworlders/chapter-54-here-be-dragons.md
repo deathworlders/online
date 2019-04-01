@@ -1854,7 +1854,7 @@ HUGH: *“The Byron Group explorer, right? Yeah, we heard about her. They say th
 
 **Does that give you hope?**
 
-HUGH: *“I guess. I mean… I’m only in this mess because of the Corti in the first place. That kinda makes it hard to trust them, you know? And I dunno if I like the idea of having my whole head taken apart to get this s••• out of me.”*
+HUGH: *“I guess. I mean… I dunno if I like the idea of having my whole head taken apart to get this s••• out of me.”*
 
 MUSTAFA: *“Neither do I, but I like the idea of being a prisoner for the rest of my life even less.”*
 
