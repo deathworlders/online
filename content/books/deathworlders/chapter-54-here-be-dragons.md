@@ -1756,19 +1756,17 @@ There aren’t many warts.
 
 As the camp’s name suggests, all of its internees are former biodrones---humans with neural cybernetic implants who were unfortunate enough to have had those implants used to turn them into unwilling puppets of the alien agency known as The Hierarchy. Although some lucky few former biodrones had implants that could safely be removed, the ones at Camp Tebbutt are not so fortunate: their cybernetics are all deeply embedded, and are beyond the ability of even the most cutting-edge human medicine to remove.
 
-In Hugh Johnson’s case, the implant in question was an experimental regulator of Corti design, intended to correct his epilepsy. In that regard, it works perfectly---Hugh informs me that he hasn’t had even a minor episode since its installation. Unfortunately, it is anchored directly to his brain stem, and removing it would kill him.
+In Hugh and Mustafa's cases, the implants in question were installed deep in their brains specifically to biodrone them. They will forever be potential agents of the human race’s deadliest enemies.
 
-And, even more unfortunately, such an intimate connection to his nervous system means that Hugh will forever be a potential agent of the human race’s deadliest enemies.
+Their stories of exactly how it happened are eerily similar.
 
-[Image: close shot of the back of Hugh’s neck, revealing a slim scar right at the base of his skull where it meets the top of his neck.]
+[Image: Mustafa’s scalp, which is covered in a neat hexagonal grid of almost invisibly fine scars.]
 
 **How did it happen?**
 
-HUGH: *“I was abducted. You’re talking to an official first-generation Corti abductee.”* He laughs nervously. *“This was a year or two before first contact. Back when everyone thought alien abduction was just a myth. Nobody believed me, and I couldn’t afford to have an X-ray done to prove it. I guess the Corti were either really smart when they picked me, or they knew first contact was coming soon and they didn’t care too much about being discreet any longer. They dropped me back off on Earth and I guess forgot about me. Then one morning I’m brushing my teeth, and...”*
+HUGH: *“Like something out of a B-movie.”* He laughs bitterly. *“I was out in the desert south of El Paso. One of my contacts from the other side of the river was bringing a boat over that night and, uh, we had to move fast. USBP were damn good at their jobs, you know? I think I was just about at Elpadre Canyon when my car just... stopped. Engine cut out, I rolled to a halt. I got out and I was still scratching my head under the hood when there was this bright light like* ***boom*** *from above, and then:"*
 
 He snaps his fingers. *“Hijacked.”*
-
-[Image: Mustafa’s scalp, which is covered in a neat hexagonal grid of almost invisibly fine scars.]
 
 MUSTAFA: *“I drove home from work as usual, a little late because I worked overtime with a rich client. My house was very nice, with a security wall and a gate. I drove my car through, locked the gate and then there was a bright light from above. I looked up, and…”*
 
@@ -1784,15 +1782,15 @@ MUSTAFA: *“Which of course is exactly what happened.”*
 
 MUSTAFA: *“Yes. ‘Six,’ he called himself.”*
 
-HUGH: *“Evil. Real, honest-to-God evil. I don’t think I ever believed there even* ***was*** *such a thing as true evil until I met Six.”*
+HUGH: *“Evil. Real, honest-to-God evil. I don’t think I ever believed there even* ***was*** *such a thing as true evil until I met the Hierarchy.”*
 
-**What did he do?**
+**What did they do?**
 
-HUGH: *“He… this isn’t the face I was born with. I was always kinda an average-looking guy, but Six and his lackeys surgically altered me. They got rid of all my distinguishing features… It took me a long time to get used to seeing a different face in the mirror. He did that to a few guys, actually. There were three or four of us, and you coulda sworn we were twins. Triplets. Whatever. I’m the only one left.”*
+HUGH: *“They… this isn’t the face I was born with. I was always kinda an average-looking guy, but Six and his lackeys surgically altered me. They got rid of all my distinguishing features… It took me a long time to get used to seeing a different face in the mirror. They did that to a few guys, actually. There were three or four of us, and you coulda sworn we were twins. Triplets. Whatever. I’m the only one left.”*
 
 He sighs, shivers and nervously lights a cigarette.
 
-*“...And, he used my body to commit a murder.”*
+*“...And, they used my body to commit a murder.”*
 
 Mustafa puts a hand on his friend’s shoulder, sympathetically.
 
