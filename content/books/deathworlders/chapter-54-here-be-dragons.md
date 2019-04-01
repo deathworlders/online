@@ -1568,7 +1568,7 @@ Meeyuk would, ideally, have wished for his first visit to Cimbrean to be for ple
 
 He’d found his meeting with the two Corti working on this case very interesting. Third Director Tran was a model Corti in every way, and about as approachable and warm as a spiky iceberg. But Nofl...
 
-Nofl was...unique. That seemed the best way to describe it. He’d picked up a number of deliberate affectations that toyed with Human prejudices about males with high-pitched voices, and played the role to the hilt. Underneath the deliberately scandalous veneer, however, lurked a biologist of unmatched talent. It was he who had first developed the Cruezzir, along with the - and Human-specific derivatives. It was he who had first made the connection between the Gao’s genetic oddities and their revealed ancient history.
+Nofl was...unique. That seemed the best way to describe it. He’d picked up a number of deliberate affectations that toyed with Human prejudices about males with high-pitched voices, and played the role to the hilt. Underneath the deliberately scandalous veneer, however, lurked a biologist of unmatched talent. It was he who had first developed the Cruezzir, along with the Gaoian- and Human-specific derivatives. It was he who had first made the connection between the Gao’s genetic oddities and their revealed ancient history.
 
 Now, he was bringing those oddities to the surface in an audacious way.
 
