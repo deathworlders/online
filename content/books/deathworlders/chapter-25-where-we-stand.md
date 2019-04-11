@@ -5,9 +5,6 @@ aliases:
   - /book/deathworlders/chapter-25-where-we-stand
 ---
 
-___
-___
-
 **Date Point 10y4m1w2d AV**    
 **Etsicitty house, North Clearwater County, Minnesota, USA, Earth**
 
