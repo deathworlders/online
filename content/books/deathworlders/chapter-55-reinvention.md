@@ -677,10 +677,7 @@ Yan had *no* idea what the point of the black thing was. No matter. He scooped h
 
 “The *shirt* keeps you clean?”
 
-“Yeah. It also keeps me out of the spotlight. Half-naked Humans draw attention, and this is about you, not me.”
-
-
-
+“Yeah. It also keeps me out of the spotlight. Half-naked Humans draw attention, and this is about you, not me.
 
 Yan grunted, “You better clean yourself up, Vemik. Need to represent more than just our tribe today.”
 
@@ -822,8 +819,9 @@ He was having a very hard time not feeling small…. Until he remembered why the
 
 He stood taller again, and gave the Singer a confident grin.
 
-Time to make a deal.
-__
+Time to make a deal
+
+---
 
 **Date Point: 16y3m AV**     
 **Jacksonville, Florida, USA, Earth**
