@@ -177,7 +177,7 @@ It was all paid for by the Royal Navy of course. All part of the deal, with inju
 
 It was what it was, he supposed.
 
-*“Glad to hear it,” Martin smiled. *“And the symposium planning?”*
+*“Glad to hear it,”* Martin smiled. *“And the symposium planning?”*
 
 “Oh, *that’s* flying along almost faster than I can keep up!” Knight groaned. “The Dominion is… understandably eager to make progress.”
 
@@ -379,7 +379,7 @@ A dark cloud descended on the table for a few seconds. Jack dispelled it somewha
 
 “*Fuck* the Hierarchy.”
 
-“Amen,”* Adam grunted. “...Actually.” He gave Derek a long look. “Yeah. I *do* have some shit I wanna get off my chest about that. I wanna think about it though.”
+*“Amen,”* Adam grunted. “...Actually.” He gave Derek a long look. “Yeah. I *do* have some shit I wanna get off my chest about that. I wanna think about it though.”
 
 “...I think I’d want you for the last in the series anyway,” Ava noted. “You and the Great Father would make good bookends.”
 
@@ -448,7 +448,7 @@ ___
 
 **++0008++:** *\<Satisfied\>* Clearly he either isn’t here, or doesn’t care.
 
-*++0011++:** *\<Accusatory\>* The Cabal has lurched dramatically in its strategy. Not so very long ago we adopted your recommended strategy of playing nice and seeking an accord with the Humans, at least until a better alternative presented itself--
+**++0011++:** *\<Accusatory\>* The Cabal has lurched dramatically in its strategy. Not so very long ago we adopted your recommended strategy of playing nice and seeking an accord with the Humans, at least until a better alternative presented itself--
 
 **++Metastasis++:** And a better solution presented itself. Need I remind you, we now have half a dozen Injunctors in the Sol system, and an infiltrator on Lucent? What is that, if not an improvement on the position of abject paralysis we were in before?
 
@@ -481,7 +481,7 @@ Captain Thierry Pelletier, the man now in charge of what had once been Claude Na
 
 Bartlett’s eyebrows shot up. “...If so, these things must be at the absolute physical limit of processor density.”
 
-“Very close to it, certainly.  Wozni didn’t want to even speculate on just how much processing power those things have, Wouldn’t even give venture a couple of orders of magnitude. The best he’d give was *’a lot.’”
+“Very close to it, certainly.  Wozni didn’t want to even speculate on just how much processing power those things have, Wouldn’t even venture a couple of orders of magnitude. The best he’d give was *’a lot.’”*
 
 “Helpful,” Bartlett snarked.
 
@@ -922,7 +922,7 @@ Coombes returned his hand to his side, then gestured the two Corti off the jump 
 
 “I hope you do not intend to do that with the Ten’Gewek,” Tran muttered to him.
 
-“No, no, no!” Nofl assured him. *“I get the message, this is a time to be *very* serious.”
+“No, no, no!” Nofl assured him. “I get the message, this is a time to be *very* serious.”
 
 “Tradition, Nofl,” Coombes said. “It’s about respect, to the ship, to the history of the service, and to all the people who’ve died upholding its ideals.”
 
@@ -1190,7 +1190,7 @@ But! Today was a happy day! Many of the sky-tribes were cruel and uncaring, but 
 
 Most of the Humans stayed out of the way and let the People have their fun. They had words like *‘high energy’* and *‘highly strung.’* They were celebrating too, in their quieter way, with beers and food, and some of their strange music playing from a singing-stone near their fire. But what Yan noticed, when he checked on them, was that it wasn’t like the way the People partied. Couples weren’t slipping away to find somewhere private to fuck. Well...Heff had his *Claire* wrapped up in strong arms and affection, and the two weren’t paying much attention to anyone else...but still. The rest of the men weren’t wrestling and boasting, the women weren’t dancing and teasing the men with promises of sweet treats and a warm, comfortable pile of hides...
 
-These were *‘coll*-eegs.’ They liked each other, they worked together, but they had rules. Rules seemed to be a big thing, to Humans. They were everywhere, spoken and unspoken, felt rather than learned.
+These were *‘coll*\-eegs.’ They liked each other, they worked together, but they had rules. Rules seemed to be a big thing, to Humans. They were everywhere, spoken and unspoken, felt rather than learned.
 
 Maybe that was a good thing, for people who played with the power of stars and *nukes* and built things like *USS Robert A. Heinlein,* and made rifles that could tear beasts in half or kill them even on a close miss. Maybe Humans *needed* their rules, to be as strong as they were.
 
@@ -1420,7 +1420,7 @@ Later, after the hugging and keening and healing, when he was alone in the eveni
 
 It consisted of one short, vital question.
 
-    “What *am* I?”
+    “What am I?”
 
 The reply came within minutes.
 
@@ -1465,7 +1465,7 @@ She found herself at Vemik’s hut. He gave her the most playful, suggestive loo
 
 Things were a blur after that. A snarl, sharp fangs against her throat, a *crushingly* tight pin. Warm pelts that smelled so completely like his musk it made her dizzy. Much later, there was a faint sunrise peeping through the hut’s doorway, which she vaguely noted while they were still furiously exploring, playing each other’s bodies like fine instruments.
 
-Waking up the next...afternoon...was an effort. Soreness and exhaustion was no small part of it, but being honest, the biggest reason was just how wonderfully tight he’d snuggled up to her, and how comfortable his warmth was against her skin. She gave him a gentle scritch in his crest and a feel up his *ridiculous* abs to wake him up, practically *melted* at the sleepy little grin he gave her, politely declined his offer for another round of play…then ran her hands across his bulging chest and reconsidered…and moved them lower, and then *lower*…
+Waking up the next...afternoon...was an effort. Soreness and exhaustion was no small part of it, but being honest, the biggest reason was just how wonderfully tight he’d snuggled up to her, and how comfortable his warmth was against her skin. She gave him a gentle scritch in his crest and a feel up his *ridiculous* abs to wake him up, practically *melted* at the sleepy little grin he gave her, politely declined his offer for another round of play…then reconsidered.
 
 Eventually, they emerged from his hut. The village quite predictably had nothing but amused hooting congratulations for them as they stumbled into the light. Vemik gave her one last affectionate nip on the cheek and then hared off to check on his forge, while Tilly had to endure the somewhat stiff and ungainly walk of shame back to her own camp.
 
