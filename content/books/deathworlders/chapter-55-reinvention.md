@@ -1190,7 +1190,7 @@ But! Today was a happy day! Many of the sky-tribes were cruel and uncaring, but 
 
 Most of the Humans stayed out of the way and let the People have their fun. They had words like *‘high energy’* and *‘highly strung.’* They were celebrating too, in their quieter way, with beers and food, and some of their strange music playing from a singing-stone near their fire. But what Yan noticed, when he checked on them, was that it wasn’t like the way the People partied. Couples weren’t slipping away to find somewhere private to fuck. Well...Heff had his *Claire* wrapped up in strong arms and affection, and the two weren’t paying much attention to anyone else...but still. The rest of the men weren’t wrestling and boasting, the women weren’t dancing and teasing the men with promises of sweet treats and a warm, comfortable pile of hides...
 
-These were *‘coll*\-eegs.’ They liked each other, they worked together, but they had rules. Rules seemed to be a big thing, to Humans. They were everywhere, spoken and unspoken, felt rather than learned.
+These were *‘coll-eegs.’* They liked each other, they worked together, but they had rules. Rules seemed to be a big thing, to Humans. They were everywhere, spoken and unspoken, felt rather than learned.
 
 Maybe that was a good thing, for people who played with the power of stars and *nukes* and built things like *USS Robert A. Heinlein,* and made rifles that could tear beasts in half or kill them even on a close miss. Maybe Humans *needed* their rules, to be as strong as they were.
 
