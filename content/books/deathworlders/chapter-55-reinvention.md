@@ -1,6 +1,6 @@
 ---
 title: "Chapter 55: Reinvention"
-date: 2019-04-26T16:00:00+00:00
+date: 2019-04-26T15:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
