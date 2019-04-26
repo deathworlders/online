@@ -1258,7 +1258,7 @@ They didn’t know Jooyun and the others. They saw Jooyun and respected him, but
 
 Yan had seen metal death hammer down from above, and a flash of godly power smash the forest. He had seen ships, and cities, and guns, and cars, and all the other things and he *knew* it was Humans who did all those things. The others… knew it, but they didn’t **know** it. Didn’t *feel* it. Yan looked at Humans and saw *strong* people, just like he’d seen strength in Vemik even when the Sky-Thinker was a young boy who spent too long gazing at clouds and not enough time throwing spears.
 
-Professor Daniel and his *coll-*eegs were winning them over. It just...took time, and maybe it took Jooyun beating the bad thoughts out of a man now and then, too. When his women weren’t looking.
+Professor Daniel and his *coll-eegs* were winning them over. It just...took time, and maybe it took Jooyun beating the bad thoughts out of a man now and then, too. When his women weren’t looking.
 
 And there was another image seared in Yan’s mind, from the first time he’d fought the Hierarchy’s death-birds. The time Awisun had swatted a hand of them out of the air in just *heartbeats* with a cold, fierce face and no mercy.
 
