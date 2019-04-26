@@ -591,7 +591,7 @@ There wasn't anywhere else to look though, without actually looking away from he
 
 "Hey, uh..." He said. "You okay?"
 
-"It's gone midnight." she said.
+"It's after midnight." she said.
 
 "Oh...uh, happy birthday."
 

@@ -1604,7 +1604,7 @@ He ignored the slight smirk on Nofl’s face as the junior and lower-caste Corti
 ___
 
 **Date Point: 16y2m AV**    
-**HCS** ***My Other Spaceship Is The Millennium Falcon,*** **Wryhuor System, The Rauwryhr Federation**
+**HCS** ***My Other Spaceship Is The Millennium Falcon,*** **Wryhuor System, The Rauwryhr Republic, Perseus Arm**
 
 ***Dog Wagner***
 
