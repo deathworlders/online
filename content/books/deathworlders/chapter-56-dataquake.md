@@ -409,7 +409,7 @@ The worse injury was a couple of guys who’d taken shelter under an overhang on
 
 Firth and Irish broke out the big ground anchors and tested the gravity, which turned out to be a little over 1G. Not by too much, but enough to notice. This was, after all, supposedly a “super-Earth” planet.
 
-That just made the climb even better! Adam got ready for the descent while he listened to the brief; he pulled off all his clothing, then changed into his much more comfortable climbing gear while pretending to ignore the team leader’s boggling eyes. Being honest, he *might* have put on a sneaky little show for her while he standing there all free to the air and untangling his climbing shorts. She’d was gonna get a full view of him anyway and, well…there was no time wasted and he *did* like to tease people, just a little. And he *really* liked to show off, too…
+That just made the climb even better! Adam got ready for the descent while he listened to the brief; he pulled off all his clothing, then changed into his much more comfortable climbing gear while pretending to ignore the team leader’s boggling eyes. Being honest, he *might* have put on a sneaky little show for her while he standing there all free to the air and untangling his climbing shorts. She was gonna get a full view of him anyway and, well…there was no time wasted and he *did* like to tease people, just a little. And he *really* liked to show off, too…
 
 She turned her head and blushed, right as Adam was pulling up his shorts. Victory! ‘Base rolled his eyes as he pulled up his own, while Firth gave him a Serious Look; time to behave.
 
@@ -763,7 +763,7 @@ Firth was the only man there was that might one day beat the tar outta Adam at h
 
 One day they were gonna *need* him at his best, especially if they were going to keep ahead of threats like the Hunters.
 
-The trouble was, Adam couldn’t exactly correct Forth on that in public. Training sergeant he might be, but Firth was still in charge, deservedly so, and Adam had almost fatally injured his senior NCO’s reputation—and his own career, too—by going all caveman on him in a particularly stupid fashion.
+The trouble was, Adam couldn’t exactly correct Firth on that in public. Training sergeant he might be, but Firth was still in charge, deservedly so, and Adam had almost fatally injured his senior NCO’s reputation—and his own career, too—by going all caveman on him in a particularly stupid fashion.
 
 So, he’d had learned the trick to correcting a superior NCO: do it in private. Be respectful.
 
