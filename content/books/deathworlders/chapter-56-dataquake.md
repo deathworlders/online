@@ -1,6 +1,6 @@
 ---
-title: "Chapter 55: Reinvention"
-date: 2019-05-31T12:00:00+00:00
+title: "Chapter 56: Dataquake"
+date: 2019-05-31T10:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point: 16y3m5d AV**
