@@ -82,7 +82,7 @@ author: "Philip R. Johnson (Hambone)"
 
 **++0012++:** To resolve what?
 
-**++0004++: To resolve how they knew about Irujzen-1 in the first place, and to ensure they don’t do it a second time. Today, we only had to archive category-12 and -11 Hegemony functions. Any more, and we’ll need to start archiving civilians. Now, enough talking. Act.
+**++0004++:** To resolve how they knew about Irujzen-1 in the first place, and to ensure they don’t do it a second time. Today, we only had to archive category-12 and -11 Hegemony functions. Any more, and we’ll need to start archiving civilians. Now, enough talking. Act.
 
 **CONSENSUS: ORDERS ACKNOWLEDGED**
 
