@@ -338,7 +338,7 @@ So, Keeda spun around and waggled his rear right in Gour’s face, an’ then ra
 
 “So, cornered, quick-thinkin’ Keeda hands Gour his tail back an’ says *‘You see, brother? This was an adventure too!’* An’ Gour, all pleased with himself ‘cuz there weren’t much he liked more than hard work an’ an adventure, decided Keeda was right. But…
 
-“Well, he couldn’t just let Keeda git away with it, *yijao?* She he chittered and said *‘You’re right, Brother! And a grand adventure it’s been! But I think it’s my turn to steal somethin’ of yours!’* ...And with that, he stole Keeda’s paws, and ran away, with a parting yell of *‘You can have ‘em back when you get home!’”*
+“Well, he couldn’t just let Keeda git away with it, *yijao?* So he chittered and said *‘You’re right, Brother! And a grand adventure it’s been! But I think it’s my turn to steal somethin’ of yours!’* ...And with that, he stole Keeda’s paws, and ran away, with a parting yell of *‘You can have ‘em back when you get home!’”*
 
 He chittered softly to himself. “...But I can smell some’a you young’uns are ready ‘ta get up an’ run around a bit ‘yerselves, an’ all this talkin’ has made me sleepy. So how ‘bout you come back in a bit an’ we’ll talk about that story and what it means. Hmm?”
 
@@ -1035,7 +1035,7 @@ Naturally, Ramsey wouldn’t stop chattering excitedly on the way home.
 ___
 
 **Date Point: 16y4m AV**    
-**Folctha, Cimbrean. The Far Reaches**
+**Folctha, Cimbrean, The Far Reaches**
 
 ***Allison Buehler***
 
@@ -1986,7 +1986,7 @@ Loor trilled weakly. “Anyone so stupid deserves it.” He made to sit up, but 
 
 “Will I be here long?”
 
-“No, not long. A few years ago, you might have been here for, uh… you would say *‘a hand of moons,’* and you would never have been the same again. But our magic gets stronger all the time. Now? A wee—” Gupta paused. “...Uh, two hands of hands of days or so. And you will go home strong and clean and healthy.”
+“No, not long. A few years ago, you might have been here for, uh… you would say *‘a hand of moons,’* and you would never have been the same again. But our magic gets stronger all the time. Now? A wee—” Gupta paused. “...Uh, two hands of days or so. And you will go home strong and clean and healthy.”
 
 Loor looked to Singer again. She was looking at this Gupta Doctor with barely disguised awe.
 
