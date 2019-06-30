@@ -1,6 +1,6 @@
 ---
 title: "Chapter 57: Cat and Mouse, pt.1: Hunter and Hunted"
-date: 2019-06-30T14:00:00+00:00
+date: 2019-06-30T13:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
@@ -2721,7 +2721,7 @@ He reserved an extra special smile for Vemun, who was chewing on his tail and gi
 
 “We’ve never had extraterrestrial guests before,” he said.
 
-“We have never been in a place like this before,” the Signer replied. She hiked Vemun a little higher on her hip and held him in place with her tail. “Not just the books and all the knowing there is here but the…”
+“We have never been in a place like this before,” the Singer replied. She hiked Vemun a little higher on her hip and held him in place with her tail. “Not just the books and all the knowing there is here but the…”
 
 She paused, then waved a hand at absolutely everything around them as she turned to Jooyun. “Is there a word for *all this?”* she asked.
 
