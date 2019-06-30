@@ -1049,7 +1049,7 @@ God only knew how he’d reacted when he’d found the signed papers in his mail
 
 “Yeah. Iced tea.”
 
-“Huh.” Allison thought about that one. She’d never really been big on the family faith anyway, and had dropped it pretty much the second she’d run away to Boston on her eighteenth birthday. Hell, she’d gone totally reactionary and blown most of her first paycheck on coffee, cigarettes and cute underwear. She’d quite smoking pretty quickly, but the coffee and cute underwear had stuck.
+“Huh.” Allison thought about that one. She’d never really been big on the family faith anyway, and had dropped it pretty much the second she’d run away to Boston on her eighteenth birthday. Hell, she’d gone totally reactionary and blown most of her first paycheck on coffee, cigarettes and cute underwear. She’d quit smoking pretty quickly, but the coffee and cute underwear had stuck.
 
 Amanda on the other hand had always seemed to take the proscriptions of her church very seriously. “I mean, I know she lost her temple recommend and now there’s the divorce too, but I thought that stuff was still important to her…”
 
@@ -2194,7 +2194,7 @@ The contact shook his head. “Good news on that front: your bloodworks are in. 
 
 “Not enough, Bill. The rapid protocol has pushed your body *far* beyond its natural limits very, very quickly, and that is going to have serious consequences. We can’t have you break your own bones or drop dead of organ failure in the middle of the hunt, now can we?”
 
-“I remember the speil,” Bill growled.
+“I remember the spiel,” Bill growled.
 
 “Good, because your target’s protection does not have that problem, and has much deeper mercenary experience than you. He’s had ongoing elite training under arguably the best instructors to be found anywhere, and his everyday *job* revolves around situational awareness and survival. He’s *perceptive* and he knows how to fight dirty. If you don’t take him out immediately, you’re done. The mission is done. And it’ll be your fault.”
 
