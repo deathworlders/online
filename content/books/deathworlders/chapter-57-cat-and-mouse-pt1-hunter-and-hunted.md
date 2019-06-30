@@ -245,7 +245,7 @@ He hadn’t heard the voice on the other end for a few months. It was soft and h
 
 Alex’s blood froze solid. *“Bill?!”*
 
-*“Eh. This phone better be as clean as you said.”
+*“Eh. This phone better be as clean as you said.”*
 
 “Relax, it belongs to the old dude who runs Beehive Laundry. Shit, Bill, I saw you on the *most wanted list…”*
 
@@ -322,7 +322,7 @@ Shoo chittered happily. The story was already silly, and Garl told it in a silly
 
 “But still, he thought. An’ then he thought some more. An’ then he stopped ‘fer lunch, ‘cuz thinkin’ is hungry work for a big strong ol’ Gao! But after lunch, he thinked *even more* an’ finally he figgered somethin’ out.
 
-*“‘I bet I know who stole my ears,’* he thought. *‘My brother Keeda loved that beach, it’s just the sorta place he’d hide ‘em. An’ Keeda loves ‘ta climb too, so I bet he’s the one who stole my nose! And if he stole my nose and my ears, why, he prob’ly stole my tail too!’
+*“‘I bet I know who stole my ears,’* he thought. *‘My brother Keeda loved that beach, it’s just the sorta place he’d hide ‘em. An’ Keeda loves ‘ta climb too, so I bet he’s the one who stole my nose! And if he stole my nose and my ears, why, he prob’ly stole my tail too!’*
 
 “So Gour went to Keeda’s burrow, an’ he said *‘Brother! You stole my tail, didn’t you?’* An’ Keeda, he says *‘Whatever do you mean, Brother?’* ‘Cuz Keeda is a clever tail, an’ he knows Gour has the *most bestest* nose of any Gao, and can smell the tiniest lies. So they argue back an’ forth ‘fer a while, an’ Keeda never answers any o’ Gour’s questions!
 
@@ -842,7 +842,7 @@ On the other hand…
 
 ___
 
-**Date Point: 16y3m2w AV**
+**Date Point: 16y3m2w AV**    
 **HMS** ***Myrmidon,*** **Ugunduvuronagthuregnuburthuruv-gor system, the Guvnuragnaguvendrugun Remnant**
 
 ***Admiral William Caruthers***
@@ -957,8 +957,8 @@ Allison shrugged, grinned, and retrieved the little case of electronic parts she
 
 ___
 
-**Date Point: 16y4m AV**
-**Tactical Fitness, Folctha, Cimbrean, the Far Reaches*
+**Date Point: 16y4m AV**    
+**Tactical Fitness, Folctha, Cimbrean, the Far Reaches**
 
 ***Julian Etsicitty***
 
@@ -2082,7 +2082,7 @@ Rockefeller chuckled and sat back comfortably in his chair. “And of course, Mi
 
 “Gan?”
 
-“Chinese. It means *‘daring,’* or *‘adventurous.'* Also, coincidentally, the Gaori word for… uh… chutzpah, or moxy.’”*
+“Chinese. It means *‘daring,’* or *‘adventurous.'* Also, coincidentally, the Gaori word for… uh… chutzpah, or moxy.’”
 
 “And what happens when he’s fifteen years old and the Ten’Gewek want him to take a trial of manhood, as one of their tribe?” Rockefeller asked. “What happens when he passes and takes his Magic-Name? Or what if he decides he wants to join a Clan? This is the sort of thing we need to think about a good long while before it happens.”
 
@@ -2443,7 +2443,7 @@ That was okay. She’d earned a rest. And if Anna woke up and needed a new diape
 He cuddled up to Xiù and basked in the moment for as long as it lasted.
 ___
 
-**Date Point: 16y5m3w AV**
+**Date Point: 16y5m3w AV**    
 **DENEB 320.7° 37-EJ7H2E-SEPTINARY FII-D, Deep Space**
 
 ***Alpha of the Bleeding Brood***
@@ -2518,7 +2518,7 @@ Directed energy weapons were inefficient, and no ship could produce enough energ
 
 ___
 
-**Date Point: 16y5m3w AV**
+**Date Point: 16y5m3w AV**     
 **DENEB 320.7° 37-EJ7H2E-SEPTINARY FII-D, Deep Space**
 
 ***Entity***
