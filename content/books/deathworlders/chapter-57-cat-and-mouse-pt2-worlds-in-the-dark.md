@@ -1059,16 +1059,16 @@ His family deserved more than an impersonal form letter.
 
 Sartori refilled and cleaned the pen while consulting the draft letter he’d typed up, then nodded to himself and applied the nib to inscribing the next sentence.
 
-    ...Although I cannot disclose the exact nature of the operation, I want you to know that Thomas fell protecting not merely our nation’s powerful but, much more nobly, that he fell defending the ordinary and the innocent….
+*...Although I cannot disclose the exact nature of the operation, I want you to know that Thomas fell protecting not merely our nation’s powerful but, much more nobly, that he fell defending the ordinary and the innocent…*
 
 It was not, in the end, a long letter, and it consisted of nothing but platitudes as far as he could tell. He bitterly wished it could have been more substantial, but there was nothing more he could write without saying too much.
 
 Still, he poured himself into it line after line until finally he reached what felt to him like a stilted and awkward ending.
 
-   You and your family remain in my thoughts and prayers. May Almighty God bless you.
+*You and your family remain in my thoughts and prayers. May Almighty God bless you.*
 
-    ---Arthur Sartori    
-    President of the United States of America*
+*---Arthur Sartori*    
+*President of the United States of America*
 
 And with that, it was done. It wasn’t enough, but it was done. He screwed the cap on and returned the pen to his inside jacket pocket, before standing to prowl aimlessly around the office.
 
