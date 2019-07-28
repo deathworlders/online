@@ -3065,4 +3065,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 57: "Cat And Mouse" pt 2: “The Dark.”
+*The Deathworlders* will continue in chapter 57: "Cat And Mouse" pt 2: “Worlds In The Dark.”
