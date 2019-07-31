@@ -210,7 +210,7 @@ She hit hard, but rolled through it again. Her ankle went *click* in a painful w
 
 She groaned and rolled over. “We’re rumbled.” The ankle already felt better. Thank *fuck* for the Cruezzir.
 
-*“Are the chasing you?”*
+*“Are they chasing you?”*
 
 “They’re trying!”
 
@@ -1465,7 +1465,7 @@ That was odd. Gabe *knew* Hoeff. They were good friends in fact, and the two had
 
 He also didn’t use running suits. Ever. And he had no reason to be anywhere near the hotel...
 
-Nevertheless, Gabbed tracked him via the street cameras as, at the wrong time of day and in the wrong kind of clothing, he traced a lazy loop through the wrong part of town, then over Westbridge, along riverside park, and back across the bridge by Rooney’s, two laps around the Alien Quarter’s perimeter and then back across town to jog around Palace Lake.
+Nevertheless, Gabe tracked him via the street cameras as, at the wrong time of day and in the wrong kind of clothing, he traced a lazy loop through the wrong part of town, then over Westbridge, along riverside park, and back across the bridge by Rooney’s, two laps around the Alien Quarter’s perimeter and then back across town to jog around Palace Lake.
 
 It was a decent run. A lot further than Gabe himself ever bothered with nowadays. And every last step of it was in clear view of the cameras.
 
@@ -1509,13 +1509,13 @@ Gabe knew there wasn’t any point beating around the bush. “Daniel, I’m goi
 
 Hoeff stopped lining up his swing. He paused, then wound up and whacked the ball firmly down the fairway.
 
-“I think I should warn you of the consequences of that, Gabe. Firstly, and immediately, you will almost certainly earn the ire of Ambassador Rockafeller. Secondly, that will more or less bring our training work with JETS teams on Akyawentuo to a dead stop, because I am the registered agent for arms traveling across the Array. Are you *sure* you’ve thought this through?”
+“I think I should warn you of the consequences of that, Gabe. Firstly, and immediately, you will almost certainly earn the ire of Ambassador Rockefeller. Secondly, that will more or less bring our training work with JETS teams on Akyawentuo to a dead stop, because I am the registered agent for arms traveling across the Array. Are you *sure* you’ve thought this through?”
 
 *“Ciertamente.* You know me.”
 
 “I do. I happen to like you a lot, for whatever fuckin’ reason. You’re a good man. And I don’t want to see you do something that won’t go well for you. Now don’t get me wrong,” he offered immediately, “I’m *all about* doing the right thing, even if it sucks doing it. So if you think this is your hill to die on, by all means, do. But everything we choose has consequences, man.”
 
-Hoeff’s expression was mild. Almost friendly. But that, right there, made Gabe *certain.* Hoeff was a man who could shut off his remorse like a switch. Gab had never seen it in him before, but he was seeing it now.
+Hoeff’s expression was mild. Almost friendly. But that, right there, made Gabe *certain.* Hoeff was a man who could shut off his remorse like a switch. Gabe had never seen it in him before, but he was seeing it now.
 
 That was also the moment he knew he was about to set some very unfortunate things into motion. But there was a principle at stake here, and old men near the ends of their careers could afford a little principle.
 
@@ -1722,7 +1722,7 @@ Hoeff gave Adam’s special super-heavy punching bag one last kick, one that wou
 
 Of course, lying on the nice cool mat for the next fifty years sounded pretty good, too...
 
-Adam’s big smiling brick-face suddenly appeared in Julian’s field of view. “Right! Good match you two! Now get up, let’s see how three are coming along!”
+Adam’s big smiling brick-face suddenly appeared in Julian’s field of view. “Right! Good match you two! Now get up, let’s see how you three are coming along!”
 
 Tiny and Julian groaned and stumbled back up to their feet, helping each other stand tall. All in all...it was a good day. Adam was on a month-long “staycation” to hang out, spend time with his wife and child, and probably work vigorously on the next one, too. He was also using all that free time to train like the insane freak that he was, and inflict a small taste of that insanity on his friends. Yesterday it had been a literal day-long event with Daar, who was lately spending a lot of time on Cimbrean. Today though, Julian, Hoeff, and Walsh were Adam’s playthings.
 
@@ -2000,7 +2000,7 @@ The fallout was far-reaching. The SOR’s beloved regimental mascot had fallen, 
 
 And it had happened only a day or two after Gabe had personally stripped the Special Envoy’s three-man security team leader of his firearms license.
 
-Ambassador Rockafeller was being cruelly understanding about it all. Understanding… but firm.
+Ambassador Rockefeller was being cruelly understanding about it all. Understanding… but firm.
 
 “You understand of course that we would very much *appreciate* an explanation,” he said.
 
@@ -2008,7 +2008,7 @@ On that point, Gabe didn’t *technically* have to give him an inch. Pragmatical
 
 “There was an irregularity,” he said, calmly. He’d broken out his cane again, even though he technically didn’t need it nowadays thanks to the nerve regeneration. But it came in handy as a prop sometimes, to make him seem older and more harmless than he truly was.
 
-He doubted whether Rockafeller was fooled, but the point was not to fool him.
+He doubted whether Rockefeller was fooled, but the point was not to fool him.
 
 “It must have been quite an irregularity,” the ambassador said.
 
@@ -2016,11 +2016,11 @@ He doubted whether Rockafeller was fooled, but the point was not to fool him.
 
 There was a brief, wordless kind of a standoff.
 
-“...A valued and well-liked member of my staff was attacked, Mister Arés,” Rockafeller said, breaking it. “I find it hard to be content that he was left vulnerable over an *irregularity.”*
+“...A valued and well-liked member of my staff was attacked, Mister Arés,” Rockefeller said, breaking it. “I find it hard to be content that he was left vulnerable over an *irregularity.”*
 
-“Mister Etsicitty is good a friend of my son’s,” Gabe reminded him. “I’m as shaken by the attack on him as you are. If you want my assurance that I would *never* knowingly endanger him…”
+“Mister Etsicitty is a good friend of my son’s,” Gabe reminded him. “I’m as shaken by the attack on him as you are. If you want my assurance that I would *never* knowingly endanger him…”
 
-“No, no. I appreciate that you would never *knowingly,* do so…” Rockafeller agreed, pointedly.
+“No, no. I appreciate that you would never *knowingly,* do so…” Rockefeller agreed, pointedly.
 
 “If only we could see the future,” Gabe said. “Like I’ve always said to my kids, the best you can do is be true to yourself, uphold your oaths and stand firm on your principles. It’s not a perfect strategy, but it *usually* steers us right.”
 
@@ -2044,11 +2044,11 @@ Gabe gave him a long, slow look. *That,* he felt, was the closest thing he was e
 
 “I know. Thank you. But I still think the time has come to pass the torch. I’ve been in this job for ten years!”
 
-Rockafeller nodded. “What will you do in your retirement? Write a book, perhaps?”
+Rockefeller nodded. “What will you do in your retirement? Write a book, perhaps?”
 
 Gabe shook his head. “No, I don’t think so. I like my privacy… and my discretion.”
 
-That was the thing he knew he had to believably convey. Fortunately, Rockafeller seemed happy enough. He smiled warmly, stood, and extended his hand.
+That was the thing he knew he had to believably convey. Fortunately, Rockefeller seemed happy enough. He smiled warmly, stood, and extended his hand.
 
 “Well, if you’re determined to bow out of public life…”
 
@@ -2167,7 +2167,7 @@ That was the sign for the HEAT to get moving. And boy *howdy* did they. Hoeff co
 
 From his position, Hoeff watched the Protectors in action. It was…*awesome.* Biblically so.
 
-Arés...well, he wasn’t Adam at the moment. He was *Warhorse,* who was a very different man. He’d serviced two sentries almost simultaneously by backhanding the first upside the head, throwing him over shoulder, then taking a handful of *light-speed* bounds right across a clearing towards his next target, which he serviced with the most brutal display of casual strength Hoeff had ever seen. All Warhorse had done was wrap an arm around his target’s chest and gave the quickest, most perfunctory squeeze, like anyone might as a friendly little hug. There was a muffled crunching sound, and the target went instantly limp. Warhorse ducked behind the shed and let the bodies hit the floor, both utterly lifeless. He moved on to his next targets without a moment’s hesitation, and serviced them all with unstoppable force.
+Arés...well, he wasn’t Adam at the moment. He was *Warhorse,* who was a very different man. He’d serviced two sentries almost simultaneously by backhanding the first upside the head, throwing him over a shoulder, then taking a handful of *light-speed* bounds right across a clearing towards his next target, which he serviced with the most brutal display of casual strength Hoeff had ever seen. All Warhorse had done was wrap an arm around his target’s chest and gave the quickest, most perfunctory squeeze, like anyone might as a friendly little hug. There was a muffled crunching sound, and the target went instantly limp. Warhorse ducked behind the shed and let the bodies hit the floor, both utterly lifeless. He moved on to his next targets without a moment’s hesitation, and serviced them all with unstoppable force.
 
 Baseball’s targets were serviced with a similarly perfunctory display of brutality and might. Irish, the youngest of the three, was a newbie at this particular dark game, but if he had any nerves about it, Hoeff couldn’t see them. All three clicked their throat-mikes at the same time. Twelve targets serviced in only a few seconds. *Damn.*
 
