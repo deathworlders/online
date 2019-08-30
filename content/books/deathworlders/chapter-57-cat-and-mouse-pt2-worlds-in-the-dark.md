@@ -2380,4 +2380,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 58: “The Future”
+*The Deathworlders* will continue in chapter 58: “Gjallarhorn”
