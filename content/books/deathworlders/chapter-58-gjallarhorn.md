@@ -522,7 +522,7 @@ It was a rare enough commodity, after all.
 
 ___
 
-**Date Point: 16y7m2d AV   
+**Date Point: 16y7m2d AV**    
 **Ceres Base, Asteroid Belt, Sol**
 
 ***Drew Martin***
@@ -1284,12 +1284,12 @@ What he could glean of them was telling. Those of his “friends” who’d met 
 
 The file, when it arrived, was a *physical print-out* of quite some thickness. It had also been accompanied by a note.
 
-    *Singularity hopes you find the following data enlightening. They assume your well-considered discretion will be helpful to the Directorate’s cause.*
+*Singularity hopes you find the following data enlightening. They assume your well-considered discretion will be helpful to the Directorate’s cause.*
 
-    *Welcome to the accretion disk.*
+*Welcome to the accretion disk.*
 
-    *Cordially,*  
-    *Zanm, Event Horizon.*
+*Cordially,*  
+*Zanm, Event Horizon.*
 
 Also included was a credit token, which Nofl regarded with some suspicion. Clearly, the basic civics course taught to all Corti was not entirely complete.
 
@@ -1787,7 +1787,7 @@ Allison’s hand stopped moving. Slowly, she leaned forward to frown at him. He 
 
 “...I’d… I don’t… I mean, that’s... According to *who?!”*
 
-“Nofl. He dug up some classified Directorate records from somewhere and… I am literally an experiment. My entire family is an experiment. Every single one of my ancestors further back than we have *records* were themselves bred—fucking *bred*—with a goal in mind.”
+“Nofl. He dug up some classified Directorate records from somewhere and… I am literally an experiment. My entire family is an experiment. Every single one of my ancestors further back than we have *records* were themselves bred—fucking *bred*\—with a goal in mind.”
 
 “Fucking *Corti!”* Allison groaned. She hushed herself as Anna stirred a little, but mercifully didn’t wake. “But… okay, a goal? What goal?”
 
@@ -1919,7 +1919,7 @@ Al felt her face go warm, but in the best way. *“Wo ye ai ni,”* she replied,
 
 “I hope so. But there’s whatever Nofl hasn’t told him yet to consider and…”
 
-“He’ll be *fine.*”
+“He’ll be *fine.”*
 
 Al sighed and nodded. “...Okay.” she considered her daughter, and stroked a thumb over the slumbering face. Anna was a chilled-out sort of baby, generally content to just eat and sleep. They had a few months before she’d get really interactive… or at least, so all the usual milestones supposedly went.
 
