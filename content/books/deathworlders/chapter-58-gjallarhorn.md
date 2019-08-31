@@ -74,7 +74,7 @@ The APA were *dead.* Okay, most of their members probably weren’t, on an indiv
 
 Gabe suspected he knew, now. A mystery closed, albeit never to become public knowledge.
 
-Sartori had even *wept* on the news as he told the nation all about Guillory’s selfless service and virtuous character, the lying *puta madre.*
+Sartori had even *wept* on the news as he told the nation all about Guillory’s selfless service and virtuous character, the lying *hijo de puta.*
 
 Well, whatever. So the president was the kind of asshole who’d murder a friend and shed crocodile tears. So Gabe himself was now firmly out of the loop on national security matters, and Winton was apparently quite comfortable and happy with letting foreign powers, albeit allies, assassinate their own citizens in *her* jurisdiction.
 
@@ -92,7 +92,7 @@ It was with that thought in mind that, once he was back in Folctha, he walked ov
 
 The floor shook as Adam rolled to his feet and thumped his way over to the door. He opened the door clad in his usual broad handsome smile and not much else, all bouncy energy and grins. Once he looked down and saw who was visiting, however...his expression hardened instantly.
 
-The boy---what a *ridiculous* word for the hulking warrior of a man standing before Gabe---hadn’t ever really stopped growing from...hell, whatever it was the military was doing to him. He was now so tall that his head brushed the top of the doorframe, so ridiculously broad that he plugged the rest of it full from his head to his toes with his hypermuscular bulk, and his shoulders were so wide, his arms hung entirely outside the door frame. *Dios Mió.*
+The boy---what a *ridiculous* word for the hulking warrior of a man standing before Gabe---hadn’t ever really stopped growing from...hell, whatever it was the military was doing to him. He was now so tall that his head brushed the top of the doorframe, so ridiculously broad that he plugged the rest of it full from his head to his toes with his hypermuscular bulk, and his shoulders were so wide, his arms hung entirely outside the door frame. *Dios Mío.*
 
 “...Dad.”
 
@@ -152,7 +152,7 @@ Adam sighed, and ran one of his calloused mitts through the stubble of his HEAT 
 
 “Even if it's not what you signed up for?”
 
-“That’s the thing, *papá.* The kinda thing we’re talkin’ about *is* what I signed up for. Maybe I didn’t completely unnerstand when I was sixteen, but I understood well enough. No regrets.”
+“That’s the thing, *papá.* The kinda thing we’re talkin’ about *is* what I signed up for. Maybe I didn’t completely understand when I was sixteen, but I understood well enough. No regrets.”
 
 “...So long as you’re doing right by your own code,” Gabe decided.
 
@@ -374,13 +374,13 @@ It took a lot to give Daar pause, but *that* just about did it. He stopped for a
 
 “We have to pick out individual rocky bodies within systems that might be on the far side of the galaxy, and there are hundreds of billions of star systems in the Milky Way. My scientific advisors assure me that overkill is the only way to find all the relays in a timely manner. And afterwards, of course, we’ll have the largest and most sensitive deep survey telescope ever built.”
 
-“I can imagine Champion Loomi an’ his Brothers’d be *doolin’* over somethin’ like that…”
+“I can imagine Champion Loomi an’ his Brothers’d be *droolin’* over somethin’ like that…”
 
 “Erebor is this generation’s Bletchley Park. I don’t know if you’ve ever heard the name…?”
 
 Daar wobbled his head uncertianly. “Uh...somethin’ ‘bout secret communications, I think?”
 
-Sartori nodded. “Yup! It was a codebreaking operation during the second world war. Their breakthroughs led directly to computational science and laid the groundwork for our information revolution.”
+Sartori nodded. “Yup! It was a codebreaking operation during the Second World War. Their breakthroughs led directly to computational science and laid the groundwork for our information revolution.”
 
 “Neat!” Daar made a note to ask for some reading material; he *loved* that kinda military history.
 
@@ -450,7 +450,7 @@ Xiù laughed. “You say that every time. I dread to think what you’re gonna d
 
 “Oh, I’m gonna take a whole *week* of leave for that… Maybe learn to tie some special knots...”
 
-Xiù laughed again, quietly, though there was no stopping both the blush and the way her teeth reflectively played with her lip... *āi yā.* He was *way* too good at that.
+Xiù laughed again, quietly, though there was no stopping both the blush and the way her teeth reflexively played with her lip... *āi yā.* He was *way* too good at that.
 
 “Promise?” she asked.
 
@@ -541,7 +541,7 @@ They were gaining on the front of the treadmill, slowly. Maybe that was the answ
 
 Today, though, was different and Drew was not tending to the backlog. Today, Ceres was hosting some ET guests with some promising technology to sell.
 
-Anything that got the mining ship HCS-501 *‘I Met God And She Booped My Nose’* out of mothball and back out among the belt where she belonged was a good thing in Drew’s book. The ship had depended on nukes to do its job, but the supply of *those* had dried up like spit on a barbecue the moment Hephaestus lost one. The ship wasn’t a cost-effective surveyor, and the Consortium didn’t even know where to *begin* researching an alternative, so the poor girl had been “landed” on Ceres’ ultra-low-gravity surface where not even her prodigious mass could do her any harm, and handed over the accountants.
+Anything that got the mining ship HCS-501 *‘I Met God And She Booped My Nose’* out of mothball and back out among the belt where she belonged was a good thing in Drew’s book. The ship had depended on nukes to do its job, but the supply of *those* had dried up like spit on a barbecue the moment Hephaestus lost one. The ship wasn’t a cost-effective surveyor, and the Consortium didn’t even know where to *begin* researching an alternative, so the poor girl had been “landed” on Ceres’ ultra-low-gravity surface where not even her prodigious mass could do her any harm, and handed over to the accountants.
 
 She’d paid for herself just in one rock. But Drew loved spaceships, and seeing one he’d briefly captained sitting out there on the asteroidal plain, abandoned and unused, was just an extra twist to the knife in his beer belly.
 
@@ -1319,7 +1319,7 @@ In fact, Nofl reflected as he sipped his coffee, *“oh dear”* really wasn’t
 
 “Well… *fuck,”* he announced to the empty room, and decided that, yes, that was much more appropriate. “Fucking *Hell,”* he added, on the grounds that one shouldn’t half-ass these things.
 
-Satisfied---or at least, less *dis*\satisfied---he turned the page and opened the next document: Experiment NIGHTMARE-GreenTriangle-WhiteCircle-1201-1, Subject 7.
+Satisfied---or at least, less *dis*-satisfied---he turned the page and opened the next document: Experiment NIGHTMARE-GreenTriangle-WhiteCircle-1201-1, Subject 7.
 
 Singularity hadn’t wanted to waste their champion hybrid. Preparing for the experiment that stranded Julian on Nightmare had taken several years, with subjects 1-6 being a series of other unfortunates. The first three were ordinary, though fit and skilled humans. They had survived for those several years too, but eventually succumbed variously to misadventure, extremely aggressive parasites, and a fatal error in judgement.
 
@@ -1500,7 +1500,7 @@ There was more there that Nofl would have liked to unpack, but they had to get t
 
 Julian seemed a bit lost in his thoughts, but just for a moment. “...Oh! Uh...well, that stuff started adding up. Also I lived out in the country and I ran to school every day, so...I just sorta...hung out with my friends, I guess.”
 
-“Did this *difference* ever effect the relationship?”
+“Did this *difference* ever affect the relationship?”
 
 “…Probably. They knew about me, but all we ever did was, uh, horse around, play basketball, that sorta thing. I wasn’t the biggest of ‘em but I was easily the strongest. Always was, but I didn’t do any of the school sports. I mean, mostly ‘cuz we were poor and couldn’t afford the equipment fees...I’d liked to have played football with Dustin. But, no money, and I think also ‘cuz granpa, uh...it wouldn’t be fair. He knew too. Like, *really* knew. But it still wasn’t *weird.”*
 
@@ -1819,7 +1819,7 @@ Allison laughed. “You callin’ me butch?”
 
 “Tomboyish. I love it, but… you aren’t a girly girl, *baobei.* Except for your underwear.”
 
-“Damn right!” Allison agreed, produly. She lay down half on top of him and half beside him. “So. Bred, huh? By the finest minds in the Directorate to produce… what?”
+“Damn right!” Allison agreed, proudly. She lay down half on top of him and half beside him. “So. Bred, huh? By the finest minds in the Directorate to produce… what?”
 
 “Well, somebody who could survive Nightmare, I guess? I dunno. And if Nofl knows, I don’t think he can tell me. A survivor or somethin’ like that, like I said.”
 
