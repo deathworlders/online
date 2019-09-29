@@ -1,6 +1,6 @@
 ---
-title: "Chapter 5p: New Life"
-date: 2019-09-30T00:00:00+00:00
+title: "Chapter 59: New Life"
+date: 2019-09-29T23:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point:16y7m2w AV**    
