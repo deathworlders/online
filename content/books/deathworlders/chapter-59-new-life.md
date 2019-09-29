@@ -166,7 +166,7 @@ That left only past observation to go on, at least until it showed up again. And
 
 The Igraen known as *Proximal* had insights she lacked. Indeed, he had insights that the Entity itself had lacked, or been unable to articulate.
 
-*“You obviously can’t simulate all the processes of an organic brain neuron-by-neuron,”* he was explaining. “It would require vast processing resources, and be far too susceptible to latency, signal loss, far too bound up in sensory processing and a host of other things. It all has to be* approximated, *and not along the lines of different brain structures, but along the lines of… English doesn’t seem to have a word for it. The smallest practical components of a personality. If a mind was a language, then we calculate on the phoneme level.”
+*“You obviously can’t simulate all the processes of an organic brain neuron-by-neuron,”* he was explaining. *“It would require vast processing resources, and be far too susceptible to latency, signal loss, far too bound up in sensory processing and a host of other things. It all has to be* approximated, *and not along the lines of different brain structures, but along the lines of… English doesn’t seem to have a word for it. The smallest practical components of a personality. If a mind was a language, then we calculate on the phoneme level.”*
 
 “Makes sense,” Lewis nodded. “We figured it was somethin’ like that, dude. I’m gonna go ahead and call ‘em an *‘egoneme.’”*
 
@@ -732,7 +732,7 @@ No matter, he had a *strong* grip and could break through if he had to...but if 
 
 Well, that and the gravity was lighter here. Maybe if he jumped—
 
-He nearly missed and fell. The gravity was *much* lighter, and he went a tail-length higher than he’d aimed for. Down below, humans scattered and shouted as he hit the wall with an “oof!”* and just about managed to grab onto a wide stone slab under some glass.
+He nearly missed and fell. The gravity was *much* lighter, and he went a tail-length higher than he’d aimed for. Down below, humans scattered and shouted as he hit the wall with an *“oof!”* and just about managed to grab onto a wide stone slab under some glass.
 
 Once he’d stuck himself to the side of the hut, he couldn’t help but grin and trill stupidly. That was fun! And now that he was off the ground, the rest of the way up was easy!
 
@@ -1406,7 +1406,7 @@ So. It was going to be one of *those* nights.
 
 Leela sighed, rolled her eyes and chittered. “Conspire on what, exactly?”
 
-“Oh, y’know. On a nice warm blanket! All night! *All day.* Err’day ‘fer *weeks* on end if ‘ya wanna see what th’ Stud-Prime o’ Stoneback can *really* do...”*
+“Oh, y’know. On a nice warm blanket! All night! *All day.* Err’day ‘fer *weeks* on end if ‘ya wanna see what th’ Stud-Prime o’ Stoneback can *really* do...”
 
 Leela flicked an ear at him. “Oh? That’s an impressive boast.” She turned her attention to her work; since he had *friends* to feed, he’d basically just buy everything she had left. No wastage tonight. “Don’t know if I’ve ever met a male that could back a claim like *that.”*
 
@@ -1470,7 +1470,7 @@ He was being deliberately irritating now in his maddeningly charming way. She ha
 
 “I like it when Folctha’s health inspectors don’t find Daar hairs in my food. *Nobody* will appreciate that, no matter how much you try to… *charm* them.”
 
-Daar rumbled a pleased avalanche of a note. “Oh, I dunno, smell’s like *‘yer* enjoyin’ my charms *plenty*…or mebbe that’s just the cumin again!”
+Daar rumbled a pleased avalanche of a note. “Oh, I dunno, smell’s like *‘yer* enjoyin’ my charms *plenty!* …Or mebbe that’s just the cumin again!”
 
 “I’m pretty sure those two things don’t smell at all the same, Daar.”
 
@@ -1494,7 +1494,7 @@ At least there was a layer of sheet metal between her and him.
 
 “Naw, jus’ the most bestest ones! Investment, remember?!”
 
-“Well, I feel *honored…*”
+“Well, I feel *honored…”*
 
 “‘Ya should! I’m the most bestest at botherin’ a Female! An’ the bestest at showin’ off! I could show off ‘fer you all night long, y’know!” He put deed to word, and despite herself Leela *did* stop to watch and enjoy his oafish, hypermuscular clowning, until the smell of warming tortillas managed to remind her of her culinary and business responsibilities. She immediately found herself frustrated by his ongoing campaign of distraction.
 
@@ -1504,7 +1504,7 @@ At least there was a layer of sheet metal between her and him.
 
 “I mean it!”
 
-“But I ain’t even shown you my back yet! It’s my most bestest part!!” Daar spun away from her, raised his massive arms and pulled them down and sideways. *“See?! *I’m th’ most *hugest* ripplin’ ‘Back ever! From my neck down to my calves! An’ all my other bits, too!!”
+“But I ain’t even shown you my back yet! It’s my most bestest part!!” Daar spun away from her, raised his massive arms and pulled them down and sideways. “See?! I’m th’ most *hugest* ‘Back ever! From my neck down to my calves! An’ all my other bits, too!!”
 
 Leela chittered in exasperation. *“Daar!”*
 
@@ -1662,7 +1662,7 @@ Daar’s chafing-dish-sized paw had crept a little too close to the window openi
 
 “Talented *an’ more!* See, it’s ‘cuz he can see the color *red.”*
 
-Leela paused. “He… wait, *what?*”
+Leela paused. “He… wait, *what?”*
 
 Daar’s contrabass chitter rattled the window in its frame. “Yeah! Turns out, we *all* can, it’s just a gene what’s not activated! An’ he, uh, sorta helped us ‘ta discover that!”
 
@@ -2073,7 +2073,7 @@ Everyone else had six or fewer.
 
 “I should point out that despite that number, the Hunters themselves prefer an exclusively spaceborne existence. Nevertheless, they have the resources to control and contain those planets and keep their slave population suppressed,” Thurrsto finished.
 
-Fiin raised his voice as the dismay got a little louder. Not shouting or anything, just making himself heard. “Please, delegates! We’re not here to alarm you. We’re presenting raw facts here, which need putting in their proper context.” He paused long enough for the rising noise to settle, then duck-nodded. “A hundred and six planets is a lot, but we shouldn’t make the mistake of overestimating our foe; that’s often just as dangerous as *under*estimating them would be.”
+Fiin raised his voice as the dismay got a little louder. Not shouting or anything, just making himself heard. “Please, delegates! We’re not here to alarm you. We’re presenting raw facts here, which need putting in their proper context.” He paused long enough for the rising noise to settle, then duck-nodded. “A hundred and six planets is a lot, but we shouldn’t make the mistake of overestimating our foe; that’s often just as dangerous as *under*\estimating them would be.”
 
 “It’s difficult to translate their… uh… *lifestyle* into our terms,” Thurrsto agreed. “But if the planet *‘Hell’* is fairly average by their standards, we can expect each of these worlds to bear about a hundred million slaves. Considering the average Hunter’s nutritional requirements, that puts an upper limit on the population all those planets can support.”
 
@@ -2330,9 +2330,9 @@ Somehow, its translation implant was still almost working, in a glitchy way. Hun
 
 This time, what its implant ventured was *“This piece of [fecal excrement] is still breathing.”*
 
-Another figure, armored visor glowing balefully in the sparking darkness, joined its fellow. “Tough [disavowed-offspring].”*
+Another figure, armored visor glowing balefully in the sparking darkness, joined its fellow. *“Tough [disavowed-offspring].”*
 
-The word *tough* translated most directly to a Hunter’s understanding in the sense of *“difficult to chew.’ Did the prey plan to *eat* it?  The Alpha would have shivered at the sickening inversion of the natural order, if only it could.
+The word *tough* translated most directly to a Hunter’s understanding in the sense of *“difficult to chew.’* Did the prey plan to *eat* it?  The Alpha would have shivered at the sickening inversion of the natural order, if only it could.
 
 One of the armored figures bobbed its head sharply, then turned away. The Alpha heard its voice as it communicated aloud with a third individual.
 
