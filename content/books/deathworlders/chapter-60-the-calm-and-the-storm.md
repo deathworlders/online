@@ -2051,7 +2051,7 @@ Rhi had woken up in response to his crashing exit from her bed, and blinked at h
 
 “Hmm...mornin,’ studlet.”
 
-*“Hmnngh….”** he shambled zombie-like towards the loo. “Why does that feel like a backhanded compliment?”
+***“Hmnngh….”*** he shambled zombie-like towards the loo. “Why does that feel like a backhanded compliment?”
 
 “‘Cuz you’re cute as hell and insecure as fuck. Which is a weird thing for a guy who’s been out-lifting ‘two-seventy’ for a long while now...”
 
