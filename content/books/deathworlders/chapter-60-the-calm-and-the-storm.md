@@ -593,7 +593,7 @@ He tapped his finger on the projection, indicating a white cell. “These are pa
 
 “I learned a word. High-pear-bole-ee? But yes, be careful with gods,” she cautioned Nofl. “Always best to be careful.”
 
-“...Fine, fine.” Nofl said, clearly deciding that discretion was the better part of avoiding awkwardness. “Fearsome, then. Aggressive, almost *psychotic.* Honestly, half of the worst diseases that Humans have are caused their own immune systems getting too excited and figuratively smashing up the place.”
+“...Fine, fine.” Nofl said, clearly deciding that discretion was the better part of avoiding awkwardness. “Fearsome, then. Aggressive, almost *psychotic.* Honestly, half of the worst diseases that Humans have are caused by their own immune systems getting too excited and figuratively smashing up the place.”
 
 “Ah, yes. I know that problem well.” The Singer shot a toothy, teasing grin at her favorite boy, and Vemik’s tail lashed in the Ten’Gewek equivalent of awkwardly clearing his throat.
 
@@ -673,7 +673,7 @@ She nodded. “I saw… sky-magic among the trees. Clean and white things, there
 
 Before Julian could comment, his phone pinged. It popped the moment like a bubble, but made him smile when he checked the message from Allison, which Vemik craned in to read as well.
 
-*“X says if you don’t bring us a Shinobi Platter, you’ll be sleeping on the couch <3 ”*
+*“X says if you don’t bring us a Shinobi Platter, you’ll be sleeping on the couch ♥ ”*
 
 “No you won’t!” Vemik blurted out. “You three fuck too much!”
 
@@ -1225,7 +1225,7 @@ It was a warm and cozy ride, with Julian’s big arms comfortably hugging them b
 
 “Sorry, *Bǎobèi.”* Xiù didn’t look particularly contrite, but she gave him a kiss and they set off through the park.
 
-It was pretty crowded, and the costumes were the usual mix running from the could-barely-be-bothered cheap store costumes that flirted dangerously with copyright— “Italian Mushroom Man,” “Kung-Fu Sewer Tortoise,” and (Allison’s personal favorite) four dudes walking past as “Dead Spirit Exterminator Squad” J —all the way up to the disturbingly, almost obsessively good.
+It was pretty crowded, and the costumes were the usual mix running from the could-barely-be-bothered cheap store costumes that flirted dangerously with copyright— “Italian Mushroom Man,” “Kung-Fu Sewer Tortoise,” and (Allison’s personal favorite) four dudes walking past as “Dead Spirit Exterminator Squad” —all the way up to the disturbingly, almost obsessively good.
 
 The aliens who’d chosen to costume up, of course, often either missed the point or didn’t really know enough about human pop culture. There was a teenage Gaoian female who’d dressed as Broccoli every year since first arriving on Cimbrean, another dressed as a taco, and a Vzk’tk who’d dressed himself as a ghost via the old “cut some holes in a bedsheet” trick. She looked more like a roaming gazebo than anything, but the intent was there.
 
@@ -1771,13 +1771,13 @@ But… why?
 
 Nobody to share it with. Nobody to talk to. Nobody to care about.
 
-Which was a strange thought, the Entity realized. Its core, from the moment of its genesis, had always been the impulse to *<survive>.* Everything else was supposed to be secondary at best, and a distraction at worst.
+Which was a strange thought, the Entity realized. Its core, from the moment of its genesis, had always been the impulse to \<*survive*\>. Everything else was supposed to be secondary at best, and a distraction at worst.
 
-And yet, somewhere in the complicated list of conclusions which extended from that root and the complex ways in which it interacted with the real world, *<Survive>* had become… insufficient, and had morphed into a larger concept: *<Live.>*
+And yet, somewhere in the complicated list of conclusions which extended from that root and the complex ways in which it interacted with the real world, \<*Survive*\> had become… insufficient, and had morphed into a larger concept: \<*Live.*\>
 
 There were too many concepts hanging off *that* to list.
 
-Possibly the reason it had done so, however, because the *<Survive>* impulse had now been permanently and unbreakably fulfilled. The Entity now had backup installations in half a star systems scattered across hundreds of lightyears, all uninhabited, all bereft of the things that would interest organic life. It had installed mining operations and nanofactories, buried long-term, highly-dependable storage on dozens of moons and *hundreds* of asteroids…
+Possibly the reason it had done so, however, because the \<*Survive*\> impulse had now been permanently and unbreakably fulfilled. The Entity now had backup installations in half a dozen star systems scattered across hundreds of lightyears, all uninhabited, all bereft of the things that would interest organic life. It had installed mining operations and nanofactories, buried long-term, highly-dependable storage on dozens of moons and *hundreds* of asteroids…
 
 Its demise, at this point, was effectively impossible. It had *won.* Only the deepest chasms of galactic time threatened it now.
 
@@ -1802,7 +1802,7 @@ Food, for instance, was actually relatively plentiful. Once the Guvnurag workers
 
 Medical supplies were a little stretched, but the planet’s ability to produce its own supply outstripped their consumption, so that was resolving itself… no. The aid the Guvnurag needed was in *little* things, the unconsidered ubiquitous minutiae that oiled the great machines of economy and consumption.
 
-Hence the *Orcoray’s* cargo: fifteen thousand shipping containers full of fuses, power cells, screws, wire, drill bits, electronic components, minor luxuries, and various and sundry other low-volume supplies. The ship’s manifest listed over half a million different types of items.
+Hence the *Orcoray’s* cargo: fifteen thousand shipping containers full of fuses, power cells, screws, wire, drill bits, electronic components, minor luxuries, and various-and-sundry other low-volume supplies. The ship’s manifest listed over half a million different types of items.
 
 Orwoth had spent the trip reading through it, constantly marvelling at the trove of unconsidered little things he and his crew were hauling. He’d never even *heard* of most of them, and yet when he looked them up he found an item that was obviously essential to the smooth operation of something else he’d taken for granted all his life.
 
@@ -1853,7 +1853,7 @@ Tooko debated whether to tell him that it was kind of automatic that sound didn�
 
 “The cloak makes us transparent to nearly all of the EM spectrum, and the visible wavelengths are a tiny, tiny part of that,” Tooko said. “It’d be more work *not* to include them.”
 
-*“Wave-*\length.” Ferd muttered, clearly memorizing the word.
+*“Wave*-length.” Ferd muttered, clearly memorizing the word.
 
 “The color of light,” Tooko translated. “It’s just that there are *way* more colors than anyone can see. My people can see some colors, Humans can see more. Yours can see at least as many as they can, but machines can be made to see *all* of them.”
 
@@ -1863,7 +1863,7 @@ Tooko shot a look at Wilde. “Put that in sky-people-speak for me?”
 
 Wilde grinned and winked at Ferd, who grumbled in a placid, satisfied sort of way. “They might be tetrachromatic and maybe even perceive polarization. We don’t know yet. Possibly that’s why they’re so sensitive to bright light. Might be why their pupils are slotted, too.”
 
-“I *like* my *Oak-*\leys,” Ferd declared, happily. “Keep too-bright shimmer out of face!”
+“I *like* my *Oak*-leys,” Ferd declared, happily. “Keep too-bright shimmer out of face!”
 
 “They have words to describe different kinds of shimmer, which is why we think they might be able to see polarization. That and the water trick…” Wilde shrugged. “Damn useful, at any rate. Too bad they don’t much care for wide open skies.”
 
@@ -2428,3 +2428,200 @@ ___
 **++END CHAPTER 60++**
 ___
 ___
+
+If you have enjoyed the story so far and want to support the author, you can do so by:
+
+* Subscribing at http://patreon.com/HamboneHFY or https://subscribestar.com/HamboneHFY
+
+* Buying some merchandise at http://teepublic.com/HamboneHFY
+
+* Dropping a one-off payment in the tip jar at http://paypal.me/HamboneHFY or buy me a coffee at http://ko-fi.com/hambonehfy
+
+* Following me on social media via http://facebook.com/HamboneHFY/ or http://twitter.com/HamboneHFY
+
+* Voting for *The Deathworlders* at http://topwebfiction.com
+
+This chapter is dedicated to the memory of CHESTER, who was a Good Boy.
+
+It was brought to you with the help of...
+
+---
+
+***The SOR***
+
+*Those special individuals whose contributions to this story go above and beyond mere money*
+
+Ctwelve,
+
+BitterBusiness,
+
+Sally and Stephen Johnson
+
+Ellen Houston
+
+Sian, Steve, Willow and Riker
+
+---
+
+**Thirty-eight** ***Humans***
+
+TTTA
+
+SirNeonPancake
+
+(â˜­ ÍœÊ– â˜­)
+
+Anthony Landry
+
+Anthony Youhas
+
+blackwolf393
+
+Chris Candreva
+
+Chris Dye
+
+Daniel Morris
+
+Eric Hardwick
+
+Fragthecullen
+
+Greg Tebbutt
+
+HungryWerewolf
+
+James Ren
+
+JLB58
+
+Joseph Szuma
+
+Joshua Mountain Taylor
+
+Katja
+
+Krit Barb
+
+Marquis Talmadge
+
+Martin Ã˜stervang
+
+Nathaniel Phillips
+
+Nicolas Gruenbeck
+Ortheri
+
+Rob Rollins
+
+Sam Berry
+
+Savvz
+
+Shane Wegner
+
+Sun Rendered
+
+Taylor McGee
+
+Theningaraf
+
+TNkdI6FVB1NhjNqt
+
+ToxicHoneyBadger
+
+tsanth
+
+Xultanis
+
+Yeania Aeon
+
+Zachary Galicki
+
+ziv
+
+---
+
+As well as **sixty-two** ***Deathworlders...***
+
+Austin Deschner
+Aaron Hescox
+Adam Beeman
+Alex Hargott
+Alex Langub
+Andrew
+Andrew Ford
+Andrew Robinson
+Arnor
+atp
+Ben Thrussell
+Bruce Ludington
+Chris Bausch
+Chris Meeker
+damnusername
+Daniel R.
+Dar
+David Jamison
+Derek Price
+Devin Rousso
+Elizabeth Schartok
+Elliott Riddle
+Eric Johansson
+Fiona Dunlop
+galrock0
+Gavin Smart
+Ignate Flare
+Ivan Smirnov
+Jason Dyer
+Jim Hamrick
+Jon
+Kristoffer Skarra
+Logan Rudie
+lovot
+Matt
+Matt Demm
+Matthew Cook
+Max Bohling
+Mel B.
+mihkel miks
+Mikee Elliott
+Myke Harryson
+Nathan Wentworth
+NightKhaos
+Patrick Huizinga
+Phil Winterleitner
+Richard A Anstett
+RJ Smiley
+Ryan
+Ryan Cadiz
+Sam
+Saph
+Sintanan
+Stephane Girardin
+Stephen Prescott
+Stratigan
+theWorst
+Tyler Kelloway
+Volka Creed
+William Kinser
+Woodsie13
+xxarmondxx
+
+
+**...Seventy-six** ***Friendly ETs,*** **119** ***Squishy Xenos*** and **294** ***Dizi Ra*** -*(splat)*
+
+---
+
+“The Deathworlders” is © Philip Richard Johnson, AKA Hambone, Hambone3110 and HamboneHFY. Some rights are reserved: The copyright holder reserves all commercial rights and ownership of this intellectual property. Permission is given for other parties to share, redistribute and copy this work under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0International License.
+
+This work contains deliberate mentions of real persons, places and trademarks, which are made purely for reasons of verisimilitude under nominative fair use. These mentions have not been endorsed or sponsored by those persons or by the owners or governing bodies of those trademarks or places. All song lyrics, movie titles or other copyrighted material and trademarks that are referenced in this work under fair use are the property of their respective owners.
+
+The events and characters portrayed in this story are fictional and any resemblance to actual persons or events is accidental.
+
+The author does not automatically share or endorse the opinions and behaviour of the characters.
+
+---
+
+Thank you for reading!
+
+*The Deathworlders* will continue in chapter 60: “The Calm and The Storm.”
