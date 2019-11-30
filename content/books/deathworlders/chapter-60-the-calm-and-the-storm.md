@@ -2624,4 +2624,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 60: “The Calm and The Storm.”
+*The Deathworlders* will continue in chapter 61: “Tooth and Claw”
