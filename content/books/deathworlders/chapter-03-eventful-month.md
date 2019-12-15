@@ -162,7 +162,7 @@ Vedreg was an old and constant friend and a rather more shrewd operator than Kir
 
 "Caution."
 
-"I beg your pardon, councillor?" asked one of the station's janitors. She was a V'zktk, cousin species to Kirk's own Rrrtktktp'ch. More numerous, but... well. By any objective measure, less intelligent. They tended to form the working class in Domain society, while Rrrtk like Kirk naturally drifted into positions of authority. It was a shame, really.
+"I beg your pardon, councillor?" asked one of the station's janitors. She was a V'zktk, cousin species to Kirk's own Rrrtktktkp'ch. More numerous, but... well. By any objective measure, less intelligent. They tended to form the working class in Domain society, while Rrrtk like Kirk naturally drifted into positions of authority. It was a shame, really.
 
 Kirk started at the query and raised his head: He had clearly dozed off and was now alone in the meeting room save for the custodial machine. "...Nothing. Where the hell are my aides?"
 
@@ -176,7 +176,7 @@ Kirk started at the query and raised his head: He had clearly dozed off and was 
 
 "Biodeck?" Kirk repeated, having not heard of such a thing before.
 
-"It's part of his personal suite. He said the elevator could take you there, and there will be fresh *Cqcq* leaves and mature *Zrrks."*
+"It's part of his personal suite. He said the elevator could take you there, and there will be fresh *Cqcq* leaves and mature *zrrks."*
 
 She sounded quite envious of that last point, and Kirk knew why. A truly venerable *zrrk* that had had plenty of time to partially rot down and liquefy was a rare delicacy, this far from the Domain's homeworlds.
 
