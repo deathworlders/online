@@ -186,29 +186,41 @@ His implants received the relevant information as he studied them: Pansies, Hell
 
 "I thought you would find the centerpiece most interesting." Vedreg commented, and Kirk started. His friend had been present all along, seated on a bench configured for his species and apparently enjoying the exact same view.
 
-"Beautiful!" Kirk exclaimed. "But how can it be here? Earth is a protected world and a Class Twelve, how could you possibly have acquired these?" "Wealth and influence." Vedreg declared, and his bioluminescent flank turned a shade of contrite taupe. "An intimate working knowledge of the minutiae of galactic law and, of course, the knowledge that three of the most successful antibiotics that the Corti have released in the last fifty cycles were derived from samples collected on Earth."
+"Beautiful!" Kirk exclaimed. "But how can it be here? Earth is a protected world and a Class Twelve, how could you possibly have acquired these?"
+
+"Wealth and influence." Vedreg declared, and his bioluminescent flank turned a shade of contrite taupe. "An intimate working knowledge of the minutiae of galactic law and, of course, the knowledge that three of the most successful antibiotics that the Corti have released in the last fifty cycles were derived from samples collected on Earth."
 
 "I don't follow you." Kirk told him.
 
-"The laws only apply to samples directly collected from Earth. As these are cultivars or seed from specimens collected on Earth before the quarantine came into effect, they are, legally speaking, exempt from it. I assure you, every single one is completely legal to own." bands of smug yellow and blue stippled down him. "A councillor cannot be caught in possession of contraband, after all. Arranging that these specimens would not be contraband was, how do they say it? Child's play."
+"The laws only apply to samples directly collected from Earth. As these are cultivars or seed from specimens collected on Earth before the quarantine came into effect, they are, legally speaking, exempt from it. I assure you, every single one is completely legal to own."
 
-"Aren't they dangerous?" Kirk asked.
+Bands of smug yellow and blue stippled down him. "A councillor cannot be caught in possession of contraband, after all. Arranging that these specimens would not be contraband was, how do they say it? Child's play."
 
-"Sterilized to a fare-thee-well, though the necessary Mycorrhizal fungi in their roots would prove to be extremely tenacious should it escape into another of these biomes, not to mention fatal for the unfortunate flora it infected. The pollens, however, would have us both in anaphylactic shock very swiftly indeed should the field fail. Securing against that scenario was very costly indeed." Green swept up his flank backwards---the equivalent of a sniff. "From what I understand, even humans with their fearsome immune systems can suffer quite profusely from their effects. The warning about the venomous fauna is purely a legal requirement, while those bees could land you in the medical bay if they stung you, they won't, as a rule, since doing so is fatal to them also." "Really?"
+"Aren't they dangerous?" Kirk asked. "What about the microorganisms? The bacteria?"
+
+"Don't worry, I had them sterilized as much as possible. Though the symbiotic Mycorrhizal fungi in their roots had to remain, and *those* would prove to be extremely tenacious should they escape into another of these biomes, not to mention fatal for the unfortunate flora it infected. The pollens, however, would have us both in anaphylactic shock very swiftly indeed should the field fail. Securing against that scenario was very costly indeed."
+
+Green swept up Vedreg's flank backwards---the equivalent of a sniff. "From what I understand, even humans with their fearsome immune systems can suffer quite profusely from their effects."
+
+"And the warning about the venomous fauna?"
+
+"Purely a legal requirement. While those bees could land you in the medical bay if they stung you, they won't, as a rule, since doing so is fatal to them also."
+
+"...Really?"
 
 "Oh yes. Remarkable creatures. Survival of the whole in one of the galaxy's most hostile competitive environments through instinctive self-sacrifice of the individual. Have you read Richard Dawkins?"
 
 "I haven't, no." Kirk detected the steady soft glow of purple light that indicated Vedreg's approval and respect, though whether for the author or for the insect was unclear.
 
-"I suspect only a Human would have been in a position to pick up on the concepts he did. "The selfish gene", he called it. Excellent book. It explains that the process of evolution is an inherently selfish one, from the perspective of the allele. I'm no biologist, but I understand much more of what they're saying for having read it.
+"I suspect only a Human would have been in a position to pick up on the concepts he did. *'The selfish gene,'* he called it. Excellent book. It explains that the process of evolution is an inherently selfish one, from the perspective of the allele. I'm no biologist, but I understand much more of what they're saying for having read it."
 
 "If it's selfish, why aren't all our worlds like that?" Kirk asked, waving one of his longer, uppermost arms at the Terran terrarium.
 
-"Because on most worlds the optimal selfish survival strategy for your average gene is to not rock the boat. Life enters a reciprocal, interconnected harmony and stays there, changing only slowly if at all. But life on Earth has too many factors outside of the food chains stirring things up: asteroid strikes, storms, intense seasons, climate shifts, tectonic activity...delicate webs of interdependent species would collapse wholesale down there in short order the first time a major eruption increased the particulate dust in the atmosphere.
+"Because on most worlds the optimal selfish survival strategy for your average gene is to not rock the boat," Vedreg explained "Life enters a reciprocal, interconnected harmony and stays there, changing only slowly if at all. But life on Earth has too many factors outside of the food chains stirring things up: asteroid strikes, storms, intense seasons, climate shifts, tectonic activity...delicate webs of interdependent species would collapse wholesale down there in short order the first time a major eruption increased the particulate dust in the atmosphere... Only the aggressive survive." He glowed yellowish-green stippled with blue, white and bands of darkness---a complicated emotional cocktail of respect, admiration, intimidation, and sadness.
 
-Only the aggressive survive." He glowed yellowish-green stippled with blue, white and bands of darkness---a complicated emotional cocktail of respect, admiration, intimidation, and sadness.
+"It's no wonder the humans struggle so hard to remain balanced and in-tune with nature." He said. "Their whole genetic history has granted survival only to those that ruthlessly seized every opportunity for advancement."
 
-"It's no wonder the humans struggle so hard to remain balanced and in-tune with nature." He said. "Their whole genetic history has granted survival only to those that ruthlessly seized every opportunity for advancement." "Are you always this melancholy, Vedreg?" Kirk asked.
+"Are you always this melancholy, Vedreg?" Kirk asked.
 
 "Only when I have received terrible news, old friend."
 
@@ -216,15 +228,15 @@ Only the aggressive survive." He glowed yellowish-green stippled with blue, whit
 
 "My government is taking matters into its own hands and preparing to enforce the Quarantine around Earth with extreme prejudice."
 
-Kirk stood still, processing this. Finally, speaking delicately, he asked.
+Kirk stood still, processing this. Finally, speaking delicately, he was able to summon up his wits to ask the important question.
 
-"Could you please define "extreme prejudice?"
+"...Could you please define *'extreme prejudice?'"*
 
 Vedreg's strips were completely inert, showing no colour at all, not even a neutral paleness, a sign of deepest sorrow and regret. He handed over an infopad.
 
 "As of right now, a fleet of warships is en route to Sol. Their objective is to deploy an experimental device."
 
-"A weapon?!" Kirk couldn't believe it. He began scanning the files as Vedreg replied.
+"A *weapon?!"* Kirk couldn't believe it. He began scanning the files as Vedreg replied.
 
 "Mercifully not. Panicked herd beasts though they are, my people are not genocidal. No, this device will simply erect a containment barrier around the entire system. Powered by a fraction of Sol's own radiation, it will last for several million cycles."
 
