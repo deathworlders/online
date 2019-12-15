@@ -172,11 +172,11 @@ Kirk started at the query and raised his head: He had clearly dozed off and was 
 
 "Does this station have an observation deck?"
 
-"It does, councillor, though Councillor Vedregnenug asked me to invite you to his biodeck when you wake up."*
+"It does, councillor, though Councillor Vedregnenug asked me to invite you to his biodeck when you wake up."
 
-"The biodeck?" Kirk repeated, having not heard of such a thing before.
+"Biodeck?" Kirk repeated, having not heard of such a thing before.
 
-"It's part of his personal suite. He said the elevator could take you there, and there will be fresh *Cqcq* leaves and mature *Zrrks."* 
+"It's part of his personal suite. He said the elevator could take you there, and there will be fresh *Cqcq* leaves and mature *Zrrks."*
 
 She sounded quite envious of that last point, and Kirk knew why. A truly venerable *zrrk* that had had plenty of time to partially rot down and liquefy was a rare delicacy, this far from the Domain's homeworlds.
 
