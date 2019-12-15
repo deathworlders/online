@@ -168,7 +168,7 @@ Kirk started at the query and raised his head: He had clearly dozed off and was 
 
 "They judged that you desired some time alone, Councillor. Should I summon them?"
 
-"No. Thank you." He stood and stretched, rolling the long neck for which both the species of the Domain were famed and enjoying the feeling as the long flexible sheath of cartilege that protected his spinal cord was massaged by the gentle motion. It took some time. Then he returned his attention to the drone, which was playing a kinetic manipulation field across the carpet under the table, collecting fallen detritus, shed fur and skin-dust.
+"No. Thank you." He stood and stretched, rolling the long neck for which both the species of the Domain were famed and enjoying the feeling as the long flexible sheath of cartilege that protected his spinal cord was massaged by the gentle motion. It took some time. Then he returned his attention to the janitor and her cleaning drone, which was playing a kinetic manipulation field across the carpet under the table, collecting fallen detritus, shed fur and skin-dust.
 
 "Does this station have an observation deck?"
 
