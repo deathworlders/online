@@ -105,6 +105,48 @@ This is the best news I've had yet since we started planning this facility. Keep
 
 ---
 
+It had been an eventful month, in so far as there *were* months on a planet with three moons. It was kinda hard to tell.
+
+*♫"A drink in my hand, my snow up against the burning sand,
+Probably getting gorgeously tanned..."♪"*
+
+Then again, all the months were eventful. Just living was a constant demand on his time.
+
+Today, for instance? Firewood. He was dragging a log through the snow, singing to himself as his boots crunched through the thick drifts and fat flakes drifted among the trees to encrust his beard and hair.
+
+They were good boots. He'd have been dead five years ago if they weren't. But that was the kind of thought that made him feel lonely, so he sang a little louder.
+
+*♪"...And I can't wait to see, what my buddies all think of me
+Just imagine how much cooler I'll be..."♫*
+
+He was beginning to wonder if he was going strange.
+
+He heaved on the rope over his shoulder and sighed in relief as he made it over the crest of the small rise that hid his camp from view, from most angles. It was a circular thing, refined several times over the years. The outer wall was a ring of leg-thick logs, notched together pretty tight and then daubed with clay and dry grass. It kept the wind out perfectly.
+
+inside, it was a little wider across than he was tall. The covered shelter on one side kept his stuff dry, and thank God for the hard-wearing tarps he'd had with him when the Corti took him. Five years on, and they were still intact and working great. He'd weathered a lot of blizzards in that shelter, and felt dry and snug and cozy every time.
+
+Problem was, he was going to have to weather a lot more, probably. Not like anybody back on Earth knew where he was, even if they *had* somehow invented the warp drive since he'd left.
+
+So why not go strange? Not like anyone was around to notice or care.
+
+*♪"...both so intense, put 'em together it just makes sense! Rrr Raht da daht dah dah dah..."♫*
+
+With a grunt, he pulled the firewood log onward. It was the sixth and last of the day. He'd split them tomorrow: the days weren't long at this end of the year, and he still had to go check the nearby burrows for hibernating critters and try to dig up some of the crunchy bulbs that kinda-sorta-almost stood in for both onion and garlic at the same time. He wasn't short on provisions *yet,* but that was only because he stayed on top of the food situation through daily effort.
+
+*"♪...a good time to stay in and cuddle, but put me in summer and I'll be a...♫* ***HNNGH!!"***
+
+With one last effort, he heaved the log on top of the stack. He watched it rattle into place, patted some snow out of his beard, then thrust his hands triumphantly into the air.
+
+"Happy snowman!!!"
+
+The shout made snow fall off a nearby tree before vanishing forever into the faint, dead, white-noise hiss of gentle snowfall. He grinned, then threw a few logs in the fire pit and grabbed a cup of the "coffee" he made from roasted alien nuts. It warmed his hands and his belly as he sat on his bed and treated himself to a short, well-earned break.
+
+"...Good work, Julian."
+
+He was gonna live another day.
+
+---
+
 It had been an eventful month, and a frustrating one, and "Kirk" was once again cursing his own sense of integrity. He doubted that any of the other councillors had even heard the name Niccolò di Bernardo dei Machiavelli, let alone read his books, but frankly it didn't matter. Whether your species were ten-limbed gracile grazers, compact little bundles of raw predatory strength, or shambling hillocks of shaggy fur who communicated in part via bioluminescence, the universal constant seemed to be politics.
 
 Kirk was not cut out to be a politician. He was too honest and forthright. Sure, the constituents loved him and so long as he kept bringing in votes then his party were happy to turn a blind eye to the inconvenient way in which he continued to tell the straightforward truth to a camera lens, but winning public opinion was much less than half the job. At the debating table, straight-talking honesty just meant that you were following an easily intercepted, easily interfered-with trajectory, and your position needed an overwhelming momentum of truth, morality and---above all else---vacuousness if it was likely to succeed.
