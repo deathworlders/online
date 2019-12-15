@@ -134,9 +134,9 @@ With a grunt, he pulled the firewood log onward. It was the sixth and last of th
 
 *"♪...a good time to stay in and cuddle, but put me in summer and I'll be a...♫* ***HNNGH!!"***
 
-With one last effort, he heaved the log on top of the stack. He watched it rattle into place, patted some snow out of his beard, then thrust his hands triumphantly into the air.
+With one last effort, he heaved the log on top of the stack. He watched it rattle into place, patted some snow out of his beard. He stood silently enjoying the simple pleasure of his own labors, then suddenly thrust his hands triumphantly into the air.
 
-*"Happy snowman!!!"*
+**"Happy snowman!!!"**
 
 The shout made snow fall off a nearby tree before vanishing forever into the faint, dead, white-noise hiss of gentle snowfall. He grinned, then threw a few of his remaining split logs into the fire pit and grabbed a cup of the "coffee" he made from roasted alien nuts. It warmed his hands and his belly as he sat on his bed and treated himself to a short, well-earned break.
 
