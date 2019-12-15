@@ -116,8 +116,7 @@ Today, for instance? Firewood. He was dragging a log through the snow, singing t
 
 They were good boots. He'd have been dead five years ago if they weren't. But that was the kind of thought that made him feel lonely, so he sang a little louder.
 
-*♪"...And I can't wait to see, what my buddies all think of me
-Just imagine how much cooler I'll be..."♫*
+*♪"...can't wait to see, what my buddies all think of me. Just imagine how much cooler I'll be..."♫*
 
 He was beginning to wonder if he was going strange.
 
@@ -137,7 +136,7 @@ With a grunt, he pulled the firewood log onward. It was the sixth and last of th
 
 With one last effort, he heaved the log on top of the stack. He watched it rattle into place, patted some snow out of his beard, then thrust his hands triumphantly into the air.
 
-"Happy snowman!!!"
+*"Happy snowman!!!"*
 
 The shout made snow fall off a nearby tree before vanishing forever into the faint, dead, white-noise hiss of gentle snowfall. He grinned, then threw a few logs in the fire pit and grabbed a cup of the "coffee" he made from roasted alien nuts. It warmed his hands and his belly as he sat on his bed and treated himself to a short, well-earned break.
 
