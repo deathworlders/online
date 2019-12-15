@@ -162,19 +162,29 @@ Vedreg was an old and constant friend and a rather more shrewd operator than Kir
 
 "Caution."
 
-"I beg your pardon, councillor?" asked one of the station's janitor drones, programmed with a limited AI that would forever fall just short of actual independent thought, but had attained unfailing innocuous politeness.
+"I beg your pardon, councillor?" asked one of the station's janitors. She was a V'zktk, cousin species to Kirk's own Rrrtktktp'ch. More numerous, but... well. By any objective measure, less intelligent. They tended to form the working class in Domain society, while Rrrtk like Kirk naturally drifted into positions of authority. It was a shame, really.
 
-Kirk started at the query and raised his head: He had clearly dozed off and was now alone in the meeting room save for the custodial machines. "Nothing. Where the hell are my aides?"
+Kirk started at the query and raised his head: He had clearly dozed off and was now alone in the meeting room save for the custodial machine. "...Nothing. Where the hell are my aides?"
 
-"They judged that you desired some time alone, Councillor. Shall I summon them?" "No." he stood and stretched, rolling the long neck for which both the species of the Domain were famed and enjoying the feeling as the long flexible sheath of cartilege that protected his spinal cord was massaged by the gentle motion. It took some time. Then he asked of the drone, which was playing a kinetic manipulation field across the carpet under the table, collecting fallen detritus, shed fur and skin-dust: "Does this station have an observation deck?" "It does councillor, though Councillor Vedregnegnug has flagged that query with his personal recommendation that you might prefer the biodeck." "The biodeck?" Kirk repeated, having not heard of such a thing before.
+"They judged that you desired some time alone, Councillor. Should I summon them?"
 
-"The councillor added it as an extension to his personal suite. Access is limited to only yourself and himself. Shall I program the elevator to take you there? I understand that there will be fresh Cqcq leaves."
+"No. Thank you." He stood and stretched, rolling the long neck for which both the species of the Domain were famed and enjoying the feeling as the long flexible sheath of cartilege that protected his spinal cord was massaged by the gentle motion. It took some time. Then he returned his attention to the drone, which was playing a kinetic manipulation field across the carpet under the table, collecting fallen detritus, shed fur and skin-dust.
 
-"Yes, please."
+"Does this station have an observation deck?"
 
-The elevator needed a full minute to run the full length of the station from the meeting room to the VIP residential ring, but when he stepped out of it, Kirk's impatience evaporated. It was stunning. Vedreg must have spent an enormous amount of money in having this structure tacked on to his apartments. Even now, at the height of an ongoing interstellar civilisation that had lasted for nearly a thousand standard cycles (five hundred years) space was at a premium aboard stations, and was expensive.
+"It does, councillor, though Councillor Vedregnenug asked me to invite you to his biodeck when you wake up."*
 
-Nevertheless, Vedreg had acquired a substantial area, and turned it into a garden, here in space, with a geodesic shell that afforded a wonderful view of the stars and shone tuned simulated sunlight into each of the simulated biomes.
+"The biodeck?" Kirk repeated, having not heard of such a thing before.
+
+"It's part of his personal suite. He said the elevator could take you there, and there will be fresh *Cqcq* leaves and mature *Zrrks."* 
+
+She sounded quite envious of that last point, and Kirk knew why. A truly venerable *zrrk* that had had plenty of time to partially rot down and liquefy was a rare delicacy, this far from the Domain's homeworlds.
+
+"Thank you," he said, and left her to her work.
+
+The elevator needed a full minute to run the full length of the station from the meeting room to the VIP residential ring, but when he stepped out of it, Kirk's impatience evaporated. It was stunning. Vedreg must have spent an enormous amount of money in having this structure tacked on to his apartments. Even now, at the height of an ongoing interstellar civilisation that had lasted for since before humans had even figured out basic metals, space was at a premium aboard stations, and therefore expensive.
+
+Nevertheless, Vedreg had acquired a substantial personal suite, and turned it into a garden with a geodesic shell that afforded a wonderful view of the stars and shone tuned simulated sunlight into each of the simulated biomes.
 
 the containment fields that kept the air and temperature from mingling between each one were barely-visible scarlet sheets of iridescence in the air, and behind them was a little patch of soil crowded with plant life from several major planets.
 
