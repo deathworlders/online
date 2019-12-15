@@ -134,7 +134,9 @@ With a grunt, he pulled the firewood log onward. It was the sixth and last of th
 
 *"♪...a good time to stay in and cuddle, but put me in summer and I'll be a...♫* ***HNNGH!!"***
 
-With one last effort, he heaved the log on top of the stack. He watched it rattle into place, patted some snow out of his beard. He stood silently enjoying the simple pleasure of his own labors, then suddenly thrust his hands triumphantly into the air.
+With one last effort, he heaved the log on top of the stack. He watched it rattle into place, patted some snow out of his beard, and stood silently enjoying the simple pleasure of his own successful efforts.
+
+Then, suddenly, he thrust his hands triumphantly into the air.
 
 **"Happy snowman!!!"**
 
