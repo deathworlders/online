@@ -1,5 +1,5 @@
 ---
-title: "Chapter 60: The Calm and The Storm"
+title: "Chapter 61: Violence"
 date: 2019-12-27T13:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
@@ -1119,7 +1119,7 @@ Which meant…
 
 The surrounding systems contained dozens of small stations and outposts. Mining facilities, for the most part, producing minerals and water for the Large-Prey planet and its many satellites and stations. Each was occupied by only a small few, but each one was also a wealth of technology and spare parts… the very things that the swarm had hit the convoy to secure.
 
-Frustratingly, the Fur-Faced Alpha of Alphas had declined to join the battle. That was against forecasts and a bit of a disappointment, but the Builder did not base its stratagems on the assumption that the foe would be foolish. Some preliminary analysis had suggested this so-called *‘Great Father’*—a title which translated somewhat confusingly as [‘alpha spawner’]—possessed a personal combat effectiveness completely unmatched by any other. The previous Alpha of Alphas had been defeated by him, after all, and that had been an earlier, lesser version of this Fur-Faced Alpha of Alphas against one of the finest augmented forms the Hunters could produce. So much *ability* in a purely biological form—!
+Frustratingly, the Fur-Faced Alpha of Alphas had declined to join the battle. That was against forecasts and a bit of a disappointment, but the Builder did not base its stratagems on the assumption that the foe would be foolish. Some preliminary analysis had suggested this so-called *‘Great Father’* —a title which translated somewhat confusingly as [‘alpha spawner’]— possessed a personal combat effectiveness completely unmatched by any other. The previous Alpha of Alphas had been defeated by him, after all, and that had been an earlier, lesser version of this Fur-Faced Alpha of Alphas against one of the finest augmented forms the Hunters could produce. So much *ability* in a purely biological form—!
 
 That such a thing was demonstratively possible was...hotly debated amongst the Alphas, who were only now coming to terms with the idea of Humans. The further notion that the Fur-Faced could *also* be not merely predators, but *Deathworld* predators...it was almost...
 
@@ -1506,7 +1506,7 @@ Ferd sighed, put the seeing-stone away, and flomped over onto the bed. There wer
 
 He settled for eating. The food in the boxes still tasted *strange* to him, but it was hot, and filling, and he was finally figuring out which bits were supposed to go together. Humans had strange rules about how some foods were for different parts of the day. That didn’t make much sense to Ferd, but he’d quickly learned that some of the things in the box did *not* go well when mixed.
 
-He’d learned that the hard way when he tried to dip *‘apple stroo-del’* in his *‘mini-stro-knee soup.’**
+He’d learned that the hard way when he tried to dip *‘apple stroo-del’* in his *‘mini-stro-knee soup.’*
 
 So, he ate. Then he cleaned up. Then he exercised. Then he (reluctantly) washed. Then he sat and tried some of the learning-games for a while, and got a new high score. That put him in a good mood so he spent some time wrestling with Nomuk until Wilde wearily asked them to *‘pack it in.’*
 
