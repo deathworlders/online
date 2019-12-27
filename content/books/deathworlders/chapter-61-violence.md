@@ -1627,7 +1627,7 @@ Daar sighed, more heavily than she’d heard him sigh in a long time. “You. Ta
 
 “Always so practical...” she teased.
 
-“A crown ain’t practical! But they’re *important.* An’ the thing is, I gotta warn ‘ya, ‘yer gonna be crowned ‘yerself here pretty soon. The election’s tomorrow, an’ after that…”
+“A crown ain’t practical! But they’re *important.* An’ the thing is, I gotta warn ‘ya, ‘yer gonna be crowned ‘yerself here pretty soon. The election’s gonna happen sooner'n 'ya think, an’ after that…”
 
 “...I know. It’s all happening very quickly, but… I feel ready for it.”
 
