@@ -1,6 +1,6 @@
 ---
 title: "Chapter 62: Tooth and Claw"
-date: 2020-01-30T23:00:00+00:00
+date: 2020-01-30T20:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point: 417th Year of the Punishment**   
