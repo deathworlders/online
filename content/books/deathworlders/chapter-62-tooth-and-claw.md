@@ -22,7 +22,7 @@ Listening and Hearing were more than just being there and letting the flock spea
 
 But this? This was a *strange* Listening. Ten of her flock had witnessed it, all had told the same story when separated, and her scribes had taken their first notes. Now it fell to Uku, as their Librarian, to add their account to the Chant and pass it on to the other Librarians.
 
-“They weren’t Punishers. There were seven of them, three as tall as trees and and quick as the wind, four as big as *boulders* with long tails. They appeared out of *nothing* on a whisper of breeze and attacked the three towers.”
+“They weren’t Punishers. There were seven of them, three as tall as trees and quick as the wind, four as big as *boulders* with long tails. They appeared out of *nothing* on a whisper of breeze and attacked the three towers.”
 
 The youngest one, barely a child and hardly old enough to be out on the surface toiling under the Punishers’ lash, was almost *bouncing* with excitement. “One of the big ones *jumped* over a shock-fence! Just… leapt over it!”
 
@@ -885,7 +885,7 @@ One of the young men, Defeesk, looked around at this fellows, then took the init
 
 “...We’re worried,” he said. “The Punishment is… it’s meant to be a holy thing. Right? But we all know what this Garr-avf said, and…”
 
-“And you’re wondering how anything holy *can* be fought,” Uku finished for him. “You’re worried if it means that the these Gao are wicked ones themselves, or a temptation or test. Or worse, you’re worried sick by other nagging ideas that won’t go away that you can’t help but worry are blasphemy.”
+“And you’re wondering how anything holy *can* be fought,” Uku finished for him. “You’re worried if it means that these Gao are wicked ones themselves, or a temptation or test. Or worse, you’re worried sick by other nagging ideas that won’t go away that you can’t help but worry are blasphemy.”
 
 Bobbing heads told her that they were all singing the same chord.
 
