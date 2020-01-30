@@ -1,6 +1,6 @@
 ---
 title: "Chapter 62: Tooth and Claw"
-date: 2020-01-30T20:00:00+00:00
+date: 2020-01-30T23:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point: 417th Year of the Punishment**   
@@ -995,7 +995,7 @@ Ferd and his men nodded seriously. They knew this was something only *they* coul
 
 “Yup. When those shields go down, they’ll bring out absolutely everything. The orbital strikes should do most of the work for us, but our first priority will be getting back to the ship alive. No showing off, lads.”
 
-“We *won’t!” Ferd said a bit indignantly. He knew the Humans were wary of their *‘monkey-fun’* as they named it, but still. “Raid not time to flex or fuck! We fight *first.”*
+“We *won’t!”* Ferd said a bit indignantly. He knew the Humans were wary of their *‘monkey-fun’* as they named it, but still. “Raid not time to flex or fuck! We fight *first.”*
 
 “Relax, mate, I was talking to Reesy.”
 
@@ -1158,7 +1158,7 @@ Gyotin’s ears twitched back and forth for a few seconds before he sniffed, gla
 ___
 
 **Date Point: $DATE**    
-**Planet*** ***“Mordor,”*** **Hunter Space**
+**Planet** ***“Mordor,”*** **Hunter Space**
 
 ***Thurrsto, Champion of Clan Whitecrest***
 
@@ -1700,7 +1700,7 @@ As the factory’s overhead shielding sputtered and failed, he wrenched the cont
 
 “HILLFOOT, PIPPIN. Shields are down, can I shoot?”
 
-Wilde’s voice was as level and calm as always. *“Cheers, PIPPIN. CHUNKY, fall back and let him have his fun.”
+Wilde’s voice was as level and calm as always. *“Cheers, PIPPIN. CHUNKY, fall back and let him have his fun.”*
 
 Ferd gave the Hunter’s gun arm a last tug that thoroughly broke it, punched it in the back of its armored skull so hard that he *stunned* it, then sprang off its back and out of harm’s way taking its fusion scythe for a trophy. Fourth Fang were busy mopping up the last few Hunters now that they weren’t under heavy fire…
 
@@ -1800,7 +1800,7 @@ It was a long way home.
 ___
 
 **Date point: $DATE**   
-**The Clawhold, Planet ‘Mordor,’ Hunter Space***
+**The Clawhold, Planet ‘Mordor,’ Hunter Space**
 
 ***Ginn, Foot-soldier first class, Grand Army of the Gao***
 
