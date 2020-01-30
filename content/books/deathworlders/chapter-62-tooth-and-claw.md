@@ -40,7 +40,7 @@ The four looked at each other. Finally, the old man cleared his throat and spoke
 
 ___
 
-**Date Point: $DATE**    
+**Date Point:  16y11m1d AV**      
 **Conclave of Champions, High Mountain Fortress, the Northern Plains, Gao**
 
 ***Hiyal, Champion of Clan One-Fang***
@@ -148,7 +148,7 @@ She didn’t dare let it warm her, yet. Hope was a kind of poison, in Uku’s ex
 All she could do was wait and see.
 ___
 
-**Date Point: $DATE**    
+**Date Point:  16y11m2d AV**  
 **Private Apartments of the Great Father, High Mountain Fortress, the Northern Plains, Gao**
 
 ***Garaaf, Father of Clan Whitecrest***
@@ -340,7 +340,7 @@ He had a job to do.
 He was going to do it well.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 16y11m2d AV**  
 ***’Mordor’*** **System, Hunter Space**
 
 ***The Builder Alpha-of-Alphas***
@@ -381,7 +381,7 @@ The Alpha-of-Alphas issued a command. And, seeing its intent, the Builders obeye
 Let the Eaters gnaw at the shield. With a shift and a lurch, the Alpha-of-Alphas’ command ship jumped to an in-system beacon near the sun, and flew inwards.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 16y11m3d AV**   
 **Planet** ***‘Mordor,’*** **Hunter space**
 
 ***Ginn, Foot-soldier first class, Grand Army of the Gao***
@@ -564,7 +564,7 @@ Garr-avf’s reply was simple, direct, and left no room for doubt. And finally, 
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 16y11m3d AV**   
 **Clawhold, planet Mordor, Hunter space**
 
 ***Fiin, Champion of Stoneback***
@@ -616,7 +616,7 @@ They had leads, thanks to the JETS team. With luck, one of those would be a jack
 It had better be.
 ___
 
-**Date Point: $DATE**    
+**Date Point: 16y11m3d AV**   
 **Tunnel warren near the Clawhold, Planet Mordor, Hunter Space**
 
 ***Garaaf, Father of Clan Whitecrest***
@@ -693,11 +693,11 @@ Ukusevi stood, slowly. “My people are in jeopardy anyway,” she retorted. “
 
 Garaaf duck-nodded. He stood to, gathered the translator, reciprocated Ukusevi’s cordial bow, and retreated back toward the surface, putting his protective gear back on.
 
-*“That could have gone worse,”* Brother $NAME opined through his mask as they climbed the steps back toward the surface access.
+*“That could have gone worse,”* Brother Asku opined through his mask as they climbed the steps back toward the surface access.
 
-“You’re an optimistic cub at heart, $NAME,” Garaaf replied, wearily. “That could have gone a lot better.”
+“You’re an optimistic cub at heart, Asku,” Garaaf replied, wearily. “That could have gone a lot better.”
 
-*“Peaceful contact, honest truth, a respectful parting…”* $NAME2 mused as they reached the door at the top. *“I’m with $NAME, that could have gone* much *worse.”*
+*“Peaceful contact, honest truth, a respectful parting…”* Yaamo mused as they reached the door at the top. *“I’m with Asku, that could have gone* much *worse.”*
 
 Garaaf sighed, and accepted their encouragement with a duck-shrug. “...I suppose,” he agreed after a second. “But there are thorns coming, I know it.”
 
@@ -729,7 +729,7 @@ It wasn’t far back to the Clawhold, and nothing particularly eventful happened
 
 “...No. I’m not.” Garaaf looked up as they approached the Clawhold’s security checkpoint. “...Who do we know who’s good at thinking on that kind of scale? *Other* than the Great Father and the Mother-Consort? And Champion Gyotin?”
 
-“Why not Gyotin?” $NAME2 asked.
+“Why not Gyotin?” Yaamo asked.
 
 “He has enough responsibility and very little room for more.” Garaaf shook his head. “Besides, if I let him he’d stick a funnel down my throat and pour tea into me until I burst.”
 
@@ -755,13 +755,13 @@ The two Brothers looked at each other, then produced identical helpless duck-shr
 
 “...I *hate* tea.”
 
-$NAME and $NAME2 chittered at that one, and Garaaf allowed a small one himself. He’d call the Starminds, of course he would. This was the sort of problem they *existed* to confront. But he was allowed to grumble.
+Asku and Yaamo chittered at that one, and Garaaf allowed a small one himself. He’d call the Starminds, of course he would. This was the sort of problem they *existed* to confront. But he was allowed to grumble.
 
 He just hoped that they could move fast enough and come up with some good advice before the natives made up their own minds...
 ___
 
-**Date Point: $DATE**    
-**$PLACE**
+**Date Point: 16y11m4d AV**   
+**Planet** ***'Mordor',*** **Hunter Space**
 
 ***Traan, Warleader of Fourth Fang***
 
@@ -922,8 +922,8 @@ And on that timid, unsatisfying note, she ran out of composure. She hugged her n
 The silence was louder than mere uproar could ever be.
 ___
 
-**Date Point: $DATE**    
-**$PLACE**
+**Date Point: 16y11m4d AV**   
+**Planet** ***'Mordor,'*** **Hunter Space**
 
 ***Ferd Given-Man***
 
@@ -1031,7 +1031,7 @@ Then he sat in the middle of the floor, and watched as Tooko took them down into
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 16y11m4d AV**   
 **The Clawhold, Planet Mordor, Hunter Space**
 
 ***Garaaf, Father of Clan Whitecrest***
@@ -1157,7 +1157,7 @@ Gyotin’s ears twitched back and forth for a few seconds before he sniffed, gla
 “Oh yes.” Hurt leaned forward and rested his elbows and the table. “Let me explain…”
 ___
 
-**Date Point: $DATE**    
+**Date Point: 16y11m4d AV**   
 **Planet** ***“Mordor,”*** **Hunter Space**
 
 ***Thurrsto, Champion of Clan Whitecrest***
@@ -1413,7 +1413,7 @@ Then, with a remarkably clear and quiet head, she trotted back down the tunnel, 
 
 ___
 
-**Date Point: $DATE**    
+**Date Point: 16y11m5d AV**   
 **High Mountain Fortress, The Northern Planes, Gao**
 
 ***Naydra, Mother-Consort of the Great Father***
@@ -1530,8 +1530,8 @@ Once it had, she turned back to consider the *next* scene in the tableau---Fyu g
 
 ___
 
-**Date Point: $DATE**    
-***Raining Vengeance,*** **In orbit around planet Mordor, Hunter Space**
+**Date Point: 16y11m5d AV**   
+**Orbital Superiority Platform** ***Raining Vengeance,*** **In orbit around planet** ***'Mordor',*** **Hunter Space**
 
 ***Hiyal, Champion of Clan One-Fang***
 
@@ -1641,8 +1641,8 @@ Fiin and Hiyal looked at each other, and Fiin made further peace by gesturing fo
 
 ___
 
-**Date Point: $DATE**   
-**Starship** ***Silent But Deadly,*****Planet ‘Mordor,’ Hunter Space**
+**Date Point: 16y11m5d AV**   
+**Starship** ***Silent But Deadly,*** **Planet ‘Mordor,’ Hunter Space**
 
 ***Tooko, Pilot and Stud of Clan Firefang***
 
@@ -1799,7 +1799,7 @@ The transition from lightning-fast, sustained, focused violence to seven men slu
 It was a long way home.
 ___
 
-**Date point: $DATE**   
+**Date point: 16y11m5d AV**   
 **The Clawhold, Planet ‘Mordor,’ Hunter Space**
 
 ***Ginn, Foot-soldier first class, Grand Army of the Gao***
@@ -1854,8 +1854,8 @@ He slept well.
 
 ___
 
-**Date Point: $DATE**    
-**Orbital Superiority Platform** ***Raining Vengeance,*** **Orbiting planet ‘Mordor,’ Hunter Space**
+**Date Point: 16y11m5d AV**   
+**Orbital Superiority Platform** ***Raining Vengeance,*** **Orbiting planet** ***‘Mordor,’*** **Hunter Space**
 
 ***Hiyal, Champion of Clan One-Fang***
 
