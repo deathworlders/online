@@ -155,7 +155,7 @@ ___
 
 “...It’s been a long time.”
 
-Personal invitations from the Great Father for a day of hunting and sport were decidedly rare. It was Champions and heads of state who usually received such hospitality, not haggered old Fathers of martial Clans. That the invitation also came from the all-but-certain future Great Mother was unheard of.
+Personal invitations from the Great Father for a day of hunting and sport were decidedly rare. It was Champions and heads of state who usually received such hospitality, not haggard old Fathers of martial Clans. That the invitation also came from the all-but-certain future Great Mother was unheard of.
 
 They were sending a hell of a signal of esteem, and that was a thing which would make anyone nervous. But Garaaf was a grizzled Father of Whitecrest, and that meant the reason for his invitation could only be one thing: terrible duty.
 
@@ -241,7 +241,7 @@ By the time they flew back to the fortress, Garaaf was beginning to feel the ach
 
 Though of course, the whole afternoon had been a blend of both, from Daar’s perspective.
 
-“Y’know ‘yer lucky, Garaaf,” he commented as they entered to find the small knee-table well laden with meat cuts and steamed buns. I was hopin’ ‘ta play wif’ ‘ya in my gym too...but that’d be a bit too on-the-nose, even ‘fer me. ‘Ya got Naydi here ‘ta thank!”
+“Y’know ‘yer lucky, Garaaf,” he commented as they entered to find the small knee-table well laden with meat cuts and steamed buns. "I was hopin’ ‘ta play wif’ ‘ya in my gym too...but that’d be a bit too on-the-nose, even ‘fer me. ‘Ya got Naydi here ‘ta thank!”
 
 “And I am sincerely grateful for that. My ego isn’t so grand as to think it could hope to keep up.”
 
@@ -345,7 +345,7 @@ ___
 
 ***The Builder Alpha-of-Alphas***
 
-*<Rage.>*
+*Rage.*
 
 That one single emotion was making it hard to think. It was bouncing around the whole Hunter intercommunications network, from brain to brain, picking up ferocity and fervor with every repetition.
 
@@ -357,7 +357,7 @@ One of the Sport Worlds---the most industrially productive of them, no less, wit
 
 In the sky… they had sandwiched a narrow range of planetary orbits between impenetrable shields. Inside that orbital range, their ships were safe… and they could open microsecond gaps in the lower shields to fire on Hunter resources in lower orbits, atmospheric flight, and on the ground.
 
-The Hunters still owned the rest, but they may as well have tried to knaw on tungsten for all the progress they were making with that shield. The one around the Human homeworld had never been thwarted. The ones around the Large Prey worlds had only been defeated with inside assistance. Every time the Hunters encountered these shields, they represented an impossible obstacle, and the Builders had yet to come up with a solution.
+The Hunters still owned the rest, but they may as well have tried to gnaw on tungsten for all the progress they were making with that shield. The one around the Human homeworld had never been thwarted. The ones around the Large Prey worlds had only been defeated with inside assistance. Every time the Hunters encountered these shields, they represented an impossible obstacle, and the Builders had yet to come up with a solution.
 
 Had they been ordinary shielding systems, overcoming them would have been straightforward. But *these* shields powered themselves using a respectable percentage of a *star’s* energy output, and handled waste heat with baffling efficiency. Their operating principles were unknown to the Builders, and therefore so was the means of their defeat.
 
@@ -400,7 +400,7 @@ So, that was Ginn’s job: protecting giant, slow-moving, very visible targets.
 
 So far, the Hunter attacks had been more like exploratory prods. They appeared, they hit hard, then faded the second they met serious resistance.
 
-Their officers were getting tired that piddling kwekshit, and had decided to do something about it.
+Their officers were getting tired of that piddling kwekshit, and had decided to do something about it.
 
 “We’re going to start patrols along a three klick band extending outward from the base, paying particular attention to the river that runs to the southwest,” they’d said.
 
@@ -635,7 +635,7 @@ Most species had a self-name that more-or-less just translated as *“Us”* or 
 
 Humans and Ten’Gewek shared a quirk in that their homeworld-names mentioned their species only obliquely at best. The latter lived on *All-Things-Under-Sky-Place,* while the English word *Earth* had more than thirty synonyms, *none* of which directly referred to Humanity. Both species thought of their planet as something *other* than themselves, something bigger and grander and *more,* while they themselves were just guests… or custodians at most.
 
-But the natives of Mordor? *Their* name for themselves was unique, to Garaaf’s knowledge. They *had* a word for “people,” but never used it to refer to themselves. Instead, their species in the distant past were E-rith-ir *“The <Wicked/Vile/Wrong/Sinful> People,”* and their species in the here-and-now were *E-skurel-ir: “The <Penitent/Regretful/Contrite/Sorrowful> People.”*
+But the natives of Mordor? *Their* name for themselves was unique, to Garaaf’s knowledge. They *had* a word for “people,” but never used it to refer to themselves. Instead, their species in the distant past were E-rith-ir *“The Wicked/Vile/Wrong/Sinful People,”* and their species in the here-and-now were *E-skurel-ir: “The Penitent/Regretful/Contrite/Sorrowful People.”*
 
 According to Ukusevi and her Long Chant, the Hunters were divine punishment: The Wicked People had Sinned, in some great way. By some hubris or fault, by some disorder of thought or some failure to hit the mark, they had angered the Almighty sufficiently for Him to send down the most awful of His angels, and Correct them.
 
@@ -1354,7 +1354,7 @@ Until one of them jumped out at her.
 
 “Your box didn’t translate that woord *hoomun.”*
 
-“The name of our good friends, the ones who came up with that quote about the Almighty working in strange ways.I call you E-skurel-ir, you call me Gao, we call them *Humans.* They’re younger and less advanced than the Gao, but our good friends nonetheless, and they exposed the Hierarchy.”
+“The name of our good friends, the ones who came up with that quote about the Almighty working in strange ways. I call you E-skurel-ir, you call me Gao, we call them *Humans.* They’re younger and less advanced than the Gao, but our good friends nonetheless, and they exposed the Hierarchy.”
 
 Ukusevi put her tablet aside. “...Everything you say tears at the truths I built my life on,” she said. “You paint this picture of a sky full of civilizations—”
 
