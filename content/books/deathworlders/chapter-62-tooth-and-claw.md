@@ -635,7 +635,7 @@ Most species had a self-name that more-or-less just translated as *“Us”* or 
 
 Humans and Ten’Gewek shared a quirk in that their homeworld-names mentioned their species only obliquely at best. The latter lived on *All-Things-Under-Sky-Place,* while the English word *Earth* had more than thirty synonyms, *none* of which directly referred to Humanity. Both species thought of their planet as something *other* than themselves, something bigger and grander and *more,* while they themselves were just guests… or custodians at most.
 
-But the natives of Mordor? *Their* name for themselves was unique, to Garaaf’s knowledge. They *had* a word for “people,” but never used it to refer to themselves. Instead, their species in the distant past were E-rith-ir *“The Wicked/Vile/Wrong/Sinful People,”* and their species in the here-and-now were *E-skurel-ir: “The Penitent/Regretful/Contrite/Sorrowful People.”*
+But the natives of Mordor? *Their* name for themselves was unique, to Garaaf’s knowledge. They *had* a word for “people,” but never used it to refer to themselves. Instead, their species in the distant past were E-rith-ir, *“The Wicked/Vile/Wrong/Sinful People,”* and their species in the here-and-now were E-skurel-ir: *“The Penitent/Regretful/Contrite/Sorrowful People.”*
 
 According to Ukusevi and her Long Chant, the Hunters were divine punishment: The Wicked People had Sinned, in some great way. By some hubris or fault, by some disorder of thought or some failure to hit the mark, they had angered the Almighty sufficiently for Him to send down the most awful of His angels, and Correct them.
 
