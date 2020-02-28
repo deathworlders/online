@@ -1697,8 +1697,6 @@ BitterBusiness,
 
 Sally and Stephen Johnson
 
-Ellen Houston
-
 Sian, Steve, Willow and Riker
 
 ---
