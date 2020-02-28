@@ -278,33 +278,33 @@ ___
     BT
     SUBJ/ Query regarding Cruezzir-D formulation//
 
-    Fifth Director,
+Fifth Director,
 
-    Our thanks once again for your department’s timely delivery of this month’s supply of Cruezzir-D.
+Our thanks once again for your department’s timely delivery of this month’s supply of Cruezzir-D.
 
-    While I’m pleased to say that the batch is good, my colleague Commander Mears and I have noticed some changes in the men since this batch arrived. While many of these are minor, they cumulatively represent a significant change from what we have grown accustomed to seeing.
+While I’m pleased to say that the batch is good, my colleague Commander Mears and I have noticed some changes in the men since this batch arrived. While many of these are minor, they cumulatively represent a significant change from what we have grown accustomed to seeing.
 
-    In particular we have noticed:
+In particular we have noticed:
 
-    * A minimum of a 5% increase in haemoglobin levels, with an associated increase in oxygen-carrying capacity;
-    * Increased appetite among all the operators but particularly with IRISH, BASEBALL, RIGHTEOUS and WARHORSE;
-    * Heightened emotional intensity, above even the elevated norm for HEAT operators;
-    * Cruezzir byproducts in their urine and stool samples have been reduced to nearly undetectable levels;
-    * An increase in the incidence of pranks, “shenanigans” and other minor mischief, indicative of restlessness and surplus energy;
-    * A plethora of minor changes in their bloodworks and urinalysis too numerous to list here (see the attached documents for the complete data);
-    * Marked decreases in liver stress indicators, combined with elevated androgen signaling and improved hormonal stability;
-    * They broke their most recent gravball goal (a crane tyre) more quickly than anticipated;
-    * A broad and sudden improvement in body mass and strength gains, observed athletic performance, endurance and resiliency, and effective suit conditioning;
-    * RIGHTEOUS and WARHORSE in particular have shown the most notable changes, which, considering their singular capabilities, is a special point of concern.
+* A minimum of a 5% increase in haemoglobin levels, with an associated increase in oxygen-carrying capacity;
+* Increased appetite among all the operators but particularly with IRISH, BASEBALL, RIGHTEOUS and WARHORSE;
+* Heightened emotional intensity, above even the elevated norm for HEAT operators;
+* Cruezzir byproducts in their urine and stool samples have been reduced to nearly undetectable levels;
+* An increase in the incidence of pranks, “shenanigans” and other minor mischief, indicative of restlessness and surplus energy;
+* A plethora of minor changes in their bloodworks and urinalysis too numerous to list here (see the attached documents for the complete data);
+* Marked decreases in liver stress indicators, combined with elevated androgen signaling and improved hormonal stability;
+* They broke their most recent gravball goal (a crane tyre) more quickly than anticipated;
+* A broad and sudden improvement in body mass and strength gains, observed athletic performance, endurance and resiliency, and effective suit conditioning;
+* RIGHTEOUS and WARHORSE in particular have shown the most notable changes, which, considering their singular capabilities, is a special point of concern.
 
-    Would your department confirm for us whether the Cruezzir formulae has been altered in some way? While none of these changes seem deleterious, we find we cannot explain such a drastic improvement in their general well-being by any other means. Almost as soon as they began coursing on this batch, all of the human operators reported significantly improved feelings of health and vigor. We note the Gaoians on their Crue-G-HEAT have not reported a similarly dramatic health increase, though they too have noted large improvements in their performance.
+Would your department confirm for us whether the Cruezzir formulae has been altered in some way? While none of these changes seem deleterious, we find we cannot explain such a drastic improvement in their general well-being by any other means. Almost as soon as they began coursing on this batch, all of the human operators reported significantly improved feelings of health and vigor. We note the Gaoians on their Crue-G-HEAT have not reported a similarly dramatic health increase, though they too have noted large improvements in their performance.
 
-    We feel compelled to remind the Directorate that, under the terms of our contract, any changes in our medical formulary require advice and consultation beforehand. These men each represent millions of pounds in strategic investments in their personal development, to say nothing of their substantial ongoing expenses, custom equipment, and our lifetime medical commitments to them and their families after retirement. The US Department of the Air Force goes so far as to consider their Protectors and Aggressors as weapon systems, and runs a formal program office (complete with dedicated staff) to that effect. The US Department of the Army similarly has a PEO covering the American Defenders.
+We feel compelled to remind the Directorate that, under the terms of our contract, any changes in our medical formulary require advice and consultation beforehand. These men each represent millions of pounds in strategic investments in their personal development, to say nothing of their substantial ongoing expenses, custom equipment, and our lifetime medical commitments to them and their families after retirement. The US Department of the Air Force goes so far as to consider their Protectors and Aggressors as weapon systems, and runs a formal program office (complete with dedicated staff) to that effect. The US Department of the Army similarly has a PEO covering the American Defenders.
 
-    However, the monetary considerations are only part of the story. Men of their caliber and willpower are exceptionally rare. Less than one percent of all applicants (who are themselves often already capable special operators in difficult disciplines) prove suitable for the pipeline, and of those, upwards of ninety percent will fail entry training. Attrition through the rest of the pipeline remains unavoidably arduous and in the end, less than one in a thousand applicants make it through. For those that do, training to minimum competency requires five Earth years, and full mission capability requires even more. That has made them *priceless* strategic assets at the absolute bleeding-edge of sports medicine, mental conditioning, and physical and military training. They have sacrificed much to achieve that status and it would be deeply unethical of us to compromise that achievement. We would like this matter addressed promptly.
+However, the monetary considerations are only part of the story. Men of their caliber and willpower are exceptionally rare. Less than one percent of all applicants (who are themselves often already capable special operators in difficult disciplines) prove suitable for the pipeline, and of those, upwards of ninety percent will fail entry training. Attrition through the rest of the pipeline remains unavoidably arduous and in the end, less than one in a thousand applicants make it through. For those that do, training to minimum competency requires five Earth years, and full mission capability requires even more. That has made them *priceless* strategic assets at the absolute bleeding-edge of sports medicine, mental conditioning, and physical and military training. They have sacrificed much to achieve that status and it would be deeply unethical of us to compromise that achievement. We would like this matter addressed promptly.
 
-    Lt. Wyndham Phillips
-    Chief Medical Officer, HMS *Sharman*
+Lt. Wyndham Phillips
+Chief Medical Officer, HMS *Sharman*
 
 ___
 
@@ -471,20 +471,20 @@ ___
     BT
     SUBJ/ RE:Query regarding Cruezzir-D formulation//
 
-    Lt. Phillips,
+Lt. Phillips,
 
-    We have received your queries and concerns regarding the latest delivery of Cruezzir Derivative Serum (Human high-performance formulation v4.01) and direct your attention to the product update information included alongside the shipment, which detailed in full the expected consequences of this most recent iteration.
+We have received your queries and concerns regarding the latest delivery of Cruezzir Derivative Serum (Human high-performance formulation v4.01) and direct your attention to the product update information included alongside the shipment, which detailed in full the expected consequences of this most recent iteration.
 
-    Cruezzir Derivative Serum is subject to constant ongoing refinement, in keeping with both the strict terms and intent of the contract between the Corti Directorate’s College of Regenerative Xenopharmacology, and Allied Extrasolar Command. Our highest priority in all cases is the safety and health of your personnel, and it is our mission to provide you with the most excellent possible medical solution to their unique needs.
+Cruezzir Derivative Serum is subject to constant ongoing refinement, in keeping with both the strict terms and intent of the contract between the Corti Directorate’s College of Regenerative Xenopharmacology, and Allied Extrasolar Command. Our highest priority in all cases is the safety and health of your personnel, and it is our mission to provide you with the most excellent possible medical solution to their unique needs.
 
-    You may rest assured that every iteration of the serum has been thoroughly studied and quality-tested prior to release, and that we will not release an iteration of the serum unless we are perfectly content of its safety and lack of deleterious side effects.
+You may rest assured that every iteration of the serum has been thoroughly studied and quality-tested prior to release, and that we will not release an iteration of the serum unless we are perfectly content of its safety and lack of deleterious side effects.
 
-    For full details, we advise you to closely study the release documentation.
+For full details, we advise you to closely study the release documentation.
 
-    Cordially,
+Cordially,
 
-    Fifth Director Ebrit,
-    Dean, College of Regenerative Xenopharmacology
+Fifth Director Ebrit,
+Dean, College of Regenerative Xenopharmacology
 
 ___
 
@@ -779,18 +779,18 @@ ___
     BT
     SUBJ/ RE:RE:Query regarding Cruezzir-D formulation//
 
-    Fifth Director,
+Fifth Director,
 
-    We are gratified by your assurances of product safety, quality, and effectiveness. I direct your attention to Chapter 2, ¶7, §4:
+We are gratified by your assurances of product safety, quality, and effectiveness. I direct your attention to Chapter 2, ¶7, §4:
 
-    “Any modifications to the Contracted Formulary must, upon the advice and consent of the Purchaser and after review of the proposed modifications, be submitted for evaluation to the Centers for Disease Control and Public Health England, excepting those changes deemed critical to the ongoing safety and/or efficacy of the Contracted Formulary, which shall require prompt and timely notification to the Purchaser.”
+“Any modifications to the Contracted Formulary must, upon the advice and consent of the Purchaser and after review of the proposed modifications, be submitted for evaluation to the Centers for Disease Control and Public Health England, excepting those changes deemed critical to the ongoing safety and/or efficacy of the Contracted Formulary, which shall require prompt and timely notification to the Purchaser.”
 
-    Does the Directorate suggest these recent changes were “critical to the ongoing safety and/or efficacy” of Crue-D? As this is a matter of deepest importance, I have referred the case to our Ambassadors, who will be contacting their counterparts among the Directorate, as appropriate.
+Does the Directorate suggest these recent changes were “critical to the ongoing safety and/or efficacy” of Crue-D? As this is a matter of deepest importance, I have referred the case to our Ambassadors, who will be contacting their counterparts among the Directorate, as appropriate.
 
-    Regards,
+Regards,
 
-    Lt. Wyndham Phillips
-    Chief Medical Officer, HMS *Sharman*
+Lt. Wyndham Phillips
+Chief Medical Officer, HMS *Sharman*
 ___
 
 **Date Point: 16y11m4d AV**    
@@ -1660,9 +1660,6 @@ Somehow, that black flash and a *thump* were harder to bear than lighting a pyre
 First, that he would be there when the time came to honor Blaczynski *properly.*
 
 And second… that the payback to come would only be the beginning.
-
-
-
 
 ___
 ___
