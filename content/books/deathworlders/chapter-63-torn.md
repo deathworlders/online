@@ -1443,7 +1443,7 @@ Powell shifted as Costello entered, looked over at him.
 
 “I can’t sleep.”
 
-“...No. Me either.” Powell sat back and groaned, massaging his bruised shoulders. He always bore a few pressure bruises and pinch marks from his suit, uncomplainingly but always there. “...And I’d to *terrible* fookin’ things for a drink right about now.”
+“...No. Me either.” Powell sat back and groaned, massaging his bruised shoulders. He always bore a few pressure bruises and pinch marks from his suit, uncomplainingly but always there. “...And I’d do *terrible* fookin’ things for a drink right about now.”
 
 “...Tea?” Costello suggested.
 
