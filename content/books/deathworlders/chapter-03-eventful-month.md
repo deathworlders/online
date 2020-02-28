@@ -105,31 +105,86 @@ This is the best news I've had yet since we started planning this facility. Keep
 
 ---
 
-It had been an eventful month, and a frustrating one, and "Kirk" was once again cursing his own sense of integrity. He doubted that any of the other councillors had even heard the name Niccolò di Bernardo dei Machiavelli, let alone read his books, but frankly it didn't matter. Whether your species were ten-limbed gracile grazers, compact little bundles of raw predatory strength, or shambling hillocks of shaggy fur who communicated in part via bioluminescence, the universal constant seemed to be politics.
+It had been an eventful month, in so far as there *were* months on a planet with three moons. It was kinda hard to tell.
+
+*♫"A drink in my hand, my snow up against the burning sand,
+Probably getting gorgeously tanned..."♪"*
+
+Then again, all the months were eventful. Just living was a constant demand on his time.
+
+Today, for instance? Firewood. He was dragging a log through the snow, singing to himself as his boots crunched through the thick drifts and fat flakes drifted among the trees to encrust his beard and hair.
+
+They were good boots. He'd have been dead five years ago if they weren't. But that was the kind of thought that made him feel lonely, so he sang a little louder.
+
+*♪"...can't wait to see, what my buddies all think of me. Just imagine how much cooler I'll be..."♫*
+
+He was beginning to wonder if he was going strange.
+
+He heaved on the rope over his shoulder and sighed in relief as he made it over the crest of the small rise that hid his camp from view, from most angles. It was a circular thing, refined several times over the years. The outer wall was a ring of leg-thick logs, notched together pretty tight and then daubed with clay and dry grass. It kept the wind out perfectly.
+
+inside, it was a little wider across than he was tall. The covered shelter on one side kept his stuff dry, and thank God for the hard-wearing tarps he'd had with him when the Corti took him. Five years on, and they were still intact and working great. He'd weathered a lot of blizzards in that shelter, and felt dry and snug and cozy every time.
+
+Problem was, he was going to have to weather a lot more, probably. Not like anybody back on Earth knew where he was, even if they *had* somehow invented the warp drive since he'd left.
+
+So why not go strange? Not like anyone was around to notice or care.
+
+*♪"...both so intense, put 'em together it just makes sense! Rrr Raht da daht dah dah dah..."♫*
+
+With a grunt, he pulled the firewood log onward. It was the sixth and last of the day. He'd split them tomorrow: the days weren't long at this end of the year, and he still had to go check the nearby burrows for hibernating critters and try to dig up some of the crunchy bulbs that kinda-sorta-almost stood in for both onion and garlic at the same time. He wasn't short on provisions *yet,* but that was only because he stayed on top of the food situation through daily effort.
+
+*"♪...a good time to stay in and cuddle, but put me in summer and I'll be a...♫* ***HNNGH!!"***
+
+With one last effort, he heaved the log on top of the stack. He watched it rattle into place, patted some snow out of his beard, and stood silently enjoying the simple pleasure of his own successful efforts.
+
+Then, suddenly, he thrust his hands triumphantly into the air.
+
+**"Happy snowman!!!"**
+
+The shout made snow fall off a nearby tree before vanishing forever into the faint, dead, white-noise hiss of gentle snowfall. He grinned, then threw a few of his remaining split logs into the fire pit and grabbed a cup of the "coffee" he made from roasted alien nuts. It warmed his hands and his belly as he sat on his bed and treated himself to a short, well-earned break.
+
+"...Good work, Julian."
+
+He was gonna live for another day.
+
+---
+
+It had been an eventful month, and a frustrating one, and "Kirk" was once again cursing his own sense of integrity. He doubted that any of the other councillors had even heard the name Niccolò di Bernardo dei Machiavelli, let alone read his books, but frankly it didn't matter. Whether one's species were ten-limbed gracile grazers, compact little bundles of raw predatory strength, or shambling hillocks of shaggy fur who communicated in part via bioluminescence, the universal constant seemed to be politics.
 
 Kirk was not cut out to be a politician. He was too honest and forthright. Sure, the constituents loved him and so long as he kept bringing in votes then his party were happy to turn a blind eye to the inconvenient way in which he continued to tell the straightforward truth to a camera lens, but winning public opinion was much less than half the job. At the debating table, straight-talking honesty just meant that you were following an easily intercepted, easily interfered-with trajectory, and your position needed an overwhelming momentum of truth, morality and---above all else---vacuousness if it was likely to succeed.
 
 Few politicians were willing to commit to a policy that actually achieved something, on the grounds that if it was capable of doing so, then it was also capable of a spectacular backfire.
 
-But, the Vzk'tk Domain had signed up to the newly-formed Interspecies Committee on Dangerous Lifeforms and, being both a member of the Interspecies Dominion's security council and its undisputed expert on humanity, Kirk had been assigned there. It was gratifying that the Dominion was taking the Committee seriously at least, because most of the other major galactic powers--- the Corti Directorate, the Grand Houses of Kwmbwrw, the Rauwryhr Federation, the Chehnash State, the Clans of Gao, plus the Corporate Coalition, the Alliance of the Uplifted and the Guild of Free Spacer---all seemed to have used it as a dumping ground for their most obfuscating, obtuse and obstructive delegates.
+But, the Vzk'tk Domain had signed up to the newly-formed Interspecies Committee on Dangerous Lifeforms and, being both a member of the Interspecies Dominion's security council and its undisputed expert on humanity, Kirk had been assigned there. It was gratifying that the Domain took the Committee seriously at least, because most of the other major galactic powers---the Corti Directorate, the Grand Houses of Kwmbwrw, the Rauwryhr Republic, the Chehnash State, plus the Corporate Coalition, the Alliance of the Uplifted and the Guild of Free Spacers---all seemed to have used it as a dumping ground for their most obfuscating, obtuse and obstructive delegates.
 
-Fortunately, the Guvnurag Confederacy seemed to be taking the issue seriously as well, and Kirk therefore had a staunch and constant ally in Councillor Vedregnegnug, an old and constant friend and a rather more shrewd operator. They formed a "good cop, bad cop" team at the table, with Kirk playing the firebrand, forthright bad cop who bullied the Committee with proposals that had actual substance, and Vedreg playing the good cop who wheedled, placated and silver-tongued them into agreeing to do what they had, minutes before, been staunchly opposed to on principle. It was a potent combination but slow going, and Kirk was glad when the mediator program declared that the day's deliberations had come to an end. His head felt hot and densely-packed from too many long hours listening to too many insufferable bores repeat too many variations of the exact same stance, which he could have summed up in a single word had he wanted.
+At least the Clans of Gao and the Guvnuragnaguvendrugun Confederacy seemed to be taking the issue seriously as well. While Kirk wasn't well-acquainted with the elderly, white-furred Gaoian delegate---Father Oori, of Clan Highmountain---he thankfully had a staunch and constant ally in Councillor Vedregnenug.
+
+Vedreg was an old and constant friend and a rather more shrewd operator than Kirk would ever be. They formed a "good cop, bad cop" team at the table, with Kirk playing the firebrand, forthright bad cop who bullied the Committee with proposals that had actual substance, and Vedreg playing the good cop who wheedled, placated and silver-tongued them into agreeing to do what they had, minutes before, been staunchly opposed to on principle. It was a potent combination but slow going, and Kirk was glad when the mediator program declared that the day's deliberations had come to an end. His head felt hot and densely-packed from too many long hours listening to too many insufferable bores repeat too many variations of the exact same stance, which he could have summed up in a single word had he wanted.
 
 "Caution."
 
-"I beg your pardon, councillor?" asked one of the station's janitor drones, programmed with a limited AI that would forever fall just short of actual independent thought, but had attained unfailing innocuous politeness.
+"I beg your pardon, councillor?" asked one of the station's janitors. She was a V'zktk, cousin species to Kirk's own Rrrtktktkp'ch. More numerous, but... well. By any objective measure, less intelligent. They tended to form the working class in Domain society, while Rrrtk like Kirk naturally drifted into positions of authority. It was a shame, really.
 
-Kirk started at the query and raised his head: He had clearly dozed off and was now alone in the meeting room save for the custodial machines. "Nothing. Where the hell are my aides?"
+Kirk started at the query and raised his head: He had clearly dozed off and was now alone in the meeting room save for the custodial machine. "...Nothing. Where the hell are my aides?"
 
-"They judged that you desired some time alone, Councillor. Shall I summon them?" "No." he stood and stretched, rolling the long neck for which both the species of the Domain were famed and enjoying the feeling as the long flexible sheath of cartilege that protected his spinal cord was massaged by the gentle motion. It took some time. Then he asked of the drone, which was playing a kinetic manipulation field across the carpet under the table, collecting fallen detritus, shed fur and skin-dust: "Does this station have an observation deck?" "It does councillor, though Councillor Vedregnegnug has flagged that query with his personal recommendation that you might prefer the biodeck." "The biodeck?" Kirk repeated, having not heard of such a thing before.
+"They judged that you desired some time alone, Councillor. Should I summon them?"
 
-"The councillor added it as an extension to his personal suite. Access is limited to only yourself and himself. Shall I program the elevator to take you there? I understand that there will be fresh Cqcq leaves."
+"No. Thank you." He stood and stretched, rolling the long neck for which both the species of the Domain were famed and enjoying the feeling as the long flexible sheath of cartilege that protected his spinal cord was massaged by the gentle motion. It took some time. Then he returned his attention to the janitor and her cleaning drone, which was playing a kinetic manipulation field across the carpet under the table, collecting fallen detritus, shed fur and skin-dust.
 
-"Yes, please."
+"Does this station have an observation deck?"
 
-The elevator needed a full minute to run the full length of the station from the meeting room to the VIP residential ring, but when he stepped out of it, Kirk's impatience evaporated. It was stunning. Vedreg must have spent an enormous amount of money in having this structure tacked on to his apartments. Even now, at the height of an ongoing interstellar civilisation that had lasted for nearly a thousand standard cycles (five hundred years) space was at a premium aboard stations, and was expensive.
+"It does, councillor, though Councillor Vedregnenug asked me to invite you to his biodeck when you wake up."
 
-Nevertheless, Vedreg had acquired a substantial area, and turned it into a garden, here in space, with a geodesic shell that afforded a wonderful view of the stars and shone tuned simulated sunlight into each of the simulated biomes.
+"Biodeck?" Kirk repeated, having not heard of such a thing before.
+
+"It's part of his personal suite. He said the elevator could take you there, and there will be fresh *Cqcq* leaves and mature *zrrks."*
+
+She sounded quite envious of that last point, and Kirk knew why. A truly venerable *zrrk* that had had plenty of time to partially rot down and liquefy was a rare delicacy, this far from the Domain's homeworlds.
+
+"Thank you," he said, and left her to her work.
+
+The elevator needed a full minute to run the full length of the station from the meeting room to the VIP residential ring, but when he stepped out of it, Kirk's impatience evaporated. It was stunning. Vedreg must have spent an enormous amount of money in having this structure tacked on to his apartments. Even now, at the height of an ongoing interstellar civilisation that had lasted for since before humans had even figured out basic metals, space was at a premium aboard stations, and therefore expensive.
+
+Nevertheless, Vedreg had acquired a substantial personal suite, and turned it into a garden with a geodesic shell that afforded a wonderful view of the stars and shone tuned simulated sunlight into each of the simulated biomes.
 
 the containment fields that kept the air and temperature from mingling between each one were barely-visible scarlet sheets of iridescence in the air, and behind them was a little patch of soil crowded with plant life from several major planets.
 
@@ -145,29 +200,41 @@ His implants received the relevant information as he studied them: Pansies, Hell
 
 "I thought you would find the centerpiece most interesting." Vedreg commented, and Kirk started. His friend had been present all along, seated on a bench configured for his species and apparently enjoying the exact same view.
 
-"Beautiful!" Kirk exclaimed. "But how can it be here? Earth is a protected world and a Class Twelve, how could you possibly have acquired these?" "Wealth and influence." Vedreg declared, and his bioluminescent flank turned a shade of contrite taupe. "An intimate working knowledge of the minutiae of galactic law and, of course, the knowledge that three of the most successful antibiotics that the Corti have released in the last fifty cycles were derived from samples collected on Earth."
+"Beautiful!" Kirk exclaimed. "But how can it be here? Earth is a protected world and a Class Twelve, how could you possibly have acquired these?"
+
+"Wealth and influence." Vedreg declared, and his bioluminescent flank turned a shade of contrite taupe. "An intimate working knowledge of the minutiae of galactic law and, of course, the knowledge that three of the most successful antibiotics that the Corti have released in the last fifty cycles were derived from samples collected on Earth."
 
 "I don't follow you." Kirk told him.
 
-"The laws only apply to samples directly collected from Earth. As these are cultivars or seed from specimens collected on Earth before the quarantine came into effect, they are, legally speaking, exempt from it. I assure you, every single one is completely legal to own." bands of smug yellow and blue stippled down him. "A councillor cannot be caught in possession of contraband, after all. Arranging that these specimens would not be contraband was, how do they say it? Child's play."
+"The laws only apply to samples directly collected from Earth. As these are cultivars or seed from specimens collected on Earth before the quarantine came into effect, they are, legally speaking, exempt from it. I assure you, every single one is completely legal to own."
 
-"Aren't they dangerous?" Kirk asked.
+Bands of smug yellow and blue stippled down him. "A councillor cannot be caught in possession of contraband, after all. Arranging that these specimens would not be contraband was, how do they say it? Child's play."
 
-"Sterilized to a fare-thee-well, though the necessary Mycorrhizal fungi in their roots would prove to be extremely tenacious should it escape into another of these biomes, not to mention fatal for the unfortunate flora it infected. The pollens, however, would have us both in anaphylactic shock very swiftly indeed should the field fail. Securing against that scenario was very costly indeed." Green swept up his flank backwards---the equivalent of a sniff. "From what I understand, even humans with their fearsome immune systems can suffer quite profusely from their effects. The warning about the venomous fauna is purely a legal requirement, while those bees could land you in the medical bay if they stung you, they won't, as a rule, since doing so is fatal to them also." "Really?"
+"Aren't they dangerous?" Kirk asked. "What about the microorganisms? The bacteria?"
+
+"Don't worry, I had them sterilized as much as possible. Though the symbiotic Mycorrhizal fungi in their roots had to remain, and *those* would prove to be extremely tenacious should they escape into another of these biomes, not to mention fatal for the unfortunate flora it infected. The pollens, however, would have us both in anaphylactic shock very swiftly indeed should the field fail. Securing against that scenario was very costly indeed."
+
+Green swept up Vedreg's flank backwards---the equivalent of a sniff. "From what I understand, even humans with their fearsome immune systems can suffer quite profusely from their effects."
+
+"And the warning about the venomous fauna?"
+
+"Purely a legal requirement. While those bees could land you in the medical bay if they stung you, they won't, as a rule, since doing so is fatal to them also."
+
+"...Really?"
 
 "Oh yes. Remarkable creatures. Survival of the whole in one of the galaxy's most hostile competitive environments through instinctive self-sacrifice of the individual. Have you read Richard Dawkins?"
 
 "I haven't, no." Kirk detected the steady soft glow of purple light that indicated Vedreg's approval and respect, though whether for the author or for the insect was unclear.
 
-"I suspect only a Human would have been in a position to pick up on the concepts he did. "The selfish gene", he called it. Excellent book. It explains that the process of evolution is an inherently selfish one, from the perspective of the allele. I'm no biologist, but I understand much more of what they're saying for having read it.
+"I suspect only a Human would have been in a position to pick up on the concepts he did. *'The selfish gene,'* he called it. Excellent book. It explains that the process of evolution is an inherently selfish one, from the perspective of the allele. I'm no biologist, but I understand much more of what they're saying for having read it."
 
 "If it's selfish, why aren't all our worlds like that?" Kirk asked, waving one of his longer, uppermost arms at the Terran terrarium.
 
-"Because on most worlds the optimal selfish survival strategy for your average gene is to not rock the boat. Life enters a reciprocal, interconnected harmony and stays there, changing only slowly if at all. But life on Earth has too many factors outside of the food chains stirring things up: asteroid strikes, storms, intense seasons, climate shifts, tectonic activity...delicate webs of interdependent species would collapse wholesale down there in short order the first time a major eruption increased the particulate dust in the atmosphere.
+"Because on most worlds the optimal selfish survival strategy for your average gene is to not rock the boat," Vedreg explained "Life enters a reciprocal, interconnected harmony and stays there, changing only slowly if at all. But life on Earth has too many factors outside of the food chains stirring things up: asteroid strikes, storms, intense seasons, climate shifts, tectonic activity...delicate webs of interdependent species would collapse wholesale down there in short order the first time a major eruption increased the particulate dust in the atmosphere... Only the aggressive survive." He glowed yellowish-green stippled with blue, white and bands of darkness---a complicated emotional cocktail of respect, admiration, intimidation, and sadness.
 
-Only the aggressive survive." He glowed yellowish-green stippled with blue, white and bands of darkness---a complicated emotional cocktail of respect, admiration, intimidation, and sadness.
+"It's no wonder the humans struggle so hard to remain balanced and in-tune with nature." He said. "Their whole genetic history has granted survival only to those that ruthlessly seized every opportunity for advancement."
 
-"It's no wonder the humans struggle so hard to remain balanced and in-tune with nature." He said. "Their whole genetic history has granted survival only to those that ruthlessly seized every opportunity for advancement." "Are you always this melancholy, Vedreg?" Kirk asked.
+"Are you always this melancholy, Vedreg?" Kirk asked.
 
 "Only when I have received terrible news, old friend."
 
@@ -175,15 +242,15 @@ Only the aggressive survive." He glowed yellowish-green stippled with blue, whit
 
 "My government is taking matters into its own hands and preparing to enforce the Quarantine around Earth with extreme prejudice."
 
-Kirk stood still, processing this. Finally, speaking delicately, he asked.
+Kirk stood still, processing this. Finally, speaking delicately, he was able to summon up his wits to ask the important question.
 
-"Could you please define "extreme prejudice?"
+"...Could you please define *'extreme prejudice?'"*
 
 Vedreg's strips were completely inert, showing no colour at all, not even a neutral paleness, a sign of deepest sorrow and regret. He handed over an infopad.
 
 "As of right now, a fleet of warships is en route to Sol. Their objective is to deploy an experimental device."
 
-"A weapon?!" Kirk couldn't believe it. He began scanning the files as Vedreg replied.
+"A *weapon?!"* Kirk couldn't believe it. He began scanning the files as Vedreg replied.
 
 "Mercifully not. Panicked herd beasts though they are, my people are not genocidal. No, this device will simply erect a containment barrier around the entire system. Powered by a fraction of Sol's own radiation, it will last for several million cycles."
 
