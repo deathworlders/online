@@ -2118,4 +2118,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 62: “Tooth and Claw”
+*The Deathworlders* will continue in chapter 63: “Torn”
