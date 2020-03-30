@@ -1447,7 +1447,7 @@ Powell shifted as Costello entered, looked over at him.
 
 “...Tea?” Costello suggested.
 
-“Aye, close enough. I’ll make it, you siddown.”
+There was no humor in Powell's snort. “...Aye, close enough. I’ll make it, you siddown.”
 
 Costello took him up on that. He folded his desk up and sat on his bunk, took off his boots and bent to massage his feet. One of the small curses of the HEAT life was big damn feet, and that more often than not meant big damn foot aches.
 
