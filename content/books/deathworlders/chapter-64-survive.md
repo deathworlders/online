@@ -317,7 +317,7 @@ Well. Good-humored from the Grandfather’s perspective, anyway. Things probably
 He vowed to make the most of them.
 ___
 
-**Date Point: 16y11m13d AV**  **    
+**Date Point: 16y11m13d AV**      
 **Atlanta, Georgia, USA, Earth**
 
 ***President-Elect Beau Chambliss***
@@ -828,7 +828,7 @@ She did neither. In fact, it took her three attempts just to coax a sound out of
 
 “You’re saying that we’ve failed in that duty up until now. *All* the Keepers, and the Long Chant itself!” The logjam in Umilivi’s throat seemed to have cleared a little.
 
-Ukusevi shook her head, feeling more confident in her thoughts now. It was strange: waiting for and anticipating this argument had been so hard, but now that she was here and having it, now that she had committed to it, the fear was ebbing away to be replaced by… not certainty, but *conviction. *
+Ukusevi shook her head, feeling more confident in her thoughts now. It was strange: waiting for and anticipating this argument had been so hard, but now that she was here and having it, now that she had committed to it, the fear was ebbing away to be replaced by… not certainty, but *conviction.*
 
 “No,” she said. “We’ve always recorded what we *thought* was true. But the core message of the Chant has *always* been humility, and our own ability to fail. Now we have the chance to see the truth we already recorded in a new light!”
 
