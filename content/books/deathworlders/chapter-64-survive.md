@@ -5,7 +5,7 @@ author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point: 16y11m10d AV**
 
-***Hierarchy/Cabal Co-operative, Session 58***
+***Hierarchy Cleansed Session 508***
 
 **++0020++:** Full retreat. Every Hunter asset in the system is being withdrawn or scuttled.
 
@@ -25,22 +25,25 @@ author: "Philip R. Johnson (Hambone)"
 
 **++0004++:** Assuming we would have had access to those assets in the first place...
 
-**++Metastasis++:** They may be active, actually.
+**++0023++:** They may be active, actually.
 
 **++0009++:** Explain.
 
-**++Metastasis++:** The Injunctors **Cynosure** used were loaded with the old automated survey and index case AIs as a backup. In theory they are capable of infiltration, abduction and basic biodroning, and could then load up their archived Agent onto the biodrone. A Human provides plenty of Substrate.
+**++0023++:** The Injunctors **Cynosure** used were loaded with the old automated survey and index case AIs as a backup. In theory they are capable of infiltration, abduction and basic biodroning, and could then load up their archived Agent onto the biodrone. A Human provides plenty of Substrate.
 
 **++0004++:** And then what? Without Relay contact, with the whole planet wormhole-suppressed and with no other agents in contact, they would not know what to do.
 
-**++Metastasis++:** There...is also the question of **Cynosure’s** status. I do not believe him to be terminated.
+**++0023++:** There...is also the question of **Cynosure’s** status. I do not believe him to be terminated.
 
-**++0003++:** We have seen no sign of him since the dataquake. Every indication we have is that he was consumed in it, and given his *problematic* stability questions, he has not been re-instantiated.
+**++0003++:** Every indication we have is that he and Metastasis destroyed each other, and given their *problematic* status, we have terminated their archived versions to avoid any possibility of re-instantiation. They are dead.
 
-**++Metastasis:++** Nevertheless. You may have written him off; I have not. And if he is on Earth…
+**++0023++:** I do not believe Cynosure should be written off. He was always a step ahead of us, and those Injunctors represent a perfect place to archive himself beyond our reach. If he is on Earth, then--
 
-**++0004++:** Then he is beyond our reach. But he may yet do our work for us…
+**++0004++:** Then we cannot touch him for now. But he may yet do our work for us…
 
+**++0003++:** We shall see. Given that there is nothing constructive that can be done about it, I see no reason to continue to expend time and resources on this discussion.  Closing session---Return to your duties.
+
+**++SESSION 508, TERMINATED++**
 ___
 
 **Date point: 16y11m12d AV**    
