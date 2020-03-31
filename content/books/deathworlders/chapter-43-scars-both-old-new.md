@@ -777,7 +777,7 @@ He sighed, stood up and prowled the office. The whole room was in the camera’s
 
 *“What do you mean?”*
 
-“Well, we aren’t realistically going to wipe out the Hunters before I’m done with my second term. And the Igraens are…” he shrugged and didn’t finish the thought. “...That reminds me. How did that proposed state visit to Gao go down?”
+“Well, we aren’t realistically going to wipe out the Hunters before I leave office. And the Igraens are…” he shrugged and didn’t finish the thought. “...That reminds me. How did that proposed state visit to Gao go down?”
 
 *“Daar was receptive to the idea. Extremely so, in fact,”* Margaret’s signature crimson lipstick always looked so strange when she smiled. She didn’t do it often. *“He’s a man of action. He practically offered to come back through the jump array that evening and save you the trip.”*
 
@@ -785,11 +785,7 @@ Sartori snorted. “He doesn’t seem the type to turn down an adventure.”
 
 Margaret made a soft, faintly amused noise of agreement. *“Mm. You never did explain why you want to meet with him so urgently, Arthur.”*
 
-Sartori glanced at the monitor, then corrected his gaze to the camera. “Answer me this, Margaret. We’re pretty confident I’m going to have a second term, yes?”
-
-*“As confident as we can be. Nothing’s taken for granted of course, but…”*
-
-“How confident are we that the next guy’s going to follow the course I set? It doesn’t matter whether he’s a Republican or a Democrat or even by some miracle an independent. Can we be certain that the next administration is going to see the interstellar conflict through all the way to the end?”
+Sartori glanced at the monitor, then corrected his gaze to the camera. “Answer me this, Margaret. How confident are we that the next guy’s going to follow the course I set? It doesn’t matter whether he’s a Republican or a Democrat or even by some miracle an independent. Can we be certain that the next administration is going to see the interstellar conflict through all the way to the end?”
 
 Margaret thought about it. *“I… wouldn’t care to comment. I don’t even know who the likely candidates are yet.”*
 
