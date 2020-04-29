@@ -520,7 +520,7 @@ Yan looked up into the sky thoughtfully. “...We have worlds, you said. Dominio
 
 “You’ve never been there! You don’t know that!”
 
-“I know *you* and you tell me about these *plan-*\ets. So, I trust you.”
+“I know *you* and you tell me about these *plan*-ets. So, I trust you.”
 
 “All *I* read is the Directorate survey report. That’s like if I told you there were Werne to the north, but didn’t mention how many, how far, or if there were any good young bulls. It’s not enough to make a decision like *this.”*
 
