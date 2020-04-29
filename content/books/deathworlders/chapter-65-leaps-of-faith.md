@@ -1582,7 +1582,7 @@ Yan landed and Vemik growled in knowing. “Too weak.” Yan sat himself back do
 
 “Hmm. All rules, no thoughts. *Stupid,* like I said.” Yan stripped the last meat off his prey’s bones with his teeth, and tossed the bone into the fire. “Maybe, this is a gods-blessing in disguise. The sky-people Jooyun talks about are *very* sick. Maybe this would help them heal.”
 
-“Maybe...but the gods would re-make them to this place, like the gods make everyone for their place. Jooyun and *Tis-*\dale call that ‘ev-o-*loo-*\shun.’ But,” Vemik considered, “they also think maybe that’s part of why we and the City-People were so different, too.”
+“Maybe...but the gods would re-make them to this place, like the gods make everyone for their place. Jooyun and *Tis-* dale call that ‘ev-o-*loo-* shun.’ But,” Vemik considered, “they also think maybe that’s part of why we and the City-People were so different, too.”
 
 “We come from the same place,” Yan pointed out. “So a people’s place isn’t the only thing that matters?”
 
@@ -1615,7 +1615,7 @@ Feeling better, he nodded, then stood up. “Array should be ready, the others w
 Yan just grinned. He bounced up to his feet with a push of his tail, nodded, and led the way back down the hill. Vemik took a look around again before following. They’d go to many other places on this world first before Jooyun and the other Humans were satisfied, but Vemik knew already.
 
 They were Giving this place, and it was the best thing they could ever do with it.
-__
+___
 
 **26th day of the first year of freedom**    
 **The “Clawhold,” above the old-bent-leg tunnels**
