@@ -1806,7 +1806,7 @@ The Ark Project was ready for its first independent checkpoint review. There bei
 
 Nofl didn’t know if that was an insult or an accolade.
 
-In any case, there was no point worrying about it. With a put-upon sigh and
+In any case, there was no point worrying about it. With a put-upon sigh and no small amount of actual interest in what he was about to see, he grabbed his bag and headed out.
 
 Transit was at least quick. Instantaneously, in fact, but only after he’d made the jump to Origin, been shuttled halfway across City Zero, driven down a bunker, and herded toward *another* jump array, this one behind multiple forcefields, security turrets and other measures besides.
 
