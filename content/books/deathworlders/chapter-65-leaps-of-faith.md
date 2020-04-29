@@ -427,7 +427,7 @@ Yeah.
 
 Life was good.
 
-__
+___
 
 **Date Point:17y3m3w5d AV**    
 **Planet Akyawentuo, the Ten’Gewek Protectorate, Near 3KPc arm**
