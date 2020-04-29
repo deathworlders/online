@@ -2180,7 +2180,7 @@ Volka Creed
 walter thomas
 William Kinser
 Woodsie13
-xxarmondxx@gmail.com
+xxarmondxx
 
 **...Eighty** ***Friendly ETs,*** **129** ***Squishy Xenos*** and **306** ***Di(splat)zi Rats***
 
@@ -2198,4 +2198,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 64: “Survive”
+*The Deathworlders* will continue in chapter 65: “Leaps of Faith”

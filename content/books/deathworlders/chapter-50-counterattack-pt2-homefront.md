@@ -511,7 +511,7 @@ They said grace, and tucked in.
 ___
 
 **Date Point: 15y9m1w2d AV**    
-**Ark Complex, Planet Ordinate, Corti Directorate Border Territories**
+**Ark Complex, Planet Tangent, Corti Directorate Border Territories**
 
 ***First Director Shanl***
 
