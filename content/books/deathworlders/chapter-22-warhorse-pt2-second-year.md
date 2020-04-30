@@ -763,7 +763,7 @@ He snatched the ball easily out of the air when Vandenberg threw it to him. "If 
 
 He tossed the ball over the edge of the yellow zone. It described a perfect parabola just like before, right up until the moment it crossed the threshold, and was suddenly moving slowly in a perfectly straight line, spinning eerily. They watched it bounce forlornly off the ceiling at the far end of the room.
 
-"As sergeant...Arés explained," Cavendish said, peering at Adam's name tag "the first law means that an object's speed, and the direction it's moving in---collectively known as its *velocity*\---remains unchanged, *unless* a force such as gravity acts upon it. The third law's simple enough to not need an explanation—when you push on something, it pushes back. Simple enough, but that's why that whole cartoon thing of going boating by blowing into the sail doesn't work. You're pushing that air forward, and yes it'll push on the sail, but by blowing you're also pushing yourself backwards just as strong, and pushing back on the boat through your boots. Follow?"
+"As sergeant...Arés explained," Cavendish said, peering at Adam's name tag "the first law means that an object's speed, and the direction it's moving in—collectively known as its *velocity*—remains unchanged, *unless* a force such as gravity acts upon it. The third law's simple enough to not need an explanation—when you push on something, it pushes back. Simple enough, but that's why that whole cartoon thing of going boating by blowing into the sail doesn't work. You're pushing that air forward, and yes it'll push on the sail, but by blowing you're also pushing yourself backwards just as strong, and pushing back on the boat through your boots. Follow?"
 
 There was nodding.
 
