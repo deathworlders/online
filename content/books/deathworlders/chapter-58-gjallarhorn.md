@@ -1787,7 +1787,7 @@ Allison’s hand stopped moving. Slowly, she leaned forward to frown at him. He 
 
 “...I’d… I don’t… I mean, that’s... According to *who?!”*
 
-“Nofl. He dug up some classified Directorate records from somewhere and… I am literally an experiment. My entire family is an experiment. Every single one of my ancestors further back than we have *records* were themselves bred—fucking *bred*\—with a goal in mind.”
+“Nofl. He dug up some classified Directorate records from somewhere and… I am literally an experiment. My entire family is an experiment. Every single one of my ancestors further back than we have *records* were themselves bred—fucking *bred*—with a goal in mind.”
 
 “Fucking *Corti!”* Allison groaned. She hushed herself as Anna stirred a little, but mercifully didn’t wake. “But… okay, a goal? What goal?”
 
