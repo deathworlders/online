@@ -980,7 +980,7 @@ Ginn decided he’d changed his mind. This *was* interesting, in its methodicall
 
 “They’ll be back,” Vark predicted, as the back of the riot started to turn ragged and drain away down alleyways and into the warrens below the old ruined streets. “Take more’n one bloody nose ‘ta beat all the fight outta them.”
 
-“They’ve got four hundred years of pent-up frustration, rage and justice to work out of their systems.”
+“They’ve got four hundred years of pent-up frustration, rage and injustice to work out of their systems.”
 
 “Ayup.” Vark sank to all fours and shook as if he was trying to re-seat his NBC gear. “C’mon. You and I gotta get ready. The Great Father’s gonna be here soon ‘ta meet with the object of their hatred.”
 
@@ -1391,7 +1391,7 @@ So it always was. And stories didn’t bring in the meat.
 
 In the end, knowing there was a jump array coming allowed Yan to wade into the gathering and get them to chill out while he, Sky-Thinker and his Singer made the trip. Three Ten’Gewek in the ship was a *much* less uncomfortable proposition, even if Julian was pretty sure he’d get pretzel’d at least three times through the trip.
 
-Sure enough, he went zero for three against Vemik, who was definitely feeling his oats and enjoying his strength. Frustrating. Maybe if Julian wasn’t trying so hard not to break anything…he *did* get Vemik pinned on their fourth bout, though. Julian spent the rest of the flight exacting his revenge, but not really. Vemik had a way of bring out the kid in anyone.
+Sure enough, he went zero for three against Vemik, who was definitely feeling his oats and enjoying his strength. Frustrating. Maybe if Julian wasn’t trying so hard not to break anything…he *did* get Vemik pinned on their fourth bout, though. Julian spent the rest of the flight exacting his revenge, but not really. Vemik had a way of bringing out the kid in anyone.
 
 Yan spent most of the trip asleep, surprisingly. Apparently he’d been hunting extra hard the last few days to make up for however long he was going to be away. And the Singer was quite content to curl up in the observation blister and watch the stars crawl by.
 
@@ -1526,7 +1526,7 @@ Which didn’t hurt much.
 
 At least Jooyun was enjoying it. He was doing the thing he always did of singing to himself as he worked. The Singer was listening with interest to that: Human songs went to strange places.
 
-*♪“...I don't want the world to see me, ‘cause I don't think that they'd understand. When everything's meant to be broken, I just want you to know who I am…”♫*
+*♪“...I don't want the world to see me, ‘cause I don't think that they'd understand. When everything's made to be broken, I just want you to know who I am…”♫*
 
 Weird. Or maybe just going over Vemik’s head, though from the looks the other Humans gave him… just weird. Either way, Vemik shrugged and helped the four of them build the jump array. Sully-van was doing something interesting with a thick black cable and a hatch under the ship, but he waved Vemik off, and appealing to Jooyun didn’t help either. Sky-Brother just shook his head.
 
