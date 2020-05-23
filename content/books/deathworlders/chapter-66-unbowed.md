@@ -1,6 +1,6 @@
 ---
-title: "Chapter 66: unbowed"
-date: 2020-05-23T22:00:00+00:00
+title: "Chapter 66: Unbowed"
+date: 2020-05-23T21:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
