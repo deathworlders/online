@@ -1942,4 +1942,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 66: “Karma”
+*The Deathworlders* will continue in chapter 67: “Resurrection”
