@@ -372,7 +372,7 @@ He preferred the cubs and ditches, too. Time to go find some.
 ___
 
 **Date Point: 17y4m2w AV**   
-**Starship*** ***Silent But Deadly,*** **Relay system, Deep uncharted space**
+**Starship** ***Silent But Deadly,*** **Relay system, Deep uncharted space**
 
 ***Tooko***
 
@@ -900,7 +900,7 @@ Anyway. Best to put his mind off of religious zealots and powerful Clan Champion
 
 “The jump is in twenty minutes, Grandfather.”
 
-*”More’n enough time ‘ta put ‘em in his place...g’on, Ginn. We’ll follow in a few minutes.”
+*”More’n* enough time ‘ta put ‘em in his place...g’on, Ginn. We’ll follow in a few minutes.”
 
 “Yes sir.” They both had their ears up and the start of pant-grins on their face...well, if they were happy, Ginn wasn’t going to complain. He left them to it.
 
