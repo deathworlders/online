@@ -40,7 +40,7 @@ Ian grumbled to himself. “Thought I *knew* how to do this…”
 
 Regaari sighed. “Wilde---Ian. Do not judge yourself harshly, and do not compare yourself unfairly to me. You are a reasonably typical young human male---no offense intended---who has a decidedly *non*-typical will. You made yourself into an elite special operator from humble beginnings. There was some luck, sure---”
 
-“No kidding. I was on a spaceship when it blew up.”
+“No kidding. I was on a spaceship when it blew up. You don't walk away from *that* without a healthy dose of good look on your side.”
 
 “---And you have maximized that opportunity. Very few given such a chance do so well as you.”
 
