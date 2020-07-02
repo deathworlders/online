@@ -246,7 +246,7 @@ With a gesture, he beckoned his men to pick up the pace; if they wanted to live,
 
 They only had about ten kilometers to go. That was very doable, though a lot of that would be through the forest. It was gonna be an exhausting trial for all of them.
 
-Wilde led by example. He picked up the pace, and settled into a rhythm on the trail. Ferd didn’t need any explanation; he catapulted himself up into the tree like a cartoon spring, swinging away like he was meant to. His men followed with similarly effortless leaps far above Wilde’s head, and were caught up to the Given-Mam in just a few short moments.
+Wilde led by example. He picked up the pace, and settled into a rhythm on the trail. Ferd didn’t need any explanation; he catapulted himself up into the tree like a cartoon spring, swinging away like he was meant to. His men followed with similarly effortless leaps far above Wilde’s head, and were caught up to the Given-Man in just a few short moments.
 
 They were definitely leaving sign, now. No way around it. Wilde’s gamble was that they could close those ten klicks before the drones found the trail towards their now much more obvious sign.
 
@@ -1847,7 +1847,7 @@ Theningaraf
 
 TNkdI6FVB1NhjNqt
 
-Trevor Chart
+Trevor C
 
 tsanth
 
@@ -1942,4 +1942,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 67: “Resurrection”
+*The Deathworlders* will continue in chapter 67: “Resurgence”
