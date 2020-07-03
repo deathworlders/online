@@ -40,7 +40,7 @@ Ian grumbled to himself. “Thought I *knew* how to do this…”
 
 Regaari sighed. “Wilde---Ian. Do not judge yourself harshly, and do not compare yourself unfairly to me. You are a reasonably typical young human male---no offense intended---who has a decidedly *non*-typical will. You made yourself into an elite special operator from humble beginnings. There was some luck, sure---”
 
-“No kidding. I was on a spaceship when it blew up. You don't walk away from *that* without a healthy dose of good look on your side.”
+“No kidding. I was on a spaceship when it blew up. You don't walk away from *that* without a healthy dose of good luckk on your side.”
 
 “---And you have maximized that opportunity. Very few given such a chance do so well as you.”
 
@@ -134,7 +134,7 @@ The instant they crossed the gym’s threshold, Regaari’s demeanor switched in
 
 Not that Ian really had any, but a man never liked getting his arse kicked...especially so *easily.* Still, Regaari’s honest pride in Ian didn’t even give him the opportunity to brood. Bastard.
 
-“Well, that was a success!” Ragaari bounced upright and spun around to walk back-pedal in front of Ian, pant-grinning merrily.
+“Well, that was a success!” Regaari bounced upright and spun around to walk back-pedal in front of Ian, pant-grinning merrily.
 
 Ian coughed ruefully. “You enjoyed every second of that, didn’t you?”
 
@@ -600,7 +600,7 @@ The *Rich Plains* certainly wasn’t about to enter Hunter space, even *liberate
 
 Still, after waiting patiently while the Last worked their way steadily down the list, Sir Patrick’s turn to host the returning old ones had finally arrived. Several of his alien peers had been kind enough to send along their observations and advice. Daar had met them in person, then immediately come to give Sir Patrick his impression.
 
-“Hardest talks I ever had,” he’d growled. “The just *reek* o’ nanotech. Can’t smell anythin’ else about ‘em. But more’n that...” the Great Father furrowed his heavy brow. “...Hard ‘ta say. They *definitely* were actin’ jus’ a bit weird ‘round me.”
+“Hardest talks I ever had,” he’d growled. “They just *reek* o’ nanotech. Can’t smell anythin’ else about ‘em. But more’n that...” the Great Father furrowed his heavy brow. “...Hard ‘ta say. They *definitely* were actin’ jus’ a bit weird ‘round me.”
 
 “Weird by Gao standards, or weird by their standards?” Sir Patrick had asked.
 
@@ -710,7 +710,7 @@ It had been an affable, open, even candid conversation on the surface. But there
 
 He’d spoken of competing, yes… but also of how his people had used to *‘dominate’* galactic affairs. Just how much did the *huh* boost aggression and ambition? And how much did the OmoAru have naturally?
 
-They were headed for interesting times, really. The Great Father was fast becoming the de-facto leader of the deathworlders, and Knight had rarely ever met anyone so intrinsically aggressive or competitive, other qualities notwithstanding. The OmuAru clearly had *zero* compunctions about extensive self-modification, so just how far would they be willing to go?
+They were headed for interesting times, really. The Great Father was fast becoming the de-facto leader of the deathworlders, and Knight had rarely ever met anyone so intrinsically aggressive or competitive, other qualities notwithstanding. The OmoAru clearly had *zero* compunctions about extensive self-modification, so just how far would they be willing to go?
 
 He mused on those questions for a good while before writing his initial impressions and his thoughts. And he did his best to be fair and fact-based…
 
@@ -722,11 +722,11 @@ ___
 
 ***Daar, Great Father of the Gao***
 
-The OmuAru were *unsettling.* For a few reasons. He couldn’t smell ‘em, true; it were kinda like stickin’ his muzzle into an ancient internal combustion tractor and huffin’ the fumes, and it was *hard* to notice anythin’ else when that oily, burnt smell was blowin’ his nose up. An’ that silvery ball they kept to hand at all times pulled on the eye like a fishing hook in the cornea.
+The OmoAru were *unsettling.* For a few reasons. He couldn’t smell ‘em, true; it were kinda like stickin’ his muzzle into an ancient internal combustion tractor and huffin’ the fumes, and it was *hard* to notice anythin’ else when that oily, burnt smell was blowin’ his nose up. An’ that silvery ball they kept to hand at all times pulled on the eye like a fishing hook in the cornea.
 
 Even so, Daar had noticed something. They were *surprised* by him. No. *Fascinated.* Now, Daar had a Keeda-sized ego, especially lately. He was *the bestest* at a whole buncha things and he knew it, and it was *important* to know that so he could work at keeping himself grounded. So, normally...he wouldn’t mind much. He enjoyed it. Balls, he *liked* showing off! Let people stare, all that.
 
-The OmuAru weren’t staring. It was…*different,* somehow. And that just resurfaced all *sortas* personal worries about…
+The OmoAru weren’t staring. It was…*different,* somehow. And that just resurfaced all *sortsa* personal worries about…
 
 Balls. Why *him.* Why *was* he?
 
@@ -834,7 +834,7 @@ Some of them watched the burning with bright eyes gleaming in the fire-dark. A f
 
 The Alpha didn’t care that the planet was lost. It didn’t care that the deathworlders would surely come to stop it. Let them. Let destruction come with them! The Brood would burn until there was nothing left!!
 
-Let them come. Let them *klll.* It was all the same in the end. The fires consumed everything, and it was all so…
+Let them come. Let them *kill.* It was all the same in the end. The fires consumed everything, and it was all so…
 
 So…
 
@@ -1314,7 +1314,7 @@ Julian grumbled, “Well, I *felt* scrawny, anyway. Always a little hungry, neve
 
 Hoeff had some good, consoling humor. “Eighteen year old kids don’t know much of anything, to be fair.”
 
-“So we’re putin’ the jump array here?” Rees asked
+“So we’re puttin’ the jump array here?” Rees asked
 
 Julian nodded. “Makes the most sense. It’s sheltered, there’s some groundwork already been done. Better than starting over from scratch.”
 
@@ -1521,7 +1521,7 @@ It certainly took pride in the sharpness of its mind.
 
 *< Satisfaction >* +I see opportunity. You have a map of the Human relay network?+
 
-Four remained outwardly impassive as she shared the requested data. Inwardly, though, she perked up. Her brief introduction to Hunter technology had been sensibly limited---the Hunters did not trust the Hierarchy, after all---but had driven hom the clear observation that in certain details of matterspace physics, the Hunters had moved forward past what the Hegemony had learned.
+Four remained outwardly impassive as she shared the requested data. Inwardly, though, she perked up. Her brief introduction to Hunter technology had been sensibly limited---the Hunters did not trust the Hierarchy, after all---but had driven home the clear observation that in certain details of matterspace physics, the Hunters had moved forward past what the Hegemony had learned.
 
 The sense of satisfaction mounted, and the Alpha-of-Alphas shared some data of its own: a complex knot of curved-space field problems.
 
@@ -2044,7 +2044,7 @@ Grade two meant the Gao and their allies were under attack. And that was a thing
 
 Nothing happened. The Array refused to fire. And *that* meant an emergency halt order was in effect.
 
-He turned to Tiyo, who was scrambling to keep up.
+He turned to Tiyun, who was scrambling to keep up.
 
 “...Get me a shuttle.”
 
@@ -2077,6 +2077,7 @@ She listened. She nodded, swallowing down an all-too-familiar surge of stressful
 She hung up. Derek watched her intently for a moment, then stood up and went to grab his shoes. He didn’t need telling, he knew her instincts well enough by now.
 
 They kissed, and went to work.
+
 __
 
 **The White House, Washington DC, USA, Earth**
@@ -2097,7 +2098,7 @@ A funereal silence descended on the room.
 
 “The death toll there is, um… well, we’re lucky it wasn’t higher. But the economic damage is going to be…” The speaker tailed off, awkwardly.
 
-“Franklin was a massive investment, and generating enormous resources. Rescuing the colony and restoring it is going to be incalculably expense. Writing it off for lost, even more so. Then there’s the damage to Chicago’s own rail throughput, which is right at the heart of our own national logistics…”
+“Franklin was a massive investment, and generating enormous resources. Rescuing the colony and restoring it is going to be incalculably expensive. Writing it off for lost, even more so. Then there’s the damage to Chicago’s own rail throughput, which is right at the heart of our own national logistics…”
 
 “In short Mister President, we don’t know exactly *how* bad this is going to be, just that it’s *bad.”*
 
@@ -2198,7 +2199,7 @@ He frowned at his private secretary as she went pale while reading a new report.
 
 “What the bloody hell was *he* doing *there?”*
 
-“Visiting general Jackson, I think. They’re an item.”
+“Visiting General Jackson, I think. They’re an item.”
 
 Davies swore, silently and internally. Outwardly, he gripped the arms of his chair to stop his hand from shaking. “...What’s the condition of the air force base there?”
 
