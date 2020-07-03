@@ -1447,7 +1447,7 @@ The Gaoian gunner clung to the trigger while his companion fed ammunition into t
 
 ...Should what? Interfere? Sabotage them somehow? Attack three armored alien soldiers any one of whom could claw him open from throat to belly in an eyeblink?
 
-Once again, the sheer *wretchedness* of his people’s position settled on him. And he wasn’t even sure if by letting Aral go, he’d struck a blow against it or just added to it. Even now, after all that time to reflect, he didn’t know if he regretted letter her leave.
+Once again, the sheer *wretchedness* of his people’s position settled on him. And he wasn’t even sure if by letting Aral go, he’d struck a blow against it or just added to it. Even now, after all that time to reflect, he didn’t know if he regretted letting her leave.
 
 He snuck to the window, and watched the flames dancing, the gunfire flashing, and the people dying in the dark. He stayed there until they faded, and tailed off, until they were gone and calm returned, and somebody repaired the air filters so that the city’s air was no longer choked with smoke and the stink of burnt meat.
 
