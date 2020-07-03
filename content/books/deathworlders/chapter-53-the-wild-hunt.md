@@ -514,7 +514,7 @@ Byrne nodded, but she looked a little unnerved. “I didn’t remember Adam bein
 
 Allison decided a change of subject was in order. “You found something good?”
 
-“Hell yeah we did!” Thompson indicated the crates with a grin. “Class twelve, ninety-nine point oh-four Gs, seventy percent ocean coverage, everything. No sign of natives, either.”
+“Hell yeah we did!” Thompson indicated the crates with a grin. “Class twelve, point nine-nine-oh-four Gs, seventy percent ocean coverage, everything. No sign of natives, either.”
 
 “Nice! What’d you call her?”
 
