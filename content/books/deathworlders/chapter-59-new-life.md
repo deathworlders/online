@@ -770,13 +770,13 @@ Tumik spoke up. [“...*Hoss*-tell?”]
 
 [“Yes. Same idea, you pay them for a place to sleep, but… well, they’re less expensive and the furniture’s more sturdy for a start. And if you don’t mind my saying so, I assume you’re quite young...and the other guests will be about your age.”]
 
-Ferd looked to his men, who all seemed to like that idea better. [“Yes, good idea! We save *mun-*\ee, meet more sky-people!”]
+Ferd looked to his men, who all seemed to like that idea better. [“Yes, good idea! We save *mun*\-ee, meet more sky-people!”]
 
 [“Yes yes, well...next time, don’t go climbing people’s buildings without permission! Uh, please.”]
 
 ...Ferd was scaring the man. Well, that would normally feel good but right now...not so much.
 
-[“You’re right. Was bad guest of me,”] Ferd apologized. [“Where is this *hoss-*\tell?”]
+[“You’re right. Was bad guest of me,”] Ferd apologized. [“Where is this *hoss*\-tell?”]
 
 The man gave them directions and they said their goodbyes, then set off along the strange stone and straight paths the sky-people built everywhere. They learned a few things very quickly. Firstly, the very big path in the middle was *not* for people. It was instead for sky-magical steel...not *beasts* exactly, but more like the ‘Weaver.’ Machines. Machines that did what the stories said the city-People once did with small, tame werne. ‘Cars,’ Ferd thought. And something that was like a very *big* car but they used a different word he couldn’t remember.
 
@@ -802,9 +802,9 @@ There was only one thing to do. Ferd squat down and sat on his tail, and his men
 
 Reluctantly, little Feeko peeled away and was ushered away by the Gao woman. Her ears were up when she glanced back at them, though. Ferd didn’t know what that meant, but she seemed less… dangerous, now.
 
-The magic of villages worked in mysterious ways. Somehow after meeting the little Gaoian girl, the rest of their hike toward the *‘hoss-*\tel’ was much less knife-edge.
+The magic of villages worked in mysterious ways. Somehow after meeting the little Gaoian girl, the rest of their hike toward the *‘hoss*\-tel’ was much less knife-edge.
 
-The chief of the *hoss-*\tel was an unbelievably tall blue sky-person, whose words sounded too much like very many rocks falling down a mountain. Something about him tickled Ferd’s instincts completely the wrong way; the blue person seemed *much* too much like prey to be happy about. But, prey didn’t have words, and words were the first strength that seperated people from prey, so…
+The chief of the *hoss*\-tel was an unbelievably tall blue sky-person, whose words sounded too much like very many rocks falling down a mountain. Something about him tickled Ferd’s instincts completely the wrong way; the blue person seemed *much* too much like prey to be happy about. But, prey didn’t have words, and words were the first strength that seperated people from prey, so…
 
 “The five of you, then? How many nights?”
 
@@ -862,7 +862,7 @@ Ferd almost punched himself in the head, it was so obvious. They had these magic
 
 The guard vanished into the small hut, leaving Ferd to wait under his friend’s watching eye. To his surprise, before the human returned, Ferd heard his own name being called, and he turned around to see Tumik and Oki coming up the path towards the gate.
 
-“You are supposed to be looking for *War-*\horse!” he said.
+“You are supposed to be looking for *War*\-horse!” he said.
 
 “We found him! He lives in a tall brick hut down the path maybe a half-finger away at a trot, but he does his work up here every day.”
 
@@ -2073,7 +2073,7 @@ Everyone else had six or fewer.
 
 “I should point out that despite that number, the Hunters themselves prefer an exclusively spaceborne existence. Nevertheless, they have the resources to control and contain those planets and keep their slave population suppressed,” Thurrsto finished.
 
-Fiin raised his voice as the dismay got a little louder. Not shouting or anything, just making himself heard. “Please, delegates! We’re not here to alarm you. We’re presenting raw facts here, which need putting in their proper context.” He paused long enough for the rising noise to settle, then duck-nodded. “A hundred and six planets is a lot, but we shouldn’t make the mistake of overestimating our foe; that’s often just as dangerous as *under*\estimating them would be.”
+Fiin raised his voice as the dismay got a little louder. Not shouting or anything, just making himself heard. “Please, delegates! We’re not here to alarm you. We’re presenting raw facts here, which need putting in their proper context.” He paused long enough for the rising noise to settle, then duck-nodded. “A hundred and six planets is a lot, but we shouldn’t make the mistake of overestimating our foe; that’s often just as dangerous as *under*estimating them would be.”
 
 “It’s difficult to translate their… uh… *lifestyle* into our terms,” Thurrsto agreed. “But if the planet *‘Hell’* is fairly average by their standards, we can expect each of these worlds to bear about a hundred million slaves. Considering the average Hunter’s nutritional requirements, that puts an upper limit on the population all those planets can support.”
 
