@@ -1515,7 +1515,7 @@ Everything else was… well, if the Hunters had consciously committed themselves
 
 The Alpha-of-Alphas, though, clearly had a sense of aesthetics. There was something *smoother* about it. Something less pustulent about the interface between its flesh and its machinery, though such interfaces were rare. There wasn’t much flesh left, but what little remained looked almost *healthy,* at least when measured against the sickly Hunter norm.
 
-Clearly, it had kept whatever it kept out of necessity, and saw the value in maintaining all its components to a high standard. Four could almost accuse it having a sense of pride in its appearance.
+Clearly, it had kept whatever it kept out of necessity, and saw the value in maintaining all its components to a high standard. Four could almost accuse it of having a sense of pride in its appearance.
 
 It certainly took pride in the sharpness of its mind.
 
@@ -2129,7 +2129,7 @@ Adam didn’t take long vacations. He was too busy, too invested in his own pers
 
 Which had, in turn, resulted in baby number two.
 
-Baby number two was coming on top of their already insanely busy schedules, but they’d always made it work once, and she had no doubt they’d make it work again. So, long planned-out vacations really weren’t a thing in the Arés household. That didn’t mean they went without downtime, though. They just...took more three-day weekends. A day off here and there, maybe a half-week now and then. It wasn’t quite as romantic as they’d done for their honeymoon, but…
+Baby number two was coming on top of their already insanely busy schedules, but they’d made it work once, and she had no doubt they’d make it work again. So, long planned-out vacations really weren’t a thing in the Arés household. That didn’t mean they went without downtime, though. They just...took more three-day weekends. A day off here and there, maybe a half-week now and then. It wasn’t quite as romantic as they’d done for their honeymoon, but…
 
 Well, Marty was pregnant, so Adam’s infamously breathtaking superolympic bedroom feats weren’t on offer...but they weren’t a chaste couple, and hadn’t ever been; that was a big part of the attraction, really. Adam had *needs* and Marty knew how to take care of her man. *That* was really the secret to taming him. And there was cuddling, too. Lots of that.
 
