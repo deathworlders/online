@@ -947,7 +947,7 @@ Regaari ducked his head. "Yes."
 
 "This is footage of that alien in combat."
 
-They watched it. The alien was very definitely *alien*\-—long of limb, compact of body, and remarkably poised, but it wasn't until she almost ripped one of the Locayl jailers in half that the source of that poise became apparent.
+They watched it. The alien was very definitely *alien*-long of limb, compact of body, and remarkably poised, but it wasn't until she almost ripped one of the Locayl jailers in half that the source of that poise became apparent.
 
 "So *strong.""* he muttered, watching as the alien darted across the room and practically flattened the second Locayl.
 
