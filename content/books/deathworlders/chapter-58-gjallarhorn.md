@@ -638,7 +638,7 @@ Confirming them didn’t take more than a minute or so.
 
 ...Oh *dear.*
 
-Nofl’s work on Cruezzir had been a conflux of unique serendipity, coupled of course with his own rare genius. He had, through sheer brilliance far in excess of the usual drudgery his caste produced, managed to secure a bottom-level lab assistant role in a xenobiology college operating out of City Three on the planet Perimeter. There, he’d found himself handling, cataloging, isolating, cultivating and generally *-ing*\ing a steady stream of interesting samples, data, specimens and reports from field xenobiology units.
+Nofl’s work on Cruezzir had been a conflux of unique serendipity, coupled of course with his own rare genius. He had, through sheer brilliance far in excess of the usual drudgery his caste produced, managed to secure a bottom-level lab assistant role in a xenobiology college operating out of City Three on the planet Perimeter. There, he’d found himself handling, cataloging, isolating, cultivating and generally *-ing*ing a steady stream of interesting samples, data, specimens and reports from field xenobiology units.
 
 And, in his spare time, because it wasn’t explicitly forbidden by his role, he’d experiment.
 
