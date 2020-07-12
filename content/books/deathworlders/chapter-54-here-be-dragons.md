@@ -2073,7 +2073,7 @@ Well! Vemik wasn’t going to let permission like *that* go to waste! Especially
 
 Bronze was an interesting thing. According to Jooyun, Humans had discovered it before steel. According to Tilly, it was made from two *other* metals, called Copper and Tin. All Vemik knew was, the little pieces of it that the archaeologists found at their dig site came out of the ground covered in a vibrant blue-green powdery scale, and it was Tilly’s job to do… something with them. She spent a lot of time carefully cleaning the dirt off them, then placing them under various strange tools.
 
-Vemik didn’t know what any of them did, but she was kind enough to show him when he asked. The *micro-*\-scope was amazing! She had to turn the light down for him—Humans loved painfully bright light—but it let Vemik look at very, very tiny things and see *everything!*
+Vemik didn’t know what any of them did, but she was kind enough to show him when he asked. The *micro*\-scope was amazing! She had to turn the light down for him—Humans loved painfully bright light—but it let Vemik look at very, very tiny things and see *everything!*
 
 “You need to be careful, this equipment needs a gentle touch. Gentle isn’t exactly a cavemonkey specialty…”
 
