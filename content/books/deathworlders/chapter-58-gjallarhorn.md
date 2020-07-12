@@ -638,7 +638,7 @@ Confirming them didn’t take more than a minute or so.
 
 ...Oh *dear.*
 
-Nofl’s work on Cruezzir had been a conflux of unique serendipity, coupled of course with his own rare genius. He had, through sheer brilliance far in excess of the usual drudgery his caste produced, managed to secure a bottom-level lab assistant role in a xenobiology college operating out of City Three on the planet Perimeter. There, he’d found himself handling, cataloging, isolating, cultivating and generally *-ing*\ing a steady stream of interesting samples, data, specimens and reports from field xenobiology units.
+Nofl’s work on Cruezzir had been a conflux of unique serendipity, coupled of course with his own rare genius. He had, through sheer brilliance far in excess of the usual drudgery his caste produced, managed to secure a bottom-level lab assistant role in a xenobiology college operating out of City Three on the planet Perimeter. There, he’d found himself handling, cataloging, isolating, cultivating and generally *-ing*ing a steady stream of interesting samples, data, specimens and reports from field xenobiology units.
 
 And, in his spare time, because it wasn’t explicitly forbidden by his role, he’d experiment.
 
@@ -1787,7 +1787,7 @@ Allison’s hand stopped moving. Slowly, she leaned forward to frown at him. He 
 
 “...I’d… I don’t… I mean, that’s... According to *who?!”*
 
-“Nofl. He dug up some classified Directorate records from somewhere and… I am literally an experiment. My entire family is an experiment. Every single one of my ancestors further back than we have *records* were themselves bred—fucking *bred*\—with a goal in mind.”
+“Nofl. He dug up some classified Directorate records from somewhere and… I am literally an experiment. My entire family is an experiment. Every single one of my ancestors further back than we have *records* were themselves bred—fucking *bred*—with a goal in mind.”
 
 “Fucking *Corti!”* Allison groaned. She hushed herself as Anna stirred a little, but mercifully didn’t wake. “But… okay, a goal? What goal?”
 
