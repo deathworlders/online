@@ -2111,7 +2111,7 @@ Vemik sat, and listened, and asked questions. This all had a purpose beyond spen
 
 He’d caught a glimpse of what he needed on Earth-place, when he’d picked up the back end of their ‘Suh-*burb*\-en’ one day and looked at how the wheels connected to the steel box they rode in. With *springs!* *two* of them, one curled up like a man might curl his tail if he was sitting down for a long time…of if he had a pretty woman in his lap, even better...
 
-...But there was also a *leaf* spring. Which looked suspiciously like a *lam-*\-inated bow!
+...But there was also a *leaf* spring. Which looked suspiciously like a *lam*\-inated bow!
 
 Heff had growled at Vemik after a little while so he couldn’t look for long. He didn’t want to make the short Human angry, so he put it down gently while Jooyun chuckled. Heff was...strangely scary, somehow. Even if he was friendly. Best to stay on his good side. But the idea had stuck, and when he’d first sketched his *bawistuh* design, he’d been thinking of that leaf spring.
 
