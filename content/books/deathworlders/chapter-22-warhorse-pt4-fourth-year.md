@@ -1141,7 +1141,7 @@ Powell nodded, and hit the kettle's switch.
 
 "Dreadful." Powell deadpanned.
 
-"End of the world!" Rylee rolled her eyes skywards, though she smiled. "Anyway, I figured if I took on a unit that's currently all classified and stuff then by the time the footage is *de-*\classified I won't have to answer stupid questions about it."
+"End of the world!" Rylee rolled her eyes skywards, though she smiled. "Anyway, I figured if I took on a unit that's currently all classified and stuff then by the time the footage is *de*-classified I won't have to answer stupid questions about it."
 
 "Hence why you've come to us."
 
