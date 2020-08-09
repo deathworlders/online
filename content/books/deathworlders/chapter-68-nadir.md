@@ -1128,7 +1128,7 @@ Rylee paused in repeating the opposition test for her own comfort. “Yes?”
 
 “...Thank you, Nofl.”
 
-Het tipped his head again, and was gone.
+He tipped his head again, and was gone.
 
 True to Nofl’s predictions, a nurse appeared almost as soon as he was out of the room, and Rylee massaged her arm once the cast and bandages were gone. The scar wasn’t quite as faint as she’d imagined. It was star-shaped, a few inches below her elbow, with one point extending right the way down to her wrist.
 
