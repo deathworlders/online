@@ -1641,7 +1641,7 @@ And good health? He wasn’t some meek coffee-house intellectual. He was primal 
 
 Against all wisdom she’d fallen for him, mind, body, and soul. She didn’t care what anyone thought. Singer didn’t mind, hell she’d been actively encouraging it. Tilly had been scheming to live on Akyawentuo indefinitely, find some permanent research position...and then it all came crashing down. Saying goodbye to everyone was gonna suck *hard.* Saying goodbye to *Vemik…*
 
-And then there was the Singer. Wwhile Tilly had never been attracted to women, she’d fallen in a different kind of love with the Singer. There was no envy or jealousy at all between them, and over time they’d become closer than friends, taught each other a lot. She’d never had somebody she knew without a doubt she could confide absolutely *anything* to, and all she’d get back would be love. Leaving the Singer was going to hurt just as much.
+And then there was the Singer. While Tilly had never been attracted to women, she’d fallen in a different kind of love with the Singer. There was no envy or jealousy at all between them, and over time they’d become closer than friends, taught each other a lot. She’d never had somebody she knew without a doubt she could confide absolutely *anything* to, and all she’d get back would be love. Leaving the Singer was going to hurt just as much.
 
 Hence, Tilly was floating alone in a stream a long way from anyone else. And crying. A lot of that.
 
