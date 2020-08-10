@@ -42,7 +42,7 @@ Regaari sighed. “Wilde---Ian. Do not judge yourself harshly, and do not compar
 
 “No kidding. I was on a spaceship when it blew up. You don't walk away from *that* without a healthy dose of good luck on your side.”
 
-“---And you have maximized that opportunity. Very few given such a chance do so well as you.”
+“---And then you met and *impressed* the Great Father, an opportunity you maximized. Very few given such a chance do so well as you.”
 
 That *did* cheer him up a bit. Still. “Maybe that’s true, but I can’t help but notice how much I’ve been on the floor this last hour or so, or all the little scratches you’ve given me…”
 
