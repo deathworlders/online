@@ -3,7 +3,7 @@ title: "Chapter 69: Lockdown"
 date: 2020-08-29T17:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
-**Date point: 17y7m4d AV**
+**Date point: 17y7m4d AV**    
 **Luxury cruise liner** ***Boone’s Star,*** **en route to Cimbrean, the Border Stars**
 
 ***Sergeant Tanner Lang***
