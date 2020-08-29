@@ -190,7 +190,7 @@ Oh, this was gonna be *fun.*
 ___
 
 **Date Point: 17y7m4d AV**    
-***Skytearer*** **-class dropship, upper atmosphere of planet ‘Mordor,’occupied Hunter space**
+***Skytearer*** **class dropship, upper atmosphere of planet ‘Mordor,’ occupied Hunter space**
 
 ***Father Liim of Clan Whitecrest***
 
@@ -985,7 +985,7 @@ And *that* opened so many delicious possibilities. Shipping lanes would now be u
 
 It would be a return to the good times, before the first Humans, before the Human-Alphas, and before the fur-faces remembered their claws. The feasting and looting would be *unopposed.*
 
-And the glory of proving just how open an opportunity they know had went to the Flensing-Brood. Their prestige would surely grow, their bellies would surely fill, and their brood-swarm would number in the hundreds once again.
+And the glory of proving just how open an opportunity they now had went to the Flensing-Brood. Their prestige would surely grow, their bellies would surely fill, and their brood-swarm would number in the hundreds once again.
 
 A shame to not have captured the *whole* ship. But the prize they *had* taken was more than sufficient. More Human meat to the maw today than in all the years before. And all for the loss of only five Betas.
 
@@ -1668,7 +1668,7 @@ But on the other hand, the idea of being the one-eyed scoundrel captain of a sec
 
 “Enough to keep you out of Hoeff’s clutches, if that’s what you’re asking.”
 
-Ferd grunted, and stepped just a tiny bit closer to Regaari. He *liked* Hoeff and was protective of him, too.”
+Ferd grunted, and stepped just a tiny bit closer to Regaari. He *liked* Hoeff and was protective of him, too.
 
 “I mean no disrespect, Ferd Given-Man. Hoeff is not a trivial adversary!”
 
