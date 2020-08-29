@@ -1001,7 +1001,7 @@ What a rewarding hunt!
 
 It watched the encounter between its previously strongest Beta and the larger of the two Human-Alphas. Economy of motion. Speed, *mass.* Such perfectly-utilized *strength!* The kill wasn’t merely laudable. It was…
 
-It was *beautiful.* For the first time in many cycles, the Alpha felt *<Awe>.*
+It was *beautiful.* For the first time in many cycles, the Alpha felt *< Awe >.*
 
 There was surely much useful data to be gleaned from the recordings, though the Flensing-Alpha did not know exactly what useful insights the Builders might glean from the footage. Nonetheless, the Hunters would benefit. Would learn.
 
