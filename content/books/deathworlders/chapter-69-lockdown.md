@@ -392,19 +392,19 @@ The lieutenant was reading something on a tablet as he entered. “...Lemme gues
 
 Lang opened the container and arched an eyebrow. The sealed ration packs within were thicker than the MREs he was used to, and the bag was black with white text instead of the familiar tan brown. The text was different, too:
 
-    **Hazardous Environment Assault**    
-    *Training and Development Ration, Individual*   
-    **PREPARED FOR:** SPC Thompson, Hunter
+    Hazardous Environment Assault    
+    Training and Development Ration, Individual   
+    PREPARED FOR: SPC Thompson, Hunter
 
-    **RAPID BULKING PHASE: 4/10 (Mid-Afternoon)**     
-    **DO NOT CONSUME OUT OF SEQUENCE**
+    RAPID BULKING PHASE: 4/10 (Mid-Afternoon)     
+    DO NOT CONSUME OUT OF SEQUENCE
 
-    *Eat after light PT---supplement from lot B if activity demands*    
-    *Cruezzir-D dose only as necessary*    
-    **Take with pill pack #4A**
+    Eat after light PT---supplement from lot B if activity demands    
+    Cruezzir-D dose only as necessary    
+    Take with pill pack #4A
 
-    *Recommended hydration: not less than 1L with meal*
-    *Authorized snacks listed on internal card*
+    Recommended hydration: not less than 1L with meal
+    Authorized snacks listed on internal card
 
 “...Jesus.”
 
@@ -2021,7 +2021,7 @@ Xiù giggled and added the leaf to the pile of such gifts she’d accumulated ov
 
 Myun chittered again with a snort, but relented. “His best friend, Gorku. I’d feel sorta bad about it, but Leemu hit it off with Leela down at Ninja Taco so, well...I don’t. She’s even pickier than I am!” Myun let out a self-deprecating chitter. “I mean, all I really want is for someone to just *ask me on a date!* So gods-damned picky.”
 
-“Oh, *sure…” A sarcastic interjection heralded Allison’s return, with a tray of ice creams in one hand and Harrison on her hip. ”Your standards are the *lowest,* really...That’s quite a leaf and stick collection you’ve got there, *baobei.”*
+“Oh, *sure…”* A sarcastic interjection heralded Allison’s return, with a tray of ice creams in one hand and Harrison on her hip. ”Your standards are the *lowest,* really...That’s quite a leaf and stick collection you’ve got there, *baobei.”*
 
 “Cute, isn’t it?” Xiù agreed, accepting her ice cream as Allison sat down. “I think she’s getting her head around the whole ‘thank you’ thing, she said it back to me a little earlier.”
 
