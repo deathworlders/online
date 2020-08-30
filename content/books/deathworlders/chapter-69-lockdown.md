@@ -190,7 +190,7 @@ Oh, this was gonna be *fun.*
 ___
 
 **Date Point: 17y7m4d AV**    
-***Skytearer*** **-class dropship, upper atmosphere of planet ‘Mordor,’occupied Hunter space**
+***Skytearer*** **class dropship, upper atmosphere of planet ‘Mordor,’ occupied Hunter space**
 
 ***Father Liim of Clan Whitecrest***
 
@@ -694,7 +694,7 @@ The Human-prey on this end of the ship weren’t armed, and evidently not specia
 
 It wasn’t enough, of course. The Alpha *fed.* It had discovered that the Human-prey could take a huge amount of injury so long as it did not pierce their heart or brain, and it was gleefully tormenting its next meal when—
 
-*<Alert; Terse Warning>* +Human-Alphas are present.+
+*\<Alert; Terse Warning\>* +Human-Alphas are present.+
 
 The Alpha tore its fangs out of the prey and relocated across the deck as quickly as it could, uncaring of the damage its claws inflicted on the frivolous wood flooring. It had posted three Betas to hold the long corridor on the ship’s left side, but their report changed *everything.*
 
@@ -702,7 +702,7 @@ Sure enough, two of the heat signatures advancing up the deck behind the cover o
 
 Victory was no longer certain. Even without their armored carapaces and heavy weapons, no Hunter had yet faced a Human-Alpha in direct combat and prevailed.
 
-*<Instruction>* +Stall them. We shall open the rear compartment, seize the prey and withdraw.+
+*\<Instruction\>* +Stall them. We shall open the rear compartment, seize the prey and withdraw.+
 
 And destroy the prey-ship of course. The Alpha-of-Alphas would forgive such an act if doing so slew two of the precious, rare Human-Alphas.
 
@@ -973,7 +973,7 @@ ___
 
 ***Alpha of the Flensing-Brood***
 
-*<Satisfaction>*
+*\<Satisfaction\>*
 
 The attack had been a calculated gamble. Despite the Alpha-of-Alphas’ assurance that the Old Minds had achieved some kind of blow against the Humans, the Alpha had not quite believed it. It had enjoyed the hunt, and feasted well. A shame that there were no living slaves to provide entertainment, but only the foolhardy would take a Human alive.
 
@@ -985,7 +985,7 @@ And *that* opened so many delicious possibilities. Shipping lanes would now be u
 
 It would be a return to the good times, before the first Humans, before the Human-Alphas, and before the fur-faces remembered their claws. The feasting and looting would be *unopposed.*
 
-And the glory of proving just how open an opportunity they know had went to the Flensing-Brood. Their prestige would surely grow, their bellies would surely fill, and their brood-swarm would number in the hundreds once again.
+And the glory of proving just how open an opportunity they now had went to the Flensing-Brood. Their prestige would surely grow, their bellies would surely fill, and their brood-swarm would number in the hundreds once again.
 
 A shame to not have captured the *whole* ship. But the prize they *had* taken was more than sufficient. More Human meat to the maw today than in all the years before. And all for the loss of only five Betas.
 
@@ -993,7 +993,7 @@ This strange new Alpha-of-Alphas would prize the information gathered, more than
 
 Human-Alphas *out of their armor!* A prize so rare that even the Flensing-Alpha found it intriguing. The sight of them moving and fighting in little more than their bare skin was genuinely fascinating. Their skill, their speed, their *power,* their obvious superiority as predators, all of it provoked strange, almost alien feelings in the Alpha. It felt…
 
-*<Admiration>*
+*\<Admiration\>*
 
 The Alpha knew now what the Humans were. What *Deathworlders* were. It knew that the Flensing-Brood had not merely survived the hunt, but prevailed against an undeniably superior foe. *That* would do much to boost the Alpha’s standing amongst the Broods.
 
@@ -1001,7 +1001,7 @@ What a rewarding hunt!
 
 It watched the encounter between its previously strongest Beta and the larger of the two Human-Alphas. Economy of motion. Speed, *mass.* Such perfectly-utilized *strength!* The kill wasn’t merely laudable. It was…
 
-It was *beautiful.* For the first time in many cycles, the Alpha felt *<Awe>.*
+It was *beautiful.* For the first time in many cycles, the Alpha felt *\< Awe \>.*
 
 There was surely much useful data to be gleaned from the recordings, though the Flensing-Alpha did not know exactly what useful insights the Builders might glean from the footage. Nonetheless, the Hunters would benefit. Would learn.
 
@@ -1228,7 +1228,7 @@ For once, the Alpha-of-Alphas had to concede that the Eaters were seeking the se
 
 +The Humans did not even send ships to defend one of their own. The Prey are defenceless!+
 
-+That will not last.+ *< Greatest respect >* +We must feed. We must feast! This is an opportunity that cannot be wasted!+
++That will not last.+ *\< Greatest respect \>* +We must feed. We must feast! This is an opportunity that cannot be wasted!+
 
 It couldn’t find a solid objection to the idea. The Alpha-of-Alphas was not in the habit of acquiescing to the Eaters when they requested to Hunt. It did so sparingly, to show its favor, to reward those Broods that pleased it, and to secure resources or strike strategically. It was not accustomed to simply unleashing them and letting them feed according to their whim.
 
@@ -1238,7 +1238,7 @@ Perhaps their willful lust for meat *could* be turned to valuable ends. There we
 
 Not to mention an opportunity to reward the Eaters for complying with its will. Yes. Denying them now would only foment resentment. Indulging them, though, would strengthen their loyalty.
 
-*< Decree >* +Then we shall feast. You will be given targets. You will be permitted to draw your Brood-reserves from stasis. Go where you are directed, feast until your maws and bellies ache. And bring back as much meat and materiel as you can.+
+*\< Decree \>* +Then we shall feast. You will be given targets. You will be permitted to draw your Brood-reserves from stasis. Go where you are directed, feast until your maws and bellies ache. And bring back as much meat and materiel as you can.+
 
 For the first time since claiming its position, it *enjoyed* the joyous eagerness that shot through the minds around it. The bloodlust surged, so hot and strong that even the Builder’s more refined mind thrilled at it.
 
@@ -1668,7 +1668,7 @@ But on the other hand, the idea of being the one-eyed scoundrel captain of a sec
 
 “Enough to keep you out of Hoeff’s clutches, if that’s what you’re asking.”
 
-Ferd grunted, and stepped just a tiny bit closer to Regaari. He *liked* Hoeff and was protective of him, too.”
+Ferd grunted, and stepped just a tiny bit closer to Regaari. He *liked* Hoeff and was protective of him, too.
 
 “I mean no disrespect, Ferd Given-Man. Hoeff is not a trivial adversary!”
 
@@ -1717,7 +1717,7 @@ The research operation at Mrwrki basically had its own defense fleet, and arguab
 
 He could spot the difference just in the way they easily and smoothly matched *Vicious’* course and heading, accelerated neatly into a tetrahedral formation around the much larger destroyer, and sent the simplest and least professional hail he’d ever seen.
 
-*< :-) >*
+*\< :-) \>*
 
 Beside him, his XO, Williams, didn’t even bother to suppress his own distaste. “Gives me the fucking willies…” he muttered, for Boese’s ears only.
 
@@ -1825,7 +1825,7 @@ So in a way, there was nobody else it *could* have had this relationship with. A
 
 Well, the living *will* that was the Entity fit into her memories like a key in a liminal lock, and the more the key turned, the more both key and lock changed and took some of each other into themselves.
 
-In hindsight, such a development had been inevitable. And to halt it would be to destroy them both: a violation of *< Survive >.*
+In hindsight, such a development had been inevitable. And to halt it would be to destroy them both: a violation of *\< Survive \>.*
 
 *+We can’t.+*
 
