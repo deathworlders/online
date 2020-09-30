@@ -1950,7 +1950,7 @@ Dora could pull off sleight of hand tricks with forty foot, seventy-thousand-pou
 
 And the nice thing---the *really* nice thing---about big isotainers full of palletized stacks of dried soybeans in bags was, they all looked the same inside. So even though the House Henen security troopers *thought* they were thoroughly scanning the inside of each container, and for most part they were…
 
-But there was on particular container they’d scanned twice, and one they hadn’t scanned at all.
+…There was one particular container they’d scanned twice, and one they hadn’t scanned at all.
 
 Over on the station, Moj slipped out of his container and vanished amidst the port equipment.
 
