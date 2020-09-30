@@ -719,7 +719,7 @@ If Ian had thought to guess based on her…*anarchic* first impression, he would
 
 As it turned out, she was pretty good. But her taste in music, on the other hand...
 
-*♪“All the eyes on me in the center of the ring just like a circus! When I crack that whip, errybody gon' trip just like a circus...!”♫*
+*♪“All eyes on me in the center of the ring just like a circus! When I crack that whip, errybody gon' trip just like a circus...!”♫*
 
 Her Pride-festooned jacket, and the feathery antennae atop her head, were swaying back and forth as she bopped along in time to the song, keeping the beat with her left hand while the forward and right ones deftly manipulated the controls of a tug drone outside as it guided a shipping container into its place in the rack.
 
