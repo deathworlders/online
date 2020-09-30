@@ -735,7 +735,7 @@ There, the insectoid similarities ended. Unlike the chitinous Moj, Dora was scal
 
 “Hello, Dora.” Ian paused at the threshold of her little command blister. “Am I okay to come in?”
 
-“Sure, sure!” Dora turned her music down with a gesture, scratched the ridge above her mouth where a human would have had a nose, and then clearly decided that the drone didn’t need her full attention for the moment. “I gotta say, it is *so cool* to actually be on a crew with a Human! Like, part of the reason I love the Cimbrean run is ‘cuz I get to meet your people and stuff, but actually having one of you aboard is just—I’m babbling. Sorry.”
+“Sure, sure!” Dora turned her music off with a gesture, scratched the ridge above her mouth where a human would have had a nose, and then clearly decided that the drone didn’t need her full attention for the moment. “I gotta say, it is *so cool* to actually be on a crew with a Human! Like, part of the reason I love the Cimbrean run is ‘cuz I get to meet your people and stuff, but actually having one of you aboard is just—I’m babbling. Sorry.”
 
 Ian chuckled. “Let me guess. The others complain when you start getting enthusiastic?”
 
