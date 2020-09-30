@@ -98,7 +98,7 @@ He had a new life to meet.
 ___
 
 **Date Point: 17y7m3w AV**    
-**Light bulk freighter*** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
+**Light bulk freighter** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
 
 ***Bruuk, Clanless employed by Clan Whitecrest***
 
@@ -711,7 +711,7 @@ Daar had been right. He *really* fuckin’ hated it.
 ___
 
 **Date Point: 17y7m3w1d AV**    
-**Light bulk freighter*** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
+**Light bulk freighter** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
 
 ***Ian “Death-Eye” Wilde***
 
@@ -975,7 +975,7 @@ And losing was not an option.
 ___
 
 **Date Point: 17y7m3w3d AV**    
-**Light bulk freighter*** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
+**Light bulk freighter** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
 
 ***Bruuk***
 
@@ -1275,7 +1275,7 @@ And he *ran.*
 ___
 
 **Date Point: 17y8m1w AV**    
-****Light bulk freighter*** ***Krr’zkvik,*** **Interstellar space**
+**Light bulk freighter** ***Krr’zkvik,*** **Interstellar space**
 
 ***Ian “Death-Eye” Wilde***
 
@@ -1403,7 +1403,7 @@ She willed her heart to freeze again, and turned away to do her duty.
 ___
 
 **Date Point: 17y8m1w AV**    
-**Light bulk freighter*** ***Krr’zkvik,*** **Interstellar space**
+**Light bulk freighter** ***Krr’zkvik,*** **Interstellar space**
 
 ***Ian “Death-Eye” Wilde***
 
@@ -1481,7 +1481,7 @@ Having delayed enough, he changed, stretching as he did so. Truth was, he wasn�
 ___
 
 **Date Point: 17y8m1w2d AV**    
-**Starship** ***Avenging Rage,*** *approaching the Kwmbwrw Great Houses**
+**Starship** ***Avenging Rage,*** **approaching the Kwmbwrw Great Houses**
 
 ***Father Eku of Clan One-Fang***
 
@@ -1516,7 +1516,7 @@ With luck, the Kwmbwrw would never know they were there...
 ___
 
 **Date Point: 17y8m1w AV**    
-****Light bulk freighter*** ***Krr’zkvik,*** **Interstellar space**
+**Light bulk freighter** ***Krr’zkvik,*** **Interstellar space**
 
 ***Bruuk***
 
@@ -1697,7 +1697,7 @@ __
 **Date Point:17y8m1w AV**    
 **Kwmrwta-Wrtnwm, Erwn-Bwrw system, the Kwmbwrw Great Houses**
 
-***Rythweth****
+***Rythweth***
 
 The lifetime of paranoia was still keeping Ryth alive. Barely.
 
