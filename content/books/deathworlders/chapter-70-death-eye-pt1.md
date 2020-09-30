@@ -867,7 +867,7 @@ Morwk chortled and his eye returned to its resting orientation. “And we have h
 
 “I’d drink to that,” Ian agreed.
 
-“Excellent...incidentally, if you are willing, I could use some strong extra hands for some tasks, and yours are the strongest we have. I know you have your own responsibilities, but…”
+“Excellent...incidentally, if you are willing, I could use some strong extra hands for some tasks. I know you have your own responsibilities, but…”
 
 “Mate, I’d be glad to.”
 
