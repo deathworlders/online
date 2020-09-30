@@ -1013,7 +1013,7 @@ Bruuk duck-shrugged. “If ‘ya say so. All I know is, I was a goods vehicle op
 
 “Congratulations.”
 
-“Mmm.” Bruuk shook his head. It wasn’t a story to be congratulated on, but he’d started it. In for a claw, in for a paw. “...The most recent mother’s name was Meeki. She was an accountant, and a *good* one. She took one look at my finances and in seconds she told me how much I owed to the city and region for infrastructure, how expensive a workhouse I could afford to live in, how much I should give to the Females to seem generous but not extravagant, foolish or desparate…”
+“Mmm.” Bruuk shook his head. It wasn’t a story to be congratulated on, but he’d started it. In for a claw, in for a paw. “...The most recent mother’s name was Meeki. She was an accountant, and a *good* one. She took one look at my finances and in seconds she told me how much I owed to the city and region for infrastructure, how expensive a workhouse I could afford to live in, how much I should give to the Females to seem generous but not extravagant, foolish or desperate…”
 
 He turned his nose slightly Ian’s way and flicked an ear. “She was very *proud* of her cybernetics, you see.”
 
@@ -1068,7 +1068,7 @@ Ethnicity was a weird thing, for Gaoians. The differences between silverfurs, br
 
 Gao, though? *Their* ethnic groups were more like breeds. To Ian’s mind it felt more than a little bloody racist sometimes, but the fact was you *could* guess at a Gaoian’s general temperament from his fur colour. And Bruuk was a brownie, through and through. Give him something practical to do with his paws, and he’d not only pitch in, he’d thoroughly enjoy it.
 
-He *especially* loved the nailgun. But really, what boy wouldn’t?
+He *especially* loved the nailgun. But really, who wouldn’t?
 
 They were building a selection of plywood and MDF doors, walls, corners and targets to serve as an indoor firing range and basic assault course. Bruuk hadn’t got his head around the idea at first, but he’d twigged after a while, and even grown enthusiastic when Ian had explained he’d seen some Gaoians flow through the one at Sharman with times that beat the Human operators.
 
