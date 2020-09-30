@@ -717,13 +717,13 @@ ___
 
 If Ian had thought to guess based on her…*anarchic* first impression, he would have imagined that Dora would have a painful singing voice. *“Enthusiastic, but missing some of the notes”* would have been on-brand for her, from what he’d seen so far.
 
-As it turned out, she sounded *uncannily* like Alanis Morissette.
+As it turned out, she was pretty good. But her taste in music, on the other hand...
 
-*♪“Visiting hours are nine to five, and if I show up at ten past six, well I…already know that you'd find some way to sneak me in and ohh-oh...”♫*
+*♪“All the eyes on me in the center of the ring just like a circus! When I crack that whip, errybody gon' trip just like a circus...!”♫*
 
 Her Pride-festooned jacket, and the feathery antennae atop her head, were swaying back and forth as she bopped along in time to the song, keeping the beat with her left hand while the forward and right ones deftly manipulated the controls of a tug drone outside as it guided a shipping container into its place in the rack.
 
-Robalin were the only trilaterally symmetrical species that Ian knew of. The usual comparison was a vague “lizard-ant hybrid” but the reality defied such a simple summary. Dora had wide-set, large eyes set atop a broad leaf-shaped head that let  her see almost completely behind her, so she easily saw Ian coming and turned her head to wave with her left hand.
+Robalin were the only trilaterally symmetrical species that Ian knew of. The usual comparison was a vague “lizard-ant hybrid” but the reality defied such a simple summary. Dora had wide-set, large eyes set atop a broad leaf-shaped head that let  her see almost completely behind her, so she easily saw Ian coming and turned her head to wave with her left hand while one of the others turned the music down.
 
 A pair of fluffy antennae more like a moth’s than an ant’s sprouted behind her eyes, serving as olfactory organs and, from what Ian had read, they served a social function too in that the closest thing Robalin had to kissing involved lightly brushing their antennae together.
 
@@ -765,7 +765,7 @@ She shook her head and her antennae lashed irritably. “I definitely prefer the
 
 “Fair enough.” Ian agreed. “So what else should I know about you?”
 
-Dora hesitated. “...Ooh, that’s a question. Umm…I love alternative rock music, Japanese food and Human military history. I collect---well, you can see what  I collect, I’m wearing them. Uhm...Oh! I do magic tricks!”
+Dora hesitated. “...Ooh, that’s a question. Umm…I love Japanese food and Human military history. I collect---well, you can see what  I collect, I’m wearing them. Uhm...Oh! I do magic tricks!”
 
 “Yeah? What kind?”
 
@@ -775,7 +775,7 @@ Dora hesitated. “...Ooh, that’s a question. Umm…I love alternative rock mu
 
 “Yeah-huh! I even invented a routine that’s physically impossible for bibrachial species!” Dora wriggled proudly. “And, well, you probably heard me singing...”
 
-“That I did. Good impression!”
+“That I did. Not bad.”
 
 “Thanks! Anyway. Your turn.”
 
