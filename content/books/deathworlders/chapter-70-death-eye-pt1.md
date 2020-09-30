@@ -1534,7 +1534,7 @@ It turned out Wild hadn’t been lazy, either; even for a Human he was an extrem
 
 Wild used his strength to *move.* Just by watching him practice assault runs, Bruuk could see that *moving* was the key to it all. And while the Human was laughably slow at a dead run, in close-quarters assault he was quick as could be, and a genuine struggle to keep up with.
 
-Watching him challenge the course in slow motion, Bruuk was struck by a challenge to his expectations, too. He would have expected somebody so quick and deft to be elegant in their movement, but WIld’s particular brand of elegance was...robotic. Like the punchy precision of an automated assembly line, each movement was a straight line, each turn direct, each motion spare and minimal. When he reloaded, he had the replacement magazine in his hand before the empty one had even hit the deck. When he swapped weapons, one went down and the other came up in the same motion.
+Watching him challenge the course in slow motion, Bruuk was struck by a challenge to his expectations, too. He would have expected somebody so quick and deft to be elegant in their movement, but Wild’s particular brand of elegance was...robotic. Like the punchy precision of an automated assembly line, each movement was a straight line, each turn direct, each motion spare and minimal. When he reloaded, he had the replacement magazine in his hand before the empty one had even hit the deck. When he swapped weapons, one went down and the other came up in the same motion.
 
 Nothing wasted. Not even fractions of seconds.
 
