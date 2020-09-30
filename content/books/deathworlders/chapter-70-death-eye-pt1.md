@@ -1578,7 +1578,7 @@ But Bruuk wasn’t any pushover, eiither. He was strong as *balls* and *way* mor
 
 Once he figured out how to use his advantages, Bruuk started to come out on top. Especially when he started ruthlessly exploiting his greater weight and Wild’s blind eye. By the end of the trip, in fact, Bruuk’s winning streak was growing wider every day. He’d rather have earned his victories with skill instead of sheer brawn, but, well…
 
-...Outmuscling a Human was *good* for the ego, especially a big one like Wild. And Wild was...not what Bruuk was expecting. Other brownies often tried to downplay the loss when Bruuk put them in their place, with an “I’ll getcha next time” or something similarly jockular and face-saving. Wild? He just laughed, congratulated him, and went for another round.
+...Outmuscling a Human was *good* for the ego, especially a big one like Wild. And Wild was...not what Bruuk was expecting. Other brownies often tried to downplay the loss when Bruuk put them in their place, with an “I’ll getcha next time” or something similarly jocular and face-saving. Wild? He just laughed, congratulated him, and went for another round.
 
 Still: despite all Bruuk’s advantages, Wild was dangerous. He’d usually end up winning by the end, just through his sheer endless stamina. That a Human could beat even a well-conditioned brownie’s endurance turned out to be completely true. Just one more thing to get better at.
 
@@ -1608,9 +1608,7 @@ And it made for an excellent opportunity to get a cold dip in, too. Bruuk wasn�
 
 Sure enough, by the time they reached the bridge, their fearsome Human “heavy” was pressed up against the forward windows, peering up and out at the immense structures crawling past them on all sides with immature wonder.
 
-All cynicism aside, Bruuk had to allow that Kwmrwta-Wrtnwm *would* be pretty impressive for anyone whose idea of a big space structure was Armstrong Station. While the station in Cimbrean billed itself as the “gateway to the galaxy,” the fact was it was a perfectly standard out-of-the-box Dominion trade station, designed to form the anchor for generations of future expansion.
-
-The Humans had made after-market modifications, adding redundant safety systems out of a luddite mistrust of the well-tested technologies that kept the Dominion running, but if one ignored those, it was just about the same as every other station in the civilized stars.
+All cynicism aside, Bruuk had to allow that Kwmrwta-Wrtnwm *would* be pretty impressive for anyone whose idea of a big space structure was Armstrong Station. While the station in Cimbrean billed itself as the “gateway to the galaxy,” the fact was it was a perfectly standard out-of-the-box Dominion trade station, designed to form the anchor for generations of future expansion. The Humans had made after-market modifications, adding redundant safety systems out of a luddite mistrust of the well-tested technologies that kept the Dominion running, but if one ignored those, it was just about the same as every other station in the civilized stars.
 
 Kwmrwta-Wrtnwm was different.
 
@@ -1893,7 +1891,7 @@ It took a fair bit of smiling and negotiation to convince the (plainly terrified
 
 They were some good fucking noodles, too. A bit like miso soba soup with ginger. Maybe slurping them up inexpertly with an alien eating utensil undermined the fearsome death mask visage a bit, but that had been for the House goons’ benefit, not the general public’s. And slurping was universal language for tasty and appreciated.
 
-More specific to Gaoians was their tongue licking every part of their own face, which Bruuk did while his tail beat out a steady metallic beat on the bin next to him.
+More specific to Gaoians was their tongue licking every part of their own face, which Bruuk did while his tail hammered out a steady metallic beat on the bin next to him.
 
 They left a generous tip, and kept on walking. Well, Ian walked. Bruuk, on the other hand...
 
