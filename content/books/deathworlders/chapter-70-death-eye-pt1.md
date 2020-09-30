@@ -857,7 +857,7 @@ He drove home his second holding screw and stepped back. “And I have to admit.
 
 “Where I’m from, nowadays, in theory, we’re trying for neither.”
 
-Morwk’s eye did something a human eye could never do: it rotated slightly in its socket, through a full ninety degrees so that his slit pupil went from horizontal to vertical. Ian had no idea what kind of an expression that was or what it meant, but it was a freakishly *alien* bit of physiology.
+Morwk’s eye did something a human eye could never do: it rotated in its socket, through a full ninety degrees so that his slit pupil went from horizontal to vertical. Ian had no idea what kind of an expression that was or what it meant, but it was a freakishly *alien* bit of physiology.
 
 “You used a great many qualifiers in that statement,” the engineer said, outwardly.
 
