@@ -813,7 +813,7 @@ Her contribution, she explained as she worked, was the little touches. Planning 
 
 Ian had to admit, his first impression had been wrong. Dora might come across as bubbly and ditzy, but she had *focus* when it came to doing her job.
 
-After a few minutes of watching, he decided he’d seen enough and the best thing was to leave her to it. They traded see-you-laters, and he slipped out of her control blister to continue his exploration.
+After a few minutes of watching, he decided he’d seen enough and the best thing was to leave her to it. They traded see-you-laters, and he slipped out of her control blister to continue his exploration. He grinned when, behind him, he heard the deafening pop music resume.
 
 He found Morwk elbows deep in the wall near the crew quarters, an impressive feat for a Kwmbwrw: Morwk's arms were longer than Ian was tall. He had a wheeled tool cart next to him, with an assortment of gizmos neatly laid out atop it and ready to use.
 
