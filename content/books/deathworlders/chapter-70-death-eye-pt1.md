@@ -1409,7 +1409,7 @@ ___
 
 “How is he so *bad* with Females?! He had a chance with...whatshername?”
 
-“Dana, player by Sigourney Weaver.”
+“Dana, played by Sigourney Weaver.”
 
 “She’s so *pretty* and she even smiled at him! How could he *blow* it so hard?!”
 
