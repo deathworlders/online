@@ -188,7 +188,7 @@ It only lasted a few seconds before being interrupted by a heavy **Clonk** that 
 
 “He’s here!”
 
-The rest of the crew stood too, with varying degrees of enthusiasm of speed. Bruuk was last up, and second to the door after Dora. He tried to remind himself to be positive and friendly. After all, he’d got used to Urgug’s musty carpet smell and Trrrk’k’s smoking habit in time. Maybe this Wild wouldn’t be so bad.
+The rest of the crew stood too, with varying degrees of enthusiasm of speed. Bruuk was last up, and second to the door after Dora. He tried to remind himself to be positive and friendly. After all, he’d got used to Urgug’s musty carpet smell and Trrrk’k’s smoking habit in time. Maybe this Wilde wouldn’t be so bad.
 
 The only thing to do was to meet the new guy and find out.
 ___
@@ -360,27 +360,27 @@ ___
 
 ***Bruuk, Clanless employed by Clan Whitecrest***
 
-Wild stank, all right, though he weren’t nearly as bad as Bruuk had feared. Mostly he smelled of exercise and testosterone, which were good, *honest* scents a brownie like Bruuk could approve of. He also reeked of uncertainty...though maybe that weren't exactly what Bruuk was smelling. He knew that Humans smelled *almost* familiar, but not completely so, and that a gao should be careful not to assume anything because of that.
+Wilde stank, all right, though he weren’t nearly as bad as Bruuk had feared. Mostly he smelled of exercise and testosterone, which were good, *honest* scents a brownie like Bruuk could approve of. He also reeked of uncertainty...though maybe that weren't exactly what Bruuk was smelling. He knew that Humans smelled *almost* familiar, but not completely so, and that a gao should be careful not to assume anything because of that.
 
 If that was as bad as it ever got, Bruuk could live with that. Balls, it weren’t as if he smelled like sweet-herb and summergrass all the time, either.
 
-Wild’s arrival *did* mean larger meal prep and food supply concerns. In fact he’d be eating about as big as Bruuk probably, which meant the two of them together would be eating more than the rest of the crew combined...and that was assuming they remained sedentary. Bruuk was fond of his weights like any good brownfur, so *that* weren’t fuckin’ happening, and he doubted Wild was keen on sleeping the journey away, either. Bruuk had laid in enough stores to pack to their pantry full from corner to corner, and secreted as much away in auxiliary storage as he could reasonably fit. Hopefully, it would be enough.
+Wild’s arrival *did* mean larger meal prep and food supply concerns. In fact he’d be eating about as big as Bruuk probably, which meant the two of them together would be eating more than the rest of the crew combined...and that was assuming they remained sedentary. Bruuk was fond of his weights like any good brownfur, so *that* weren’t fuckin’ happening, and he doubted Wilde was keen on sleeping the journey away, either. Bruuk had laid in enough stores to pack to their pantry full from corner to corner, and secreted as much away in auxiliary storage as he could reasonably fit. Hopefully, it would be enough.
 
 His leisure time was going to shrink dramatically, he could tell.
 
 Bruuk prided himself on cooking good, hearty meals that any species could enjoy. In Wild’s case, he’d asked Urgug to order appropriate supplements for an athletic Human. That was probably unnecessary given that most of his ingredients were Earthling species---Cimbrean was a dominant agricultural exporter precisely because Human crops were so rich and nutritious---but Bruuk didn’t know for sure, and in any case he wasn’t keen on sharing his own protein power and such. On a multi-species crew, little details like that were *important.*
 
-Mercifully, when mealtime came around, Wild had showered and changed into clean clothes. He used an unperfumed laundry detergent, but his body wash was heavy with a woody, slightly spicy fragrance that clashed with the aroma of the day’s dish, and Bruuk just *knew* it was going to linger in the ablutions facility.
+Mercifully, when mealtime came around, Wilde had showered and changed into clean clothes. He used an unperfumed laundry detergent, but his body wash was heavy with a woody, slightly spicy fragrance that clashed with the aroma of the day’s dish, and Bruuk just *knew* it was going to linger in the ablutions facility.
 
 Still. It wasn’t an unpleasant scent in isolation...
 
-Wild was first to arrive. He took an appreciative sniff as he entered, smiled, and helped himself to a cup of water from the pitcher in the middle of the table.
+Wilde was first to arrive. He took an appreciative sniff as he entered, smiled, and helped himself to a cup of water from the pitcher in the middle of the table.
 
 “That smells excellent,” he commented, in surprisingly fluent Gaori.
 
 “And I thought Humans had no sense of smell,” Bruuk replied, happy to wrap his tongue around more comfortable words.
 
-Wild took the jab affably as he considered the mismatched assortment of seats intended for wildly different anatomies around the table, and quickly identified that the new and shiny one was appropriately proportioned for a human. He sat down and sipped his water. “Not as good as a Gaoian’s, that’s true. Skipper tells me yours is especially good.”
+Wilde took the jab affably as he considered the mismatched assortment of seats intended for wildly different anatomies around the table, and quickly identified that the new and shiny one was appropriately proportioned for a human. He sat down and sipped his water. “Not as good as a Gaoian’s, that’s true. Skipper tells me yours is especially good.”
 
 Bruuk preened a bit, “Finest in the galaxy!”
 
@@ -394,7 +394,7 @@ Bruuk scowled at him for a second, then abandoned his cooking for a moment, stee
 
 “Told you.” Bruuk allowed himself a certain satisfied swagger as he returned to his kitchen. “Yesterday and today, you had poached eggs and bacon. And some *really* low-quality meat fried in grease shortly before you came aboard. And---”
 
-“Alright, alright!” Wild laughed. “You know, I never get over just how long those scents linger.”
+“Alright, alright!” Wilde laughed. “You know, I never get over just how long those scents linger.”
 
 “I have to get good and close and concentrate to pick up on old ones like that. But yeah. Humans tend to…*dominate* the nasal landscape. Though not as much as whoever that was you were hanging out with a few hours ago. *They* certainly don’t smell human…”
 
@@ -402,7 +402,7 @@ Bruuk scowled at him for a second, then abandoned his cooking for a moment, stee
 
 “I think I may need to wear a mask if I ever meet one in person.”
 
-“Yeah. Even to me, he’s a noseful.” Wild chuckled. “I---”
+“Yeah. Even to me, he’s a noseful.” Wilde chuckled. “I---”
 
 He was interrupted by the door, which opened to admit Moj. The pilot greeted the room with a *wai,* then stalked over to his seat and settled gracefully on it. “How did you find your quarters, Human?”
 
@@ -414,9 +414,9 @@ Moj made a clicking sound that, in his people, blended the functions of a nod an
 
 Moj tilted his head thoughtfully. Apparently his language didn’t include an equivalent word, because the translator on the side of his head took a while to finish, “...Interesting concept. Yes. Probably.” He folded his hands in his lap and bowed his head. “Excuse me.”
 
-Wild watched him for a second, then shot a curious glance at Bruuk. Bruuk just duck-shrugged. Moj was, from what he’d told Bruuk, considered irrevocably insane by his species’ standards, not that Bruuk had ever noticed. Okay, so he spent an inordinate amount of time *“Resonating with the Higher”* as he called it, but whatever Resonating involved, it mostly seemed to consist of being still and quiet and mindful of the present moment.
+Wilde watched him for a second, then shot a curious glance at Bruuk. Bruuk just duck-shrugged. Moj was, from what he’d told Bruuk, considered irrevocably insane by his species’ standards, not that Bruuk had ever noticed. Okay, so he spent an inordinate amount of time *“Resonating with the Higher”* as he called it, but whatever Resonating involved, it mostly seemed to consist of being still and quiet and mindful of the present moment.
 
-Curiously, Wild bowed his head and went quiet too. Maybe he and the Mjrn had something in common after all.
+Curiously, Wilde bowed his head and went quiet too. Maybe he and the Mjrn had something in common after all.
 
 Most of the rest of the crew arrived together. Dora and Urgug were, of course, as talkative as ever and their mutual disgust with some comms operator over on the station was ongoing it seemed. Apparently one of the Humans over there had, in Dora’s words, *“a pole up his ass.”* Morwk gave Bruuk a resigned look, sighed, and moved to sit opposite Wild, who looked up and gave him a nod and a smile.
 
@@ -424,13 +424,13 @@ Bruuk couldn’t fault the Human’s willingness to get along, at least.
 
 Dora, of course, promptly dragged her stool over with a squeal to sit next to Wild, antennae waving excitedly. “So what do you think of the ship?!”
 
-“I, uh… Well, I haven’t really had a chance to look around, yet,” Wild replied.
+“I, uh… Well, I haven’t really had a chance to look around, yet,” Wilde replied.
 
 “I could show you! Well, except I’m super busy taking on cargo right now so maybe this isn’t the best time so, yeah, maybe you’re right. But you should totally come see what I do while I’m still doing it!”
 
-Bruuk forced back a fond chitter, willed his ears into a more neutral position when Wild glanced at him, and carried on serving his food.
+Bruuk forced back a fond chitter, willed his ears into a more neutral position when Wilde glanced at him, and carried on serving his food.
 
-“Well, I plan on getting to know everyone, of course,” Wild replied.
+“Well, I plan on getting to know everyone, of course,” Wilde replied.
 
 “No time like now!”
 
@@ -448,7 +448,7 @@ Bruuk forced back a fond chitter, willed his ears into a more neutral position w
 
 Dora hesitated. “...Ooh, yeah. Good point! You were a soldier, right?”
 
-“A Royal Marine and JETS operator,” Wild confirmed. He reached up and tapped beside his eye. “Until this happened, anyway.”
+“A Royal Marine and JETS operator,” Wilde confirmed. He reached up and tapped beside his eye. “Until this happened, anyway.”
 
 “You certainly went with an obvious prosthetic,” Morwk commented. Bruuk duck-nodded, unconsciously. Wild’s right eye was glossy black with a misshapen white patch on the front for a pupil. As synthetic replacements went, it was unmissable.
 
@@ -460,7 +460,7 @@ Dora hesitated. “...Ooh, yeah. Good point! You were a soldier, right?”
 
 “...Is that a human skull on the front?” Dora had leaned in to get an even closer look.
 
-“Sure is. My Ten’Gewek friend’s idea.” Wild chuckled. “Started calling me *‘Death-Eye’* too. And, that was the end of one career.”
+“Sure is. My Ten’Gewek friend’s idea.” Wilde chuckled. “Started calling me *‘Death-Eye’* too. And, that was the end of one career.”
 
 “You said you met the Great Father of the Gao, too,” Trrrk’k recalled, changing the subject away from such medical matters. Bruuk stiffened, listening intently as he carried the first plates over and set them down.
 
@@ -468,23 +468,23 @@ Dora hesitated. “...Ooh, yeah. Good point! You were a soldier, right?”
 
 “I do. I was from Yuy Geng originally,” Bruuk told him, delivering the second set of plates to the table. “Until the Great Father destroyed it.”
 
-“That he did, yeah.” Wild hesitated, then cleared his throat. “...Anyway, by cosmic weird luck, I ended up at a farmstead that turned out to be the launch point to reclaim the Three Valleys. One of the SOR’s senior NCOs took charge of keeping us alive, I worked with her until Daar and his army turned up and...well, between Kovač and Daar, I saw a good direction for my career to move in. And it *was* a good direction, up until…”
+“That he did, yeah.” Wilde hesitated, then cleared his throat. “...Anyway, by cosmic weird luck, I ended up at a farmstead that turned out to be the launch point to reclaim the Three Valleys. One of the SOR’s senior NCOs took charge of keeping us alive, I worked with her until Daar and his army turned up and...well, between Kovač and Daar, I saw a good direction for my career to move in. And it *was* a good direction, up until…”
 
 He trailed off, and brushed his fingers across his right cheek with a wry expression. “Well, we can’t all be superheroes, I guess.”
 
 “Would you consider yourself a typical Human, then?” Dora asked. “You sound like you’ve lived a pretty heroic life so far!”
 
-“That’s a tricky word. I’ve not had a typical life, no. I’m bloody fit and strong, but I’m no superman. And reasonably smart, but not a genius. I suppose I’d need to concede that I’m stubborn as a bloody mule, though, which counts for a lot...” Wild gave Dora a shrug. *“Definitely* wouldn’t call myself a hero, though. Wouldn’t...feel right.”
+“That’s a tricky word. I’ve not had a typical life, no. I’m bloody fit and strong, but I’m no superman. And reasonably smart, but not a genius. I suppose I’d need to concede that I’m stubborn as a bloody mule, though, which counts for a lot...” Wilde gave Dora a shrug. *“Definitely* wouldn’t call myself a hero, though. Wouldn’t...feel right.”
 
 “I don’t think I could *stand* having a shipmate who thought of himself as a hero,” Bruuk opined, sitting down with the last two plates. “Anyway. Eat, before it cools.”
 
-“I don’t know anyone who thinks of themselves like that, now that you mention it. Which...I dunno. Ferd’s a hero as far as I’m concerned. My whole team owes him their lives. So is Tooko. I owe him my life several times over.” For a moment, Wild looked distant, but it passed, he hooked his plate over and brightened at its contents. “Tell you what though, the food already looks better in this line of work!”
+“I don’t know anyone who thinks of themselves like that, now that you mention it. Which...I dunno. Ferd’s a hero as far as I’m concerned. My whole team owes him their lives. So is Tooko. I owe him my life several times over.” For a moment, Wilde looked distant, but it passed, he hooked his plate over and brightened at its contents. “Tell you what though, the food already looks better in this line of work!”
 
 Bruuk handed over a vitamin bottle. “I hope so. Just in case, I ordered these for you. There’s more too, I’ll bring them to you later on.”
 
 “Cheers. Uh...Before we eat, there’s a human tradition called a *‘toast’* if I may?”
 
-Mostly there were intrigued reactions along the lines of *‘go ahead’* from the crew, except for Dora who clearly knew what was involved as she started to fill cups of water and hand them out. Once they were distributed, Wild picked his up, stood, and raised it slightly in the air in front of him.
+Mostly there were intrigued reactions along the lines of *‘go ahead’* from the crew, except for Dora who clearly knew what was involved as she started to fill cups of water and hand them out. Once they were distributed, Wilde picked his up, stood, and raised it slightly in the air in front of him.
 
 “...To new friends,” he said, and lifted the drink a little higher. The rest of the crew followed Dora’s example in raising theirs too, and then drinking.
 
@@ -493,15 +493,15 @@ ___
 
 ***Shipmaster Trrrk’k***
 
-By long-standing tradition, the rest of the crew cleaned and put away after dinnertime. Dora spent most of the time eagerly showing Wild where all the utensils should go, but that was acceptable. Somebody needed to. And in fact, with his contribution, the work went faster than ever.
+By long-standing tradition, the rest of the crew cleaned and put away after dinnertime. Dora spent most of the time eagerly showing Wilde where all the utensils should go, but that was acceptable. Somebody needed to. And in fact, with his contribution, the work went faster than ever.
 
 Afterwards would normally have been recreation and social time, but today was a little different. They had a job for the Clan.
 
-So, when Trrrk’k mentioned it, Urgug, Morwk and Dora nodded and slipped away, leaving the rest of them to talk business. Wild watched them go, then turned a raised eyebrow toward Bruuk, who gestured for him to sit down as Trrrk’k retrieved one of the Clan’s little toys, a privacy field generator, from his pocket and set it in the middle of the table.
+So, when Trrrk’k mentioned it, Urgug, Morwk and Dora nodded and slipped away, leaving the rest of them to talk business. Wilde watched them go, then turned a raised eyebrow toward Bruuk, who gestured for him to sit down as Trrrk’k retrieved one of the Clan’s little toys, a privacy field generator, from his pocket and set it in the middle of the table.
 
 Moments later, they were secure in the fuzzy silver dome of a privacy field. The other three knew the ship did business with the Clan: for the most part, they preferred not to be directly involved, and Trrrk’k preferred it that way himself.
 
-He considered Wild for a second as the Human sat and looked at him expectantly. Alert but patient. Attentive. Good. He’d expected nothing less, but it was good to see.
+He considered Wilde for a second as the Human sat and looked at him expectantly. Alert but patient. Attentive. Good. He’d expected nothing less, but it was good to see.
 
 “We are going to the capitol system of the Kwmbwrw great houses,” Trrrk’k revealed. “Specifically, Kwmrwta-Wrtnwm, one of that system’s biggest and busiest stations, owned by House Henen. The Clan’s “friend” aboard that station has missed several scheduled reports.”
 
@@ -513,7 +513,7 @@ Moj made a prolonged, low-grade buzzing sound, like a quiet bass cicada. “Hous
 
 “Determine why.”
 
-“Extracting a captured spy from under the nose of one of the most powerful factions of an influential Dominion species...Feel like I’m jumping in at the deep end,” Wild chuckled.
+“Extracting a captured spy from under the nose of one of the most powerful factions of an influential Dominion species...Feel like I’m jumping in at the deep end,” Wilde chuckled.
 
 “I was assured that it is entirely within your abilities,” Trrrk’k told him.
 
@@ -535,7 +535,7 @@ Bruuk grumbled, and indicated himself and the Mjrnhrm. “Us.”
 
 “And *that* would be why they kicked him off their planet,” Bruuk added.
 
-Wild raised his eyebrows at Moj. “They exiled you?”
+Wilde raised his eyebrows at Moj. “They exiled you?”
 
 “Sanded off my family markings and etchings. Gave me the name of an outcast…” Moj buzzed that same contented buzz again. “Called me insane, too. Shame, really. Fly charter shuttles without incident for twelve years, prevent a crash that would have killed dozens, nobody remembers. But rob *one* bank…”
 
@@ -547,9 +547,9 @@ Moj’s buzzing sound was mock-aggrieved now. “Always you spoil my fun,” he 
 
 “There is not much more to focus on,” Trrrk’k told him. “Wild, Bruuk, I think it best if you remain on the ship while Moj and I investigate the Clan’s friend. The Kwmbwrw are not hospitable to deathworlders.”
 
-“Fair,” Wild nodded affably. “The longer we get to train together, the better.”
+“Fair,” Wilde nodded affably. “The longer we get to train together, the better.”
 
-“...Training?” Bruuk looked mildly offended, which left Wild unmoved.
+“...Training?” Bruuk looked mildly offended, which left Wilde unmoved.
 
 “Did you serve in the Grand Army?”
 
@@ -559,7 +559,7 @@ Moj’s buzzing sound was mock-aggrieved now. “Always you spoil my fun,” he 
 
 Bruuk straightened his spine proudly. “My workhouse taught me how to fight.”
 
-Wild nodded. “Nice. I’ll enjoy seeing that training in action.” He looked to Moj. “What about you?”
+Wilde nodded. “Nice. I’ll enjoy seeing that training in action.” He looked to Moj. “What about you?”
 
 Moj shrugged. “Always new tricks to learn. You say train, we train. Tonight, maybe? Interesting to see what training with a Human is like...”
 
@@ -567,11 +567,11 @@ Moj shrugged. “Always new tricks to learn. You say train, we train. Tonight, m
 
 Trrrk’k nodded slowly. “Yes, we should. Moj, Bruuk, thank you both for staying. I will not take up any more of your time.”
 
-As the pilot and medic stood and left, Trrrk’k considered his new crew member for a second. He knew that Wild had led a team before, but the way he took Bruuk in stride was particularly gratifying. Trrrk’k himself had struggled with their Gaoian at first.
+As the pilot and medic stood and left, Trrrk’k considered his new crew member for a second. He knew that Wilde had led a team before, but the way he took Bruuk in stride was particularly gratifying. Trrrk’k himself had struggled with their Gaoian at first.
 
 “I should warn you about Mjrnhrm humor,” he explained.
 
-Wild looked interested. “What about it?”
+Wilde looked interested. “What about it?”
 
 “The cornerstone of a good Mjrnhrm joke is an outrageous lie,” Trrrk’k explained. “The only thing they find funnier than tricking somebody into believing something incredible, is being accused of a lie they have not in fact committed. And Moj, I believe, is by their standards something of a comedian.”
 
@@ -579,7 +579,7 @@ Wild looked interested. “What about it?”
 
 “An exercise in futility, I think. In any case, you mentioned needing to bring some things aboard?”
 
-“Yeah.” Wild fished in his pocket for a small device. “Just a little shopping list, the Clan should hopefully cover the bill…”
+“Yeah.” Wilde fished in his pocket for a small device. “Just a little shopping list, the Clan should hopefully cover the bill…”
 
 Trrrk’k nodded, and listened as he explained. It wasn’t a long list.
 
@@ -981,13 +981,13 @@ ___
 
 The delay to bring aboard several large pallets loaded with boxes, crates and construction materials had put Urgug in a resentful mood, as evidenced by the slow ripples of color sweeping across his body under the fur. He *loathed* delays. Days spent in port were days spent paying the crew but not earning the money to pay them.
 
-Still, the shipmaster had granted Wild time to bring aboard furniture for his quarters, plus other materials for a *“project”* in one of the *Krr’zkvik’s* unused storage bays.
+Still, the shipmaster had granted Wilde time to bring aboard furniture for his quarters, plus other materials for a *“project”* in one of the *Krr’zkvik’s* unused storage bays.
 
 The ship wasn’t old, but the original design *was* obsolete. Irbzrk Shipyards had been a prodigious producer of fully pressurized cargo ships, most of the hull being a honeycomb of individual bays, accessed, managed and loaded via the freighter’s long, hollow spine. It hadn’t been an inefficient system at all, and for certain kinds of cargo it had even been the better system. Shipping containers capable of protecting their contents from vacuum were far more expensive than just adding yet another large pressurized space to a ship already made out of large pressurized spaces.
 
 Still, that obstacle too had faded with time and manufacturing. When the *Krr’skvik* had been retrofitted to accept containers on external racks, a half-dozen or so of her internal holds had been left behind, the ones installed within the ship’s main body rather than in the “trailer.” They mostly went unused. Urgug and Morwk had kept a few spare parts and supplies in there, but nothing that couldn’t be consolidated.
 
-Now, it seemed, the shipmaster had given one of them to Wild for him to breathe new life and utility into. Bruuk had no idea what the one-eyed Human intended to *do* with that space, but it apparently involved several large sheets and boards of cheap pressed wood fiber (one of the ways Humans were really alien, that; no Gaoian carpenter would *ever* insult wood that way), plus nails, screws, glue and paint..
+Now, it seemed, the shipmaster had given one of them to Wilde for him to breathe new life and utility into. Bruuk had no idea what the one-eyed Human intended to *do* with that space, but it apparently involved several large sheets and boards of cheap pressed wood fiber (one of the ways Humans were really alien, that; no Gaoian carpenter would *ever* insult wood that way), plus nails, screws, glue and paint..
 
 Once it was all aboard, however, there had been no reason for further delay. Whatever business Wild, the shipmaster and the Clan had with a ton of cheap construction material, it was now secondary to the business of getting their ship moving, their cargo of dry corn delivered and the Clan’s friend rescued or avenged.
 
@@ -1001,7 +1001,7 @@ Bruuk flicked his ear at Wild’s question, then duck-shrugged. “Don’t reall
 
 Bruuk cheered slightly from the compliment, but kept his answer carefully neutral. “They’re just a Clan. The only thing interesting about them is their mandate and focus. For me, this is just a job. Same goes for Morwk and Urgug, and the Shipmaster never really discusses himself. Moj and Dora are the ‘interesting’ ones.”
 
-Wild leaned casually against the wall and watched Moj apply enough reverse thrust to push them loose from Armstrong. With puffs of gas and clouds of little water crystals, the docking umbilicals separated and drifted free in the vacuum before slowly crawling back into their stowed positions.
+Wilde leaned casually against the wall and watched Moj apply enough reverse thrust to push them loose from Armstrong. With puffs of gas and clouds of little water crystals, the docking umbilicals separated and drifted free in the vacuum before slowly crawling back into their stowed positions.
 
 “Just a Clan? No offense mate, but *bullshit.* In my experience, anyone connected to Whitecrest is *never* boring. They don’t *like* boring people.”
 
@@ -1021,7 +1021,7 @@ Wild’s expression twisted a little. He didn’t say anything though, just list
 
 “So that was how the war began for me. Three hours outside of Yuy Geng, I got a message from the Commune congratulating me on siring a healthy little male and asking if I wanted to suggest a name. Shortly after *that,* I was fighting for my life against a biodrone.” Bruuk looked out the window as Armstrong rolled and turned away from them. “...that cub was probably torn apart by his own mother. The other two...wouldn’t have left the Commune yet.”
 
-Wild clearly had no idea what to say.
+Wilde clearly had no idea what to say.
 
 “...Fuck, mate—”
 
@@ -1045,15 +1045,15 @@ Trrrk’k nodded. “Go to warp, helm.”
 
 Outside the bridge’s portside window, the planet Cimbrean-V and the small crawling lights of traffic around Armstrong immediately vanished. There was no blur of acceleration, no sense of them lurching away. The ship achieved a thousand times the speed of light in less than a second, *far* too sharp an acceleration for anything biological to react to.
 
-Wild grunted slightly. “...Y’know, I’ve travelled FTL before, but I never actually got to look out a window,” he said. “It’s a bit anticlimactic, isn’t it?”
+Wilde grunted slightly. “...Y’know, I’ve travelled FTL before, but I never actually got to look out a window,” he said. “It’s a bit anticlimactic, isn’t it?”
 
 “One *does* feel as though the occasion deserves a swirl of lights or a visible distortion or something,” Urgug agreed. “Alas, reality is often boring.”
 
-“Yeah, but our Gaoian isn’t.” Wild reached out and gave Bruuk a hefty, aggressively friendly clap on the shoulder. “Tell you what. Why don’t you come have a look at what I’m building down in Hold Four? I think you’ll enjoy it. More interesting than watching the sky do nothing, at least.”
+“Yeah, but our Gaoian isn’t.” Wilde reached out and gave Bruuk a hefty, aggressively friendly clap on the shoulder. “Tell you what. Why don’t you come have a look at what I’m building down in Hold Four? I think you’ll enjoy it. More interesting than watching the sky do nothing, at least.”
 
-Bruuk tried not to sigh. Wild reminded him of some of his workhouse-mates back on Gao. Perpetually eager to Make Friends, or to get up and Do. His energy was more…*mature* than theirs, but still fundamentally the same.  For a moment he considered turning the offer down to see if he got the same disappointed cub reaction, or maybe a small friendly tussle until he yielded…
+Bruuk tried not to sigh. Wilde reminded him of some of his workhouse-mates back on Gao. Perpetually eager to Make Friends, or to get up and Do. His energy was more…*mature* than theirs, but still fundamentally the same.  For a moment he considered turning the offer down to see if he got the same disappointed cub reaction, or maybe a small friendly tussle until he yielded…
 
-But no. He could tell just by sniffing that Wild would simply shrug and affably leave him alone. And besides, the Human was right: space travel was *dull* unless one had something to do, which right now Bruuk did not.
+But no. He could tell just by sniffing that Wilde would simply shrug and affably leave him alone. And besides, the Human was right: space travel was *dull* unless one had something to do, which right now Bruuk did not.
 
 “Why not?” he agreed. Maybe his new crewmate wasn’t so bad after all.
 
@@ -1526,13 +1526,13 @@ While *theoretically* a male’s degree weren’t a hindrance to his prospects, 
 
 So, naturally, all anyone ever saw in him was a powerfully muscular if somewhat short brownie. None of his certifications mattered, even though he had pursued those just as hard as his gym scorecards. His *perfect* workhouse scorecard didn’t matter, either. All they saw was a brute of a convenient height. And, so, that’s how they used him.
 
-Which...well, he didn’t mind as much as he felt he should. He played the part, built himself up, and before long had gained a reputation as a strong laborer with a knack for solving tricky problems. All of that had Bruuk feeling confident and ready to meet the challenge, and put the Human in his place. He didn’t know if he could best Wild on skill, but in a fight? Bruuk had thought he’d be at least Wild’s match, if not a whole lot stronger.
+Which...well, he didn’t mind as much as he felt he should. He played the part, built himself up, and before long had gained a reputation as a strong laborer with a knack for solving tricky problems. All of that had Bruuk feeling confident and ready to meet the challenge, and put the Human in his place. He didn’t know if he could best Wilde on skill, but in a fight? Bruuk had thought he’d be at least Wild’s match, if not a whole lot stronger.
 
 He wasn’t. Well, actually he was. Sorta. Depending. It was complicated.
 
-It turned out Wild hadn’t been lazy, either; even for a Human he was an extremely strong man for his size, and he weren’t a small male, neither. While yeah, Bruuk had a downright *silly* weight advantage over Wilde and *none* of that extra mass was slack or soft, that massive innate strength advantage didn’t seem to matter much, because *unlike* Bruuk, Wild knew how to *use* it.
+It turned out Wilde hadn’t been lazy, either; even for a Human he was an extremely strong man for his size, and he weren’t a small male, neither. While yeah, Bruuk had a downright *silly* weight advantage over Wilde and *none* of that extra mass was slack or soft, that massive innate strength advantage didn’t seem to matter much, because *unlike* Bruuk, Wilde knew how to *use* it.
 
-Wild used his strength to *move.* Just by watching him practice assault runs, Bruuk could see that *moving* was the key to it all. And while the Human was laughably slow at a dead run, in close-quarters assault he was quick as could be, and a genuine struggle to keep up with.
+Wilde used his strength to *move.* Just by watching him practice assault runs, Bruuk could see that *moving* was the key to it all. And while the Human was laughably slow at a dead run, in close-quarters assault he was quick as could be, and a genuine struggle to keep up with.
 
 Watching him challenge the course in slow motion, Bruuk was struck by a challenge to his expectations, too. He would have expected somebody so quick and deft to be elegant in their movement, but Wild’s particular brand of elegance was...robotic. Like the punchy precision of an automated assembly line, each movement was a straight line, each turn direct, each motion spare and minimal. When he reloaded, he had the replacement magazine in his hand before the empty one had even hit the deck. When he swapped weapons, one went down and the other came up in the same motion.
 
@@ -1540,47 +1540,47 @@ Nothing wasted. Not even fractions of seconds.
 
 Bruuk found he enjoyed it, though. The training turned out to be much like anything in a gym: strenuous, repetitive, and oddly pleasing. He got a little better every time, and that was just enough to reward him, and keep him interested in further progress.
 
-Wild was an *amazing* teacher, too. Bruuk was really starting to like the Human.
+Wilde was an *amazing* teacher, too. Bruuk was really starting to like the Human.
 
 “You gotta take advantage of your shape, Bruuk. Use that long torso of yours and noodle through!” Bruuk was used to powering through things, being after all a brownfur. He was used to speed and power, not flowing like water. Wasn’t used to moving like a *silverfur.* The assault course was turning out to be a Keeda-damned hell of a learning experience for him.
 
 Moj, it seemed, was getting a different surprise. Where Bruuk had been humbled and then rebuilt, Moj was learning that his *actual* limits far exceeded his own self-estimation. Okay, his reaction times were slow next to Bruuk or Wild, but not as slow as either nonhuman had first thought. He’d always be the slowest and weakest of the three of them… but he could still learn to do things *right.* And in that regard, in fact, he had Bruuk honestly beat.
 
-Having a built-in armored carapace helped, too. No part of him was uncovered and that chitin could take a pretty serious beating. Armor was always going to be a weakness for Bruuk. As predicted, Bruuk’s armor had been much too tight around the chest, but Wild had spent a few evenings sewing on new side straps. Now it had a reassuringly snug fit instead of crushing his chest. Nonetheless, the vest only covered his upper torso: a plate front and back, and smaller ones along his flank. The armor for his arms was also far too tight and unfixable, because his were *way* bigger than Wild’s, or in fact most any Human’s at all. Bruuk was *ridiculously* proud of that, but it meant he would need to do without. The rest of him was similarly uncovered.
+Having a built-in armored carapace helped, too. No part of him was uncovered and that chitin could take a pretty serious beating. Armor was always going to be a weakness for Bruuk. As predicted, Bruuk’s armor had been much too tight around the chest, but Wilde had spent a few evenings sewing on new side straps. Now it had a reassuringly snug fit instead of crushing his chest. Nonetheless, the vest only covered his upper torso: a plate front and back, and smaller ones along his flank. The armor for his arms was also far too tight and unfixable, because his were *way* bigger than Wild’s, or in fact most any Human’s at all. Bruuk was *ridiculously* proud of that, but it meant he would need to do without. The rest of him was similarly uncovered.
 
 Wild’s own armor set was much nicer, and had been custom-fit for him by the SOR, but it too failed to cover much more than his torso and groin.
 
-“Full-body scale armor is fucking heavy,” Wild had opined. “‘Horse built me up into a big damn bloke like he does with everyone he knows, but I’m still just that. I’m nowhere *near* strong enough to fight with basically your twin wrapped around me head to toe.”
+“Full-body scale armor is fucking heavy,” Wilde had opined. “‘Horse built me up into a big damn bloke like he does with everyone he knows, but I’m still just that. I’m nowhere *near* strong enough to fight with basically your twin wrapped around me head to toe.”
 
 Bruuk chittered at the oblique compliment. *“That* heavy?”
 
-“Aye. That’s where it *starts* for the HEAT lads. Believe me, their armor rapidly gets much, *much* heavier. Us mere mortals need to make do. Anyway, enough about them.” Wild bounced on his feet and beckoned to Bruuk. “You’ve already halved your time through, did you notice?”
+“Aye. That’s where it *starts* for the HEAT lads. Believe me, their armor rapidly gets much, *much* heavier. Us mere mortals need to make do. Anyway, enough about them.” Wilde bounced on his feet and beckoned to Bruuk. “You’ve already halved your time through, did you notice?”
 
 Bruuk bounced on the balls of his footpaws in turn. “Yeh! It’s all about moving properly, you were right. Kicking a lifetime of bad habits ain’t easy.”
 
-“I bet, but when you get it…” Wild chuckled and shook his head. “I envy you furry fuckers. If I could move that fast while keeping that low…”
+“I bet, but when you get it…” Wilde chuckled and shook his head. “I envy you furry fuckers. If I could move that fast while keeping that low…”
 
 “And if I could *throw* that hard…” Bruuk replied. That was a trick he especially envied. The motion felt...unpracticed, maybe? It made Bruuk aware of supporting muscles in his shoulder he never really knew he had, but that was okay. He just had to figure out how to *train* those neglected muscles, and that would be one more item on the growing pile of things he was better at than those big, dumb, overly tall brownies that got all the Female attention. If he couldn’t tower like them and just win by default, then he’d just have to completely smoke them at *everything else.*
 
-And Wild was helping him along that path, too. Bruuk found his tail wagging.
+And Wilde was helping him along that path, too. Bruuk found his tail wagging.
 
 “You will! Just takes a bunch of practice. Now...shall we move on to sparring?”
 
-Their lifting and sparring sessions were, admittedly, Bruuk’s favorite part of the day. While Wild could run circles around him in the assault course, and it seemed every single time they went through there was more to learn, more possibilities to experience…
+Their lifting and sparring sessions were, admittedly, Bruuk’s favorite part of the day. While Wilde could run circles around him in the assault course, and it seemed every single time they went through there was more to learn, more possibilities to experience…
 
-Bruuk got to turn the tables in the gym. There, *he* taught Wild a thing or two. Bruuk had been a laborer for most of his life after all, and he’d been a lifelong lifter. If there was one thing in the whole damn universe Bruuk could say he were a Keeda-damned *expert* in, it was moving big damn weights however they needed to be moved. He could lift a lot more for a lot longer, and rather than wear out he felt energized by it. He could outlift Wild on *everything* and the rest of the crew had finally started to notice. *Balls* that felt good!
+Bruuk got to turn the tables in the gym. There, *he* taught Wilde a thing or two. Bruuk had been a laborer for most of his life after all, and he’d been a lifelong lifter. If there was one thing in the whole damn universe Bruuk could say he were a Keeda-damned *expert* in, it was moving big damn weights however they needed to be moved. He could lift a lot more for a lot longer, and rather than wear out he felt energized by it. He could outlift Wilde on *everything* and the rest of the crew had finally started to notice. *Balls* that felt good!
 
 But the most *bestest* was sparring, specifically the no-weapons extended playfights they were doing to train up their technique and reflexes. That turned out to be where they were almost perfectly well-matched.
 
-At first, Bruuk got his tail handed to him. Wild was a Human after all, a savannah-striding simioid that still had all his ancient tree-swinging upper-body strength and flexibility. He could put his muscle to work from seemingly any angle, no matter how awkward, and that made pinning him a special exercise in frustration; if he could move his arms *at all,* Bruuk would probably suffer for it. Wild was a special operator too, trained and conditioned to the finest standard. Bruuk had the weight and strength to just *crush* Wild, but he in turn had the toughness to simply take the abuse and keep going. Fighting with him was proving to be about the most strenuous workout Bruuk had ever had.
+At first, Bruuk got his tail handed to him. Wilde was a Human after all, a savannah-striding simioid that still had all his ancient tree-swinging upper-body strength and flexibility. He could put his muscle to work from seemingly any angle, no matter how awkward, and that made pinning him a special exercise in frustration; if he could move his arms *at all,* Bruuk would probably suffer for it. Wilde was a special operator too, trained and conditioned to the finest standard. Bruuk had the weight and strength to just *crush* Wild, but he in turn had the toughness to simply take the abuse and keep going. Fighting with him was proving to be about the most strenuous workout Bruuk had ever had.
 
-But Bruuk wasn’t any pushover, eiither. He was strong as *balls* and *way* more flexible. Wild couldn’t turn one-eighty at the waist, didn’t have as much usable power in his legs. There were also a few movements where Bruuk was so much stronger it was downright silly. For example: pushups were *exercise* to Wild, even if an easy one, but to Bruuk (or really any Gaoian) they were *trivially* effortless. They were made to run on their arms, after all.
+But Bruuk wasn’t any pushover, eiither. He was strong as *balls* and *way* more flexible. Wilde couldn’t turn one-eighty at the waist, didn’t have as much usable power in his legs. There were also a few movements where Bruuk was so much stronger it was downright silly. For example: pushups were *exercise* to Wild, even if an easy one, but to Bruuk (or really any Gaoian) they were *trivially* effortless. They were made to run on their arms, after all.
 
 Once he figured out how to use his advantages, Bruuk started to come out on top. Especially when he started ruthlessly exploiting his greater weight and Wild’s blind eye. By the end of the trip, in fact, Bruuk’s winning streak was growing wider every day. He’d rather have earned his victories with skill instead of sheer brawn, but, well…
 
-...Outmuscling a Human was *good* for the ego, especially a big one like Wild. And Wild was...not what Bruuk was expecting. Other brownies often tried to downplay the loss when Bruuk put them in their place, with an “I’ll getcha next time” or something similarly jocular and face-saving. Wild? He just laughed, congratulated him, and went for another round.
+...Outmuscling a Human was *good* for the ego, especially a big one like Wild. And Wilde was...not what Bruuk was expecting. Other brownies often tried to downplay the loss when Bruuk put them in their place, with an “I’ll getcha next time” or something similarly jocular and face-saving. Wild? He just laughed, congratulated him, and went for another round.
 
-Still: despite all Bruuk’s advantages, Wild was dangerous. He’d usually end up winning by the end, just through his sheer endless stamina. That a Human could beat even a well-conditioned brownie’s endurance turned out to be completely true. Just one more thing to get better at.
+Still: despite all Bruuk’s advantages, Wilde was dangerous. He’d usually end up winning by the end, just through his sheer endless stamina. That a Human could beat even a well-conditioned brownie’s endurance turned out to be completely true. Just one more thing to get better at.
 
 It had taken him a while to admit it, but...Bruuk *liked* Wild.
 
@@ -1588,11 +1588,11 @@ Moj interrupted them both around the time Wild’s winning streak was starting t
 
 Moj was looking down at the phone in his hand. “Nice that you two get along so well now, but it seems Trrrk’k wants us on the bridge.”
 
-“We’re due to arrive today, right?” Wild asked.
+“We’re due to arrive today, right?” Wilde asked.
 
 “We just did.”
 
-“Shit, why didn’t you tell me? I wanted to see this thing from the outside!” Wild hung his own towel up and bolted out the door, leaving Moj and Bruuk behind.
+“Shit, why didn’t you tell me? I wanted to see this thing from the outside!” Wilde hung his own towel up and bolted out the door, leaving Moj and Bruuk behind.
 
 Moj click-chirped a noise that Bruuk thought meant something like amusement at a grown child’s antics. “Just a space station,” he commented. “See one, see them all.”
 
@@ -1616,7 +1616,7 @@ It was…*big.* One of the biggest stations in the whole Dominion, a couple doze
 
 And behind it...the planets.
 
-The fourth orbital object in the Erwn-Bwrw system was a binary planetoid pair, two dusty frigid rockballs of about the same mass, orbiting a shared center of gravity so close and so fast that their atmospheres mingled. In a few hundred thousand years, they were destined to smash into each other, but for now the station orbited them both. To Bruuk’s eyes, one was a dull shade of dirt-coloured, and the other was a slightly *duller* shade of dirt-coloured, but Wild clearly felt they were about the most magnificent sight in the sky.
+The fourth orbital object in the Erwn-Bwrw system was a binary planetoid pair, two dusty frigid rockballs of about the same mass, orbiting a shared center of gravity so close and so fast that their atmospheres mingled. In a few hundred thousand years, they were destined to smash into each other, but for now the station orbited them both. To Bruuk’s eyes, one was a dull shade of dirt-coloured, and the other was a slightly *duller* shade of dirt-coloured, but Wilde clearly felt they were about the most magnificent sight in the sky.
 
 On a hunch, Bruuk sidled up to Urgug and got the big navigator’s attention. “...What colour are those planets?”
 
@@ -1624,7 +1624,7 @@ Urgug glanced up at them, and sure enough a pleased glow washed over him. “The
 
 “That’s very helpful Urgug, thankyou.”
 
-Wild clearly overheard the conversation. He turned back and grinned at Bruuk.
+Wilde clearly overheard the conversation. He turned back and grinned at Bruuk.
 
 “The closer one’s red, mate. A sort of warm, rusty red, really. Close to orange. Just like Mars, back in Sol. I always wanted to see Mars.”
 
@@ -1656,11 +1656,11 @@ Wild clearly overheard the conversation. He turned back and grinned at Bruuk.
 
 Urgug’s facial tentacles rippled. “There is a grade two security alert posted. All ships are to remain alert for a dangerous fugitive who may seek to stow away. Cargo inspections upon departure are mandatory.”
 
-“Well, that puts a fucking spanner in the works…” Wild grimaced. “...They posted this fugitive’s likeness?”
+“Well, that puts a fucking spanner in the works…” Wilde grimaced. “...They posted this fugitive’s likeness?”
 
 “Indeed.” Urgug called it up on the glass at the front of the bridge.
 
-“...That our guy?” Wild asked, looking to Bruuk.
+“...That our guy?” Wilde asked, looking to Bruuk.
 
 “No idea. Kwmbwrw all look the same to me.”
 
@@ -1668,25 +1668,25 @@ Urgug’s facial tentacles rippled. “There is a grade two security alert poste
 
 They turned to the shipmaster. Trrrk’k picked his way forward to his customary spot in the middle of the bridge, tilting his head back and forth atop his long neck as he considered the face on the screen. “No, the Clan’s friend has a different bone structure along his snout and around his eyes. This one is more...handsome, by their standards.”
 
-“Pretty boy, hey?” Wild frowned at the portrait. “We got a name for this lad? I mean, I’m guessing that’s it there next to his mug, but I can’t read...whatever that is.”
+“Pretty boy, hey?” Wilde frowned at the portrait. “We got a name for this lad? I mean, I’m guessing that’s it there next to his mug, but I can’t read...whatever that is.”
 
 “Wrrkenrythweth,” Urgug provided, rolling the first syllable lavishly.
 
 “Former House, then,” Moj declared. He buzzed when they looked at him. “House Wrrken. The House of Traitors. Not a name for Houseless nobodies, that.”
 
-“You know a lot more than you let on, mate,” Wild complimented him. Moj shrugged it off with a chirping sound.
+“You know a lot more than you let on, mate,” Wilde complimented him. Moj shrugged it off with a chirping sound.
 
 “Student of alien cultures, remember.”
 
-“...Right.” Wild rubbed his jaw with a scratching sound, then turned to the Shipmaster. “We come here looking for a bloke who was spying on one of the Great Houses, and when we get here one of the House’s sons is on the lam? Smells bloody fishy to me, right Bruuk?”
+“...Right.” Wilde rubbed his jaw with a scratching sound, then turned to the Shipmaster. “We come here looking for a bloke who was spying on one of the Great Houses, and when we get here one of the House’s sons is on the lam? Smells bloody fishy to me, right Bruuk?”
 
-“When I’m standing next to you, the only way I could smell *any* fish is if you taped it to my nose,” Bruuk replied. He’d learned that Wild appreciated even quite vicious insults as a joke, with the right delivery and timing. Human humor was *weird* in that regard.
+“When I’m standing next to you, the only way I could smell *any* fish is if you taped it to my nose,” Bruuk replied. He’d learned that Wilde appreciated even quite vicious insults as a joke, with the right delivery and timing. Human humor was *weird* in that regard.
 
-Sure enough, Wild snort-chuckled and reached out to give him an affectionate but slightly aggressive swat in the arm with his knuckles. “I *mean* it seems suspicious.”
+Sure enough, Wilde snort-chuckled and reached out to give him an affectionate but slightly aggressive swat in the arm with his knuckles. “I *mean* it seems suspicious.”
 
 “I quite agree,” Trrrk’k said. “Perhaps we should make contact with this alleged terrorist.”
 
-“I’m game.” Wild glanced back out the front window as Moj brought them to a relative stop and the station’s docking arms reached out to embrace them with a series of heavy sounds that echoed through the hull.
+“I’m game.” Wilde glanced back out the front window as Moj brought them to a relative stop and the station’s docking arms reached out to embrace them with a series of heavy sounds that echoed through the hull.
 
 “My only question is...How?”
 
@@ -2173,7 +2173,7 @@ Bruuk cheered and followed behind him. “I’ve got some steaks secreted away! 
 
 “...Really?”
 
-“Oh yeah. Wild almonds would kill any of us *dead.* Anyway…”
+“Oh yeah. Wilde almonds would kill any of us *dead.* Anyway…”
 
 “Wait, wait. How did you go from *that* to a food crop…?”
 
