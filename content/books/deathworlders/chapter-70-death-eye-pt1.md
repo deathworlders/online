@@ -1493,7 +1493,7 @@ Of course, they had no intention of parting ways. That was merely for the benefi
 
 Which was technically a breach of *several* interstellar treaties, but the Great Father had ordered it, so it was so.  Trrrk’k knew the truth, the *Rage’s* crew knew the truth, and they were the only ones who *needed* to know.
 
-The trip so far had been...mixed. Every comms synchronization had come with a burst of new Hunter reports. People were dying by the thousands out there, on remote stations, outposts and facilities. But this was the main arterial tradelane linking Gaoian space---the Hunters’ most successful predators---and the Great Houses, who were easily the most militant and Hutner-savvy of the Dominion species.
+The trip so far had been...mixed. Every comms synchronization had come with a burst of new Hunter reports. People were dying by the thousands out there, on remote stations, outposts and facilities. But this was the main arterial tradelane linking Gaoian space---the Hunters’ most successful predators---and the Great Houses, who were easily the most militant and Hunter-savvy of the Dominion species.
 
 In other words, a hard enough target that all the slaughter was happening *somewhere else.* A small fast blip on spacial distortion sensors *might* have been a Swarmship at high warp, scouting the border territories for easy pickings, but other than that the journey had been uneventful. A litany of death from other places, but uneventful.
 
