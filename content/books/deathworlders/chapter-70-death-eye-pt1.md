@@ -2151,7 +2151,7 @@ Ian sat down. “I’ve got a bad feeling about that Matriarch, skipper.”
 
 “Why, Bruuk! That’s the biggest word I’ve ever heard you use!”
 
-The burly Gaoian chittered, “Shaddup, Wilde.”
+The burly Gaoian chittered, “Shaddup, Wild.”
 
 Ian chuckled, then sobered up. “...Not just deceitful, but desperate. She wanted us *off* that station and she took the first and flimsiest chance she had to do it. Somebody’s leaning on her from high up, I bet; She bit *hard* on the chance to gain some control.”
 
@@ -2197,7 +2197,7 @@ Rythweth was not nobody. He was House. House were not ignored. House did not kno
 
 So, tricky was even trickier.
 
-Trickier still? Moj *could* have stood out, been a *big* fish. Easy, that. All his tattoos, bright clothing, being an uncommon species...big and obvious thoughts became a big and obvious person. Maybe if Moj became Bruuk, walked Wilde, Rythweth could be a lesser leaf and go unnoticed in his shadow.
+Trickier still? Moj *could* have stood out, been a *big* fish. Easy, that. All his tattoos, bright clothing, being an uncommon species...big and obvious thoughts became a big and obvious person. Maybe if Moj became Bruuk, walked Wild, Rythweth could be a lesser leaf and go unnoticed in his shadow.
 
 But. Moj was not supposed to be aboard the station. He was supposed to be aboard the ship. If he stopped being nobody and became *somebody* again, if he was not ignored, they’d know he got aboard somehow. The route back would likely close, likely never open again.
 
