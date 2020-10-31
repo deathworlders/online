@@ -354,7 +354,7 @@ Ian sat down and grabbed a glass of water, raising a hand to waggle his fingers 
 
 “Okay, okay. Grumpy Yogi…”
 
-Ian *snrrk*ed. And he’d dared to think he’d reached the bottom of all the human pop-culture Dora was familiar with. But no: add Hanna-Barbera to the list…
+Ian *snrrked.* And he’d dared to think he’d reached the bottom of all the human pop-culture Dora was familiar with. But no: add Hanna-Barbera to the list…
 
 “You look more relaxed,” she commented as she sat. The door opened as she did so, admitting the remainder of the crew.
 
@@ -946,7 +946,7 @@ Several things happened quickly. Bruuk and Ian got the crate on the drone *immed
 
 “So we’re stuck here.” As soon as Ian was sure Dora had the drone in hand, he took off for the ship’s ramp. Within a few paces, Bruuk shot past him at a Gaoian’s trademark greyhound sprint. “Any idea what *kind* of ships?”
 
-*“Non-standard,”* Moj sounded strangely amused. *“Big power, small mass. Modified like us, maybe. A battle of the changed!”
+*“Non-standard,”* Moj sounded strangely amused. *“Big power, small mass. Modified like us, maybe. A battle of the changed!”*
 
 “Focus please, mate. What does that *mean?”*
 
@@ -1199,7 +1199,7 @@ On the inside, though, as they returned to his transport and left the forest beh
 ___
 
 **Date Point: 17y8m2w4d AV**    
-****Emergency degaussing station 7m1-63** ***Wrrmuthwm,*** **Kwmbwrw Great Houses****
+**Emergency degaussing station 7m1-63** ***Wrrmuthwm,*** **Kwmbwrw Great Houses**
 
 ***Moj***
 
