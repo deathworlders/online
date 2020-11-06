@@ -1409,7 +1409,7 @@ ___
 
 “How is he so *bad* with Females?! He had a chance with...whatshername?”
 
-“Dana, player by Sigourney Weaver.”
+“Dana, played by Sigourney Weaver.”
 
 “She’s so *pretty* and she even smiled at him! How could he *blow* it so hard?!”
 
@@ -1930,7 +1930,7 @@ ___
 
 ***Dora***
 
-Cargo handling was a *dance* and dancing was what Doras did best!
+Cargo handling was a *dance* and dancing was what Dora did best!
 
 Well...among other things. Juggling, say. She’d practiced juggling a *lot* after first finding it in an entertainment datadump she’d pulled from Armstrong Station’s network, and it had been one of the more difficult things she’d ever done. Then she’d got good at it.
 
