@@ -4,9 +4,9 @@ date: 2020-11-27T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point: 17y8m2w4d AV**
-**Freelance ship** ***Stars of Our Making,** **docked at degaussing station 7m1-63** ***Wrrmuthwm,** **Kwmbwrw Great Houses**
+**Freelance ship** ***Stars of Our Making,*** **docked at degaussing station 7m1-63** ***Wrrmuthwm,** **Kwmbwrw Great Houses**
 
-**Ian “Death-Eye” Wilde***
+***Ian “Death-Eye” Wilde***
 
 Hunched over, tense and fierce. Head dripping in blood, gore splattered everywhere. A bestial snarl...not the sound of a thinking man. Whatever was going on, Bruuk was *definitely* not here right now, and the snarling menace that had taken his place was *not* happy with the world. Experimentally, beast-Bruuk pressed down on the Qinis’s chest with one of his forepaws. There was a quiet snap of bone, as the delicate mercenary offered as much resistance to Bruuk’s huge weight as a wet tissue paper. Its suffering was instantly over.
 
@@ -86,7 +86,7 @@ ___
 
 ***Moj***
 
-“What *happened?*”
+“What *happened?"*
 
 Moj would have laughed, for almost anybody else. For Bruuk...for a crewmate…
 
@@ -275,7 +275,7 @@ And hoped that a third war wasn’t coming.
 
 ___
 
-**Date Point: **Date Point: 17y8m2w4d AV**
+**Date Point: 17y8m2w4d AV**
 **Starship** ***Avenging Rage,*** **Wrrmuthwm sector, Kwmbwrw Great Houses**
 
 ***Shipfather Egan***
@@ -1372,7 +1372,7 @@ Younger too. But his words had the bite of an *old* and experienced mind. *“Yo
 
 Wgwyr swayed as another blast to the shields rocked the deck. “How typical. No regard for the consequences. Just swagger in and assume you can solve everything with your claws. Your people are going to *suffer* for this, Daar.”
 
-“Almost any problem can be solved with sufficient violence.” Daar replied, with a snarl creeping into his voice. “An’ threatenin’ my people in turn is a bold strategy, considerin’ the crime that drew me outta my Naydi’s lovin’ embrace. So, again: ‘ya wanna keep playin’ dumb, or are we gonna just get past the posturin’ and move on with life? I got what I need, an’ the Conclave* knows. *What happens next is gonna determine the future. Think carefully.”*
+*“Almost any problem can be solved with sufficient violence.”* Daar replied, with a snarl creeping into his voice. *“An’ threatenin’ my people in turn is a bold strategy, considerin’ the crime that drew me outta my Naydi’s lovin’ embrace. So, again: ‘ya wanna keep playin’ dumb, or are we gonna just get past the posturin’ and move on with life? I got what I need, an’ the Conclave* knows. *What happens next is gonna determine the future. Think carefully.”*
 
 “Mother…” Owryth muted their microphone. “...More Gaoian ships just came into sensor range. They’ll be here in moments.”
 
@@ -1399,7 +1399,7 @@ Two minutes after they were gone, a warp signature rose from the gas giant’s r
 ___
 
 **Date Point: 17y8m3w2d AV**     
-**Starship** ***Avenging Fury,*** **Wrrmuthwm sector, Kwmbwrw Great Houses****
+**Starship** ***Avenging Fury,*** **Wrrmuthwm sector, Kwmbwrw Great Houses**
 
 ***Ian “Death-Eye” Wilde***
 
