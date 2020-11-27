@@ -4,7 +4,7 @@ date: 2020-11-27T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point: 17y8m2w4d AV**
-**Freelance ship** ***Stars of Our Making,*** **docked at degaussing station 7m1-63** ***Wrrmuthwm,** **Kwmbwrw Great Houses**
+**Freelance ship** ***Stars of Our Making,*** **docked at degaussing station 7m1-63** ***Wrrmuthwm,*** **Kwmbwrw Great Houses**
 
 ***Ian “Death-Eye” Wilde***
 
