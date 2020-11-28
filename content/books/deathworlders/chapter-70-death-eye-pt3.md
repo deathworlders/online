@@ -2159,4 +2159,4 @@ The author does not automatically share or endorse the opinions and behaviour of
 
 Thank you for reading!
 
-*The Deathworlders* chapter 70 will continue in part 3
+*The Deathworlders* chapter 70 will continue in part 4
