@@ -50,7 +50,7 @@ Before I can ask my question, he gives me a look that says he’s heard them all
 
 [Image: a montage of Leemu in action: considering a half-finished painting, prowling around the room as he thinks, washing his brushes. The centerpiece shows him sitting on the floor, playing with a ginger cat.]
 
-*“...We live in a dangerous world. It is one dominated by deathworlders---you and me. Except, we Gao aren’t *quite* deathworlders, are we? Once, in ancient times, we were a strong, vibrant apex species on a high-end class-11 world. It was a lush world and trending higher. We’ve got the fossil record to prove it, too. Then the Hierarchy took note of us.”*
+*“...We live in a dangerous world. It is one dominated by deathworlders---you and me. Except, we Gao aren’t* quite *deathworlders, are we? Once, in ancient times, we were a strong, vibrant apex species on a high-end class-11 world. It was a lush world and trending higher. We’ve got the fossil record to prove it, too. Then the Hierarchy took note of us.”*
 
 He pauses, mournfully, before continuing.
 
@@ -62,7 +62,7 @@ He shows me one of his darker works. While a strong optimistic streak runs throu
 
 **Live for?**
 
-*“Maybe Humans have an easier time in that regard. I’ve seen many of your people who are childless and claim to be quite content. For us, I don’t know if it’s cultural or instinctive, but Gao think a lot about our legacy. Our cubs, the world we build for them. I see Humans who devote themselves to a thing *just* for that thing. Business high-fliers whose ambition is to get as rich as they can, or the nuns and monks who devote their lives to their faith, or artists like me who are defined by their art! That’s alien, to a Gao. I don’t see the point in getting rich or becoming famous unless it’s to win mates.”
+*“Maybe Humans have an easier time in that regard. I’ve seen many of your people who are childless and claim to be quite content. For us, I don’t know if it’s cultural or instinctive, but Gao think a lot about our legacy. Our cubs, the world we build for them. I see Humans who devote themselves to a thing* just *for that thing. Business high-fliers whose ambition is to get as rich as they can, or the nuns and monks who devote their lives to their faith, or artists like me who are defined by their art! That’s alien, to a Gao. I don’t see the point in getting rich or becoming famous unless it’s to win mates.”
 
 **But you already have a cub.**
 
@@ -94,7 +94,7 @@ He claims they’re still on friendly terms. Knowing Daar, I don’t doubt it.
 
 **So this breeding crisis means most Gaoian males are looking for something else to identify with.**
 
-*“Exactly. That’s why the Grand Army isn’t short of volunteers. It’s why per-capita the economy on our homeworld is booming and recovering so much faster than anybody predicted. All those males whose hopes of ever siring a cub fell apart a few years ago are throwing themselves into making sure that the world they leave behind for the next generation will be as good as it can be.”
+*“Exactly. That’s why the Grand Army isn’t short of volunteers. It’s why per-capita the economy on our homeworld is booming and recovering so much faster than anybody predicted. All those males whose hopes of ever siring a cub fell apart a few years ago are throwing themselves into making sure that the world they leave behind for the next generation will be as good as it can be.”*
 
 **That generation is going to be small, though.**
 
@@ -576,14 +576,14 @@ Today had not been what he was expecting, really, but that changed nothing. He�
 And do it well.
 ___
 
-***Loyal to a Fault***
-*by Ava Ríos
+***Loyal to a Fault***    
+*by Ava Ríos*
 
 Folcthans will know Myun as a familiar figure. Guard-Mother of the Alien Quarter’s commune, and famously Mother Supreme Yulna’s bodyguard at the outbreak of the Gaoian homeworld war. She wears a scar she won on that day with no small amount of pride.
 
 This is, by Gaoian standards, quite a masculine affectation, and Myun is vocally proud of the way she doesn’t quite fit the mold of Gaoian femininity.
 
-*“Oh yeah, I grew up to be a *total* tomboy! You’d never have guessed it from pics of me as a little cub, would you?”*
+*“Oh yeah, I grew up to be a* total *tomboy! You’d never have guessed it from pics of me as a little cub, would you?”*
 
 [Image: the huge, brown-furred guard-mother, face turned slightly to proudly display her scar, and posing mightily with her sword. Opposite, a photo of Myun as a particularly small cub practicing Kung Fu alongside Xiù Chang.]
 *Image credit: Mother Ayma, Wi Kao Commune of Females*
@@ -650,7 +650,7 @@ The brief break gives me a good opportunity to move onto another subject I wante
 
 **Did that cub have the gene therapy?**
 
-“Mikki? Nah, he’s I guess what you’d call a vanilla Gao...We’re gonna need words for Gao-with-therapy and Gao-without-therapy soon, aren’t we? Anyway, right now we keep it to natural-borns, where both parents had the therapy. Openpaw’s doin’ that for observational purposes,* yijao? *And anyway, the ones who’ve got it are all too young for fetch-and-carry yet.”
+*“Mikki? Nah, he’s I guess what you’d call a vanilla Gao...We’re gonna need words for Gao-with-therapy and Gao-without-therapy soon, aren’t we? Anyway, right now we keep it to natural-borns, where both parents had the therapy. Openpaw’s doin’ that for observational purposes,* yijao? *And anyway, the ones who’ve got it are all too young for fetch-and-carry yet.”*
 
 **I presume they’re a little different to their fellows**
 
@@ -726,7 +726,11 @@ Again, she is visibly uncomfortable, but doesn’t shy away from her conclusion.
 
 He shook his head no. He, too, was noticeably uncomfortable. The Gao are keenly aware of the general Human attitude toward such things, and they are intensely social beings. They do not much enjoy broaching uncomfortable topics, even where it’s expected.
 
-*“And I don’t think he should! He’s not even twenty yet, still lots of growin’ left in him! Maybe when he’s a bit older, once he’s filled out more and he’s got some good scars…”* She gave Deem a non-committal ear-flick of interest, then returned to her point. “So...yeah. I mean, no judgement on my part, but I don’t think most of us* should *use it. At least, not lightly. For a few, it* really *works for them. But I think there’s a lotta males out there who think it’s some sorta magical get-Females drug, one that’ll give them a breeding advantage over the rest. Well, It won’t. It’s sorta like the makeup you’re wearing. For you, it highlights and enhances what’s already there! But for some…it’s a bad substitution.”*
+*“And I don’t think he should! He’s not even twenty yet, still lots of growin’ left in him! Maybe when he’s a bit older, once he’s filled out more and he’s got some good scars…”*
+
+She gives Deem a non-committal ear-flick of interest, then returns to her point.
+
+*“So...yeah. I mean, no judgement on my part, but I don’t think most of us* should *use it. At least, not lightly. For a few, it* really *works for them. But I think there’s a lotta males out there who think it’s some sorta magical get-Females drug, one that’ll give them a breeding advantage over the rest. Well, It won’t. It’s sorta like the makeup you’re wearing. For you, it highlights and enhances what’s already there! But for some…it’s a bad substitution.”*
 
 **Substitution for what?**
 
@@ -1539,7 +1543,7 @@ The Great Father has given a number of speeches on that very topic. According to
 
 I remind him that I’m here to interview him, not to answer questions. After a chittering apology, he explains.
 
-*“Livestock. That’s what most of the galaxy were bred to be. That’s how most of our fellow sophonts were kept. But the miracle of sapience is, once it becomes aware of new horizons, it reaches toward them. A cow will never see an eagle circle overhead and ask, ‘could I do that?’ Sapient beings are not livestock, and never can be as soon as they see that there’s an alternative.
+*“Livestock. That’s what most of the galaxy were bred to be. That’s how most of our fellow sophonts were kept. But the miracle of sapience is, once it becomes aware of new horizons, it reaches toward them. A cow will never see an eagle circle overhead and ask, ‘could I do that?’ Sapient beings are not livestock, and never can be as soon as they see that there’s an alternative.*
 
 **Which is what the Hunters were purposed to contain.**
 
@@ -1601,7 +1605,7 @@ So, for Ferd, his tribe was safely in Eb Given-Man’s hands. Which was good, be
 
 It had been *beautiful.* The gods had made a strange, wonderful world, and getting to really *see* it from far, far away had been...humbling? But also fun! Being *weightless* was strange. As was the idea that weight wasn’t the same thing as *mass,* which did *not* go away. That had been a fun day of training! Still, none of that was *nearly* as strange as when Baseball explained how gravity worked. Space and time were the same thing, and curved into each other!
 
-He tried to explain the math too, but...Vemik said the math of moving things was called *‘calc-*you-luss’ and was a *long* way down the trail. Even he wasn’t there quite yet. So, that was okay. Maybe some day!
+He tried to explain the math too, but...Vemik said the math of moving things was called *‘calc* you-luss’ and was a *long* way down the trail. Even he wasn’t there quite yet. So, that was okay. Maybe some day!
 
 Ferd’s head was swimming with sky-thoughts these days. Sometimes, he wondered when Yan or Vemik might join a team, if for no other reason than to learn the *biggest* learnings.
 
