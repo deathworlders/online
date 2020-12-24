@@ -62,11 +62,11 @@ He shows me one of his darker works. While a strong optimistic streak runs throu
 
 **Live for?**
 
-*“Maybe Humans have an easier time in that regard. I’ve seen many of your people who are childless and claim to be quite content. For us, I don’t know if it’s cultural or instinctive, but Gao think a lot about our legacy. Our cubs, the world we build for them. I see Humans who devote themselves to a thing* just *for that thing. Business high-fliers whose ambition is to get as rich as they can, or the nuns and monks who devote their lives to their faith, or artists like me who are defined by their art! That’s alien, to a Gao. I don’t see the point in getting rich or becoming famous unless it’s to win mates.”
+*“Maybe Humans have an easier time in that regard. I’ve seen many of your people who are childless and claim to be quite content. For us, I don’t know if it’s cultural or instinctive, but Gao think a lot about our legacy. Our cubs, the world we build for them. I see Humans who devote themselves to a thing* just *for that thing. Business high-fliers whose ambition is to get as rich as they can, or the nuns and monks who devote their lives to their faith, or artists like me who are defined by their art! That’s alien, to a Gao. I don’t see the point in getting rich or becoming famous unless it’s to win mates.”*
 
 **But you already have a cub.**
 
-*“Yes. Which makes me* blessed. *If I ever have another, that will put me among an elite few.”
+*“Yes. Which makes me* blessed. *If I ever have another, that will put me among an elite few.”*
 
 [Image: Leemu showing one of his portraits—his cub and the little one’s mother, Leela.]
 
