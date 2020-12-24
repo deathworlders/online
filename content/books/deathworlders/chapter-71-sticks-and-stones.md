@@ -1246,7 +1246,7 @@ Vemik nodded sheepishly. “Yeah. Every morning, hurt and sore like after trial 
 
 “Yeah! Lots of Ag-*ress*-shun. Need to work good and hard and burn it out! Yan say, for good redcrest it never goes away. Gets *worse* every year. But the Giving we get…”
 
-Vemik *showed* what the rut was giving him. “Is annoying Taking, but *good* Giving in turn!”
+Vemik *showed* them both just what the rut was giving him. *Goddamn* “Is annoying Taking, but *good* Giving in turn!”
 
 Hoeff glanced him over. Couldn’t argue with the results, really. “Fair enough. Anyway, shall we go check in on Rees? I think today is firearms instruction.”
 
