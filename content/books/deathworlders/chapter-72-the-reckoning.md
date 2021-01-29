@@ -331,7 +331,7 @@ And the dark work they were about to commit.
 
 ___
 
-**Date Point: 18y2m**    
+**Date Point: 18y2m AV**    
 **Mirw-Kwenek Wrrmthwemwnwn, planet Cwdwli, Gwrfwrthwn system**
 
 ***Grandmatriarch Henenwgwyr***
@@ -1275,7 +1275,7 @@ Frasier gathered the fallen tablet and added it to his bag. Rees was busy sticki
 
 There were others, too. An *immense* pair of Vgork bulls in their prime, most likely the hired muscle. Mature Vgork bulls were big and incredibly strong by any standard, and these two were high-end breeders, with enough herd rings drilled through their nasal ridges to make Daar blush. Hell, they were even kinda quick, or at least could move with some urgency. In an animal-style fight they’d each fuck up a decent-sized bull on Earth, probably.
 
-Ferd took all of two seconds to fuckin’ *break* the first of them. Nomuk and Tumik descended on the other, grabbed, *twisted*—Damn near pulled his head off. The fleeing bull’s remains crashed to the floor looking unnaturally down his own spine.
+Ferd took all of two seconds to fuckin’ *break* the first of them. Nomuk and Tumik descended on the other, grabbed, *twisted* and damn near pulled his head off. The fleeing bull’s remains crashed to the floor looking unnaturally down his own spine.
 
 All of them had been quick, and relatively quiet. One, however, was noisy.
 
@@ -1469,7 +1469,7 @@ And now he could go play.
 ___
 
 **Date Point: 18y2m AV**    
-**HMS** ***Caledonia,** **orbiting planet Cwdwli, Gwrfwrthwn system**
+**HMS** ***Caledonia,*** **orbiting planet Cwdwli, Gwrfwrthwn system**
 
 ***Major Anthony Costello***
 
@@ -1517,7 +1517,7 @@ What he saw turned out to be even more appalling than he’d feared.
 
 ___
 
-**Date Point: 18y2m AV***
+**Date Point: 18y2m AV**    
 **Bunker under Eclipse Palace, planet Cwdwli, Gwrfwrthwn system**
 
 ***Specialist Hunter Thompson***
@@ -1825,7 +1825,7 @@ No amount of scrubbing got him feeling clean.
 ___
 
 **Date Point: 18y2m AV**    
-**HMS** ***Myrmidon,** **orbiting planet Cwdwli, Gwrfwrthwn system**
+**HMS** ***Myrmidon,*** **orbiting planet Cwdwli, Gwrfwrthwn system**
 
 ***Admiral Sir William Caruthers***
 
