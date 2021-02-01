@@ -65,7 +65,7 @@ None of them could.
 
 So, the only recourse was vigilance and preparedness. His troops were equipped with the latest generation of weaponry rated to handle deathworlders and Hunter Alphas alike. The facility was new and hastily built, but the House had spared no expense in its defences at least. In time, perhaps they would be concealed behind aesthetically pleasing architecture and landscaping, like the hardware up at the palace compound in the adjacent valley, but for now they were bare, visible and blunt in purpose and appearance.
 
-Owsyn should have felt safe, seeing so point defence projectile weapons, direct-radiation rebound shields, patrols in armored exoskeletons equipped with plasma weapons, and a drone hive prepared to descend on an attacking force in a wave of fusion blades and nervejam grenade launchers.
+Owsyn should have felt safe, seeing so many point defence projectile weapons, direct-radiation rebound shields, patrols in armored exoskeletons equipped with plasma weapons, and a drone hive prepared to descend on an attacking force in a wave of fusion blades and nervejam grenade launchers.
 
 Instead, the trash basket beside his desk was sticky with chewed *cwrffwr* gum in a vain effort at stress relief. He needed leave. He needed reassignment. He needed to be *away from the Grandmatriarch,* away from her incessant paranoid checking that all was well, that the facility remained intact, that the suppression field was still active around them.
 
