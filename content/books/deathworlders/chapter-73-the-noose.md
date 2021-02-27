@@ -577,7 +577,7 @@ ___
 **Date Point: 18y4m1w AV**    
 **Clan of Females yacht** ***Name,*** **orbiting planet Gao**
 
-**Naydra, Great Mother of the Gao***
+***Naydra, Great Mother of the Gao***
 
 There were moments where Naydra might have wished for a more...statuesque presence, when performing her official duties. She was much like any silverfur, really. Slim and lithe, with a long silky coat. Not at all hard on the eyes or the nose, if she was being honest with herself. Still: while she had nothing to complain about, and many blessings to be thankful for…
 
@@ -667,7 +667,7 @@ Daar had been quite fortunate; they’d detected him early and made appropriate 
 
 Thank goodness for the Gao that he’d thrived.
 
-“...Yeah. Never easy. Good luck, little guy...” Daar said a quiet prayer. It would likely end in tragedy, as sixth-degrees usually did...though given that the sixth-degree birthrate had spiked dramatically in the years after the war—meaning there had been one at all, let alone *two*—they’d learned quite a lot about how to care for them.
+“...Yeah. Never easy. Good luck, little guy...” Daar said a quiet prayer. It would likely end in tragedy, as sixth-degrees usually did...though given that the sixth-degree birthrate had spiked dramatically in the years after the war—meaning there had been one at all, let alone *two,* they’d learned quite a lot about how to care for them.
 
 Naydra was even daring a little quiet optimism. Daar was the first sixth degree in generations to make it past early cubhood, but it would be nice for him to have a young rival, maybe someone he could mentor...
 
@@ -928,7 +928,7 @@ Daar nodded in agreement, and sank to all fours like he did when he wanted to be
 
 “Mhmm. I think it’s diffr’nt this time. Ain’t nobody can pretend the enemy ain’t there, now.”
 
-“Nobody can pretend they’re invincible now, either.” Ambassador Knight joined them, smoothing down his clothes. “Before, they were a scourge, a force of nature. You may as well try and fix the tide. So!” He said *prim-*ly, “Have you two incorrigible savages had a chance to play?”
+“Nobody can pretend they’re invincible now, either.” Ambassador Knight joined them, smoothing down his clothes. “Before, they were a scourge, a force of nature. You may as well try and fix the tide. So!” He said primly, “Have you two incorrigible savages had a chance to play?”
 
 Yan trilled and Daar chittered. There was no mistaking the warmth in Knight’s eyes.
 
@@ -1020,7 +1020,7 @@ Daar glanced at him, flicked an ear, then duck-nodded grimly. “Their nature’
 
 “Without the Hunters’ constant raiding, we will be economically more well-positioned to address the Hierarchy,” Third Director Tran mused. “...Yes, I believe the order of operations here is correct.”
 
-“Agreed,* Ambassador Furfeg’s rumble was the first time he’d spoken since arriving. From what Yan knew of his species, the Guvnurag were supposed to be long-winded, but Furfeg kept his counsel like an old Given-Man. That one word carried enough weight for AtaUmuUi to glance at him, bow slightly in acknowledgement, and go back to fussing with that odd metal ball in his hand.
+“Agreed," Ambassador Furfeg’s rumble was the first time he’d spoken since arriving. From what Yan knew of his species, the Guvnurag were supposed to be long-winded, but Furfeg kept his counsel like an old Given-Man. That one word carried enough weight for AtaUmuUi to glance at him, bow slightly in acknowledgement, and go back to fussing with that odd metal ball in his hand.
 
 Jooyun had told him *not* to look at the ball, in the strongest words he could use. Yan wasn’t sure why, but something about it made him want to stare at from across the room…
 
