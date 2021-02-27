@@ -3,6 +3,7 @@ title: "Chapter 73: The Noose"
 date: 2021-02-27T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
 **Date Point: 18y2m AV**    
 **HMS** ***Sharman*** **(HMNB Folctha,) Cimbrean, the Far Reaches**
 
@@ -1908,7 +1909,7 @@ He’d been expecting Julian to shut the door. He didn’t expect the way a priv
 
 “So I guess we secretly traffick in the same circles, huh?”
 
-“Yeah.” Julian sat down, in a swivel chair that looked like it was built for a sumo wrestler. “I’m an ambassador nowadays. Erebor is part of the standard brief for those of us with an interstellar portfolio…And so is the Entity. Freaked me the fuck out when I learned about it.”  
+“Yeah.” Julian sat down in a swivel chair that looked like it was built for a sumo wrestler, which nonetheless creaked stoically under his weight. “I’m an ambassador nowadays. Erebor is part of the standard brief for those of us with an interstellar portfolio…And so is the Entity. Freaked me the fuck out when I learned about it.”
 
 “Shit yeah, dude.” Lewis agreed, flopping down into the comfy armchair opposite. “Fuckin’ thing’s wrong in every kinda way, but it’s on our side.”
 
@@ -2013,7 +2014,6 @@ The Hunters reacted quickly, as they always did. Their minds were networked, imp
 
 The result was not the stocky, square, orderly kind of battle it witnessed when matterspace life forms warred each other. As fluid as those could be, non-networked beings relied on training, drills, formations and tactics. When the Swarm and the Probes fought, however, they shifted and flowed, danced and postured, feinted and faded.
 
-
 The Hunters couldn’t run. The Entity made sure of that by blasting local spacetime with interference from its own interpretation of a Farthrow generator, and made prodigious use of gravity spikes, too: small ones could trap its prey for minutes, a time scale that might as well be centuries from its perspective. When a Swarmship tried to flee, the Entity shot a megalight missile out in front of it and spiked its path, halting it before it could escape. Gravity spikes were terrain, battlefield engineering, obstacles. Their judicious use allowed it to control its enemy.
 
 The Hunters, of course, did much the same. Much of the battle passed bloodlessly, as the Entity shot sparingly and to cause maneuver, coiling its probes tighter and tighter around the convoy. The Hunters fired much but hit little, their firing solutions foiled time and again by the probes’ sharp acceleration profiles and agility.
@@ -2036,7 +2036,7 @@ Cargo was sorted, analyzed. Much of it was full of...biomass.
 
 *Slaves. We just killed a lot of slaves.*
 
-< Sorrow;Nauseated >
+< Sorrow; Nauseated >
 
 *At least it was quick. Better than what the Hunters had lined up for them...Anything else in there?*
 
