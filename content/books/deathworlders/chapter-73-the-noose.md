@@ -93,7 +93,7 @@ The Singer trilled. “Me. It’s very cute. But of his own age...Lem. Her mothe
 
 “Dying. Not a spreading-sickness, though. A hard lump inside her. *Can*-cer, I think.”
 
-“Human word?” Loor asked, then frowned when she nodded .”They can’t help?”
+“Human word?” Loor asked, then frowned when she nodded. ”They can’t help?”
 
 “They could. Maybe. They have *great* medicine...but Abi doesn’t want it. Says if the gods want to Take her now…” She hooted softly.
 
