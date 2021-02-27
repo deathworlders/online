@@ -576,7 +576,7 @@ I will see her next year.
 ___
 
 **Date Point: 18y4m1w AV**    
-**Clan of Females yacht** ***Name,*** **orbiting planet Gao**
+**Clan of Females yacht** ***Hopeful Star,*** **orbiting planet Gao**
 
 ***Naydra, Great Mother of the Gao***
 
