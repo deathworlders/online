@@ -320,7 +320,7 @@ Our musical tastes were different---he introduced me to his favourite genres, wh
 
 Whatever else it was, Earth was a rich source of artistic exports.
 
-It was also a fountain of though-provoking philosophy, novel ideas and unique pastimes. Human words started to slip into the languages of the station's crew, filling gaps in our philosophical vocabulary. Once every eight-diurnals, five of the crew could be found gathered around a table in the mess hall, rolling number polyhedra and apparently immersed in fantastical battles against impossible creatures that could breath fire, or turn a warrior to stone by meeting its gaze.
+It was also a fountain of thought-provoking philosophy, novel ideas and unique pastimes. Human words started to slip into the languages of the station's crew, filling gaps in our philosophical vocabulary. Once every eight-diurnals, five of the crew could be found gathered around a table in the mess hall, rolling number polyhedra and apparently immersed in fantastical battles against impossible creatures that could breath fire, or turn a warrior to stone by meeting its gaze.
 
 Another group borrowed the idea of "poetry reading" and took it in turns to stand up and read their compositions aloud---an exercise doomed to ridiculousness by the fact no two of them spoke the same language, but they took to it with enthusiasm.
 
