@@ -3,7 +3,7 @@ title: "Chapter 74: Ride to Hell"
 date: 2021-03-28T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
-**Date Point: 18y5m2w AV**    
+**Date Point: 18y5m2w AV**
 **High Mountain Fortress, the Northern Plains, Gao**
 
 ***Loomi, Champion and Stud-Prime of Highmountain***
@@ -234,7 +234,7 @@ He ended up hunting with the Great Father after all.
 
 ___
 
-**Date Point: 18y5m2w AV**    
+**Date Point: 18y5m2w AV**
 **The White House, Washington DC, USA, Earth**
 
 ***President Beau Chambliss***
@@ -268,7 +268,7 @@ He took a deep breath, then uncapped his pen and signed it. “I suppose we shal
 ___
 
 
-**Date Point: 18y5m2w3d AV**    
+**Date Point: 18y5m2w3d AV**
 **Georgia, Atlanta, USA, Earth**
 
 ***Six***
@@ -323,7 +323,7 @@ He would sit, and wait, and be ready. He had one shot at this.
 
 ____
 
-**Date Point: 18y5m2w5d AV**    
+**Date Point: 18y5m2w5d AV**
 **Planet Akyawentuo, the Ten’Gewek Protectorate**
 
 ***Vemik Given-Man***
@@ -506,7 +506,7 @@ ___
 
 **Date Point: 18y5m3w AV**
 
-***Lifting The Lockdown - Why Now?***     
+***Lifting The Lockdown - Why Now?***
 *by Ava Ríos*
 
 It’s been nearly a year since Franklin. A year without justice, and a year without Jump Arrays. For many here on Cimbrean, it’s been a year without family, and with life goals on hold. We’re a long way from Earth out here, after all, and it’s a dangerously exposed voyage by starship. Every aspect of life out here has felt the squeeze.
@@ -535,7 +535,7 @@ No other Allied government has yet commented.
 
 ___
 
-**Date Point: 18y6m AV**    
+**Date Point: 18y6m AV**
 **High Mountain Fortress, the Northern Plains, Gao**
 
 ***Finn, Champion and Stud of Clan Stoneback***
@@ -638,7 +638,7 @@ They hugged goodbye and gave each other a fond sniff, and parted ways. They had 
 
 ___
 
-**Date Point: 18y6m AV**    
+**Date Point: 18y6m AV**
 **Planet Akyawentuo**
 
 ***Vemik Given-Man***
@@ -707,7 +707,7 @@ He was looking forward to that.
 
 ___
 
-**Date Point: 18y6m AV**    
+**Date Point: 18y6m AV**
 **Atlanta, Georgia, USA, Earth**
 
 ***Six***
@@ -721,10 +721,10 @@ Albeit by far the most vexing and tenacious. So it was gratifying that things we
 [11:47:26] ANG6 > You got it?
 
 [11:49:54] Grace > I sure did! As requested, one two-month timetable for every jump between the USA and Cimbrean, complete with interstellar timing adjustment.
-*DOTJAschedCIM70204.csv*    
+*DOTJAschedCIM70204.csv*
 [11:50:57] Grace > If only I could provide you with the beacon keys. Are you sure this is enough? The lockdown’s lasted a year, and they’ve made a big show of how much more secure the arrays will be after the security upgrades...
 
-[11:50:59] ANG6 > I’ll worry about that.    
+[11:50:59] ANG6 > I’ll worry about that.
 [11:51:01] ANG6 > The sidereal adjustment is the crucial part.
 
 [11:51:35] Handler > Good work. I see two jumps that look especially promising, Folctha/Grand Central.
@@ -737,8 +737,8 @@ Albeit by far the most vexing and tenacious. So it was gratifying that things we
 
 [11:53:30] ANG6 > You are?
 
-[11:53:33] Handler > Aren’t you?    
-[11:53:35] Handler > When they catch me—and they will, eventually—I’ll disappear into a boring gray hole somewhere and never see the sky again. No thanks.    
+[11:53:33] Handler > Aren’t you?
+[11:53:35] Handler > When they catch me—and they will, eventually—I’ll disappear into a boring gray hole somewhere and never see the sky again. No thanks.
 [11:53:44] Handler > The same goes for all of you, btw.
 
 [11:54:17] Paul > Assuming they don’t just kill us, like they did to Ross.
@@ -749,17 +749,17 @@ But really, from Six’s perspective, the idea that this might be a one-way trip
 
 And, of course, there was plenty of precedent in his long experience that when well-motivated agents were more concerned with achieving their objective than with surviving the mission, the odds of success increased.
 
-[11:54:27] ANG6 > Good point.    
+[11:54:27] ANG6 > Good point.
 [11:54:29] ANG6 > Fuck it. Blaze of glory. Works for me.
 
 In more ways than one.
 
-[11:55:29] Handler > See you in New York, then.     
+[11:55:29] Handler > See you in New York, then.
 [11:55:36] Handler > We’ll give them something to remember us by.
 
 ___
 
-**Date Point: 18y6m AV**    
+**Date Point: 18y6m AV**
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Xiù Chang***
@@ -834,7 +834,7 @@ Let the arrays reopen. They’d be ready. No matter what happened.
 
 ___
 
-**Date Point: 18y6m AV**    
+**Date Point: 18y6m AV**
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Leela, purveyor of quality tacos***
@@ -979,7 +979,7 @@ She certainly wasn’t going anywhere. She was exactly where she wanted to be.
 
 __
 
-**Date Point: 18y6m AV**    
+**Date Point: 18y6m AV**
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Vemik Given-Man***
@@ -1058,7 +1058,7 @@ Loo-wiss was *talkative.* Smart too, but if left alone he’d just go on about w
 
 “You should always get good and strong,” Vemik intoned, “because life is hard if you’re weak.”
 
-*Loo-*see and *Loo-*wiss exchanged a Look that Vemik understood *instantly.* They looked at him too, she grinned…
+*Loo\-*see and *Loo\-*wiss exchanged a Look that Vemik understood *instantly.* They looked at him too, she grinned…
 
 Hmm! Still. He’d best be polite. Loo-wiss seemed like a *good* friend to have.
 
@@ -1082,7 +1082,7 @@ Either way...this trip wasn’t boring so far.
 
 ___
 
-**Date Point: 18y6m2d AV**    
+**Date Point: 18y6m2d AV**
 **Salvage operation, planet Hell**
 
 ***Alpha of the Flensing-Brood***
@@ -1103,7 +1103,7 @@ To any right-thinking Eater, they were a bland ration and nothing more. So bland
 
 Perhaps that lack of stimulation was why it started, after a while, to think almost like it imagined the Builders must.
 
-The rail network had a pulse to it. The great pulling machines never transited through the jump arrays themselves, but instead pulled and pushed like great steel muscles, shunting cars full of salvage into place, then hauling off the returning empties and supply shipments. Each huge, black **thump** as the array fired was a heartbeat, and that was an inroads to examine the whole affair as an organism.  
+The rail network had a pulse to it. The great pulling machines never transited through the jump arrays themselves, but instead pulled and pushed like great steel muscles, shunting cars full of salvage into place, then hauling off the returning empties and supply shipments. Each huge, black **thump** as the array fired was a heartbeat, and that was an inroads to examine the whole affair as an organism.
 
 Yes. A large Hunter, feeding on a corpse. Blood pumping, teeth slicing, maw gulping, claws rending, belly digesting. And the Flensing-brood were the immune system.
 
@@ -1127,7 +1127,7 @@ The Flensing-Brood would *welcome* them.
 
 ___
 
-**Date Point:18y6m5d AV**    
+**Date Point:18y6m5d AV**
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Vemik Given-Man***
@@ -1172,7 +1172,7 @@ The Fire wasn’t bothering him so much anymore. The three of them devoured thei
 
 “Do you have a plan, big guy? Or are you just gonna play it by ear?”
 
-“*Shoo-*ster invite me to his apartment! He wants to show me New York *properly,* he say.” Vemik hooted happily. He’d been in touch with the funny-dressing librarian ever since his first visit, and was looking forward to seeing him again. “Will be busy all week!”
+“*Shoo\-*ster invite me to his apartment! He wants to show me New York *properly,* he say.” Vemik hooted happily. He’d been in touch with the funny-dressing librarian ever since his first visit, and was looking forward to seeing him again. “Will be busy all week!”
 
 “Ayup,” Heff grunted. “We got security arranged for that. Just a QRF that’ll be following y’all around the city, nothing too obtrusive.”
 
@@ -1254,7 +1254,7 @@ Maybe this visit wouldn’t be such a trial after all...
 
 ___
 
-**Date Point: 18y6m5d AV**    
+**Date Point: 18y6m5d AV**
 **Queens, New York, USA, Earth**
 
 ***Six***
@@ -1360,7 +1360,7 @@ It was enough that they were fighting to the end.
 
 ___
 
-**Date Point: 18y6m1w AV**    
+**Date Point: 18y6m1w AV**
 **Starship** ***Silent But Deadly,*** **Hell system, deep Hunter space.**
 
 ***Tooko, Brother and Stud of Clan Firefang***
@@ -1409,14 +1409,14 @@ He could handle being lonely, so long as he was being useful.
 
 ___
 
-**Date Point: 18y6m1w5d AV**    
+**Date Point: 18y6m1w5d AV**
 **New York City, USA, Earth**
 
 ***Vemik Given-Man***
 
 *Food.*
 
-Professor had been right, New York was *filled* with food, so much that Vemik could taste it on the air before he even stepped outside. *Shoo-*ster bought him a hot dog on the walk over to the library, just as a little snack “before later.” Apparently, hot dogs weren’t made from dog, which made Vemik happy. They seemed like friends, and people shouldn’t eat their friends.  
+Professor had been right, New York was *filled* with food, so much that Vemik could taste it on the air before he even stepped outside. *Shoo\-*ster bought him a hot dog on the walk over to the library, just as a little snack “before later.” Apparently, hot dogs weren’t made from dog, which made Vemik happy. They seemed like friends, and people shouldn’t eat their friends.
 
 Giving his books to the library had been easy enough. The Humans had made a small ceremony of it, thanking him and handling the books with special reverence. Apparently they were going to be thoroughly scanned and spread across the world for people to read.
 
@@ -1478,7 +1478,7 @@ He was being hunted.
 
 ___
 
-**Date point: 18y6m1w5d AV**    
+**Date point: 18y6m1w5d AV**
 **New York City, USA, Earth**
 
 ***Six***
@@ -1536,7 +1536,7 @@ It was, at last, showtime.
 
 ___
 
-**Date Point: 18y6m1w5d AV**    
+**Date Point: 18y6m1w5d AV**
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Julian Etsicitty***
@@ -1619,14 +1619,14 @@ Until he knew *everyone* was safe.
 
 ___
 
-**Date Point:18y6m1w5d AV**    
+**Date Point:18y6m1w5d AV**
 **Park Avenue, Manhattan, NYC, USA, Earth**
 
 ***Vemik Given-Man***
 
 There was a reason Vemik had decided to visit New York alone and insisted on leaving Singer behind, despite how much he’d have really preferred she come with. It was sad he’d been proven right.
 
-Dangerous Humans could be *very* dangerous, Vemik knew. He’d fought and wrassled with more than a hand of them. Jooyun had been his friendly rival since they first met and they had always stayed a good match, even now that Vemik could crush him flat. War-horse (of course) could break Vemik like a Forest-Father’s bark underfoot. Gods, *Yan* couldn’t out-fight the big Human yet, even though he was outlifting ‘Horse more and more every time they met! *Criss-*chen was still strong and quick enough to give Vemik a good challenge…
+Dangerous Humans could be *very* dangerous, Vemik knew. He’d fought and wrassled with more than a hand of them. Jooyun had been his friendly rival since they first met and they had always stayed a good match, even now that Vemik could crush him flat. War-horse (of course) could break Vemik like a Forest-Father’s bark underfoot. Gods, *Yan* couldn’t out-fight the big Human yet, even though he was outlifting ‘Horse more and more every time they met! *Criss\-*chen was still strong and quick enough to give Vemik a good challenge…
 
 Vemik only needed two fingers to count all the Humans who could fight him just with their strength, but not all Human danger was so forward and upright. *Sneaky* danger was what he had to watch for. Humans could be *very* good hunters.
 
