@@ -1607,7 +1607,7 @@ Xiù gave him a shrewd look, then nodded and rolled off his lap. “More to it t
 
 She nodded and headed for the stairs. “You call the boys, I’ll get Harrison and Anna in the car.”
 
-And that was that. No alarm, no freakout, no trying to tell him he was worrying over nothing. All he had to do was *hint,* and she knew exactly what she needed to do to protect their family, and did it. And if it turned out later that his concern was over nothing, well, hey, there were worse ways to spend an afternoon than a surprise hike in the woods.
+*God,* she was sharp. No alarm, no freakout, no trying to tell him he was worrying over nothing. All he had to do was *hint,* and she knew exactly what she needed to do to protect their family, and did it. And if it turned out later that his concern was over nothing, well, hey, there were worse ways to spend an afternoon than a surprise hike in the woods.
 
 How the fuck had he ever got so lucky?
 
