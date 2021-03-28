@@ -269,7 +269,7 @@ ___
 
 
 **Date Point: 18y5m2w3d AV**    
-**Georgia, Atlanta, USA, Earth**
+**Atlanta, Georgia, USA, Earth**
 
 ***Six***
 
@@ -720,11 +720,11 @@ Albeit by far the most vexing and tenacious. So it was gratifying that things we
 
 [11:47:26] ANG6 > You got it?
 
-[11:49:54] Grace > I sure did! As requested, one two-month timetable for every jump between the USA and Cimbrean, complete with interstellar timing adjustment.
-*DOTJAschedCIM70204.csv*
-[11:50:57] Grace > If only I could provide you with the beacon keys. Are you sure this is enough? The lockdown’s lasted a year, and they’ve made a big show of how much more secure the arrays will be after the security upgrades...
+[11:49:54] Grace > I sure did! As requested, one two-month timetable for every jump between the USA and Cimbrean, complete with interstellar timing adjustment.    
+*DOTJAschedCIM70204.csv*    
+[11:50:57] Grace > If only I could provide you with the beacon keys. Are you sure this is enough? The lockdown’s lasted a year, and they’ve made a big show of how much more secure the arrays will be after the security upgrades...    
 
-[11:50:59] ANG6 > I’ll worry about that.
+[11:50:59] ANG6 > I’ll worry about that.    
 [11:51:01] ANG6 > The sidereal adjustment is the crucial part.
 
 [11:51:35] Handler > Good work. I see two jumps that look especially promising, Folctha/Grand Central.
@@ -737,8 +737,8 @@ Albeit by far the most vexing and tenacious. So it was gratifying that things we
 
 [11:53:30] ANG6 > You are?
 
-[11:53:33] Handler > Aren’t you?
-[11:53:35] Handler > When they catch me—and they will, eventually—I’ll disappear into a boring gray hole somewhere and never see the sky again. No thanks.
+[11:53:33] Handler > Aren’t you?    
+[11:53:35] Handler > When they catch me—and they will, eventually—I’ll disappear into a boring gray hole somewhere and never see the sky again. No thanks.    
 [11:53:44] Handler > The same goes for all of you, btw.
 
 [11:54:17] Paul > Assuming they don’t just kill us, like they did to Ross.
@@ -749,12 +749,12 @@ But really, from Six’s perspective, the idea that this might be a one-way trip
 
 And, of course, there was plenty of precedent in his long experience that when well-motivated agents were more concerned with achieving their objective than with surviving the mission, the odds of success increased.
 
-[11:54:27] ANG6 > Good point.
+[11:54:27] ANG6 > Good point.     
 [11:54:29] ANG6 > Fuck it. Blaze of glory. Works for me.
 
 In more ways than one.
 
-[11:55:29] Handler > See you in New York, then.
+[11:55:29] Handler > See you in New York, then.    
 [11:55:36] Handler > We’ll give them something to remember us by.
 
 ___
