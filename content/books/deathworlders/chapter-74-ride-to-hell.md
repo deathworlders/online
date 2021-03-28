@@ -1058,7 +1058,7 @@ Loo-wiss was *talkative.* Smart too, but if left alone he’d just go on about w
 
 “You should always get good and strong,” Vemik intoned, “because life is hard if you’re weak.”
 
-*Loo\-*see and *Loo\-*wiss exchanged a Look that Vemik understood *instantly.* They looked at him too, she grinned…
+*Loo*-see and *Loo*-wiss exchanged a Look that Vemik understood *instantly.* They looked at him too, she grinned…
 
 Hmm! Still. He’d best be polite. Loo-wiss seemed like a *good* friend to have.
 
@@ -1172,7 +1172,7 @@ The Fire wasn’t bothering him so much anymore. The three of them devoured thei
 
 “Do you have a plan, big guy? Or are you just gonna play it by ear?”
 
-“*Shoo\-*ster invite me to his apartment! He wants to show me New York *properly,* he say.” Vemik hooted happily. He’d been in touch with the funny-dressing librarian ever since his first visit, and was looking forward to seeing him again. “Will be busy all week!”
+“*Shoo*-ster invite me to his apartment! He wants to show me New York *properly,* he say.” Vemik hooted happily. He’d been in touch with the funny-dressing librarian ever since his first visit, and was looking forward to seeing him again. “Will be busy all week!”
 
 “Ayup,” Heff grunted. “We got security arranged for that. Just a QRF that’ll be following y’all around the city, nothing too obtrusive.”
 
@@ -1416,7 +1416,7 @@ ___
 
 *Food.*
 
-Professor had been right, New York was *filled* with food, so much that Vemik could taste it on the air before he even stepped outside. *Shoo\-*ster bought him a hot dog on the walk over to the library, just as a little snack “before later.” Apparently, hot dogs weren’t made from dog, which made Vemik happy. They seemed like friends, and people shouldn’t eat their friends.
+Professor had been right, New York was *filled* with food, so much that Vemik could taste it on the air before he even stepped outside. *Shoo*-ster bought him a hot dog on the walk over to the library, just as a little snack “before later.” Apparently, hot dogs weren’t made from dog, which made Vemik happy. They seemed like friends, and people shouldn’t eat their friends.
 
 Giving his books to the library had been easy enough. The Humans had made a small ceremony of it, thanking him and handling the books with special reverence. Apparently they were going to be thoroughly scanned and spread across the world for people to read.
 
@@ -1626,7 +1626,7 @@ ___
 
 There was a reason Vemik had decided to visit New York alone and insisted on leaving Singer behind, despite how much he’d have really preferred she come with. It was sad he’d been proven right.
 
-Dangerous Humans could be *very* dangerous, Vemik knew. He’d fought and wrassled with more than a hand of them. Jooyun had been his friendly rival since they first met and they had always stayed a good match, even now that Vemik could crush him flat. War-horse (of course) could break Vemik like a Forest-Father’s bark underfoot. Gods, *Yan* couldn’t out-fight the big Human yet, even though he was outlifting ‘Horse more and more every time they met! *Criss\-*chen was still strong and quick enough to give Vemik a good challenge…
+Dangerous Humans could be *very* dangerous, Vemik knew. He’d fought and wrassled with more than a hand of them. Jooyun had been his friendly rival since they first met and they had always stayed a good match, even now that Vemik could crush him flat. War-horse (of course) could break Vemik like a Forest-Father’s bark underfoot. Gods, *Yan* couldn’t out-fight the big Human yet, even though he was outlifting ‘Horse more and more every time they met! *Criss*-chen was still strong and quick enough to give Vemik a good challenge…
 
 Vemik only needed two fingers to count all the Humans who could fight him just with their strength, but not all Human danger was so forward and upright. *Sneaky* danger was what he had to watch for. Humans could be *very* good hunters.
 
