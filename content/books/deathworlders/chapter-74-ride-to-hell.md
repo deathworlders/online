@@ -174,7 +174,7 @@ Loomi felt the breeze between his ears and panted happily. “The Hierarchy are 
 
 “More’n that,” Daar rumbled. “I kinda suspect we were already let mostly off the leash in preparation for the Hunters...and then the Humans showed up. There was prob’ly a hasty effort to retarget our ire too, hence the fear-mongering in th’ media…”
 
-Loomi duck-nodded. “But it was too late. Something about our peoples’ social nature and their canid history, combined with an almost *unbelievable* series of fortunate encounters…”
+Loomi duck-nodded. “But it was too late. Something about our peoples’ social nature and their candid history, combined with an almost *unbelievable* series of fortunate encounters…”
 
 “It’s enough ‘ta make you wonder, ain’t it?”
 
