@@ -2032,62 +2032,90 @@ Sian, Steve, Willow and Riker
 
 ---
 
-**Forty** ***Humans***
-
+**35** ***Humans***
 
 TTTA
+
 Adam Shearsby
+
 Alvaro Gaitan
+
 Anthony Landry
+
 Anthony Youhas
+
 Armond471
+
 Austin Deschner
-blackwolf393
+
 Brigid
+
 Chris Candreva
+
 Chris Dye
+
 Daniel Iversen
+
 Daniel Morris
+
 Eric Hardwick
-HungryWerewolf
+
 James Ren
-Jeffrey Stults
+
 John Norton
+
 Joseph Szuma
+
 Joshua Mountain Taylor
+
 Karthik Mohanarangan
+
 Katja
+
 Krit Barb
+
 Marquis Talmadge
+
 Nicolas Gruenbeck
+
 Ortheri
+
 Rob Rollins
+
 Ryan Seaman
+
 Sam Berry
+
 Shane Wegner
+
 Sun Rendered
+
 T.A. Carlson
+
 Taylor McGee
+
 TheMoneyBadger
+
 Theningaraf
-Trevor C
+
 Xultanis
+
 Yeania Aeon
+
 Zachary Galicki
-Zenith
 
 
 ---
 
-As well as **fifty-seven** ***Deathworlders...***
+As well as **62** ***Deathworlders...***
 
 Adam Beeman
-Alexandre Smirnov
 Andrew
 Andrew Ford
 Andrew Preece
 atp
 Ben Thrussell
+blackwolf393
 Brandon Hicks
 Bruce Ludington
 Chris Bausch
@@ -2101,15 +2129,19 @@ galrock0
 Gavin Smart
 Ignate Flare
 Ivan Smirnov
+Jeffrey Stults
 Jim Hamrick
+jmal116
 John Campbell
 Jon
+Joseph Bark
 Justin Hood
 Katie Drzewiecki
 Kristoffer Skarra
 Lina
 lovot
 Matt
+Matt Bullock
 Matt Demm
 Matthew Cook
 Max Bohling
@@ -2118,18 +2150,19 @@ Mikee Elliott
 Nathaniel Batts
 Nick Annunziata
 NightKhaos
+Nikita Becker
 Patrick Huizinga
 Richard A Anstett
+Riding Badger
 RJ Smiley
 Ryan Cadiz
+Ryc O'Chet
 Sam
-Saph
 Sean Calvo
 Sir Xaph
 Stephen Prescott
-Stratigan
 theWorst
-Valiander
+Trevor C
 Vincent Leighton
 Volka Creed
 walter thomas
@@ -2139,7 +2172,8 @@ Yshmael Salas
 ziv
 Zod Bain
 
-**...Eighty-five** ***Friendly ETs,*** **145** ***Squishy Xenos*** and **318** ***Dizi Rats,*** all hanging on the christmas tree.
+
+**76** ***Friendly ETs,***  **145** ***Squishy Xenos*** and **318** ***Dizi Rats,*** all hanging on the christmas tree.
 
 ---
 
