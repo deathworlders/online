@@ -3,7 +3,7 @@ title: "Chapter 74: Ride to Hell"
 date: 2021-03-28T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
-**Date Point: 18y5m2w AV**
+**Date Point: 18y5m2w AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
 ***Loomi, Champion and Stud-Prime of Highmountain***
