@@ -3,7 +3,7 @@ title: "Chapter 74: Ride to Hell"
 date: 2021-03-28T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
-**Date Point: 18y5m2w AV**
+**Date Point: 18y5m2w AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
 ***Loomi, Champion and Stud-Prime of Highmountain***
@@ -234,7 +234,7 @@ He ended up hunting with the Great Father after all.
 
 ___
 
-**Date Point: 18y5m2w AV**
+**Date Point: 18y5m2w AV**        
 **The White House, Washington DC, USA, Earth**
 
 ***President Beau Chambliss***
@@ -323,7 +323,7 @@ He would sit, and wait, and be ready. He had one shot at this.
 
 ____
 
-**Date Point: 18y5m2w5d AV**
+**Date Point: 18y5m2w5d AV**    
 **Planet Akyawentuo, the Ten’Gewek Protectorate**
 
 ***Vemik Given-Man***
@@ -504,7 +504,7 @@ He trilled happily, collected his samples, and continued on his way. There was m
 
 ___
 
-**Date Point: 18y5m3w AV**
+**Date Point: 18y5m3w AV**    
 
 ***Lifting The Lockdown - Why Now?***
 *by Ava Ríos*
@@ -535,7 +535,7 @@ No other Allied government has yet commented.
 
 ___
 
-**Date Point: 18y6m AV**
+**Date Point: 18y6m AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
 ***Finn, Champion and Stud of Clan Stoneback***
@@ -638,7 +638,7 @@ They hugged goodbye and gave each other a fond sniff, and parted ways. They had 
 
 ___
 
-**Date Point: 18y6m AV**
+**Date Point: 18y6m AV**    
 **Planet Akyawentuo**
 
 ***Vemik Given-Man***
@@ -707,7 +707,7 @@ He was looking forward to that.
 
 ___
 
-**Date Point: 18y6m AV**
+**Date Point: 18y6m AV**    
 **Atlanta, Georgia, USA, Earth**
 
 ***Six***
@@ -759,7 +759,7 @@ In more ways than one.
 
 ___
 
-**Date Point: 18y6m AV**
+**Date Point: 18y6m AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Xiù Chang***
@@ -834,7 +834,7 @@ Let the arrays reopen. They’d be ready. No matter what happened.
 
 ___
 
-**Date Point: 18y6m AV**
+**Date Point: 18y6m AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Leela, purveyor of quality tacos***
@@ -979,7 +979,7 @@ She certainly wasn’t going anywhere. She was exactly where she wanted to be.
 
 __
 
-**Date Point: 18y6m AV**
+**Date Point: 18y6m AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Vemik Given-Man***
@@ -1082,7 +1082,7 @@ Either way...this trip wasn’t boring so far.
 
 ___
 
-**Date Point: 18y6m2d AV**
+**Date Point: 18y6m2d AV**    
 **Salvage operation, planet Hell**
 
 ***Alpha of the Flensing-Brood***
@@ -1127,7 +1127,7 @@ The Flensing-Brood would *welcome* them.
 
 ___
 
-**Date Point:18y6m5d AV**
+**Date Point:18y6m5d AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Vemik Given-Man***
@@ -1254,7 +1254,7 @@ Maybe this visit wouldn’t be such a trial after all...
 
 ___
 
-**Date Point: 18y6m5d AV**
+**Date Point: 18y6m5d AV**    
 **Queens, New York, USA, Earth**
 
 ***Six***
@@ -1360,7 +1360,7 @@ It was enough that they were fighting to the end.
 
 ___
 
-**Date Point: 18y6m1w AV**
+**Date Point: 18y6m1w AV**    
 **Starship** ***Silent But Deadly,*** **Hell system, deep Hunter space.**
 
 ***Tooko, Brother and Stud of Clan Firefang***
@@ -1409,7 +1409,7 @@ He could handle being lonely, so long as he was being useful.
 
 ___
 
-**Date Point: 18y6m1w5d AV**
+**Date Point: 18y6m1w5d AV**    
 **New York City, USA, Earth**
 
 ***Vemik Given-Man***
@@ -1478,7 +1478,7 @@ He was being hunted.
 
 ___
 
-**Date point: 18y6m1w5d AV**
+**Date point: 18y6m1w5d AV**    
 **New York City, USA, Earth**
 
 ***Six***
@@ -1536,7 +1536,7 @@ It was, at last, showtime.
 
 ___
 
-**Date Point: 18y6m1w5d AV**
+**Date Point: 18y6m1w5d AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Julian Etsicitty***
@@ -1619,7 +1619,7 @@ Until he knew *everyone* was safe.
 
 ___
 
-**Date Point:18y6m1w5d AV**
+**Date Point:18y6m1w5d AV**    
 **Park Avenue, Manhattan, NYC, USA, Earth**
 
 ***Vemik Given-Man***
