@@ -538,7 +538,7 @@ ___
 **Date Point: 18y6m AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
-***Finn, Champion and Stud of Clan Stoneback***
+***Fiin, Champion and Stud of Clan Stoneback***
 
 Strategic war-planning among the Big Three---himself, Grandfather Vark, and the Great Father---often started out as a muscular sort of male bonding event that could only be described as *painfully* Stoneback in its nature.
 
@@ -612,7 +612,7 @@ Vark flicked an ear, acknowledging that caution, but forged ahead. “Ultimately
 
 “‘Kay. So the tail-pull here is, somehow, findin’ a way to sneak in,” Fiin duck-nodded.
 
-“Exactly. An’ all that salvage traffic is our best bet. They’re cartin’ a *lot* o’ salvaged material off Hell every day, and cartin’ a lot o’ supplies an’ equipment *onto* Hell goin’ the other way. Each such shipment is a weak point.””
+“Exactly. An’ all that salvage traffic is our best bet. They’re cartin’ a *lot* o’ salvaged material off Hell every day, and cartin’ a lot o’ supplies an’ equipment *onto* Hell goin’ the other way. Each such shipment is a weak point.”
 
  “So...stick a beacon on ‘em? Somethin’ like that? How wouldn’t they notice?”
 
@@ -1148,7 +1148,7 @@ And Vemik Given-Man couldn’t think of any place safer than the New York Public
 
 First, though, he had a briefing with Jooyun. And Jooyun, being a smart sort of man, knew the only way Vemik would have the focus was if he was completely exhausted, with a belly full of good food and happily gurgling away.
 
-“...Twenty! *One more,* you big fucker! **PUSH!!””**
+“...Twenty! *One more,* you big fucker! **PUSH!!”**
 
 Vemik *pushed.* Pushed as hard as he could, so hard his arms started to shake, his vision got dark at the edges, and that heavy bar moved up a little, a little more…
 
@@ -1771,7 +1771,7 @@ He’d just need to be quick, or avoid being caught.
 
 Easy to be quiet, though. Big city, big noise outside, music playing from a radio for the workers. He didn’t have to worry about being heard as he moved, and he was quickly getting a sense for how these four thought and moved and searched.
 
-He could tell they’d had some practice, and been told to do by someone who knew how to fight. But they weren’t very good apprentices. Their movements were sloppy. They didn’t cover each other’s fires very well---he’d been practicing with Ferd and friends, when he had time and when they’d been able to let him. Guns weren’t *too* different from bows, you had to think about where the pointy end could reach, after all.
+He could tell they’d had some practice, and been told what to do by someone who knew how to fight. But they weren’t very good apprentices. Their movements were sloppy. They didn’t cover each other’s fires very well---he’d been practicing with Ferd and friends, when he had time and when they’d been able to let him. Guns weren’t *too* different from bows, you had to think about where the pointy end could reach, after all.
 
 They also weren’t tree-thinking. He was *right above them* and they weren’t looking up.
 
@@ -1855,7 +1855,7 @@ So, he crushed them. And enjoyed doing it.
 
 They came stampeding out of the stairwell without any caution, like they’d already won, or like they were too excited to think. Vemik was waiting for them, hanging from the partial ceiling off to the side.
 
-He didn’t give them the chance to notice. He swung forward and tackled the first, feet first. He let his full weight land square in the middle of his attacker’s back, kicked off with his legs through his attacker and against the floor. There was a crunch and a wet splash, which he barely noticed. His leap let him tackle the second more fiercely than the first, then pull his broken body apart like a flailing naydra. The third had enough time to wheel himself around but not enough to aim, so Vemik grabbed him, clubbed the fourth with the third, and then tossed his victim aside through the flimsy wall.
+He didn’t give them the chance to notice. He swung forward and tackled the first, feet first. He let his full weight land square in the middle of his attacker’s back, kicked off with his legs through his attacker and against the floor. There was a crunch and a wet splash, which he barely noticed. His leap let him tackle the second more fiercely than the first, then pull his broken body apart like a flailing neyma. The third had enough time to wheel himself around but not enough to aim, so Vemik grabbed him, clubbed the fourth with the third, and then tossed his victim aside through the flimsy wall.
 
 There was a thud and a shriek, somewhere off to his right. One idiot left, who was just recovering from the hit. Humans were rarely very strong, but they were *always* tough, and always tougher than they looked. Idiot was tough enough to spring up to his feet, grab a knife from his belt and keep trying to fight. Slash, swipe—
 
@@ -1934,7 +1934,7 @@ He plucked one out, plugged his phone in, closed his eyes and dropped out of the
 
 From his perspective, that bought him time to think.
 
-Okay. The Humans had promised tougher security around the Arrays, and they hadn’t been lying. That magnet quench was a*problem,* but not necessarily fatal. He started prying at the software security, found it as prickly and obtuse as Human programming always was, but he’d spent a long time on Earth now, and much of it plugged into the Internet, exploring, testing, learning.
+Okay. The Humans had promised tougher security around the Arrays, and they hadn’t been lying. That magnet quench was a *problem,* but not necessarily fatal. He started prying at the software security, found it as prickly and obtuse as Human programming always was, but he’d spent a long time on Earth now, and much of it plugged into the Internet, exploring, testing, learning.
 
 The network had never been built that an Igraen datamind couldn’t penetrate.
 
@@ -1946,7 +1946,7 @@ He was abruptly dumped back into the sickening, cold, *painful* world of the phy
 
 “Wh-?”
 
-It was dark. There was a beep, and emergency lighting came on, red and dull, but just enough for the human eye to see by. Something else was absent, too, and it took Six a moment to identify it: the constant background sixty hertz hum that pervaded any civilized Human space was...gone.
+It was dark. There was a beep, a buzz, and emergency lighting came on, red and dull but just enough for the human eye to see by. Something else was absent, too, and it took Six a moment to identify it: the constant background sixty hertz hum that pervaded any civilized Human space was...gone.
 
 The only signal source his implants could pick up was his phone. Otherwise...Nothing.
 
