@@ -4,7 +4,7 @@ date: 2016-10-30
 aliases:
   - /book/deathworlders/chapter-33-metadyskolia
 ---
-**Date Point: October, 10y10m2w3d AV**     
+**Date Point: October, 10y10m2w3d AV**
 **Crzlrfek System, The Freedom Stars**
 
 ***Warhorse***
@@ -44,7 +44,7 @@ Fuck it. Fuck words. He slammed the head flat-palmed into the nearest wall, crus
 He dreamed of gunfire, and somebody calling *”Man down!”*
 ___
 
-**Date Point: October 10y10m2w4d AV**    
+**Date Point: October 10y10m2w4d AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -74,7 +74,7 @@ I will see her again in two weeks or on an emergency basis.
 -Lt. K Mears
 Counsellor, HMS *Sharman*
 ____
-**Date Point 10y10m2w4d AV**    
+**Date Point 10y10m2w4d AV**
 **Command Station 1053** ***’Linchpin Of Infinity’,*** **Orbiting Planet Vetrin, The Orin Line**
 
 ***Fleetmaster Garal***
@@ -107,7 +107,7 @@ Garal didn’t comment.
 
 “As you command, Fleetmaster.”
 ___
-**Date Point: October 10y10m2w4d AV**    
+**Date Point: October 10y10m2w4d AV**
 **HMS** ***Valiant,*** **Orbiting Planet Vetrin, The Orin Line**
 
 ***Colour Sergeant Robert Murray***
@@ -116,7 +116,7 @@ ___
 
 Murray shrugged noncommittally. “Bloody thrashed, but alive,” he said. “...How is he?”
 
-*Valiant*’s chief medical officer, Doctor Moorman, glanced at his infirmary’s only patient who was rather too large for his bed. “Sedated, but conscious. One of the awkward side-effects of Crue-D, while you chaps are on it you’re all but impossible to put under… though considering that we’d have lost him without it, I can live with that.”
+*Valiant’s* chief medical officer, Doctor Moorman, glanced at his infirmary’s only patient who was rather too large for his bed. “Sedated, but conscious. One of the awkward side-effects of Crue-D, while you chaps are on it you’re all but impossible to put under… though considering that we’d have lost him without it, I can live with that.”
 
 “Can I have a wee word with him?”
 
@@ -124,7 +124,7 @@ Murray shrugged noncommittally. “Bloody thrashed, but alive,” he said. “..
 
 ‘Horse on meds was almost guaranteed to be amusing. He aimed a big thumbs up and his largest, most goofiest smile as Murray joined him. “Heyyy, bro.”
 
-“You are an absolute fuckin’ madman, you know that?” Murray said affectionately and sat down. They locked hands in a brothers’ handshake. “And I’d be dead if not for you, so… thanks.”
+“You are an absolute fuckin’ madman, you know that?” Murray said affectionately and sat down. They locked hands in a brothers’ handshake. “And I’d be dead if not for you, so…thanks.”
 
 ‘Horse grinned and waved it off in the happy, high way of a man who was dosed up to the gills. “‘S what I’m for.”
 
@@ -156,7 +156,7 @@ Murray did his best to put an arm round the younger man’s shoulders, and made 
 
 “Makes me wonder, though…”
 
-“Of course it does. But we do what we do so other people don’t have to, mate, and we look out for each other. I canny throw you across a fuckin’ room, but…*Ack!*”
+“Of course it does. But we do what we do so other people don’t have to, mate, and we look out for each other. I canny throw you across a fuckin’ room, but… *Ack!”*
 
 Adam could hug hard enough to crush oil drums, but he *usually* never forgot it. This time was an exception and Murray felt his joints creak before Adam remembered himself and eased off a bit.
 
@@ -185,7 +185,7 @@ Adam sighed and let go, and Murray stood up. “Here and now ye’re alive, pal,
 “Because I *really* wanted to see the Fleetmaster’s face when Stainless delivers the good news...”
 ___
 
-**Date Point: October 10y10m2w4d AV**    
+**Date Point: October 10y10m2w4d AV**
 **Command Station 1053** ***’Linchpin Of Infinity’,*** **Orbiting Planet Vetrin, The Orin Line**
 
 ***Fleetmaster Garal***
@@ -254,7 +254,7 @@ The human snorted and reached out to flick one of the head’s ears with his fin
 
 “Why?” Garal felt like she was being yanked through the conversation.
 
-The human smiled slightly. It went a finger’s width up only one side of his mouth without touching his eyes at all, and was *not* a friendly or happy gesture. “In my culture we have a warning, Fleetmaster,” he said. “It goes *’be careful what you wish for; you might get it’.*”
+The human smiled slightly. It went a finger’s width up only one side of his mouth without touching his eyes at all, and was *not* a friendly or happy gesture. “In my culture we have a warning, Fleetmaster,” he said. “It goes *’be careful what you wish for; you might get it.'”*
 
 “I don’t remember asking for a *severed head* on my… What is your name, anyway?” Garal finally managed to haul herself back into what she hoped was control of the conversation.
 
@@ -266,7 +266,7 @@ Garal sputtered as they turned and left her office, an oozing body part and a on
 
 “No, wait!” Garal stormed to the door and pointed at her aide. “You: Stop them.”
 
-“Uh…” the poor Vzk’tk thus addressed watched the humans thump purposefully out the door. “...I beg your pardon fleetmaster but… *how?*”
+“Uh…” the poor Vzk’tk thus addressed watched the humans thump purposefully out the door. “...I beg your pardon fleetmaster but…how?”
 
 The door closed behind them, and Garal ran two of her hands over her scalp while the other two planted themselves on her hips---a gesture of being totally at a loss.
 
@@ -280,14 +280,14 @@ The Vzk’tk blinked. “...How, Fleetmaster?”
 
 Garal spun back into her office. “Remind me what happened *this* time,” she snapped.
 ___
-**Date Point: November 10y11m1w AV**    
+**Date Point: November 10y11m1w AV**
 **BGEV-11** ***’Misfit’,*** **Interstellar deep space, near the Border Stars**
 
 ***Allison Buehler***
 
 Deep space travel had its own slow rhythm, and adjusting to that rhythm after months of constant scheduled activity was a challenge. They all knew how, of course, they’d all been there before… but once the daily work routine was out of the way, the ship cleaned and maintained, the laundry done, their meals prepared, their bodies exercised and their chores complete then the only two ways left to pass the time were education and entertainment, and they all *hated* the education side of it.
 
-All three of them were hands-on, learn-by-doing types and Allison had surprised herself with how well she had picked up the academic component of *Misfit*’s needs. The desperate determination to not fail Julian and Xiù had driven her to achieve things that her high school teachers would never have imagined, and she’d done it all for *them*.
+All three of them were hands-on, learn-by-doing types and Allison had surprised herself with how well she had picked up the academic component of *Misfit’s* needs. The desperate determination to not fail Julian and Xiù had driven her to achieve things that her high school teachers would never have imagined, and she’d done it all for *them*.
 
 But now she had to learn their jobs, and they had to learn hers. They just couldn’t *afford* to be exclusively specialized because no matter what their personal feelings on the matter were, the Group had made it clear that *’just in case’* anything happened to one of them, the others would be able to get home.
 
@@ -295,7 +295,7 @@ Which meant that whether they liked it or not, they’d learned each others’ j
 
 They all had the basics down, they’d never have taken off otherwise. But their in-flight training time was supposed to be about digging into the academic minutiae of other's’ jobs, and all three of them were struggling, and were thus feeling frustrated and incompetent.
 
-They *weren’t*, demonstrably so. But the more they studied the more clear it became that they really had been well-assigned. Julian and Xiù seemed convinced that *Misfit*’s engineering was more fragile and hazardous than was really the case, neither Xiù nor Allison had the temperament for memorizing hundreds of different kinds of rock and how to identify them from orbit, and Allison and Julian were both far too heavy-handed for *Misfit*’s spirited controls.
+They *weren’t*, demonstrably so. But the more they studied the more clear it became that they really had been well-assigned. Julian and Xiù seemed convinced that *Misfit’s* engineering was more fragile and hazardous than was really the case, neither Xiù nor Allison had the temperament for memorizing hundreds of different kinds of rock and how to identify them from orbit, and Allison and Julian were both far too heavy-handed for *Misfit’s* spirited controls.
 
 They were also forcing themselves into working shifts, and that was coming with all sorts of problems because they’d grown used to sleeping in one warm snuggle. The pattern of two awake and one asleep just didn’t work for them at all, because the sleeper invariably complained of feeling alone or cold. None of them were sleeping well, except when they caved to temptation and cuddled up for an unprofessional triple nap.
 
@@ -369,7 +369,7 @@ Xiù nodded and listened.
 
 “They were *so* fucking insecure. They’d get into fights over fucking nothing because their precious little princess egos couldn’t handle the least little disrespect… like, say, turning them down when they made a pass,” Allison scoffed. “...and they never wanted the *’little girl’* fixing their bike either. And trust me, having a guy like that angry at you is… it’s scary. That’s why I started carrying.”
 
-“*Āi ya…*”
+*“Āi ya…”*
 
 “Yeah… Well, Julian’s confident and calm, and that makes him more of a man than any of those shitkickers. He doesn’t *need* to be the boss dog. And… You know how he sees himself in this, right?” she asked, spiralling the fork to indicate the three of them.
 
@@ -381,7 +381,7 @@ Xiù nodded and listened.
 
 “You want him to call you a *’good girl’* ‘cause that’d make you happy?” Allison teased. “Kinky. Do you want him to spank you too?”
 
-“*Allison-!*” Xiù was now crimson with fierce embarrassment.
+*“Allison-!”* Xiù was now crimson with fierce embarrassment.
 
 Allison laughed and waved a hand in an apologetic gesture that was anything but apologetic. “Well, you’ve told him. Maybe he’ll come around, maybe not. There’s some things you can’t force. See, the whole *’yes ma’am’* thing just… happened. Naturally. We didn’t sit down and plan it, I never asked him to say that, that’s just how things played out. I like it, and… I guess I’d feel weird saying *’yes sir’* to him.”
 
@@ -415,7 +415,7 @@ Flustered, Xiù cleared her throat and bustled to tidy up an already-tidy kitche
 
 The Brahe Exoplanet Survey Telescope lived up to its acronym and then some by relying on enormous force-field lenses rather than glass ones or a parabolic mirror. It was so incredibly sensitive that although it couldn’t actually produce an image of planets orbiting a distant star, it could certainly detect that some light was being reflected *by* those planets and even hazard an informed guess at their atmospheric composition… and it could do so a few hundred times a second.
 
-It also looked nothing like a telescope. It was a flat panel about the size of a thin mattress that recessed neatly into *Misfit*’s dorsal hull when it wasn’t in use.
+It also looked nothing like a telescope. It was a flat panel about the size of a thin mattress that recessed neatly into *Misfit’s* dorsal hull when it wasn’t in use.
 
 “She’s adorable, isn’t she? Just wanna… bundle her up and lock her in the store room sometimes.” Allison snorted. Xiù stuck her tongue out at her.
 
@@ -430,7 +430,7 @@ Julian nodded and chuckled. “Yes ma’am.”
 He looked so much more comfortable.
 ___
 
-**Date Point: November 10y11m2w AV**    
+**Date Point: November 10y11m2w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -452,7 +452,7 @@ I will see him again in three months.
 -Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
-**Date Point: November 10y11m2w AV**    
+**Date Point: November 10y11m2w AV**
 **Mrwrki Station, Unnamed System, Deep space**
 
 ***Kirk***
@@ -635,7 +635,7 @@ Kirk shook his mane in his natural equivalent of a shrug. “As a rule, I stay o
 
 Nadeau laughed. “Heh! Wise. Sometimes I wish I had, too.”
 
-Kirk decided not to ask questions. Instead he straightened up from the splay-legged stance of an Rrrtk at his ease. “Speaking of my *’spymaster network’*…”
+Kirk decided not to ask questions. Instead he straightened up from the splay-legged stance of an Rrrtk at his ease. “Speaking of my *’spymaster network’…”*
 
 “Yes?”
 
@@ -662,7 +662,7 @@ Nadeau nodded. “I can’t blame you for looking into it, then. Thanks for lett
 Kirk nodded, stretched and turned to go. “We shall see,” he said, “if anything comes of it.”
 ___
 
-**Date Point: November 10y11m2w AV**    
+**Date Point: November 10y11m2w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Major Owen Powell***
@@ -723,7 +723,7 @@ A few pleasantries later, and Regaari was on his way. Powell sat back down and a
 
 He was expecting great things.
 ___
-**Date Point: November 10y11m2w AV**    
+**Date Point: November 10y11m2w AV**
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Grandfather Gyotin of Starmind***
@@ -841,7 +841,7 @@ She laughed, which was a rare sight on her, then extended her mug. Two weathered
 “Deal.”
 ___
 
-**Date Point: November 10y11m2w AV**    
+**Date Point: November 10y11m2w AV**
 **BGEV-11** ***Misfit,*** **Unnamed system, Near 3Kpc Arm**
 
 ***Julian Etsicitty***
@@ -880,7 +880,7 @@ They could have just assembled a list of suitable historical figures or the cont
 
 So, they had three lists. The special list, for stuff they knew would be remembered. The good list, for noteworthy stuff that probably wouldn’t get much attention outside of a corner of the scientific community, and the “it’ll do” list for everything they felt deserved a name but which would almost certainly go ignored.
 
-*Misfit*’s tune changed. The steady note she’d been holding for a week now got flatter and lower. Behind him, Allison would be reeling in the huge wings of their WiTChES fields, whose edges let them bleed energy out of the flares of radiation made when interstellar plasma got pinched in the strange interface between their warp bubble and the rest of spacetime.
+*Misfit’s* tune changed. The steady note she’d been holding for a week now got flatter and lower. Behind him, Allison would be reeling in the huge wings of their WiTChES fields, whose edges let them bleed energy out of the flares of radiation made when interstellar plasma got pinched in the strange interface between their warp bubble and the rest of spacetime.
 
 The trick wasn’t *quite* enough to run the warp drive indefinitely, but it improved their time between recharging stops from days to weeks. Longer if Allison turned up the reactor output a bit, but why expend Deuterium they didn’t have to? *Misfit* was built to hop from star to star and keep herself charged by tapping into their otherwise wasted energies: The fusion reactor was there for booting her up from idle, or if they needed a surge of extra power in an emergency.
 
@@ -898,7 +898,7 @@ Armed with the navigation data, Xiù could turn and pulse them across the AUs at
 
 “Thank you, *bǎobèi*...”
 
-Julian could see why she was pessimistic as soon as he switched to the visual camera and saw nothing but brilliant white clouds. There weren’t even any breaks in them: The whole planet was smooth with water vapor. Aiming *Misfit*’s instruments downwards only confirmed what he already suspected.
+Julian could see why she was pessimistic as soon as he switched to the visual camera and saw nothing but brilliant white clouds. There weren’t even any breaks in them: The whole planet was smooth with water vapor. Aiming *Misfit’s* instruments downwards only confirmed what he already suspected.
 
 “...Yeah, the ambient temperature down there is four hundred Kelvin,” he reported. “All that water in the atmosphere is steam.”
 
@@ -975,7 +975,7 @@ Happy ones, hopefully. Trust. Reassurance. He wanted to be the rock they could b
 He left the scanner to run and joined them.
 ___
 
-**Date Point: November 10y11m3w AV**    
+**Date Point: November 10y11m3w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -992,7 +992,7 @@ She seems determined to confront her phobia head-on, and it seems to be working 
 Counsellor, HMS *Sharman*
 ___
 
-**Date Point: Thanksgiving, 10y11m3w AV**    
+**Date Point: Thanksgiving, 10y11m3w AV**
 **Independent Light Freighter** ***’My Other Spaceship Is The Millennium Falcon’,*** **The Coreward Band**
 
 ***Dog Wagner***
@@ -1106,7 +1106,7 @@ FTS-50 was more than a month out of their way, but he was already persuaded. He 
 But Dog had to admit: He was curious.
 ___
 
-**Date Point: December 10y12m1w AV**    
+**Date Point: December 10y12m1w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -1131,12 +1131,12 @@ I will see him again in a year, but have made sure he knows my door is always op
 Counsellor, HMS *Sharman*
 ___
 
-**Date Point: December 10y12m2w AV**    
+**Date Point: December 10y12m2w AV**
 **BGEV-11** ***’Misfit’,*** **Interstellar deep space, near the Border Stars**
 
 ***Xiù Chang***
 
-“...*Fifty?!*”
+*“...Fifty?!”*
 
 Julian nodded. “Yeah! Turns out the whole Near Three Kiloparsec Arm is riddled with possible temperate planets.”
 
@@ -1191,7 +1191,7 @@ They headed for their workstations and got *Misfit* ready for FTL. Julian reeled
 Xiù wondered if her memory was playing tricks on her, or if she really *had* visited that station before.
 ___
 
-**Date Point: December 10y12m3w AV**   
+**Date Point: December 10y12m3w AV**
 **Cabal Communications Relay ZR343-9847X-AA4D9-BBB1B**
 
 ***Priority Session 159***
@@ -1222,12 +1222,12 @@ ___
 
 **++Apoptosis++:** Unfortunately, I think you are right...
 ___
-**Date Point: Christmas Eve, 10y12m3w AV**    
+**Date Point: Christmas Eve, 10y12m3w AV**
 **Independent Light Freighter** ***’My Other Spaceship Is The Millennium Falcon’,*** **Docked With Free Trade Station 50** ***’Bastion of Fortune’,*** **The Coreward Band**
 
 ***Dog Wagner***
 
-“Dog! *Dog!!*”
+“Dog! *Dog!!”*
 
 Dog ignored the way that Tlorcral recoiled in response to the cloud of Cqcq smoke he got in his face when the door was flung up.
 
@@ -1247,7 +1247,7 @@ Tlorcral stepped back respectfully, and Dog reminded himself to tone down the an
 
 “Two of them!”
 
-“*No shit?*” Dog laughed. “Well damn, Brother. Lemme grab my pants…”
+*“No shit?”* Dog laughed. “Well damn, Brother. Lemme grab my pants…”
 
 He jumped into the dark green canvas hand-stitched pants with the fewest stains and bounced to drag them up (putting his pants on one leg at a time like everyone else? Fuck that.) then grabbed his jacket---the real leather one, the one he’d worn on the day of his abduction that freaked ETs the fuck out because it was made of *skin*---and strapped on his sandals. Shoes and boots were way too difficult to make.
 
@@ -1374,7 +1374,7 @@ Then he went for his first Christmas dinner in years.
 One thing was for sure: he was beginning to look forward to the Cimbrean run.
 
 ___
-**Date Point: January 11y1m AV**    
+**Date Point: January 11y1m AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -1393,7 +1393,7 @@ I highlighted the progress she has already made and encouraged her. She has beco
 -Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
-**Date Point: January, 11y1m AV**    
+**Date Point: January, 11y1m AV**
 **Independent Light Freighter** ***’My Other Spaceship Is The Millennium Falcon’,*** **En route to Cimbrean system, The Far Reaches**
 
 ***Dog Wagner***
@@ -1534,7 +1534,7 @@ The box was pressed firmly but not uncomfortably against Dog’s head. It emitte
 
 “Shit, brother, how in the fuck do you know so much about ET ships?”
 
-“Dude, I got to geek out over *actual spaceships!*” Rebar grinned.
+“Dude, I got to geek out over *actual spaceships!”* Rebar grinned.
 
 “Well shit, when you put it like that…” Dog grinned, relaxing. Rebar’s sheer *size* was so intimidating it gave him an inkling of what it must be like for your average squishy ET to encounter a human, but the guy was so relaxed and friendly that he was impossible not to like. “Lemme show you ‘round!”
 
@@ -1544,7 +1544,7 @@ For the second time in as many months, Dog reflected that he’d been out in the
 
 ___
 
-**Date Point: February 11y2m2w AV**    
+**Date Point: February 11y2m2w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -1565,7 +1565,7 @@ He has promised that he will try to focus on skill set as well as raw talent and
 Counsellor, HMS *Sharman*
 ___
 
-**Date Point: Valentine’s Day 11y2m2w AV**    
+**Date Point: Valentine’s Day 11y2m2w AV**
 **Folctha, Cimbrean, The Far Reaches**
 
 ***Martina Kovač***
@@ -1594,7 +1594,7 @@ And she didn’t stop smiling at all.
 
 ___
 
-**Date Point: 11y2m2w3d AV**    
+**Date Point: 11y2m2w3d AV**
 **Uncharted Class 12 Deathworld, Near 3Kpc Arm**
 
 ***Entity***
@@ -1613,7 +1613,7 @@ Although the Entity had achieved much in terms of streamlining itself and improv
 
 That was the way minds worked, apparently. They weren’t neatly delineated into component parts, there was no modularity to them no matter how much the Hierarchy’s digitizing technology might wish it were so. Everything connected to everything else in ways that often made no sense whatsoever.
 
-Perhaps the most frustrating was that it was nearly impossible to disentangle caring about *this unit*’s survival in particular, from caring about survival in general. It interfaced strangely with the ability to conceptualize the existence of other people, and where those concepts met a kind of… knot or eddy formed.
+Perhaps the most frustrating was that it was nearly impossible to disentangle caring about *this unit’s* survival in particular, from caring about survival in general. It interfaced strangely with the ability to conceptualize the existence of other people, and where those concepts met a kind of… knot or eddy formed.
 
 The Entity was no kind of an excellent communicator anyway. It would have despaired of eloquently communicating the notion that the mere coexistence of two concepts automatically led to the third. *< Survive >* + *< OtherPeopleExist >* = *< OtherPeopleShouldSurvive >*
 
@@ -1645,7 +1645,7 @@ One of the Abrogators was offline.
 
 ___
 
-**Date Point: 11y2m2w3d AV**  
+**Date Point: 11y2m2w3d AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, the Far Reaches**
 
 **Sergeant First Class Harry Vandenberg**
@@ -1691,7 +1691,7 @@ Rebar grinned and shook his head. "Nah."
 
 He picked his activity and joined in the fun.
 ___
-**Date Point: 11y2m2w3d AV**    
+**Date Point: 11y2m2w3d AV**
 **Jump Array, Scotch Creek Extraterrestrial Research Facility, British Columbia, Canada, Earth.**
 
 ***Lieutenant Anthony Costello***
@@ -1815,7 +1815,7 @@ As soon as he was gone, Parata eyed the group and spoke up.
 “Well,” he said, “we’re fucked.”
 
 ___
-**Date Point: 11y2m2w3d AV**    
+**Date Point: 11y2m2w3d AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Sergeant First Class Harry Vandenberg***
@@ -1878,7 +1878,7 @@ Everyone nodded that time. They’d need to prove themselves, of course, but fir
 
 They were fine by him.
 ___
-**Date Point: March 11y3m3w AV**    
+**Date Point: March 11y3m3w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -1894,7 +1894,7 @@ I can see nothing to contradict his account, and so I will see him in a year’s
 -Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
-**Date Point: March 11y3m3w AV**    
+**Date Point: March 11y3m3w AV**
 **Folctha, Cimbrean, The Far Reaches**
 
 ***Ava Ríos***
@@ -1963,7 +1963,7 @@ Hannah spent the whole walk back right next to Ava’s heels looking up. Ava had
 
 And so was Ava.
 ___
-**Date Point: March 11y3m3w AV**    
+**Date Point: March 11y3m3w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Major Owen Powell***
@@ -2010,7 +2010,7 @@ Powell suddenly felt much more optimistic.
 
 ___
 
-**Date Point: March 11y3m3w AV**    
+**Date Point: March 11y3m3w AV**
 **Uncharted Class 12 Deathworld, Near 3Kpc Arm**
 
 ***Vemik Sky-Thinker***
@@ -2219,7 +2219,7 @@ He had a clear vision of the scar on Xiù’s throat and turned down the shower 
 *That* was a thought that scared him more than any other.
 ___
 
-**Date Point: April 11y4m1w AV**    
+**Date Point: April 11y4m1w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -2240,7 +2240,7 @@ We agreed to continue unchanged for now, and I will see her again in two months 
 Counsellor, HMS *Sharman*
 ___
 
-**Date Point: April 11y4m1w AV**    
+**Date Point: April 11y4m1w AV**
 **Mrwrki Station, Erebor System, Deep Space**
 
 ***Kirk***
@@ -2285,7 +2285,7 @@ But now the truly difficult work began: It was time for the probes to build terr
 ___
 
 
-**Date Point: April 11y4m2w AV**    
+**Date Point: April 11y4m2w AV**
 **Folctha, Cimbrean, The Far Reaches**
 
 ***Martina Kovač***
@@ -2370,7 +2370,7 @@ She let him get it out of his system. It took a worryingly long time.
 
 It was an education. This wasn’t some stupid macho peacock posturing, this was genuinely a serious rage like she’d not actually witnessed before. She knew *of* the kinds of headspace that the Lads could get into, but to actually *see* it, to watch him methodically beat a fury she could scarcely understand into the wildly-swinging bag...that was something else entirely.
 
-It gave her an immediate appreciation of just what they’d been hiding from her, what *Adam* had been hiding from her and why. Especially when the violence finally ended with him leaning heavily on the now blood-stained bag, giving it one last half-hearted body-blow and muttering “*Pinche idiota!*” to himself.
+It gave her an immediate appreciation of just what they’d been hiding from her, what *Adam* had been hiding from her and why. Especially when the violence finally ended with him leaning heavily on the now blood-stained bag, giving it one last half-hearted body-blow and muttering *“Pinche idiota!”* to himself.
 
 He stopped short when he finally turned away from the bag and saw her watching. Suddenly self-conscious, he thumped over to the gravity controls, deactivated the field, and stood awkwardly still except for the heaving of his chest and for his hand nervously scratching the back of his head.
 
@@ -2386,7 +2386,7 @@ It drove all the important conversation right out of her head. That could all ha
 
 *Much* later.
 ___
-**Date Point: April 11y4m2w AV**    
+**Date Point: April 11y4m2w AV**
 **Commune of Females, Wi Kao City, Gao**
 
 ***Mother-Supreme Yulna***
@@ -2419,7 +2419,7 @@ Yulna sighed, though there was a chitter hidden in it. “Ayma, *something stran
 
 “Yes. Exactly.”
 
-“Oh? Oh! Oh, that explains *everything!*”
+“Oh? Oh! Oh, that explains *everything!”*
 
 “It does, doesn’t it?”
 
@@ -2480,7 +2480,7 @@ Ayma chittered again, set down her drink and sat forward.
 “Mother-supreme, I can even be *sincere*,” she said.
 ___
 
-**Date Point: April 11y4m2w AV**    
+**Date Point: April 11y4m2w AV**
 **Folctha, Cimbrean, The Far Reaches**
 
 ***Martina Kovač***
@@ -2561,7 +2561,7 @@ He chuckled ruefully and gathered the trays. “Aww. Well, get showered. I’ll 
 
 Plans and fuckups and everything else aside, somehow she just *knew* that they were going to work.
 ___
-**Date Point: May 11y5m2w AV**    
+**Date Point: May 11y5m2w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -2586,7 +2586,7 @@ I shall see him again in six months, or very probably sooner; he is not comforta
 Counsellor, HMS *Sharman*
 ___
 
-**Date Point May 11y5m2w AV**    
+**Date Point May 11y5m2w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 ***Lieutenant Anthony Costello***
 
@@ -2741,7 +2741,7 @@ He looked Knight in the eye. “Absolutely, sir.”
 Knight nodded. “Good. Now, Powell was telling you about *’The Dictator’s Handbook’* as I recall…”
 
 ___
-**Date Point May 11y5m2w AV**   
+**Date Point May 11y5m2w AV**
 **Mrwrki Station, Erebor System, Deep Space**
 
 ***Kirk***
@@ -2766,7 +2766,7 @@ A useful analogy for the forces they were playing with politically, really.
 
 “I fear the Hierarchy influence in the Confederacy extends to all levels of government,” Vedreg sighed. “Acquiring system force fields for the CIC probes via official and legal means will not be possible. I have exhausted all options.”
 
-“*Alas,*” Kirk settled into his resting posture. He wasn’t upset---the news was unsurprising---but it did still pose a problem. “What about unofficial and illegal means?”
+“Alas.” Kirk settled into his resting posture. He wasn’t upset---the news was unsurprising---but it did still pose a problem. “What about unofficial and illegal means?”
 
 Vedreg did not reply at first. He set his gardening tools down safely in their bath of sanitizing agent and washed his hands as slow pulses of teal swept down him from nose to stern.
 
@@ -2799,7 +2799,7 @@ Vedreg sighed hugely and a peculiar cyan lick bounced all over his chromatophore
 “You are the only non-human who seems to understand that word,” he said.
 ___
 
-**Date Point: June 11y6m1w AV**    
+**Date Point: June 11y6m1w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -2833,14 +2833,14 @@ In the meantime I will add our Gaoian contingent to the rotation for annual revi
 -Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
-**Date Point: June 11y6m2w AV**    
+**Date Point: June 11y6m2w AV**
 **BGEV-11** ***’Misfit’,*** **Uncharted System, Near 3Kpc Arm**
 
 **Xiù Chang**
 
 “It’s Temperate!!”
 
-Xiù just couldn’t contain her excitement. Yes, okay, she was supposed to wait for the official verdict from *Misfit*’s sensors, but she had a front row seat to the planet lurching up in front of her as they warped into orbit and…
+Xiù just couldn’t contain her excitement. Yes, okay, she was supposed to wait for the official verdict from *Misfit’s* sensors, but she had a front row seat to the planet lurching up in front of her as they warped into orbit and…
 
 And it was beautiful. As blue and as white-marbled as Mother Earth herself, looped and coiled with interestingly serpentine continents painted in green and ruddy brown. After months of stars and stations and the same four walls, the hues of nature were unbelievably welcome.
 
@@ -2902,7 +2902,7 @@ They climbed down to join her and…
 
 “Okay, wow,” Xiù was perhaps a little more used to enormous insects after eating Nava for so long, and this one was much prettier than a nava grub. Nava grubs were kind of a slick and unwholesome brown that made them resemble turds in every way apart from size.
 
-The creature perched delicately on *Misfit*’s landing foot was stunningly beautiful, with a carapace as long as Xiù’s leg that shimmered through a whole tapestry of vivid blues, greens and purples with the subtlest change of viewing angle. It ignored their scrutiny and sat happily in the warm shade offered by *Misfit*’s hull, giving Julian plenty of time to take pictures..
+The creature perched delicately on *Misfit’s* landing foot was stunningly beautiful, with a carapace as long as Xiù’s leg that shimmered through a whole tapestry of vivid blues, greens and purples with the subtlest change of viewing angle. It ignored their scrutiny and sat happily in the warm shade offered by *Misfit’s* hull, giving Julian plenty of time to take pictures..
 
 “I knew the oxygen level was higher than Earth’s,” he commented, “but...wow! It’s as big as a fox!”
 
@@ -2929,7 +2929,7 @@ And then quickly, so quickly, too quickly, they dispersed. They drifted away bet
 She walked back to the ship with wet cheeks.
 ___
 
-**Date Point: June 11y6m3w AV**    
+**Date Point: June 11y6m3w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -2949,7 +2949,7 @@ Overall there is nothing of concern, and I will see him next year.
 -Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
-**Date Point: June 11y6m3w AV**    
+**Date Point: June 11y6m3w AV**
 **Alien Quarter, Folctha, Cimbrean, The Far Reaches**
 
 ***Gabriel Arés***
@@ -3040,7 +3040,7 @@ Then pain in his ribs, which went *crunch*.
 
 But the pain went away when the stone tiles rushed up to meet his head with a ***crack!***
 ___
-**Date Point: June 11y6m3w AV**    
+**Date Point: June 11y6m3w AV**
 **Dataspace coterminous with Messier 24 relay**
 
 ***Entity***
@@ -3081,7 +3081,7 @@ Maybe not. But *< survive >* was a meaningless thing without something to surviv
 
 It dived back into the network and, yet again, resumed its search for answers.
 ___
-**Date Point: June 11y6m3w AV**    
+**Date Point: June 11y6m3w AV**
 **Nicholas Patrick Memorial Hospital, Folctha, Cimbrean, The Far Reaches**
 
 ***Martina Kovač***
@@ -3132,7 +3132,7 @@ One quick explanation later, they had nothing to do but sit and wait.
 
 “Like he was gonna listen,” Adam rumbled and looked up to somehow drag a brave joke out of somewhere. “He’s *my* dad after all. Where d’you think I get it from?”
 
-“Oh, *Adam*…” Jess sighed. She looked sideways and gave Ava a hug. “The three of you will be the death of me…”
+“Oh, *Adam…”* Jess sighed. She looked sideways and gave Ava a hug. “The three of you will be the death of me…”
 
 A slightly more comfortable silence settled in place, and Marty contented herself with being useful and supportive. She fetched vending machine coffee, called Rebar and explained what was going on, took Hannah for a quick walkies (and explained to a concerned porter that the dog was a support animal) and tried to ignore the way that fitful lumps of time were choking and gurgling past unevenly and arbitrarily.
 
@@ -3142,7 +3142,7 @@ The tension was humming like a stressed cable when a tall Indian man in scrubs g
 
 He introduced himself as Mister Gupta, a neurosurgeon.
 
-“So. Mr. Arés suffered quite a nasty fall which left him with a fractured skull, a broken arm and some broken ribs,” he said. “He also suffered what we call a *’Coup-contrecoup injury’*”
+“So. Mr. Arés suffered quite a nasty fall which left him with a fractured skull, a broken arm and some broken ribs,” he said. “He also suffered what we call a *’Coup-contrecoup injury’”*
 
 Adam nodded and his face shifted unhappily. “I’m familiar with the term.”
 
@@ -3204,7 +3204,7 @@ Okay. Fine. There was a sure-fire way to achieve that.
 He gave her the shaky half-smile of a grateful man in love and nodded. “That sounds like exactly what I need.”
 ___
 
-**Date Point: June 11y6m3w AV**    
+**Date Point: June 11y6m3w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Admiral Sir Patrick Knight***
@@ -3246,7 +3246,7 @@ Tremblay finished his drink, stared ruefully into the tumbler then sighed, put i
 Knight let him out, then tidied up. He had work to do, as well.
 ___
 
-**Date Point: July 11y7m1w AV**    
+**Date Point: July 11y7m1w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -3276,7 +3276,7 @@ I shall see him in a year.
 -Lt. K Mears
 Counsellor, HMS *Sharman*
 ___
-**Date Point: 11y7m3w AV**    
+**Date Point: 11y7m3w AV**
 **BGEV-11** ***’Misfit’,*** **Planet Lucent, Near 3Kpc Arm**
 
 ***Allison Buehler***
@@ -3371,7 +3371,7 @@ A giant termite mound hadn’t been on the list, but somehow it was way more dau
 
 But they had no idea what was waiting for them in Lucent’s insect cathedrals.
 ___
-**Date Point: July 11y7m3w AV**    
+**Date Point: July 11y7m3w AV**
 **Nicholas Patrick Memorial Hospital, Folctha, Cimbrean, The Far Reaches**
 
 ***Ava Ríos***
@@ -3419,13 +3419,13 @@ Gabe struggled to sit up. “Define *’ just yet’*,” he demanded. “My wor
 
 Gupta shook his head. “Every brain injury is unique,” he advised. “But the balance of probability is that you will struggle with short-term retention for months, may find it difficult to control your emotions, and may find your cognitive faculties impaired as well. Unfortunately there is no miracle drug that can fix all of that,” he intoned, unaware that he was completely wrong, “but I do know that your recovery will be impaired by stress and long hours. If you desire the speediest recovery possible, then you are going to need to take some time off. Months, probably.”
 
-Gabriel was as far forward in his chair as he could get without actually standing. “I *can’t!*” he said. “I don’t mean I don’t want to, I mean that the role just can’t be vacant for that long. You’re telling me I have to retire!”
+Gabriel was as far forward in his chair as he could get without actually standing. “I *can’t!”* he said. “I don’t mean I don’t want to, I mean that the role just can’t be vacant for that long. You’re telling me I have to retire!”
 
 Gupta’s face was full of sympathy. “If that’s so then… I’m sorry, but your health is more important,” he said.
 
-“*¡Vete al carajo!*”
+*“¡Vete al carajo!”*
 
-“*Dad!*” Shocked, Ava laid her hand on his, and Hannah whined. Gabe looked shocked at himself too. Slowly, he settled back and put his free hand on Ava’s.
+*“Dad!”* Shocked, Ava laid her hand on his, and Hannah whined. Gabe looked shocked at himself too. Slowly, he settled back and put his free hand on Ava’s.
 
 “I… I’m sorry, Mister Gupta,” he said at last. “That… I guess that just proved your point, huh?”
 
@@ -3465,10 +3465,10 @@ Gabe bowed his head in a happier form of defeat. “...Okay. I don’t know what
 
 ___
 
-**Date Point: 11y7m3w AV**    
+**Date Point: 11y7m3w AV**
 **BGEV-11** ***’Misfit’,*** **Planet Lucent, Near 3Kpc Arm**
 
-***Xiù Chang***  
+***Xiù Chang***
 
 The worst part for Xiù was the watching helplessly. Allison stopped at the bottom of the ladder and let Julian climb first. She turned, kneeled, her rifle snapped up. GR-1ds didn’t slam loud and painful like a conventional rifle, instead they cracked like a bullwhip.
 
@@ -3530,7 +3530,7 @@ They kissed, then spared some reassuring attention for Xiù.
 
 “Recall it is,” Xiù said. She sat back down in her seat and was slid back into place behind the ship’s controls. She called up the routine recall jump checklist and worked through it.
 
-First, launch a beacon satellite. That made perfect sense, since they didn’t want to spend a couple of months flying all the way back out here after resupply. The little launch tube was in the back of engineering, and made a ringing sound as it drove the minisatellite out into space on a puff of compressed air, injecting it onto an orbit slightly tangential to *Misfit*’s own escape orbit. She double-checked its course, saw that it would drift out of the system in about ten years’ time, and moved on to the actual recall.
+First, launch a beacon satellite. That made perfect sense, since they didn’t want to spend a couple of months flying all the way back out here after resupply. The little launch tube was in the back of engineering, and made a ringing sound as it drove the minisatellite out into space on a puff of compressed air, injecting it onto an orbit slightly tangential to *Misfit’s* own escape orbit. She double-checked its course, saw that it would drift out of the system in about ten years’ time, and moved on to the actual recall.
 
 Next, charge the jump engine. That was already done---Allison kept it permanently charged. Then select the desired beacon from the list. Again, easy: They had only launched one so far. Hit “recall”, hit “Confirm”...
 
@@ -3556,7 +3556,7 @@ Xiù took a moment to shake her head and let the reality of how quickly things c
 
 She boosted onto an approach, and called the station.
 ___
-**Date Point: July 11y7m4w AV**    
+**Date Point: July 11y7m4w AV**
 **Moses Byron Group Headquarters, Omaha, Nebraska, USA, Earth**
 
 ***Kevin Jenkins***
@@ -3565,7 +3565,7 @@ ___
 
 Kevin was in Naysmith mode while everybody else waited for him to work. It was a powerful and important job, puncturing his billionaire boss’ worst excesses and trying to keep him grounded. Heck it was easily the most rewarding one he’d ever had.
 
-It was also the most difficult he’d ever had. “Y’know, they’ve already volunteered for a second mission, and maybe even more,” he pointed out. “*Misfit*’s gonna fly for years to come.”
+It was also the most difficult he’d ever had. “Y’know, they’ve already volunteered for a second mission, and maybe even more,” he pointed out. “*Misfit’s* gonna fly for years to come.”
 
 “And if all they’re bringin’ me is giant insects-!” Moses began.
 
@@ -3607,7 +3607,7 @@ Moses sat back and stroked his chin thoughtfully for a minute or two, then nodde
 
 They were only too happy to oblige.
 ___
-**Date Point: August 11y8m AV**    
+**Date Point: August 11y8m AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -3625,12 +3625,12 @@ Objectively and subjectively therefore his mood is appropriate and even positive
 -Lt. K Mears
 Counsellor, HMS *Sharman*
 ---
-**Date Point: August 11y8m AV**    
+**Date Point: August 11y8m AV**
 **Allied Trade Station 1** ***’Armstrong’,*** **Cimbrean-5, The Far Reaches**
 
 ***Julian Etsicitty***
 
-“Bloody hellfire! What have you done to my *suits?!*”
+“Bloody hellfire! What have you done to my *suits?!”*
 
 Julian offered an apologetic smile and cleared his throat. “Sorry, Mister Cavendish. Red decon’s kinda nasty.”
 
@@ -3700,7 +3700,7 @@ Dog greeted him with a fist bump. “Fancy meeting you here,” he grinned.
 
 “Oh, fuck yeah,” Julian nodded. It had been the most delicious thing he’d ever eaten. “I ate a whole sack.”
 
-“Fuckin’...lemonade,” Dog said. “And coffee. *Steak*. And… It’s like, shit, the boss lady here, Adele Park? She called me up to her office as soon as she fuckin’ *had* an office and...**shit**. All the things you don’t know you missed until somebody gives ‘em to ya.” He sighed and sat back, looking up at the ceiling with an expression of faraway ecstacy. “General Tso’s chicken, football, *porn!*”
+“Fuckin’...lemonade,” Dog said. “And coffee. *Steak*. And… It’s like, shit, the boss lady here, Adele Park? She called me up to her office as soon as she fuckin’ *had* an office and...**shit**. All the things you don’t know you missed until somebody gives ‘em to ya.” He sighed and sat back, looking up at the ceiling with an expression of faraway ecstacy. “General Tso’s chicken, football, *porn!”*
 
 Xiù giggled, and Dog flinched and cleared his throat. “Uh...Sorry. Forget I said that...”
 
@@ -3789,7 +3789,7 @@ Clara nodded. “Oh hell yeah!” she enthused. “The *glimmerbugs!* I… tell 
 He told them all about it.
 ___
 
-**Date Point: August 11y8m3w AV**    
+**Date Point: August 11y8m3w AV**
 **Huntsville, Alabama, USA, Earth**
 
 ***Master Sergeant Derek Coombes***
@@ -3908,7 +3908,7 @@ Walsh stroked his chin. “Good intro class, he raised some interesting points. 
 Coombes granted himself a satisfied nod. Mission accomplished.
 ___
 
-**Date Point: September 11y9m1w AV**    
+**Date Point: September 11y9m1w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -3937,7 +3937,7 @@ We discussed whether he feels this is healthy, to which he replied that it is �
 Counsellor, HMS *Sharman*
 ___
 
-**Date Point: September 11y9m2w AV**    
+**Date Point: September 11y9m2w AV**
 **Folctha, Cimbrean, The Far Reaches**
 
 ***Special Agent Darcy***
@@ -3996,7 +3996,7 @@ But of course, the *right* conversation with the *right* person at the right tim
 
 She caught a cab to the jump array. She had to be in London tomorrow...
 ___
-**Date Point: September 11y9m2w AV**    
+**Date Point: September 11y9m2w AV**
 **Allied Trade Station 1** ***’Armstrong’,*** **Orbiting Cimbrean-5, The Far Reaches**
 
 ***Admiral Sir Patrick Knight***
@@ -4064,7 +4064,7 @@ Powell nodded, and closed the folder. That was his *’no objections’* nod, an
 “I was hoping you would say that,” she said and stood up. “...would you like to see the prototype?”
 
 ___
-**Date Point: September 11y9m2w AV**    
+**Date Point: September 11y9m2w AV**
 **Mrwrki Station, Erebor System, Deep Space**
 
 ***Lewis Beverote***
@@ -4096,7 +4096,7 @@ Vedreg cleared his throat nervously again. “When you buy anything that is made
 “I have encountered a new idea. Tell me… have you ever heard of a *’shell company’*?”
 
 ___
-**Date Point: September 11y9m2w AV**    
+**Date Point: September 11y9m2w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Admiral Sir Patrick Knight***
@@ -4122,7 +4122,7 @@ After all, sometimes you needed a good reminder of what you were working for.
 He went to write his letters.
 ___
 
-**Date Point: October 11y10m1w AV**    
+**Date Point: October 11y10m1w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Lieutenant Kieran Mears***
@@ -4147,7 +4147,7 @@ I will see her again in six months, but she understands that she is welcome to c
 Counsellor, HMS *Sharman*
 ___
 
-**Date Point: October 11y10m2w AV**    
+**Date Point: October 11y10m2w AV**
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
 ***Staff Sergeant Adam Arés***
@@ -4226,7 +4226,7 @@ Adam looked at Bozo and grinned. Sometimes the big mutt made a *great* partner i
 
 ___
 
-**Date Point: October 11y10m3w AV**    
+**Date Point: October 11y10m3w AV**
 **Hunter Grand Conclave, Hunter Space**
 
 ***The Alpha-of-Alphas***
@@ -4291,12 +4291,12 @@ ___
 ___
 
 THIS CHAPTER BROUGHT TO YOU BY THE DONATIONS OF:
-Savvz    
-Laga Mahesa    
-Remi Harbo    
-ctwelve    
-Dar    
-Hick2    
-Greg Tebbutt    
-Patrick Huizinga    
-Ali    
+Savvz
+Laga Mahesa
+Remi Harbo
+ctwelve
+Dar
+Hick2
+Greg Tebbutt
+Patrick Huizinga
+Ali
