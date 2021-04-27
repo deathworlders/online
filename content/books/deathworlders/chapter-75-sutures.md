@@ -3,7 +3,7 @@ title: "Chapter 75: Sutures"
 date: 2021-04-27T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
-**Date Point: 18y6m1w5d AV**
+**Date Point: 18y6m1w5d AV**    
 **Manhattan, NYC, USA, Earth**
 
 ***Nurse Delilah Lyons***
@@ -34,7 +34,7 @@ And many more to follow.
 
 ___
 
-**Date Point: 18y6m1w5d AV**
+**Date Point: 18y6m1w5d AV**    
 **Marine One, taking off from the White House, Washington DC, USA, Earth**
 
 ***President Beau Chambliss***
@@ -67,7 +67,7 @@ He just needed the right words…
 
 ___
 
-**Date Point: 18y6m1w5d AVE**
+**Date Point: 18y6m1w5d AV**    
 **Lakebeds National Park, Folctha, Cimbrean, the Far Reaches**
 
 ***Julian Etsicitty***
@@ -134,7 +134,7 @@ But he did enjoy his hot dog, even so.
 
 ___
 
-**Date Point: 18y6m1w5d AV**
+**Date Point: 18y6m1w5d AV**    
 **ESNN news studio, Folctha, Cimbrean, the Far Reaches**
 
 ***Ava Ríos***
@@ -173,7 +173,7 @@ She was okay.
 
 ___
 
-**Date Point: 18y6m1w6d AV**
+**Date Point: 18y6m1w6d AV**    
 **Manhattan, NYC, USA, Earth**
 
 ***Vemik Given-Man***
@@ -202,7 +202,7 @@ He missed Singer.
 
 ___
 
-**Date Point: 18y6m1w6d AV**
+**Date Point: 18y6m1w6d AV**    
 **Weaver dropship, HMS** ***Sharman,*** **Folctha, Cimbrean, the Far Reaches**
 
 ***Julian Etsicitty***
@@ -257,7 +257,7 @@ The rest of the long fall to Earth happened in silence.
 
 ___
 
-**Date Point: 18y6m1w6d AV**
+**Date Point: 18y6m1w6d AV**    
 **Manhattan, NYC, USA, Earth**
 
 ***Daniel “Chimp” Hoeff***
@@ -386,7 +386,7 @@ There were worse jobs.
 
 ___
 
-**Date Point: 18y6m1w6d AV**
+**Date Point: 18y6m1w6d AV**    
 **Manhattan, NYC, USA, Earth**
 
 ***President Beau Chambliss***
@@ -527,7 +527,7 @@ Though, somehow, he expected the price would be a lot steeper than some pens, in
 
 ___
 
-**Date Point: 18y6m1w6d AV**
+**Date Point: 18y6m1w6d AV**    
 **Starship** ***Silent But Deadly*** **Hell system, Hunter space**
 
 ***Tooko, Brother and Stud of Clan Firefang***
@@ -574,7 +574,7 @@ And he watched again.
 
 ___
 
-**Date Point: 18y6m1w6d AV**
+**Date Point: 18y6m1w6d AV**    
 **Manhattan, NYC, USA, Earth**
 
 ***Julian Etsicitty***
@@ -695,7 +695,7 @@ He needed all the rest he could get.
 
 ___
 
-**Date Point: 18y6m1w6d AV**
+**Date Point: 18y6m1w6d AV**    
 **Hell system, Hunter Space**
 
 ***Alpha of the Flensing-Brood***
@@ -738,7 +738,7 @@ And then it saw what it had missed.
 
 ___
 
-**Date Point: 18y6m1w6d AV**
+**Date Point: 18y6m1w6d AV**    
 **Starship** ***Silent But Deadly,*** **Hell system, Hunter space**
 
 ***Tooko, Brother and Stud of Clan Firefang***
@@ -884,7 +884,7 @@ And it would *punish* them for this crime.
 
 ___
 
-**Date Point: 18y6m2w2d AV**
+**Date Point: 18y6m2w2d AV**    
 **Nofl’s lab, Alien Quarter, Folctha, Cimbrean, the Far Reaches**
 
 ***Nofl***
@@ -1007,7 +1007,7 @@ He had a mind to save.
 
 ___
 
-**Date Point: 18y6m2w2d AV**
+**Date Point: 18y6m2w2d AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
 ***Daar, Great Father of the Gao***
@@ -1078,7 +1078,7 @@ Time to see what his Champion could do.
 
 ___
 
-**Date Point: 18y6m2w4d AV**
+**Date Point: 18y6m2w4d AV**    
 **Light bulk freighter** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
 
 ***Dora, Exile***
@@ -1191,7 +1191,7 @@ That was a story she knew all too well.
 
 ___
 
-**Date Point: 18y6m2w4d AV**
+**Date Point: 18y6m2w4d AV**    
 **The Funeral Fields, Northern Plains, Gao**
 
 ***Daar, Great Father of the Gao***
@@ -1272,7 +1272,7 @@ Behind him, the ceremonial detail prepared for the next remembrance.
 
 ___
 
-**Date Point: 18y6m2w5d AV**
+**Date Point: 18y6m2w5d AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
 ***SPC Hunter “Gonzo” Thompson***
@@ -1425,7 +1425,7 @@ He could work on friend-stuff later.
 
 ___
 
-**Date Point: 18y6m2w5d AV**
+**Date Point: 18y6m2w5d AV**    
 **Betty’s Diner, Folctha, Cimbrean, the Far Reaches**
 
 ***Ian “Death-Eye” Wilde***
@@ -1616,7 +1616,7 @@ He already felt much better.
 
 ___
 
-**Date Point: 18y6m2w5d AV**
+**Date Point: 18y6m2w5d AV**    
 **The White House, Washington DC, USA, Earth**
 
 ***President Beau Chambliss***
@@ -1847,7 +1847,7 @@ But the chance to get some *justice* for the victims of Grand Central might chan
 
 ___
 
-**Date Point: 18y6m3w AV**
+**Date Point: 18y6m3w AV**    
 **Light bulk freighter** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
 
 ***Bruuk, cooker of the most bestest dinners***
@@ -2008,7 +2008,7 @@ In the end, that was the only thing that mattered.
 
 _____
 
-**Date Point: 18y6m3w AV**
+**Date Point: 18y6m3w AV**    
 **Planet Akyawentuo, the Ten'Gewek Protectorate, Near 3Kpc Arm**
 
 ***Vemik Given-Man***
