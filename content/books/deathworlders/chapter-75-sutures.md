@@ -354,7 +354,7 @@ Fortunately, Hoeff had a superpower. All his fucks had long, long ago been given
 
 “And it ain’t enough, or of the right balance. He’s *not human.*  Believe me, I know. I’ve run around in the jungle naked with these guys, hunting werne.”
 
-“And your solution is a gallon of ‘death chili?’”* she asked, achieving a total no-sell with the naked-in-the-woods thing. Dang.
+“And your solution is a gallon of *‘death chili?’”* she asked, achieving a total no-sell with the naked-in-the-woods thing. Dang.
 
 “Yes. It’s nothin’ but calories and protein in a form his short meat-eater gut can handle. *Really* my solution would to be to bring a side of beef in here and roast it over a fire, but I thought y’all might *object.”*
 
