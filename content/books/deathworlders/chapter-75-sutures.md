@@ -633,7 +633,7 @@ In the end, Julian appealed to the empathy and caring instincts that lurked in e
 
 “Look. Do you see that giant depressed alien in there? He’s a Given-Man of his people and impressive as hell, right? Well, he’s also *barely* nineteen and still has a teen’s soul. He comes from a people who happily sleep in trees naked to the rain, who will climb three-hundred meters up a Ketta just to get a few berries. Who use their huts mostly as a place to keep things dry more than anything else. He *needs* to get outside, he’s going stir crazy in here!”
 
-She gave him a skeptical glare, then turned it toward Vmik and softened. “...He’s to *rest,”* she reminded him. “He’s got a lot of healing to do. And he’s going to tire out quickly. It takes a lot of work to move him.”
+She gave him a skeptical glare, then turned it toward Vemik and softened. “...He’s to *rest,”* she reminded him. “He’s got a lot of healing to do. And he’s going to tire out quickly. It takes a lot of work to move him.”
 
 “Oh believe me, I *know.”* Julian chuckled, and was rewarded with a small flicker of humor across her face too. “I’m a big boy though, I can manage.”
 
