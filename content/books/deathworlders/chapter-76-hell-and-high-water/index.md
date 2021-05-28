@@ -3,9 +3,11 @@ title: "Chapter 76: Hell and High Water"
 date: 2021-05-28T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
-![Dandelion by Philip R. Johnson and Justin C. Louis, produced by Podium Audio](B1_Dandelion_The Newhome Rangers-600.jpg)
+## Dandelion: audiobook now available!
+* [Click here to pre-order the audiobook](https://geni.us/Dandelion)
+* [Or click here to purchase any version of the book from your favorite retailer](https://books2read.com/dandelion-newhome-rangers)
 
-## About Dandelion
+![Dandelion by Philip R. Johnson and Justin C. Louis, produced by Podium Audio](B1_Dandelion_The Newhome Rangers-600.jpg)
 
 > Amber Houston was born light-years from Earth, aboard the enormous colony starship Dandelion. By the age of fourteen, she has spent her entire life training as a "Ranger," ready for the day when she will be among the first humans ever to set foot on an alien world & build a new civilization.
 
@@ -14,9 +16,6 @@ author: "Philip R. Johnson (Hambone)"
 > Meanwhile, aboard the ship, secrets that were buried over three hundred years ago finally come to light...
 
 Co-authored alongside Justin C. Louis, *Dandelion* is my debut novel, and we are delighted to announce that the audiobook version, narrated by John Keating, is coming to Audible on June 8th!
-
-* [Click here to pre-order the audiobook](https://geni.us/Dandelion)
-* [Or click here to purchase any version of the book from your favorite retailer](https://books2read.com/dandelion-newhome-rangers)
 
 And now, without further ado, on with the chapter!
 
