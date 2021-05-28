@@ -163,7 +163,7 @@ This time was different, though. Many of the other Given-Men did not *understand
 
 Daar wagged his tail. “Well...I ain’t had a really good brawl in a while…”
 
-Daar’s friend, Gee*-yo-*tun, was a tough, lanky creature of silvery fur who seemed unhappy about where this was going. “My Father, the implications of something like this…”
+Daar’s friend, Gee-yo-tun, was a tough, lanky creature of silvery fur who seemed unhappy about where this was going. “My Father, the implications of something like this…”
 
 “Will be consequential, yeah. Do you unnerstand what me whuppin’ ‘yer leadership all at once is gonna mean, Yan?”
 
@@ -183,7 +183,7 @@ Daar flicked his ears backwards. “...Sure, that’s flatterin’ an’ all, bu
 
 “No,” Yan shook his head. “You will never conquer us, because you do not want to. We will not be conquered, either. It will just show the order of the sky-tribes, as is *true.* Pride-lies will not help us, Daar Great-Father. We are protected, yes? Some in the Lodge need to see how strong the claws protecting us are!”
 
-Gee*-yo-*tun spoke up, unable to hold his peace. Daar must have respected the little man enormously to allow him such rudeness.
+Gee-yo-tun spoke up, unable to hold his peace. Daar must have respected the little man enormously to allow him such rudeness.
 
 “It is one thing to demonstrate a power dynamic. It’s always important for everyone to understand where they stand. It is another *entirely* to legitimize that dynamic. Is it…*wise* to explicitly subjugate yourselves to the Great Father?”
 
@@ -537,7 +537,7 @@ He felt lighter. A little less Fire, now. Like he was flowing again, not blockin
 
 Yan hadn’t said everything, though. Daar may be a god, but not even he could always tell if Yan had said everything. Yan knew he was likely to live for a *long* time, *much* longer than the sky-people would believe, because he knew a few stories that only the Chiefs (and probably the Singers) told each other. Soon, a Chief and the Lodge wouldn’t be enough for his people.
 
-He might be the last Chief. Or at least, the last who could wear the word as more than *just* a word, the last who could wrassle down every Given-Man and prove who was best. Ten’Gewek would grow big, and grow *fast,* now that *vaccines* were helping their children live, food was safer, sickness was retreating from soap and good *high-*jeen.
+He might be the last Chief. Or at least, the last who could wear the word as more than *just* a word, the last who could wrassle down every Given-Man and prove who was best. Ten’Gewek would grow big, and grow *fast,* now that *vaccines* were helping their children live, food was safer, sickness was retreating from soap and good *high*jeen.
 
 Soon, there would be too many Given-Men for a Lodge in the first place.
 
@@ -1211,7 +1211,7 @@ How much of the Hierarchy’s campaign of galactic genocide was just about prote
 
 In any case, as Ankki turned of the ship’s gravity and let Highwater take over, the extra weight settled on them like a heavy blanket.
 
-“Feels good, after weak *grav-*tea. Should stretch out and get ready, yes?”
+“Feels good, after weak *grav*tea. Should stretch out and get ready, yes?”
 
 “Yup. Lots to do before we land…”
 
@@ -2447,6 +2447,7 @@ If you have enjoyed the *Deathworlders* story so far and want to support the aut
 
 ___
 
+## Acknowledgments
 
 This chapter was brought to you with the help of...
 
