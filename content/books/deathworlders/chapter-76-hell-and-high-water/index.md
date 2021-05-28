@@ -2147,7 +2147,7 @@ They found a spot some distance from the light and noise to look back and survey
 
 “That’s good. Very good,” Daar sighed, letting some tension out. “Helps ‘ta hear that. Now, how ‘bout our ultraviolence crew? They comin’ along?”
 
-Costello took a big swig of his beer. “Jesus *fuck,* yes. You wanna know just how well? Adam's basically tortured the Beefs up into his league now. He's still the the hands-down best but now, they ain't gotta be embarassed about it. Firth, Julian, even ‘Base can win in a spar against him now and then! Adam of course hasn’t been sitting still, so that should give you some idea of how much crazy we’re talking about, and just how quickly. Everyone else has made bonkers progress, too.”
+Costello took a big swig of his beer. “Jesus *fuck,* yes. You wanna know just how well? Adam's basically tortured the Beefs up into his league now. He's still the the hands-down best but now, they don't have any reason to be embarassed about it. Firth, Julian, even ‘Base can win in a spar against him now and then! Adam of course hasn’t been sitting still, so that should give you some idea of how much crazy we’re talking about, and just how quickly. Everyone else has made bonkers progress, too.”
 
 Daar knew *that* feeling all too well. After all, he’d been the Gao's biggest science experiment on the matter since day one, and he’d never slowed down, only sped up. If all o’ that was ‘cuz he was originally made to be a Hierarchy weapon, well…
 
