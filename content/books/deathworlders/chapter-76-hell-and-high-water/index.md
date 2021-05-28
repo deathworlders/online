@@ -537,7 +537,7 @@ He felt lighter. A little less Fire, now. Like he was flowing again, not blockin
 
 Yan hadn’t said everything, though. Daar may be a god, but not even he could always tell if Yan had said everything. Yan knew he was likely to live for a *long* time, *much* longer than the sky-people would believe, because he knew a few stories that only the Chiefs (and probably the Singers) told each other. Soon, a Chief and the Lodge wouldn’t be enough for his people.
 
-He might be the last Chief. Or at least, the last who could wear the word as more than *just* a word, the last who could wrassle down every Given-Man and prove who was best. Ten’Gewek would grow big, and grow *fast,* now that *vaccines* were helping their children live, food was safer, sickness was retreating from soap and good *high*jeen.
+He might be the last Chief. Or at least, the last who could wear the word as more than *just* a word, the last who could wrassle down every Given-Man and prove who was best. Ten’Gewek would grow big, and grow *fast,* now that *vaccines* were helping their children live, food was safer, sickness was retreating from soap and good *high* jeen.
 
 Soon, there would be too many Given-Men for a Lodge in the first place.
 
@@ -1211,7 +1211,7 @@ How much of the Hierarchy’s campaign of galactic genocide was just about prote
 
 In any case, as Ankki turned of the ship’s gravity and let Highwater take over, the extra weight settled on them like a heavy blanket.
 
-“Feels good, after weak *grav*tea. Should stretch out and get ready, yes?”
+“Feels good, after weak *grav* tea. Should stretch out and get ready, yes?”
 
 “Yup. Lots to do before we land…”
 
