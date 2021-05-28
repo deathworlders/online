@@ -2051,21 +2051,25 @@ ___
 
 ***Daar, Great Father of the Gao***
 
-This wasn’t a typical Couch Night. For one, it was on Gao, for a change. There were too many people to fit in the day room around the legendary Couch, so instead First Fang had bashed together something more biggerer and more able to accommodate everyone, out in the countryside inside a cozy lil’ glade, one of the few still open to the public.
+This wasn’t a typical Couch Night. For one, it was on Gao. There were too many people to fit in the day room around the legendary Couch, so instead First Fang had bashed together something more biggerer and more able to accommodate everyone, out in the countryside inside a cozy lil’ glade. It was nice and well-shaded, private while still being close to a nearby little village, and it was one of the few still open to the public, which meant they could visit any time they wanted.
 
-It was growing and recovering, just like everyone these days. Forestnettle had really worked some magic on it! Still, it *was* on Stoneback property, and this last lil’ get-together…
+It had seen some damage in the War of course, but the trees were growing and recovering, just like everyone and everything else these days. Forestnettle had really worked some magic on it! Still, it *was* on Stoneback property, and this last lil’ get-together…
 
-Well, it was *important.* Daar had six dozen o’ the most elite military operators ever assembled in the galaxy, and soon enough he’d be sending them off to do a terrible thing. Quite likely, quite a few of ‘em wouldn’t come back.
+Well, it was *important,* so Daar had his aide pick a weekend where nobody else had any big plans or reservations or whatever, then snatch it up and make any apologies that needed making. They'd lucked out and there were plenty of free weekends, which was a small blessing: he hadta find room 'fer six dozen o’ the most elite military operators ever assembled in the galaxy, since they deserved a break an' soon enough he’d be sending them off to do a terrible thing.
 
-The more he looked into the situation, well...more and more, it looked like he might be one of them. Despite all he’d said to Yan not so long ago, sometimes the Great Father *did* have to don the armor and go to war himself, or else he weren’t no Great Father at all.
+Quite likely, quite a few of ‘em wouldn’t come back. Sobering thought, as always.
 
-That was especially true when they din’t have enough men good enough to do this mission. With that sobering fact looming in front of him, and with how *balls-bustingly* critical it was to secure themselves in the first few seconds of this assault…
+An' the fuckin' *worstest* part is, the more he looked into the situation, well...more and more, it looked like he might be one of them. Despite all he’d said to Yan not so long ago, sometimes the Great Father *did* have to don the armor and go to war himself, or else he weren’t no Great Father at all.
 
-He had ‘ta go. The moment coming upon them soon demanded it. More, he *wanted* to, sure enough. He was a warrior in his soul. Still, he was careful not to put the idea forward, let his advisors think on it. They did, and the tactical reality...made itself known. Even his advisors who routinely discouraged him from anything fun or dangerous found themselves mute, lately.
+That was especially true when they din’t have enough good men who were good enough to do this mission. With that sobering fact looming in front of him, and with how *balls-bustingly* critical it was to secure themselves on-planet in the first few seconds of this assault…
 
-An’ that was the thing. This really was an all-in assault. If they didn’t win, didn’t make their point hard enough...the Hunters would retaliate. They had a lot less to lose, after all.
+He had ‘ta go. The moment coming upon them demanded it. More, he *wanted* to. He was a warrior in his soul an' watchin' young men go off 'ta die 'fore they'd left a legacy just *gnawed* at his soul, s'pecially when he coulda saved 'em from a pointless fate.
 
-All of that meant a few things. He needed erryone at their best an’ workin’ together if they were gonna claw a good victory outta what promised to be a hard fuckin’ fight. He needed ‘em rested, needed ‘em bonded together in that weird way only blooded brothers in arms could ever understand.
+Still, he *did* unnerstand how important it was to be cautious. He was very careful not to put the idea forward to anyone, let his advisors think on it an' take his lead. Nonetheless, they thinked and thinked good an' damn hard, and when they did, the tactical reality...made itself known. Even his advisors who routinely discouraged him from anything fun or dangerous found themselves mute, lately.
+
+Some fights, you couldn't leave anything on the table. This was one of 'em.
+
+An’ that was the thing. This really was an all-in assault. If they didn’t win, didn’t make their point hard enough...the Hunters would retaliate. They had a lot less to lose, after all. All of that meant a few things. He needed erryone at their best an’ workin’ together if they were gonna claw a good victory outta what promised to be a hard fuckin’ fight. He needed ‘em rested, needed ‘em bonded together in that weird way only blooded brothers in arms could ever understand.
 
 Fun, therefore, was mandatory. And the mandatory fun needed three things.
 
@@ -2075,23 +2079,23 @@ Rough-housing. A few sister-nurses from Openpaw were there on standby, to everyo
 
 And tacos. The food that Humans had invented, but the Gao had perfected.
 
-Well, okay. It needed other things, too. Lotsa roastin’ meat ‘fer one! Done. He *was* Stoneback, after all. An’ it needed some truly bad movies. Or other entertainment!
+Well, okay. It needed other things, too. Lotsa roastin’ meat ‘fer one! Done. He *was* Stoneback, after all. An’ those movies had 'ta be *truly* bad. Or mebbe people wanted other entertainment!
 
 Movies, videogames...shit, even an impromptu Warhammer tournament. ‘Cuz regardless of species, military fellas---but operator types *especially*---were all *giant* fuckin’ nerds. And when invited to hang out in the woods an’ spend some time gettin’ to know the men they’d be fightin’ alongside in a few days, it was fuckin’ *inevitable* that they’d drag along a superbattery, some projectors, a buncha tables and a wizard hat or five. Why not? It was a great chance ‘ta practice English an’ Gaori, after all. It was technically training!
 
-Oh, and a nice bit o’ dirt for sparrin’, too. So far the grand champions were Kodiak, Righteous, Warhorse, and Daar himself o’ course!
+Oh, and a nice bit o’ dirt for sparrin’, too. So far the grand champions were Kodiak, Righteous, Warhorse, and Daar himself o’ course! He couldn’t help but be proud o’ Kodiak, though. He’d knocked the *Champion of Whitecrest* out flat on his tail, and that weren’t no easy thing ‘ta do!
 
-He couldn’t help but be proud o’ Kodiak, though. He’d knocked the *Champion of Whitecrest* out flat on his tail, and that weren’t no easy thing ‘ta do!
+'Course, Thurrsto had left 'em with a couple big new scars too, so it weren't like he was a push-over. An' confusingly, he'd managed 'ta defeat Champion Fiin, which immediately prompted a *serious* fight 'tween Kodiak an' Fiin...which Kodiak lost! So...who was the bestest? Much ear-semaphore an' tail-wagging ensued, as err'one theorized. The three of 'em decided 'ta keep it a mystery 'fer now. Durn!
 
-But the *most bestest* fight weren’t between the fury an’ skill of thousands o’ pounds of hyper-pinnacle muscle. Everyone was *too tired* to do much more than the lil’ tournament. No. The *bestest* fight was ‘tween lil’ Tisdale and one’a Kodiak’s suit techs, Jeem. He was a silverfur clanless but *far* from little, and he’d been talkin’ *mad* shit hypin’ up Kodiak after he unceremoniously slapped Moho right out of the elimination ladder.
+But even still, the *most bestest* fight that night weren’t about th' speed an' fury an’ skill of their most biggest an' bestest, thousands o’ pounds of pinnacle muscle dukin' it out 'fer females and 'fer glory. Everyone was *too tired* from the relentless trainin' to do much more than their lil’ tournament. No. The *bestest* fight was ‘tween lil’ Tisdale and one’a Kodiak’s suit techs, Jeem. He was a silverfur clanless but *far* from little, and he’d been talkin’ *mad* shit while hypin’ up Kodiak, after he unceremoniously slapped Moho right out of the elimination ladder.
 
 Tisdale didn’t just match him, cuz the lil’ fucker was strong an’ quick as shit. He *outlasted* him. Ten rounds, nothin’ held back, and by the end of it Jeem was panting and wobbling and barely on his feet, when Tisdale gamely strolled right up and *slammed* him into the ground.
 
-A pin, one he could have had right away, Daar realized. Instead, he wanted to prove a point.
+He won with a vicious pin, one he coulda had from the beginning, Daar realized. Instead, he wanted to prove a point.
 
 Well. Point fuckin’ proven.
 
-Jack had earned a couple really good gashes across his chest and torso too, since Jeem was far from useless. But that was okay. Miller was right there to clean him up, along with a very impressed-looking sister-nurse.
+Jack had earned a couple really good gashes across his chest and torso from the fight, since Jeem was far from useless. But that was okay. Miller was right there to clean him up, along with a very impressed looking sister-nurse.
 
 Nobody much noticed Jeem, though Kodiak was loyally by his side.
 
@@ -2111,7 +2115,7 @@ Which is why Daar had to say no. No matter how badly he wanted ‘ta whup ‘em 
 
 Had to be ready, after all.
 
-So instead, he prowled around, listened in on the ones tellin’ stories of their fallen buddies, watched Firth run a wave of big stompy green ladz into the teeth of Ergaan’s carefully crafted ambush.  He’d briefly eavesdropped on Thurrsto and Regaari, scheming on their Clan’s recruiting problems...
+So instead he prowled around, listened in on the ones tellin’ stories of their fallen buddies, watched Firth run a wave of big stompy green ladz into the teeth of Ergaan’s carefully crafted ambush.  He’d briefly eavesdropped on Thurrsto and Regaari, scheming on their Clan’s recruiting problems...
 
 By Whitecrest standards, they sounded downright optimistic. He decided not to pry.
 
@@ -2143,7 +2147,7 @@ They found a spot some distance from the light and noise to look back and survey
 
 “That’s good. Very good,” Daar sighed, letting some tension out. “Helps ‘ta hear that. Now, how ‘bout our ultraviolence crew? They comin’ along?”
 
-Costello took a big swig of his beer. “Jesus *fuck,* yes. You wanna know just how well? Adam has the Beefs in his league now. Firth, Julian, even ‘Base can win in a spar now and then! Adam of course hasn’t been sitting still, so that should give you some idea of how much crazy we’re talking about, and just how quickly. Everyone else has made bonkers progress, too.”
+Costello took a big swig of his beer. “Jesus *fuck,* yes. You wanna know just how well? Adam's basically tortured the Beefs up into his league now. He's still the the hands-down best but now, they don't have any reason to be embarassed about it. Firth, Julian, even ‘Base can win in a spar against him now and then! Adam of course hasn’t been sitting still, so that should give you some idea of how much crazy we’re talking about, and just how quickly. Everyone else has made bonkers progress, too.”
 
 Daar knew *that* feeling all too well. After all, he’d been the Gao's biggest science experiment on the matter since day one, and he’d never slowed down, only sped up. If all o’ that was ‘cuz he was originally made to be a Hierarchy weapon, well…
 
@@ -2367,11 +2371,11 @@ Fact was...people were gonna die today. Including, potentially, Daar himself if 
 
 And the Grand Army of the Gao was just now getting its alert orders, as were *two* corps from the American army. Much the same was playing out across their sister services, and among the Commonwealth allies. The alert couldn’t be given too early, or intel might leak to the Hunters. Too late, and it wouldn’t matter. Timing was everything, in so many things.
 
-Thank the gods for the extra time they had to train. Everyone on the HEAT was as ready as they had ever been. ‘Horse had kept his ominous promise, and now the gap between him and the rest of the Beefs was rapidly narrowing to striking range; for the first time *ever,* Julian and even ‘Base could stand up to him honorably in a fight, and Righteous himself was able now to consistently make Warhorse *work* for his victories. *Nothing* in the world seemed to make either of them happier. He’d improved too, substantially. So had everyone else, including team two, who were suiting up and on standby today; they’d likely be deployed before long. Even Champion Thurrsto was suited up for today. All hands were on deck.
+Thank the gods for the extra time they had to train, and thank the mad scientists on their side who made it all possible. Everyone on the HEAT was as ready as they had ever been. ‘Horse had kept his ominous promises, and *nothing* in the world seemed to make him happier. He’d improved too, substantially. So had everyone else, including team two, who were suiting up and on standby today; they’d likely be deployed before long. Even Champion Thurrsto was suited up for today. All hands were on deck.
 
 Because if this mission failed, Gao would likely fall. The retaliatory strike from the Hunters would be terrible, and Daar had little doubt there was some poor fuckin’ biodrone somewhere on Gao the Hierarchy could weaponize to terrible, sudden effect.
 
-A word with his allies was...sensible, therefore. Before going all in.
+A word with his allies was...sensible, therefore. Before going all in. One last sanity check, before committing everything he had.
 
 Those had been interesting calls. Chambliss was in a sombre mood of late, and he seemed to age a year every week. Daar knew why---the man’s country was staggering under a gargantuan financial load, despite the best efforts of their allies to ease it. He almost felt like he could *smell* the other reasons, too. Whatever had happened, Daar guessed it was the sort of torment only leaders ever got to endure.
 
@@ -2387,7 +2391,7 @@ Daar was alone for this conversation, safe in his quarters aboard the *Destroyin
 
 Daar reflected on that, and on advice he’d given Yan some months ago. That advice was still true, still good. Still *wise.* Daar was taking a huge risk.
 
-But it wasn’t just any risk. It was *the* risk. And it was a gamble that needed all his tiles pushed in. Including himself, since that small HEAT team *surviving* the first couple minutes of fighting would determine the course of the war.
+But it wasn’t just any risk. It was *the* risk. And it was still a gamble that needed all his tiles pushed in. Including himself, since that small HEAT team *surviving* the first couple minutes of fighting would determine the course of the war.
 
 After all, Yan had started training with the HEAT, too. Everyone had stakes in this bet.
 
