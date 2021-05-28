@@ -15,8 +15,8 @@ author: "Philip R. Johnson (Hambone)"
 
 Co-authored alongside Justin C. Louis, *Dandelion* is my debut novel, and we are delighted to announce that the audiobook version, narrated by John Keating, is coming to Audible on June 8th!
 
-[Click here to pre-order the audiobook](https://geni.us/Dandelion)
-[Or click here to purchase any version of the book from your favorite retailer](https://books2read.com/dandelion-newhome-rangers)
+* [Click here to pre-order the audiobook](https://geni.us/Dandelion)
+* [Or click here to purchase any version of the book from your favorite retailer](https://books2read.com/dandelion-newhome-rangers)
 
 And now, without further ado, on with the chapter!
 
