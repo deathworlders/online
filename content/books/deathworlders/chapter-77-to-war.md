@@ -1099,7 +1099,7 @@ They were ready.
 ___
 
 **Date Point: 18y9m2w4d AV**    
-**High Mountain Fortress, the Northern Plains, Gao.***
+**High Mountain Fortress, the Northern Plains, Gao.**
 
 ***First Director Shanl***
 
