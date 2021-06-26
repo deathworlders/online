@@ -7,7 +7,7 @@ author: "Philip R. Johnson (Hambone)"
 * [Click here to pre-order the audiobook](https://geni.us/Dandelion)
 * [Or click here to purchase any version of the book from your favorite retailer](https://books2read.com/dandelion-newhome-rangers)
 
-![Dandelion by Philip R. Johnson and Justin C. Louis, produced by Podium Audio](B1_Dandelion_The Newhome Rangers-600.jpg)
+![Dandelion by Philip R. Johnson and Justin C. Louis, produced by Podium Audio](/images/B1_Dandelion_The Newhome Rangers-600.jpg)
 
 > Amber Houston was born light-years from Earth, aboard the enormous colony starship Dandelion. By the age of fourteen, she has spent her entire life training as a "Ranger," ready for the day when she will be among the first humans ever to set foot on an alien world & build a new civilization.
 
@@ -23,7 +23,7 @@ And now, without further ado, on with the chapter!
 ___
 ___
 
-**Date Point: 18y6m3w AV**    
+**Date Point: 18y6m3w AV**
 **HMS** ***Sharman*** **(HMNB Folctha) Cimbrean, the Far Reaches**
 
 ***WO2 Robert “Highland” Murray***
@@ -140,7 +140,7 @@ And with that, they were dismissed.
 
 ___
 
-**Date Point: 18y8m1w AV**    
+**Date Point: 18y8m1w AV**
 **The Given-Men’s Lodge, Planet Akyawentuo, the Ten’Gewek Protectorate**
 
 ***Yan Given-Man, Chief of the Lodge***
@@ -547,7 +547,7 @@ And Yan would Give his own.
 
 ___
 
-**Date Point:18y8m3w AV**    
+**Date Point:18y8m3w AV**
 **HMS** ***Sharman*** **(HMNB Folctha,) Cimbrean, the Far Reaches**
 
 ***Ferd Given-Man***
@@ -686,7 +686,7 @@ He nodded, stood up, put his troubles down for now, and went to study.
 
 ___
 
-**Date Point: 18y9m AV**    
+**Date Point: 18y9m AV**
 **Armstrong Station, Cimbrean System, the Far Reaches**
 
 ***Bruuk***
@@ -857,7 +857,7 @@ And pizza, of course.
 
 ___
 
-**Date Point: 18y9m AV**    
+**Date Point: 18y9m AV**
 **HMS** ***Sharman*** **(HMNB Folctha,) Cimbrean, the Far Reaches**
 
 ***WO2 Robert “Highland” Murray***
@@ -979,7 +979,7 @@ They’d be back to work soon enough.
 
 ___
 
-**Date Point: 18y9m AV**    
+**Date Point: 18y9m AV**
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Martina Arés***
@@ -1100,7 +1100,7 @@ They walked home in the rain, young and wild for the night.
 
 ___
 
-**Date Point: 18y9m1w AV**    
+**Date Point: 18y9m1w AV**
 **Starship** ***Drunker on Turkeyer,*** **Relay system HIGHWATER**
 
 ***Lieutenant Jeremy Booth, JETS team 3***
@@ -1225,7 +1225,7 @@ They were flying over a highway.
 
 ___
 
-**Date Point: 18y9m1w AV**    
+**Date Point: 18y9m1w AV**
 **Belize City, Belize, Central America, Earth**
 
 ***Six***
@@ -1284,7 +1284,7 @@ Might as well learn how to use it properly.
 
 ___
 
-**Date Point: 18y9m1w AV**    
+**Date Point: 18y9m1w AV**
 **Freighter** ***Stray Fortune,*** **Tradelane near the Ink Spatter Nebula, deep space**
 
 ***Ian “Death-Eye” Wilde***
@@ -1403,7 +1403,7 @@ Questions for later. For now...they had a delivery to make.
 
 ___
 
-**Date Point: 18y9m1w AV**    
+**Date Point: 18y9m1w AV**
 **High Mountain Fortress, the Northern Plains, Gao**
 
 ***Thurrsto, Champion of Clan Whitecrest***
@@ -1505,7 +1505,7 @@ After all, they only had one shot at this. He wasn’t about to waste it.
 
 ___
 
-**Date Point: 18y9m1w AV**    
+**Date Point: 18y9m1w AV**
 **Council starship** ***Rich Plains,*** **Orbiting planet Perfection**
 
 ***Ambassador Sir Patrick Knight***
@@ -1632,7 +1632,7 @@ All that remained now, was making it a *good* deal.
 
 ___
 
-**Date Point: 18y9m1w AV**    
+**Date Point: 18y9m1w AV**
 **Hidden facility, the Ink Spatter Nebula**
 
 ***Ian “Death-Eye” Wilde***
@@ -1801,7 +1801,7 @@ Hopefully, it wouldn’t be too long.
 
 ___
 
-**Date Point: 18y9m1w1d AV**    
+**Date Point: 18y9m1w1d AV**
 **Unexplored planet, relay system HIGHWATER**
 
 ***Lieutenant Jeremy Booth, JETS team 3***
@@ -1878,7 +1878,7 @@ He pulled the crate out of the rack, and started unpacking.
 
 ___
 
-**Date point: 18y9m1w2d AV**    
+**Date point: 18y9m1w2d AV**
 **Whitecrest Clan Headquarters, Gao**
 
 ***Thurrsto, Champion of Clan Whitecrest***
@@ -1987,7 +1987,7 @@ Garaaf stepped forward and dropped a new, blank document on the table, took up a
 
 ___
 
-**Date Point: 18y9m1w2d AV**    
+**Date Point: 18y9m1w2d AV**
 **North pole, Unexplored planet, relay system HIGHWATER**
 
 ***Lieutenant Jeremy Booth***
@@ -2046,7 +2046,7 @@ He fell asleep to the sounds of TV, and the howling blizzard beyond the hull.
 
 ___
 
-**Date Point: 18y9m1w3d AV**    
+**Date Point: 18y9m1w3d AV**
 **Clan Stoneback training range, planet Gao**
 
 ***Daar, Great Father of the Gao***
@@ -2189,7 +2189,7 @@ Rarely did relaxation have such a grim purpose.
 
 ___
 
-**Date Point: 18y9m1w5d AV**    
+**Date Point: 18y9m1w5d AV**
 **The White House, Washington DC, USA, Earth**
 
 ***President Beau Chambliss***
@@ -2354,7 +2354,7 @@ The job never stopped.
 
 ___
 
-**Date Point: 18y9m2w6d AV**    
+**Date Point: 18y9m2w6d AV**
 **Starship** ***Destroying Fury,*** **orbiting planet Gao**
 
 ***Daar, Great Father of the Gao***
