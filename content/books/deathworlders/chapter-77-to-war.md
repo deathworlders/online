@@ -2262,4 +2262,4 @@ The author does not necessarily share or endorse the opinions and behaviour of t
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 78: "Downfall"
+*The Deathworlders* will continue in chapter 78: "Fury"
