@@ -230,7 +230,7 @@ The sharp field boundaries that had plunged in on him fizzled and dissipated. Hi
 
 Good. The suit modifications worked. No time ‘ta kick himself ‘fer the mistake of fallin’ into the trap at all, point was, he was alive. An’ right now, Daar needed ‘ta play *gravball* with himself as the ball, ‘cuz they were *not* goin’ that way now. Not unless they wanted ‘ta take it slow and find every trap...unacceptable.
 
-Unfortunately, the only other way out was a solid concrete wall. Fortunately, there weren’t much livin’ anywhere that were heavier an’ *nothin’* that ran faster than a Daar. Put the two together, hit the wall at speed, absorb the impact with his paws an’ kick off *hard*…
+Unfortunately, the only other way out was a solid concrete wall. Fortunately, there weren’t much livin’ anywhere that were heavier an’ *nothin’* that ran faster than a Daar. Put the two together, hit the wall at speed, absorb the impact with his paws an’ kick off *hard…*
 
 He din’t quite land it perfectly, and the force of the hit very briefly disoriented him, even as he was charging back. But a quick rear-camera glance in his HUD showed he’d done enough. 
 
