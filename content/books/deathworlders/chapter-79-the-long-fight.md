@@ -1923,9 +1923,8 @@ Austin Deschner
 
 Brigid
 
-Chris Candreva
-
 Chris Dye
+
 Daniel Iversen
 
 Daniel Morris
@@ -1939,8 +1938,9 @@ His Dread Monarch
 James Ren
 
 John Norton
-
 Joseph Szuma
+
+Joshua A. Demic
 
 Joshua Mountain Taylor
 
@@ -1976,9 +1976,9 @@ Taylor McGee
 
 Teka 'Katar
 
-TheMoneyBadger
-
 Theningaraf 
+
+Vincent Leighton
 
 Xultanis 
 
@@ -1986,11 +1986,12 @@ Yeania Aeon
 
 Zachary Galicki
 
+
 ---
 
-As well as **60** ***Deathworlders...***
+As well as **58** ***Deathworlders...***
 
- Adam Zarger
+Adam Zarger
 Alex Langub
 Andrew 
 Andrew Ford
@@ -2000,6 +2001,7 @@ blackwolf393
 Brandon Hicks
 Bruce Ludington
 Chris Bausch
+Chris Candreva
 Chris Meeker
 damnusername 
 Daniel R.
@@ -2041,18 +2043,14 @@ Stephen Prescott
 Thanatos
 theWorst 
 Trevor C
-Vincent Leighton
-Volka Creed
 walter thomas
 William Kinser
 Woodsie13
 Yshmael Salas
-ziv 
 Zod Bain
++1 anonymous
 
-
-
-**78** ***Friendly ETs,***  **146** ***Squishy Xenos*** and **317** ***Dizi Rats,*** a nice unround number
+**78** ***Friendly ETs,*** **147** ***Squishy Xenos*** and **316** ***Dizi Rats.*** And that's the bottom line, because Dizi Rat said---*squish*
 
 ---
 
