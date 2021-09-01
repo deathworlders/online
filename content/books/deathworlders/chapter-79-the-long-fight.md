@@ -204,7 +204,15 @@ It was *good* to be strong, and good to have strong friends to share it with. He
 
 “You’re *mine,”* he snarled quietly in Ferd’s ear, pinning his head with his own, using just the strength in his thicker neck to hold Ferd down. “You can’t stop me even if you wanted to.” He made the point with a full-body squeeze. Ferd’s hard muscles shook under Vemik’s harder strength and went slack, flattened to the bone from head to toe. “Can’t fight back against me at all. You like it, don’t you?”
 
-Ferd nodded a bit fearfully, and that was all the encouragement Vemik needed. “Good,” he growled as he tightened his hug fiercely, his bigger, thicker chest winning the contest for air. “You can’t even breathe unless I let you,” he snarled, and started rolling his hips with as much slow strength as he could manage. “Now I’m gonna *play* with you, and you’re gonna *love* it.”
+Ferd nodded a bit fearfully, and that was all the encouragement Vemik needed. He growled as he tightened his hug fiercely, his bigger, thicker chest winning the contest for air.
+
+Well...actually.
+
+“Slap my head if you want me to stop,” he growled, softly. He’d learned a lot playing with Tilly, who *really* appreciated Ten’Gewek strength...but it frightened her, too. He couldn’t hurt Ferd as hard as he could hurt her, but she had good ideas about safety, so...
+
+Ferd relaxed too. Nodded more happily this time.
+
+“Good,” Vemik growled happily. “‘Cuz you can’t even breathe unless I let you,” he snarled, and started rolling his hips with as much slow strength as he could manage. “Now I’m gonna *play* with you, and you’re gonna *love* it.”
 
 So he *did.* Vemik took his time and reveled in it. He left Ferd’s arms free because it was just play and not anything *too* mean, so could fight back for real if he was ever too scared…
 
