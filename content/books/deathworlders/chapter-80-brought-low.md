@@ -258,7 +258,7 @@ He could *feel* her annoyed grin. “Oh, *chunk,* this is going to be all sorts 
 
 Adam nodded, rested his head back and tried to relax. Right now, Forln’s advice to just *rest* wasn’t sounding so difficult. Even being awake and talked to was kinda tiring. His whole body wanted to curl up, sleep and heal. And, well...he was in a wheelchair. And whoever’d built it had made it kinda comfy, even…
 
-But there was too much going on around him to really want to sleep. They were on *Origin* for fucksake, there weren’t too many people had ever set foot on the Corti homeworld. A small swarm of cleaning drones was following them around, sanitizing every inch of every surface they even passed near. Their progress through the hospital was cleared for them, with little gray people down the side corridors behind blue forcefields covered in Corti biohazard warnings, waiting until they were gone. 
+But there was too much going on around him to really want to sleep. They were on *Origin* for fucksake, there weren’t too many people had ever set foot on the Corti homeworld. A small swarm of cleaning drones was following them around, sanitizing every inch of every surface they even passed near. Their progress through the hospital was cleared for them, with little gray people waiting down the side corridors behind blue forcefields until they were gone. 
 
 Adam didn’t pay them much mind. Instead, he looked up as they passed through a long glass-ceilinged hallway and he got to see where they really were: right in the middle of a city that made any on Earth look low-rise. It was like if the shortest and shabbiest building in Manhattan was the Burj Khalifa.
 
@@ -1235,7 +1235,7 @@ ___
 **Date Point: 18y11m AV**    
 
 **Allied forces continue to make slow gains on Hell**    
-*written by Gabrielle Nyoni*
+*written by Gabrielle Nyoni**
 
 The problem with shield generators is that they don’t cope well with uneven terrain. If they did, then the war on Hell would already be over.
 
@@ -1273,7 +1273,7 @@ Hopefully, they are afraid.
 
 ___
 
-**Date Point: 18y11m1w AV**    
+**Date Point: 18y11m1w AV
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Master Sergeant Adam (Warhorse) Arés***
@@ -1295,7 +1295,7 @@ He got a text message, suddenly. Annoying. He still couldn’t trust himself to 
 It was from Daar.
 
 `Hey fren, can I visit?`    
-`I need some wind ‘tween my ears!`
+`I need some wind ‘tween my ears!’
 
 He always wrote very precisely in his texts, so his misspellings were deliberate, to convey a bit of his accent. Just one of his many foibles. Adam told his phone to say yes, and went back to his stretching. The only real thing he had right now to keep his muscles in good shape was *really* intense electro-stimulation and some basic machine lifts down in the Dungeon. That...wasn’t ideal, to say the least, so keeping limber was critically important.
 
@@ -1303,7 +1303,7 @@ Marty came to check in after she’d put Sam to sleep. Diego got a little more t
 
 “Eh. I think I’ve got the twenty-five mastered. I can hold it in my hand without paying attention now. It’s weird, though. Anything smaller and I just...eventually crush it.”
 
-“Does seem odd,” she commented, and draped herself over his back, hands running up his shirt to rub her hands across his abs and chest. *God* he loved it when she did that…
+“Does seem odd,” she commented, and draped herself over his back, hands running under his shirt to rub across his abs and chest. *God* he loved it when she did that…
 
 “Much as I’d like what you’re fixin’ to do,” he quipped, slightly regretfully, “Daar’s comin’ to visit.”
 
@@ -1311,7 +1311,7 @@ Marty came to check in after she’d put Sam to sleep. Diego got a little more t
 
 “I think he just wants an excuse to run. I can sympathize…” That was the thing he missed the most. Running. Sure, he could manage some short sprints now, and even jog for a mile...but as always, it was a matter of his body *screaming* at him for a chance to perform, and his nervous system begging to take it easy. He’d never felt anything so frustrating!
 
-...Calm. Luckily, he was no stranger to being *big* mad. Would be nice if it would give him a break now and then, but whatever. It was useful.
+...Calm. A quick mental pause, back to a good headspace. Luckily, he was no stranger to being *big* mad. Would be nice if it would give him a break now and then, but whatever. It was useful.
 
 “Well, okay. I’ll go fix some snacks---”
 
@@ -1325,7 +1325,9 @@ And it was a good thing, too. These days, even *that* kind of accommodation was 
 
 “You’re lucky you didn’t wake Sam up with that,” Adam greeted Daar with a grin. “And you’re lucky my tenants are pretty much all single people right now, too.”
 
-“Balls, sarry…” Daar made a slightly embarrassed grumbling huff. “I just *really* wanted ‘ta get a good flyin’ leap in or jus’ *somethin’* fun, *yijao?”*
+Sometimes, it struck him sideways how *weird* their friendship really was. Adam was just a very high-end grunt, really. His impact on the world was pretty limited. Daar, on the other hand...
+
+“Balls, sarry!” Daar made a slightly embarrassed grumbling huff. “I just *really* wanted ‘ta get a good flyin’ leap in or jus’ *somethin’* fun, *yijao?”*
 
 Maybe somebody else would have found that a bit callous, given Adam’s current predicament, but honestly he didn’t mind. No reason Daar couldn’t enjoy his body.
 
@@ -1337,15 +1339,15 @@ Maybe somebody else would have found that a bit callous, given Adam’s current 
 
 Daar gave him his *Most Patient Look.* “‘Yer lookin’ at the only dude in the fuckin’ universe ‘ya can’t hurt. C’mon. Les’ go lie on that nice bit o’ grass you got up here.”
 
-Well....okay, then. Adam trusted, and gripped onto Daar’s back while they walked down the treacherous three steps toward the rooftop garden. As promised, the Great Father didn’t complain. He felt *hard* and completely unyielding under Adam’s grip, which given the kinds of things he’d been breaking in his hands just absent-mindedly…
+Well....okay, then. Adam trusted, and gripped onto the back of Daar’s shoulders and neck while they walked down the treacherous three steps toward the rooftop garden. As promised, the Great Father didn’t complain. He felt *hard* and completely unyielding under Adam’s grip, which given the kinds of things he’d been breaking in his hands just absent-mindedly…
 
 Okay. Daar was safe from him. Good to know. Jesus.
 
-He needed that solidness to grip onto, because Adam *really* hated those three steps. Something about them was still *impossible,* despite the progress he’d made. Having someone he could *trust* himself with was just...
+He needed that solidness to grip onto, because Adam *really* hated those three steps. Something about them was still *impossible,* despite the progress he’d made. Having someone he could trust himself with right now was just...
 
 “There, see? Not so bad! Now hang on, I’mma lay down here…”
 
-There was a bit of awkwardness involved in all that, but Daar didn’t let him wobble. Some grunts, some wincing pain from too-stiff hips and such, and before he knew it they were lying comfortably on the grass. Or rather, Daar was lying like a huge hulked-out beast taking a nap, while Adam was sort of propped up against his flank.
+There was a bit of awkwardness involved in all that, but Daar didn’t let him wobble. Some grunts, some wincing pain from too-stiff hips and such, and before he knew it they were lying comfortably on the grass. Or rather, Daar was lying like a huge hulking beast taking a nap, while Adam was sort of propped up against his flank.
 
 He took a moment to mentally rest. Complex movements were a bit taxing. Didn’t feel like he’d made any progress at all on that front…
 
@@ -1355,7 +1357,7 @@ Daar broke the silence after a good long moment. “I was wunnerin’ if ‘ya w
 
 A giant nose snuffled near Adam’s face, the Gaoian gesture of extreme concern. “Naw, ye’re good ‘fer a lot. Don’ go down that road jus’ cuz ‘yer feelin’ frustrated.”
 
-“Urgh, I *know,”* Adam sighed.  “Just...hard not to feel fuckin’ useless right now.” What more could he say?
+“Urgh, I *know,”* Adam sighed. “Just...hard not to feel fuckin’ useless right now.” What more could he say?
 
 Daar put an arm around Adam and pulled him in for a tight snuggle. “Guess I’d be feelin’ ‘bout the same. I wish’d I could be more helpful, but…”
 
@@ -1413,7 +1415,7 @@ ___
 
 ***Daar***
 
-The magical curin’ power o’ closeness did its work, sure as Daar’d known it would. ‘Fer both of ‘em too, which was good. The whole house *reeked* o’ the kinda misery that only really *tough* people could work themselves into when they were bein’ strong ‘fer their loved ones. 
+The magical curin’ power o’ closeness did its work, sure as Daar’d known it would. ‘Fer both of ‘em too, which was good. The whole house *reeked* o’ the kinda misery that only really tough people could work themselves into when they were bein’ strong ‘fer their loved ones. 
 
 Daar knew that misery well. Shit, he was pretty bad at sinkin’ into it himself.
 
@@ -1423,7 +1425,7 @@ Naydi had taught him a lot about the power of love. May the Unseen curse the Hie
 
 The rain started up, same way it always did in Folctha after sundown. The terrace had a pergola though, so instead o’ gettin’ soaked they jus’ retreated under it an’ got cozy. And with a little curative misery outta the way, they got to talkin’ about what came next.
 
-“I’m going fuckin’ *nuts,”* Adam opined, miserably. “I can’t even hug my own wife! Every time I make just a little bit of progress, that seems great, and then I go do something like flatten the handle on my favorite cast iron pan! And at the same time, I can feel *years* of work just...:”
+“I’m going fuckin’ *nuts,”* Adam opined, sadly. “I can’t even hug my own wife! Every time I make just a little bit of progress, that seems great, and then I go do something like flatten the handle on my favorite cast iron pan! And at the same time, I can feel *years* of work just...:”
 
 Marty had snuggled into his lap and draped his arms around herself as a compromise. It was *something,* but Daar could see both of them woulda wanted a real squeeze and didn’t dare. *Sensibly* didn’t dare. She nodded glumly, and rubbed his forearm. 
 
@@ -1455,11 +1457,11 @@ There was a long, sombre pause, with the only sounds being the rain and Marty st
 
 “I ain’t lookin’ for a handout,” Adam said, stoically.
 
-“An’ I ain’t offerin’ one. Adam. Lissen ‘ta what I’m sayin’. How many people d’ya know are owed a special favor by the most powerful being in the galaxy? Even among ‘yer crew, that’s some pretty ridiculous shit, s’pecially how’s it came that I owe ‘ya in the firs’ place. *Use it.* I can thinka all *sortsa* uses ‘fer a man like you, and I know there are people right now findin’ out ‘yer gon’ be available, jus’ wunnerin’ how they’re gonna sales pitch their offer.”
+“An’ I ain’t offerin’ one. Adam. Lissen ‘ta what I’m sayin’. How many people d’ya know are owed by the most powerful being in the galaxy? Even among ‘yer crew, that’s some pretty ridiculous shit, s’pecially how’s it came that I owe ‘ya in the firs’ place. *Use it.* I can thinka all *sortsa* uses ‘fer a man like you, and I know there are people right now findin’ out ‘yer gon’ be available, jus’ wunnerin’ how they’re gonna sales pitch their offer.”
 
 “I know, I just...what I want and need, even *you* can’t give, you know?”
 
-“Well, mebbe not. But I’m pretty old these days by either human or gaoian reckonin’, even if my stunnin’ good looks say otherwise. So, if I ‘ve learneded anythin’ being all old-fart an’ stuff, it’s that ‘ya never really know what ‘ya want *or* need ‘till it smacks ‘ya cross the muzzle. What do you wanna do? Make a diff’rence? Save lives? Have ‘ya considered that we still ain’t founded a rescue service on this planet? Fire service? Some kinda special security?”
+“Well, mebbe not. But I’m pretty old these days by either human or gaoian reckonin’, even if my stunnin’ good looks say otherwise. So, if I ‘ve learneded anythin’ being all old-fart an’ stuff, it’s that ‘ya never really know what ‘ya want *or* need ‘till it smacks ‘ya cross the muzzle. What do you wanna do? Make a diff’rence? Save lives? Have ‘ya considered that we still ain’t founded a rescue service on this planet? Rural fire service? Some kinda special security?”
 
 Adam frowned thoughtfully, but Marty was nodding. “You did always say, if you ever retire from the HEAT, you’d go into that kind of thing.”
 
@@ -1551,7 +1553,7 @@ But he was reacting. His arm shot out to break his fall the first time, and afte
 
 He was up. Moving. Moving with intent. Moving *right.* Jesus. Well, at least better.
 
-“I fuckin’ knew it. Now.” Daar crouched down in a position to wrestle, then tensed his body *hard* and...just, *fuckin’* **hell.** There wasn’t an ounce of superfluous tissue to be found anywhere on the big guy’s almost *impossibly* hyper-developed physique, and *boy* did that ever show. Dude looked like the biggest, hardest, most genuinely athletic bodybuilder there ever was! Which, given he was *many* times bigger than Adam now, and made him look downright puny, by comparison...and he’d fuckin’ *broken* the Alpha where Adam had failed…
+“I fuckin’ knew it. Now.” Daar crouched down in a position to wrestle, then tensed his body *hard* and...just, *fuckin’* **hell.** There wasn’t an ounce of superfluous tissue to be found anywhere on the big guy’s almost *impossibly* hyper-developed physique, and *boy* did that ever show. Dude looked like the biggest, hardest, most genuinely athletic bodybuilder there ever was. Which, given he was *many* times bigger than Adam now, and made him look downright puny, by comparison...and he’d fuckin’ *broken* the Alpha where Adam had failed…
 
 No. He’d crushed it like a *fuckin’ grape* after having snatched the damn thing right out of the air. Done that *after* a building had been dropped on him, after *leaping* up and out even as the building was still in the act of collapse, and he walked away from it all with nothin’ more than a headache and a head trip.
 
@@ -1587,9 +1589,9 @@ She smiled, closed the door, and locked the music out. They were both going *com
 
 But Marty knew her husband’s soul. Knew he’d never heal if he couldn’t express it. She’d fuss over him and remind him later, because he needed *that* too...but right now she was just glad for him.
 
-The two of them didn’t re-emerge until, well, extremely early morning. And by the two of them, more accurately, Daar prowled up the stairs with Adam draped over his back, looking like a train had run over him, backed up, and ran over him again. And the train that had run him over looked exhausted, too.
+The two of them didn’t re-emerge until, well, extremely early morning. And by the two of them, more accurately, Daar prowled up the stairs with Adam draped over his back, looking like a train had run over him, backed up, and ran over him again. And the train that had run him over looked pretty tired, too.
 
-“Hi, Marty. Sarry, I kinda beat ‘yer husband up.”
+“Hi, Marty. Sarry, I kinda beat ‘yer husband up. An’ smushed him pretty fuckin’ hard, too.”
 
 Marty laughed softly, and held the door open so he could deposit Adam on the mattress next to the bed. “Did you two get all your dick measuring energy worked out, at least?”
 
@@ -1597,7 +1599,7 @@ Marty laughed softly, and held the door open so he could deposit Adam on the mat
 
 Marty sighed, suspecting it’d be something like that. “Well, at least you kept your promise and brought him back still in one piece…I know I should be objecting about doctors’ orders and stuff but, I think he needed it. Even John and Christian are being gentle with him.”
 
-The Great Father chittered again in a satisfied sort of way. “Yeah, ‘cuz Adam could still fuck ‘em both up pretty bad, at least ‘fer now. I got the advantage of bein’ a lot more huger.”
+The Great Father chittered again in a satisfied sort of way. “Yeah, ‘cuz Adam could still fuck ‘em both up pretty bad, at least ‘fer now. I got the advantage of bein’ a lot more huger an’ harder.”
 
 He considered the mattress, and dropped Adam onto it in the sort of callous, gruff way only good friends could ever manage.
 
@@ -1611,7 +1613,7 @@ Daar chittered, “Yeah, well, sleep good. Might go ‘fer round two tomorrow...
 
 “So...how did it go?” Marty asked. They both looked pretty pleased, so it must have gone well. Certainly better than she’d feared it might.
 
-“He ‘membered mosta everything once I got him mad enough. Still a bit drunken but, oh, couple’a hours o’ me smushin’ him was all the reminder he needed. I din’t stop beatin’ on him ‘till he managed a bit o’ payback. Then he put me through the most evilist fuckin’ round of liftin’ I’ve had in fuckin’ *years.* ‘Yer man’s a fuckin’ *sadist.”*
+“He ‘membered mosta everything once I got him mad enough. Still a bit drunken but, oh, couple’a hours o’ me squeezin’ him like toothpaste was all the reminder he needed. I din’t stop beatin’ on him ‘till he managed a bit o’ payback. Then he put me through the most evilist fuckin’ round of liftin’ I’ve had in fuckin’ *years.* ‘Yer man’s a fuckin’ *sadist.”*
 
 “Mhmm,” Marty noted with some pride, then glanced back at Adam, who was already nodding off again. “It looks like he put you through your paces as well. You’re welcome to stay, of course.” 
 
@@ -1747,15 +1749,19 @@ Something like *that* was enough to get her giggling before she’d even fully w
 
 Marty laughed again as her son cautiously headed out to go meet the kitchen-bear, then rolled over to check on Adam. Still out like a light, his chest rising and falling slowly and evenly, his green feet wandering a lazy circle near his ribs. God, he looked like he was getting the best sleep he’d had since waking up on Origin. No way she had the heart to wake him from that, so she slipped out the other side of the bed, put on a T-shirt and shorts, and slipped quietly out of the room.
 
-Sure enough, the Great Father of the Gao was sitting on the floor in the middle of her kitchen, preparing for battle with a mountain of eggs and bacon. And, yes, waffles. At least, waffles of the Eggo kind, which was still Adam’s go-to comfort food for reasons only Arés men could possibly fathom. He was pondering the mysteries of the toaster when Marty shuffled up onto one of the bar stools and bid him a yawning good morning.
+Sure enough, the Great Father of the Gao was sitting on the floor in the middle of her kitchen, preparing for battle with a mountain of eggs and bacon. And, yes, waffles. At least, waffles of the Eggo kind, which were still Adam’s go-to comfort food for reasons only Arés men could possibly fathom. He was pondering the mysteries of the toaster when Marty shuffled up onto one of the bar stools and bid him a yawning good morning.
 
 “Marn! I’ve got a delivery comin’ ‘ta restock th’ fridge. I hope ‘ya don’t mind.”
 
-It was an interesting sight to watch, really; it could not be overstated how utterly colossal Daar was. He put Kodiak bears to shame, and yet he *somehow* found a way to work in the kitchen without complaint, sitting upright and on his haunches and relying on his long arms to reach anything he might need.
+It was an interesting sight to watch, really; it could not be overstated how utterly colossal Daar was. He put Kodiak bears to complete shame, and yet he *somehow* found a way to work in the kitchen without complaint, sitting upright on his haunches and relying on his long arms to reach anything he might need.
 
-He wasn’t *really* “like a bear” as was often said of larger Gaoians. Though there was something obviously ursine about many brownfurs’ proportions, and him most of all, the face was too different. Too *sapient* and intelligent. A bear would have looked dopey and comical sitting there on its butt, but Daar just looked purposeful. There were other things too: body shape was all wrong, fur not quite the right texture, they had butts in the first place, and so on...but they also had short legs, long arms, longish, muscular torsos...so, kinda like a bear.
+He wasn’t *really* “like a bear” as was often said of larger Gaoians. Though there was something obviously ursine about many brownfurs’ proportions, and him most of all, the face was too different. Too *sapient* and intelligent. A bear would have looked dopey and comical sitting there on its butt, but Daar just looked purposeful. There were other things too: his body shape was all wrong, and had some definite simian-like mechanics to it; he had huge, blocky shoulders bigger than his own head; wide, mobile hips, which were noticeably wider than his waist; fur not quite the right texture; a truly *massive* rear paired to even huger haunches...
 
-A man-bear. Bear-man. Something. Marty yawned, and shoved her favorite coffee mug under the espresso machine. Her brain needed some cobwebs blowing out. “Not at all. Thanks...Morning.”
+...But he also had short, thick legs with much heavier hamstrings than any human would ever have, as you’d expect on a swift quadruped; long, heavily muscled arms, which tucked in to his side perfectly for swift four-paw running; a long neck over twice as wide as his blocky head, with heavy traps sloping down to his shoulders; a long, stout torso that was equally broad; he was *much* thicker across the chest and back…
+
+Paws and claws that really sold the grizzly angle, to be frank.
+
+So, yeah. Kinda like a bear, actually. Just, not completely. A man-bear. Bear-man. Gorilla-raccoon. Something. Marty yawned, and shoved her favorite coffee mug under the espresso machine. Her brain needed some cobwebs blowing out. “Not at all. Thanks...Morning.”
 
 Daar’s chitter was *very* un-bear-like. Plus, he was entertaining Diego by juggling an egg on the spatula, Teppanyaki-style. Every time he “missed” the egg landed exactly on the griddle, conveniently ready to be cracked the rest of the way open and fried up for toast.
 
@@ -1775,13 +1781,13 @@ Daar’s chitter was *very* un-bear-like. Plus, he was entertaining Diego by jug
 
 “Daddy’s still asleep though…” Diego pointed out.
 
-“Not for long…” she predicted, and sniffed her coffee. Okay. This was a damn good way to start a morning.
+“Not for long…” she predicted, and sniffed her coffee. Okay. This was a damn good way to start a morning. Not that simple black coffee was rocket surgery, but he sure brewed a good pot...
 
 Sure enough, when the smell of sizzling pork product had really started to saturate the kitchen, there was the distant snap of snoring coming to a sudden end, followed a small earthquake, and a wild Adam lurched out of the bedroom. 
 
 He’d managed that a *lot* better than every other day, though he did seem grateful to pour himself onto his Extra Sturdy Stool.
 
-*“Mmmf*...you’re a sadistic man, Daar.”
+*“Mmmf*...you’re an evil man, Daar.”
 
 The Great Father didn’t reply, but *did* flick his ears in an unmistakably dominant gesture, and set to griddling up more bacon.
 
@@ -1961,7 +1967,7 @@ ___
 
 Quiet days put everyone on edge. Quiet days, consensus had it, meant the Hunters were *up to something.*
 
-Of course, *‘quiet’* was a relative term. The base never stopped working, and the constant background noise was a rumble of heavy stuff being moved around, the regular **thump** of the arrays firing day and night on a schedule you could set your watch to, and the growl of vehicles heading out or returning from patrol. Nobody *stopped* at Alighieri.
+Of course, *‘quiet’* was a relative term. The base never stopped working, and the constant background noise was a rumble of heavy stuff being moved around, the regular **thump* of the arrays firing day and night on a schedule you could set your watch to, and the growl of vehicles heading out or returning from patrol. Nobody *stopped* at Alighieri.
 
 If nothing else, there was kit to maintain, or food to stuff into faces. Gabby liked finding groups of men sitting around taking care of such chores. They tended to be a good source of unfiltered opinions.
 
@@ -2108,6 +2114,7 @@ ___
 ++END CHAPTER 80++
 ___
 ___
+
 If you have enjoyed the *Deathworlders* story so far and want to support the author, you can do so by:
 
 * Subscribing at http://patreon.com/HamboneHFY or https://subscribestar.com/HamboneHFY
