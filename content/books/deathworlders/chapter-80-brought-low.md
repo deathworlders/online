@@ -1235,7 +1235,7 @@ ___
 **Date Point: 18y11m AV**    
 
 **Allied forces continue to make slow gains on Hell**    
-*written by Gabrielle Nyoni**
+*written by Gabrielle Nyoni*
 
 The problem with shield generators is that they don’t cope well with uneven terrain. If they did, then the war on Hell would already be over.
 
@@ -1273,7 +1273,7 @@ Hopefully, they are afraid.
 
 ___
 
-**Date Point: 18y11m1w AV
+**Date Point: 18y11m1w AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Master Sergeant Adam (Warhorse) Arés***
@@ -1961,7 +1961,7 @@ ___
 
 Quiet days put everyone on edge. Quiet days, consensus had it, meant the Hunters were *up to something.*
 
-Of course, *‘quiet’* was a relative term. The base never stopped working, and the constant background noise was a rumble of heavy stuff being moved around, the regular **thump* of the arrays firing day and night on a schedule you could set your watch to, and the growl of vehicles heading out or returning from patrol. Nobody *stopped* at Alighieri.
+Of course, *‘quiet’* was a relative term. The base never stopped working, and the constant background noise was a rumble of heavy stuff being moved around, the regular **thump** of the arrays firing day and night on a schedule you could set your watch to, and the growl of vehicles heading out or returning from patrol. Nobody *stopped* at Alighieri.
 
 If nothing else, there was kit to maintain, or food to stuff into faces. Gabby liked finding groups of men sitting around taking care of such chores. They tended to be a good source of unfiltered opinions.
 
