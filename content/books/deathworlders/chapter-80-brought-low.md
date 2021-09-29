@@ -493,7 +493,7 @@ ___
 **Date Point: 18y10m AV**    
 ***Alien Palace, Folctha, Cimbrean, the Far Reaches***
 
-***(former) President Author Sartori***
+***(former) President Arthur Sartori***
 
 Nobody kept all their dignity around Daar, if they were close friends. He needed very little excuse to pick up little five-foot-five Sartori and smush him firmly against his monstrous ten-foot self, giving the most bestest and fragrant hugs.
 
@@ -1971,7 +1971,7 @@ Of course, *‘quiet’* was a relative term. The base never stopped working, an
 
 If nothing else, there was kit to maintain, or food to stuff into faces. Gabby liked finding groups of men sitting around taking care of such chores. They tended to be a good source of unfiltered opinions.
 
-But today? Today was *silent.* Confusingly so. The Hunters had seemingly vanished, and the few that *were* encountered out in the city seemed to be hastening to some sort of errand. It was, in the words of far too many tense young men, fuckin’ suspicious. And they were *happy* speculate around the reporter.
+But today? Today was *silent.* Confusingly so. The Hunters had seemingly vanished, and the few that *were* encountered out in the city seemed to be hastening to some sort of errand. It was, in the words of far too many tense young men, fuckin’ suspicious. And they were *happy* to speculate around the reporter.
 
 Of course, nobody could agree on what kind of *‘something’* the enemy might be up to.
 
@@ -2036,7 +2036,7 @@ He shook off the green glow of pleasure that thought rose in him, and returned h
 
 “No more than many of the other escapades we have launched ourselves into over the years, both with this shipmaster and our former one.” Urgug trundled away from his desk to peer at Morwk’s readings. “...My, that *is* faint.”
 
-“Any fainter and I’d think it was just a background fluctuation. But it’s definitely moving like a ship…” Mohawk traced the two spindly middle fingers of his right hand across the screen, then paused when the contact faded entirely. “Hmm.”
+“Any fainter and I’d think it was just a background fluctuation. But it’s definitely moving like a ship…” Morwk traced the two spindly middle fingers of his right hand across the screen, then paused when the contact faded entirely. “Hmm.”
 
 “You sound even more concerned now. Surely there is nothing to worry about? It was quite far away, and heading away from us.”
 
