@@ -1235,7 +1235,7 @@ ___
 **Date Point: 18y11m AV**    
 
 **Allied forces continue to make slow gains on Hell**    
-*written by Gabrielle Nyoni**
+*written by Gabrielle Nyoni*
 
 The problem with shield generators is that they don’t cope well with uneven terrain. If they did, then the war on Hell would already be over.
 
@@ -1273,7 +1273,7 @@ Hopefully, they are afraid.
 
 ___
 
-**Date Point: 18y11m1w AV
+**Date Point: 18y11m1w AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Master Sergeant Adam (Warhorse) Arés***
@@ -1295,7 +1295,7 @@ He got a text message, suddenly. Annoying. He still couldn’t trust himself to 
 It was from Daar.
 
 `Hey fren, can I visit?`    
-`I need some wind ‘tween my ears!’
+`I need some wind ‘tween my ears!`
 
 He always wrote very precisely in his texts, so his misspellings were deliberate, to convey a bit of his accent. Just one of his many foibles. Adam told his phone to say yes, and went back to his stretching. The only real thing he had right now to keep his muscles in good shape was *really* intense electro-stimulation and some basic machine lifts down in the Dungeon. That...wasn’t ideal, to say the least, so keeping limber was critically important.
 
@@ -1553,13 +1553,13 @@ But he was reacting. His arm shot out to break his fall the first time, and afte
 
 He was up. Moving. Moving with intent. Moving *right.* Jesus. Well, at least better.
 
-“I fuckin’ knew it. Now.” Daar crouched down in a position to wrestle, then tensed his body *hard* and...just, *fuckin’* **hell.** There wasn’t an ounce of superfluous tissue to be found anywhere on the big guy’s almost *impossibly* hyper-developed physique, and *boy* did that ever show. Dude looked like the biggest, hardest, most genuinely athletic bodybuilder there ever was. Which, given he was *many* times bigger than Adam now, and made him look downright puny, by comparison...and he’d fuckin’ *broken* the Alpha where Adam had failed…
+“I fuckin’ knew it. Now.” Daar crouched down in a position to wrestle. Which, given he was *many* times bigger than Adam now, and made him look downright puny, by comparison...and he’d fuckin’ *broken* the Alpha where Adam had failed…
 
 No. He’d crushed it like a *fuckin’ grape* after having snatched the damn thing right out of the air. Done that *after* a building had been dropped on him, after *leaping* up and out even as the building was still in the act of collapse, and he walked away from it all with nothin’ more than a headache and a head trip.
 
 *...Fuck.*
 
-Adam gulped, and crouched down too. For the first time in years, he felt *intimidated.* Hell, fuck that. He felt *scared.* Daar coulda crushed him like a grape too, even before all this bullshit. He’d created a monster, and now that monster wanted to prove himself, and have fun doing it.
+Adam gulped, and crouched down too. For the first time in years, he felt *intimidated.* Hell, fuck that. He felt *scared.* Daar had a habit of overpowering him even before all this bullshit. He’d created a monster, and now that monster wanted to prove himself, and have fun doing it.
 
 Daar sniffed toward him, retracted his claws as best as he could...
 
@@ -1967,7 +1967,7 @@ ___
 
 Quiet days put everyone on edge. Quiet days, consensus had it, meant the Hunters were *up to something.*
 
-Of course, *‘quiet’* was a relative term. The base never stopped working, and the constant background noise was a rumble of heavy stuff being moved around, the regular **thump* of the arrays firing day and night on a schedule you could set your watch to, and the growl of vehicles heading out or returning from patrol. Nobody *stopped* at Alighieri.
+Of course, *‘quiet’* was a relative term. The base never stopped working, and the constant background noise was a rumble of heavy stuff being moved around, the regular **thump** of the arrays firing day and night on a schedule you could set your watch to, and the growl of vehicles heading out or returning from patrol. Nobody *stopped* at Alighieri.
 
 If nothing else, there was kit to maintain, or food to stuff into faces. Gabby liked finding groups of men sitting around taking care of such chores. They tended to be a good source of unfiltered opinions.
 
