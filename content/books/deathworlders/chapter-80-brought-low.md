@@ -1971,7 +1971,7 @@ Of course, *‘quiet’* was a relative term. The base never stopped working, an
 
 If nothing else, there was kit to maintain, or food to stuff into faces. Gabby liked finding groups of men sitting around taking care of such chores. They tended to be a good source of unfiltered opinions.
 
-But today? Today was *silent.* Confusingly so. The Hunters had seemingly vanished, and the few that *were* encountered out in the city seemed to be hastening to some sort of errand. It was, in the words of far too many tense young men, fuckin’ suspicious. And they were *happy* speculate around the reporter.
+But today? Today was *silent.* Confusingly so. The Hunters had seemingly vanished, and the few that *were* encountered out in the city seemed to be hastening to some sort of errand. It was, in the words of far too many tense young men, fuckin’ suspicious. And they were *happy* to speculate around the reporter.
 
 Of course, nobody could agree on what kind of *‘something’* the enemy might be up to.
 
