@@ -782,28 +782,28 @@ Firth nodded approvingly. “Damn right. Now, go let the sport doc give you his 
 
 Firth sent a text to Adam to brag a bit too, because he’d love that.
 
-<div style="text-align: right">`broke yer scale, little guy`</div>    
-<div style="text-align: right">`[attached video: 4.6 MB]`</div>
+<code style="text-align: right">broke yer scale, little guy</code>    
+<code style="text-align: right">[attached video: 4.6 MB]</code>
 
 `haha u fat fucc`    
 `bet you can’t touch yr toes`
 
 Firth tried, just for fun.
 
-<div style="text-align: right">`knees straight palms flat on the ground`</div>    
-<div style="text-align: right">`beat that u lil midget`</div>
+<code style="text-align: right">knees straight palms flat on the ground</code>    
+<code style="text-align: right">beat that u lil midget</code>
 
 `nah might fall over still kinda wobbly`
 
 ...Fuck.
 
-<div style="text-align: right">`rite sarry`</div>
+<code style="text-align: right">rite sarry</code>
 
 `no worries gettin better!`    
 `go duckin smash it bruh`
 
-<div style="text-align: right">‘already did`</div>    
-<div style="text-align: right">‘imma beat yr squat later today too`</div>
+<code style="text-align: right">already did</code>    
+<code style="text-align: right">imma beat yr squat later today too</code>
 
 `haha nah u weak bitch still`    
 `betcha a steak u cant`
@@ -1553,13 +1553,13 @@ But he was reacting. His arm shot out to break his fall the first time, and afte
 
 He was up. Moving. Moving with intent. Moving *right.* Jesus. Well, at least better.
 
-“I fuckin’ knew it. Now.” Daar crouched down in a position to wrestle. Which, given he was *many* times bigger than Adam now, and made him look downright puny, by comparison...and he’d fuckin’ *broken* the Alpha where Adam had failed…
+“I fuckin’ knew it. Now.” Daar crouched down in a position to wrestle, then tensed his body *hard* and...just, *fuckin’* **hell.** There wasn’t an ounce of superfluous tissue to be found anywhere on the big guy and *boy* did that ever show. Everyone was downright puny by comparison...and he’d fuckin’ *broken* the Alpha where Adam had failed…
 
 No. He’d crushed it like a *fuckin’ grape* after having snatched the damn thing right out of the air. Done that *after* a building had been dropped on him, after *leaping* up and out even as the building was still in the act of collapse, and he walked away from it all with nothin’ more than a headache and a head trip.
 
 *...Fuck.*
 
-Adam gulped, and crouched down too. For the first time in years, he felt *intimidated.* Hell, fuck that. He felt *scared.* Daar had a habit of overpowering him even before all this bullshit. He’d created a monster, and now that monster wanted to prove himself, and have fun doing it.
+Adam gulped, and crouched down too. For the first time in years, he felt *intimidated.* Hell, fuck that. He felt *scared.* Daar was an unbeatable juggernaut even before all this bullshit. He’d created a monster, and now that monster wanted to prove himself, and have fun doing it.
 
 Daar sniffed toward him, retracted his claws as best as he could...
 
