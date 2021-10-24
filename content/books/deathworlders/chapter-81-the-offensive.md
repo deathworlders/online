@@ -143,7 +143,7 @@ The grenades went off; he *charged.* Panting for breath under his mask, rounds s
 
 Another patch of air directly in front sizzled white hot: fusion claws. Shot the fuck out of it. Cloak flickered and failed: shot it some more, kept assaulting. Move, shoot, kill, all of it on reflex until...suddenly, nothing. No more enemy. No idea if they were all dead or if some of the cloaky fucks had melted away. 
 
-Secure the area. They had good good visibility of any approach---not that it necessarily mattered against *invisible murder---*and the LT decided now was the moment for them to dig in, get a breather, get some relief.
+Secure the area. They had good good visibility of any approach---not that it necessarily mattered against *invisible murder*---and the LT decided now was the moment for them to dig in, get a breather, get some relief.
 
 Also, mortars were fuckin’ up *everything* around them. Which was nice.
 
@@ -1121,7 +1121,7 @@ That led them, at last, to the most important point to broach. “Right. And for
 
 Daar sighed, and shook out his pelt. “Couple things. Yeah, it means I were advantaged from birth, more’n anyone else. ‘Course, sixth-degrees almos’ never *servive* their first few weeks...anyway. It’s worse, though. It turns out I weren’t actually lucky. I was...made.”
 
-The audience was dead silent. Jamal, too: Even knowing in advance they’d be talking about this---though not that it embroiled *Daar’s entire species---*it still shocked him to hear it. Something in Daar’s solemn, uninflected delivery lent it an inescapable weight.
+The audience was dead silent. Jamal, too: Even knowing in advance they’d be talking about this---though not that it embroiled *Daar’s entire species*---it still shocked him to hear it. Something in Daar’s solemn, uninflected delivery lent it an inescapable weight.
 
 “...Made?” he prompted.
 
