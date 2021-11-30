@@ -1149,7 +1149,7 @@ But they were, for lack of a better term, *loud.* So much so, she’d set up a w
  
 Then she’d added a privacy screen when she realized they felt much the same way about her music.
  
-♫*I, I feel like fuckin' somethin', But we could be corny, fuck it, Sugar, I ain't no dummy, dummy, I like to say, what if, but if, We could kiss and just cut the rubbish, Then I might be onto something…*♪
+*♫I, I feel like fuckin' somethin', But we could be corny, fuck it, Sugar, I ain't no dummy, dummy, I like to say, what if, but if, We could kiss and just cut the rubbish, Then I might be onto something…♪*
  
 Plus, it filtered out the headbanging, ear-bursting sonic *assault* they listened to down in the converted cargo hold.
  
@@ -1305,17 +1305,17 @@ ___
  
 Renting an apartment was a strange experience, but it made sense. A Giving and a Taking, though thinking of a *hut* in terms of *money* was still a new taste in his mouth. He ended up renting in Adam’s building, even though it was slightly more expensive. Partly it was because it was closer to the places he was interested in going, but mostly it was because Adam needed someone strong nearby right now, so…friends help friends. Also, for the gym. Free access.
  
-He *needed* to beat *Criss-*chin, too. Needed it more than *anything* besides maybe good food and good fucks. He hadn’t wanted to win something so strongly in his whole *life.*
+He *needed* to beat *Criss*-chin, too. Needed it more than *anything* besides maybe good food and good fucks. He hadn’t wanted to win something so strongly in his whole *life.*
  
 Which was strange. He *liked* the big Human, so maybe that was part of it? Gods only knew.
  
-Or maybe it was because *War-*horse had made such a *big* Giving to save them all, and now he was suffering the Taking. Everyone loved him, but his strongest wish was that they get *better* than he ever was, so *Criss-*chin had done everything he could to Give that wish.
+Or maybe it was because *War*-horse had made such a *big* Giving to save them all, and now he was suffering the Taking. Everyone loved him, but his strongest wish was that they get *better* than he ever was, so *Criss-*chin had done everything he could to Give that wish.
  
-That seemed right. Yan would make that Giving too, and do *everything* to keep his People the strongest. Their strength was their Giving to the Sky-Tribes. He loved *Criss-*chin and respected everything about him, but Yan would *not* let him Take that from his people!
+That seemed right. Yan would make that Giving too, and do *everything* to keep his People the strongest. Their strength was their Giving to the Sky-Tribes. He loved *Criss*-chin and respected everything about him, but Yan would *not* let him Take that from his people!
  
-Though...right now, *Criss-*chin was so big and so unbeatably strong, it might be a very long while before Yan could manage that. Righteous wasn’t Daar and wasn’t a god...nonetheless, the big human was everything Yan was, but much, much, *much* more. Righteous was so fast, so strong, so *hard* and tough, so endlessly able to fight and teach, so *skilled…*
+Though...right now, *Criss*-chin was so big and so unbeatably strong, it might be a very long while before Yan could manage that. Righteous wasn’t Daar and wasn’t a god...nonetheless, the big human was everything Yan was, but much, much, *much* more. Righteous was so fast, so strong, so *hard* and tough, so endlessly able to fight and teach, so *skilled…*
  
-*War-*horse taught him well, and Yan would *earn* that strength, just like they did.
+*War*-horse taught him well, and Yan would *earn* that strength, just like they did.
  
 So he lived in Folctha, but lived in his own apartment, with his own pots and pans, and his own ‘futon’ to lie on, and his own comings and goings away from Ferd and the younger men. It gave him some distance, which was good. A blackcrest had to keep apart from the tribes if other Given-Men were to flourish. They were on-mission right now so it didn’t matter much, but since more than half their time was spent away, it was important to observe the magic. Given-Men *needed* to be dominant in their tribe. If they ever lost that, because the gods saw they were being led by a bigger, stronger Given-Man, they might stop growing in strength, or even wither away and die. The gods rewarded strength after all, and the strongest led.
  
@@ -1349,13 +1349,13 @@ They had been tested a hand of times now, and tested hard. So far, so good. The 
  
 Yan himself was the biggest clue. None of his people were bigger or stronger than him, none more handsome of muscle or face. His body was prettier and stronger *and* harder than any, thicker in every part and shape, better in his arms, legs, tail and cock. He was so blessed by the gods that it took a man such as *Righteous* to best him, or a god like Daar to defeat him.
  
-That thought made him feel better. Righteous was not a god because Human gods did not work that way, but he was maybe not much *less.* To stand honorably next to him---and to think that one day, he might even *beat* him---was a good feeling. After all, Yan had time to build his strength, and the Humans had not yet begun their strongest Giving-magics on him. Age had not marked him in any weak way. A few of the Lodge were smarter, and a hand of them like Vemik were hugely much more so, but none had Yan’s experience or wisdom. He was *old* among the People, now. Old, well-fed, and he could *feel* in his bones he would live very, very long. Not even *Noff-*fell could say otherwise.
+That thought made him feel better. Righteous was not a god because Human gods did not work that way, but he was maybe not much *less.* To stand honorably next to him---and to think that one day, he might even *beat* him---was a good feeling. After all, Yan had time to build his strength, and the Humans had not yet begun their strongest Giving-magics on him. Age had not marked him in any weak way. A few of the Lodge were smarter, and a hand of them like Vemik were hugely much more so, but none had Yan’s experience or wisdom. He was *old* among the People, now. Old, well-fed, and he could *feel* in his bones he would live very, very long. Not even *Noff*-fell could say otherwise.
  
 The gods did not Give such ample blessings without a cost. So, what cost was Yan to pay? It was not the normal cost of a powerful blackcrest. He would not live alone in the forest, protect the People for a hand or two of seasons, then be Taken by the Gods. His price was *bigger.*
  
 This was a test of *growing.* The People needed to become *more.* The Lodge had *many* talkings about the idea, many visions under the magic of the smoke. They had decided: Yan was to become one of the Sky-People, to be their Chief in the Sky.
  
-He needed to earn money now, regularly. It didn’t feel *right* to glean from their sovereign fund; that was for the People when *big* money was needed. He only needed some basics in the city. He needed to pay for e-lec-*triss-*tree, for his apartment, for his fone and his food. Next to the big payings they might need to make, that was a tiny amount, but still: *‘compound interest’* was a *big* math-magic. Best not to weaken it before it worked its biggest Givings.
+He needed to earn money now, regularly. It didn’t feel *right* to glean from their sovereign fund; that was for the People when *big* money was needed. He only needed some basics in the city. He needed to pay for e-lec-*triss*-tree, for his apartment, for his fone and his food. Next to the big payings they might need to make, that was a tiny amount, but still: *‘compound interest’* was a *big* math-magic. Best not to weaken it before it worked its biggest Givings.
  
 And he wasn’t on the team, yet. Training for it, yes. But there were learnings and provings to be done first. It wasn’t *enough* to be strong in body, or even the strongest in body. He was already that, but he also had to show he was strong in mind, in spirit and more. The HEAT needed to *know* he was all of those things, not just take it for granted because he was a friend.
  
@@ -1373,7 +1373,7 @@ It wasn’t all-day work, either. Just some mornings, and only when they needed 
  
 Construction jobs were interesting learnings, too! He knew how to weld from Awisun and Vemik, and there was good teachings in a local school about all the many things a man needed to know to do it *right.* All that math-work helped him! He and Vemik went to that school, and after that, a certification test was all he needed before they could help put together big metal buildings. They had other credits too from all the other learnings, so it wouldn’t take much to get a degree in construction technology! Daar would be *proud* of that, Yan knew. Still, they only did building-work sometimes, because both had other things to do, but someone who had his own safety rigging with his tail, or could hang upside-down by one foot instead of use a boom lift…
  
-Mister Rod-*dreeg-*uss was always happy when Yan had some spare time and wanted money! He kept looking tellingly at Yan’s body, too. And as humans went, he wasn’t so bad. Tough, good-looking! But Yan didn’t think he *could* make the foreman his woman without maybe killing him. That would *not* be good for anyone.
+Mister Rod-*dreeg*-uss was always happy when Yan had some spare time and wanted money! He kept looking tellingly at Yan’s body, too. And as humans went, he wasn’t so bad. Tough, good-looking! But Yan didn’t think he *could* make the foreman his woman without maybe killing him. That would *not* be good for anyone.
  
 But, other than that…
  
