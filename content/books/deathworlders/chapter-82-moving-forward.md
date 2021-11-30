@@ -1674,7 +1674,7 @@ Daar duck-nodded. “Quality takes time. Though speakin’ o’ time…I think i
 
 “Yeah, though hard ‘ta say exactly when. But, I feel comfortable sayin’ we can start pullin’ out, make room ‘ta withdraw fully when the time’s right. And when it is, we’ll start bombin’ an’ won’t stop ‘til you say so.”
  
-Daar duck-nodded. “‘Good. Don’t rush it. Do it *right.””
+Daar duck-nodded. “‘Good. Don’t rush it. Do it *right.”*
 
 “You can count on that.” Vark duck-nodded. He plucked another dumpling from the basket and tried to relax. “Anyway, that’s the high-altitude look at things.”
  
@@ -2793,7 +2793,7 @@ And that, in time, would be victory.
  
 ____
  
-*Date Point: 19y6m1w AV**    
+**Date Point: 19y6m1w AV**    
 **Combined/Joint Advanced Simulation Lab, Lavmuy City, Gao**
  
 ***Daar, feelin’ well fuckin’ exercised***
@@ -2925,7 +2925,7 @@ ___
  
 ***Forln, surgeon first class***
  
-*Thump.**
+**Thump.**
  
 The jump from Earth arrived precisely on schedule, and the subject of Forln’s interest---a large and slightly rotund human by the name of Doctor Johnson---disembarked with a certain bouncy lightness that belied his size.
  
@@ -3476,7 +3476,7 @@ Yshmael Salas
 Zod Bain
 +1 anonymous
 
-**73** ***Friendly ETs,*** **141** ***Squishy Xenos*** and **314** ***Dizi Rats.*** for whom I'm very *squish*ful
+**73** ***Friendly ETs,*** **141** ***Squishy Xenos*** and **314** ***Dizi Rats.*** for whom I'm very *squish*-ful
 
 ---
 
