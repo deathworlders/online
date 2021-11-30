@@ -1309,7 +1309,7 @@ He *needed* to beat *Criss*-chin, too. Needed it more than *anything* besides ma
  
 Which was strange. He *liked* the big Human, so maybe that was part of it? Gods only knew.
  
-Or maybe it was because *War*-horse had made such a *big* Giving to save them all, and now he was suffering the Taking. Everyone loved him, but his strongest wish was that they get *better* than he ever was, so *Criss-*chin had done everything he could to Give that wish.
+Or maybe it was because *War*-horse had made such a *big* Giving to save them all, and now he was suffering the Taking. Everyone loved him, but his strongest wish was that they get *better* than he ever was, so *Criss*-chin had done everything he could to Give that wish.
  
 That seemed right. Yan would make that Giving too, and do *everything* to keep his People the strongest. Their strength was their Giving to the Sky-Tribes. He loved *Criss*-chin and respected everything about him, but Yan would *not* let him Take that from his people!
  
