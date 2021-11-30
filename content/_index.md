@@ -28,11 +28,11 @@ All my wonderful patrons and subscribers.
 
 ### Dandelion
 
-Amber Houston was born light-years from Earth, aboard the enormous colony starship Dandelion. By the age of fourteen, she has spent her entire life training as a "Ranger," ready for the day when she will be among the first humans ever to set foot on an alien world & build a new civilization.
+*Amber Houston was born light-years from Earth, aboard the enormous colony starship Dandelion. By the age of fourteen, she has spent her entire life training as a "Ranger," ready for the day when she will be among the first humans ever to set foot on an alien world & build a new civilization.*
 
-When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back---in eight years---Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.
+*When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back---in eight years---Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.*
 
-Meanwhile, aboard the ship, secrets that were buried over three hundred years ago finally come to light...
+*Meanwhile, aboard the ship, secrets that were buried over three hundred years ago finally come to light...*
 
 Co-authored alongside Justin C. Louis, Dandelion is my debut novel, and you can download the Audiobook edition from Audible, or buy it in hardcover, paperback or ebook through any major literary retailer.
 
