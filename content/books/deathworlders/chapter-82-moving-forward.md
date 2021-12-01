@@ -199,7 +199,7 @@ They were good kids. Eager to learn, and eager to do their part for a city that 
  
 And getting them to accept the concept of birth control was an uphill battle Becky was *glad* not to be fighting. Breeding like...well, like rabbits...had been their greatest bulwark against extinction. Now, with the Hunters gone, they were in danger of massive overpopulation.
  
-Oh well. That wasn’t Becky’s problem. Her problem was this getting last unit running, and then she could look forward to some time off. She’d treat her parents to a weekend in Folctha, then treat herself to *plenty* of nice relaxing leave, and…
+Oh well. That wasn’t Becky’s problem. Her problem was getting this one last unit running, and then she could look forward to some time off. She’d treat her parents to a weekend in Folctha, then treat herself to *plenty* of nice relaxing leave, and…
  
 Well, then she’d be back. There was a whole city still to properly ventilate, and many more besides. She was going to be at this for a while.
  
@@ -228,7 +228,7 @@ Al wouldn’t have bothered to join in anyway, even if she didn’t have the tod
  
 No complaints. Quite the opposite. 
  
-Besides, it was nice to have some time to chew over a thought that had been bubbling away in the back of her brain basically ever since Ana’s birth.
+Besides, it was nice to have some time to chew over a thought that had been bubbling away in the back of her brain basically ever since Anna’s birth.
  
 Julian was...well, allegedly out of solidarity (but really out of personal ambition) he’d decided to fully commit himself to the Lad life, and…Yeah. It worked for him. Much too well. She’d worried quietly that all his power-bodybuilding and related obsessions would turn him into an ugly meat mountain, but instead the opposite happened. He grew *fast,* and looked like the studliest nineteen-year-old hulk *ever,* complete with healthy skin glow and everything!
  
@@ -264,7 +264,7 @@ A tap on her shoulder brought her out of it: Xiù.
  
 Al smiled, and gave her a squeeze. “Thought you were enjoying showing off for the boys?”
  
-“Eh. Best I step away early, so I don’t bruise their egos.” Xiù’s cheeky grin wrinkled her nose, and she fished Ana down off the sculpture’s back.
+“Eh. Best I step away early, so I don’t bruise their egos.” Xiù’s cheeky grin wrinkled her nose, and she fished Anna down off the sculpture’s back.
  
 “I dunno, I thought they were doing pretty good…”
  
@@ -401,7 +401,7 @@ The big pretty brute in the silkies chuckled. “Well, that’s me I guess. Brok
  
 “Day pass. Oh! Big guy here is Heembo.”
  
-“Howdy,” he rumbled. Paw was much a better-matched thing to that skull-crusher of a hand.
+“Howdy,” he rumbled. Paw was a much better-matched word for that skull-crusher of a hand.
  
 “Nice to meetcha. And, you wanna hit up Rooney’s. Home away from home. Best wings in town, beer’s cheap as fuck, and his kitchen can feed a herd of guys like me. Hell, I might be going there tonight…”
  
@@ -616,7 +616,7 @@ They were working through the process of de-suiting and de-everything-ing. It ha
  
 Chitters and guffaws echoed around the room, but Deacon was having none of it. With a spicy grin, “Your techs know *exactly* what you eat, Firth. We’re the ones who get to flush the waste management after you’ve used it, remember.”
  
-“And were the ones with tubes up our arse,” interjected Murray to further guffaws and chitters.
+“And we're the ones with tubes up our arses,” interjected Murray to further guffaws and chitters.
  
 “Sure. I still gotta deal with your very literal shit, *and* I gotta rebuild his Mass *again!”*
  
@@ -1467,7 +1467,7 @@ And then turned his fury on her. But not with muscle and pain like he would soon
  
 “I did not instruct Yan to be *clean* for idle torture, Singer. In the EV-MASS, dirt can *kill him.* Do you think he would breathe long in space if his helmet *was not clean enough* to seal? Do you think he would fight well, if his dirty undersuit was tearing great gouges into him because a *sand grain* snuck in to lie against his skin? Do you think we do this out of simple cruelty?” 
  
-Yen did not know how much she understood, but she understood *enough.* “...No.”
+Yan did not know how much she understood, but she understood *enough.* “...No.”
  
 “No.” He folded his massive arms across his chest to drive home how important this was. “He must be ready to face the deadliest and strongest of sky-magic, where the smallest mistake could get him and everyone else on the team *instantly* killed. We must trust him to reliably perform dangerous, complex work every time, without question. Lives are at stake! And before we can trust him to do *that* we must know he can do the *simple, basic things* without supervision! Nobody can wipe his ass for him. Or wash his undersuit. He cannot be babied along like a helpless little boy, because we *cannot* trust a man who can’t care for himself! He must be *ready,* and we need to *know* he’s worth it before we spend more money than all the tribes of your People are worth, *just* to fit him in armor!”
  
@@ -1562,7 +1562,7 @@ Well. Almos’ anyone.
  
 Fuck knew, they all needed *somethin’* ‘ta laugh about. The memorial fields had recently, *finally* been able to step down the number of pyres they were lighting as the last of the biodrone uprising’s dead were honored...only for one weapon to fill up their schedule again.
  
-And Daar had, of course, been true to his word. Everyone one of those pyres was lit from a parent flame he’d lit himself, by hand. That flame was now kept Eternal at a shrine they’d built next to the field. The ash from all the burnt wood would one day make it among the most productive forests on Gao, but not until *all* the pyres had been burned.
+And Daar had, of course, been true to his word. Every one of those pyres was lit from a parent flame he’d lit himself, by hand. That flame was now kept Eternal at a shrine they’d built next to the field. The ash from all the burnt wood would one day make it among the most productive forests on Gao, but not until *all* the pyres had been burned.
  
 After a solemn duty like that, a little mischief was *important.* 
  
@@ -1892,7 +1892,7 @@ There was no better possible summary of their feelings than the one Williams whi
  
 They grew a bit bolder after that. Carefully, working up their nerve, they’d picked their way around the compound, at first cautiously, then a bit freer…
  
-He’d had to get set shit straight after Berm had picked up and crushed one of the deathbirds into a considerably smaller ball. Ten’Gewek had a deep, *bitter* hatred of the things.
+He’d had to set shit straight after Berm had picked up and crushed one of the deathbirds into a considerably smaller ball. Ten’Gewek had a deep, *bitter* hatred of the things.
  
 Beyond the cleared perimeter was the compound wall. It was...formidable. And smooth. Not a problem for the monkeys of course, who could simply *make* handholds as they needed. So, no need to bust out climbing gear, and Berm didn’t even need that. He just jumped over the fuckin’ thing like a goddamned flea, *much* higher than Doog had managed, and did so both effortlessly and repeatedly to shuttle the human members of the team over, two at a time.
  
@@ -1955,7 +1955,7 @@ So, he went! It wasn’t difficult. There were two jumps every day now, regular 
  
 Easy enough to make room for Vemik to ride along. 
  
-Walking Folctha was a mix of feelings, though. Good to be back, good to see all the wonders of Human technology again, but also...it stoked his Fire a bit, and not in the good way. Too many Humans had attacked him now. And Humans weren’t weak. Jooyun needed men following him for protection all the time now, and so did Awisun and Shyow and Ana and Hawisun. He’d not met the new ones yet, but not even a drunk bibtaw could miss them.
+Walking Folctha was a mix of feelings, though. Good to be back, good to see all the wonders of Human technology again, but also...it stoked his Fire a bit, and not in the good way. Too many Humans had attacked him now. And Humans weren’t weak. Jooyun needed men following him for protection all the time now, and so did Awisun and Shyow and Anna and Hawisun. He’d not met the new ones yet, but not even a drunk bibtaw could miss them.
  
 They were *trying* to be seen. Vemik didn’t think Jooyun would like that for long. But if they were...maybe they were worried. Which meant *Vemik* worried. So now, Folctha was a place to walk carefully. Stand tall so people would get out of his way. Try not to feel sad about it.
  
@@ -1977,7 +1977,7 @@ Next: *Friends.* He didn’t have much time, so he always did his chores quick, 
  
 He had a good several hours before the jump back, and another couple after that before he had to be back for Noma’s first Taking. She’d been traded into his tribe early in the spring from far away, and had been living with one of the older women (and near Vemik’s hut) for her protection, until she was ready. Now, she was becoming a woman, and it was a Given-Man’s duty to teach new women the strength of men, because nobody else could be trusted to do it without maybe Giving a dangerous hurt.
  
-The Humans all joked about the People being incurably horny *‘swole-monkeys,’* but this wasn’t about muscle and fucking, not really. Well, okay, yes it was. But it was *important,* because...well, Humans mostly weren’t *built* to fuck as powerfully as the People, so they didn’t understand in their breath how much it mattered to teach it properly. Big strong cocks with big strength behind them meant good fucking was an important life-skill, both in the Giving and Taking. An *important* one, like spear-making, sewing, hunting and tracking, cooking and preserving. Big hurts could come if any of those were done poorly! Or writing, nowadays. A tribe that didn’t teach *life* to its young people—*all* of life---had failed them. 
+The Humans all joked about the People being incurably horny *"swole-monkeys,"* but this wasn’t about muscle and fucking, not really. Well, okay, yes it was. But it was *important,* because...well, Humans mostly weren’t *built* to fuck as powerfully as the People, so they didn’t understand in their breath how much it mattered to teach it properly. Big strong cocks with big strength behind them meant good fucking was an important life-skill, both in the Giving and Taking. An *important* one, like spear-making, sewing, hunting and tracking, cooking and preserving. Big hurts could come if any of those were done poorly! Or writing, nowadays. A tribe that didn’t teach *life* to its young people—*all* of life---had failed them. 
  
 Vemik had learned how true that was with Tilly. She was...soft. Tough too, but… well, *small,* and that made her so *delightfully* tight around his cock, it took everything in him to be the right kind of careful. If Vemik hadn’t been a good, practiced lover that first night, he’d hate to imagine what terrible Taking he might have done. But with patience, and lots of attention…
  
