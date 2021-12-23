@@ -849,7 +849,7 @@ Ian folded his arms and lifted his head, setting aside for the moment the notion
 
 Ian wasn’t having it. “Whether they were harmless or not, you damn near blew me and mine out of the sky while you were at it!”
 
-So-called-Keeda’s expression turned more serious. “I offer this as constructive criticism: a hot-headed captain will *not do.* And it is out of an abundance of caution that your opponent did not destroy you. Had he been a bit more *hot-headed…*you would not be here.”
+So-called-Keeda’s expression turned more serious. “I offer this as constructive criticism: a hot-headed captain will *not do.* And it is out of an abundance of caution that your opponent did not destroy you. Had he been a bit more *hot-headed* you would not be here.”
 
 “So the round that splattered the shuttle I was riding was just your man chasing us off?”
 
@@ -1993,7 +1993,7 @@ As far as the Ten’Gewek were concerned, Keeda was now welcome to eat with them
 
 Wise monkeys, they were.
 
-Most everyone else was a little more cynical. There were still *questions…*but frankly, the dinner table was as good a place as any to get them out. Besides, everyone was hungry. And Keeda could *eat.* And that meant Bruuk was a happy little bear, because nothing gave him more joy than stuffing his friends full of food.
+Most everyone else was a little more cynical. There were still *questions*…but frankly, the dinner table was as good a place as any to get them out. Besides, everyone was hungry. And Keeda could *eat.* And that meant Bruuk was a happy little bear, because nothing gave him more joy than stuffing his friends full of food.
 
 His motherly side was adorable, really.
 
@@ -2696,7 +2696,7 @@ Big as shuttles were, it was a tight squeeze. Wrma found herself packed in betwe
 
 The lead Human was the last one up. “Death-Eye, Chimp. All aboard,” he reported as the ramp sealed shut. Wrma could hear the solid k-chunk of the drones reattaching to the hull, and the whine of capacitors as the Mjrnhrm pilot charged a jump drive.
 
-A new voice over the shuttle’s comm system. *”Stay put for now. We’re about to jump out and we’ve got a containment fleet jumping in. Feel free to stage down, Hoeff.”
+A new voice over the shuttle’s comm system. *”Stay put for now. We’re about to jump out and we’ve got a containment fleet jumping in. Feel free to stage down, Hoeff.”*
 
 The short wall of a human grunted toward the ceiling. “Rog.” He looked over at his men. “Right. Go ahead and shed ‘yer Grass, once we’ve jumped.”
 
@@ -2912,7 +2912,7 @@ Tomoe shifted her weight slightly. “I merely averted a needless tragedy.”
 
 And of course, she was right.
 
-“You know me too well,”* Y!’kiidaa replied. “Had you not stepped into save the shuttle, I would have. In fact, I think it’s better this way. A little extra sniff of mystery to entice them.”
+“You know me too well,” Y!’kiidaa replied. “Had you not stepped into save the shuttle, I would have. In fact, I think it’s better this way. A little extra sniff of mystery to entice them.”
 
 *“So you will show them the Archive,”* the Old Man repeated. *“That would be* quite *a test itself.”*
 
@@ -3062,11 +3062,11 @@ Ian was still considering the elegant ship above them. “Put her through…”
 
 Captain Tomoe turned out to be no less stunning than her ship, clad in formal silk robes. She bowed at the hips in greeting, and Ian caught the translator’s work in the mis-match between the movement of her lips and the words he actually heard. 
 
-*“It is nice to meet you. I am Tomoe Gozen, captain of the *Onna-Musha.”*
+*“It is nice to meet you. I am Tomoe Gozen, captain of the* Onna-Musha.”
 
 “...Ian Wilde, captain of the *Stray Fortune.* A pleasure. I take it we have your crew to thank for getting my people out of a sticky spot.”
 
-Captain Tomoe smiled, and switched to flawless, faintly accented English. *“I attended to that personally. May I come aboard?”
+Captain Tomoe smiled, and switched to flawless, faintly accented English. *“I attended to that personally. May I come aboard?”*
 
 “Uh…” Ian gestured invitingly. “Please do.”
 
