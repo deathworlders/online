@@ -3353,6 +3353,8 @@ Austin Deschner
 
 Chris Dye
 
+Culverit
+
 Daniel Morris
 
 Devin Rousso
@@ -3492,4 +3494,4 @@ The author does not necessarily share or endorse the opinions and behaviour of t
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 83: For the Throat
+*The Deathworlders* will continue in chapter 83: Singularity
