@@ -1993,7 +1993,7 @@ As far as the Ten’Gewek were concerned, Keeda was now welcome to eat with them
 
 Wise monkeys, they were.
 
-Most everyone else was a little more cynical. There were still *questions*…but frankly, the dinner table was as good a place as any to get them out. Besides, everyone was hungry. And Keeda could *eat.* And that meant Bruuk was a happy little bear, because nothing gave him more joy than stuffing his friends full of food.
+Most everyone else was a little more cynical. There were still *questions,* but frankly, the dinner table was as good a place as any to get them out. Besides, everyone was hungry. And Keeda could *eat.* And that meant Bruuk was a happy little bear, because nothing gave him more joy than stuffing his friends full of food.
 
 His motherly side was adorable, really.
 
