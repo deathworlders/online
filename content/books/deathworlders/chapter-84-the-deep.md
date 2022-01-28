@@ -1755,7 +1755,7 @@ She shook her head. “Then there’s what happened to the Corth. The insidious 
 
 *“You* managed to detect us, in full cloak!”
 
-“Because I could *smell ‘yer ship’s burnin’ oil!” Y!’kiidaa chittered. “We’ve already established ain’t *nobody* got sniffers like my people. They sure didn’t down there, so…”
+“Because I could smell ‘yer ship’s burnin’ oil!” Y!’kiidaa chittered. “We’ve already established ain’t *nobody* got sniffers like my people. They sure didn’t down there, so…”
 
 “And our current generation of ships are far superior to the one you flew that day, great-aunt,” Leifini’s nephew added.
 
