@@ -1356,7 +1356,7 @@ Gilgamesh groaned and screwed his eyes tightly shut as the shutters slammed open
 
 Rather than say hello with any dignity, he staggered from the bed in a series of grunts and animal noises and lurched for the privacy offered by a screen in the corner, where his chamberpot waited.
 
-His steward, Sagar, was used to to it, of course, and raised his voice to call out over the spatter of liquid on pottery. “Another royal night to remember—or forget—my king?” 
+His steward, Sagar, was used to it, of course, and raised his voice to call out over the spatter of liquid on pottery. “Another royal night to remember—or forget—my king?” 
 
 “Mm…” Gilgamesh grunted. “...Remember. Just. What was her name again?”
 
@@ -1390,7 +1390,7 @@ It would have been so much *easier* to just show up, take a look at the problem,
 
 Feh.
 
-The afternoon promised more interest, in the form of a visit from his royal cousin Ur-Gishkim of Lagash. GIlgamesh had heard much of Ur-Gishkim’s skill with a javelin, and the thought of testing himself against a worthy competitor brightened his mood.
+The afternoon promised more interest, in the form of a visit from his royal cousin Ur-Gishkim of Lagash. Gilgamesh had heard much of Ur-Gishkim’s skill with a javelin, and the thought of testing himself against a worthy competitor brightened his mood.
 
 There weren’t any, really. Hadn’t been since he was a young boy. It was obvious he would be king one day, once his uncle had died. As Sagar had pointed out, Gilgamesh’s cousin had enjoyed the divine right only briefly, before sickness took him. He’d never been a strong man.
 
@@ -1731,7 +1731,7 @@ Nomuk twitched his tail. “Only a little…”
 
 Coming from a human, that would have been modesty. Coming from him, it was embarrassment at not being completely fluent in it, yet. 
 
-“Besides,” GIlgamesh added. “Trapped you may have been, but you were also not vulnerable to the Enemy’s preferred cowardice of provoking their victims into self-destruction. They were compelled to confront you head-on, and early. It was a long and costly campaign for them, and vulnerable. Internecine war is a plausible cover for their scheming. Death robots methodically scouring the land, less so.”
+“Besides,” Gilgamesh added. “Trapped you may have been, but you were also not vulnerable to the Enemy’s preferred cowardice of provoking their victims into self-destruction. They were compelled to confront you head-on, and early. It was a long and costly campaign for them, and vulnerable. Internecine war is a plausible cover for their scheming. Death robots methodically scouring the land, less so.”
 
 “In any case…we inferred much about their mode of operation, that day,” Leifini brought the story gently back on track. “We discovered there *was* no crew, and that the ships had enormously powerful computation elements onboard, *far* in excess of what any well-engineered AI would need, which was our first clue as to their nature. And afterwards, when we sat down to think about it…”
 
