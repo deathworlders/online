@@ -3,7 +3,7 @@ title: "Chapter 84: The Deep"
 date: 2022-01-28T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
-**Datre Point: 19y3m1w AV**    
+**Date Point: 19y3m1w AV**    
 **Ekallim-Igigi, deep space**
 
 ***Ian (Death-Eye) Wilde***
@@ -3116,4 +3116,4 @@ The author does not necessarily share or endorse the opinions and behaviour of t
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 85
+*The Deathworlders* will continue in chapter 85: "The Reclaiming"
