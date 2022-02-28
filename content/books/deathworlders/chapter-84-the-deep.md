@@ -2905,7 +2905,7 @@ Ian chuckled, looked out over Ekallim-Igigi, and finished his cigarette.
 ___
 ___
 
-**++END CHAPTER 84, pt 1++**
+**++END CHAPTER 84++**
 ___
 ___
 
