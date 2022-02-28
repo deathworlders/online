@@ -459,7 +459,7 @@ So, the moment they got a contact that *wasn’t* friendly was big enough to get
 
 “What have we got?”
 
-Their sensor operator, Moroz, was on the opposite side of the bulkhead to his right, in the mission module. *“Warp signature matches a broodship and escorts,” he reported, and put up the heading and speed for Lee to see. 
+Their sensor operator, Moroz, was on the opposite side of the bulkhead to his right, in the mission module. “Warp signature matches a broodship and escorts,” he reported, and put up the heading and speed for Lee to see. 
 
 “Drop a beacon, signal to fleet, notify them we’ve observed hunter activity, include our sensor data…Helm, let’s tail ‘em a ways. Systems, rig for silent running.”
 
@@ -1409,7 +1409,7 @@ And Wilde managed it in *nine months* on the accelerated program. Fuck.
 
 So yeah. That was “normal” on Folctha, apparently. Hoeff, master beef assassin, friend to the rich and powerful. Who recently met literal space-Gilgamesh, too. *That* was a hell of a meeting, no lie! And he’d certainly been impressed. Still was! But, truth being told…
 
-In all the impressive dazzle of it all, he’d forgotten exactly what was waiting for him back in Folctha. It had been a full year since he’d seen Julian and Christian, and their first meeting back had been a fuckin’* shock.* One full year for the biggest freaks there were to do their thing, under the tutelage of the most lovable, sadistically insane personal trainer there ever was, with all the resources they’d ever need. A full year of that kind of pressure to excel…
+In all the impressive dazzle of it all, he’d forgotten exactly what was waiting for him back in Folctha. It had been a full year since he’d seen Julian and Christian, and their first meeting back had been a fuckin’ *shock.* One full year for the biggest freaks there were to do their thing, under the tutelage of the most lovable, sadistically insane personal trainer there ever was, with all the resources they’d ever need. A full year of that kind of pressure to excel…
 
 …Well. Maybe the soldier-cult in the sky had an unexpected surprise waiting for them.
 
@@ -1656,17 +1656,17 @@ As promised, Costello had some special introductions to make. Most of them were 
 
 One of them in particular was made with Hoeff---outside on the grounds, instead of inside. Likely to avoid an incident, which was even *more* interesting than the offer itself. The last was a letter from Daar, written by hand in an amazingly good flowing script. In English.
 
-    Buddy,
+*Buddy,*
 
-    I wish’d I could have been there tonight to congratulate you in person. Where to even begin? I owe you so much, I could never hope to repay that debt. My people owe their very existence to your heroism, to your bravery, to your strength and your honor. You, My Brother, have quietly had more positive impact on the galaxy than almost anyone I can think of, and I include myself in that consideration. I know you won’t necessarily enjoy hearing this, but it is important that you do. Civilization itself owes you everything.
+*I wish’d I could have been there tonight to congratulate you in person. Where to even begin? I owe you so much, I could never hope to repay that debt. My people owe their very existence to your heroism, to your bravery, to your strength and your honor. You, My Brother, have quietly had more positive impact on the galaxy than almost anyone I can think of, and I include myself in that consideration. I know you won’t necessarily enjoy hearing this, but it is important that you do. Civilization itself owes you everything.*
 
-    To that end, however small a gesture it may be in the face of such a debt, I would offer you work, if that’s what you want. I know you wouldn’t just want a pension, and frankly I’d be a very stupid Great Father not to at least try and recruit you. I pay handsomely and there are many rewarding missions that still need doing. They wouldn’t be without risk of course, and maybe you’re ready to move on with your life. I respect that too, and don’t let anyone (even me!) play on your sense of duty and heroism to get you on-team. You need to decide for yourself. I’m sure you have many offers, including some of a more understated nature. I’m sure many of them are compelling. Perhaps they might even be irresistible offers.
+*To that end, however small a gesture it may be in the face of such a debt, I would offer you work, if that’s what you want. I know you wouldn’t just want a pension, and frankly I’d be a very stupid Great Father not to at least try and recruit you. I pay handsomely and there are many rewarding missions that still need doing. They wouldn’t be without risk of course, and maybe you’re ready to move on with your life. I respect that too, and don’t let anyone (even me!) play on your sense of duty and heroism to get you on-team. You need to decide for yourself. I’m sure you have many offers, including some of a more understated nature. I’m sure many of them are compelling. Perhaps they might even be irresistible offers.*
 
-    But I’d love to have you, if you still feel the Call.
+*But I’d love to have you, if you still feel the Call.*
 
-    Yours forever in love and Brotherhood,
+*Yours forever in love and Brotherhood,*
 
-    **Daar.** Brother, Father, Free Associate of Whitecrest, Champion-Emeritus and Stud-Prime of Stoneback, Warleader, *Great Father of the Gao*
+***Daar.*** *Brother, Father, Free Associate of Whitecrest, Champion-Emeritus and Stud-Prime of Stoneback, Warleader, Great Father of the Gao*
 
 
 That was…a weighty letter, though the weirdest part was that he couldn’t stop wondering at the *hand-written* nature of it. Why that? Was it just the mental image of those giant-ass bear-paws handling a pen so delicately?
