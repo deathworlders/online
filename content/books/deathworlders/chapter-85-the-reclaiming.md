@@ -937,7 +937,7 @@ Today was indeed turning out to be interesting. He was *supposed* to do a photos
 
 Weird, where life had taken him.
 
-At least he had an explanation now for some of the lifelong *weirdness* that had plagued him. Right from early school, he’d known *something* was up, and new to keep it mostly to himself and a few close friends. He didn’t always manage, though. One of the high school’s big dumb assholes, himself a state-level boxer, had once made the mistake of taking some of his insecurities out on his girlfriend in front of Julian and, well…Never boxed again. 
+At least he had an explanation now for some of the lifelong *weirdness* that had plagued him. Right from early school, he’d known *something* was up, and knew to keep it mostly to himself and a few close friends. He didn’t always manage, though. One of the high school’s big dumb assholes, himself a state-level boxer, had once made the mistake of taking some of his insecurities out on his girlfriend in front of Julian and, well…Never boxed again. 
 
 Didn’t walk for several months, either. Julian wasn’t exactly proud of that, or of what happened when the asshole’s buddies on the football team ambushed him one night a couple weeks later. 
 
@@ -1101,7 +1101,7 @@ Rockefeller gave Julian a shrewd look. “It would, huh? Well, maybe you better 
 
 “That’s exactly what went through my head while Dane fixed my eating habits. Worked, too.”
 
-“Well. In that case, I better think hard on some things myself. In any case…” They’d ambled around much of the park and found themselves heading back toward the Folchtan streets. “I think that’s all we can say for now. As for the rest: we’ve begun contacting known agents of Ekallim-Igigi. Nothing untoward, just…letting them know we see them. The President has not made a decision as to what to do, just yet. We’re also delaying the public announcement so as to, ah, allow for a dignified egress from the less *understanding* parts of the world.”
+“Well. In that case, I better think hard on some things myself. In any case…” They’d ambled around much of the park and found themselves heading back toward the Folcthan streets. “I think that’s all we can say for now. As for the rest: we’ve begun contacting known agents of Ekallim-Igigi. Nothing untoward, just…letting them know we see them. The President has not made a decision as to what to do, just yet. We’re also delaying the public announcement so as to, ah, allow for a dignified egress from the less *understanding* parts of the world.”
 
 Julian nodded grimly. That was a consideration, to be sure. “Right. I presume though, the announcement will come. And soon.”
 
