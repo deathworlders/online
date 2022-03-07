@@ -902,7 +902,7 @@ They all gawped at him in a stunned combination of fascination, admiration, and 
 
 By the end of the day, Moiki could barely stand. *Everything* was beat to hell and screaming for rest. But they got the job done faster than he’d have ever thought possible. He was so *shattered* by the end that Daar himself took pity, and carried him to his nest bed at shift end.
 
-“It’s late out,” he noted. “Be easier if..do y’all mind if I spend th’ night?”
+“It’s late out,” he noted. “Be easier if...do y’all mind if I spend th’ night?”
 
 What could they do but agree in dumbfounded amazement? Nobody had any energy for any post-work play though, which he sensed immediately. If he was disappointed, he didn’t let on. Instead, he made himself a nest in the center of the room, and invited everyone to join him.
 
