@@ -40,10 +40,10 @@ In the right circumstances, a patrol boat could be as important as a whole damn 
 
 Or a damn troubling one.
 
-    Analysis of the debris cloud discovered no fragments larger than 0.47mm diameter. Metallic fragments were uniformly spherical and displayed crystalline structures characteristic of liquid metal cooling and solidifying in zero-G vacuum. Ceramics used in the ship’s construction were present in the form of a fine powder, particulate size no greater than 3 μm. Polymers and organic compounds were present as individual molecules. Residual ionization of the debris is characteristic of a collapsing warp field, suggesting that USS *Wampanoag* was at FTL in the moment she was destroyed.
-    No component of the debris cloud was inconsistent with USS Wampanoag’s construction and contents. No evidence of any bomb casing. No fission or fusion byproducts save the amount expected from Wampanoag’s own reactor. No ammunition fragments.
-   **Conclusion:** USS Wampanoag’s destruction was caused by a high-output directed energy weapon of unknown design. No candidate weapon system is currently known to this investigatory team. Given its demonstrated ability to reduce a shielded *Misfit*-class patrol boat at warp to a cloud of vapor, however, this weapon must be considered to pose a grave threat to all Allied warships regardless of weight class.    
-  **Recommendations:** Intelligence about this weapon system must be secured in order for any countermeasure to be devised. CJ2 shall develop appropriate essential elements of required information and present for review.
+> Analysis of the debris cloud discovered no fragments larger than 0.47mm diameter. Metallic fragments were uniformly spherical and displayed crystalline structures characteristic of liquid metal cooling and solidifying in zero-G vacuum. Ceramics used in the ship’s construction were present in the form of a fine powder, particulate size no greater than 3 μm. Polymers and organic compounds were present as individual molecules. Residual ionization of the debris is characteristic of a collapsing warp field, suggesting that USS Wampanoag was at FTL in the moment she was destroyed.
+> No component of the debris cloud was inconsistent with USS Wampanoag’s construction and contents. No evidence of any bomb casing. No fission or fusion byproducts save the amount expected from Wampanoag’s own reactor. No ammunition fragments.
+> **Conclusion:** USS Wampanoag’s destruction was caused by a high-output directed energy weapon of unknown design. No candidate weapon system is currently known to this investigatory team. Given its demonstrated ability to reduce a shielded Misfit-class patrol boat at warp to a cloud of vapor, however, this weapon must be considered to pose a grave threat to all Allied warships regardless of weight class.    
+> **Recommendations:** Intelligence about this weapon system must be secured in order for any countermeasure to be devised. CJ2 shall develop appropriate essential elements of required information and present for review.
 
 Whieldon sighed and put the report down. No doubt his Gaoian counterpart was reading something very similar concerning the loss of the *Dauntless Spark.* 
 
@@ -2389,21 +2389,21 @@ Operation Tailor Beach had been a complete success—The USS *Robert A. Heinlein
 
 In fact, the results of the analysis were downright alarming.
 
-    Compartment 3: vacant. Power couplings and material delivery systems connected to compartment 5 (described below) suggest that this compartment is intended to house a nanofactory. Output to space via retractable armor plating along the ship’s dorsum.
-    Compartment 4: Contains a device apparently designed to receive fine particulate matter and separate it by particle mass and composition. Input is a funnel with a powerful electrostatic forcefield generator, concealed under  retractable armor plates in the vehicle’s nose. 
-    Compartment 5: heavily damaged, but appears to have contained storage silos for output from the device in compartment 4. Overflow vents to space via a port along the ship’s ventrum.
+> Compartment 3: vacant. Power couplings and material delivery systems connected to compartment 5 (described below) suggest that this compartment is intended to house a nanofactory. Output to space via retractable armor plating along the ship’s dorsum.    
+> Compartment 4: Contains equipment apparently designed to receive fine particulate matter and separate it by particle mass and composition. Input is a funnel with a powerful electrostatic forcefield generator, concealed under retractable armor plates in the vehicle’s nose.     
+> Compartment 5: heavily damaged, but appears to have contained storage silos for output from the device in compartment 4. Overflow is ejected to space via a port along the ship’s ventrum.
 
 Then below, in the conclusions…
 
-    Collectively, compartments 3,4 and 5 form the essential components for a Von Neumann-type self-replicating probe. Coupled with the demonstrated capability of the craft’s primary armament to reduce a substantial volume of matter to fine dust, we must conclude this craft represents a significant departure in Hunter strategy, which must be considered by senior leadership. It is not currently clear how the probe would generate a brain to pilot its offspring; most likely the associated equipment was destroyed during capture.
+> Collectively, compartments 3,4 and 5 form the essential components for a Von Neumann-type self-replicating device. Coupled with the demonstrated capability of the craft’s primary armament to reduce a substantial volume of matter to fine dust, we must conclude this craft represents a significant departure in Hunter strategy, which must be considered by senior leadership. It is not currently clear how the probe would generate a brain to pilot its offspring; the ship appears to have been incomplete, possibly a prototype, and was heavily damaged during capture.
 
-There was a lot more like that. Apparently the Hunter brain they’d found deep inside the thing didn’t even have a mouth and stomach attached, which had hitherto apparently been the only part of the body the Hunters had been reluctant to discard. By their standards, building a machine body without a maw and gut was *sacrilege.*
+There was a lot more like that. Apparently the Hunter brain they’d found deep inside the thing didn’t even have a mouth and stomach attached, which had hitherto apparently been the only part of the body the Hunters were reluctant to discard. By their standards, building a machine body without a maw and gut was *sacrilege.*
 
-…Except, of course, it *did* have a maw and gut. 
+…Except, of course, it *did* have a maw and gut, in mechanical form. 
 
 So. The Hunters had decided to transition *completely* over to a space-based life cycle. And if they were running up a V-N probe swarm…shit, they were going to be like fucking *cockroaches.* Worse. Locusts. Let them sit unmolested for too long in any one place, and then they’d *swarm* and…
 
-He had a mental image of a billion probes flooding into a system, each equipped to take a *big* bite out of even their best ships. It was a thought to leave his stomach dropping out through his shoes.
+Whieldon had a mental image of a billion probes flooding into a system, each equipped to take a *big* bite out of even their best ships. It was a thought to leave his stomach dropping out through his shoes.
 
 He picked up his phone, and he made a call.
 
@@ -2432,7 +2432,7 @@ The Daemon was being silent for the time being, tending her garden while they wa
 
 Matterspace was so…*slow* sometimes.
 
-*Imagine just how slow we’d be if there were millions of us and we had to negotiate every step of the way.*
+*Imagine just how slow* we’d *be if there were millions of us and we had to negotiate every step of the way.*
 
 The Entity considered that. It sounded exhausting and difficult. 
 
