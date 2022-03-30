@@ -41,8 +41,11 @@ In the right circumstances, a patrol boat could be as important as a whole damn 
 Or a damn troubling one.
 
 > Analysis of the debris cloud discovered no fragments larger than 0.47mm diameter. Metallic fragments were uniformly spherical and displayed crystalline structures characteristic of liquid metal cooling and solidifying in zero-G vacuum. Ceramics used in the ship’s construction were present in the form of a fine powder, particulate size no greater than 3 μm. Polymers and organic compounds were present as individual molecules. Residual ionization of the debris is characteristic of a collapsing warp field, suggesting that USS Wampanoag was at FTL in the moment she was destroyed.    
+
 > No component of the debris cloud was inconsistent with USS Wampanoag’s construction and contents. No evidence of any bomb casing. No fission or fusion byproducts save the amount expected from Wampanoag’s own reactor. No ammunition fragments.    
+
 > **Conclusion:** USS Wampanoag’s destruction was caused by a high-output directed energy weapon of unknown design. No candidate weapon system is currently known to this investigatory team. Given its demonstrated ability to reduce a shielded Misfit-class patrol boat at warp to a cloud of vapor, however, this weapon must be considered to pose a grave threat to all Allied warships regardless of weight class.    
+
 > **Recommendations:** Intelligence about this weapon system must be secured in order for any countermeasure to be devised. CJ2 shall develop appropriate essential elements of required information and present for review.
 
 Whieldon sighed and put the report down. No doubt his Gaoian counterpart was reading something very similar concerning the loss of the *Dauntless Spark.* 
@@ -2390,7 +2393,9 @@ Operation Tailor Beach had been a complete success—The USS *Robert A. Heinlein
 In fact, the results of the analysis were downright alarming.
 
 > Compartment 3: vacant. Power couplings and material delivery systems connected to compartment 5 (described below) suggest that this compartment is intended to house a nanofactory. Output to space via retractable armor plating along the ship’s dorsum.    
+
 > Compartment 4: Contains equipment apparently designed to receive fine particulate matter and separate it by particle mass and composition. Input is a funnel with a powerful electrostatic forcefield generator, concealed under retractable armor plates in the vehicle’s nose.     
+
 > Compartment 5: heavily damaged, but appears to have contained storage silos for output from the device in compartment 4. Overflow is ejected to space via a port along the ship’s ventrum.
 
 Then below, in the conclusions…
