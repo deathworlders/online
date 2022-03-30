@@ -392,7 +392,7 @@ And he was eager to learn.
 ___
 
 **Date Point: 19y11m2w AV**    
-**USS** ***Robert A. Heinlein,*** **moored at naval staging base ***Milton,*** **above planet Hell**
+**USS** ***Robert A. Heinlein,*** **moored at naval staging base** ***Milton,*** **above planet Hell**
 
 ***Captain Jaimie Esposito***
 
