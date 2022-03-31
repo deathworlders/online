@@ -1480,7 +1480,7 @@ Pieces on the Strategem board, moved simultaneously by masters. There was nothin
 
 For instance:
 
-“Y!’kiidaa of the Gao and Ekallim-Igigi, may I introduce Ukusevi of the Forgiven, Archivist of Eyes-Turned Turned-Upwards and Keeper of the Long Chant.”
+“Y!’kiidaa of the Gao and Ekallim-Igigi, may I introduce Ukusevi of the Forgiven, Archivist of Eyes-Turned-Upwards and Keeper of the Long Chant.”
 
 Meeting Sir Patrick Knight had been an education in the first place. The old man had a mind like a razor blade hidden in a cup of tea—civilized, but dangerous. No doubt, this introduction was another move in the game. The E-Skurel-Ir had a different idea for what constituted finery than most others present. Her robes were largely plain and unadorned, a kind of dusty grey in hue, but on her belt she wore several much finer items, including a leather-bound book and a pouch on the opposite hip that smelled of bottled ink.
 
@@ -1562,7 +1562,7 @@ They chatted for a while, enjoying the jog to the terminal. They cleaned their b
 
 “So…good thing I’m in shorts.”
 
-“Yeah!
+“Yeah!”
 
 “So…what do we do? Just sit down?”
 
@@ -1572,7 +1572,7 @@ They chatted for a while, enjoying the jog to the terminal. They cleaned their b
 
 The Great Father of the Gao didn’t *look* like he should be quiet, but Alex knew from Yekiidaa that gao could move like a whisper no matter *how* big they were, if they moved gently…which Daar had done until he spied Vemik, at which point---
 
-Vemik hooted and sprang to his feet with a thrust of his tail, but he was too slow. The floor *shook* with the force of the Great Father’s lightning-strike pounce, and Vemik was slammed right off the platform and into the concrete wall on the other side of the room.
+Vemik hooted and sprang to his feet with a thrust of his tail, but he was too slow. Every line of Daar's impossible physique exploded into sharp relief as the Great Father surged forward with a lightning-strike pounce almost too fast to see. The floor *shuddered* under the force of his explosive push, and the whole *building* *shook* as Vemik was slammed right off the platform and into the concrete wall on the other side of the room.
 
 Alex stood up, alarmed at the violence he’d just witnessed, but then Vemik *bounced* up and in an instant, had his arms and legs tight around the Great Father’s neck, tail around waist…
 
@@ -1580,7 +1580,7 @@ Holy *gods* they played rough!
 
 It ended pretty quickly, though. The Great Father contorted himself backwards, grabbed Vemik and pried him off (much to his hooting objection!), slammed him to the ground with a floor-shaking thud and promptly smashed him flat between his colossal legs, ending the fight. The size difference was unreal; the huge Given-Man all but *disappeared* inside that pin!
 
-“I got quads bigger’n *you are,”* he growled down at his prey. “Better hope I don’t squeeze…”
+“I got quads bigger’n *you are,”* he growled down at his prey as his legs hardened into terrifying anatomy displays. “Better hope I don’t squeeze too hard…”
 
 A hand wormed its way out and tapped against Daar’s flank, who promptly let him go and pulled him up to his feet, suddenly all playful, solicitous energy.
 
@@ -1590,15 +1590,15 @@ All sins between friends were forgiven in an instant. “I thought I’d found y
 
 “It would be, if you were a little bit smaller an’ I din’t do my stretches like my mommas taught me…but I do, an’ you ain’t.” Daar rough-housed a few seconds more with a smug rumbling chitter. “Mebbe I’ll show ‘ya what my *arms* can do, too…”
 
-Alex knew well enough to let them play; he had friends who were much the same. After a bit though, they sobered up, with Vemik hanging from Daar’s back and watching Alex. “Oh! Thought I sniffed ‘ya. Alex, ain’t it?”
+And *what* arms they were! Gao tended to have pretty mobile and muscular upper bodies, so functionally they were somewhere between dogs, bears, and great apes. Daar himself was like a long-bodied gorilla, so even for a gao, even for a well-bred Stoneback, even for *him,* his arms were fuckin' *huge.* And he used them, to Vemik's trilling, squirming frustration. Alex knew well enough to let them play; he had friends who were much the same. After a bit though, they sobered up, with Vemik hanging from Daar’s back and watching Alex. “Oh! Thought I sniffed ‘ya. Alex, ain’t it?”
 
 Alex nodded.
 
-“Well, howdy!” He straightened up with a pant-grin, stood *tall…*
+“Well, howdy!” He straightened up with a pant-grin, stood *tall* and showed himself properly...
 
-Well…*damn.* Okay. Alex hadn’t come too close to the Great Father at the Christmas ball last night. Now, close up, he could see why Yekiidaa had been so shaken. Words or pictures just *weren’t enough.*
+Well…*damn.* Okay. Alex hadn’t come too close to the Great Father at the Christmas ball last night. Now, close up, even after having watched the two play...he could see why Yekiidaa had been so shaken. Words or pictures just *weren’t enough.*
 
-But, whatever. “Hello…your majesty? I don’t know the right term of address…”
+But, whatever. He seemed friendly enough. “Hello…your majesty? I don’t know the right term of address…”
 
 “Eh, sir is fine. Whatever. A huge brown muzzle sniffed toward Alex. “...Not even a hint of hesitation or fear on ‘ya, neither. Gotta admit, that’s sorta refreshin’ ‘ta smell.”
 
