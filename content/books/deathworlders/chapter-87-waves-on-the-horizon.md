@@ -529,7 +529,7 @@ Bruuk let him go, too amused to be indignant.
 
 “Dang, how d’you have such a nasty bite with no real fangs?” He shook out his arms and took some pride in his consolation prize; just his *bicep* was bigger’n Wilde’s whole damn head, and hard enough to crack it open! That was victory enough, as far as he was concerned.
 
-Wilde chuckled, drew some breath, and clambered to his feet. “I’ve *got*fangs! Nice and discreet *human* fangs. Size isn’t always everything, you know.”
+Wilde chuckled, drew some breath, and clambered to his feet. “I’ve *got* fangs! Nice and discreet *human* fangs. Size isn’t always everything, you know.”
 
 “That’s what small males always say.”
 
