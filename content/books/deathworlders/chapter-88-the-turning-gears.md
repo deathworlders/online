@@ -751,11 +751,11 @@ Yeah. Hunter made no secret of his sexuality, and nobody on the team cared, real
 
 So of course he didn’t, and in any case he thought of everyone on-team as a brother anyway. Even so: Jesus *fuck.* 
 
-It was both uncomfortable and intimidating to look at him go through it all, and at the same time Gonzo couldn’t look away. If there was such a thing as a perfect, pinnacle human being…well, there he was, flexing and still-posing however the scanner demanded, one position or motion after another, after another…
+It was both uncomfortable and intimidating to look at him go through it all, and at the same time Gonzo couldn’t look away. If there was such a thing as a perfect, pinnacle human being…well, there he was, flexing and posing dead still however the scanner demanded, one position or motion after another, after another…
 
 Firth made eye contact while he was trapped in a crab flex; each pose had to be *held* for the scanner. He smirked, quickly…and back to work. Gonzo felt like his ears were on *fire.*
 
-In any case, It didn’t take as long as usual to get all the measurements. With the old EV-MASS, it could take an hour or more to measure every possible movement on the measuring platform, balancing as it wobbled about to force the subject to adjust. Hell of a workout, actually! This new system only needed a few minutes.
+In any case, It didn’t take as long as usual to get all the measurements. With the old EV-MASS, it could take an hour or more to measure every possible movement on the measuring platform, balancing as it wobbled about to force the subject to adjust. Hell of a workout, actually! This new system was a little quicker, but still: Firth was dripping sweaty by the end of it.
 
 “There! The suit is adjusting for you.” Deacon gave a pleased grin and tucked her tablet under her arm. “Please step down and don your undersuit.”
 
