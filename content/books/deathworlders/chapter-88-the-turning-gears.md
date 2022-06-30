@@ -803,7 +803,7 @@ Which went to work. The suit began visibly tightening. At first, Righteous grunt
 
 Well, actually, no. It looked a hell of a lot worse. In fact, it legit looked like the suit was trying to crush him like a grape.
 
-*“Hnmmggh*…fuck!” Firth strained under the load, and Gonzo could *see* the individual cords in his neck bulging through the undersuit, huge and defined even through the micro-scale layer. Same with every inch of the rest of him, too. It was, honestly…fucking intimidating on multiple levels. Firstly, that he was *such* a monster and looked like one even through several inches of armor. But secondly: if the Suit could give even *him* a hurt like that…
+*“Hnmmggh* …fuck!” Firth strained under the load, and Gonzo could *see* the individual cords in his neck press through the undersuit, visibly defined even through the micro-scale layer. Same with every inch of the rest of him, too. It was, honestly…fucking intimidating on multiple levels. Firstly, that he was *such* a monster and looked like one even through several inches of armor. But secondly: if the Suit could give even *him* a hurt like that…
 
 Parata, never Mister Sympathy at the best of times, chuckled sadistically. “Tight?”
 
@@ -811,7 +811,7 @@ Parata, never Mister Sympathy at the best of times, chuckled sadistically. “Ti
 
 Always a reliable way to get a rise out of Parata, that. “Oi! You keep your filthy mitts offa her!”
 
-Firth grinned at him, then groaned. “...*Fuck*…not gonna lay hands on anyone, this feels like a full-body kick in the scrote.”
+Firth grinned at him, then groaned. “...*Fuck* …not gonna lay hands on anyone, this feels like a full-body kick in the scrote.”
 
 “Nearly done, you big baby,” Deacon told him. “Any second now…”
 
@@ -906,7 +906,7 @@ Adam nodded, wearily. “Yeah.” He wasn’t even arguing the point.
 
 “I already did that, and basically died for it. Then they put me back together. Not ‘cuz Daar’s a big soppy-hearted cuddlebear. I mean, he *is* and I appreciate it, but he’s no fool. He *paid* that quarter-billion at least partly ‘cuz he needs me. And damn if I can’t argue against it.”
 
-“Right.” Marty sipped her coffee. “I thought…I had this idea like maybe after *dying*—cuz you *did* die, even if they managed to bring you back—like maybe that’d be enough to convince you that you’ve done your part and it’s okay to let go and just…be a family man.”
+“Right.” Marty sipped her coffee. “I thought…I had this idea like maybe after *dying* —cuz you *did* die, even if they managed to bring you back—like maybe that’d be enough to convince you that you’ve done your part and it’s okay to let go and just…be a family man.”
 
 “Well that’s the thing about duty, right? It doesn’t care. Name someone who can replace me.”
 
@@ -1111,7 +1111,7 @@ She had to laugh. “We’ll see.”
 
 “Yeah, there is. Beginning of summer in the northern hemisphere.”
 
-“I come visit! Bring more journals to *Shoo-*ster too. Maybe not get blown up this time!”
+“I come visit! Bring more journals to Shoo-ster too. Maybe not get blown up this time!”
 
 “Vemik! No, I don’t want you risking your life for me!”
 
