@@ -2118,7 +2118,7 @@ The old, scarred silverfur gave Wilde a pant-grin as he offloaded the case with 
 
 Not as much as the HEAT did, though. The Great Father’s *“particulars”* didn’t need to bring two technicians, a suiting-up station and a workshop’s worth of tools per operator. They brought a leaner, more *focused* pile of luggage.
 
-There was Hoeff, of course, with all his various murder-y ways. He’d crammed a hell of a lot more HEAT-grade Beef into that five-foot-four gorilla-frame of his over the last five years, to the point he was probably the deadliest person on the team aside from ‘Horse himself. He was overall in charge of the team. ‘Horse was still first and foremost about keeping the rest of the team alive, leading with the principle that the best way to achieve that was to kill everything before it could hurt them. Garaaf was their marksman and scout…
+There was Hoeff, of course, with all his various murder-y ways. He’d crammed a hell of a lot more HEAT-grade Beef into that five-foot-four gorilla-frame of his over the last five years, to the point he was probably the deadliest person on the team aside from ‘Horse himself. He was  in charge of the assault package, while Adam had overall command of the team. ‘Horse was still first and foremost about keeping the rest of the team alive, leading with the principle that the best way to achieve that was to kill everything before it could hurt them. Garaaf was their marksman and scout…
 
 But Daar hadn’t stopped at three, oh no. He’d been quietly gathering talent for *years,* and not all of them for their skill at violence. Not all of them for their flawless record of honesty and law-abiding, either.
 
