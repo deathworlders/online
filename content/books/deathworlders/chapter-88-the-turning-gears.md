@@ -432,7 +432,7 @@ After all, for all they knew, each time they answered a distress beacon they mig
 
 This time, thank God, wasn’t that.
 
-In fact, this time,  it seemed the Hunters had left survivors.  Boyt’s contact list resolved three intact civilian beacons: water tankers. Old, slow ones. No wonder they were still out here so far from safety despite the lockdown order, or maybe they were just stupid and reckless and had ignored it. Either way, they were easy prey: the *Chitimacha* herself could have sunk all three in less than a second, so the fact these three were still intact suggested the Hunters had…spared them?
+In fact, this time, it seemed the Hunters had left survivors. Boyt’s contact list resolved three intact civilian beacons: water tankers. Old, slow ones. No wonder they were still out here so far from safety despite the lockdown order, or maybe they were just stupid and reckless and had ignored it. Either way, they were easy prey: the *Chitimacha* herself could have sunk all three in less than a second, so the fact these three were still intact suggested the Hunters had…spared them?
 
 Or left them as bait.
 
@@ -509,7 +509,7 @@ Y!’Kiidaa chittered, “Indeed! I remember.”
 
 “Then why come to us?”
 
-“Because we have built that fleet up in secrecy and *slowly.*  Now, we are facing true, open warfare. Our needs have changed.”
+“Because we have built that fleet up in secrecy and *slowly.* Now, we are facing true, open warfare. Our needs have changed.”
 
 AtaUmuUi’s tail curled expressively one way then the other, before he fished a *huh* from a pouch on his belt and turned it over in his hands. Even behind the stench of his nanotech, Y!’kiidaa could smell the way the weird, smooth device instantly lifted him out of his melancholy mood and filled him with resolve.
 
@@ -952,7 +952,7 @@ They had their work cut out for them. Warhorse of Whitecrest buckled down, and s
 
 ___
 
-**Date Point:  20y7m AV**    
+**Date Point: 20y7m AV**    
 
 ***Yan Given-Man, Chief of the Lodge***
 
@@ -1121,7 +1121,7 @@ He shrugged those huge shoulders of his. “Why not? I wear shield this time. Be
 
 “Besides. Earth not that dangerous. Most people happy, good human small-strong too! And you, I know you’re known. People talk and write about you. Are they gonna blow you up?”
 
-Tilly sighed and shrugged. Somewhere along the line, the fact of her relationship with Vemik had got out and there’d been articles and stuff. She was a figure of some scandal, the *‘Jane of Akyawentuo’* at best, and to many more she was the researcher who’d let her horny get in the way of her professional ethics.  She’d never agreed to an interview…nor responded to the emails from producers wanting to make a short biopic… 
+Tilly sighed and shrugged. Somewhere along the line, the fact of her relationship with Vemik had got out and there’d been articles and stuff. She was a figure of some scandal, the *‘Jane of Akyawentuo’* at best, and to many more she was the researcher who’d let her horny get in the way of her professional ethics. She’d never agreed to an interview…nor responded to the emails from producers wanting to make a short biopic… 
 
 But she’d also received death threats. Internet cranks, nothing she took too seriously. But still, not pleasant. “Somebody might want to,” she admitted.
 
@@ -1438,7 +1438,7 @@ Naydra pant-grinned fondly. “Brownfurs can be like that. What’s his name?”
 
 Keetee, panting with faint embarrassment, hastily called up his profile on her communicator, and placed the device in Naydra’s outstretched paw.
 
-It didn’t take more than a second to spot the appeal.  “Oh! Yes. Quite strapping! And refreshingly, not over-muscled to excess, as so many young brownies do to themselves these days…”
+It didn’t take more than a second to spot the appeal. “Oh! Yes. Quite strapping! And refreshingly, not over-muscled to excess, as so many young brownies do to themselves these days…”
 
 “Really? That surprises me!” Keetee suddenly realized she was being rude and began a stuttering apology, her ears plastering themselves to her scalp. “Oh! I mean, I don’t mean---”
 
@@ -1673,7 +1673,7 @@ But for the most part, ol’ Firth was *thriving* on it all. He was riding high 
 
 Fuck, he was even Julian-grade pretty these days, too! Together they were the pretty much the best there’d ever been, but they weren’t quite the same, either: Julian liked the aesthetic side of bodybuilding, so he’d built up an *artwork* of a physique for himself, the likes of which probably would not be surpassed while he was alive…if ever, honestly. He hadn’t neglected any of his function either, so his athletic performance was just as impressive as he looked. Graceful like a gymnast or a dancer, strong enough to punch his fist through a tree. Fast enough to run down a car, lasting enough to run it out of gas. Tough enough to take about *any* beating.
 
-Firth was all that, too. He wanted to be the most ridiculously capable combat power-athlete ever, so he had instead built himself into a *stupidly* hulking freak with a hugely more muscular body. He was much better conditioned too, which meant anything Julian or the other Heroes could do, Firth could do far, *far* better. But: being *that* kind of gnarly with that kind of bulk…well, it did take away from the pretty factor for most people so, eh. Win some, lose some. Freya  liked it though, and said he even had a handsomer face these days too. Good enough for him.
+Firth was all that, too. He wanted to be the most ridiculously capable combat power-athlete ever, so he had instead built himself into a *stupidly* hulking freak with a hugely more muscular body. He was much better conditioned too, which meant anything Julian or the other Heroes could do, Firth could do far, *far* better. But: being *that* kind of gnarly with that kind of bulk…well, it did take away from the pretty factor for most people so, eh. Win some, lose some. Freya liked it though, and said he even had a handsomer face these days too. Good enough for him.
 
 Had to watch out for Adam, though. Of the three he was definitely the “lightweight” right now, but he was slowly building himself back up, and it would be interesting to see what he remade himself into. Same with that Gilgamesh fuck, and with Sergeant Yan, Firth’s closest competition. As tall as Julian, as stocky as Firth---and literally nobody but Daar himself was stockier. If Firth ever slowed down, the big monkey might one day even be a bit of a challenge on the mat, too.
 
@@ -1835,7 +1835,7 @@ Regaari chittered softly. “What were you hoping for? A *’no’?”*
 
 “Right.” Regaari duck-nodded. “But…whatever it is, it’ll be without the Hunters and Hierarchy at least. They’ve plagued us for long enough.”
 
-Firth nodded and…yeah. He felt better. A lot better, actually.  A little rest, a little talk…did wonders for a tired body and soul.
+Firth nodded and…yeah. He felt better. A lot better, actually. A little rest, a little talk…did wonders for a tired body and soul.
 
 Speaking of which…
 
@@ -2122,7 +2122,7 @@ There was Hoeff, of course, with all his various murder-y ways. He’d crammed a
 
 But Daar hadn’t stopped at three, oh no. He’d been quietly gathering talent for *years,* and not all of them for their skill at violence. Not all of them for their flawless record of honesty and law-abiding, either.
 
-For one, he had a soft spot for larcenous cubs and tricksters. Lirree had been a black-hat hacker responsible for some of the more *embarrassing* breaches of cyber-security in recent years, and not just on Gao.  He found himself one day waking up, opening his front door…
+For one, he had a soft spot for larcenous cubs and tricksters. Lirree had been a black-hat hacker responsible for some of the more *embarrassing* breaches of cyber-security in recent years, and not just on Gao. He found himself one day waking up, opening his front door…
 
 ___
 
@@ -2156,7 +2156,7 @@ Liree was too dazed to reply properly. "I--no?"
 
 “...I…”
 
-The Great Father himself was there. In front of him. In his hallway, *somehow.* He didn’t even really fit!  The fucker's haunches were pressed up against the walls! What the hell had prompted this? Why would he…
+The Great Father himself was there. In front of him. In his hallway, *somehow.* He didn’t even really fit! The fucker's haunches were pressed up against the walls! What the hell had prompted this? Why would he…
 
 …Oh. *Oh no.*
 
