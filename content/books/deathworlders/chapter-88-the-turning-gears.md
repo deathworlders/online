@@ -2174,7 +2174,7 @@ A voice from some insignificant titan looming in a living god’s shadow. “Thr
 
 “Three *billion,* eh?” The Great Father, sitting down on his haunches yet still *somehow* towering above all of them, sorta shuffled in place and even…even that was fuckin’...
 
-He snarled and everything about him just *tightened up* and holy *shit* none of any of the videos or photos came even close Liree was so fucked he was gonna *fuckin’ die* right here on his own fuckin’ front door---!
+He snarled and everything about him just *tightened up* and the fuckin' *walls* crumbled against his haunches and holy *shit* he was a fuckin' perfect *comic book* none of any of the videos or photos came even close Liree was so fucked he was gonna *fuckin’ die* right here on his own fuckin’ front door---!
 
 Liree felt himself grow dizzy, and fell back against the doorframe to keep from collapsing again.
 
