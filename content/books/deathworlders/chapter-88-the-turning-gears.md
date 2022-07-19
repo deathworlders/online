@@ -2174,7 +2174,7 @@ A voice from some insignificant titan looming in a living god’s shadow. “Thr
 
 “Three *billion,* eh?” The Great Father, sitting down on his haunches yet still *somehow* towering above all of them, sorta shuffled in place and even…even that was fuckin’...
 
-He snarled and everything about him just *tightened up* and the fuckin' *walls* crumbled against his haunches and holy *shit* he was a fuckin' perfect *comic book* none of any of the videos or photos came even close Liree was so fucked he was gonna *fuckin’ die* right here on his own fuckin’ front door---!
+He snarled and everything about him just *tightened up* and the fuckin' *walls* crumbled against his haunches and holy *shit* he was *ripped* a fuckin' perfect *comic book* none of any of the videos or photos came even close *so fuckin' huge* Liree was so fucked he was gonna *fuckin’ die* right here on his own fuckin’ front door---!
 
 Liree felt himself grow dizzy, and fell back against the doorframe to keep from collapsing again.
 
@@ -2264,11 +2264,19 @@ Against the Great Father of his people, the greatest there had ever been? What r
 
 It took him a while to grieve for himself. His free will would die. The Great Father was patient, and said nothing. Finally, Liree looked up at him, at his impossible *perfectly* beautiful face...
 
+Even his *eyes.* Terrible, and unyielding. But kind too. Even maybe a bit hopeful...
+
+*Fuck.*
+
 "Will...will it be so bad?"
 
 "I am very good to my friends, Liree. Even in 'yer case where you won't be choosin' it. An' it's not a one-way street. Thing is? I'll be loyal to you forever, too. I'll be just as trapped, in a sense. So, that's the deal: I'm offerin' you a chance 'ta *serve* an' redeem 'yer honor, an' I'm offerin' you somethin' you straight ain't worthy of. Perfect love 'fer perfect obedience. So..."
 
-He let go, and straightened up, then *displayed* the full majesty of his being without moving an inch. A living god revealed himself without a grunt of effort.
+He let go, and straightened up, then *displayed* the full majesty of his being without moving an inch. So hugely muscular and hulking he couldn't *possibly* bulge out any bigger *anywhere* on him. So vascular and lean it would have been disturbing on any lesser man. So flawlessly symmetrical it almost didn't look real. And *beautiful,* first and foremost. He was living *perfection* with a nearly to-the-skin clipped stud's coat, and he wasn't even showing off.
+
+He smiled, too. Not too big, it was a polite sort of thing. An invitation, maybe? There, before Liree, a living god revealed himself without a grunt of effort.
+
+And he wanted to be friends.
 
 "Make your choice, little one."
 
