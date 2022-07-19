@@ -2230,11 +2230,11 @@ He did.
 
 "Brutal honesty, I can admire that. So. Choice two, rather'n kill 'ya slowly in prison, I jus’ make it quick and squish ‘ya into a pancake wit’ this big paw o’ mine. Won’t hurt, I promise. Make a big mess, though…”
 
-The Great Father held up the paw in question and pressed it against Liree’s chest, and him against the wall. **Forcefully.** It was *much* wider than his shoulders and the *claws---!* The wrist along was as big as Liree's chest and both seemed almost small compared to hulking swells of his arm. Then there was the rest of him…
+The Great Father held up the paw in question and pressed it against Liree’s chest, and him against the wall. **Forcefully.** It was *much* wider than his shoulders and the *claws---!* The wrist *alone* was as big as Liree's entire chest and both seemed almost small compared to hulking swells rippling all along his great arm. Then there was the rest of him…
 
 *Balls.*
 
-“But y’know what? I think I might come 'ta like 'ya. So the last choice is the most terrible o' all. Choice three is ‘ya come wit’ me, right now, and you'll do absolutely *anything* I tell ‘ya ‘fer the rest of ‘yer life without any fuckin’ hesitation what-so-fuckin’-*ever.* I won’t promise any of it’ll be easy, neither…and there's somethin' else. What I jus' told 'ya ain't an expectation o' behavior, 'cuz I can't leave 'ya unsupervised like this, can I? It's a *promise* of how it'll be."
+“But y’know what? I think I might come 'ta like 'ya. So the last choice is the most terrible o' all. Choice three is ‘ya come wit’ me, right now, and do absolutely *anything* I tell ‘ya ‘fer the rest of ‘yer life without any fuckin’ hesitation what-so-fuckin’-*ever.* I won’t promise any of it’ll be easy, neither…and there's somethin' else. What I jus' told 'ya ain't an expectation o' behavior, 'cuz I can't leave 'ya unsupervised wit' what 'ya can do, can I? It's a *promise* of how it'll be."
 
 He left it hang. At first, Liree didn't understand what he meant, but then---
 
@@ -2250,17 +2250,27 @@ Liree gulped, and duck-nodded in terrible understanding. Subdued forever by frie
 
 And he would love every second of it.
 
-The Great Father again duck-nodded. "It's a *fuck* of a thing, yeah? With what I am, an' wit' what jus' my *scent* can do 'ta people, I'm *very* careful 'ta give my friends space an' time away. That's the real danger o' what I am. Makes me wonder if Fyu had the same sorta power... Anyway. Other species don't unnerstand. Not even th' ten'gewek, an' they got somethin' related goin' on wit' their Given-Men. But *we* unnerstand, an' *I'm sorry* that's how it's gotta be, 'cuz someone like you is too gods-damned dangerous 'ta let run around without some control. So I give you the choice. Stick wit' me and you live. Prosper, even! But You ain't *never* gonna be out o' sniffin' range, never outta my reach. 'Yer gonna be by my side every second o' every day, no matter *what* I'm doin' fer however long it takes. 'Yer gonna be my body-man an' aide. An' given 'yer a *little* guy, an' not a particularly dominant-smellin' specimen at that...I think we both know 'yer ego won't last long."
+The Great Father again duck-nodded. "It's a *fuck* of a thing, yeah? With what I am, an' wit' what jus' my *scent* can do 'ta people, I'm *very* careful 'ta give my friends space an' time away. That's the real danger o' what I am. Makes me wonder if Fyu had the same sorta power... Anyway. Other species don't unnerstand. Not even th' ten'gewek, an' they got somethin' related goin' on wit' their Given-Men. But *we* unnerstand, an' *I'm sorry* that's how it's gotta be, 'cuz someone like you is too gods-damned dangerous 'ta let run around without some control an' you already showed the normal shit won't work, right? I mean...'yer livin' in an inter-species apartment. Alone. No workhouse buds 'ta cuddle up with..."
 
-Yup. He would trapped in his own mind, until he died. Broken by the simple presence of a dominant male. Enslaved by love.
+Liree nodded glumly. "I couldn't risk anybody but me, so..."
+
+"Good, good," the Great Father duck-nodded. "Noble in a misguided sorta way...So here 'ya are."
+
+"...Here I am. A mad chitter overcame him and he *had* to add, "Helpless an' afraid."
+
+The Great Father chittered too, if the ground-shaking rumble coming from his throat could be taken as a chitter. "Sense o' humor, good, good... So I give you the choice. Stick wit' me and you live. Prosper, even! But You ain't *never* gonna be out o' sniffin' range, never outta my reach. 'Yer gonna be by my side every second o' every day, no matter *what* I'm doin' fer however long it takes. 'Yer gonna be my body-man an' aide. An' given 'yer a *little* guy, an' not a particularly dominant-smellin' specimen at that...I think we both know 'yer ego won't last long."
+
+Yup. He would trapped in his own mind, bound to the Great Father's every whim until he died. Broken by the simple presence of a dominant male. Enslaved by love.
 
 He keened. Gods, how he *keened* at the impossible choice! It was death three ways! It was impossible, it was such a terrible fate all of the sudden---
 
-The Great Father was there, now. Hugging him to himself, gently. Almost affectionately. And even that, just his *scent* and his incredible warmth and strength...his obvious concern, his gentleness, even that momentary bit of closeness was already breaking through.
+The Great Father was there, now. Hugging him to himself, gently. Almost affectionately. And even that, just his *scent* and his incredible warmth and strength...his obvious concern, his gentleness, even that momentary bit of closeness was already breaking through, destroying Liree's resolve.
 
 Against the Great Father of his people, the greatest there had ever been? What resistance could he muster? Liree was doomed.
 
-"It's a terrible thing," Daar rumbled low and quiet, just for him. "But at least wit' the third option, you could still live. Still serve the Gao. Help make right your crimes. Not a lot get second chances." Liree felt lost in reality, lost against the vastness of a gentleman-god who would sentence him to whatever fate he chose. 
+And...and he *wanted* it. Already. He couldn't even muster the self-respect to loathe himself for it.
+
+"It's a terrible thing," Daar rumbled low and quiet, just for him. "But at least wit' the third option, you could still live. Still serve the Gao. Help make right your crimes. Not many get second chances." Liree felt lost in reality, lost against the vastness of a gentleman-god who would sentence him to whatever fate he chose. 
 
 It took him a while to grieve for himself. His free will would die. The Great Father was patient, and said nothing. Finally, Liree looked up at him, at his impossible *perfectly* beautiful face...
 
@@ -2270,9 +2280,11 @@ Even his *eyes.* Terrible, and unyielding. But kind too. Even maybe a bit hopefu
 
 "Will...will it be so bad?"
 
-"I am very good to my friends, Liree. Even in 'yer case where you won't be choosin' it. An' it's not a one-way street. Thing is? I'll be loyal to you forever, too. I'll be just as trapped, in a sense. So, that's the deal: I'm offerin' you a chance 'ta *serve* an' redeem 'yer honor, an' I'm offerin' you somethin' you straight ain't worthy of. Perfect love 'fer perfect obedience. So..."
+"I am very good to my friends, Liree. Even in 'yer case where you won't be choosin' it. An' it's not a one-way street. Thing is? I'll be loyal to you forever, too. In a sense I'll be just as trapped, but I don't mind none. So, that's the deal: I'm offerin' you a chance 'ta *serve* an' redeem 'yer honor, an' I'm offerin' you somethin' you straight ain't worthy of. Perfect love 'fer perfect obedience. So..."
 
-He let go, and straightened up, then *displayed* the full majesty of his being without moving an inch. So hugely muscular and hulking he couldn't *possibly* bulge out any bigger *anywhere* on him. So vascular and lean it would have been disturbing on any lesser man. So flawlessly symmetrical it almost didn't look real. And *beautiful,* first and foremost. He was living *perfection* with a nearly to-the-skin clipped stud's coat, and he wasn't even showing off.
+He let go, and straightened up, then *displayed* the full majesty of his being without moving an inch. *Gods,* he was...
+
+*Beautiful.* Perfect face, perfect voice. Perfect *scent,* perfect soul. So hugely muscular and hulking he couldn't *possibly* bulge out any bigger *anywhere* on him. So vascular and lean it would have been disturbing on any lesser man. So flawlessly symmetrical it almost didn't look real. He wasn't merely handsome, he was impossibly *beautiful* in every way. He was living godly *perfection* with a nearly to-the-skin clipped stud's coat, and he wasn't even showing off.
 
 He smiled, too. Not too big, it was a polite sort of thing. An invitation, maybe? There, before Liree, a living god revealed himself without a grunt of effort.
 
@@ -2284,7 +2296,7 @@ In the end it wasn't even a choice. Just his smell, his presence, his words…th
 
 “I...I choose...” Liree screwed up his courage. "I choose you, My Father."
 
-The Great Father nodded seriously. "Very well. Do exactly as these men say. We'll meet again soon."
+The Great Father nodded seriously. "Very well." He rose off his haunches and the flooring crumbled underfoot. "Do exactly as these men say. We'll meet again soon."
 
 “Y---yes sir!”
 
@@ -2294,7 +2306,7 @@ An actual crater in the dirt where he'd landed. No sign of him though, not even 
 
 One of the smaller, less *apocalyptic* beings haunting his shadow tapped a claw on Liree’s shoulder to get his attention, then inclined his nose toward Liree’s door. It wasn’t Meereo---where in the hells had he gone?! Where was everyone else?
 
-It was instead another Longear. This one a bit against type, too. Black and sleek-furred…but burly, like a Longback. And he wasn’t friendly. 
+It was instead another Longear. This one a bit against type, too. Black and sleek-furred…but burly, like a Longback. *Big* burly. And he wasn’t friendly. 
 
 “You’re gonna take me through *all* your systems, all the scripts you’re writing, all the data you’ve gathered…I want to chew every byte. I will *know* if you omit anything, and so will the Great Father. He is slow to anger and loathe to punish, but *earn it* and you will beg for death for *days* before he tires of toying with you. Clear?”
 
@@ -2302,7 +2314,7 @@ It was instead another Longear. This one a bit against type, too. Black and slee
 
 “...Well? Show me!”
 
-Liree yelped and leapt to obey, and…well, one life ended and another began. As promised the Great Father was waiting for him, out in the country in his getaway cottage. There, they got to know each other. Conversations, mostly. Lots of farm work, lots of training too, in lots of different things. He was to become one of Daar's closest personal assistants, alongside Tiyun. Thre wasn't a thought that wasn't shared, not an inch of His Father he didn't know, not a feeling he didn't understand. There were no secrets between the three of them. As promised, Liree was never more than arms-reach apart from him, and as feared...
+Liree yelped and leapt to obey, and…well, one life ended and another began. As promised the Great Father was waiting for him, out in the country in his getaway cottage. There, they got to know each other. Conversations, mostly. Lots of farm work, lots of training too, in lots of different things. He was to become one of Daar's closest personal assistants, alongside Tiyun. Thre wasn't a thought that wasn't shared, not an inch of each other they didn't know, not a feeling they didn't understand. There were no secrets between the three of them. As promised, Liree was never more than arms-reach apart from him, and as feared...
 
 It didn't take long. He went from resentful, to wary, through neutral to appreciative and finally, *devoted.* Before the summer was out he couldn't *bear* to be apart from His Father for any length of time. Or from Tiyun, either. Liree was, it turned out, a particularly agreeable young male. In fact he was so dependent, merely working up to do this mission was a personal trial. Even now, the apartness was terrible. But in the end, he came to view it all as a good thing. Admittedly, the physical training was…pain…and there was some sense of loss...but he didn't regret it.
 
