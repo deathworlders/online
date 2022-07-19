@@ -2228,9 +2228,9 @@ Liree keened in fear and desperation. "Yes!"
 
 He did.
 
-"Brutal honestly, I can admire that. So. Choice two, rather'n kill 'ya slowly in prison, I jus’ make it quick and squish ‘ya into a pancake wit’ this big paw o’ mine. Won’t hurt, I promise. Make a big mess, though…”
+"Brutal honesty, I can admire that. So. Choice two, rather'n kill 'ya slowly in prison, I jus’ make it quick and squish ‘ya into a pancake wit’ this big paw o’ mine. Won’t hurt, I promise. Make a big mess, though…”
 
-The Great Father held up the paw in question and pressed it against Liree’s chest, and him against the wall. **Forcefully.** It was *much* wider than his shoulders and the *claws---!* And it seemed almost small compared to the arm connected to it. Then there was the rest of him…
+The Great Father held up the paw in question and pressed it against Liree’s chest, and him against the wall. **Forcefully.** It was *much* wider than his shoulders and the *claws---!* The wrist along was as big as Liree's chest and both seemed almost small compared to hulking swells of his arm. Then there was the rest of him…
 
 *Balls.*
 
@@ -2248,25 +2248,27 @@ The Great Father sighed, and duck-nodded sympathetically.
 
 Liree gulped, and duck-nodded in terrible understanding. Subdued forever by friendship. He would be worse than a slave.
 
-The Great Father again duck-nodded. "It's a *fuck* of a thing, yeah? With what I am an' what jus' my scent can do 'ta people, I'm *very* careful 'ta give my friends space an' time away. That's the real danger o' what I am. Makes me wonder if Fyu had the same sorta power...Anyway. Other species don't unnerstand. Not even th' ten'gewek, an' they got somethin' related goin' on wit' their Given-Men. But *we* unnerstand, an' *I'm sorry.* So I give you the choice. Stick wit' me and you live. But You ain't *never* gonna be out o' sniffin' range, never outta my reach. 'Yer gonna be by my side every second o' every day, no matter *what* I'm doin' fer however long it takes. 'Yer gonna be my body-man an' aide. An' given 'yer a *little* guy, an' not a particularly dominant-smellin' specimen at that...I think we both know you won't last long."
+And he would love every second of it.
+
+The Great Father again duck-nodded. "It's a *fuck* of a thing, yeah? With what I am, an' wit' what jus' my *scent* can do 'ta people, I'm *very* careful 'ta give my friends space an' time away. That's the real danger o' what I am. Makes me wonder if Fyu had the same sorta power... Anyway. Other species don't unnerstand. Not even th' ten'gewek, an' they got somethin' related goin' on wit' their Given-Men. But *we* unnerstand, an' *I'm sorry* that's how it's gotta be, 'cuz someone like you is too gods-damned dangerous 'ta let run around without some control. So I give you the choice. Stick wit' me and you live. Prosper, even! But You ain't *never* gonna be out o' sniffin' range, never outta my reach. 'Yer gonna be by my side every second o' every day, no matter *what* I'm doin' fer however long it takes. 'Yer gonna be my body-man an' aide. An' given 'yer a *little* guy, an' not a particularly dominant-smellin' specimen at that...I think we both know 'yer ego won't last long."
 
 Yup. He would trapped in his own mind, until he died. Broken by the simple presence of a dominant male. Enslaved by love.
 
 He keened. Gods, how he *keened* at the impossible choice! It was death three ways! It was impossible, it was such a terrible fate all of the sudden---
 
-The Great Father was there, now. Hugging him to himself, gently. Almost affectionately. And even that, just his *scent* and incredible warmth and strength...his obvious concern, his gentleness, even that momentary bit of closeness was already breaking through.
+The Great Father was there, now. Hugging him to himself, gently. Almost affectionately. And even that, just his *scent* and his incredible warmth and strength...his obvious concern, his gentleness, even that momentary bit of closeness was already breaking through.
 
-Liree was doomed.
+Against the Great Father of his people, the greatest there had ever been? What resistance could he muster? Liree was doomed.
 
-"It's a terrible thing," he rumbled low and quiet, just for him. "But at least wit' the third option, you could still live. Still serve the Gao. Help make right your crimes. Not a lot get second chances." Liree felt lost in reality, lost against the vastness of a god who would sentence him to whatever fate he chose. 
+"It's a terrible thing," Daar rumbled low and quiet, just for him. "But at least wit' the third option, you could still live. Still serve the Gao. Help make right your crimes. Not a lot get second chances." Liree felt lost in reality, lost against the vastness of a gentleman-god who would sentence him to whatever fate he chose. 
 
-It took him a while to grieve himself. The Great Father was patient, and said nothing. Finally, Liree looked up at him, at his impossible *perfectly* beautiful face...
+It took him a while to grieve for himself. His free will would die. The Great Father was patient, and said nothing. Finally, Liree looked up at him, at his impossible *perfectly* beautiful face...
 
 "Will...will it be so bad?"
 
-"I am very good to my friends, Liree. Even in 'yer case where you won't be choosin' it. An' it's not a one-way street. Thing is? I'll be loyal to you forever, too. I'll be just as trapped. So, that's the deal: I'm offerin' you a chance 'ta *serve* an' redeem 'yer honor, an' I'm offerin' you somethin' you straight ain't worthy of. Perfect love 'fer perfect obedience. So..."
+"I am very good to my friends, Liree. Even in 'yer case where you won't be choosin' it. An' it's not a one-way street. Thing is? I'll be loyal to you forever, too. I'll be just as trapped, in a sense. So, that's the deal: I'm offerin' you a chance 'ta *serve* an' redeem 'yer honor, an' I'm offerin' you somethin' you straight ain't worthy of. Perfect love 'fer perfect obedience. So..."
 
-He let go, and straightened up, then *displayed* the full majesty of his being without moving an inch.
+He let go, and straightened up, then *displayed* the full majesty of his being without moving an inch. A living god revealed himself without a grunt of effort.
 
 "Make your choice, little one."
 
