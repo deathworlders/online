@@ -2134,19 +2134,29 @@ ___
 
 …Oh. Oh *shit.* **Shit!**
 
-The Great Father growled down at him as Liree’s legs went very shaky and carried him back two wobbling steps. Tried to. *It didn’t work!* He was *stuck* and all he could hear was a rumbling chitter and a huge heart beating away, felt a skull-crushing pressure suddenly---!
+The Great Father growled down at him as Liree’s legs went very shaky and carried him back two wobbling steps.
+
+...Tried to.
+
+*It didn’t work!*
+
+He pushed against that chest with all his might but it was futile; he ended up groping helplessly at his corded brawn like some kind of malignant groupie. He was *stuck* and all he could hear was a rumbling chitter and a huge heart beating away. Suddenly he felt a skull-crushing pressure envelope his entire head! He panicked, it grew *incredibly* worse and he flailed desperately to get free---
 
 Release, and he fell backwards onto his rear in the least dignified way possible.
 
-“Gotta admit, that’s prob’ly the mos’ ridiculous way I’ve ever met anyone. Don’t’chu *look* ‘fer you charge ahead? I coulda *kilt’* ‘ya just now too! Wouldn’t *that’ve* been fuckin’ hilarious?”
+“Gotta admit, that’s prob’ly the mos’ ridiculous way I’ve ever met anyone. Don’t’chu *look* ‘fer you charge ahead?"
 
-“I…M--My Father?” He stood, wobbling, as he tried to process his situation.
+Liree was too dazed to reply properly. "I--no?"
 
-“Damn right. An’ I usually at least ask ‘fer dinner ‘fore I get that fuckin’ intimate wit’ anyone.”
+"Well shit, be more careful! I coulda *kilt’* ‘ya just now too! Wouldn’t *that’ve* been fuckin’ hilarious?”
+
+“I…M--My Father?” He stood, wobbling, as he tried to process his situation. His inflamed personal dignity clashed with the sheer ridiculousness of the situation and effectively paralyzed his ability to think clearly.
+
+“Damn right. An’ I usually at least ask ‘fer dinner ‘fore I get *that* fuckin’ intimate wit’ anyone.”
 
 “...I…”
 
-The Great Father himself was there. In front of him. In his hallway, *somehow.* He didn’t even really fit! What the hell had prompted this? Why would he…
+The Great Father himself was there. In front of him. In his hallway, *somehow.* He didn’t even really fit!  The fucker's haunches were pressed up against the walls! What the hell had prompted this? Why would he…
 
 …Oh. *Oh no.*
 
@@ -2154,7 +2164,7 @@ Liree felt his knees wobble again. He was caught. *Caught* and completely *fucke
 
 Maybe literally, too. There were rumors on the darkweb about dissidents, *gods no please…*
 
-“So,” Daar growled low. “You’ve been a *very* naughty boy, haven’t you?”
+“So,” Daar growled low. “I see we can skip past playtime. You’ve been a *very* naughty boy, haven’t you?”
 
 Yup. *Fucked.* Liree’s mouth sent an urgent request to Liree’s brain for something witty to say that might get him out of this, only to get back white noise and screaming. It fell back on the old reliable “Ahh…!”
 
@@ -2162,21 +2172,25 @@ Yup. *Fucked.* Liree’s mouth sent an urgent request to Liree’s brain for som
 
 A voice from some insignificant titan looming in a living god’s shadow. “Three billion, My Father. Give or take.”
 
-“Three *billion,* eh?” The Great Father, sitting down yet still *somehow* towering above all of them, sorta shuffled in place and even…even that was fuckin’...
+“Three *billion,* eh?” The Great Father, sitting down on his haunches yet still *somehow* towering above all of them, sorta shuffled in place and even…even that was fuckin’...
 
 He snarled and everything about him just *tightened up* and holy *shit* none of any of the videos or photos came even close Liree was so fucked he was gonna *fuckin’ die* right here on his own fuckin’ front door---!
 
+Liree felt himself grow dizzy, and fell back against the doorframe to keep from collapsing again.
+
 “Damn, *boy.* That’s a lotta debt ‘yer suddenly facin’. So moment o’ truth. Did you damage anythin’ critical? ‘Cuz if ‘ya did, what happens next depends *entirely* on ‘yer answer.”
 
-An actual fuckin’ monster was gonna eat him. Or worse. Somehow he found some courage under that baleful murder-stare, keened to himself…went for it.
+An actual fuckin’ god-monster was gonna eat him. Or worse. Somehow he found some courage under that baleful murder-stare, keened to himself…went for it.
 
 “Th—they were j--just war profiteers! On Paradise! A--and in the Great Houses!”
 
-The Great Father slunk closer now, floor *screaming* under his weight. A muzzle big enough to bite off Liree’s entire fuckin’ *head* snuffled close, closer…growled so low he almost couldn’t hear it…
+The Great Father slunk closer now, floor *screaming* as the entire fuckin' hallway visibly bowed under his incredible fuckin' weight. *Bowed,* in a modern commercial multi-species apartment! A muzzle big enough to bite off Liree’s entire fuckin’ *head* snuffled close, closer…growled so low he almost couldn’t hear it…
 
-“Now, I bet ‘ya know what I’mma do if I think ‘yer *lyin,* right? Das a *lotta* money we gotta pay out of our coffers, now. Money we can’t spend on shit that matters…”
+But he sure could *feel* that growl rumble the air so hard it hitched his breath. *Fuck.*
 
-Nose pressed right against his throat, sniff so powerful Liree could *feel* the suction. A deep growl, oh gods *oh gods please no---*
+“Now, I bet ‘ya know what I’mma do if I think ‘yer *lyin,* right? I ain't had any real exercise in a whole *day* an' das a *lotta* money we gotta pay out of our coffers, now. Money we can’t spend on shit that matters…”
+
+Nose pressed right against his throat, sniff so powerful Liree could *feel* the suction. An even deeper growl, one so primal the entire hall resonated with it. That snuffle creeped up along his jugular as he craned his neck to somehow escape, oh gods *oh gods please no---*
 
 The Great Monster backed away, slightly.
 
@@ -2188,29 +2202,75 @@ The Great Father looked back at someone. “Hey Meereo, ‘ya think he’s worth
 
 “Personally? No. But he’s done something I would daresay is even more dangerously stupid than hactivism against rich, *critically important* merchants. His skill has earned my respect, My Father. Not many have managed that. I want to learn *everything* from him.”
 
-…Meereo. Himself. Champion Meereo was here and *not happy.* Any other time Liree would be proud. Now? He tried to peek around the huge wall of rippling brawn in front of him but…
+…Meereo. Himself. Champion Meereo was here and *not happy.* Any other time Liree would be proud. Now? He tried to peek around the huge wall of *impossibly* rippling brawn in front of him but…
 
-“Right. So. I’mma give ‘ya three choices. Choice one, you go with these fine Straightshield officers an’ face proper justice. I hear ‘yer list o’ crimes is *pretty long* these days…”
+“Right. So. This ain't leavin' me with many nice options, *yijao?* How am I s'posed 'ta trust 'ya?"
+
+Liree's jaw chattered in fear of its own accord. Daar creeped closer, all his colossal *everything* and what it could do first and foremost in Liree's terrified mind.
+
+Daar sighed. *"Essactly.* I don't like dilemmas like this. So, I'mma let 'ya choose, if 'yer brave enough. An' as far as I can figure, there's really only three options. Choice one, you go with these fine Straightshield officers an’ face proper justice. I hear ‘yer list o’ crimes is *pretty long* these days…”
 
 Liree looked over at them. Any other time he’d be terrified of them too. He *hated* the fuckers! But there was a difference between a big burly bully and whatever the Great Father was. Rumor had it *Keeda himself* wasn’t more than a bug to him. Liree could only keen in terror.
 
-“Choice two, I jus’ make it quick and squish ‘ya into a pancake wit’ this big paw o’ mine. Won’t hurt, I promise. Make a big mess, though…”
+"I take it by 'yer reaction, that's likely gon' be a life sentence. Am I right? You can be honest here. These two can't testify against 'ya."
 
-The Great Father held up the paw in question and pressed it against Liree’s chest, and him against the wall. **Forcefully.** It was wider than his shoulders and the *claws---!* And it seemed almost small compared to the arm connected to it. Then there was the rest of him…
+Somehow, when confronted with his living god, just by smelling him and looking into that *face...*
+
+"I...yes. Yes, My Father. And..."
+
+He was quieter, now. "An' given the *nature* of 'yer crimes, that's gonna mean loneliness."
+
+Liree keened in fear and desperation. "Yes!"
+
+"Right." Daar shook his head. "But 'ya don't deny 'ya deserve it."
+
+"...No."
+
+He did.
+
+"Brutal honestly. I can admire that. So. Choice two, rather'n kill 'ya slowly in prison, I jus’ make it quick and squish ‘ya into a pancake wit’ this big paw o’ mine. Won’t hurt, I promise. Make a big mess, though…”
+
+The Great Father held up the paw in question and pressed it against Liree’s chest, and him against the wall. **Forcefully.** It was *much* wider than his shoulders and the *claws---!* And it seemed almost small compared to the arm connected to it. Then there was the rest of him…
 
 *Balls.*
 
-“But y’know what? I’m feelin’ generous. Choice three is ‘ya come wit’ me, right now, and do absolutely *anything* I tell ‘ya ‘fer the rest of ‘yer life without any fuckin’ hesitation what-so-fuckin’-*ever.* An’ yer gonna keep doin’ it with the same damn zeal erry’day, with a grateful fuckin’ smile ‘fer the life I’m sparin’ ‘ya. I won’t promise any of it’ll be easy, neither…so which ‘ya want? Prison, death, or adventure in my service?”
+“But y’know what? I think I might come 'ta like 'ya. So the last choice is the most terrible o' all. Choice three is ‘ya come wit’ me, right now, and you'll do absolutely *anything* I tell ‘ya ‘fer the rest of ‘yer life without any fuckin’ hesitation what-so-fuckin’-*ever.* An’ yer gonna keep doin’ it with the same damn zeal erry’day, with a grateful fuckin’ smile ‘fer the life I’m sparin’ ‘ya. I won’t promise any of it’ll be easy, neither…and there's somethin' else. What I jus' told 'ya ain't an expectation o' behavior, 'cuz I can't leave 'ya unsupervised like this, can I? It's a *promise* of how it'll be."
 
-“A-a-adventure. Uh. Please. My Father. Sir.”
+He left it hang. At first, Liree didn't understand what he meant, but then---
 
-“Hmm. Grateful smile needs improvin’. Work on that.”
+*Oh gods.*
+
+He would be worse than a slave. He would trapped in his own mind, until he died. Enslaved by love.
+
+He keened. Gods, how he *keened* at the impossible choice! It was death three ways! It was impossible, it was such a terrible fate all of the sudden---
+
+The Great Father was there, now. Hugging him to himself, gently. Almost affectionately.
+
+"It's a terrible thing," he rumbled low and quiet, just for him. "But at least wit' the third option, you could still live. Still serve the Gao. Help make right your crimes. Not a lot get second chances." Liree felt lost in reality, lost against the vastness of a god who would sentence him to whatever fate he chose. 
+
+It took him a while to grieve himself. The Great Father was patient, and said nothing. Finally, Liree looked up at him, at his impossible *perfectly* beautiful face...
+
+"Will...will it be so bad?"
+
+"It won't be fun to get there, no. I can't even promise 'yer gonna 'servive the attempt. But if you do, this goes both ways, Liree. I'll be yours just as much as you'll be mine. Forever. I'm offerin' you a chance 'ta *serve* an' redeem 'yer honor, an' I'm offerin' you somethin' you straight ain't worthy of. Perfect love 'fer perfect obedience. So..."
+
+He let go, and straightened up, then *displayed* the full majesty of his being without moving an inch.
+
+"Make your choice, little one."
+
+In the end it wasn't even a choice. Just his smell, his presence, his words…the Great Father had him completely from the moment they met. And he knew it, too.
+
+“I...I choose...” Liree screwed up his courage. "I choose you, My Father."
+
+The Great Father nodded seriously. "Very well. Do exactly as these men say. We'll meet again soon."
 
 “Y---yes sir!”
 
-“Outstanding.” And with that, the Great Father just…left. Turned around, wiggled his way through the short hall to the porch at the end and just *leapt* off the building like it weren’t anything at all! From the top floor, even! Liree got tired just climbing up to his room!
+And with that, the Great Father just…left. Turned around, wiggled his way through the short hall to the porch at the end and just *leapt* off the building like it weren’t anything at all! From the top floor, even! Some *long* delay later he heard (and maybe even felt!) a *whump* from below. He ran to the window, stared at the ground far below.
 
-One of the smaller, less *apocalyptic* beings haunting his shadow tapped a claw on Liree’s shoulder to get his attention, then inclined his nose toward Liree’s door. It wasn’t Meereo---where in the hells had he gone?! Where was everyone else? How had they---?
+An actual crater in the dirt where he'd landed. No sign of him though, not even paw prints---no. There they were! On the other end of the field! How had he---?
+
+One of the smaller, less *apocalyptic* beings haunting his shadow tapped a claw on Liree’s shoulder to get his attention, then inclined his nose toward Liree’s door. It wasn’t Meereo---where in the hells had he gone?! Where was everyone else?
 
 It was instead another Longear. This one a bit against type, too. Black and sleek-furred…but burly, like a Longback. And he wasn’t friendly. 
 
@@ -2220,9 +2280,13 @@ It was instead another Longear. This one a bit against type, too. Black and slee
 
 “...Well? Show me!”
 
-Liree yelped and leapt to obey, and…well, one life ended and another began. The Great Father had tended to his training *personally* for a few weeks, and once the abject fear of the situation wore off…Daar had become like a friend and mentor to Liree that he’d never had in his life. They’d even shared a nestbed once, at his farm! In the end, he came to view it all as a good thing. Admittedly, the physical training was…pain…but the rest of it?
+Liree yelped and leapt to obey, and…well, one life ended and another began. As promised the Great Father was waiting for him, out in the country in his getaway cottage. There, through long, endless agony of many kinds, over many days, the Great Father made him his, forever.
 
-It certainly got him into the company of some interesting people…
+Recovery took weeks, even with modern medicine. He had barely survived the ordeal. But after that? It wasn't so bad, really. Daar had tended to his training *personally* for a few weeks, and once the abject fear of the situation wore off…Daar had become like a friend and mentor to Liree that he’d never had in his life. They even shared a nestbed at his farm! In the end, he came to view it all as a good thing. Admittedly, the physical training was…pain…and there was some sense of loss...but he didn't regret it.
+
+Couldn't regret it. Even if he wanted to.
+
+As for the rest of it? It certainly got him into the company of some interesting people…
 
 ___
 
