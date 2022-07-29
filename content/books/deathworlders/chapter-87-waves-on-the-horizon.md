@@ -2029,4 +2029,4 @@ The author does not necessarily share or endorse the opinions and behaviour of t
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 87
+*The Deathworlders* will continue in chapter 88: The Turning Gears
