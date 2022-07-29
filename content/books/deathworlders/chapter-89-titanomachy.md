@@ -361,7 +361,7 @@ ___
 
 ***Entity***
 
-*Message from Caruthers. He wants to push in *Caledonia* behind the Singularity vanguard, with our support.*
+*Message from Caruthers. He wants to push in* Caledonia *behind the Singularity vanguard, with our support.*
 
 The Entity understood immediately, and considered how best to make that happen.
 
@@ -1532,7 +1532,7 @@ Turned out Dora had jumped them straight into a stasis box at the back of the sh
 
 Liree meanwhile was deep in a bubble of monitors, and his expression *screamed* of tension and worry.
 
-The next bit happened quickly. Excited radio chatter. **Thump,” and the Wrecking Crew were all back. Immediately a second *thump* from the other cage, and Daar was too, with Vemik on his back and so clearly exhausted he could barely hold on.
+The next bit happened quickly. Excited radio chatter. **Thump,** and the Wrecking Crew were all back. Immediately a second **thump** from the other cage, and Daar was too, with Vemik on his back and so clearly exhausted he could barely hold on.
 
 Then the ship jumped. They had some breathing room. Triage again: everyone was more or less tended to, so Adam checked in on Vemik. In his excitement the dumbass had forgotten to properly activate his suit’s autolab, and had burned through all his energy in one heroic go.
 
