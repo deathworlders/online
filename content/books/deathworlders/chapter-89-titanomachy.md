@@ -1526,7 +1526,7 @@ For once, the transition to lower gravity was a goddamn *relief.* It sure as shi
 
 He hoped they were okay, right now.
 
-There was a lot of shit going on. Not his concern, right now he had a patient to deliver to Bruuk, Miracle Medicbear, and inquire about the radiation casualties
+There was a lot of shit going on. Not his concern, right now he had a patient to deliver to Bruuk, Miracle Medicbear, and inquire about the radiation casualties.
 
 Turned out Dora had jumped them straight into a stasis box at the back of the ship, outside the hull. The Robalin herself was teetering around the triage area with a cloud of drones around her shoulders, assisting where she could.
 
@@ -1534,11 +1534,13 @@ Liree meanwhile was deep in a bubble of monitors, and his expression *screamed* 
 
 The next bit happened quickly. Excited radio chatter. **Thump,** and the Wrecking Crew were all back. Immediately a second **thump** from the other cage, and Daar was too, with Vemik on his back and so clearly exhausted he could barely hold on.
 
-Then the ship jumped. They had some breathing room. Triage again: everyone was more or less tended to, so Adam checked in on Vemik. In his excitement the dumbass had forgotten to properly activate his suit’s autolab, and had burned through all his energy in one heroic go. Not a great place to learn that lesson, and that was one of the reasons Adam never much liked training him up without giving him enough experience with smaller fights. There’d be a long after-action  on *that* point, he’d make sure of it.
+Then the ship jumped. They had some breathing room. Triage again: everyone was more or less tended to, so Adam checked in on Vemik. In his excitement the dumbass had forgotten to properly activate his suit’s autolab, and had burned through all his energy in one heroic go.
+
+Not a great place to learn that lesson, and that was one of the reasons Adam never much liked training him up without giving him enough experience with smaller fights. There’d be a long after-action on *that* point, he’d make sure of it.
 
 Anyway, get some glucose in him and he was back to himself almost instantly.
 
-Catch his breath. Eat and drink. Shipwide stand-down, so de-suit and shower. Nobody had any news yet so there was a lot of idle chatter as they went about their ablutions. Lots of praise for everyone, and for Vemik too. It was clear the whole experience had meant a great deal to him, in the aftermath. Maybe…not how Adam (or really any human) would have processed that but, well. Ten’Gewek were a warrior-hunter species to their core.
+Catch his breath. Eat and drink. Shipwide stand-down, so de-suit and shower. Nobody had any news yet so there was a lot of idle chatter as they went about their ablutions. Lots of praise for everyone, and for Vemik too. It was clear the whole experience had meant a great deal to him, in the aftermath. Maybe…that wasn’t how Adam (or really any human) would have processed that but, well. Ten’Gewek were a hunter-warrior species to their core.
 
 In any case, they hadn’t lost many, and nobody in his circle of friends. A good day.
 
@@ -1556,13 +1558,15 @@ ___
 
 Main power dropped out. Firth hadn’t been payin’ much attention—not his sector—but from what he gathered Abbott and his team had been counterattacked pretty fuckin’ hard. Which made sense. It had been hard fuckin’ going for Firth and the lads to get this far, wading through bodies the whole way. 
 
-And something was…*off* this time. Firth had butchered Hunters by the hundred in his career, and usually they fought…well, like they didn’t care really care whether they lived or died, so long as the HEAT was stopped.
+And something was…*off* this time. Firth had butchered Hunters by the hundred in his career, and usually they fought…well, like they didn’t really care whether they lived or died, so long as the HEAT was stopped.
 
 Today, though, they fought like they fuckin’ *wanted* to die, especially if they could drag a man down with ‘em. 
 
 That one difference had made them a fuck of a lot more dangerous. Firth’s suit had taken a couple nasty dings, and he’d needed to do a plate swap twice. RHINO was out of the fight entirely after some fusion claws tore away the midlayer scale armor around his belly rather than gutting him. That had been a tense fuckin’ second, until they realized the red stuff running out of the gouge was his undersuit’s stored water washing the Hunter gore off him as it leaked.
 
-So yeah, it was about fuckin’ *time* for the power to go out and remove all the shit slowing them down like G-traps, forcefields, explosive decompression…lots of delights. They took ‘em all.
+So yeah, it was about fuckin’ *time* for the power to go out and remove all the shit slowing them down like G-traps, forcefields, explosive decompression…lots of delights. The Hunters had laid out a motherfuckin’ *playground.*
+
+Righteous could play pretty hard.
 
 The forcefield traps were especially fun. He was strong enough these days he could basically blow through them with a hard grunt and a lotta speed, but mosta the rest o’ the team weren’t so blessed. So he ended up blowin’ ‘em all out either by his gaoian (or Singularity) buddies snipin’ ‘em before they were a problem, or gettin’ bad-touched and just musclin’ through anyway.
 
@@ -1579,6 +1583,8 @@ But the final stretch had an anomaly in it. A pole shoved in the deck with a scr
 Rather than the last line of Alphas and red Betas they’d expected, the hallway was otherwise empty.
 
 Sikes half-turned to sweep his lights and weapon down a side hall, also empty. “Is that a...white flag?”
+
+…Well, ain’t that just the shit right there.
 
 “There is no fuckin’ way a Hunter’s gonna honor that…” Firth growled.
 
@@ -1619,7 +1625,7 @@ Uh.
 
 That…what was it on about---
 
-A knot twisted in Firth’s stomach and he *understood.*
+A knot twisted in Firth’s stomach and he understood *immediately.*
 
 “Good God…you found religion. You *believe.”*
 
@@ -1637,13 +1643,13 @@ The Hunter straightened up, spread out its arms, tilted its head back and gestur
 
 Campbell looked to Firth, asking for help with a glance. Firth was the devout one on-team, so…
 
-He sighed. Felt…pity, now. Terrible pity, on top of the rage. “And so all this is an auto-da-fé . You find purpose in payment for your evil.”
+He sighed. Felt…pity, now. Terrible pity, on top of the rage. “And so all this is an auto-da-fé. You find purpose in payment for your evil.”
 
 “Purpose…almost. We are what we were made to be. We will not be condemned for it. We have lived, now, where before we were *less* and I have thanked you…and arranged a gift for you. Two. One, a library. Your datamind abomination has found it already. The second…”
 
 Firth already knew, and felt his pity disappear.
 
-“...A deliverance from the softness and ease that gnawed us away. Life cannot be easy for you. Never. So I have taken away the world you tamed.” The Hunter gestured, and an all-too-familiar green and blue planet sparkled in its palm. “I have taken away your *Earth.”* 
+“...A deliverance from the…softness and ease that gnawed us away. Life cannot be easy for you. Never. So I have taken away the world you tamed.” The Hunter gestured, and an all-too-familiar green and blue planet sparkled in its palm. “I have taken away your *Earth.”* 
 
 A horrible, wheezing, choking sound that could only be its idea of laughter hacked its way up the thing’s throat, then its fist closed around the white flag and tore it off the pole. 
 
