@@ -1534,9 +1534,7 @@ Liree meanwhile was deep in a bubble of monitors, and his expression *screamed* 
 
 The next bit happened quickly. Excited radio chatter. **Thump,** and the Wrecking Crew were all back. Immediately a second **thump** from the other cage, and Daar was too, with Vemik on his back and so clearly exhausted he could barely hold on.
 
-Then the ship jumped. They had some breathing room. Triage again: everyone was more or less tended to, so Adam checked in on Vemik. In his excitement the dumbass had forgotten to properly activate his suit’s autolab, and had burned through all his energy in one heroic go.
-
-Not a great place to learn that lesson, and that was one of the reason Adam never much liked training him up without giving him enough experience with smaller fights. There’d be a long after-action  on *that* point, he’d make sure of it.
+Then the ship jumped. They had some breathing room. Triage again: everyone was more or less tended to, so Adam checked in on Vemik. In his excitement the dumbass had forgotten to properly activate his suit’s autolab, and had burned through all his energy in one heroic go. Not a great place to learn that lesson, and that was one of the reasons Adam never much liked training him up without giving him enough experience with smaller fights. There’d be a long after-action  on *that* point, he’d make sure of it.
 
 Anyway, get some glucose in him and he was back to himself almost instantly.
 
@@ -1583,7 +1581,6 @@ Rather than the last line of Alphas and red Betas they’d expected, the hallway
 Sikes half-turned to sweep his lights and weapon down a side hall, also empty. “Is that a...white flag?”
 
 “There is no fuckin’ way a Hunter’s gonna honor that…” Firth growled.
-
 
 “I will honor it,” replied a disembodied…well, Hunter voice. It could only *be* a Hunter. Somethin’ about it just *sounded* like a slaverin’ monster. Deep, sure, but *sibilant,* with a gummy, wet quality and a back-of-the-throat rattle. “For long enough to converse.”
 
