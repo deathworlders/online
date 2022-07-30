@@ -558,13 +558,13 @@ Liree was on a leash, of the kind that chilled Dora’s blood.
 
 Here was a rebel. His career had been aimed squarely at some of the most corrupt governments and figures in the galaxy, including the Robalin Supremacy itself. He’d written his worst code to tear open the corporate fronts and puppet foundations that faced the rest of the Dominion and let the Supremacy continue to trade and grow wealthy despite numerous official embargos and punitive measures.
 
-Well, not *just* them. Miree had been entirely disillusioned with a cowardly galaxy that left Gao to burn, which had never united to tackle the Hunters. He’d never accepted that it wasn’t the Dominion’s fault, that it was hostile influence that had robbed the galaxy’s united species of their collective balls. 
+Well, not *just* them. Liree had been entirely disillusioned with a cowardly galaxy that left Gao to burn, which had never united to tackle the Hunters. He’d never accepted that it wasn’t the Dominion’s fault, that it was hostile influence that had robbed the galaxy’s united species of their collective balls. 
 
 He’d been *angry.* Angry enough to smash the whole system, and his weapon of choice had been some of the most inspired code ever written.
 
 And now…neutered.
 
-Worse. *Slavishly* devoted to the Great Father, in a way that was straight-up creepy. She’d tried asking some of the other gaoians about it but all she got was silence and…she didn’t know if they noticed it themselves, but every time the other gaoians looked at Miree, their ears flattened backwards. 
+Worse. *Slavishly* devoted to the Great Father, in a way that was straight-up creepy. She’d tried asking some of the other gaoians about it but all she got was silence and…she didn’t know if they noticed it themselves, but every time the other gaoians looked at Liree, their ears flattened backwards. 
 
 Exasperated, she’d resorted to asking Wilde about it. His answer was, if anything, *worse.*
 
@@ -606,7 +606,7 @@ And he *loved* his work.
 
 “Of course he did. How long ago was this?”
 
-“Oh…almost nine hundred years, or thereabouts.” Miree chittered. “Anyway, the *point* is, your drones have everything I need on-board, I just have to make a few adjustments. Wanna help!?”
+“Oh…almost nine hundred years, or thereabouts.” Liree chittered. “Anyway, the *point* is, your drones have everything I need on-board, I just have to make a few adjustments. Wanna help!?”
 
 “Help…how? I don’t know Hunter tech--”
 
