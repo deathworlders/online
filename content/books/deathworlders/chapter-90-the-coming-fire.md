@@ -382,6 +382,7 @@ ___
 **Dataspace adjacent to Ink Spatter Nebula**
 
 ***Entity***
+
 It was exactly as bad as the Entity had known it would be, of course. But there was an aspect to the calamity befalling Earth that it hadn’t foreseen, and that was the strength of its own Daemon’s feelings.
 
 Specifically: \< *injustice* \>
@@ -451,6 +452,7 @@ Shortly thereafter, it commenced to building.
 ___
 
 **Dodge City, Kansas, USA, Earth**
+
 ***Austin Beaufort***
 
 It had been on all the news, on everyone’s social media, on the radio, in flyers…everywhere. Even the Emergency Alert System had gone out, to tell **everyone** to watch a Presidential address tonight at nine.
@@ -1011,6 +1013,7 @@ Time enough to enjoy the day.
 ____
 
 **Folctha, Cimbrean, the Far Reaches**
+
 ***Moses Byron***
 
 Christ. Meeting Julian again after all these years was strange; he hardly recognized him, despite that he was arguably the most famous human face and silhouette anywhere. Byron’s memory recalled a lean, strapping, lupine young man who was too handsome for his own good, with a deep, soft-spoken Minnesotan accent. Shy, too. Incongruously so.
@@ -2380,6 +2383,7 @@ She cried that night, and didn’t quite know why.
 ___
 
 **Dodge City, Kansas, USA, Earth**
+
 ***Austin Beaufort***
 
 There was a new guy on the radio. Apparently the old guy had quit. The new guy sounded young, amateurish, and *earnest.* Like some kind of radio true believer, or somethin’. Austin guessed he kinda had to be, if *that* was his big idea of how to spend the apocalypse.
@@ -2545,6 +2549,7 @@ He didn’t change the channel once, the whole way to the airport.
 ___
 
 **New Belfast, Cimbrean, the Far Reaches**
+
 ***Doctor Rachel “Ray” Wheeler***
 
 Of all the things Ray had taken up over the years, gardening and beekeeping were the two she’d come to truly *love.* Both were equal parts art and science, and they were so very full of *life,* even if she wasn’t going to win awards and competitions any time soon. 
@@ -2694,6 +2699,7 @@ But when she picked up her tea and sipped it again, in her head, she was already
 ___
 
 **Folctha, Cimbrean, the Far Reaches**
+
 ***Julian Etsicitty***
 
 Julian liked Austin *immediately,* just from reading his file. And what a *very interesting* file it was, too. For a start, it was pretty thick, and pretty old. Austin Beaufort had been Known About for a good few years, for unhappy reasons. 
@@ -2923,6 +2929,7 @@ The world had just gotten another step weirder.
 ___
 
 **Ekallim-Igigi, New Uruk system**
+
 ***Alex, Prince of Ekallim-Igigi***
 
 “Begin.”
@@ -3108,6 +3115,7 @@ But he did not forget.
 ___
 
 **Great Father’s ranch, Gao**
+
 ***Daar, Great Father of the Gao***
 
 Sometimes, the only way for a bro like Adam to *really* work through his issues was to get the absolute fuckin’ *shit* beat outta him by a goddamn expert. And the list of people who could do that wasn’t very long, dependin’ on what was meant.
