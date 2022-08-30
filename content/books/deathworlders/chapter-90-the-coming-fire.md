@@ -219,7 +219,7 @@ Sikes changed the subject. “How come ‘Horse ain’t here today?”
 
 “Jesus shit…” Gonzo cursed, Yan having relented a bit. “I hadn’t even thought of that.”
 
-“Oh, the fun’s just *starting,*” added Costello, who was reclining against two of First Fang’s burliest---they had a mutual appreciation for boxing---and gnawing on a smoked turkey leg. “There’s no way Earth is gettin’ evacuated in four years. Not the whole thing. Not everyone. Migration is gonna be…selective.”
+“Oh, the fun’s just *starting,”* added Costello, who was reclining against two of First Fang’s burliest---they had a mutual appreciation for boxing---and gnawing on a smoked turkey leg. “There’s no way Earth is gettin’ evacuated in four years. Not the whole thing. Not everyone. Migration is gonna be…selective.”
 
 “Once the rich fucks have bought up all the land here, you mean.”
 
@@ -243,7 +243,7 @@ He stared Baseball down.
 
 “...Because starting a food web takes time, and we’ve only barely started on Cimbrean.”
 
-“Lucent too, but yeah. Now consider where ‘ya’d best be situated. We ain’t *got* infrastructure ‘fer another quarter-billion humans roamin’ th’ galaxy. Gao? We got the room, an’ the planet’s not too far offa what ‘ya need…but we ain’t got housin’ suitable. Or education. Or *culture.” An’ we don’t have the food stockpiles, medicine, fuel, bedding, cuz all’a that stuff was gettin’ used up by our *own* population crisis. An’ we’re *’yer best bet.* It’s gon’ take all my powers ‘ta make Gao a warm home ‘fer humans.
+“Lucent too, but yeah. Now consider where ‘ya’d best be situated. We ain’t *got* infrastructure ‘fer another quarter-billion humans roamin’ th’ galaxy. Gao? We got the room, an’ the planet’s not too far offa what ‘ya need…but we ain’t got housin’ suitable. Or education. Or *culture.”* An’ we don’t have the food stockpiles, medicine, fuel, bedding, cuz all’a that stuff was gettin’ used up by our *own* population crisis. An’ we’re *’yer best bet.* It’s gon’ take all my powers ‘ta make Gao a warm home ‘fer humans.
 
 “Akyawentuo?” Daar continued, to the sudden deathly silence. “She’s got high gravity, she’s mineral-blessed an’ has *lots* of biological riches. I ain’t got no doubt Yan Given-Man here would welcome you with wide-open arms. But let’s be realistic. How many would go? It would be startin’ from scratch, even in th’ open savannahs that’d best suit ‘yer kind. An’ it would only work ‘fer the th’ hardiest, strongest kind o’ human who could make a real go of it.”
 
@@ -407,7 +407,7 @@ The Entity experienced the equivalent of blinking in confusion for a moment. Yea
 
 The Entity had accepted this fact a long time ago, yes.
 
-*Maybe, but you still don’t really get it. Some things are worth being vulnerable for. Some things are worth dying for, even. *
+*Maybe, but you still don’t really get it. Some things are worth being vulnerable for. Some things are worth dying for, even.*
 
 A sentiment the Entity had heard repeated many times by many beings of many species. It had never internalized the thought, for the simple reason that…well, it *couldn’t.* The impulse to survive was the very foundation of its being, the first core component to which all others were merely appended. It was indefinite, its capacity to exist only limited by its ability to overcome hostilities: it had neither a need nor an incentive to make peace with its own mortality, as it was *not* mortal.
 
@@ -798,7 +798,7 @@ And…stuff happened. Just an unpleasant blur of stuff, happening. There was mor
 
 Letty stumbled outside, leaned against a wall, missed the sidewalk and puked all down her front instead. That was the last clear thing to stick in her head, until the blur took her away and the rest of the night just…didn’t happen.
 
-She woke to pain. Lots of that, pounding in her head, and elsewhere too. And the smell of vomit, which…*ugh*…
+She woke to pain. Lots of that, pounding in her head, and elsewhere too. And the smell of vomit, which… *ugh…*
 
 “Up you get,” a voice said, and hauled her to her feet. More pain, dizziness…the voice belonged to a cop. A short black woman who guided her firmly out between some metal bars and a door that squealed loud enough to be agony.
 
@@ -1442,7 +1442,9 @@ They were living testament to how incredibly complicated people could be, Julian
 
 …And that thought, for whatever reason, was what made it all finally *land.* 
 
-It was like, sitting there with Cimbrean’s usual nightly rains drumming on the skylight the way it always did, suddenly something went *click* in Julian’s mind and he finally *got it.* Like just for a second he felt every single soul, every single life and story that was *ending* now, ending hopelessly. Even if they somehow miraculously saved one in ten, despite the best estimate yet being one in *twenty*…Even then, there would be more people than not who’d look up to see the sky burn, and leave no legacy at all. And those that *did* escape would all leave people behind. Nobody was getting out of this unharmed.
+It was like, sitting there with Cimbrean’s usual nightly rains drumming on the skylight the way it always did, suddenly something went *click* in Julian’s mind and he finally *got it.* Like just for a second he felt every single soul, every single life and story that was *ending* now, ending hopelessly. Even if they somehow miraculously saved one in ten, despite the best estimate yet being one in *twenty…* 
+
+Even then, there would be more people than not who’d look up to see the sky burn, and leave no legacy at all. And those that *did* escape would all leave people behind. Nobody was getting out of this unharmed.
 
 Whole cultures would be gone, soon. What would become of his grandfather’s people? Or his grandmother’s? How much of them would survive? How much of *anyone* would survive?
 
@@ -2270,7 +2272,7 @@ Heads shook.
 
 Margaret frowned and thought of the smoke she’d been able to see see from the oval office’s windows whenever she looked out of them in recent days. “You make it sound like the Wild West out there.”
 
-“The natural human impulse is to build communities,” Sutherland said, optimistically. “Most folks out there are rallying around with their neighbors, establishing mutual protection, sharing what they have…in a lot of ways, adversity brings out the best in people. It’s just that the truly *evil” have disproportionate impact.”
+“The natural human impulse is to build communities,” Sutherland said, optimistically. “Most folks out there are rallying around with their neighbors, establishing mutual protection, sharing what they have…in a lot of ways, adversity brings out the best in people. It’s just that the truly *evil* have disproportionate impact.”
 
 Margaret sighed and nodded. “Public order is necessary part of this evacuation. We need our communities to be safe and well-organized so they can work with the government. If we do nothing, won’t they just become insular and resentful at being abandoned?”
 
@@ -3137,7 +3139,7 @@ Day one was a fight with Adam and crew against some of the Gao’s finest. Adam 
 
 …Yeah. This time, what was needed were cuddles rather than crushes. For everyone. That evening, Adam and his crew were the center of the *bestest* snuggle pile.
 
-Days two and three, though: Adam was in a much better place, and so Daar gave him the complete an’ total * whuppin’* he needed. Same for his crew. Rees and Davies got personal instruction from Whitecrest *masters* while the Wrecking Crew got to learn with Champion Guruum personally. Adam and Daar, meanwhile, went off to train on their own.
+Days two and three, though: Adam was in a much better place, and so Daar gave him the complete an’ total *whuppin’* he needed. Same for his crew. Rees and Davies got personal instruction from Whitecrest *masters* while the Wrecking Crew got to learn with Champion Guruum personally. Adam and Daar, meanwhile, went off to train on their own.
 
 The rest of the week was a true blessing. A blessing with *weights.* Neither of ‘em were the least bit sorry for what they were, and Daar was glad of the distraction, such as it was. Everything was doom and gloom right now, everything revolved around the Earth crisis. He’d been at the eye of a storm of numbers and estimates even gloomier than the gaori population crisis. It was nice to have something *kinda* positive happen, and nice to lift with one o’ the few people who could move durasteel plates under the gravity field of Daar’s gym.
 
@@ -3155,7 +3157,7 @@ And caught up on gossip. “Well? What’d they have ‘ta say?”
 
 Adam set the weight down and caught his breath. “Egh…you know Singularity. They’ve got a knack for bein’ creepy even when they’re tryin’ to do the right thing, *yijao?”* he smiled faintly at Daar’s chitter and grabbed his bottle. “There’s this old movie, *Indecent Proposal,* you ever see it? Some rich dude offers a married couple a lotta money to fuck the wife...”
 
-Daar duck-nodded: he’d seen that movie. He chittered, walked over to his Huge Lift Bar…fuck it. **All* the weight, crank the gravity up too and *really* drive home who was bestest…
+Daar duck-nodded: he’d seen that movie. He chittered, walked over to his Huge Lift Bar…fuck it. **All** the weight, crank the gravity up too and *really* drive home who was bestest…
 
 “I get it.” No more talk. Just grunt, and *clean* and then *jerk* and then fuckin’ *press* over an’ over an’ *fuckin’ over* ‘cuz Warhorse could go *fuck* himself wit’ his monkey shoulders, Daar would just be *better* an’ straight outmuscle him by numbers an’ in proportion, too. And he did, with a smug ear-flick and a challenging growl. *There.* Marker laid down.
 
