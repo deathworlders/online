@@ -606,7 +606,7 @@ Jamal flashed a shrug at her, before continuing.
 `cant promise an interview anytime soon`    
 `pretty busy as I guess you might suspect`    
 `but right now is good`    
-‘jus finished my lift`   
+`jus finished my lift`   
 `gonna cool down an stuff`    
 `late night here`    
 `nice an cool`
@@ -661,7 +661,7 @@ More waiting, more marching dots. Jamal wasn’t in control anymore.
 Jamal, sensing a chance to jump back in and be present in the conversation again, chimed up: “You mean influence, power, means, that kind of thing.”
 
 `yup.`    
-`and thing is’
+`and thing is`
 `I dont gotta care what people think`    
 `or how hard they try to ingratiate wit me or my people`    
 `cuz Im wealthy AF in every way`    
@@ -707,11 +707,11 @@ Above them, Daar’s stream-of-thought texting marched onwards.
 `a whole fuckofalotta yer fellows aint showin that right now`    
 `they prolly wont make it`   
 `its like th shopping cart test really`    
-`an yeah, maybe some folks will say its not fair’    
-`cuz you were there and you had the chance to be tested’    
-`and theres lots of others who woulda passed but never got the opportunity’    
-`but we all got to choose our poison’    
-`cuz no matter what we do its gonna be unfair in some way’    
+`an yeah, maybe some folks will say its not fair`    
+`cuz you were there and you had the chance to be tested`    
+`and theres lots of others who woulda passed but never got the opportunity`    
+`but we all got to choose our poison`    
+`cuz no matter what we do its gonna be unfair in some way`    
 `an I aint about to let people who smell like good lose out`    
 `not when I can do somethin`    
 `so Jamal thats all the time I got`    
