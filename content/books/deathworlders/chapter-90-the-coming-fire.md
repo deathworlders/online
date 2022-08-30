@@ -290,7 +290,8 @@ And together, they cried, and mourned the loss of something beautiful.
 ___
 
 
-**Hunter Hive, somefuckinwhere, deep space.**
+**Hunter Hive, somefuckinwhere, deep space.**    
+
 ***Adam (Warhorse) Arés***
 
 Breaking the Alpha had been *cathartic.* Couldn’t have done it without his team. Vemik had been the star of the show, but Chimp and Kong and all the rest? No pushovers at all.
