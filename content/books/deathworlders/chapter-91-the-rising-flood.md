@@ -49,7 +49,7 @@ Good thing he wore his extra-good shoes.
 
 Daar returned the polite gesture with a duck of his head. “Thank you, Queen Tomoe. Y’prob’ly know my good friend an’ Cousin ‘fer life, Mister Arés…?”
 
-She smiled at him, eyes crinkling warmly as she inclined herself formally to him as well. *“I do. The famous Warhorse. Yours is a towering reputation, Arés-san.”
+She smiled at him, eyes crinkling warmly as she inclined herself formally to him as well. “I do. The famous Warhorse. Yours is a towering reputation, Arés-san.”
 
 Nothing in Adam’s life had prepared him for formal meetings with queens. “Uh, as is yours, your highness,” he ventured. 
 
@@ -1492,7 +1492,7 @@ She was actually glad of that. Glad of the *life* it meant she’d get, along wi
 
 What would living *here* be like, though? Could Nightmare even support any reasonable population? How could they *farm* here? Why build here, when the same people could go to Cimbrean and actually grow their own food there?
 
-So many questions, but… ’ours not to reason why.’* She pulled the handle on her seat, and it slid backwards before rotating to let her climb out into the prep bay. She ducked into the living quarters, did some stretches, then settled down in the viewing cupola to watch the groundbreaking team do their thing outside in the cold. Part of her felt the tinge of guilt that said *‘get out there and help’* but that was redundant. She *was* helping by staying aboard the ship. That was her job in all this, command the *Meskwaki* and protect this operation.
+So many questions, but… *’ours not to reason why.’* She pulled the handle on her seat, and it slid backwards before rotating to let her climb out into the prep bay. She ducked into the living quarters, did some stretches, then settled down in the viewing cupola to watch the groundbreaking team do their thing outside in the cold. Part of her felt the tinge of guilt that said *‘get out there and help’* but that was redundant. She *was* helping by staying aboard the ship. That was her job in all this, command the *Meskwaki* and protect this operation.
 
 Even if it was going to mean a lot of sitting around inside when she could be feeling the cold breeze on her face…
 
