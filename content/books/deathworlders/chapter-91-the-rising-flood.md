@@ -2056,7 +2056,7 @@ Tilly leaned against a tree opposite Vemik. “We know we’ve got a hill to cli
 
 “Not every human *can* be trusted,” Vemik pointed out, thinking of the men who’d ambushed him in New York.
 
-“Nor can every ten’gewek,” Tilly replied evenly. “All I’m saying is…you sort out the disrespect toward you, and let us sort out the disrespect toward us ion our own way, eh?”
+“Nor can every ten’gewek,” Tilly replied evenly. “All I’m saying is…you sort out the disrespect toward you, and let us sort out the disrespect toward us in our own way, eh?”
 
 Vemik nodded. “Makes sense.”
 
@@ -2247,7 +2247,7 @@ He grinned at his sons, who smirked back. The three of them stood together and�
 
 “...I think we get the picture,” Austin said, feigning cool.
 
-“Heh! Yup. *Exactly.* This right here is a form of communication *everyone* understands.” Julian grinned, showed off some *arms* and his massice fuckin’ *legs* to some gawping exclamations…then the *rest* of him when the men goaded him on. Christ, *nothing* on this guy was less than perfect! But the show didn’t last for too long; he’d well and fuckin’ truly made his point. “So, if being naked and pretty in front of a camera stops some idiot minor power from *starting shit,* then I’m totally okay hanging myself out there for it. So were the rest, and yeah, we’re a pretty self-confident bunch. So why not? It was fun, and besides: just ‘cuz they *can* fight at a level higher than anyone, don’t mean any of them *want* to.”
+“Heh! Yup. *Exactly.* This right here is a form of communication *everyone* understands.” Julian grinned, showed off some *arms* and his massive fuckin’ *legs* to some gawping exclamations…then the *rest* of him when the men goaded him on. Christ, *nothing* on this guy was less than perfect! But the show didn’t last for too long; he’d well and fuckin’ truly made his point. “So, if being naked and pretty in front of a camera stops some idiot minor power from *starting shit,* then I’m totally okay hanging myself out there for it. So were the rest, and yeah, we’re a pretty self-confident bunch. So why not? It was fun, and besides: just ‘cuz they *can* fight at a level higher than anyone, don’t mean any of them *want* to.”
 
 “So you lined up all the meatheads,” Austin added.
 
