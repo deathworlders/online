@@ -424,7 +424,7 @@ Evasiveness aside, a crowd formed to watch the array go up, and they all took a 
 
 “Why? What were you before all this?”
 
-“I managed a home goods store.” Bonhomie shrugged wryly. “Dishwashers, fridges, TVs and so on. So. Able-bodied, know how to manage inventory and people and timetables, but not the sort of thing a settlement baron is made of, *yijao?”
+“I managed a home goods store.” Bonhomie shrugged wryly. “Dishwashers, fridges, TVs and so on. So. Able-bodied, know how to manage inventory and people and timetables, but not the sort of thing a settlement baron is made of, *yijao?”*
 
 “If you say so…?”
 
@@ -996,7 +996,7 @@ Tilly must have blanched or something, because Vemik grimaced and chose diplomac
 
 “...But this *old* bull deserved a quick Giving, so maybe this is good thing. Now come down, we have two fingers to walk!” He slapped the former beast’s massive haunch, “good quick kill, I’m proud of this one! Strong prey. But too slow for me!”
 
-Indeed, judging from how its skull was…flattened, with a Vemik-fist-sized hole smashed in the middle…and the beast’s huge neck just *wasn’t* anymore. “Well?! Is boring to hike without friends! Tell me about the *library* now! Did they get the air con-*ditch-*en-ing going yet?!”
+Indeed, judging from how its skull was…flattened, with a Vemik-fist-sized hole smashed in the middle…and the beast’s huge neck just *wasn’t* anymore. “Well?! Is boring to hike without friends! Tell me about the *library* now! Did they get the air con-*ditch*-en-ing going yet?!”
 
 Tilly looked to Tavon. He shrugged, still not sure what to make of it all. The set off, Tilly feeling now a *whole* lot conflicted when she noticed herself lowkey enjoying the hulked-out rear view of him as he rolled along like mighty mouse carrying a house, springing over logs or across a stream, here or there, or leapfrogging over patches of deep loam back onto hardened trail…
 
@@ -1729,7 +1729,7 @@ There was a too-long, too-tense pause. It was finally broken by a smooth, male, 
 The following message is transmitted at the request of the
 United States Government.
 
-\* \* \* THIS IS NOT A TEST \* \* \*
+* * * THIS IS NOT A TEST * * *
 
 NUCLEAR WEAPONS HAVE BEEN USED IN KAZAKHSTAN
 
@@ -2404,7 +2404,7 @@ The update came. A missile was headed their way.
 
 The chaplain started reciting the Lord’s Prayer. Josh closed his eyes and mouthed it along with him.
 
-*“—for ever and ever...amen.”**
+*“—for ever and ever...amen.”*
 
 Then…silence. Silence like he’d never known, like the entire world taking a breath in before speaking.
 
