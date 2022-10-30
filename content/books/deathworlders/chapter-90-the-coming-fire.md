@@ -3640,6 +3640,7 @@ ___
 **++END CHAPTER 90++**    
 ___
 ___
+
 If you have enjoyed the *Deathworlders* story so far and want to support the author, you can do so by:
 
 * Subscribing at http://patreon.com/HamboneHFY or https://subscribestar.com/HamboneHFY
@@ -3828,4 +3829,4 @@ The author does not necessarily share or endorse the opinions and behaviour of t
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 91.
+*The Deathworlders* will continue in chapter 91: The Rising Flood.

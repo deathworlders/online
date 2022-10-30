@@ -3310,3 +3310,193 @@ ___
 **++END CHAPTER 91++**    
 ___
 ___
+
+If you have enjoyed the *Deathworlders* story so far and want to support the author, you can do so by:
+
+* Subscribing at http://patreon.com/HamboneHFY or https://subscribestar.com/HamboneHFY
+
+* Buying some merchandise at http://teepublic.com/HamboneHFY
+
+* Dropping a one-off payment in the tip jar at http://paypal.me/HamboneHFY or buy me a coffee at http://ko-fi.com/hambonehfy
+
+* Following me on social media via http://facebook.com/HamboneHFY/ or http://twitter.com/HamboneHFY
+
+* Voting for *The Deathworlders* at http://topwebfiction.com
+
+___
+
+## Dandelion: audiobook now available!
+* [Click here to purchase the audiobook](https://geni.us/Dandelion)
+* [Or click here to purchase any version of the book from your favorite retailer](https://books2read.com/dandelion-newhome-rangers)
+
+![Dandelion by Philip R. Johnson and Justin C. Louis, produced by Podium Audio](/images/B1_Dandelion_The Newhome Rangers-600.jpg)
+
+> Amber Houston was born light-years from Earth, aboard the enormous colony starship Dandelion. By the age of fourteen, she has spent her entire life training as a "Ranger," ready for the day when she will be among the first humans ever to set foot on an alien world & build a new civilization.
+
+> When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back---in eight years---Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.
+
+> Meanwhile, aboard the ship, secrets that were buried over three hundred years ago finally come to light...
+
+Co-authored alongside Justin C. Louis, *Dandelion* is my debut novel, published through Dataspace Publishing, and the Audiobook is produced by Podium Audio.
+
+And now, without further ado, on with the chapter!
+
+___
+___
+
+## Acknowledgments
+
+This chapter was brought to you with the help of...
+
+---
+
+***The SOR***
+
+*Those special individuals whose contributions to this story go above and beyond mere money*
+
+Ctwelve,
+
+BitterBusiness,
+
+Sally and Stephen Johnson
+
+Sian, Steve, Willow, Zoe and Riker
+
+---
+
+**31** ***Humans***
+
+TTTA 
+
+Adam Shearsby
+
+Anthony Landry
+
+Anthony Youhas
+
+Austin Deschner
+
+Bart Welch
+
+Chris Dye
+
+Darius Marquis
+
+Devin Rousso
+
+His Dread Monarch
+
+James R
+
+Joseph Szuma
+
+Joshua A. Demic
+
+Joshua Mountain Taylor
+
+Karthik Mohanarangan
+
+Katja Grim
+
+Marquis Talmadge
+
+NovaTheSpaceWolf
+
+Ortheri 
+
+Richard A Anstett
+
+Ryan Seaman
+
+Sam Berry
+
+Shane Wegner
+
+Sun Rendered
+
+Taylor McGee
+
+TheMoneyBadger
+
+Trevor C
+
+Xultanis 
+
+Yeania Aeon
+
+Zachary Galicki
+
+Zorven
+
+---
+
+As well as **50** ***Deathworlders...***
+
+Adam Zarger
+Andrew 
+Andrew Ford
+Andrew Preece
+blackwolf393 
+Bralor Ironwolf
+Brandon Hicks
+Brigid
+Bruce Ludington
+Chalax
+Chris Bausch
+Chris Candreva
+Chris Meeker
+Christopher Plemons
+damnusername 
+Daniel R.
+David Jamison
+Eric Hardwick
+Henry Moyers
+Ignate Flare
+Ivan Smirnov
+Jack Weedon
+jmal116
+Jon 
+Katie Drzewiecki
+Kristoffer Skarra
+Loaf of Orange
+lovot 
+Matt Bullock
+Matt Demm
+Matthew Cook
+Max Bohling
+Mel B.
+Mikee Elliott
+Nick Annunziata
+NightKhaos 
+Oli Tusig
+Olli Erinko
+Patrick Huizinga
+Ryan Cadiz
+Ryc O'Chet
+Sam 
+Sean Calvo
+Stephen Prescott
+Thanatos
+Ty
+walter thomas
+Woodsie13
+Zod Bain
++1 anonymous
+
+**60** ***Friendly ETs,*** **139** ***Squishy Xenos*** and **329** ***Dizi Rats*** who imitate the infamous squonk and dissolve in their own tears.
+
+---
+
+“The Deathworlders” is © Philip Richard Johnson, AKA Hambone, Hambone3110 and HamboneHFY. Some rights are reserved: The copyright holder reserves all commercial rights and ownership of this intellectual property. Permission is given for other parties to share, redistribute and copy this work under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+This work contains deliberate mentions of real persons, places and trademarks, which are made purely for reasons of verisimilitude under nominative fair use. These mentions have not been endorsed or sponsored by those persons or by the owners or governing bodies of those trademarks or places. All song lyrics, movie titles or other copyrighted material and trademarks that are referenced in this work are the property of their respective owners.
+
+The events and characters portrayed in this story are fictional and any resemblance to actual persons or events is accidental.
+
+The author does not necessarily share or endorse the opinions and behaviour of the characters.
+
+---
+
+Thank you for reading!
+
+*The Deathworlders* will continue in chapter 92: The Raging Storm.
