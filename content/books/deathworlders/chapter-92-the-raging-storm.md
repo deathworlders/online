@@ -1741,17 +1741,18 @@ report to your duty station and activate your emergency deployment plan.
 Reservists will be recalled as needed, and should presume a recall is imminent.
 You and your family must prepare for indefinite activation.
 
-If you are an emergency or first responder, see to your family’s immediate needs
-before reporting for duty.
+If you are an emergency or first responder, see to your family’s immediate 
+needs before reporting for duty.
 
-All cities along Federal Interstate Highways are equipped with shielding systems
-to guard against nuclear attack. This shielding will be activated shortly.
+All cities along Federal Interstate Highways are equipped with shielding 
+systems to guard against nuclear attack. This shielding will be activated 
+shortly.
 
 If you are in such a city, DO NOT EVACUATE
 YOU ARE SAFE WITHIN CITY LIMITS!
 
-A mass evacuation will increase casualties. Emergency services cannot be assured
-in the immediate future.
+A mass evacuation will increase casualties. Emergency services cannot be 
+assured in the immediate future.
 
 DO NOT EVACUATE
 YOU ARE SAFE WITHIN CITY LIMITS!
