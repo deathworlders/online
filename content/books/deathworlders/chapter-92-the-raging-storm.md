@@ -2607,4 +2607,4 @@ The author does not necessarily share or endorse the opinions and behaviour of t
 
 Thank you for reading!
 
-*The Deathworlders* will continue in chapter 91: The Rising Flood.
+*The Deathworlders* will continue in chapter 93: "The Silent Earth."
