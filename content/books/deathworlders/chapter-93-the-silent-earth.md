@@ -42,6 +42,7 @@ Father O’Brien lowered his hands. “I will now take individual confessions,�
 There was an instant of terrible, brilliant heat.
 
 ___
+
 ***Daar, Great Father of the Gao***
 
 At the moment, High Mountain Fortress’s morning coincided with D.C.’s. So, after a tense week, and a *blissful* night o’ relievin’ tension with as much vigor as Naydi an’ Leela could handle…
@@ -248,11 +249,11 @@ Daar rose to his feet with a sad expression and a quiet keen. “Colonel Costell
 
 “Yes, you have. In the stand-up of SOR as an international entity, those same powers acceded to a treaty which addresses this very situation.” He turned and held out his paw, which Tiyun pressed a tablet into. “To quote the relevant text on succession…”
 
-    “A Signatory to these Instruments retains Authority therein by their capacity to mutual defense and aid of member Signatories. Under this Instrument, that capacity shall consist in staffing, maintaining, sustaining, and advancing sufficient spaceborne capability to participate in the defense of the Signatory’s collective territory, commerce, peace, and other equities.
+> “A Signatory to these Instruments retains Authority therein by their capacity to mutual defense and aid of member Signatories. Under this Instrument, that capacity shall consist in staffing, maintaining, sustaining, and advancing sufficient spaceborne capability to participate in the defense of the Signatory’s collective territory, commerce, peace, and other equities.
 
-    “In the event a Signatory is incapable of maintaining these commitments, they will withdraw from the Instruments at their earliest convenience, subject to agreements among the Signatories. Should a Signatory find themselves incapacitated owing to warfare, conflict, or force majeure, other Signatories shall provide all necessary aid and comfort. 
+> “In the event a Signatory is incapable of maintaining these commitments, they will withdraw from the Instruments at their earliest convenience, subject to agreements among the Signatories. Should a Signatory find themselves incapacitated owing to warfare, conflict, or force majeure, other Signatories shall provide all necessary aid and comfort. 
 
-    “Command of the Alliance shall, in times of uncertainty, rest with the senior Signatory.”
+> “Command of the Alliance shall, in times of uncertainty, rest with the senior Signatory.”
 
 “Gentlemen,” he said, handing the tablet back, “I am the senior Signatory, and this, ‘ta put it mildly, is a time o’ uncertainty. Your governments ain’t fit ‘ta command under the terms of the treaty and I am exercising my rights of continuity. There…ain’t no goin’ home, my friends. You know this. Whatever’s left ain’t even gonna be able ‘ta *feed* y’all. So, I’ll put a choice before ‘ya instead. If any man here wishes to walk away from the SOR, he may do so an’ try ‘ta find a place among the human diaspora here on Gao, or return ‘ta Cimbrean. Balls, I’ll even help ‘ya get on ‘yer feets. But if that ain’t the path ‘fer you, I will accept ‘yer loyalty, here an’ now.”
 
