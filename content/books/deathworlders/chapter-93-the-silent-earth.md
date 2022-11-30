@@ -133,7 +133,7 @@ Details to follow, for the moment it was simply to *re-deploy* and they were get
 
 They were already three fully-packed jumps out and working on the forth (and final) load when Christian pushed the button, his Mass self-sealed and Righteous stepped off the pad, armed, armored, loaded for bear, and ready to fuck shit up.
 
-So was Yan, and two of his biggest fellow Given-Men. *Vemik-*grade, they were. Even a bit better. Telling though, that it took veteran Given-Men twice his age to best the young manic gorilla, and one could count on their fingers the number who could.
+So was Yan, and two of his biggest fellow Given-Men. *Vemik-grade,* they were, or even a bit better. Telling though, that it took veteran Given-Men twice his age to best the young manic gorilla, and one could count on their fingers the number who could.
 
 Yan looked up and grunted. “This is first rapid de-ploy-ment for us…” Slightly nervous tail-twitch.
 
@@ -378,7 +378,7 @@ Costello was nodding along as Soup laid it out. He scratched his jaw at that las
 
 Costello sat back and folded his arms. Damn big, these days. And right now, filled with the sort of tension that suggested he needed to *punch* something.  “Oh, just wait. Things will be fine under Daar. He’s a good man, truly, but wait until he’s gone. By then the Gao will have the numbers. They’ll likely have bred themselves into something better than us too, because eugenics is something they’re totally down for and their gene base is unlocked, now.”
 
-“Ekallim-Igigi,” Yan pointed out. “Is *safe-*guard for this.”
+“Ekallim-Igigi,” Yan pointed out. “Is *safe*-guard for this.”
 
 “Ayup. The Gao will soon out-power, out-number, and just out-*size* us as a civilization and honestly, unless we *get with the program,* quite literally in our cases, they'll curb-stomp us individually too. But that’s a moral quandary for another day. Right now, consider this: the Gao were *made to control the Galaxy* and given the potential to do so. And, so, they will. With a smile, and a cuddle. We’ll be their *pets* if were not very careful, and we’ll probably love it.”
 
@@ -1849,7 +1849,7 @@ Julian felt himself nodding, felt himself growing into the idea. “Now we can.�
 
 Julian met those baleful amber eyes of his with a challenge of his own. “I’ll make it through. I’ve been through one Nightmare, right?”
 
-“Yeah. But you’ve *never* seen me mean, Julian. Not personally. You do this an’ I will spare you *no* hardship if I think it’ll forge a better weapon outta you. Nor will colonel Costello, nor Righteous, nor Warhorse. You think th’ Lodge was hard? I’mma put you through *worse* near every damn day for th’ next five years. Wit’ books an’ studying. *An’*’ yer still gonna do ’yer  job. You’re gonna train, an’ study, an’ you’ll be tested harder’n any of ‘em in SOR ever were, ‘cuz you need th’ credibility. So…if ‘yer up to it? If ‘yer ready ‘ta step up with the best there ever was, an’ prove ‘yer worthy ‘ta fight wit’ them?”
+“Yeah. But you’ve *never* seen me mean, Julian. Not personally. You do this an’ I will spare you *no* hardship if I think it’ll forge a better weapon outta you. Nor will colonel Costello, nor Righteous, nor Warhorse. You think th’ Lodge was hard? I’mma put you through *worse* near every damn day for th’ next five years. Wit’ books an’ studying. *An’* 'yer still gonna do 'yer  job. You’re gonna train, an’ study, an’ you’ll be tested harder’n any of ‘em in SOR ever were, ‘cuz you need th’ credibility. So…if ‘yer up to it? If ‘yer ready ‘ta step up with the best there ever was, an’ prove ‘yer worthy ‘ta fight wit’ them?”
 
 Daar stood, stretched (...and maybe gave him a warning *show* of what kind of pain was to come) and went over to his women. “Be at Sharman’s front gate, five AM next Friday. Show up in just ‘yer runnin’ shorts, leave everythin’ else behind. Even ‘yer phone. You’ll be there an’ incommunicado ‘fer four months, no exceptions. An’ that will be th’ mos’ *basic* o’ beginnin’s.”
 
@@ -2621,7 +2621,7 @@ ___
 
 **Alien Palace, Folctha, Cimbrean, the Far Reaches**
 
-***President Margaret White****
+***President Margaret White***
 
 Of all the things she’d hoped to be remembered for, Margaret would not have chosen to go down in history as the last president of the United States of America. 
 
@@ -2863,7 +2863,7 @@ ___
 
 “We congratulate you on a fine rallying speech, Cousin. It felt…right. Right for the moment.”
 
-Daar was still wearing his regalia, having taken Gilgamesh’s call as soon as he could after completing the broadcast. *”Thankee. Y’sure ‘ya don’ wanna come visit ‘fer a hunt? It’s spring an’ the wild naxas are that *perfect* sorta lean when they’re buildin’ up ‘fer the rut…”
+Daar was still wearing his regalia, having taken Gilgamesh’s call as soon as he could after completing the broadcast. *”Thankee. Y’sure ‘ya don’ wanna come visit ‘fer a hunt? It’s spring an’ the wild naxas are that perfect sorta lean when they’re buildin’ up ‘fer the rut…”*
 
 “You know how to tempt me well, but I must decline. I’m sure you would too if I made you a similar offer. We are both far too busy, are we not?”
 
@@ -2875,7 +2875,7 @@ Daar was still wearing his regalia, having taken Gilgamesh’s call as soon as h
 
 “You have a fine understanding of human nature, my good cousin,” Gilgamesh agreed. “Now, the former eastern bloc and former western bloc do not *need* to try and trust each other—they could not possibly, I think. Instead, they need only trust their emperors. A much more natural fit, *yijao?”*
 
-Daar did not reply verbally. Instead, he poured himself a glass of something orange-colored and drank it all in one go. *“It is my intent that trade an’ travel be free between our empires,” he said. *“We are fundamentally one civilization, goin’ forward. Not one wit’ homogeneous views or anythin’ like that, but friends and brothers, in the gran’ scheme o’ things.”*
+Daar did not reply verbally. Instead, he poured himself a glass of something orange-colored and drank it all in one go. *“It is my intent that trade an’ travel be free between our empires,”* he said. *“We are fundamentally one civilization, goin’ forward. Not one wit’ homogeneous views or anythin’ like that, but friends and brothers, in the gran’ scheme o’ things.”*
 
 “I concur wholeheartedly…though that being the case I must press you for an answer to the questions I raised about the SOR and the fleet.”
 
