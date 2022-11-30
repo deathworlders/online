@@ -277,7 +277,7 @@ Once, the HEAT in its *entirety* managed---after an absolutely grueling fight---
 
 That they could see, anyway. It wasn’t a huge space either, and the giant bastard was just so…
 
-When they’d first met, he wasn’t more than a tough laborer at heart, one who preferred workin’ and sports and maybe the occasional brawl. For his size he was a lanky sort of heavy-muscular, like a cross between a big basketball player and a furry Vin Diesel, maybe. He knew how to lead, how to run a military. Yet importantly, he didn’t know how to fight a human up-close. Which meant Murry, a huge man in his own right, was able to best a literal talking bear well over twice his weight.
+When they’d first met, he wasn’t more than a tough laborer at heart, one who preferred workin’ and sports and maybe the occasional brawl. For his size he was a lanky sort of heavy-muscular, like a cross between a big basketball player and a furry Vin Diesel, maybe. He knew how to lead, how to run a military. Yet importantly, he didn’t know how to fight a human up-close. Which meant Murray, a huge man in his own right, was able to best a literal talking bear well over twice his weight.
 
 But it was earned more with luck and grit than anything else. Daar moved too fast to shoot. He used cover, understood tactics. He was so fucking strong even then that only ‘Horse could beat him, and then not entirely. Daar may have only managed one paw-slap hit on Murray, when the fight got up close, but that one hit had shattered four of his ribs and almost punctured a lung. How Murray didn’t let it show was still something Firth marveled at.
 
