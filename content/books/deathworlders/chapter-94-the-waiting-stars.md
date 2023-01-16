@@ -1739,7 +1739,7 @@ Daar duck-nodded slowly, and remained silent.
 
 “But you *can* make promises,” Evie added, warming to her subject. It felt so *good* to be actually addressing the problem outside of the formal, courtly context.
 
-Daar duck-nodded slowly. “Yes…provided they ain’t in conflict with my oaths of office. Which require me ‘ta remain free from any allegiance whatsoever.”*
+Daar duck-nodded slowly. “Yes…provided they ain’t in conflict with my oaths of office. Which require me ‘ta remain free from any allegiance whatsoever.”
 
 “My Father is by his own word and honor constrained from subordination to anyone or anything, willingly or unwillingly. As the embodiment of the Gao, he cannot be anything but absolutely sovereign.”
 
@@ -2778,7 +2778,7 @@ Or something like that.
 
 “Pickin’ on lil’ guys, tsk. Here I thought you Minnesota clan were all nice and stuff!”
 
-*“Hnnngh…*just havin’ a bit of fun…fuck, lemme go!”
+*“Hnnngh…!* just havin’ a bit of fun…fuck, lemme go!”
 
 Also, *definitely* some Schadenfreude watching Daar manhandle him so *effortlessly.* No better proof that size mattered, really.
 
@@ -2900,7 +2900,7 @@ He always had the sharpest goddamn verbal knives.
 
 “...And you?”
 
-“I’ll jus’ say I once got bitch-slapped by a scotsman less’n half my size, even after I broke six of his ribs. The fuckin’ *bastard!*”
+“I’ll jus’ say I once got bitch-slapped by a scotsman less’n half my size, even after I broke six of his ribs. The fuckin’ *bastard!”*
 
 Adam choked out a laugh. “God, that was a while ago. You were only eight feet tall then!”
 
@@ -3074,7 +3074,7 @@ Well, at least he had comms. He twisted the dial to TACNET Guard 7700 and keyed 
 
 They didn’t keep him waiting. He’d barely finished calling than the reply came through.
 
-*“SWIFTEYE-ONE-SIX, UPSS Caledonia, we hear you. Please confirm number of souls on board?”
+*“SWIFTEYE-ONE-SIX, UPSS Caledonia, we hear you. Please confirm number of souls on board?”*
 
 “Just one,” Gumi keened despite himself as a fresh stab of agony shot through his entire body. “One soul aboard SWIFTEYE-ONE-SIX.”
 
@@ -3110,9 +3110,9 @@ ___
 
 **++0311++:** I did so in accordance with standing order—
 
-*++0004++:** < Interruption > I know. And I commend you for your diligence and caution. You did the right thing. Dismissed.
+**++0004++:** < Interruption > I know. And I commend you for your diligence and caution. You did the right thing. Dismissed.
 
-**++0311++:* < Relief; gratitude > Yes, Four.
+**++0311++:** < Relief; gratitude > Yes, Four.
 
 ***+SYSTEM NOTIFICATION: USER 0311 HAS DISCONNECTED+***
 
@@ -4323,7 +4323,7 @@ Julian dozed rather than sleep. That was his whole night, actually: Half-conscio
 
 And, spoiling whatever sleep he *did* get, a recurring nightmare vision.
 
-*He’s in the woods out back of grandpa’s house, out at the low spot with the culvert the beavers *always* come back to and dam up each year no matter what they do. He’s watching his grandpa work, wondering at how a wiry old man can work so long and so hard tearing apart a dam with not much more than a digging bar and his bare hands. The memory is an old one, stuck in his head his whole life. Tonight, though, it ends when Julian looks up and sees the sky turning a terrible burning red from horizon to horizon—*
+*He’s in the woods out back of grandpa’s house, out at the low spot with the culvert the beavers always come back to and dam up each year no matter what they do. He’s watching his grandpa work, wondering at how a wiry old man can work so long and so hard tearing apart a dam with not much more than a digging bar and his bare hands. The memory is an old one, stuck in his head his whole life. Tonight, though, it ends when Julian looks up and sees the sky turning a terrible burning red from horizon to horizon—*
 
 Grumbled, fidget, half-turn, and the dream looped over from the beginning, then again, and a third time that finally woke him to the gray light of the new day starting to creep in around the edge of the blind.
 
