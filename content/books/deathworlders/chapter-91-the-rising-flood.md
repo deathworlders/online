@@ -213,13 +213,13 @@ Time to say it.
 
 Well. Shit.
 
-“So…next couple-few years I oughta really get my Claire and my kids somewhere safe.”
+“So…next couple-few years I oughta really get Claire and our kid somewhere safe.”
 
-“Kids?”
+“Kid? Since when?!”
 
-“Yup. Got the positive test last week. So number two on the way, hopefully.”
+Hoeff grinned. “Got the positive test last week.”
 
-“Congratulations, man. But you know, that means you’ve *really* got something to do this for. ‘Cuz you know as well as I do, we can’t just bubble up and ignore the bad guys. ‘Cuz they’re not gonna stop until we’re *gone.”*
+“Congratulations, man! But you know, that means you’ve *really* got something to do this for. ‘Cuz you know as well as I do, we can’t just bubble up and ignore the bad guys. ‘Cuz they’re not gonna stop until we’re *gone.”*
 
 “I know.” Hoeff nodded, grimly. “Not much point in savin’ people from Earth if they just burn here in the end, is there?”
 
