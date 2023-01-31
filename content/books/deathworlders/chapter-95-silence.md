@@ -1011,6 +1011,50 @@ Not surprising, therefore, that he slept all the way to town. A little rest befo
 So he joined them. Found his place in the mass of bodies, joined the line, lit a candle, thought and *felt…*
 
 And knew he was where he needed to be.
+___
+
+**Date Point: 4 hours 15 minutes to zero hour**    
+**UPSS** ***Meskwaki,*** **outer Sol system**
+
+***Lieutenant Sinikka Anderson***
+
+“Contact in T minus two minutes.”
+
+There was one last hope for the Earth, though…not really. The Guvnurag scientists who’d invented the system shield technology had said that the field *did* have weaknesses and limits, and that a collimated exploding star would almost certainly defeat the Sol Containment Barrier…
+
+*‘Almost certainly’* was not enough to gamble billions of lives on, so the evacuation had gone ahead as though the barrier would definitely fail. But there was just enough doubt there for the navy to send one patrol boat to keep an eye on the barrier. As a superluminal phenomenon, it’d pop like a bubble the instant it failed…or maybe, just maybe, it would not.
+
+“Contact in T minus sixty seconds.”
+
+Anderson personally knew a hedge when she saw one. The engineers knew what they were about, if it said it’d fail, then it’d fail. Miracle notwithstanding.
+
+She wasn’t sure she believed in miracles. Or at least…not that kind of miracle.
+
+“T minus thirty seconds.”
+
+Even so…she flexed her knuckles nervously, and prayed. Please, Lord…if now was ever the time…
+
+“Ten…nine…eight…seven…six…five seconds…four…three…two…one…”
+
+The barrier was incomprehensibly huge, and all but invisible. It absorbed less than ten percent of all the radiation that passed through it, and reflected nothing, making it basically impossible to see with the naked eye, usually.
+
+Now, for a brief moment, Anderson got to understand the sheer mind-bending *scale* of a sphere larger than Neptune’s orbit. For a second or two, the *Meskwaki* was not hanging in the featureless void of deep planetary space, but was instead above an endless, perfectly flat plane of seething white and crackling lightning that seemed to stretch away to an infinite horizon.
+
+Not flat. Not infinite. Just larger than the human eye could process. And so *bright,* even through cockpit glass that could let them stare down onto the surface of the sun if they wanted, that she had to squint and grit her teeth.
+
+Then it was gone.
+
+“...Sensors?”
+
+“No signature.”
+
+“Launch probe.”
+
+It flashed away. Twenty seconds later, it continued to vanish off into the far distance rather than crunching into an invisible barrier of solid force.
+
+Anderson sighed, and grabbed the microphone to make her report back to the admiral.
+
+The Containment Field was gone. And with it, so went Earth’s last hope.
 
 ___
 
