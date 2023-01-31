@@ -155,7 +155,7 @@ And she’d keep doing it right up until the end.
 
 ___
 
-****Date Point: T minus 5 days 3 hours to zero hour**    
+**Date Point: T minus 5 days 3 hours to zero hour**    
 **Taurus-Littrow Valley, Luna, Sol**
 
 ***Ian (Death-Eye) Wilde***
@@ -298,7 +298,7 @@ Vemik’s ears flicked up. “Really?!”
 
 “I want to save everything here. We’re going to have to work hard to get it all down to the van…”
 
-Nomuk hooted from the door, having caught up. “Is why you bring us! Would be here faster if *Tom-*son was not so squirmy…”*
+Nomuk hooted from the door, having caught up. “Is why you bring us! Would be here faster if *Tom-* son was not so squirmy…”*
 
 “Oi! How often you get pulled up a fifty story building by a fuck-off huge talking gorilla! It’s--*hnngh!”*
 
