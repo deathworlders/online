@@ -5,7 +5,9 @@ author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point: 1 day After Earth**    
 **Watcher’s Grave, uncharted space**
+
 ***Zero***
+
 “They have definitely surveilled Key, that is unmistakable.”
 
 “Has Hierarchy properly detected them?”
@@ -579,7 +581,7 @@ Slightly awkward goodbye hug, which turned a little playful when Adam tried to s
 
 “Nah. Ain’t gettin’ away from *these* babe-hooks ‘till I say so!” Arms tightened, breath *smashed* right out of him. No worries, it was all in good fun. Besides, pretty-dude was the penultimate HEAT operator these days, so it wasn’t like Adam could say otherwise. Might get beaten up and have his lunch money stolen, too. Ha! 
 
-They only sparred for fun, because Adam was basically *helpless against Playboy these days. He was dense and tough like Hoeff, but taller and much heavier still, with a far more usefully athletic shape. He *looked* like a faultless Hero, and he *was.* Against a functional physique like that, skill and experience hardly mattered. His only real peer was his best bud Vemik.
+They only sparred for fun, because Adam was basically helpless against Playboy these days. He was dense and tough like Hoeff, but taller and much heavier still, with a far more usefully athletic shape. He *looked* like a faultless Hero, and he *was.* Against a functional physique like that, skill and experience hardly mattered. His only real peer was his best bud Vemik.
 
 Honestly, Adam was fuckin’ *proud* of them both.
 
@@ -705,7 +707,7 @@ Now Adam couldn’t even heft him on Akyawentuo. What good was he anymore?
 
 “Shit, did it really? I mean, I’m just a guy. A guy that can’t hack it on the team anymore.”
 
-“No, you fuckin’ ain’t. Firs’ly, save for ‘yer injury *you got saving us all* an’ *fuckin’ civilization* along with it---ain’t even th’ first time you pulled that shit, ‘member? Savin’ all that, you’d *still* be one o’ the best on th’ team. Don’t worry ‘bout my mutant bullshit. I can’t help that an’ neither can you. An’ heart *fuckin’ matters. “
+“No, you fuckin’ ain’t. Firs’ly, save for ‘yer injury *you got saving us all* an’ *fuckin’ civilization* along with it---ain’t even th’ first time you pulled that shit, ‘member? Savin’ all that, you’d still be one o’ the best on th’ team! Don’t worry ‘bout my mutant bullshit. I can’t help that an’ neither can you. An’ heart *fuckin’ matters."*
 
 “I guess…”
 
@@ -1024,7 +1026,7 @@ He was therefore no longer confident in the archived soldiers. They would have t
 
 Tempting, therefore, to add every weapon they had. *If* the goal was slavish maintenance of the status quo.
 
-*“‘Taken,’*” he said aloud. “Yes. The idea has taken my mind, just like an invasion force. And I cannot shake it. They have done *so much,* Dusk. Created so much that is unprecedented, and shown us that what *we* have created was insufficient to its task. If we do not convince them to join with us, then we shall lose all of that, when instead it could be turned toward greater ends.”
+*“‘Taken,’”* he said aloud. “Yes. The idea has taken my mind, just like an invasion force. And I cannot shake it. They have done *so much,* Dusk. Created so much that is unprecedented, and shown us that what *we* have created was insufficient to its task. If we do not convince them to join with us, then we shall lose all of that, when instead it could be turned toward greater ends.”
 
 He turned away from the window that let him look down on the stirring output of their army, and looked her square in her central eye. After a pulse or two, she blinked and looked away.
 
@@ -1310,7 +1312,7 @@ It was the perfect way to pass the time.
 
 ___
 
-**Starship** ***Dawnlight,** **Ekallim-Igigi, New Uruk system**
+**Starship** ***Dawnlight,*** **Ekallim-Igigi, New Uruk system**
 
 ***Y!’kiidaa***
 
@@ -1412,7 +1414,7 @@ Then he couldn’t.
 
 *Now* they had to worry about leaving trace. Broken branches and soft needle litter could carry a track, and even if those tracks were covered…
 
-Humans couldn’t see the light-way by themselves. But they *did* know about it, called it *‘polar-eye*-zay-*shun,’* and had made glasses that could let them see it pretty good. And with the right *pro-*gramming, their drones and cameras could see it so well, they could see where a man had covered his trail by the pattern it made in the light-way. Learning how to cover a trail without leaving *that* sign had been a big team effort.
+Humans couldn’t see the light-way by themselves. But they *did* know about it, called it *‘polar-eye*-zay-*shun,’* and had made glasses that could let them see it pretty good. And with the right *pro*-gramming, their drones and cameras could see it so well, they could see where a man had covered his trail by the pattern it made in the light-way. Learning how to cover a trail without leaving *that* sign had been a big team effort.
 
 Little things. Always the little things. *Details.* Beek had known some of that before, of course—you had to be aware of little things like branch-creak and wind-taste when hunting werne. But to be a JETS man, you had to master details that nobody else would even think existed. You had to be the *best* hunters.
 
@@ -1632,7 +1634,7 @@ ___
 
 **Thump**
 
-The deck shook as Dora launched the next drone, and Hoeff watched it streak toward the very edge of their superluminal sensor range at speeds that simply didn’t fit in the head. The very bleeding edge fusion of gaoian and Singularity technology, and the *Stray Fortune*’s vast cargo capacity was filled to the gills with ‘em.
+The deck shook as Dora launched the next drone, and Hoeff watched it streak toward the very edge of their superluminal sensor range at speeds that simply didn’t fit in the head. The very bleeding edge fusion of gaoian and Singularity technology, and the *Stray Fortune’s* vast cargo capacity was filled to the gills with ‘em.
 
 Once upon a time, there’d been a ship called *Sanctuary* that utterly smashed the speed record for interstellar travel. It had been little more than a vast reactor core with a warp drive and a tiny habitation section stuck on the equator, granting it a power-to-mass ratio unrivaled by anything before or since.
 
@@ -1799,7 +1801,7 @@ ___
 
 **Key World**
 
-***Zero**
+***Zero***
 
 Poise died first. The last transmission he ever sent was a shocked gasp.
 
@@ -1841,7 +1843,7 @@ He pulled off his helmet. Blinked, and his armor sloughed off.
 
 Behind him was the ancient trickster gaoian in black and white. He too stepped out of his armor and stood much the same, sleek and powerful in glossy black fur. Yet even then, he was barely a cub standing in the shadow of the new lord of the galaxy.
 
-The most incongruous presence was the hologram of an unarmored human female. Of the three, she—*it*—was by far the most dangerous.
+The most incongruous presence was the hologram of an unarmored human female. Of the three, she—it—was by far the most dangerous.
 
 But also, here, the most vulnerable. They needed something. Something from him.
 
@@ -2069,7 +2071,7 @@ Daar *snarled,* saliva dripping off his enormous bared gangs, and all his claws�
 
 …And the claws of his left paw sank straight into Keeda’s chest. He coughed, and blood bubbled from his lips.
 
-“But we’ll *never know,* ‘cuz when the stakes were *highest,* you din’t keep *‘yer friends an’ kings* in on ‘yer plans! Years o’ plannin’! At any time ‘ya coulda told us! *Why?!* Were you afraid you’d lose ‘yer chance for, what? Revenge? Justice? As if we’d deny you that! You, of all of us! But no. Instead of *trustin’* us to trust *you,* you took matters into ‘yer own paws. Instead o’ doin’ th’ right thing, ‘ya gambled wit’ the fate o’ the* entire fuckin’ galaxy* an’ betrayed us *all.* An’ it weren’t for any noble reason, no. ‘Ya did it ‘fer a personal grudge.”
+“But we’ll *never know,* ‘cuz when the stakes were *highest,* you din’t keep *‘yer friends an’ kings* in on ‘yer plans! Years o’ plannin’! At any time ‘ya coulda told us! *Why?!* Were you afraid you’d lose ‘yer chance for, what? Revenge? Justice? As if we’d deny you that! You, of all of us! But no. Instead of *trustin’* us to trust *you,* you took matters into ‘yer own paws. Instead o’ doin’ th’ right thing, ‘ya gambled wit’ the fate o’ the *entire fuckin’ galaxy* an’ betrayed us *all.* An’ it weren’t for any noble reason, no. ‘Ya did it ‘fer a personal grudge.”
 
 Daar made a strange sound in his throat, then expectorated a load of mucus across Keeda’s entire face. “You *threw* ‘yer legacy away wit’ the biggest lie ever told by a gao.” He let go. Kiidaa dropped to the ground like a sack of meat, with blood pouring through his fur and a soundless mask of agony upon his face.
 
