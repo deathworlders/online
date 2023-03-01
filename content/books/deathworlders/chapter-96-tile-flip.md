@@ -106,7 +106,6 @@ They had a duty to the future.
 
 ___
 
-
 ***Gilgamesh, Emperor of Mankind***
 
 “Begin.”
@@ -206,7 +205,6 @@ The words brought comfort. The ritual brought steadiness and peace. He was ready
 And he had no doubts whatsoever that they would.
 
 ___
-
 
 **Date Point: 3 days After Earth**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -943,7 +941,6 @@ He went in the bottle. There was a clonk, the sound of the techs arming it, a fa
 
 ___
 
-
 **Date Point 1 week After Earth**    
 **Starship** ***Turkeyholic,*** **uncharted space**
 
@@ -997,9 +994,9 @@ It was going to be a very long and very cold wait for what came next…
 
 ___
 
-
 **Date Point: 1 week, 1 day After Earth**    
 **Watcher’s Grave, uncharted space**
+
 ***Zero***
 
 “I still don’t really believe you when you say the assault could already be underway. We would *know,* surely?”
@@ -1374,7 +1371,6 @@ He would see to that personally.
 
 ___
 
-
 **Date Point 1 week 2 days After Earth**    
 **Key world, the distant stars**
 
@@ -1500,6 +1496,7 @@ The invasion began.
 ____
 
 **Starship** ***Dawnlight,*** **jumping into battle**
+
 ***Alex, King of Lucent***
 
 To look at the tactical display and see *every one* of the United Peoples’ ships was…humbling. He hadn’t really appreciated just how many they had, until this moment.
@@ -1833,7 +1830,7 @@ The great leaders assembled in, once everything was secure and their victory com
 
 *Thump, thump, thump.*
 
-The door wasn’t nearly wide enough. He simply pushed through as if it were tissue paper. The beautiful inlaid stonework crumbled under every step.
+The doorframe wasn’t nearly wide enough. He simply pushed through as if it were tissue paper. The beautiful inlaid stonework of the floor crumbled under his every step.
 
 Here, was a being of *power.* All forms of it, all senses of the word in absolute maximal expression. Even his very *gait* radiated a kind of utter dominance that Zero simply could not ignore. Everyone’s attention drew toward him.
 
@@ -1931,7 +1928,7 @@ They all nodded. They were *listening,* by all that was holy and ineffable!
 
 “The implants,” Gilgamesh mused. “They are not just for Hierarchy agents.”
 
-“Correct.” Zero sighed. “Understand, we did not desire this. We debated our course of action for literally centuries. At this point in our civilization, lifespans were indefinite, memory and cognition was incorruptible, bodies could be renewed and replaced at a whim. Our people numbered less than two million, because we were all but gods in our own right and counted whole solar systems as our individual, private homes. What you see before you is a much, much reduced version of my former glory, and that was deliberate. The superbeing which preceded me was the first to sacrifice himself to Legion. I am a personality in continuity with, but *distinct* from that man. All my kind walked willingly into Legion, as we would not demand of the galaxy what we would not do ourselves. What remains of us here are…administrators, if you will. Mere shadows of our greatness, tasked with maintaining the Great Work.”
+“Correct.” Zero sighed. “Understand, we did not desire this. We debated our course of action for literally centuries. At this point in our civilization, lifespans were indefinite, memory and cognition was incorruptible, bodies could be renewed and replaced at a whim. Our people numbered less than two million, because we were all but gods in our own right and counted whole solar systems as our individual, private homes. What you see before you is a much, much reduced version of my former glory, and that was deliberate. The superbeing which preceded me was the first to sacrifice himself to Legion. I am known as Zero, a personality in continuity with, but *distinct* from that man. All my kind walked willingly into Legion, as we would not demand of the galaxy what we would not do ourselves. What remains of us here are…administrators, if you will. Mere shadows of our greatness, tasked with maintaining the Great Work.”
 
 “And the *end* of that great work is…?'' The other giant gaoian, the trickster-god of his people, was staring at the daemon with his nose twitching, as though he could somehow smell a hologram. How much did he really know? How much did he suspect?
 
@@ -1965,7 +1962,7 @@ The daemon stared back. “We survive.”
 
 Yan looked at him. “We know what we are. You say, because of our strength, we may one day endanger *all* sky-tribes? Just by living?”
 
-“Had you been left alone in your forest, no. Probably not. Now that you *are* a sky-tribe, it is inevitable. Yours is a *magnificently* alive people, and you burn all the brighter for being bound to your sky-friends. The three of you are joined in a competitive partnership of excellence, a positive feedback loop that cannot fail to capture *their* attention once it passes a certain threshold….and *that—”* he pointed at the Entity again “—is a preview of your futures. A mind that touches multiple realms of reality. Its existence now is…is an ember atop dry kindling. Just by being what it is, it threatens to ignite a conflict we cannot win.”
+“Had you been left alone in your forest, no. Probably not. Now that you *are* a sky-tribe, it is inevitable. Yours is a *magnificently* alive people, and you burn all the brighter for being bound to your sky-friends. The three of you are joined in a competitive partnership of excellence, a positive feedback loop that cannot fail to capture *their* attention once it passes a certain threshold…and *that—”* he pointed at the Entity again “—is a preview of your futures. A mind that touches multiple realms of reality. Its existence now is…is an ember atop dry kindling. Just by being what it is, it threatens to ignite a conflict we cannot win.”
 
 “That conflict is coming anyway, no matter what we do,” Gilgamesh pointed out. “Our galaxies are destined to collide.”
 
@@ -2039,7 +2036,7 @@ Then his blazing amber eyes snapped up and *skewered* Keeda.
 
 “...You *lied* to me,” the Great Father accused. “About th’ entire mission.”
 
-For a moment, even Zero felt his authority in full, as though he himself were a gaoian youngling and couldn’t help but be *ruled* by this creature. That he felt such things across millions of years of evolution, from an alien creature? It must have been a true ordeal for Keeda. *Everyone* left in the room backed away. But through an obviously immense personal effort, through the intimidation of strength and the dominance of charisma…Keeda looked him in the eye and held his back straight.
+For a moment, even Zero felt his authority in full, as though he himself were a gaoian youngling and couldn’t help but be *ruled* by this beast of a king. That he felt such things across millions of years of evolution, from an alien creature? It must have been a true ordeal for Keeda. *Everyone* left in the room backed away. But through an obviously immense personal effort, through the intimidation of strength and the dominance of charisma…Keeda looked him in the eye and held his back straight.
 
 “I’m the only one who could.” He replied, heavily. “Sometimes, a lie is necessary. And do not go heaping blame on my dear friend Gilgamesh. I lied to him too.”
 
@@ -2059,7 +2056,9 @@ He took a sniff that seemed to last forever.
 
 Gilgamesh made to intervene but the Great Father *snarled* from the depths of his soul. No being present was so foolish as to come between the god of the galaxy and his prey.
 
-“I grew up admirin’ you,” Daar said, at last. “Not unreservedly. Not wit’out thought. But not once *ever* did I or *anyon’* think o’ you as *anythin’* but worthy. Then we met you ‘fer real. We learned what you did ‘fer us! You were a light to our people! Saved our spirit from death at th’ hands o’ these evil shits! You were the best of us! What we were meant to be!”
+Those amber eyes refocused on Keeda.
+
+“I grew up admirin’ you,” Daar said, at last. “Not unreservedly. Not wit’out thought. But not once *ever* did I or *anyon’* think o’ you as *anythin’* but worthy. Then we met you ‘fer real. We learned what you did ‘fer us! You were a light to our people! Saved our peoples' spirit from death at th’ hands o’ these evil shits! You were the best of us! What we were meant to be!”
 
 Daar *keened,* keened from the depth of his soul. “You were my *friend.”*
 
@@ -2067,11 +2066,11 @@ Keeda shut his eyes.
 
 “It ain’t that ‘ya unnermined me an’ yer king. It ain’t that you robbed us of any time or opportunity to take counsel, to think things through. Mebbe ‘ya truly knew it all, knew it all along. Mebbe ‘yer even right. Mebbe it *had* ‘ta end like this.”
 
-Daar *snarled,* saliva dripping off his enormous bared gangs, and all his claws…extended. Over twenty centimeters of razor-sharp death showed themselves on his free right paw. Even longer claws on his feet dug Into the stone floor like soft gel…
+Daar *snarled,* saliva dripping off his enormous bared fangs, and all his claws…extended. Over twenty centimeters of razor-sharp death showed themselves on his free right paw. Even longer claws on his feet dug into the stone floor like soft gel…
 
 …And the claws of his left paw sank straight into Keeda’s chest. He coughed, and blood bubbled from his lips.
 
-“But we’ll *never know,* ‘cuz when the stakes were *highest,* you din’t keep *‘yer friends an’ kings* in on ‘yer plans! Years o’ plannin’! At any time ‘ya coulda told us! *Why?!* Were you afraid you’d lose ‘yer chance for, what? Revenge? Justice? As if we’d deny you that! You, of all of us! But no. Instead of *trustin’* us to trust *you,* you took matters into ‘yer own paws. Instead o’ doin’ th’ right thing, ‘ya gambled wit’ the fate o’ the *entire fuckin’ galaxy* an’ betrayed us *all.* An’ it weren’t for any noble reason, no. ‘Ya did it ‘fer a personal grudge.”
+“But we’ll *never know,* ‘cuz when the stakes were *highest,* you din’t keep *‘yer friends an’ kings* in on ‘yer plans! Years o’ plannin’! At any time ‘ya coulda told us! *Why?!* Were you afraid you’d lose ‘yer chance 'fer, *what?!* Revenge? Justice? As if we’d deny you that! You, of all of us! But no. Instead of *trustin’* us to trust *you,* you took matters into ‘yer own paws. Instead o’ doin’ th’ right thing, ‘ya gambled wit’ the fate o’ the *entire fuckin’ galaxy* an’ betrayed us *all.* An’ it weren’t for any noble reason, no. ‘Ya did it ‘fer a personal grudge.”
 
 Daar made a strange sound in his throat, then expectorated a load of mucus across Keeda’s entire face. “You *threw* ‘yer legacy away wit’ the biggest lie ever told by a gao.” He let go. Kiidaa dropped to the ground like a sack of meat, with blood pouring through his fur and a soundless mask of agony upon his face.
 
@@ -2079,7 +2078,7 @@ Daar flicked the blood from his paw. “Someone save this puny fuck’s life.”
 
 Gilgamesh said nothing. Instead he stepped forward and touched his millennia-old companion on the shoulder. An instant later, there was a black flash and a **thump** of inrushing air, and Keeda was gone.
 
-The human emperor straightened expression darkened. “He will not have been alone in this. I have housecleaning.”
+The human emperor straightened up and his expression darkened. “He will not have been alone in this. I have housecleaning.”
 
 Daar nodded. “I believe you do. An’ we must figger out what comes next, without our friend.”
 
@@ -2095,7 +2094,7 @@ Zero exhaled, having not even been aware that he was holding his breath. “…Y
 
 “Oh, you need not worry about *that…”*
 
-“Right.” Daar took a big breath, let it out, and with it seemed to go much of the evil tension in the moment. “Mebbe…th’ comin’ days o’ learnin’ might yet redeem Y!’kiidaa. So ‘fer now…”
+“Right.” Daar took a big breath, let it out, and with it seemed to go much of the evil tension in the moment. “Mebbe…th’ comin’ days o’ learnin’ might yet redeem Y!’kiidaa, or mebbe time an' reflection will soften my wrath. So ‘fer now…”
 
 Gilgamesh in turn let out a breath. “Thank you, my friend. I’d not wanted to fight you on this.”
 
@@ -2119,7 +2118,7 @@ ___
 
 ***Captain Julian (Playboy) Etsicitty***
 
-Everything hurt. He’d not held back. None of them had. All of the team was down and recovering. Yan was dead asleep in the corner. Even *Firth* was taking some rest, lying flat on his back while the techs shoved *things* into their depleted biolabs and pressed recovery nutrition “porridge” pouches into their hands.
+Everything hurt. He’d not held back. None of them had. All of the team was down and recovering, many snoring loudly inside their own helmets. Even *Firth* was taking some rest, lying flat on his back while the techs shoved *things* into their depleted biolabs and pressed recovery nutrition “porridge” pouches into their hands.
 
 They’d made a hell of a fuckin’ mess. It was a *wasteland* outside the control building, just bombed to shit in all directions. You couldn’t walk without something going crunch underfoot, be it metal or bone, and you just had to pray it was *alien* bone.
 
@@ -2129,7 +2128,7 @@ Almost like somebody wanted to pretend this had never happened. Julian was sure 
 
 So, here he’d be, for now. His duty wasn’t done. Maybe it never would be, really.
 
-But when Daar, Gilgamesh, Alex, and Yan emerged from the control center looking harrowed, armorless, but with an Igraen prisoner in toe, he knew that the worst of it was over.
+But when Daar, Gilgamesh, Alex, and Yan emerged from the control center looking harrowed, armorless, but with an Igraen prisoner in tow, he knew that the worst of it was over.
 
 The Counsels spoke with each other quietly. Julian tried not to eavesdrop, but he was only human, after all…
 
@@ -2149,7 +2148,7 @@ Naturally.
 
 “What about your prisoner, sir?”
 
-“He’s gonna be stickin’ by my side ‘fer the foreseeable future, *yijao?* Yan’s gotta head back eventually so I’d ‘preciate if ‘ya accompanied me, you an’ Righteous. Just in case.”
+“He’s gonna be stickin’ by my side ‘fer the foreseeable future, *yijao?* Yan’s gotta head back eventually so I’d ‘preciate if ‘ya accompanied me, you an’ Righteous. Jus' in case.”
 
 There was a grunt from Mount Firth as he rolled over and achieved verticality.
 
