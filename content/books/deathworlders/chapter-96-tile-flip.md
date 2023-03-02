@@ -1471,6 +1471,7 @@ ___
 **Key world, the distant stars**
 
 ***Corporal Beek High-Climber, JETS***
+
 Several things happened at once: the light on the device blinked red, and then there was the sudden definite sense that what had been a working device was suddenly *very* dead, in a way that Beek couldn’t quite define. 
 
 The second after that, there was no time to think about that because a *huge* sound came echoing up from whatever distant, unseen roots the spire in front of them had.
