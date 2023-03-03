@@ -1206,7 +1206,7 @@ Ah. “But you will be here to see what comes after. And thereby, have a keen in
 
 “Yes….” Daemon paused, thinking. “They’re connected realities, and if we somehow destroyed all the Igraen infrastructure then Dataspace would collapse and take *us* with it, which is why we’re so invested in doing this right. But at the same time, the infrastructure we’re attacking now doesn’t *generate* dataspace so much as….holds the bag open?” 
 
-She waved a hand in a complicated way when Daar gave her a blank look. “It’s the same problem I had with describing what the Relays do, language cant adequately express it. Dataspace is simply one valid configuration of the underlying fundamental, so in a sense it has always existed and *will* always exist adjacent to matterspace no matter what we do. But its *internal dimensions,* for lack of a better term, are defined by the Igraen infrastructure.”
+She waved a hand in a complicated way when Daar gave her a blank look. “It’s the same problem I had with describing what the Relays do, language can't adequately express it. Dataspace is simply one valid configuration of the underlying fundamental, so in a sense it has always existed and *will* always exist adjacent to matterspace no matter what we do. But its *internal dimensions,* for lack of a better term, are defined by the Igraen infrastructure.”
 
 Daar tilted his head at her and took an instinctive sniff, before remembering that it was a waste of time in her case. “Why bring this up now?”
 
