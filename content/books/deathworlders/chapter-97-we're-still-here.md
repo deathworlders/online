@@ -1037,7 +1037,7 @@ Vemik climbed down from the rail and sat on his tail. “It’s not about provin
 
 *“None* of the sky-tribes build their own,” Vemun pointed out. “They all import warp engines and stuff. Every ship there is, was built from parts built on, like, five different planets.”
 
-“Yes,” Vemik agreed, patiently. “That isn’t the same. There they are *opty-*mising for scale. They all have history making these things. We are still at the level of sheet metal and simple machines.”
+“Yes,” Vemik agreed, patiently. “That isn’t the same. There they are opty-mising for scale. They all have history making these things. We are still at the level of sheet metal and simple machines.”
 
 Ukusevi, who had put her tablet down to listen to their debate, decided it was time for her opinion to be known.
 
@@ -1350,7 +1350,7 @@ ___
 **Date Point: year 7 UPC**    
 **Oskar Schindler Station, Franklin, Cimbrean**
 
-***Krrkktnkk “Kirk” A’ktnnzzik’tk****
+***Krrkktnkk “Kirk” A’ktnnzzik’tk***
 
 A reunion decades in the making turned out…quite low-key, in fact. A gentle nudge in the large-arm, and a soft, almost timid “...Hey,” and when Kirk turned around.
 
@@ -1553,7 +1553,7 @@ He grinned happily, maneuvered himself through the classroom door, and Letty hal
 
 “They were *Shakespearian!”*
 
-“So you been playin’ stupid games. Now it’s time ‘fer stupid prizes. Did I mention our newest tenants are *brownies?*”
+“So you been playin’ stupid games. Now it’s time ‘fer stupid prizes. Did I mention our newest tenants are *brownies?”*
 
 “Ugh…”
 
@@ -2115,10 +2115,11 @@ Even when it was fucking with him…life was good.
 
 ___
 
-**Date Point: year 20 UPC
+**Date Point: year 20 UPC**
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Rachel “Ray” Wheeler***
+
 “Hey, Holly.”
 
 Holly Chase looked *old.* Which, of course, she was. But nothing put it in perspective for Ray quite like taking her old friend’s hand and feeling just how delicate and wrinkled and light it was.
