@@ -2498,7 +2498,7 @@ Harrison nodded at that and lapsed into silence, looking up at the sky. Which, J
 
 And yet, here they all were, standing on a grassy lawn looking up at it all. You couldn’t deny that the Igraens had picked up an engineering trick or two over their millions of years.
 
-Though, for Julian, that was arguably the lesser miracle than standing alongside his son, granddaughter and *great* grandson, all in modern uniform and all looking more-or-less the same timeless, indefinably adult age. Harrison had gone Army, and studiously avoided special operations in favor of research. 
+Though, for Julian, that was arguably the lesser miracle than standing alongside his son, granddaughter and *great* grandson, all in modern uniform and all looking more-or-less the same timeless, indefinably adult age. Harrison had gone Fleet, and studiously avoided special operations in favor of research. 
 
 He’d been out here working on *this* particular project for a long time, now. 
 
