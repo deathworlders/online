@@ -163,15 +163,23 @@ Fuckin’ *poetic.*
 
 Getting to corn had taken some doing. First was peas and legumes. **Lots** of nitrogen needed to be fixed into the nearly inorganic soil. Then came wheat in rotation, and other grasses. There they stayed until nitrogen fertilizers could be had at reasonable cost. Then they needed the right hybrids that could take the cooler but more predictable clime, and don’t even get *started* on all the drainage...
 
-Only once all that had been put into place, could the king of grains be grown. Like so much Austin had done with his life these years since Chicago, it had been a monumental gamble. Peas and beans and wheat and alfalfa for dairy was a *safe* crop rotation, and yeah, the dairy barns up on the hilltops had turned out forty *million* pounds of milk last year… 
+Only once all that had been put into place, could the king of grains be grown. Like so much Austin had done with his life in these years since Chicago, it had been a monumental gamble. Peas and beans and wheat and alfalfa for dairy was a *safe* crop rotation, and yeah, the dairy barns up on the hilltops had turned out forty *million* pounds of milk last year… 
 
-But high-production dairy cows weren’t truly at their best without corn. They need silage. It needed to be harvested still green so they could ferment the whole plant, give the girls the nutrition they needed. And besides cows destined for either meat or milk, they needed corn to feed the insatiable demand from…everything, really. Industry, hungry mouths, specialized bioplastics and biofuels for some of the weirder-yet-essential applications. So, having got his mega-farm built, into a groove, equipped and soil enriched, and his “college” farms about ready to graduate its first students, as other farms started to specialize…
+But high-production dairy cows weren’t truly at their best without corn. They need silage. It needed to be harvested still green so they could ferment the whole plant, give the girls the nutrition they needed. And besides cows destined for either meat or milk, they needed corn to feed the insatiable demand from…everything, really. Industry, hungry mouths, specialized bioplastics and biofuels for some of the weirder-yet-essential applications.
+
+So, having got his mega-farm built, into a groove, equipped and soil enriched, and his “college” farms about ready to graduate their first students, as other farms started to specialize…
 
 He’d gone all in on corn.
 
 And now, it was time to bring the harvest in. 
 
-“Congratulations, Austin,” Ramsey nodded. *Christ* he’d been a useful man to know, and a good friend to kick his ass when needed. They may not have had their adoptive father’s absurdly Heroic genetics, but they certainly admired him in spirit; both were physically powerful young men well acquainted with long, hard work and hard personal discipline. At the moment, Tristan was running errands for bin fans and broken belts and other maladies, here and there. Ramsey was here to drive a grain cart, until Jose was done with the milking for the evening. They needed every man they could get (who wasn’t a stark idiot) to get the corn in now.
+“Congratulations, Austin,” Ramsey nodded.
+
+*Christ* he’d been a useful man to know, and a good friend to kick his ass when needed. They may not have had their adoptive father’s absurdly Heroic genetics, but they certainly admired him in spirit; both were physically powerful young men well acquainted with long, hard work and hard personal discipline. Like their father, they were keen to lift everyone up around them too. A man couldn't *help* but be inspired to do better, if they measured themselves against those two! While Julian was living proof of just how much potential existed in the human race, his adopted sons were in turn proof that true, *genuine* human excellence didn't necessarily *need* Heroic genes or crazy birthrights or weird alien conspiricies.
+
+What it needed was spirit, grit, and a little help from opportunity. And while weren't exactly *unlucky* young men, in fact they were blessed in their own way...but with them, it was *normal* blessings. The two had built themselves into super-heavyweights of business and community, and literally beyond that in work and sport. There was so muh *potential* in everyone, if they could only find the will!
+
+Austin was blessed in his friends, really. Too bad they rarely got to hang out lately. At the moment, Tristan was running errands for bin fans and broken belts and other maladies, here and there. Ramsey was somehow free at the moment, and here to drive a grain cart until Jose was done with the milking for the evening. They needed every man they could get (who wasn’t a stark idiot) to get the corn in now, before Cimbrean's ever-present precipitation rot it all in the field.
 
 Fortunately, manpower wasn’t an issue. There were a lot of guys on stasis work contracts—come out of the bag, do some seasonal work, go back in the bag. Hell of a thing, Austin thought. He wasn’t sure he’d want to live like that. But those guys were helping with resource pressure by not eating while in stasis; solar and nuclear power was basically free, but carbs and good protein were precious manna. And they were racking up a lot of money too, so by the time they came out of storage permanently in a few years, they’d be well set up.
 
