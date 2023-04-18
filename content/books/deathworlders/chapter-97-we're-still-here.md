@@ -12,9 +12,9 @@ author: "Philip R. Johnson (Hambone)"
 
 The kids trotted out a series of vague comments like *‘pretty good’* or *‘yeah’* or whatever as they filed into the classroom and took their desks. This session was an all-human class: Letty had the mixed freshman group after lunch, which included a small cadre of ten’gewek on study-abroad for the end of the day.
 
-They would be helping with a trade skills workshop later in the year, too. The first part was getting used to their new bestest most breakable-est friends.
+They would be helping with a trade skills workshop later in the year, too. The first part was getting used to their new bestest most breakable-est friends. Even with Heroes among them, very young ten'gewek were *something else.*
 
-Teenage performative indifference aside, the energy was pretty eager to learn. Letty prided herself that she taught an *interesting* history class, though she also had to admit that she was kinda helped by the subject matter. Lately, they’d been covering the stuff that had happened in living memory, the Igraen War and the founding of the United Peoples. Stuff half the class had been alive for, or at least in stasis.
+Teenage performative indifference aside, the energy was pretty eager to learn. Letty prided herself that she taught an *interesting* history class, though she also had to admit that she was kinda helped by the subject matter. Lately, they’d been covering the stuff that had happened in living memory: the Igraen War and the founding of the United Peoples. Stuff which half the class had been alive for, or at least in stasis.
 
 It was sadly still all too easy to spot the pre-war kids from their post-war counterparts. Same subjective personal age, but there was a shroud of trauma hanging over the “older” kids she knew all too intimately.
 
@@ -43,7 +43,7 @@ He was…human, now. This was his body, indefinitely. There had been some talk o
 
 Neither was quite true. Instead, the two personalities eventually merged. Six was Flowers was Six. Though, he still thought of himself as Six and fancied himself a better person than Flowers had been. Flowers had been a lecherous serial adulterer and penny-pincher who’d much rather lure an impressionable girl onto his boat with promises he never intended to keep than settle for a committed family life.
 
-Of course, he hadn’t committed serial genocide, either. 
+Of course, he hadn’t ever committed serial *specicide,* either.
 
 In any case, Six was…free. Mostly. He was allowed to travel as he saw fit, invest, seek employment. Dabble in romance, though he found himself…valuing his solitude. So far, there hasn’t been much luck.
 
@@ -55,13 +55,13 @@ Right now, for instance.
 
 “History in the makin’, huh?”
 
-Six flinched. Hoeff had an infuriating ability to just…appear. Even right now, in the middle of a crowd of people, Hoeff could just sneak right up and tap Six on the shoulder. The man could break concrete underfoot with his weight, yet somehow move like a ghost when he wanted to. 
+Six flinched. Hoeff had an infuriating ability to just…appear. Even right now, in the middle of a crowd of people, Hoeff could just sneak right up and tap Six on the shoulder. The squat brick of a man was an *incomprehensibly* muscular hulk who could break concrete underfoot with nothing more than his sheer weight. He had the strength and size to humble men beyond even *Warhorse,* yet could somehow move like a blink-quick *ghost* when he wanted to. 
 
 And this in the most brightly obnoxious (and often obnoxiously minimal) clothing imaginable. He’d outdone himself today.
 
 Six cleared his throat and feigned coolness. “It certainly happens frequently, of late.”
 
-Hoeff chuckled without humor, and moved to his side, uncomfortably close enough to feel the body heat radiating off him like a blast furnace. “Any luck on the datin’ front?”
+Hoeff chuckled without humor and moved to his side, uncomfortably close enough to feel the body heat radiating off him like a blast furnace. “Any luck on the datin’ front?”
 
 “The same answer as last time: I’ve no experience, and it would be an… *unusual* woman who would remain interested after learning much about me.”
 
@@ -107,7 +107,7 @@ Six paused on the inhale. He’d been about to give another drily sarcastic repl
 
 Six nodded. “Right. So…is this the point where you explain your hot pink speedo?”
 
-Hoeff grinned. “Aww, don’t you remember? When we first met? It was such a lovely beach! Already had Claire though, so no single-man fun…”
+Hoeff grinned. “Aww, don’t you remember? When we first met? It was such a lovely beach. And lots of lovely ladies! Already had Claire though, so no single-man fun for me…buncha the team got to play, though. So there's that.”
 
 “…You are very strange.”
 
