@@ -1,7 +1,7 @@
 ---
-title: “Chapter 97: We're Still Here”
+title: "Chapter 97: We're Still Here"
 date: 2023-03-31T12:00:00+00:00
-author: “Philip R. Johnson (Hambone)"
+author: "Philip R. Johnson (Hambone)"
 ---
 **Date Point: 11th of ten-month, year 20 UPC**    
 **Mother Giymuy High School, Lavmuy, Gao**
