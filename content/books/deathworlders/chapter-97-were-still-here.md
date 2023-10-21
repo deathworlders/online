@@ -1,5 +1,5 @@
 ---
-title: “Chapter 97: We’re Still Here”
+title: “Chapter 97: We're Still Here”
 date: 2023-03-31T12:00:00+00:00
 author: “Philip R. Johnson (Hambone)"
 ---
