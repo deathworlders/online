@@ -1464,9 +1464,7 @@ The final recordings came from an advanced space telescope, purpose-commissioned
 
 All anyone could do was hold each other close and *hurt.*
 
-As the continents boiled, the white-hot plasma of Earth’s rich, life-giving atmosphere trailed away from it as a tongue of hot, angry flame. And then gained color. So many colors. They washed across the square, reflected in a thousand upturned faces, in glittering hollow eyes, glowed off a thousand sets of held hands and arms around arms and heaving shoulders, and lit the misty drizzle of Folctha’s nightly rain.
-
-It washed over faces both human and alien, colored gaoian fur and danced sympathetically across a nearby Guvnurag’s skin as he matched it hue for hue. It glowed in the white coat of an Rrrrtk with his head bowed, and gleamed in a Corti’s huge eyes as she tried, and failed, to maintain her composure.
+As the continents boiled, the white-hot plasma of Earth’s rich, life-giving atmosphere trailed away into space as a tongue of hot, angry flame...and then gained color. So many colors. They washed across the square, reflected in upturned faces, in glittering hollow eyes, off held hands and linked arms and heaving shoulders, and lit the misty drizzle of Folctha’s nightly rain. They washed over faces both human and alien, colored gaoian fur and danced sympathetically across a nearby Guvnurag’s skin as he matched them hue for hue. They glowed in the white coat of an Rrrrtk with his head bowed, and gleamed in a Corti’s huge eyes as she tried, and failed, to maintain her composure. They glittered in ten thousand tears.
 
 And it was…beautiful. Even though it made Letty’s soul groan with an agony she’d never put into words, it was beautiful, and terrible, and life-changing. That had been *home.* For better or worse, for all its troubles and hardships. There had been her whole life, until she met Jennie and Christian. Now…
 
